@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Compendium/backgrounds/acolyte-xphb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "acolyte-xphb"
             }
           }
         ]
@@ -234,15 +234,16 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false,
       "templater-obsidian:Templater": false,
       "dbfolder:Create a new database table": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "b90684e66ac63f25",
+  "active": "b74a3a1f4b57ccef",
   "lastOpenFiles": [
+    "index.md",
     "Assets/WorldAxis.jpg",
     "Assets/underdark.jpg",
     "Assets/Giant_runes.jpg",
@@ -251,7 +252,6 @@
     "Assets/generic_landscape.jpg",
     "Assets/Ankheg.png",
     "Assets/Element Symbols/Air.png",
-    "index.md",
     "Music.md",
     "Player Characters/Wyldara Rammel.md",
     "Player Characters/Tavish Ralah.md",
@@ -289,7 +289,6 @@
     "Assets/ppt9BE.tmp",
     "Assets/God Symbols/Myrk.png",
     "Assets/God Symbols/Mab.png",
-    "Assets/God Symbols/Ley.png",
     "Assets/God Symbols"
   ]
 }
