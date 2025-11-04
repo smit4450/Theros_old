@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "cfa2281929d0aa16",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9351046de923fac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b90684e66ac63f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b431ff13eec414b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dea30b006509d83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b74a3a1f4b57ccef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d37e9b3b4f8e89db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Vindheim",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fb905626b03b77ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207.5
+  },
+  "right": {
+    "id": "5493c457f27fe363",
+    "type": "split",
+    "children": [
+      {
+        "id": "896aef58b1cf6501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee3e43a74bf88ab0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d881e2eecd3774ed",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "57679822267ec9ac",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0363d2a3e9bb2e3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World Codex/Groups/The Horde.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Horde"
+            }
+          },
+          {
+            "id": "91e742f802eacac0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World Codex/Groups/The Horde.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Horde"
+            }
+          },
+          {
+            "id": "709ff9c68b4e0e38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9ef5ca359b28bd55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World Codex/Groups/The Horde.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Horde"
+            }
+          },
+          {
+            "id": "67a3a7fdcba48ccc",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "70c3e7a7d516f99f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "b90684e66ac63f25",
+  "lastOpenFiles": [
+    "index.md",
+    "Music.md",
+    "Player Characters/Wyldara Rammel.md",
+    "Player Characters/Tavish Ralah.md",
+    "Player Characters/Olisora.md",
+    "Player Characters/Ingrid.md",
+    "World Codex/Individuals/King Roderic.md",
+    "World Codex/Geography/Geography List.md",
+    "World Codex 1/Species/Orcs.md",
+    "World Codex 1/Species/Species list.md",
+    "World Codex 1/Species/Jotunbrud.md",
+    "World Codex 1/Species/Halflings.md",
+    "World Codex 1/Species/Humans.md",
+    "World Codex 1/Species/Elves.md",
+    "World Codex 1/Species/Gnomes.md",
+    "World Codex 1/Species/Dwarves.md",
+    "World Codex 1/Species/Dragonborn.md",
+    "World Codex 1/Species/Aarakocra.md",
+    "World Codex 1/Individuals/King Roderic.md",
+    "World Codex 1/Misc/Materials.md",
+    "World Codex 1/Misc/Dragon Names.md",
+    "World Codex 1/History of the world/The Founding Era.md",
+    "World Codex 1/History of the world/Timeline.md",
+    "World Codex 1/History of the world/The Cataclysmic Era.md",
+    "World Codex 1/History of the world/The Conjunction Era.md",
+    "World Codex 1/History of the world/History.md",
+    "World Codex 1/Species",
+    "World Codex 1/Individuals",
+    "World Codex 1/Misc",
+    "World Codex 1/History of the world",
+    "World Codex 1/Lore",
+    "World Codex 1/Groups",
+    "World Codex 1/Geography",
+    "World Codex 1",
+    "DM Notes/Diagram.canvas",
+    "DM Notes/Planes.canvas",
+    "Assets/ppt9BE.tmp",
+    "Assets/God Symbols/Myrk.png",
+    "Assets/God Symbols/Mab.png",
+    "Assets/God Symbols/Ley.png",
+    "Assets/God Symbols/Justice.png",
+    "Assets/God Symbols/Wanderer.png",
+    "Assets/God Symbols/Pyra_old.png",
+    "Assets/God Symbols/Pyra.png",
+    "Assets/God Symbols/Ord.png",
+    "Assets/God Symbols",
+    "Assets/Element Symbols/Fire.png",
+    "Assets/Element Symbols/Earth.png"
+  ]
+}

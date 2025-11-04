@@ -1,0 +1,100 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+
+body {
+  background-image: url("static/parchmentBackground.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.page-title {
+  font-family: var(--siteTitleFont);
+  font-size: 3rem;
+}
+
+
+@font-face {
+  font-family: "Bookinsanity";
+  src: url("static/Bookinsanity/Bookinsanity.woff2") format("woff2");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Bookinsanity";
+  src: url("static/Bookinsanity/BookinsanityBoldItalic.woff2") format("woff2");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Bookinsanity";
+  src: url("static/Bookinsanity/BookinsanityBold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Bookinsanity";
+  src: url("static/Bookinsanity/BookinsanityItalic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "MrEavesSmallCaps";
+  src: url("static/MrEaves/MrEavesSmallCaps.woff2") format("woff2");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "NodestoCapsCondensed";
+  src: url("static/NodestoCapsCondensed/NodestoCapsCondensed.woff2") format("woff2");
+  font-weight: normal;
+}
+
+// @font-face {
+//   font-family: "NodestoCapsCondensed";
+//   src: url("static/NodestoCapsCondensed/NodestoCapsCondensed-BoldItalic.woff2") format("woff2");
+//   font-weight: bold;
+// }
+
+// @font-face {
+//   font-family: "NodestoCapsCondensed";
+//   src: url("/static/NodestoCapsCondensed/NodestoCapsCondensed-Bold.woff2") format("woff2");
+//   font-weight: bold;
+//   font-style: normal;
+// }
+
+// @font-face {
+//   font-family: "NodestoCapsCondensed";
+//   src: url("static/NodestoCapsCondensed/NodestoCapsCondensed-Italic.woff2") format("woff2");
+//   font-weight: normal;
+//   font-style: italic;
+// }
+
+@font-face {
+  font-family: "ScalySansCaps";
+  src: url("static/ScalySansCaps/ScalySansCaps.woff2") format("woff2");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "ScalySansCaps";
+  src: url("static/ScalySansCaps/ScalySansCapsBoldItalic.woff2") format("woff2");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "ScalySansCaps";
+  src: url("static/ScalySansCaps/ScalySansCapsBold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ScalySansCaps";
+  src: url("static/ScalySansCaps/ScalySansCapsItalic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+}
