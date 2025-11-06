@@ -13,7 +13,7 @@ aliases: ["Mind Flayer"]
 # Mind Flayer
 *Source: Monster Manual (2024) p. 214*  
 
-![](Compendium/bestiary/aberration/img/mind-flayer.webp#right)  
+![](Compendium/bestiary/aberration/img/mind-flayers.webp#right)  
 A mind flayer's hunger for brains is outmeasured only by its thirst for dominance, and it embraces any plot that allows it to indulge both.
 
 ## Mind Flayers
@@ -21,7 +21,7 @@ A mind flayer's hunger for brains is outmeasured only by its thirst for dominanc
 *Brain-Eating Underdark Tyrants*
 
 - **Habitat.** Underdark  
-- **Treasure.** Arcana  
+- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
 
 Scattered survivors of a world-ruining, multiversal empire, mind flayers lurk in secret conclaves hidden deep within Material Plane worlds. Within their alien sanctuaries, these wicked masterminds—also known as illithids—reshape the Underdark and its inhabitants to serve their unfathomable whims. Mind flayers are feared for their psionic powers, which allow them to stun and control other creatures, and for their horrific method of feeding: using their four slimy tentacles to extract the brains of their victims.
 
@@ -32,8 +32,6 @@ Mind flayers are infamous plotters and manipulators, concocting plans that reach
 Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-spanning illithid conspiracies. In groups, mind flayers work toward bizarre agendas organized by an elder brain—a massive, brain-like being with incredible psionic powers. Without such a leader, groups of mind flayers fall to self-destructive squabbling. Roll on or choose a result from the Mind Flayer Machinations table to inspire an illithid conclave's plots.
 
 **Mind Flayer Machinations**
-
-`dice: [](mind-flayer-xmm.md#^mind-flayer-machinations)`
 
 | dice: 1d6 | The Mind Flayer Colony Seeks To... |
 |-----------|------------------------------------|
@@ -54,58 +52,64 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
 "ac": !!int "15"
 "hp": !!int "99"
 "hit_dice": "18d8 + 18"
+"modifier": !!int "4"
 "stats":
-- !!int "11"
-- !!int "12"
-- !!int "12"
-- !!int "19"
-- !!int "17"
-- !!int "17"
+  - !!int "11"
+  - !!int "12"
+  - !!int "12"
+  - !!int "19"
+  - !!int "17"
+  - !!int "17"
 "speed": "30 ft., fly 15 ft. (hover)"
 "saves":
-  "Charisma": !!int "6"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "7"
+  - "dexterity": !!int "4"
+  - "intelligence": !!int "7"
+  - "wisdom": !!int "6"
+  - "charisma": !!int "6"
 "skillsaves":
-  "Stealth": !!int "4"
-  "Insight": !!int "6"
-  "Perception": !!int "6"
-  "Arcana": !!int "7"
+  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+    "desc": "+7"
+  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+    "desc": "+6"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
 "damage_resistances": "psychic"
-"senses": "darkvision 120 ft., passive Perception 16"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 16"
 "languages": "Deep Speech, Undercommon; telepathy 120 ft."
 "cr": "7"
 "traits":
-- "desc": "The mind flayer casts one of the following spells, requiring no spell components\
-    \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\nAt\
-    \ will: [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md)\n\n1/day\
-    \ each: [Dominate Monster](Compendium/spells/dominate-monster-xphb.md), [Plane\
-    \ Shift](Compendium/spells/plane-shift-xphb.md) (self only)"
-  "name": "Spellcasting"
-- "desc": "The mind flayer has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "The mind flayer has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 22 (4d8 + 4) Psychic damage.\
-    \ If the target is a Medium or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
-    \ condition (escape DC 14) from all the mind flayer's tentacles, and the target\
-    \ has the [Stunned](Compendium/rules/conditions.md#Stunned) condition until the\
-    \ grapple ends."
-  "name": "Tentacles"
-- "desc": "Constitution Saving Throw: DC 15, one creature that is [Grappled](Compendium/rules/conditions.md#Grappled)\
-    \ by the mind flayer's Tentacles. Failure: 55 (10d10) Piercing damage. Success:\
-    \ Half damage. Failure or Success: If this damage reduces the target to 0 [Hit\
-    \ Points](Compendium/rules/variant-rules/hit-points-xphb.md), the mind flayer\
-    \ kills it and devours its brain."
-  "name": "Extract Brain"
-- "desc": "Intelligence Saving Throw: DC 15, each creature in a 60-foot [Cone [Area\
-    \ of Effect]](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). Failure:\
-    \ 31 (6d8 + 4) Psychic damage, and the target has the [Stunned](Compendium/rules/conditions.md#Stunned)\
-    \ condition until the end of the mind flayer's next turn. Success: Half damage\
-    \ only."
-  "name": "Mind Blast (Recharge 5-6)"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 22 (4d8 + 4) Psychic\
+      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 14) from all the mind flayer's tentacles, and the target\
+      \ has the [Stunned](Compendium/rules/conditions.md#Stunned) condition until\
+      \ the grapple ends."
+    "name": "Tentacles"
+  - "desc": "*Constitution Saving Throw:* DC 15, one creature that is [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ by the mind flayer's Tentacles. *Failure:* 55 (10d10) Piercing damage. *Success:*\
+      \ Half damage. *Failure or Success:* If this damage reduces the target to 0\
+      \ [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), the mind\
+      \ flayer kills it and devours its brain."
+    "name": "Extract Brain"
+  - "desc": "*Intelligence Saving Throw:* DC 15, each creature in a 60-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 31 (6d8 + 4) Psychic damage, and the target has the [Stunned](Compendium/rules/conditions.md#Stunned)\
+      \ condition until the end of the mind flayer's next turn. *Success:* Half damage\
+      \ only."
+    "name": "Mind Blast (Recharge 5-6)"
+  - "desc": "The mind flayer casts one of the following spells, requiring no spell\
+      \ components and using Intelligence as the spellcasting ability (spell save\
+      \ DC 15):\n\n**At will:** [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md)\n\
+      \n**1/day each:** [Dominate Monster](Compendium/spells/dominate-monster-xphb.md),\
+      \ [Plane Shift](Compendium/spells/plane-shift-xphb.md) (self only)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/aberration/token/mind-flayer-xmm.webp"
 ```
 ^statblock

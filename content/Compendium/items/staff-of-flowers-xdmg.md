@@ -14,8 +14,8 @@ aliases:
 ![](Compendium/items/img/staff-of-flowers.webp#right)
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
@@ -23,6 +23,6 @@ This wooden staff has 10 charges. While holding it, you can take a [Magic](Compe
 
 ## Regaining Charges
 
-The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll ``. On a 1, the staff turns into flower petals and is lost forever.
+The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll `1d20`. On a 1, the staff turns into flower petals and is lost forever.
 
 *Source: Dungeon Master's Guide (2024) p. 308*

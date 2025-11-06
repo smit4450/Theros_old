@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Armaments - Uncommon"]
+aliases:
+- Armaments - Uncommon
 ---
 # Armaments - Uncommon
 *Source: Dungeon Master's Guide (2024) p. 328* 
 
 **Armaments - Uncommon**
-
-`dice: [](armaments-uncommon-xdmg.md#^armaments-uncommon)`
 
 | dice: 1d100 | Item |
 |-------------|------|

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/rogue/soulknife
-aliases: ["Soulknife"]
+aliases:
+- Soulknife
 ---
 # Soulknife
-*[Rogue](rogue-xphb.md): Rogue Subclass*  
+*[Rogue](./rogue-xphb.md): Rogue Subclass*  
 *Source: Player's Handbook (2024) p. 135*  
 
 > [!tldr] Class and Feature Progression
@@ -19,26 +21,27 @@ aliases: ["Soulknife"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td><td class="value">⏤</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td><td class="value">⏤</td><td class="value">⏤</td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Soulknife%20(Level%203)'>Soulknife</a></td><td class="value">`D6`</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Soulknife (Level 3)' class='internal-link'>Soulknife</a></td><td class="value">`D6`</td><td class="value">4</td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td><td class="value">`D6`</td><td class="value">4</td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td><td class="value">`D8`</td><td class="value">6</td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td><td class="value">`D8`</td><td class="value">6</td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td><td class="value">`D8`</td><td class="value">6</td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td><td class="value">`D8`</td><td class="value">6</td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Soul%20Blades%20(Level%209)'>Soul Blades</a></td><td class="value">`D8`</td><td class="value">8</td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Soul Blades (Level 9)' class='internal-link'>Soul Blades</a></td><td class="value">`D8`</td><td class="value">8</td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td><td class="value">`D8`</td><td class="value">8</td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td><td class="value">`D10`</td><td class="value">8</td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td><td class="value">`D10`</td><td class="value">8</td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Psychic%20Veil%20(Level%2013)'>Psychic Veil</a></td><td class="value">`D10`</td><td class="value">10</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Psychic Veil (Level 13)' class='internal-link'>Psychic Veil</a></td><td class="value">`D10`</td><td class="value">10</td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td><td class="value">`D10`</td><td class="value">10</td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td><td class="value">`D10`</td><td class="value">10</td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td><td class="value">`D10`</td><td class="value">10</td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Rend%20Mind%20(Level%2017)'>Rend Mind</a></td><td class="value">`D12`</td><td class="value">12</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Rend Mind (Level 17)' class='internal-link'>Rend Mind</a></td><td class="value">`D12`</td><td class="value">12</td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td><td class="value">`D12`</td><td class="value">12</td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td><td class="value">`D12`</td><td class="value">12</td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td><td class="value">`D12`</td><td class="value">12</td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -75,7 +78,7 @@ If you fail an ability check using a skill or tool with which you have proficien
 
 ### Psychic Whispers (Level 3)
 
-You can establish telepathic communication between yourself and others. As a [Magic](Compendium/rules/actions.md#Magic) action, choose one or more creatures you can see, up to a number of creatures equal to your [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md), and then roll one Psionic Energy Die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can end the telepathic connection at any time (no action required).
+You can establish telepathic communication between yourself and others. As a [Magic](Compendium/rules/actions.md#Magic) action, choose one or more creatures you can see, up to a number of creatures equal to your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md), and then roll one Psionic Energy Die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can end the telepathic connection at any time (no action required).
 
 The first time you use this power after each [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you don't expend the Psionic Energy Die. All other times you use the power, you expend the die.
 
@@ -110,6 +113,6 @@ Once you use this feature, you can't do so again until you finish a [Long Rest](
 
 ### Rend Mind (Level 17)
 
-You can sweep your Psychic Blades through a creature's mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC 8 plus your Dexterity modifier and [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md)). If the save fails, the target has the [Stunned](Compendium/rules/conditions.md#Stunned) condition for 1 minute. The [Stunned](Compendium/rules/conditions.md#Stunned) target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+You can sweep your Psychic Blades through a creature's mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC 8 plus your Dexterity modifier and [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md)). If the save fails, the target has the [Stunned](Compendium/rules/conditions.md#Stunned) condition for 1 minute. The [Stunned](Compendium/rules/conditions.md#Stunned) target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 Once you use this feature, you can't do so again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you expend three Psionic Energy Dice (no action required) to restore your use of it.

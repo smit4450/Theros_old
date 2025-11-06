@@ -13,7 +13,7 @@ aliases: ["Quaggoth"]
 # Quaggoth
 *Source: Monster Manual (2024) p. 251*  
 
-![](Compendium/bestiary/monstrosity/img/quaggoth.webp#right)  
+![](Compendium/bestiary/monstrosity/img/quaggoths.webp#right)  
 For quaggoths, every fight means life or death. They battle with wild fury and do anything to survive.
 
 ## Quaggoths
@@ -36,33 +36,37 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 "ac": !!int "13"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
+"modifier": !!int "1"
 "stats":
-- !!int "17"
-- !!int "12"
-- !!int "16"
-- !!int "6"
-- !!int "12"
-- !!int "7"
+  - !!int "17"
+  - !!int "12"
+  - !!int "16"
+  - !!int "6"
+  - !!int "12"
+  - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Athletics": !!int "5"
+  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+    "desc": "+5"
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 11"
 "languages": "Undercommon"
 "cr": "2"
 "traits":
-- "desc": "While [Bloodied](Compendium/rules/variant-rules/bloodied-xphb.md), the\
-    \ quaggoth has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on\
-    \ attack rolls."
-  "name": "Bloodied Fury"
+  - "desc": "While [Bloodied](Compendium/rules/conditions.md#Bloodied), the quaggoth\
+      \ has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack\
+      \ rolls."
+    "name": "Bloodied Fury"
 "actions":
-- "desc": "The quaggoth makes two Claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage,\
-    \ or 13 (3d6 + 3) Slashing damage if the quaggoth is [Bloodied](Compendium/rules/variant-rules/bloodied-xphb.md)."
-  "name": "Claw"
+  - "desc": "The quaggoth makes two Claw attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing\
+      \ damage, or 13 (3d6 + 3) Slashing damage if the quaggoth is [Bloodied](Compendium/rules/conditions.md#Bloodied)."
+    "name": "Claw"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/monstrosity/token/quaggoth-xmm.webp"
 ```
 ^statblock

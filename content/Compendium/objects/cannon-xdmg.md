@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-object
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/large
 - ttrpg-cli/object/type/siege-weapon
-aliases: ["Cannon"]
+aliases:
+- Cannon
 ---
 # Cannon
 %%-- Embedded content starts on the next line. --%%
@@ -29,6 +31,6 @@ title: Cannon
 
 ## Actions
 
-***Cannonball (Requires Load and Aim).*** *Ranged Attack:* `+6`, range 600/2,400 ft. *Hit:* 44 (`8d10`) Bludgeoning damage.
+***Cannonball (Requires Load and Aim).*** *Ranged Attack Roll:* `+6`, range 600/2,400 ft. *Hit:* 44 (`8d10`) Bludgeoning damage.
 ```
 ^statblock

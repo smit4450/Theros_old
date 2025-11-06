@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Chapter 2: Creating a Character"]
+aliases:
+- Chapter 2: Creating a Character
 ---
 # Chapter 2: Creating a Character
 *Source: Player's Handbook (2024), p. 33* 
@@ -320,7 +322,7 @@ Your class and Constitution modifier determine your Hit Point maximum at level 1
 
 ![Level 1 Hit Points by Class](Compendium/tables/level-1-hit-points-by-class-xphb.md)
 
-The character sheet includes room to note your current Hit Points when you take damage, as well as any [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) you might gain. There's also space to track [Death Saving Throw](Compendium/rules/variant-rules/death-saving-throw-xphb.md).
+The character sheet includes room to note your current Hit Points when you take damage, as well as any [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) you might gain. There's also space to track [Death Saving Throws](Compendium/rules/variant-rules/death-saving-throw-xphb.md).
 
 ##### Hit Point Dice
 
@@ -338,9 +340,9 @@ Without armor or a shield, your base [Armor Class](Compendium/rules/variant-rule
 
 In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon's property says otherwise:
 
-<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Strength modifier</span>
+<span class='abilityAttackMod'>**Melee attack modifier**: Strength + Proficiency Bonus</span>
 
-<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Dexterity modifier</span>
+<span class='abilityAttackMod'>**Ranged attack modifier**: Dexterity + Proficiency Bonus</span>
 
 Look up the damage and properties of your weapons in "chapter 6". You add the same ability modifier you use for attacks with a weapon to your damage rolls with that weapon.
 
@@ -348,9 +350,9 @@ Look up the damage and properties of your weapons in "chapter 6". You add the sa
 
 Note both the saving throw DC for your spells and the attack bonus for attacks you make with them, using these formulas:
 
-<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Spellcasting modifier</span>
+<span class='abilityDc'>**Spell save DC**: Spellcasting + Proficiency Bonus</span>
 
-<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Spellcasting modifier</span>
+<span class='abilityAttackMod'>**Spell attack modifier**: Spellcasting + Proficiency Bonus</span>
 
 Your spellcasting ability modifier for a spell is determined by whatever feature gives you the ability to cast the spell.
 

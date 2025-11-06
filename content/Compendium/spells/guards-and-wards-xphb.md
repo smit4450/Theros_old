@@ -10,8 +10,6 @@ tags:
 - ttrpg-cli/spell/subclass/abjurer
 classes:
 - Bard
-- Bard
-- Wizard
 - Wizard
 - Wizard (Abjurer)
 aliases: ["Guards and Wards"]
@@ -22,8 +20,8 @@ aliases: ["Guards and Wards"]
 
 - **Casting time:** 1 hour
 - **Range:** Touch
-- **Components:** V, S, a silver rod worth 10+ GP
-- **Duration:** 24 hour
+- **Components:** V, S, M (a silver rod worth 10+ GP)
+- **Duration:** 24 hours
 
 You create a ward that protects up to 2,500 square feet of floor space. The warded area can be up to 20 feet tall, and you shape it as one 50-foot square, one hundred 5-foot squares that are contiguous, or twenty-five 10-foot squares that are contiguous.
 
@@ -55,6 +53,6 @@ Place one of the following magical effects within the warded area:
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Abjurer)](list-spells-classes-wizard-xphb-abjurer-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 282. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

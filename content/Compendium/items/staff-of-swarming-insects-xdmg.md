@@ -15,8 +15,8 @@ aliases:
 ![](Compendium/items/img/staff-of-swarming-insects.webp#right)
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
@@ -24,7 +24,7 @@ This staff has 10 charges.
 
 ## Insect Cloud
 
-While holding the staff , you can take a [Magic](Compendium/rules/actions.md#Magic) action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you. The insects remain for 10 minutes, making the area [Heavily Obscured](Compendium/rules/variant-rules/heavily-obscured-xphb.md) for creatures other than you. A strong wind (like that created by [Gust of Wind](Compendium/spells/gust-of-wind-xphb.md)) disperses the swarm and ends the effect.
+While holding the staff , you can take a [Magic](Compendium/rules/actions.md#Magic) action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you. The insects remain for 10 minutes, making the area [Heavily Obscured](Compendium/rules/variant-rules/heavily-obscured-xphb.md) for creatures other than you. A strong wind (like that created by [Gust of Wind](Compendium/spells/gust-of-wind-xphb.md)) disperses the swarm and ends the effect.
 
 ## Spells
 
@@ -38,6 +38,6 @@ While holding the staff, you can cast one of the spells on the following table f
 
 ## Regaining Charges
 
-The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll ``. On a 1, a swarm of insects consumes and destroys the staff, then disperses.
+The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll `1d20`. On a 1, a swarm of insects consumes and destroys the staff, then disperses.
 
-*Source: Dungeon Master's Guide (2024) p. 309*
+*Source: Dungeon Master's Guide (2024) p. 309. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

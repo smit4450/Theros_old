@@ -14,9 +14,9 @@ statblock: inline
 aliases: ["Air Elemental"]
 ---
 # Air Elemental
-*Source: Monster Manual (2024) p. 13*  
+*Source: Monster Manual (2024) p. 13, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/elemental/img/air-elemental.webp#right)  
+![](Compendium/books/monster-manual-2025/img/air-elemental.webp#right)  
 ## Air Elemental
 
 *Primal Spirit of Wind and Storm*
@@ -33,8 +33,6 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 > What can withstand the storm's scream? The lightning's spear? The want of sweet breath? Air is the mightiest of elements—respect its power.
 
 **Air Elemental Compositions**
-
-`dice: [](air-elemental-xmm.md#^air-elemental-compositions)`
 
 | dice: 1d6 | The Air Elemental's Body Features... |
 |-----------|--------------------------------------|
@@ -53,13 +51,14 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 "ac": !!int "15"
 "hp": !!int "90"
 "hit_dice": "12d10 + 24"
+"modifier": !!int "5"
 "stats":
-- !!int "14"
-- !!int "20"
-- !!int "14"
-- !!int "6"
-- !!int "10"
-- !!int "6"
+  - !!int "14"
+  - !!int "20"
+  - !!int "14"
+  - !!int "6"
+  - !!int "10"
+  - !!int "6"
 "speed": "10 ft., fly 90 ft. (hover)"
 "damage_resistances": "bludgeoning, lightning, piercing, slashing"
 "damage_immunities": "poison, thunder"
@@ -68,24 +67,29 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
   \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
   \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained),\
   \ [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
 "languages": "Primordial (Auran)"
 "cr": "5"
 "traits":
-- "desc": "The elemental can enter a creature's space and stop there. It can move\
-    \ through a space as narrow as 1 inch without expending extra movement to do so."
-  "name": "Air Form"
+  - "desc": "The elemental can enter a creature's space and stop there. It can move\
+      \ through a space as narrow as 1 inch without expending extra movement to do\
+      \ so."
+    "name": "Air Form"
 "actions":
-- "desc": "The elemental makes two Thunderous Slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +8, reach 10 ft. Hit: 14 (2d8 + 5) Thunder damage."
-  "name": "Thunderous Slam"
-- "desc": "Strength Saving Throw: DC 13, one Medium or smaller creature in the elemental's\
-    \ space. Failure: 24 (4d10 + 2) Thunder damage, and the target is pushed up\
-    \ to 20 feet straight away from the elemental and has the [Prone](Compendium/rules/conditions.md#Prone)\
-    \ condition. Success: Half damage only."
-  "name": "Whirlwind (Recharge 4-6)"
+  - "desc": "The elemental makes two Thunderous Slam attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 14 (2d8 + 5) Thunder\
+      \ damage."
+    "name": "Thunderous Slam"
+  - "desc": "*Strength Saving Throw:* DC 13, one Medium or smaller creature in the\
+      \ elemental's space. *Failure:* 24 (4d10 + 2) Thunder damage, and the target\
+      \ is pushed up to 20 feet straight away from the elemental and has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ condition. *Success:* Half damage only."
+    "name": "Whirlwind (Recharge 4-6)"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/elemental/token/air-elemental-xmm.webp"
 ```
 ^statblock

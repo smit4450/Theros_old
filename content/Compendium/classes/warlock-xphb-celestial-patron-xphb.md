@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/warlock/celestial
-aliases: ["Celestial Patron"]
+aliases:
+- Celestial Patron
 ---
 # Celestial Patron
-*[Warlock](warlock-xphb.md): Warlock Subclass*  
+*[Warlock](./warlock-xphb.md): Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 160*  
 
 > [!tldr] Class and Feature Progression
@@ -19,18 +21,18 @@ aliases: ["Celestial Patron"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Celestial%20Patron%20(Level%203)'>Celestial Patron</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Celestial Patron (Level 3)' class='internal-link'>Celestial Patron</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Radiant%20Soul%20(Level%206)'>Radiant Soul</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Radiant Soul (Level 6)' class='internal-link'>Radiant Soul</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Celestial%20Resilience%20(Level%2010)'>Celestial Resilience</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Celestial Resilience (Level 10)' class='internal-link'>Celestial Resilience</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Searing%20Vengeance%20(Level%2014)'>Searing Vengeance</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Searing Vengeance (Level 14)' class='internal-link'>Searing Vengeance</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -38,7 +40,8 @@ aliases: ["Celestial Patron"]
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -75,10 +78,10 @@ Your link to your patron allows you to serve as a conduit for radiant energy. Yo
 
 ### Celestial Resilience (Level 10)
 
-You gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) whenever you use your Magical Cunning feature or finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). These [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see when you gain the points. Those creatures each gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to half your Warlock level plus your Charisma modifier.
+You gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) whenever you use your Magical Cunning feature or finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). These [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see when you gain the points. Those creatures each gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to half your Warlock level plus your Charisma modifier.
 
 ### Searing Vengeance (Level 14)
 
-When you or an ally within 60 feet of you is about to make a [Death Saving Throw](Compendium/rules/variant-rules/death-saving-throw-xphb.md), you can unleash radiant energy to save the creature. The creature regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to half its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) maximum and can end the [Prone](Compendium/rules/conditions.md#Prone) condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to `2d8` plus your Charisma modifier, and each has the [Blinded](Compendium/rules/conditions.md#Blinded) condition until the end of the current turn.
+When you or an ally within 60 feet of you is about to make a [Death Saving Throw](Compendium/rules/variant-rules/death-saving-throw-xphb.md), you can unleash radiant energy to save the creature. The creature regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to half its [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum and can end the [Prone](Compendium/rules/conditions.md#Prone) condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to `2d8` plus your Charisma modifier, and each has the [Blinded](Compendium/rules/conditions.md#Blinded) condition until the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).

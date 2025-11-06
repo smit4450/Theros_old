@@ -14,7 +14,7 @@ aliases: ["Lizardfolk Geomancer"]
 # Lizardfolk Geomancer
 *Source: Monster Manual (2024) p. 197*  
 
-![](Compendium/bestiary/elemental/img/lizardfolk-geomancer.webp#right)  
+![](Compendium/bestiary/elemental/img/lizardfolk.webp#right)  
 Lizardfolk geomancers draw magic from the natural world, using it to protect their people and territories.
 
 ## Lizardfolk
@@ -35,41 +35,45 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
 "ac": !!int "13"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
+"modifier": !!int "0"
 "stats":
-- !!int "15"
-- !!int "10"
-- !!int "13"
-- !!int "10"
-- !!int "15"
-- !!int "8"
+  - !!int "15"
+  - !!int "10"
+  - !!int "13"
+  - !!int "10"
+  - !!int "15"
+  - !!int "8"
 "speed": "30 ft., burrow 20 ft., swim 30 ft."
 "skillsaves":
-  "Nature": !!int "2"
-  "Stealth": !!int "4"
-  "Perception": !!int "4"
+  - "name": "[Nature](Compendium/rules/skills.md#Nature)"
+    "desc": "+2"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
 "senses": "passive Perception 14"
 "languages": "Draconic, Primordial (Terran)"
 "cr": "2"
-"traits":
-- "desc": "The lizardfolk casts one of the following spells, requiring no Material\
-    \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
-    \nAt will: [Elementalism](Compendium/spells/elementalism-xphb.md)\n\n1/day\
-    \ each: [Meld into Stone](Compendium/spells/meld-into-stone-xphb.md), [Speak\
-    \ with Plants](Compendium/spells/speak-with-plants-xphb.md), [Spike Growth](Compendium/spells/spike-growth-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "The lizardfolk makes two Earth Burst attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack: +4, reach 5 ft. or range 60 ft. Hit: 9 (2d6\
-    \ + 2) Bludgeoning damage."
-  "name": "Earth Burst"
-- "desc": "Constitution Saving Throw: DC 12, each creature in a 20-foot-radius,\
-    \ 40-foot-high [Cylinder [Area of Effect]](Compendium/rules/variant-rules/cylinder-area-of-effect-xphb.md)\
-    \ centered on a point the lizardfolk can see within 60 feet. Failure: 15 (6d4)\
-    \ Bludgeoning damage, and the target has the [Prone](Compendium/rules/conditions.md#Prone)\
-    \ condition. Success: Half damage only."
-  "name": "Hail of Stone (Recharge 5-6)"
+  - "desc": "The lizardfolk makes two Earth Burst attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +4, reach 5 ft. or range 60 ft. *Hit:*\
+      \ 9 (2d6 + 2) Bludgeoning damage."
+    "name": "Earth Burst"
+  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 20-foot-radius,\
+      \ 40-foot-high [Cylinder](Compendium/rules/variant-rules/cylinder-area-of-effect-xphb.md)\
+      \ centered on a point the lizardfolk can see within 60 feet. *Failure:* 15 (6d4)\
+      \ Bludgeoning damage, and the target has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ condition. *Success:* Half damage only."
+    "name": "Hail of Stone (Recharge 5-6)"
+  - "desc": "The lizardfolk casts one of the following spells, requiring no Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
+      \n**At will:** [Elementalism](Compendium/spells/elementalism-xphb.md)\n\n**1/day\
+      \ each:** [Meld into Stone](Compendium/spells/meld-into-stone-xphb.md), [Speak\
+      \ with Plants](Compendium/spells/speak-with-plants-xphb.md), [Spike Growth](Compendium/spells/spike-growth-xphb.md)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/elemental/token/lizardfolk-geomancer-xmm.webp"
 ```
 ^statblock

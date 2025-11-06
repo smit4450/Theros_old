@@ -19,4 +19,4 @@ The tower is 20 feet on a side and 30 feet high, with arrow slits on all sides a
 
 [Magic](Compendium/rules/actions.md#Magic) prevents the tower from being tipped over. The roof, the door, and the walls each have AC 20; HP 100; [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to Bludgeoning, Piercing, and Slashing damage except that which is dealt by siege equipment; and [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to all other damage. Shrinking the tower back down to statuette form doesn't repair damage to the tower. Only a [Wish](Compendium/spells/wish-xphb.md) spell can repair the tower (this use of the spell counts as replicating a spell of level 8 or lower). Each casting of Wish causes the tower to regain all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).
 
-*Source: Dungeon Master's Guide (2024) p. 247*
+*Source: Dungeon Master's Guide (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Instant Fortress") and the Free Rules (2024)*

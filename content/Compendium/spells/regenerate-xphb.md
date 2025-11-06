@@ -10,10 +10,7 @@ tags:
 - ttrpg-cli/spell/school/transmutation
 classes:
 - Bard
-- Bard
 - Cleric
-- Cleric
-- Druid
 - Druid
 aliases: ["Regenerate"]
 ---
@@ -23,11 +20,11 @@ aliases: ["Regenerate"]
 
 - **Casting time:** 1 minute
 - **Range:** Touch
-- **Components:** V, S, a prayer wheel
+- **Components:** V, S, M (a prayer wheel)
 - **Duration:** 1 hour
 
-A creature you touch regains `4d8 + 15` [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). For the duration, the target regains 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) at the start of each of its turns, and any severed body parts regrow after 2 minutes.
+A creature you touch regains `4d8 + 15` [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). For the duration, the target regains 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) at the start of each of its turns, and any severed body parts regrow after 2 minutes.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 311. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

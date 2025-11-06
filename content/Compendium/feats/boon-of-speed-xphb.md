@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-feat
+cssclasses:
+- json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases: ["Boon of Speed"]
+aliases:
+- Boon of Speed
 ---
 # Boon of Speed
 *Source: Player's Handbook (2024) p. 211*  
@@ -13,10 +15,8 @@ aliases: ["Boon of Speed"]
 
 You gain the following benefits.
 
-## Escape Artist
+**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
 
-As a Bonus Action, you can take the [Disengage](Compendium/rules/actions.md#Disengage) action, which also ends the [Grappled](Compendium/rules/conditions.md#Grappled) condition on you.
+**Escape Artist.** As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can take the [Disengage](Compendium/rules/actions.md#Disengage) action, which also ends the [Grappled](Compendium/rules/conditions.md#Grappled) condition on you.
 
-## Quickness
-
-Your Speed increases by 30 feet.
+**Quickness.** Your [Speed](Compendium/rules/variant-rules/speed-xphb.md) increases by 30 feet.

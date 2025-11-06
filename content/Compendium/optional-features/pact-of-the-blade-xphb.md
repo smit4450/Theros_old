@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-feat
+cssclasses:
+- json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/ei
-aliases: ["Pact of the Blade"]
+aliases:
+- Pact of the Blade
 ---
 # Pact of the Blade
-*Source: Player's Handbook (2024) p. 156*  
+*Source: Player's Handbook (2024) p. 156. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a [Spellcasting Focus](Compendium/rules/variant-rules/spellcasting-focus-xphb.md).
 

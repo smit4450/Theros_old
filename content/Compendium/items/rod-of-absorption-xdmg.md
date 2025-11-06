@@ -5,11 +5,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/wondrous/rod
 aliases: 
 - "Rod of Absorption"
 ---
 # Rod of Absorption
-*Very rare (requires attunement)*  
+*Rod, very rare (requires attunement)*  
 ![](Compendium/items/img/rod-of-absorption.webp#right)
 
 - **Weight**: 2.0 lbs.
@@ -22,4 +23,4 @@ If you are a spellcaster holding the rod, you can convert energy stored in it in
 
 A newly found rod typically has `1d10` levels of spell energy stored in it. A rod that can no longer absorb spell energy and has no energy remaining becomes nonmagical.
 
-*Source: Dungeon Master's Guide (2024) p. 299. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

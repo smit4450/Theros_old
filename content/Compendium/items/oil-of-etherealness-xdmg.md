@@ -18,4 +18,4 @@ One vial of this oil can cover one Medium or smaller creature, along with the eq
 
 Beads of this cloudy, gray oil form on the outside of its container and quickly evaporate.
 
-*Source: Dungeon Master's Guide (2024) p. 282. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

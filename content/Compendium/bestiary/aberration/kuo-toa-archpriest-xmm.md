@@ -22,7 +22,7 @@ Kuo-toa archpriests lead kuo-toa communities by interpreting omens and messages 
 *Fishlike Fanatics of the Deep*
 
 - **Habitat.** Coastal, Underdark  
-- **Treasure.** Relics  
+- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
 
 Kuo-toa have slimy, humanoid bodies and the heads of goggle-eyed deep-sea fish. They claim they once dominated whole worlds, their empires spanning land and sea under the blessings of piscine gods. The kuo-toa can't say what disaster brought their glorious civilization to an end, but elves, humans, mind flayers, and the kuo-toan gods bear the brunt of their blame. From the lands and seas of the surface, the kuo-toa retreated into cavernous trenches and Underdark seas. In these hidden realms, kuo-toa brood over all they've lost and forgotten, nursing plots to avenge themselves for slights that might never have occurred.
 
@@ -37,8 +37,6 @@ Kuo-toa ever seek to placate their inscrutable deities. However, few kuo-toa can
 Lacking information about what their other gods look like, kuo-toa priests invent new forms for them, creating divine idols with whatever objects are at hand. But whether these kuo-toa priests draw power from belief or delusion, aberrant talent, or a stranger supernatural source, some power answers their petitions. Roll twice on or choose results from the Kuo-toa Deity Features table to inspire how kuo-toa represent a deity.
 
 **Kuo-toa Deity Features**
-
-`dice: [](kuo-toa-archpriest-xmm.md#^kuo-toa-deity-features)`
 
 | dice: 1d10 | The Deity's Head Is Like A... | The Deity's Body Is Like A... |
 |------------|-------------------------------|-------------------------------|
@@ -59,8 +57,6 @@ Lacking information about what their other gods look like, kuo-toa priests inven
 Kuo-toa typically organize their communities around sites they believe to be important to their deities. These might be structures or series of caverns, and most feature both air-filled and submerged chambers. Important places within these sites suggest the rituals of kuo-toa faiths, the demands of kuo-toa deities, or the whims of omen-seeking archpriests. As with kuo-toa deities, the features of these locations vary between communities. Roll on or choose a result from the Kuo-toa Ritual Sites table to inspire features and suggest adventures within a kuo-toa community.
 
 **Kuo-toa Ritual Sites**
-
-`dice: [](kuo-toa-archpriest-xmm.md#^kuo-toa-ritual-sites)`
 
 | dice: 1d8 | The Kuo-toa Community Features... |
 |-----------|-----------------------------------|
@@ -88,44 +84,49 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 "ac": !!int "13"
 "hp": !!int "105"
 "hit_dice": "14d8 + 42"
+"modifier": !!int "2"
 "stats":
-- !!int "16"
-- !!int "14"
-- !!int "16"
-- !!int "13"
-- !!int "16"
-- !!int "14"
+  - !!int "16"
+  - !!int "14"
+  - !!int "16"
+  - !!int "13"
+  - !!int "16"
+  - !!int "14"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Religion": !!int "4"
-  "Perception": !!int "9"
-"senses": "darkvision 120 ft., truesight 30 ft., passive Perception 19"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+9"
+  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+    "desc": "+4"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., [Truesight](Compendium/rules/senses.md#Truesight)\
+  \ 30 ft., passive Perception 19"
 "languages": "Undercommon"
 "cr": "6"
 "traits":
-- "desc": "The kuo-toa casts one of the following spells, requiring no Material components\
-    \ and using Wisdom as the spellcasting ability (spell save DC 14):\n\nAt will:\
-    \ [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\
-    \n1/day each: [Destructive Wave](Compendium/spells/destructive-wave-xphb.md),\
-    \ [Divination](Compendium/spells/divination-xphb.md), [Hold Monster](Compendium/spells/hold-monster-xphb.md)\
-    \ (level 6 version), [Scrying](Compendium/spells/scrying-xphb.md), [Tongues](Compendium/spells/tongues-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The kuo-toa casts [Shield of Faith](Compendium/spells/shield-of-faith-xphb.md),\
-    \ using the same spellcasting ability as Spellcasting.\n\n2/day: [Shield of\
-    \ Faith](Compendium/spells/shield-of-faith-xphb.md)"
-  "name": "Shield of Faith (2/Day)"
-- "desc": "The kuo-toa can breathe air and water."
-  "name": "Amphibious"
-- "desc": "While in sunlight, the kuo-toa has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-    \ on ability checks and attack rolls."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The kuo-toa can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "The kuo-toa makes three Strange Scepter attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack: +6, reach 5 ft. or range 120 ft. Hit: 20\
-    \ (5d6 + 3) Lightning damage."
-  "name": "Strange Scepter"
+  - "desc": "The kuo-toa makes three Strange Scepter attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 120 ft. *Hit:*\
+      \ 20 (5d6 + 3) Lightning damage."
+    "name": "Strange Scepter"
+  - "desc": "The kuo-toa casts one of the following spells, requiring no Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 14):\n\
+      \n**At will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\
+      \n**1/day each:** [Destructive Wave](Compendium/spells/destructive-wave-xphb.md),\
+      \ [Divination](Compendium/spells/divination-xphb.md), [Hold Monster](Compendium/spells/hold-monster-xphb.md)\
+      \ (level 6 version), [Scrying](Compendium/spells/scrying-xphb.md), [Tongues](Compendium/spells/tongues-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The kuo-toa casts [Shield of Faith](Compendium/spells/shield-of-faith-xphb.md),\
+      \ using the same spellcasting ability as Spellcasting.\n"
+    "name": "Shield of Faith (2/Day)"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/aberration/token/kuo-toa-archpriest-xmm.webp"
 ```
 ^statblock

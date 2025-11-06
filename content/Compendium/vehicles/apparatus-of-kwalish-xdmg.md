@@ -1,16 +1,18 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-vehicle
+cssclasses:
+- json5e-vehicle
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/vehicle/size/large
 - ttrpg-cli/vehicle/terrain/sea
 - ttrpg-cli/vehicle/type/object
-aliases: ["Apparatus of Kwalish"]
+aliases:
+- Apparatus of Kwalish
 ---
 # Apparatus of Kwalish
 %%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide (2024) p. 229*  
+*Source: Dungeon Master's Guide (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Apparatus of the Crab")*  
 
 ```ad-statblock
 title: Apparatus of Kwalish

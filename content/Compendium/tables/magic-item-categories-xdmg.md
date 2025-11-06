@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Magic Item Categories"]
+aliases:
+- Magic Item Categories
 ---
 # Magic Item Categories
 *Source: Dungeon Master's Guide (2024) p. 216* 

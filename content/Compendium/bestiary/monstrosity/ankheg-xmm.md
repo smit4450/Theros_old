@@ -12,9 +12,9 @@ statblock: inline
 aliases: ["Ankheg"]
 ---
 # Ankheg
-*Source: Monster Manual (2024) p. 18*  
+*Source: Monster Manual (2024) p. 18. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/ankheg.webp#right)  
+![](Compendium/books/monster-manual-2025/img/ankheg.webp#right)  
 ## Ankheg
 
 *Burrowing Insectile Predator*
@@ -33,8 +33,6 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
 > Though they feed on things under the soil, ankhegs prefer live meat—your cattle, your dogs, or you.
 
 **Ankheg Tunnel Discoveries**
-
-`dice: [](ankheg-xmm.md#^ankheg-tunnel-discoveries)`
 
 | dice: 1d8 | Inside the Ankheg Tunnel Is... |
 |-----------|--------------------------------|
@@ -55,33 +53,36 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
 "ac": !!int "14"
 "hp": !!int "45"
 "hit_dice": "6d10 + 12"
+"modifier": !!int "0"
 "stats":
-- !!int "17"
-- !!int "11"
-- !!int "14"
-- !!int "1"
-- !!int "13"
-- !!int "6"
+  - !!int "17"
+  - !!int "11"
+  - !!int "14"
+  - !!int "1"
+  - !!int "13"
+  - !!int "6"
 "speed": "30 ft., burrow 10 ft."
-"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 11"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., Tremorsense\
+  \ 60 ft., passive Perception 11"
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The ankheg can burrow through solid rock at half its [Burrow Speed](Compendium/rules/variant-rules/burrow-speed-xphb.md)\
-    \ and leaves a 10-foot-diameter tunnel in its wake."
-  "name": "Tunneler"
+  - "desc": "The ankheg can burrow through solid rock at half its [Burrow Speed](Compendium/rules/variant-rules/burrow-speed-xphb.md)\
+      \ and leaves a 10-foot-diameter tunnel in its wake."
+    "name": "Tunneler"
 "actions":
-- "desc": "Melee Attack: +5 (with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ if the target is [Grappled](Compendium/rules/conditions.md#Grappled) by the\
-    \ ankheg), reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage plus 3 (1d6) Acid\
-    \ damage. If the target is a Large or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
-    \ condition (escape DC 13)."
-  "name": "Bite"
-- "desc": "Dexterity Saving Throw: DC 12, each creature in a 30-foot-long, 5-foot-wide\
-    \ [Line [Area of Effect]](Compendium/rules/variant-rules/line-area-of-effect-xphb.md).\
-    \ Failure: 14 (4d6) Acid damage. Success: Half damage."
-  "name": "Acid Spray (Recharge 6)"
+  - "desc": "*Melee Attack Roll:* +5 (with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ if the target is [Grappled](Compendium/rules/conditions.md#Grappled) by the\
+      \ ankheg), reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing damage plus 3 (1d6)\
+      \ Acid damage. If the target is a Large or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 13)."
+    "name": "Bite"
+  - "desc": "*Dexterity Saving Throw:* DC 12, each creature in a 30-foot-long, 5-foot-wide\
+      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ 14 (4d6) Acid damage. *Success:* Half damage."
+    "name": "Acid Spray (Recharge 6)"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/monstrosity/token/ankheg-xmm.webp"
 ```
 ^statblock

@@ -13,11 +13,8 @@ tags:
 classes:
 - Bard
 - Cleric
-- Cleric
 - Monk
 - Warlock
-- Warlock
-- Wizard
 - Wizard
 aliases: ["Astral Projection"]
 ---
@@ -27,7 +24,7 @@ aliases: ["Astral Projection"]
 
 - **Casting time:** 1 hour
 - **Range:** 10 feet
-- **Components:** V, S, for each of the spell's targets, one jacinth worth 1,000+ GP and one silver bar worth 100+ GP, all of which the spell consumes
+- **Components:** V, S, M (for each of the spell's targets, one jacinth worth 1,000+ GP and one silver bar worth 100+ GP, all of which the spell consumes)
 - **Duration:** Until dispelled
 
 You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell ends instantly if you are already on that plane). Each target's body is left behind in a state of suspended animation; it has the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition, doesn't need food or air, and doesn't age.
@@ -40,6 +37,6 @@ Any damage or other effects that apply to an astral form have no effect on the t
 
 When the spell ends for a target who isn't dead, the target reappears in its body and exits the state of suspended animation.
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Monk](list-spells-classes-monk); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Monk](Compendium/lists/list-spells-classes-monk.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 243. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 243. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

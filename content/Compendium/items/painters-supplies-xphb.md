@@ -19,4 +19,4 @@ aliases:
 - **Utilize.** Paint a recognizable image of something you've seen (DC 10)  
 - **Craft.** [Druidic Focus](Compendium/items/druidic-focus-xphb.md), [Holy Symbol](Compendium/items/holy-symbol-xphb.md)  
 
-*Source: Player's Handbook (2024) p. 221. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

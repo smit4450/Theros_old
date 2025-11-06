@@ -23,4 +23,4 @@ If the spell requires a saving throw or an attack roll, the spell save DC is 18,
 
 A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 8 spell is copied in this way, the copier must succeed on a DC 18 Intelligence ([Arcana](Compendium/rules/skills.md#Arcana)). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.
 
-*Source: Dungeon Master's Guide (2024) p. 305. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -16,9 +16,7 @@ You can take a [Magic](Compendium/rules/actions.md#Magic) action to blow this ho
 
 Four types of Horn of Valhalla are known to exist, each made of a different metal. The horn's type determines how many spirits it summons, as well as the requirement for its use. The DM chooses the horn's type or determines it randomly by rolling on the following table. If you blow the horn without meeting its requirement, the summoned spirits attack you.
 
-If you meet the requirement, they are [Friendly [Attitude]](Compendium/rules/variant-rules/friendly-attitude-xphb.md) to you and your allies and follow your commands.
-
-`dice: [](horn-of-valhalla-xdmg.md#^1-horn-type-spirits-requirement)`
+If you meet the requirement, they are [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md) to you and your allies and follow your commands.
 
 | dice: 1d100 | Horn Type | Spirits | Requirement |
 |-------------|-----------|---------|-------------|
@@ -35,4 +33,4 @@ If you meet the requirement, they are [Friendly [Attitude]](Compendium/rules/var
 - [Horn of Valhalla, Iron](Compendium/items/horn-of-valhalla-iron-xdmg.md)
 - [Horn of Valhalla, Silver](Compendium/items/horn-of-valhalla-silver-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 270*
+*Source: Dungeon Master's Guide (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

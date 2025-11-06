@@ -10,16 +10,15 @@ tags:
 classes:
 - Bard
 - Cleric
-- Cleric
 aliases: ["Hallow"]
 ---
 # Hallow
 *5th-level, Abjuration*  
 
 
-- **Casting time:** 24 hour
+- **Casting time:** 24 hours
 - **Range:** Touch
-- **Components:** V, S, incense worth 1,000+ GP, which the spell consumes
+- **Components:** V, S, M (incense worth 1,000+ GP, which the spell consumes)
 - **Duration:** Until dispelled
 
 You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of Hallow. The affected area has the following effects.
@@ -45,6 +44,6 @@ You bind an extra effect to the area from the list below:
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md)
 
-*Source: Player's Handbook (2024) p. 283. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -17,4 +17,4 @@ While you wear these boots, you can take a [Bonus Action](Compendium/rules/varia
 
 When you've used the boots' property for a total of 10 minutes, the magic ceases to function for you until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
 
-*Source: Dungeon Master's Guide (2024) p. 240. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

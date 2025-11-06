@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Carrying Capacity"]
+aliases:
+- Carrying Capacity
 ---
 # Carrying Capacity
-*Source: Player's Handbook (2024) p. 362. Available in the Free Rules (2024)* 
+*Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 Your size and Strength score determines the maximum weight in pounds that you can carry, as shown in the Carrying Capacity table. The table also shows the maximum weight you can drag, lift or push.
 

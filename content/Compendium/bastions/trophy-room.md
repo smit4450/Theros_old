@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-bastion
+cssclasses:
+- json5e-bastion
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Trophy Room"]
+aliases:
+- Trophy Room
 ---
 # Trophy Room
 *Level 9 Bastion facility*  

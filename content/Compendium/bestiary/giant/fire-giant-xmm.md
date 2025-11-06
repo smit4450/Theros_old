@@ -12,15 +12,15 @@ statblock: inline
 aliases: ["Fire Giant"]
 ---
 # Fire Giant
-*Source: Monster Manual (2024) p. 119*  
+*Source: Monster Manual (2024) p. 119. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/giant/img/fire-giant.webp#right)  
+![](Compendium/books/monster-manual-2025/img/fire-giant.webp#right)  
 ## Fire Giant
 
 *Giant of the Smoldering Depths*
 
 - **Habitat.** Mountain, Underdark  
-- **Treasure.** Armaments  
+- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
 
 Fire giants inhabit the hollow vaults and molten rivers of mountainous depths. There, they use subterranean heat and riches to craft wonders, from titanic weapons of war to delicate works of art.
 
@@ -35,37 +35,42 @@ Most fire giants dwell in volcanically active mountains or cavernous depths that
 "ac": !!int "18"
 "hp": !!int "162"
 "hit_dice": "13d12 + 78"
+"modifier": !!int "3"
 "stats":
-- !!int "25"
-- !!int "9"
-- !!int "23"
-- !!int "10"
-- !!int "14"
-- !!int "13"
+  - !!int "25"
+  - !!int "9"
+  - !!int "23"
+  - !!int "10"
+  - !!int "14"
+  - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "3"
-  "Constitution": !!int "10"
+  - "dexterity": !!int "3"
+  - "constitution": !!int "10"
+  - "charisma": !!int "5"
 "skillsaves":
-  "Athletics": !!int "11"
-  "Perception": !!int "6"
+  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+    "desc": "+11"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
 "damage_immunities": "fire"
 "senses": "passive Perception 16"
 "languages": "Giant"
 "cr": "9"
 "actions":
-- "desc": "The giant makes two attacks, using Flame Sword or Hammer Throw in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +11, reach 10 ft. Hit: 21 (4d6 + 7) Slashing damage\
-    \ plus 10 (3d6) Fire damage."
-  "name": "Flame Sword"
-- "desc": "Ranged Attack: +11, range 60/240 ft. Hit: 23 (3d10 + 7) Bludgeoning\
-    \ damage plus 4 (1d8) Fire damage, and the target is pushed up to 15 feet straight\
-    \ away from the giant and has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-    \ on the next attack roll it makes before the end of its next turn."
-  "name": "Hammer Throw"
+  - "desc": "The giant makes two attacks, using Flame Sword or Hammer Throw in any\
+      \ combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +11, reach 10 ft. *Hit:* 21 (4d6 + 7) Slashing\
+      \ damage plus 10 (3d6) Fire damage."
+    "name": "Flame Sword"
+  - "desc": "*Ranged Attack Roll:* +11, range 60/240 ft. *Hit:* 23 (3d10 + 7)\
+      \ Bludgeoning damage plus 4 (1d8) Fire damage, and the target is pushed up\
+      \ to 15 feet straight away from the giant and has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on the next attack roll it makes before the end of its next turn."
+    "name": "Hammer Throw"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/giant/token/fire-giant-xmm.webp"
 ```
 ^statblock

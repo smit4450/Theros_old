@@ -11,7 +11,6 @@ tags:
 classes:
 - Bard
 - Wizard
-- Wizard
 - Wizard (Abjurer)
 aliases: ["Prismatic Wall"]
 ---
@@ -19,10 +18,10 @@ aliases: ["Prismatic Wall"]
 *9th-level, Abjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
-- **Duration:** 10 minute
+- **Duration:** 10 minutes
 
 A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point within range. Alternatively, you shape the wall into a globe up to 30 feet in diameter centered on a point within range. The wall lasts for the duration. If you position the wall in a space occupied by a creature, the spell ends instantly without effect.
 
@@ -45,6 +44,6 @@ The wall, which has AC 10, can be destroyed one layer at a time, in order from r
 | 7 | **Violet.** *Failed Save:* The target has the [Blinded](Compendium/rules/conditions.md#Blinded) condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice). *Additional Effects:* This layer is destroyed by [Dispel Magic](Compendium/spells/dispel-magic-xphb.md). |
 ^prismatic-layers
 
-**Classes**: [Bard](list-spells-classes-bard); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Abjurer)](list-spells-classes-wizard-xphb-abjurer-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 308. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

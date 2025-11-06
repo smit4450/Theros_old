@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Relics - Common"]
+aliases:
+- Relics - Common
 ---
 # Relics - Common
 *Source: Dungeon Master's Guide (2024) p. 330* 
 
 **Relics - Common**
-
-`dice: [](relics-common-xdmg.md#^relics-common)`
 
 | dice: 1d100 | Item |
 |-------------|------|

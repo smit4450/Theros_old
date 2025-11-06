@@ -7,14 +7,15 @@ tags:
 - ttrpg-cli/item/rarity/artifact
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/wand
 aliases: 
 - "Wand of Orcus"
 ---
 # Wand of Orcus
-*Weapon ([mace](Compendium/items/mace-xphb.md)), artifact (requires attunement)*  
+*Weapon ([mace](Compendium/items/mace-xphb.md)), wand, artifact (requires attunement)*  
 ![](Compendium/items/img/wand-of-orcus.webp#right)
 
-- **Damage**: 1d6 B
+- **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
 
 Crafted and wielded by Orcus, this ghastly wand slips from the demon lord's grasp from time to time. When it does, it magically appears wherever the demon lord senses an opportunity to achieve some fell goal.

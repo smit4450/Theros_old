@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-hazard
+cssclasses:
+- json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/trp
-aliases: ["Hidden Pit"]
+aliases:
+- Hidden Pit
 ---
 # Hidden Pit
 *Generic Hazard*  
@@ -32,4 +34,4 @@ You can scale the trap for higher levels by increasing the pit's depth and damag
 | 17–20 | 120 feet | 42 (`12d6`) |
 ^levels-pit-depth-bludgeoning-damage
 
-*Source: Dungeon Master's Guide (2024) p. 102*
+*Source: Dungeon Master's Guide (2024) p. 102. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Wild Magic Surge"]
+aliases:
+- Wild Magic Surge
 ---
 # Wild Magic Surge
 *Source: Player's Handbook (2024) p. 149. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 **Wild Magic Surge**
-
-`dice: [](wild-magic-surge-xphb.md#^wild-magic-surge)`
 
 | dice: 1d100 | Effect |
 |-------------|--------|

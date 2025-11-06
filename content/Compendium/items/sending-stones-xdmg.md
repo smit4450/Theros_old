@@ -16,4 +16,4 @@ Sending Stones come in pairs, with each stone carved to match the other so the p
 
 Once Sending is cast using either stone, the stones can't be used again until the next dawn. If one of the stones in a pair is destroyed, the other one becomes nonmagical.
 
-*Source: Dungeon Master's Guide (2024) p. 303. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

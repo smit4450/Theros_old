@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Actions"]
+aliases:
+- Actions
 ---
 # Actions
 
 ## Attack
-_Source: Player's Handbook (2024) p. 361_
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
@@ -25,7 +27,7 @@ If you move on your turn and have a feature, such as Extra Attack, that gives yo
 See also: [Two-Weapon Fighting](Compendium/rules/actions.md#Two-Weapon%20Fighting)
 
 ## Dash
-_Source: Player's Handbook (2024) p. 365_
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
@@ -34,44 +36,44 @@ When you take the Dash action, you gain extra movement for the current turn. The
 If you have a special speed, such as a [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md) or [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md), you can use that speed instead of your [Speed](Compendium/rules/variant-rules/speed-xphb.md) when you take this action. You choose which speed to use each time you take it.
 
 ## Disengage
-_Source: Player's Handbook (2024) p. 366_
+_Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
 If you take the Disengage action, your movement doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack) for the rest of the current turn.
 
 ## Dodge
-_Source: Player's Handbook (2024) p. 366_
+_Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
-lf you take the Dodge action, you gain the following benefits: until the start of your next turn, any attack roll made against you has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) if you can see the attacker, and you make Dexterity [Saving Throw](Compendium/rules/variant-rules/saving-throw-xphb.md) with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md).
+lf you take the Dodge action, you gain the following benefits: until the start of your next turn, any attack roll made against you has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) if you can see the attacker, and you make Dexterity [saving throws](Compendium/rules/variant-rules/saving-throw-xphb.md) with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md).
 
 You lose these benefits if you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition or if your [Speed](Compendium/rules/variant-rules/speed-xphb.md) is 0.
 
 ## Don or Doff a Shield
-_Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
+_Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 - **Duration**: 1 action
 
 A [Shield](Compendium/items/shield-xphb.md) can be donned or doffed as an action.
 
 ## End Concentration
-_Source: Player's Handbook (2024) p. 363. Available in the Free Rules (2024)_
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 - **Duration**: Free
 
 Some spells and other effects require Concentration to remain active, as specified in their descriptions. You can end Concentration at any time (no action required).
 
 ## Escape a Grapple
-_Source: Player's Handbook (2024) p. 367. Available in the Free Rules (2024)_
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 - **Duration**: 1 action
 
-A Grappled creature can use its action to make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check against the grapple's escape DC, ending the [Condition](Compendium/rules/variant-rules/condition-xphb.md) on itself on a success. The [Condition](Compendium/rules/variant-rules/condition-xphb.md) also ends if the grappler has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
+A Grappled creature can use its action to make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check against the grapple's escape DC, ending the [condition](Compendium/rules/variant-rules/condition-xphb.md) on itself on a success. The [condition](Compendium/rules/variant-rules/condition-xphb.md) also ends if the grappler has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
 
 ## Help
-_Source: Player's Handbook (2024) p. 368_
+_Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
@@ -86,15 +88,15 @@ Choose one of your skill or tool proficiencies and one ally who is near enough f
 You momentarily distract an enemy within 5 feet of you, giving [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
 ## Hide
-_Source: Player's Handbook (2024) p. 368_
+_Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
-With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) check while you're [Heavily Obscured](Compendium/rules/variant-rules/heavily-obscured-xphb.md) or behind [Cover](Compendium/rules/variant-rules/cover-xphb.md), and you must be out of any enemy's line of sight; if you can see a creature, you can discern whether it can see you.
+With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) check while you're [Heavily Obscured](Compendium/rules/variant-rules/heavily-obscured-xphb.md) or behind [Three-Quarters Cover or Total Cover](Compendium/rules/variant-rules/cover-xphb.md), and you must be out of any enemy's line of sight; if you can see a creature, you can discern whether it can see you.
 
 On a successful check, you have the [Invisible](Compendium/rules/conditions.md#Invisible) condition. Make note of your check's total, which is the DC for a creature to find you with a Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check.
 
-The condition ends on you immediately after any of the following occurs: you make a sound louder than a whisper, an enemy finds you, you make an attack roll, or you cast a spell with a Verbal component.
+You stop being hidden immediately after any of the following occurs: you make a sound louder than a whisper, an enemy finds you, you make an attack roll, or you cast a spell with a Verbal component.
 
 ## Improvising an Action
 _Source: Player's Handbook (2024) p. 15. Available in the Free Rules (2024)_
@@ -120,7 +122,7 @@ If your urging is repugnant to the monster or counter to its alignment, no abili
 
 ### Hesitant
 
-If you urge the monster to do something that it is hesitant to do, you must make an ability check, which is affected by the monster's attitude: Indifferent, Friendly, or Hostile, each of which is defined in this glossary. The Influence Checks table suggests which ability check to make based on how you're interacting with the monster. The GM chooses the check, which has a default DC equal to 15 or the monster's Intelligence score, whichever is higher. On a successful check, the monster does as urged. On a failed check, you must wait 24 hours (or a duration set by the DM) before urging it in the same way again.
+If you urge the monster to do something that it is hesitant to do, you must make an ability check, which is affected by the monster's attitude: Indifferent, Friendly, or Hostile, each of which is defined in this glossary. The Influence Checks table suggests which ability check to make based on how you're interacting with the monster. The DM chooses the check, which has a default DC equal to 15 or the monster's Intelligence score, whichever is higher. On a successful check, the monster does as urged. On a failed check, you must wait 24 hours (or a duration set by the DM) before urging it in the same way again.
 
 **Influence Checks**
 
@@ -134,7 +136,7 @@ If you urge the monster to do something that it is hesitant to do, you must make
 ^influence-checks
 
 ## Magic
-_Source: Player's Handbook (2024) p. 371_
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
@@ -143,14 +145,14 @@ When you take the Magic action, you cast a spell that has a casting time of an a
 If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain [Concentration](Compendium/rules/conditions.md#Concentration) while you do so. If your [Concentration](Compendium/rules/conditions.md#Concentration) is broken, the spell fails, but you don't expend a spell slot.
 
 ## Opportunity Attack
-_Source: Player's Handbook (2024) p. 371_
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 reaction
 
 You can make an Opportunity Attack when a creature that you can see leaves your reach using its action, its [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), its [Reaction](Compendium/rules/variant-rules/reaction-xphb.md), or one of its speeds. To make the Opportunity Attack, take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to make one melee attack with a weapon or an [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md) against the provoking creature. The attack occurs right before the creature leaves your reach.
 
 ## Ready
-_Source: Player's Handbook (2024) p. 372_
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
@@ -163,7 +165,7 @@ When the trigger occurs, you can either take your [Reaction](Compendium/rules/va
 When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires [Concentration](Compendium/rules/conditions.md#Concentration), which you can maintain up to the start of your next turn. If your [Concentration](Compendium/rules/conditions.md#Concentration) is broken, the spell dissipates without taking effect.
 
 ## Search
-_Source: Player's Handbook (2024) p. 373_
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
@@ -200,7 +202,7 @@ The Areas of Knowledge table suggests which skills are applicable to various are
 ^areas-of-knowledge
 
 ## Two-Weapon Fighting
-_Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
+_Source: Player's Handbook (2024) p. 213. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 - **Duration**: 1 bonus
 
@@ -209,7 +211,7 @@ When you take the [Attack](Compendium/rules/actions.md#Attack) action on your tu
 See also: [Attack](Compendium/rules/actions.md#Attack)
 
 ## Utilize
-_Source: Player's Handbook (2024) p. 377_
+_Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 

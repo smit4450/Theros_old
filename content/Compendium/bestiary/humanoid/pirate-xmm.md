@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Pirate"]
 ---
 # Pirate
-*Source: Monster Manual (2024) p. 241*  
+*Source: Monster Manual (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/humanoid/img/pirate.webp#right)  
 Along with being competent warriors, pirates are accomplished seafarers who know how to sail and maintain a ship. While some loyally follow their captains' orders, others place greed, superstition, or self-preservation over duty.
@@ -21,7 +21,7 @@ Along with being competent warriors, pirates are accomplished seafarers who know
 *Freebooters and Fortune Hunters*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, Implements  
+- **Treasure.** Individual, [Implements](Compendium/tables/random-magic-items-implements.md)  
 
 The term "pirate" encompasses a broad range of seafarers, including vicious sea rovers, dogged privateers, cursed treasure hunters, and others who seek riches and fame on the seas.
 
@@ -32,8 +32,6 @@ Pirates might be allies, foes, wild cards, or some combination thereof. While th
 To terrify opponents and spread their reputations, pirate crews fly distinctive flags. Roll twice on or choose results from the Pirate Flags table to inspire what flag a pirate crew sails under.
 
 **Pirate Flags**
-
-`dice: [](pirate-xmm.md#^pirate-flags)`
 
 | dice: 1d8 | The Flag Shows A... | With... |
 |-----------|---------------------|---------|
@@ -46,6 +44,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 | 7 | Skull | A tattoo |
 | 8 | Whale | A treasure chest |
 ^pirate-flags
+![](Compendium/bestiary/humanoid/img/pirates.webp#center)  
 ## Statblock
 
 ```statblock
@@ -56,32 +55,34 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 "ac": !!int "14"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
+"modifier": !!int "5"
 "stats":
-- !!int "10"
-- !!int "16"
-- !!int "12"
-- !!int "8"
-- !!int "12"
-- !!int "14"
+  - !!int "10"
+  - !!int "16"
+  - !!int "12"
+  - !!int "8"
+  - !!int "12"
+  - !!int "14"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Dexterity": !!int "5"
+  - "dexterity": !!int "5"
+  - "charisma": !!int "4"
 "senses": "passive Perception 11"
 "languages": "Common plus one other language"
 "cr": "1"
 "actions":
-- "desc": "The pirate makes two Dagger attacks. It can replace one attack with a use\
-    \ of Enthralling Panache."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack: +5, reach 5 ft. or range 20/60 ft. Hit: 5\
-    \ (1d4 + 3) Piercing damage."
-  "name": "Dagger"
-- "desc": "Wisdom Saving Throw: DC 12, one creature the pirate can see within 30\
-    \ feet. Failure: The target has the [Charmed](Compendium/rules/conditions.md#Charmed)\
-    \ condition until the start of the pirate's next turn."
-  "name": "Enthralling Panache"
+  - "desc": "The pirate makes two Dagger attacks. It can replace one attack with a\
+      \ use of Enthralling Panache."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft.\
+      \ *Hit:* 5 (1d4 + 3) Piercing damage."
+    "name": "Dagger"
+  - "desc": "*Wisdom Saving Throw:* DC 12, one creature the pirate can see within\
+      \ 30 feet. *Failure:* The target has the [Charmed](Compendium/rules/conditions.md#Charmed)\
+      \ condition until the start of the pirate's next turn."
+    "name": "Enthralling Panache"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/humanoid/token/pirate-xmm.webp"
 ```
 ^statblock

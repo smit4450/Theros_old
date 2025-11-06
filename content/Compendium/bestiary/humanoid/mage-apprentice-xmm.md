@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/monster/cr/2
 - ttrpg-cli/monster/environment/any
 - ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/humanoid
+- ttrpg-cli/monster/type/humanoid/wizard
 statblock: inline
 aliases: ["Mage Apprentice"]
 ---
@@ -21,15 +21,13 @@ Mage apprentices are spellcasters of humble skill. Some are students of accompli
 *Magical Scholars and Spellcasters*
 
 - **Habitat.** Any  
-- **Treasure.** Arcana, Individual  
+- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md), Individual  
 
 Mages are magical wonder-workers, ranging from spellcasting overlords to reclusive witches. They study mystical secrets and possess insight into monsters, legends, omens, and other lore. Mages often gather allies or hire assistants to aid them in their research or to attain magical might.
 
 Roll on or choose a result from the Mage Roles table to inspire different sorts of mages.
 
 **Mage Roles**
-
-`dice: [](mage-apprentice-xmm.md#^mage-roles)`
 
 | dice: 1d10 | The Mage Is... |
 |------------|----------------|
@@ -49,46 +47,51 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 > 
 > Have you gazed on the Runes of Chaos, held the Death Moon Orb in your trembling hands, entered the Devouring Portal and walked the Paths of the Doomed, or sat at the left hand of Szass Tam during the Ritual of Twin Burnings? No? Then speak not to me of wizards. Speak not to me of Thay.
 
+![](Compendium/bestiary/humanoid/img/mages.webp#center)  
 ## Statblock
 
 ```statblock
 "name": "Mage Apprentice (XMM)"
 "size": "Small or Medium"
 "type": "humanoid"
+"subtype": "wizard"
 "alignment": "Neutral"
 "ac": !!int "15"
 "hp": !!int "49"
 "hit_dice": "9d8 + 9"
+"modifier": !!int "2"
 "stats":
-- !!int "8"
-- !!int "14"
-- !!int "12"
-- !!int "16"
-- !!int "13"
-- !!int "10"
+  - !!int "8"
+  - !!int "14"
+  - !!int "12"
+  - !!int "16"
+  - !!int "13"
+  - !!int "10"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "3"
-  "Intelligence": !!int "5"
+  - "intelligence": !!int "5"
+  - "wisdom": !!int "3"
 "skillsaves":
-  "Perception": !!int "3"
-  "Arcana": !!int "5"
+  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+    "desc": "+5"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
 "senses": "passive Perception 13"
 "languages": "Common plus one other language"
 "cr": "2"
-"traits":
-- "desc": "The mage casts one of the following spells, using Intelligence as the spellcasting\
-    \ ability (spell save DC 13, +5 to hit with spell attacks):\n\nAt will:\
-    \ [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Prestidigitation](Compendium/spells/prestidigitation-xphb.md)\n\
-    \n1/day each: [Disguise Self](Compendium/spells/disguise-self-xphb.md), [Ice\
-    \ Knife](Compendium/spells/ice-knife-xphb.md), [Mage Armor](Compendium/spells/mage-armor-xphb.md)\
-    \ (included in AC), [Thunderwave](Compendium/spells/thunderwave-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "Melee or Ranged Attack: +5, reach 5 ft. or range 120 ft. Hit: 14\
-    \ (2d10 + 3) Force damage."
-  "name": "Arcane Burst"
+  - "desc": "*Melee  or Ranged Attack Roll:* +5, reach 5 ft. or range 120 ft. *Hit:*\
+      \ 14 (2d10 + 3) Force damage."
+    "name": "Arcane Burst"
+  - "desc": "The mage casts one of the following spells, using Intelligence as the\
+      \ spellcasting ability (spell save DC 13, +5 to hit with spell attacks):\n\
+      \n**At will:** [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Prestidigitation](Compendium/spells/prestidigitation-xphb.md)\n\
+      \n**1/day each:** [Disguise Self](Compendium/spells/disguise-self-xphb.md),\
+      \ [Ice Knife](Compendium/spells/ice-knife-xphb.md), [Mage Armor](Compendium/spells/mage-armor-xphb.md)\
+      \ (included in AC), [Thunderwave](Compendium/spells/thunderwave-xphb.md)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/humanoid/token/mage-apprentice-xmm.webp"
 ```
 ^statblock

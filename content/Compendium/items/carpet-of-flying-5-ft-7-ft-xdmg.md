@@ -16,4 +16,4 @@ You can make this carpet hover and fly by taking a [Magic](Compendium/rules/acti
 
 A 5 ft. × 7 ft. carpet can carry up to 600 lb. at a fly speed of 40 feet. A carpet can carry up to twice the weight shown on the table, but its [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md) is halved if it carries more than its normal capacity.
 
-*Source: Dungeon Master's Guide (2024) p. 242*
+*Source: Dungeon Master's Guide (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

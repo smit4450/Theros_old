@@ -15,30 +15,26 @@ tags:
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Bard
-- Druid
-- Druid
-- Ranger
-- Ranger
-- Sorcerer
-- Sorcerer
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
 - Bard (College of Lore)
+- Druid
 - Fighter (Eldritch Knight)
+- Ranger
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Wizard
 aliases: ["Darkvision"]
 ---
 # Darkvision
 *2nd-level, Transmutation*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, a dried carrot
-- **Duration:** 8 hour
+- **Components:** V, S, M (a dried carrot)
+- **Duration:** 8 hours
 
 For the duration, a willing creature you touch has [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 150 feet.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Ranger](list-spells-classes-ranger); [Ranger](list-spells-classes-ranger); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 260. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 260. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

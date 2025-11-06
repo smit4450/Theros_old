@@ -6,9 +6,9 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/feat/fey-touched
 - ttrpg-cli/spell/level/1st-level
+- ttrpg-cli/spell/reward/iroass-devotee
 - ttrpg-cli/spell/school/enchantment
 classes:
-- Paladin
 - Paladin
 aliases: ["Compelled Duel"]
 ---
@@ -16,7 +16,7 @@ aliases: ["Compelled Duel"]
 *1st-level, Enchantment*  
 
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** 30 feet
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
@@ -25,6 +25,6 @@ You try to compel a creature into a duel. One creature that you can see within r
 
 The spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 30 feet away from the target.
 
-**Classes**: [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin)
+**Classes**: [Paladin](Compendium/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook (2024) p. 252*

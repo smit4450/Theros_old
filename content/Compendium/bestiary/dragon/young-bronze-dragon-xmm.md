@@ -11,9 +11,9 @@ statblock: inline
 aliases: ["Young Bronze Dragon"]
 ---
 # Young Bronze Dragon
-*Source: Monster Manual (2024) p. 58*  
+*Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/young-bronze-dragon.webp#right)  
+![](Compendium/bestiary/dragon/img/bronze-dragon.webp#right)  
 Many young bronze dragons become experts in a type of problem, like driving off pirates or protecting communities from storms. Young bronze dragons collect friends with varied expertise, cultivating a community of experts they can rely on.
 
 ## Bronze Dragons
@@ -21,7 +21,7 @@ Many young bronze dragons become experts in a type of problem, like driving off 
 *Dragons of Potential and Preservation*
 
 - **Habitat.** Coastal  
-- **Treasure.** Implements  
+- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md)  
 
 Where bronze dragons dwell, wonders flourish. Imaginative yet mindful, these metallic dragons work toward greatness and help others achieve all they can. They strive to preserve innovations, from the works of past civilizations to new discoveries, and they share such works widely. When dealing with shorter-lived beings, bronze dragons prefer to win them over through conversation and cultivation, but they don't shy from battle when villains keep others from achieving their potential.
 
@@ -41,44 +41,50 @@ Bronze dragons usually make their homes near or under the sea.
 "ac": !!int "17"
 "hp": !!int "142"
 "hit_dice": "15d10 + 60"
+"modifier": !!int "3"
 "stats":
-- !!int "21"
-- !!int "10"
-- !!int "19"
-- !!int "14"
-- !!int "13"
-- !!int "17"
+  - !!int "21"
+  - !!int "10"
+  - !!int "19"
+  - !!int "14"
+  - !!int "13"
+  - !!int "17"
 "speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Dexterity": !!int "3"
-  "Wisdom": !!int "4"
+  - "dexterity": !!int "3"
+  - "wisdom": !!int "4"
 "skillsaves":
-  "Stealth": !!int "3"
-  "Insight": !!int "4"
-  "Perception": !!int "7"
+  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+    "desc": "+4"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+3"
 "damage_immunities": "lightning"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "8"
 "traits":
-- "desc": "The dragon can breathe air and water."
-  "name": "Amphibious"
+  - "desc": "The dragon can breathe air and water."
+    "name": "Amphibious"
 "actions":
-- "desc": "The dragon makes three Rend attacks. It can replace one attack with a use\
-    \ of Repulsion Breath."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +8, reach 10 ft. Hit: 16 (2d10 + 5) Slashing damage."
-  "name": "Rend"
-- "desc": "Dexterity Saving Throw: DC 15, each creature in a 60-foot-long, 5-foot-wide\
-    \ [Line [Area of Effect]](Compendium/rules/variant-rules/line-area-of-effect-xphb.md).\
-    \ Failure: 49 (9d10) Lightning damage. Success: Half damage."
-  "name": "Lightning Breath (Recharge 5-6)"
-- "desc": "Strength Saving Throw: DC 15, each creature in a 30-foot [Cone [Area\
-    \ of Effect]](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). Failure:\
-    \ The target is pushed up to 40 feet straight away from the dragon and has the\
-    \ [Prone](Compendium/rules/conditions.md#Prone) condition."
-  "name": "Repulsion Breath"
+  - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
+      \ use of Repulsion Breath."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 16 (2d10 + 5) Slashing\
+      \ damage."
+    "name": "Rend"
+  - "desc": "*Dexterity Saving Throw:* DC 15, each creature in a 60-foot-long, 5-foot-wide\
+      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ 49 (9d10) Lightning damage. *Success:* Half damage."
+    "name": "Lightning Breath (Recharge 5-6)"
+  - "desc": "*Strength Saving Throw:* DC 15, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* The target is pushed up to 40 feet straight away from the dragon\
+      \ and has the [Prone](Compendium/rules/conditions.md#Prone) condition."
+    "name": "Repulsion Breath"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/dragon/token/young-bronze-dragon-xmm.webp"
 ```
 ^statblock

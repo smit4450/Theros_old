@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations"]
+aliases:
+- Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations
 ---
 # Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations
 *Source: Dungeon Master's Guide (2024) p. 106* 
 
 **Levels 17–20 Adventure Situations**
-
-`dice: [](levels-1720-masters-of-the-world-levels-1720-adventure-situations-xdmg.md#^levels-1720-adventure-situations)`
 
 | dice: 1d10 | Situation |
 |------------|-----------|

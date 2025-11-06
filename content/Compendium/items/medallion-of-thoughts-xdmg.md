@@ -16,4 +16,4 @@ aliases:
 
 The medallion has 5 charges. While wearing it, you can expend 1 charge to cast [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md) (save DC 13) from it. The medallion regains `1d4` expended charges daily at dawn.
 
-*Source: Dungeon Master's Guide (2024) p. 278. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

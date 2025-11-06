@@ -14,23 +14,21 @@ tags:
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Bard
-- Druid
-- Sorcerer
-- Sorcerer
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
 - Bard (College of Lore)
+- Druid
 - Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Wizard
 aliases: ["Enlarge/Reduce"]
 ---
 # Enlarge/Reduce
 *2nd-level, Transmutation*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
-- **Components:** V, S, a pinch of powdered iron
+- **Components:** V, S, M (a pinch of powdered iron)
 - **Duration:** Concentration, up to 1 minute
 
 For the duration, the spell enlarges or reduces a creature or an object you can see within range (see the chosen effect below). A targeted object must be neither worn nor carried. If the target is an unwilling creature, it can make a Constitution saving throw. On a successful save, the spell has no effect.
@@ -47,6 +45,6 @@ The target's size decreases by one category—from Medium to Small, for example.
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 268. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

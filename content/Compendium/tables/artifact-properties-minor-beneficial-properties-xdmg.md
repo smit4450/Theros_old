@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Artifact Properties; Minor Beneficial Properties"]
+aliases:
+- Artifact Properties; Minor Beneficial Properties
 ---
 # Artifact Properties; Minor Beneficial Properties
 *Source: Dungeon Master's Guide (2024) p. 224* 
 
 **Minor Beneficial Properties**
-
-`dice: [](artifact-properties-minor-beneficial-properties-xdmg.md#^minor-beneficial-properties)`
 
 | dice: 1d100 | Property |
 |-------------|----------|

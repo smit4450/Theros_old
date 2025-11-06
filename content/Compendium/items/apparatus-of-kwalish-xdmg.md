@@ -39,4 +39,4 @@ A creature in the compartment can take a [Utilize](Compendium/rules/actions.md#U
 | 10 | The rear hatch unseals and opens. | The rear hatch closes and seals. |
 ^apparatus-of-kwalish-levers
 
-*Source: Dungeon Master's Guide (2024) p. 229*
+*Source: Dungeon Master's Guide (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Apparatus of the Crab") and the Free Rules (2024)*

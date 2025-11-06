@@ -7,7 +7,7 @@ tags:
 aliases: ["Dragonborn"]
 ---
 # Dragonborn
-*Source: Player's Handbook (2024) p. 187*  
+*Source: Player's Handbook (2024) p. 187. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![](Compendium/races/img/dragonborn.webp#right)
 
 - **Ability Scores**: None
@@ -39,9 +39,9 @@ Your lineage stems from a dragon progenitor. Choose the kind of dragon from the 
 
 ### Breath Weapon
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot [Cone [Area of Effect]](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md) or a 30-foot [Line [Area of Effect]](Compendium/rules/variant-rules/line-area-of-effect-xphb.md) that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md)). On a failed save, a creature takes `1d10` damage of the type determined by your Draconic Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by `1d10` when you reach character levels 5 (`2d10`), 11 (`3d10`), and 17 (`4d10`).
+When you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md) or a 30-foot [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md) that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md)). On a failed save, a creature takes `1d10` damage of the type determined by your Draconic Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by `1d10` when you reach character levels 5 (`2d10`), 11 (`3d10`), and 17 (`4d10`).
 
-You can use this Breath Weapon a number of times equal to your [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You can use this Breath Weapon a number of times equal to your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
 
 ### Damage Resistance
 

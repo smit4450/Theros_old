@@ -11,10 +11,7 @@ tags:
 - ttrpg-cli/spell/subclass/evoker
 classes:
 - Bard
-- Bard
 - Warlock
-- Warlock
-- Wizard
 - Wizard
 - Wizard (Evoker)
 aliases: ["Forcecage"]
@@ -23,12 +20,12 @@ aliases: ["Forcecage"]
 *7th-level, Evocation*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 100 feet
-- **Components:** V, S, ruby dust worth 1,500+ GP, which the spell consumes
+- **Components:** V, S, M (ruby dust worth 1,500+ GP, which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
 
-An immobile, [Invisible](Compendium/rules/conditions.md#Invisible), Cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.
+An immobile, [Invisible](Compendium/rules/conditions.md#Invisible), [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.
 
 A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart. A prison in the shape of a box can be up to 10 feet on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out from the area.
 
@@ -38,6 +35,6 @@ A creature inside the cage can't leave it by nonmagical means. If the creature t
 
 This spell can't be dispelled by [Dispel Magic](Compendium/spells/dispel-magic-xphb.md).
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Evoker)](list-spells-classes-wizard-xphb-evoker-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 276. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

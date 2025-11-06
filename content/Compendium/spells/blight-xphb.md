@@ -11,28 +11,24 @@ tags:
 - ttrpg-cli/spell/level/4th-level
 - ttrpg-cli/spell/school/necromancy
 - ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/circle-of-the-land
+- ttrpg-cli/spell/subclass/circle-of-the-land/arid-land
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Bard
 - Druid
-- Druid
-- Sorcerer
-- Sorcerer
-- Warlock
-- Warlock
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
-- Druid (Circle of the Land)
+- Druid (Circle of the Land, Arid Land)
 - Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Warlock
+- Wizard
 aliases: ["Blight"]
 ---
 # Blight
 *4th-level, Necromancy*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
@@ -43,6 +39,6 @@ Alternatively, target a nonmagical plant that isn't a creature, such as a tree o
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 4.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Druid (Circle of the Land)](list-spells-classes-druid-xphb-circle-of-the-land-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Arid Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 247. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -11,32 +11,29 @@ tags:
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/diviner
+- ttrpg-cli/spell/subclass/knowledge-domain
 - ttrpg-cli/spell/subclass/light-domain
 - ttrpg-cli/spell/subclass/oath-of-vengeance
 classes:
 - Bard
-- Bard
 - Cleric
-- Cleric
+- Cleric (Knowledge Domain)
+- Cleric (Light Domain)
 - Druid
-- Druid
+- Paladin (Oath of Vengeance)
 - Warlock
-- Warlock
-- Wizard
 - Wizard
 - Wizard (Diviner)
-- Cleric (Light Domain)
-- Paladin (Oath of Vengeance)
 aliases: ["Scrying"]
 ---
 # Scrying
 *5th-level, Divination*  
 ![](Compendium/spells/img/scrying.webp#right)
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** Self
-- **Components:** V, S, a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font)
+- **Duration:** Concentration, up to 10 minutes
 
 You can see and hear a creature you choose that is on the same plane of existence as you. The target makes a Wisdom saving throw, which is modified (see the tables below) by how well you know the target and the sort of physical connection you have to it. The target doesn't know what it is making the save against, only that it feels uneasy.
 
@@ -60,6 +57,6 @@ On a failed save, the spell creates an [Invisible](Compendium/rules/conditions.m
 
 Instead of targeting a creature, you can target a location you have seen. When you do so, the sensor appears at that location and doesn't move.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Diviner)](list-spells-classes-wizard-xphb-diviner-xphb); [Cleric (Light Domain)](list-spells-classes-cleric-xphb-light-domain-xphb); [Paladin (Oath of Vengeance)](list-spells-classes-paladin-xphb-oath-of-vengeance-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin (Oath of Vengeance)](Compendium/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 314. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

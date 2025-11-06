@@ -33,4 +33,4 @@ aliases:
 - [Weaver's Tools](Compendium/items/weavers-tools-xphb.md)
 - [Woodcarver's Tools](Compendium/items/woodcarvers-tools-xphb.md)
 
-*Source: Player's Handbook (2024) p. 220*
+*Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

@@ -12,22 +12,20 @@ tags:
 - ttrpg-cli/spell/subclass/college-of-lore
 classes:
 - Bard
-- Druid
-- Druid
-- Ranger
-- Ranger
-- Druid (Circle of the Moon)
 - Bard (College of Lore)
+- Druid
+- Druid (Circle of the Moon)
+- Ranger
 aliases: ["Conjure Animals"]
 ---
 # Conjure Animals
 *3rd-level, Conjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
-- **Duration:** Concentration, up to 10 minute
+- **Duration:** Concentration, up to 10 minutes
 
 You conjure nature spirits that appear as a Large pack of spectral, intangible animals in an unoccupied space you can see within range. The pack lasts for the duration, and you choose the spirits' animal form, such as wolves, serpents, or birds.
 
@@ -37,6 +35,6 @@ Whenever the pack moves within 10 feet of a creature you can see and whenever a 
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for each spell slot level above 3.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Ranger](list-spells-classes-ranger); [Ranger](list-spells-classes-ranger); [Druid (Circle of the Moon)](list-spells-classes-druid-xphb-circle-of-the-moon-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of the Moon)](Compendium/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 254. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

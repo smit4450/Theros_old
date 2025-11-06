@@ -11,8 +11,6 @@ tags:
 classes:
 - Bard
 - Cleric
-- Cleric
-- Paladin
 - Paladin
 aliases: ["Dispel Evil and Good"]
 ---
@@ -20,9 +18,9 @@ aliases: ["Dispel Evil and Good"]
 *5th-level, Abjuration*  
 ![](Compendium/spells/img/dispel-evil-and-good.webp#right)
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
-- **Components:** V, S, powdered silver and iron
+- **Components:** V, S, M (powdered silver and iron)
 - **Duration:** Concentration, up to 1 minute
 
 For the duration, Celestials, Elementals, Fey, Fiends, and Undead have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls against you. You can end the spell early by using either of the following special functions.
@@ -37,6 +35,6 @@ As a [Magic](Compendium/rules/actions.md#Magic) action, you target one creature 
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 263. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Urban Chase Complications"]
+aliases:
+- Urban Chase Complications
 ---
 # Urban Chase Complications
 *Source: Dungeon Master's Guide (2024) p. 53* 
 
 **Urban Chase Complications**
-
-`dice: [](urban-chase-complications-xdmg.md#^urban-chase-complications)`
 
 | dice: 1d12 | Complication |
 |------------|--------------|

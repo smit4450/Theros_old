@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-bastion
+cssclasses:
+- json5e-bastion
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Arcane Study"]
+aliases:
+- Arcane Study
 ---
 # Arcane Study
 *Level 5 Bastion facility*  

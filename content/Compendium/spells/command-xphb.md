@@ -7,21 +7,22 @@ tags:
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/feat/magic-initiate
+- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
 - ttrpg-cli/spell/level/1st-level
+- ttrpg-cli/spell/reward/klothyss-devotee
 - ttrpg-cli/spell/school/enchantment
 - ttrpg-cli/spell/subclass/college-of-glamour
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/draconic-sorcery
 - ttrpg-cli/spell/subclass/fiend-patron
+- ttrpg-cli/spell/subclass/knowledge-domain
 classes:
 - Bard
-- Cleric
-- Cleric
-- Paladin
-- Paladin
 - Bard (College of Glamour)
 - Bard (College of Lore)
+- Cleric
+- Cleric (Knowledge Domain)
+- Paladin
 - Sorcerer (Draconic Sorcery)
 - Warlock (Fiend Patron)
 aliases: ["Command"]
@@ -30,7 +31,7 @@ aliases: ["Command"]
 *1st-level, Enchantment*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V
 - **Duration:** Instantaneous
@@ -45,6 +46,6 @@ You speak a one-word command to a creature you can see within range. The target 
 
 **Using a Higher-Level Spell Slot.** You can affect one additional creature for each spell slot level above 1.
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin); [Bard (College of Glamour)](list-spells-classes-bard-xphb-college-of-glamour-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Sorcerer (Draconic Sorcery)](list-spells-classes-sorcerer-xphb-draconic-sorcery-xphb); [Warlock (Fiend Patron)](list-spells-classes-warlock-xphb-fiend-patron-xphb)
+**Classes**: [Bard (College of Glamour)](Compendium/lists/list-spells-classes-college-of-glamour-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Draconic Sorcery)](Compendium/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Fiend Patron)](Compendium/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 251. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

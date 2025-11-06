@@ -18,34 +18,37 @@ aliases: ["Construct Spirit (Stone)"]
 "type": "construct"
 "alignment": "Neutral"
 "ac_class": "13 + the spell's level"
+"modifier": !!int "0"
 "stats":
-- !!int "18"
-- !!int "10"
-- !!int "18"
-- !!int "14"
-- !!int "11"
-- !!int "5"
+  - !!int "18"
+  - !!int "10"
+  - !!int "18"
+  - !!int "14"
+  - !!int "11"
+  - !!int "5"
 "speed": "30 ft."
 "damage_resistances": "poison"
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
 "languages": "Understands the languages you know"
 "traits":
-- "desc": "When a creature starts its turn within 10 feet of the spirit, the spirit\
-    \ can target it with magical energy if the spirit can see it. Wisdom Saving Throw:\
-    \ DC equals your spell save DC, the target. Failure: Until the start of its\
-    \ next turn, the target can't make Opportunity Attacks, and its Speed is halved."
-  "name": "Stony Lethargy"
+  - "desc": "When a creature starts its turn within 10 feet of the spirit, the spirit\
+      \ can target it with magical energy if the spirit can see it. *Wisdom Saving\
+      \ Throw:* DC equals your spell save DC, the target. *Failure:* Until the start\
+      \ of its next turn, the target can't make [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack),\
+      \ and its Speed is halved."
+    "name": "Stony Lethargy"
 "actions":
-- "desc": "The spirit makes a number of Slam attacks equal to half this spell's level\
-    \ (round down)."
-  "name": "Multiattack"
-- "desc": "Melee Attack: YourSpellAttack Bonus equals your spell attack modifier,\
-    \ reach 5 ft. Hit: 1d8 + 4 + the spell's level Bludgeoning damage."
-  "name": "Slam"
+  - "desc": "The spirit makes a number of Slam attacks equal to half this spell's\
+      \ level (round down)."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
+      \ ft. *Hit:* 1d8 + 4 + the spell's level Bludgeoning damage."
+    "name": "Slam"
 "source":
-- "XPHB"
+  - "XPHB"
 ```
 ^statblock

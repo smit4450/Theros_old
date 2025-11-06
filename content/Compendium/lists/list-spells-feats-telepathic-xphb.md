@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/telepathic
-aliases: ["Spells for Telepathic"]
+aliases:
+- Spells for Telepathic
 ---
 # Spells for Telepathic
 
 ## 2nd Level
 
-- [Detect Thoughts](detect-thoughts-xphb "XPHB")
+- [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md "XPHB")

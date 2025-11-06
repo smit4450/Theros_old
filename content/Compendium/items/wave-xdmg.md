@@ -15,8 +15,8 @@ aliases:
 
 
 - **Damage**:
-  - One-handed: 1d8 P
-  - Two-handed: 1d10 P
+  - One-handed: 1d8 piercing
+  - Two-handed: 1d10 piercing
 - **Range**: 20/60
 - **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.

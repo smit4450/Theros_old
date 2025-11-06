@@ -24,4 +24,4 @@ Pressing one side of the cube, you cast [Gate](Compendium/spells/gate-xphb.md), 
 
 Pressing one side of the cube twice, you cast [Plane Shift](Compendium/spells/plane-shift-xphb.md), transporting the targets to the plane of existence keyed to that side.
 
-*Source: Dungeon Master's Guide (2024) p. 247*
+*Source: Dungeon Master's Guide (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

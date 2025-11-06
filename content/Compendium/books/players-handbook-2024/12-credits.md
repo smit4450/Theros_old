@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Credits"]
+aliases:
+- Credits
 ---
 # Credits
 *Source: Player's Handbook (2024), p. 2* 
@@ -17,7 +19,7 @@ aliases: ["Credits"]
         - **Graphic Designers.** Matt Cole (lead), Trystan Falcone, Trish Yochum    
         - **Cover Illustrators.** Wylie Beckert, Tyler Jacobson    
         - **Cartographers.** Francesca Baerald, Mike Schley    
-        - **Interior Illustrators.** Rob Alexander, David Astruga, Helge C. Balzer, Luca Bancone, Eric Belisle, Olivier Bernard, Zoltan Boros, Michael Broussard, Ignatius Budi, Dmitry Burmak, Ekaterina Burmak, Pedro Cardoso, Kai Carpenter, Clint Cearley, Javier Charro, Jedd Chevrier, Billy Christian, Tuan Duong Chu, Conceptopolis, CoupleOfKooks, Justine Cruz, Daarken, Nikki Dawes, Jonas De Ro, Yuhong Ding, Aldo Dominguez, Olga Drebas, Tomas Duchek, Jesper Ejsing, Wayne England, Martina Fackova, Aurore Folny, Evyn Fong, Jessica Fong, Gaboleps, Caroline Gariba, Michele Giorgi, Igor Grechanyi, John Grello, Leesha Hannigan, Patrik Hell, Nathaniel Himawan, Alexandre Honoré, Ralph Horsley, Jane Katsubo, Jonathan Kuo, Katerina Ladon, Néstor Ossandón Leal, Linda Lithen, Titus Lunter, Erel Maatita, Randall Mackey, Erion Makuo, Antonio José Manzanedo, Andrew Mar, Raluca Marinescu, Marcela Medeiros, Julia Metzger, Alexander Mokhov, Caio Monteiro, Calder Moore, Riccardo Moscatello, Martin Mottet, Jodie Muir, David Auden Nash, Irina Nordsol, Hinchel Or, Hector Ortiz, Alejandro Pacheco, Mike Pape, Borja Pindado, Andrea Piparo, Polar Engine, April Prime, Noor Rahman, Chris Rallis, Joshua Raphael, Aaron J. Riley, Denman Rooke, Hocheol Ryu, Fabià Sans, Chris Seaman, Alditha Siregar, Bryan Sola, Craig J Spearing, Justin Sweet, Kamila Szutenberg, Wisnu Tan, Brian Valeza, Randy Vargas, Adam Vehige, Magali Villeneuve, Kenny Vo, Lauren Walsh, Joseph Weston, Campbell White, Richard Whitters, Daneen Wilkerson, Zuzanna Wuzyk, Lixin Yin    
+        - **Interior Illustrators.** Rob Alexander, David Astruga, Helge C. Balzer, Luca Bancone, Eric Belisle, Olivier Bernard, Zoltan Boros, Michael Broussard, Ignatius Budi, Dmitry Burmak, Ekaterina Burmak, Pedro Cardoso, Kai Carpenter, Clint Cearley, Javier Charro, Jedd Chevrier, Billy Christian, Tuan Duong Chu, Conceptopolis, CoupleOfKooks, Justine Cruz, Daarken, Nikki Dawes, Jonas De Ro, Yuhong Ding, Aldo Dominguez, Olga Drebas, Tomas Duchek, Jesper Ejsing, Wayne England, Martina Fačková, Aurore Folny, Evyn Fong, Jessica Fong, Gaboleps, Caroline Gariba, Michele Giorgi, Igor Grechanyi, John Grello, Leesha Hannigan, Patrik Hell, Nathaniel Himawan, Alexandre Honoré, Ralph Horsley, Jane Katsubo, Jonathan Kuo, Katerina Ladon, Néstor Ossandón Leal, Linda Lithen, Titus Lunter, Erel Maatita, Randall Mackey, Erion Makuo, Antonio José Manzanedo, Andrew Mar, Raluca Marinescu, Marcela Medeiros, Julia Metzger, Alexander Mokhov, Caio Monteiro, Calder Moore, Riccardo Moscatello, Martin Mottet, Jodie Muir, David Auden Nash, Irina Nordsol, Hinchel Or, Hector Ortiz, Alejandro Pacheco, Mike Pape, Borja Pindado, Andrea Piparo, Polar Engine, April Prime, Noor Rahman, Chris Rallis, Joshua Raphael, Aaron J. Riley, Denman Rooke, Hocheol Ryu, Fabià Sans, Chris Seaman, Alditha Siregar, Bryan Sola, Craig J Spearing, Justin Sweet, Kamila Szutenberg, Wisnu Tan, Brian Valeza, Randy Vargas, Adam Vehige, Magali Villeneuve, Kenny Vo, Lauren Walsh, Joseph Weston, Campbell White, Richard Whitters, Daneen Wilkerson, Zuzanna Wužyk, Lixin Yin    
 -     - **Concept Art Director.** Josh Herman    
         - **Concept Artists.** Even Amundsen, Carlo Arellano, Michael Broussard, John Grello, Tyler Jacobson, 9B Collective, Noor Rahman    
         - **Consultants.** Sarah Benjamin, Basheer Ghouse, Kayleigh Jones, James Mendez, Brian Powers, Pam Punzalan, Jason Schklar    

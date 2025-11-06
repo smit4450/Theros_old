@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/magic-initiate
+- ttrpg-cli/spell/feat/magic-initiate/druid-spells
 - ttrpg-cli/spell/feat/ritual-caster
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
@@ -16,26 +16,23 @@ tags:
 - ttrpg-cli/spell/subclass/college-of-lore
 classes:
 - Bard
-- Cleric
-- Cleric
-- Druid
-- Druid
-- Paladin
-- Paladin
 - Bard (College of Lore)
+- Cleric
+- Druid
+- Paladin
 aliases: ["Purify Food and Drink"]
 ---
 # Purify Food and Drink
 *1st-level, Transmutation (ritual)*  
 
 
-- **Casting time:** 1 action unless cast as a ritual
+- **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 10 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You remove poison and rot from nonmagical food and drink in a 5-foot-radius Sphere centered on a point within range.
+You remove poison and rot from nonmagical food and drink in a 5-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point within range.
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 310. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

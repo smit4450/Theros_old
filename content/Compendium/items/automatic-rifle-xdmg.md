@@ -14,7 +14,7 @@ aliases:
 *Weapon*  
 
 
-- **Damage**: 2d8 P
+- **Damage**: 2d8 piercing
 - **Range**: 80/240
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Burst Fire](Compendium/rules/item-properties.md#Burst%20Fire), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.

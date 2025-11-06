@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Stone Golem"]
 ---
 # Stone Golem
-*Source: Monster Manual (2024) p. 301*  
+*Source: Monster Manual (2024) p. 301, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/construct/img/stone-golem.webp#right)  
 ## Stone Golem
@@ -26,8 +26,6 @@ Stone golems take varied forms, such as weathered carvings of ancient deities, l
 Stone golems are typically created to protect places of significance to a group, such as a monument to an important event, a leader's tomb, or a faith's sanctuary. Roll on or choose a result from the Stone Golem Orders table to inspire the commands a stone golem follows.
 
 **Stone Golem Orders**
-
-`dice: [](stone-golem-xmm.md#^stone-golem-orders)`
 
 | dice: 1d6 | The Stone Golem Follows Orders To... |
 |-----------|--------------------------------------|
@@ -51,41 +49,45 @@ Stone golems are typically created to protect places of significance to a group,
 "ac": !!int "18"
 "hp": !!int "220"
 "hit_dice": "21d10 + 105"
+"modifier": !!int "3"
 "stats":
-- !!int "22"
-- !!int "9"
-- !!int "20"
-- !!int "3"
-- !!int "11"
-- !!int "1"
+  - !!int "22"
+  - !!int "9"
+  - !!int "20"
+  - !!int "3"
+  - !!int "11"
+  - !!int "1"
 "speed": "30 ft."
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
   \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 10"
 "languages": "understands Common plus two other languages but can't speak"
 "cr": "10"
 "traits":
-- "desc": "The golem can't shape-shift."
-  "name": "Immutable Form"
-- "desc": "The golem has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "The golem can't shape-shift."
+    "name": "Immutable Form"
+  - "desc": "The golem has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The golem makes two attacks, using Slam or Force Bolt in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +10, reach 5 ft. Hit: 15 (2d8 + 6) Bludgeoning damage\
-    \ plus 9 (2d8) Force damage."
-  "name": "Slam"
-- "desc": "Ranged Attack: +9, range 120 ft. Hit: 22 (4d10) Force damage."
-  "name": "Force Bolt"
+  - "desc": "The golem makes two attacks, using Slam or Force Bolt in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +10, reach 5 ft. *Hit:* 15 (2d8 + 6) Bludgeoning\
+      \ damage plus 9 (2d8) Force damage."
+    "name": "Slam"
+  - "desc": "*Ranged Attack Roll:* +9, range 120 ft. *Hit:* 22 (4d10) Force damage."
+    "name": "Force Bolt"
 "bonus_actions":
-- "desc": "The golem casts the [Slow](Compendium/spells/slow-xphb.md) spell, requiring\
-    \ no spell components and using Constitution as the spellcasting ability (spell\
-    \ save DC 17)."
-  "name": "Slow (Recharge 5-6)"
+  - "desc": "The golem casts the [Slow](Compendium/spells/slow-xphb.md) spell, requiring\
+      \ no spell components and using Constitution as the spellcasting ability (spell\
+      \ save DC 17).\n"
+    "name": "Slow (Recharge 5-6)"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/construct/token/stone-golem-xmm.webp"
 ```
 ^statblock

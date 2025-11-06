@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-hazard
+cssclasses:
+- json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/trp
-aliases: ["Poisoned Darts"]
+aliases:
+- Poisoned Darts
 ---
 # Poisoned Darts
 *Generic Hazard*  
@@ -23,4 +25,4 @@ As a [Search](Compendium/rules/actions.md#Search) action, a creature can examine
 
 You can scale the trap for higher levels by increasing each dart's Poison damage as follows: 7 (`2d6`) at levels 5–10, 14 (`4d6`) at levels 11–16, or 24 (`7d6`) at levels 17–20.
 
-*Source: Dungeon Master's Guide (2024) p. 101*
+*Source: Dungeon Master's Guide (2024) p. 101. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

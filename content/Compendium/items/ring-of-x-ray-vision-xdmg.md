@@ -5,11 +5,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/wondrous/ring
 aliases: 
 - "Ring of X-ray Vision"
 ---
 # Ring of X-ray Vision
-*Rare (requires attunement)*  
+*Ring, rare (requires attunement)*  
 ![](Compendium/items/img/ring-of-x-ray-vision.webp#right)
 
 
@@ -17,4 +18,4 @@ While wearing this ring, you can take a [Magic](Compendium/rules/actions.md#Magi
 
 Whenever you use the ring again before taking a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you must succeed on a DC 15 Constitution saving throw or gain 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level.
 
-*Source: Dungeon Master's Guide (2024) p. 296*
+*Source: Dungeon Master's Guide (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

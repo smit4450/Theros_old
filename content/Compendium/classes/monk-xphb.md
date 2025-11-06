@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/class/monk
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Monk"]
+aliases:
+- Monk
 ---
 # Monk
-*Source: Player's Handbook (2024) p. 100*  
+*Source: Player's Handbook (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -16,28 +18,29 @@ aliases: ["Monk"]
 > <tr><th colspan='6'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Martial Arts</th><th class="value">Focus Points</th><th class="value">Unarmored Movement</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Martial%20Arts%20(Level%201)'>Martial Arts</a>, <a href='#Unarmored%20Defense%20(Level%201)'>Unarmored Defense</a></td><td class="value">1d6</td><td class="value">⏤</td><td class="value">+0</td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Monk's%20Focus%20(Level%202)'>Monk's Focus</a>, <a href='#Unarmored%20Movement%20(Level%202)'>Unarmored Movement</a>, <a href='#Uncanny%20Metabolism%20(Level%202)'>Uncanny Metabolism</a></td><td class="value">1d6</td><td class="value">2</td><td class="value">+10</td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Deflect%20Attacks%20(Level%203)'>Deflect Attacks</a>, <a href='#Monk%20Subclass%20(Level%203)'>Monk Subclass</a></td><td class="value">1d6</td><td class="value">3</td><td class="value">+10</td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a>, <a href='#Slow%20Fall%20(Level%204)'>Slow Fall</a></td><td class="value">1d6</td><td class="value">4</td><td class="value">+10</td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra%20Attack%20(Level%205)'>Extra Attack</a>, <a href='#Stunning%20Strike%20(Level%205)'>Stunning Strike</a></td><td class="value">1d8</td><td class="value">5</td><td class="value">+10</td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Empowered%20Strikes%20(Level%206)'>Empowered Strikes</a>, <a href='#Subclass%20Feature%20(Level%206)'>Subclass Feature</a></td><td class="value">1d8</td><td class="value">6</td><td class="value">+15</td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Evasion%20(Level%207)'>Evasion</a></td><td class="value">1d8</td><td class="value">7</td><td class="value">+15</td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a></td><td class="value">1d8</td><td class="value">8</td><td class="value">+15</td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Acrobatic%20Movement%20(Level%209)'>Acrobatic Movement</a></td><td class="value">1d8</td><td class="value">9</td><td class="value">+15</td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Heightened%20Focus%20(Level%2010)'>Heightened Focus</a>, <a href='#Self-Restoration%20(Level%2010)'>Self-Restoration</a></td><td class="value">1d8</td><td class="value">10</td><td class="value">+20</td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Subclass%20Feature%20(Level%2011)'>Subclass Feature</a></td><td class="value">1d10</td><td class="value">11</td><td class="value">+20</td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td><td class="value">1d10</td><td class="value">12</td><td class="value">+20</td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Deflect%20Energy%20(Level%2013)'>Deflect Energy</a></td><td class="value">1d10</td><td class="value">13</td><td class="value">+20</td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Disciplined%20Survivor%20(Level%2014)'>Disciplined Survivor</a></td><td class="value">1d10</td><td class="value">14</td><td class="value">+25</td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Perfect%20Focus%20(Level%2015)'>Perfect Focus</a></td><td class="value">1d10</td><td class="value">15</td><td class="value">+25</td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td><td class="value">1d10</td><td class="value">16</td><td class="value">+25</td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Subclass%20Feature%20(Level%2017)'>Subclass Feature</a></td><td class="value">1d12</td><td class="value">17</td><td class="value">+25</td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Superior%20Defense%20(Level%2018)'>Superior Defense</a></td><td class="value">1d12</td><td class="value">18</td><td class="value">+30</td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Epic%20Boon%20(Level%2019)'>Epic Boon</a></td><td class="value">1d12</td><td class="value">19</td><td class="value">+30</td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Body%20and%20Mind%20(Level%2020)'>Body and Mind</a></td><td class="value">1d12</td><td class="value">20</td><td class="value">+30</td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Martial Arts (Level 1)' class='internal-link'>Martial Arts</a>, <a href='#Unarmored Defense (Level 1)' class='internal-link'>Unarmored Defense</a></td><td class="value">1d6</td><td class="value">⏤</td><td class="value">+0</td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Monk's Focus (Level 2)' class='internal-link'>Monk's Focus</a>, <a href='#Unarmored Movement (Level 2)' class='internal-link'>Unarmored Movement</a>, <a href='#Uncanny Metabolism (Level 2)' class='internal-link'>Uncanny Metabolism</a></td><td class="value">1d6</td><td class="value">2</td><td class="value">+10</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Deflect Attacks (Level 3)' class='internal-link'>Deflect Attacks</a>, <a href='#Monk Subclass (Level 3)' class='internal-link'>Monk Subclass</a></td><td class="value">1d6</td><td class="value">3</td><td class="value">+10</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a>, <a href='#Slow Fall (Level 4)' class='internal-link'>Slow Fall</a></td><td class="value">1d6</td><td class="value">4</td><td class="value">+10</td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra Attack (Level 5)' class='internal-link'>Extra Attack</a>, <a href='#Stunning Strike (Level 5)' class='internal-link'>Stunning Strike</a></td><td class="value">1d8</td><td class="value">5</td><td class="value">+10</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Empowered Strikes (Level 6)' class='internal-link'>Empowered Strikes</a>, <a href='#Subclass Feature (Level 6)' class='internal-link'>Subclass Feature</a></td><td class="value">1d8</td><td class="value">6</td><td class="value">+15</td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Evasion (Level 7)' class='internal-link'>Evasion</a></td><td class="value">1d8</td><td class="value">7</td><td class="value">+15</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td><td class="value">1d8</td><td class="value">8</td><td class="value">+15</td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Acrobatic Movement (Level 9)' class='internal-link'>Acrobatic Movement</a></td><td class="value">1d8</td><td class="value">9</td><td class="value">+15</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Heightened Focus (Level 10)' class='internal-link'>Heightened Focus</a>, <a href='#Self-Restoration (Level 10)' class='internal-link'>Self-Restoration</a></td><td class="value">1d8</td><td class="value">10</td><td class="value">+20</td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Subclass Feature (Level 11)' class='internal-link'>Subclass Feature</a></td><td class="value">1d10</td><td class="value">11</td><td class="value">+20</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">1d10</td><td class="value">12</td><td class="value">+20</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Deflect Energy (Level 13)' class='internal-link'>Deflect Energy</a></td><td class="value">1d10</td><td class="value">13</td><td class="value">+20</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Disciplined Survivor (Level 14)' class='internal-link'>Disciplined Survivor</a></td><td class="value">1d10</td><td class="value">14</td><td class="value">+25</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Perfect Focus (Level 15)' class='internal-link'>Perfect Focus</a></td><td class="value">1d10</td><td class="value">15</td><td class="value">+25</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">1d10</td><td class="value">16</td><td class="value">+25</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Subclass Feature (Level 17)' class='internal-link'>Subclass Feature</a></td><td class="value">1d12</td><td class="value">17</td><td class="value">+25</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Superior Defense (Level 18)' class='internal-link'>Superior Defense</a></td><td class="value">1d12</td><td class="value">18</td><td class="value">+30</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Epic Boon (Level 19)' class='internal-link'>Epic Boon</a></td><td class="value">1d12</td><td class="value">19</td><td class="value">+30</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Body and Mind (Level 20)' class='internal-link'>Body and Mind</a></td><td class="value">1d12</td><td class="value">20</td><td class="value">+30</td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 ## Hit Points
 
@@ -98,9 +101,9 @@ Your focus and martial training allow you to harness a well of extraordinary ene
 
 You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below.
 
-When you expend a Focus Point, it is unavailable until you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), at the end of which you regain all your expended points.
+When you expend a Focus Point, it is unavailable until you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), at the end of which you regain all your expended points.
 
-Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md).
+Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md).
 
 ### Flurry of Blows (Level 2)
 
@@ -128,7 +131,7 @@ Once you use this feature, you can't use it again until you finish a [Long Rest]
 
 When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to reduce the attack's total damage against you. The reduction equals `1d10` plus your Dexterity modifier and Monk level.
 
-If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind [Cover](Compendium/rules/variant-rules/cover-xphb.md) if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
+If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind [Total Cover](Compendium/rules/variant-rules/cover-xphb.md) if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
 
 ### Monk Subclass (Level 3)
 

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/wizard/abjurer
-aliases: ["Abjurer"]
+aliases:
+- Abjurer
 ---
 # Abjurer
-*[Wizard](wizard-xphb.md): Wizard Subclass*  
+*[Wizard](./wizard-xphb.md): Wizard Subclass*  
 *Source: Player's Handbook (2024) p. 172*  
 
 > [!tldr] Class and Feature Progression
@@ -19,18 +21,18 @@ aliases: ["Abjurer"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Abjurer%20(Level%203)'>Abjurer</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Abjurer (Level 3)' class='internal-link'>Abjurer</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Projected%20Ward%20(Level%206)'>Projected Ward</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Projected Ward (Level 6)' class='internal-link'>Projected Ward</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Spell%20Breaker%20(Level%2010)'>Spell Breaker</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Spell Breaker (Level 10)' class='internal-link'>Spell Breaker</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Spell%20Resistance%20(Level%2014)'>Spell Resistance</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Spell Resistance (Level 14)' class='internal-link'>Spell Resistance</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -38,7 +40,8 @@ aliases: ["Abjurer"]
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -57,7 +60,7 @@ In addition, whenever you gain access to a new level of spell slots in this clas
 
 ### Arcane Ward (Level 3)
 
-You can weave magic around yourself for protection. When you cast an Abjuration spell with a spell slot, you can simultaneously use a strand of the spell's magic to create a magical ward on yourself that lasts until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). The ward has a [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) maximum equal to twice your Wizard level plus your Intelligence modifier. Whenever you take damage, the ward takes the damage instead, and if you have any Resistances or Vulnerabilities, apply them before reducing the ward's [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). If the damage reduces the ward to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), you take any remaining damage. While the ward has 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it can't absorb damage, but its magic remains.
+You can weave magic around yourself for protection. When you cast an Abjuration spell with a spell slot, you can simultaneously use a strand of the spell's magic to create a magical ward on yourself that lasts until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). The ward has a [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum equal to twice your Wizard level plus your Intelligence modifier. Whenever you take damage, the ward takes the damage instead, and if you have any Resistances or Vulnerabilities, apply them before reducing the ward's [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). If the damage reduces the ward to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), you take any remaining damage. While the ward has 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it can't absorb damage, but its magic remains.
 
 Whenever you cast an Abjuration spell with a spell slot, the ward regains a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to twice the level of the spell slot. Alternatively, as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can expend a spell slot, and the ward regains a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to twice the level of the spell slot expended.
 
@@ -69,7 +72,7 @@ When a creature that you can see within 30 feet of yourself takes damage, you ca
 
 ### Spell Breaker (Level 10)
 
-You always have the [Counterspell](Compendium/spells/counterspell-xphb.md) and [Dispel Magic](Compendium/spells/dispel-magic-xphb.md) spells prepared. In addition, you can cast [Dispel Magic](Compendium/spells/dispel-magic-xphb.md) as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), and you can add your [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md) to its ability check.
+You always have the [Counterspell](Compendium/spells/counterspell-xphb.md) and [Dispel Magic](Compendium/spells/dispel-magic-xphb.md) spells prepared. In addition, you can cast [Dispel Magic](Compendium/spells/dispel-magic-xphb.md) as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), and you can add your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) to its ability check.
 
 When you cast either spell with a spell slot, that slot isn't expended if the spell fails to stop a spell.
 

@@ -36,13 +36,14 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "ac": !!int "12"
 "hp": !!int "45"
 "hit_dice": "6d10 + 12"
+"modifier": !!int "-2"
 "stats":
-- !!int "14"
-- !!int "7"
-- !!int "14"
-- !!int "1"
-- !!int "12"
-- !!int "3"
+  - !!int "14"
+  - !!int "7"
+  - !!int "14"
+  - !!int "1"
+  - !!int "12"
+  - !!int "3"
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, cold, piercing, slashing"
 "damage_immunities": "fire, poison"
@@ -51,27 +52,29 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
   \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
   \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained),\
   \ [stunned](Compendium/rules/conditions.md#Stunned)"
-"senses": "darkvision 120 ft. (unimpeded by magical darkness), passive Perception\
-  \ 11"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft. (unimpeded\
+  \ by magical [Darkness](Compendium/rules/variant-rules/darkness-xphb.md)), passive\
+  \ Perception 11"
 "languages": "understands Infernal but can't speak"
 "cr": "3"
 "traits":
-- "desc": "If the swarm dies in the Nine Hells, it revives with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ in 1d10 days unless it is killed by a creature under the effects of a [Bless](Compendium/spells/bless-xphb.md)\
-    \ spell or its remains are sprinkled with Holy Water."
-  "name": "Hellish Restoration"
-- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
-    \ can move through an opening large enough for a Medium creature. The swarm can't\
-    \ regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) or gain\
-    \ [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)."
-  "name": "Swarm"
+  - "desc": "If the swarm dies in the Nine Hells, it revives with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ in 1d10 days unless it is killed by a creature under the effects of a [Bless](Compendium/spells/bless-xphb.md)\
+      \ spell or its remains are sprinkled with Holy Water."
+    "name": "Hellish Restoration"
+  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
+      \ swarm can move through an opening large enough for a Medium creature. The\
+      \ swarm can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ or gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)."
+    "name": "Swarm"
 "actions":
-- "desc": "The swarm makes two Vile Slime attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 11 (2d8 + 2) Poison damage,\
-    \ or 9 (2d6 + 2) Poison damage if the swarm is [Bloodied](Compendium/rules/variant-rules/bloodied-xphb.md)."
-  "name": "Vile Slime"
+  - "desc": "The swarm makes two Vile Slime attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 11 (2d8 + 2) Poison damage,\
+      \ or 9 (2d6 + 2) Poison damage if the swarm is [Bloodied](Compendium/rules/conditions.md#Bloodied)."
+    "name": "Vile Slime"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/fiend/token/swarm-of-lemures-xmm.webp"
 ```
 ^statblock

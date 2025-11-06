@@ -9,8 +9,6 @@ tags:
 - ttrpg-cli/spell/school/conjuration
 classes:
 - Bard
-- Bard
-- Wizard
 - Wizard
 aliases: ["Mordenkainen's Magnificent Mansion"]
 ---
@@ -20,8 +18,8 @@ aliases: ["Mordenkainen's Magnificent Mansion"]
 
 - **Casting time:** 1 minute
 - **Range:** 300 feet
-- **Components:** V, S, a miniature door worth 15+ GP
-- **Duration:** 24 hour
+- **Components:** V, S, M (a miniature door worth 15+ GP)
+- **Duration:** 24 hours
 
 You conjure a shimmering door in range that lasts for the duration. The door leads to an extradimensional dwelling and is 5 feet wide and 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the door remains open. You can open or close it (no action required) if you are within 30 feet of it. While closed, the door is imperceptible.
 
@@ -33,6 +31,6 @@ A staff of 100 near-transparent servants attends all who enter. You determine th
 
 When the spell ends, any creatures or objects left inside the extradimensional space are expelled into the unoccupied spaces nearest to the entrance.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 300. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Magnificent Mansion") and the Free Rules (2024)*

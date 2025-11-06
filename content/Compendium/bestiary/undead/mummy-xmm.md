@@ -12,16 +12,14 @@ statblock: inline
 aliases: ["Mummy"]
 ---
 # Mummy
-*Source: Monster Manual (2024) p. 219*  
+*Source: Monster Manual (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/undead/img/mummy.webp#right)  
+![](Compendium/bestiary/undead/img/mummies.webp#right)  
 Common mummies are the remains of priests, nobles, or champions of faith that underwent magical burial rites. Some are preserved through processes using linen wrappings or clay, but others are preserved by peat bogs, ice, magic, or other means.
 
 Roll on or choose a result from the Mummy Resurrections table to determine why a mummy has returned from the dead.
 
 **Mummy Resurrections**
-
-`dice: [](mummy-xmm.md#^mummy-resurrections)`
 
 | dice: 1d8 | The Mummy Reanimates To... |
 |-----------|----------------------------|
@@ -44,7 +42,7 @@ Roll on or choose a result from the Mummy Resurrections table to determine why a
 *Deathless Ancients with Ageless Ambitions*
 
 - **Habitat.** Desert, Swamp  
-- **Treasure.** Relics  
+- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
 
 Mysterious rites and mighty faith can tie spirits to their corpses, binding them to their remains for all time. Should their resting places be violated, these beings, known as mummies, reanimate their deteriorating bodies to restore the sanctity of their tombs and punish those who disturbed their rest.
 
@@ -61,43 +59,46 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
 "ac": !!int "11"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
+"modifier": !!int "-1"
 "stats":
-- !!int "16"
-- !!int "8"
-- !!int "15"
-- !!int "6"
-- !!int "12"
-- !!int "12"
+  - !!int "16"
+  - !!int "8"
+  - !!int "15"
+  - !!int "6"
+  - !!int "12"
+  - !!int "12"
 "speed": "20 ft."
 "saves":
-  "Wisdom": !!int "3"
+  - "wisdom": !!int "3"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 11"
 "languages": "Common plus two other languages"
 "cr": "3"
 "actions":
-- "desc": "The mummy makes two Rotting Fist attacks and uses Dreadful Glare."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +5, reach 5 ft. Hit: 8 (1d10 + 3) Bludgeoning damage\
-    \ plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed.\
-    \ While cursed, the target can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
-    \ its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) maximum\
-    \ doesn't return to normal when finishing a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md),\
-    \ and its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) maximum\
-    \ decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns\
-    \ to dust if reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ by this attack."
-  "name": "Rotting Fist"
-- "desc": "Wisdom Saving Throw: DC 11, one creature the mummy can see within 60\
-    \ feet. Failure: The target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
-    \ condition until the end of the mummy's next turn. Success: The target is immune\
-    \ to this mummy's Dreadful Glare for 24 hours."
-  "name": "Dreadful Glare"
+  - "desc": "The mummy makes two Rotting Fist attacks and uses Dreadful Glare."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (1d10 + 3) Bludgeoning\
+      \ damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is\
+      \ cursed. While cursed, the target can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
+      \ its [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum\
+      \ doesn't return to normal when finishing a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md),\
+      \ and its [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum\
+      \ decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns\
+      \ to dust if reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ by this attack."
+    "name": "Rotting Fist"
+  - "desc": "*Wisdom Saving Throw:* DC 11, one creature the mummy can see within 60\
+      \ feet. *Failure:* The target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ condition until the end of the mummy's next turn. *Success:* The target is\
+      \ immune to this mummy's Dreadful Glare for 24 hours."
+    "name": "Dreadful Glare"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/undead/token/mummy-xmm.webp"
 ```
 ^statblock

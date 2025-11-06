@@ -10,29 +10,28 @@ tags:
 - ttrpg-cli/spell/level/4th-level
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/circle-of-the-sea
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Bard
 - Cleric
-- Cleric
 - Druid
-- Druid
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
+- Druid (Circle of the Sea)
 - Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Wizard
 aliases: ["Control Water"]
 ---
 # Control Water
 *4th-level, Transmutation*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 300 feet
-- **Components:** V, S, a mixture of water and dust
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a mixture of water and dust)
+- **Duration:** Concentration, up to 10 minutes
 
-Until the spell ends, you control any water inside an area you choose that is a Cube up to 100 feet on a side, using one of the following effects. As a [Magic](Compendium/rules/actions.md#Magic) action on your later turns, you can repeat the same effect or choose a different one.
+Until the spell ends, you control any water inside an area you choose that is a [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) up to 100 feet on a side, using one of the following effects. As a [Magic](Compendium/rules/actions.md#Magic) action on your later turns, you can repeat the same effect or choose a different one.
 
 ## Flood
 
@@ -54,6 +53,6 @@ You cause a whirlpool to form in the center of the area, which must be at least 
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid (Circle of the Sea)](Compendium/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 256. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

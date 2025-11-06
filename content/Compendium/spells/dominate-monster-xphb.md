@@ -11,12 +11,8 @@ tags:
 - ttrpg-cli/spell/school/enchantment
 classes:
 - Bard
-- Bard
-- Sorcerer
 - Sorcerer
 - Warlock
-- Warlock
-- Wizard
 - Wizard
 aliases: ["Dominate Monster"]
 ---
@@ -24,7 +20,7 @@ aliases: ["Dominate Monster"]
 *8th-level, Enchantment*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
@@ -37,6 +33,6 @@ You can command the target to take a [Reaction](Compendium/rules/variant-rules/r
 
 **Using a Higher-Level Spell Slot.** Your [Concentration](Compendium/rules/conditions.md#Concentration) can last longer with a level 9 spell slot (up to 8 hours).
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 265. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

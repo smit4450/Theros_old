@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Item Types"]
+aliases:
+- Item Types
 ---
 # Item Types
 
@@ -22,7 +24,7 @@ _Source: Player's Handbook (2024) p. 220. Available in the Free Rules (2024)_
 
 Artisan's Tools are each focused on crafting items and pursuing a trade. Each type of Artisan's Tools tools requires a separate proficiency.
 
-If you have proficiency with a tool, add your [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the check too.
+If you have proficiency with a tool, add your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the check too.
 
 ## Explosive
 _Source: Dungeon Master's Guide (2024) p. 72_
@@ -33,7 +35,7 @@ _Source: Player's Handbook (2024) p. 231. Available in the Free Rules (2024)_
 ## Gaming Set
 _Source: Player's Handbook (2024) p. 221. Available in the Free Rules (2024)_
 
-If you have proficiency with a tool, add your [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the check too.
+If you have proficiency with a tool, add your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the check too.
 
 ## Heavy Armor
 _Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
@@ -41,7 +43,7 @@ _Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
 ## Instrument
 _Source: Player's Handbook (2024) p. 221. Available in the Free Rules (2024)_
 
-If you have proficiency with a tool, add your [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the check too.
+If you have proficiency with a tool, add your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the check too.
 
 ## Light Armor
 _Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
@@ -78,7 +80,7 @@ _Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 ## Tool
 _Source: Player's Handbook (2024) p. 220. Available in the Free Rules (2024)_
 
-If you have proficiency with a tool, add your [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the check too.
+If you have proficiency with a tool, add your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the check too.
 
 ## Trade Bar
 _Source: Dungeon Master's Guide (2024) p. 213_
@@ -116,9 +118,9 @@ _Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 
 **Passengers.** The number of Small and Medium passengers the ship can accommodate using hammocks. A ship outfitted with private accommodations can carry one-fifth as many passengers. A passenger usually pays 5 SP per day for a hammock, but prices can vary from ship to ship. A small private cabin usually costs 2 GP per day.
 
-**Damage Threshold.** See the [Damage Threshold](Compendium/rules/variant-rules/damage-threshold-xphb.md).
+**Damage Threshold.** See the [rules glossary](Compendium/rules/variant-rules/damage-threshold-xphb.md).
 
-**Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
+**Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
 
 ## Vehicle (Land)
 _Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
@@ -132,6 +134,6 @@ _Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 
 **Passengers.** The number of Small and Medium passengers the ship can accommodate using hammocks. A ship outfitted with private accommodations can carry one-fifth as many passengers. A passenger usually pays 5 SP per day for a hammock, but prices can vary from ship to ship. A small private cabin usually costs 2 GP per day.
 
-**Damage Threshold.** See the [Damage Threshold](Compendium/rules/variant-rules/damage-threshold-xphb.md).
+**Damage Threshold.** See the [rules glossary](Compendium/rules/variant-rules/damage-threshold-xphb.md).
 
-**Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
+**Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.

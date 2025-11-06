@@ -16,4 +16,4 @@ aliases:
 
 While touching this crystal orb, you can cast [Scrying](Compendium/spells/scrying-xphb.md) (save DC 17) with it. In addition, you have [Truesight](Compendium/rules/senses.md#Truesight) with a range of 120 feet centered on the spell's sensor.
 
-*Source: Dungeon Master's Guide (2024) p. 159. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 159. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

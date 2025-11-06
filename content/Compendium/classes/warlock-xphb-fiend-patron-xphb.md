@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/warlock/fiend
-aliases: ["Fiend Patron"]
+aliases:
+- Fiend Patron
 ---
 # Fiend Patron
-*[Warlock](warlock-xphb.md): Warlock Subclass*  
-*Source: Player's Handbook (2024) p. 161*  
+*[Warlock](./warlock-xphb.md): Warlock Subclass*  
+*Source: Player's Handbook (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -19,18 +21,18 @@ aliases: ["Fiend Patron"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Fiend%20Patron%20(Level%203)'>Fiend Patron</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Fiend Patron (Level 3)' class='internal-link'>Fiend Patron</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Dark%20One's%20Own%20Luck%20(Level%206)'>Dark One's Own Luck</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Dark One's Own Luck (Level 6)' class='internal-link'>Dark One's Own Luck</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Fiendish%20Resilience%20(Level%2010)'>Fiendish Resilience</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Fiendish Resilience (Level 10)' class='internal-link'>Fiendish Resilience</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Hurl%20Through%20Hell%20(Level%2014)'>Hurl Through Hell</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Hurl Through Hell (Level 14)' class='internal-link'>Hurl Through Hell</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -38,7 +40,8 @@ aliases: ["Fiend Patron"]
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -65,7 +68,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 ### Dark One's Blessing (Level 3)
 
-When you reduce an enemy to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), you gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Charisma modifier plus your Warlock level (minimum of 1 [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).
+When you reduce an enemy to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), you gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Charisma modifier plus your Warlock level (minimum of 1 [Temporary Hit Point](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).
 
 ### Dark One's Own Luck (Level 6)
 
@@ -75,7 +78,7 @@ You can use this feature a number of times equal to your Charisma modifier (mini
 
 ### Fiendish Resilience (Level 10)
 
-Choose one damage type, other than Force, whenever you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to that damage type until you choose a different one with this feature.
+Choose one damage type, other than Force, whenever you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to that damage type until you choose a different one with this feature.
 
 ### Hurl Through Hell (Level 14)
 

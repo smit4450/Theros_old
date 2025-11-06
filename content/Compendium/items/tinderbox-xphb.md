@@ -17,4 +17,4 @@ aliases:
 
 A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a [Candle](Compendium/items/candle-xphb.md), [Lamp](Compendium/items/lamp-xphb.md), [Lantern](Compendium/items/hooded-lantern-xphb.md), or [Torch](Compendium/items/torch-xphb.md)—or anything else with exposed fuel—takes a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md). Lighting any other fire takes 1 minute.
 
-*Source: Player's Handbook (2024) p. 229. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

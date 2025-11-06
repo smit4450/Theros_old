@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Defender"
 - "Defender Battleaxe"
@@ -81,82 +82,82 @@ The first time you attack with the weapon on each of your turns, you can transfe
 ### Defender Battleaxe
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Defender Club
 
-- **Damage**: 1d4 B
+- **Damage**: 1d4 bludgeoning
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Defender Dagger
 
-- **Damage**: 1d4 P
+- **Damage**: 1d4 piercing
 - **Range**: 20/60
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### Defender Flail
 
-- **Damage**: 1d8 B
+- **Damage**: 1d8 bludgeoning
 - **Weight**: 2.0 lbs.
 
 ### Defender Glaive
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Defender Greataxe
 
-- **Damage**: 1d12 S
+- **Damage**: 1d12 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Defender Greatclub
 
-- **Damage**: 1d8 B
+- **Damage**: 1d8 bludgeoning
 - **Properties**: [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Defender Greatsword
 
-- **Damage**: 2d6 S
+- **Damage**: 2d6 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Defender Halberd
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Defender Handaxe
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Range**: 20/60
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Defender Javelin
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 30/120
 - **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Defender Lance
 
-- **Damage**: 1d10 P
+- **Damage**: 1d10 piercing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach)
 - **Weight**: 6.0 lbs.
 
 ### Defender Light Hammer
 
-- **Damage**: 1d4 B
+- **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
@@ -164,70 +165,70 @@ The first time you attack with the weapon on each of your turns, you can transfe
 ### Defender Longsword
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Defender Mace
 
-- **Damage**: 1d6 B
+- **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
 
 ### Defender Maul
 
-- **Damage**: 2d6 B
+- **Damage**: 2d6 bludgeoning
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Defender Morningstar
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Weight**: 4.0 lbs.
 
 ### Defender Pike
 
-- **Damage**: 1d10 P
+- **Damage**: 1d10 piercing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Defender Quarterstaff
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Defender Rapier
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Defender Scimitar
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Defender Shortsword
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Defender Sickle
 
-- **Damage**: 1d4 S
+- **Damage**: 1d4 slashing
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Defender Spear
 
 - **Damage**:
-  - One-handed: 1d6 P
-  - Two-handed: 1d8 P
+  - One-handed: 1d6 piercing
+  - Two-handed: 1d8 piercing
 - **Range**: 20/60
 - **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
@@ -235,8 +236,8 @@ The first time you attack with the weapon on each of your turns, you can transfe
 ### Defender Trident
 
 - **Damage**:
-  - One-handed: 1d8 P
-  - Two-handed: 1d10 P
+  - One-handed: 1d8 piercing
+  - Two-handed: 1d10 piercing
 - **Range**: 20/60
 - **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
@@ -244,24 +245,24 @@ The first time you attack with the weapon on each of your turns, you can transfe
 ### Defender War Pick
 
 - **Damage**:
-  - One-handed: 1d8 P
-  - Two-handed: 1d10 P
+  - One-handed: 1d8 piercing
+  - Two-handed: 1d10 piercing
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 2.0 lbs.
 
 ### Defender Warhammer
 
 - **Damage**:
-  - One-handed: 1d8 B
-  - Two-handed: 1d10 B
+  - One-handed: 1d8 bludgeoning
+  - Two-handed: 1d10 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 5.0 lbs.
 
 ### Defender Whip
 
-- **Damage**: 1d4 S
+- **Damage**: 1d4 slashing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Reach](Compendium/rules/item-properties.md#Reach)
 - **Weight**: 3.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 252*
+*Source: Dungeon Master's Guide (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

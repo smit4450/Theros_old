@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Moon-Touched Sword"
 - "Moon-Touched Double-Bladed Scimitar"
@@ -32,39 +33,39 @@ In [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the unsheathed b
 
 ### Moon-Touched Double-Bladed Scimitar
 
-- **Damage**: 2d4 S
+- **Damage**: 2d4 slashing
 - **Properties**: [Two-Handed](Compendium/rules/item-properties.md#Two-Handed), special
 - **Weight**: 6.0 lbs.
 
 ### Moon-Touched Greatsword
 
-- **Damage**: 2d6 S
+- **Damage**: 2d6 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Moon-Touched Longsword
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Moon-Touched Rapier
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Moon-Touched Scimitar
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Moon-Touched Shortsword
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 

@@ -15,7 +15,7 @@ statblock: inline
 aliases: ["Griffon"]
 ---
 # Griffon
-*Source: Monster Manual (2024) p. 159*  
+*Source: Monster Manual (2024) p. 159. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/monstrosity/img/griffon.webp#right)  
 ## Griffon
@@ -30,8 +30,6 @@ Griffons combine the features of raptors and big cats—most commonly eagles and
 Countless tales surround griffons. Roll on or choose a result from the Griffon Tales table to inspire stories about them.
 
 **Griffon Tales**
-
-`dice: [](griffon-xmm.md#^griffon-tales)`
 
 | dice: 1d6 | Legends Claim That Griffons... |
 |-----------|--------------------------------|
@@ -55,27 +53,31 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
 "ac": !!int "12"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "2"
-- !!int "13"
-- !!int "8"
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "2"
+  - !!int "13"
+  - !!int "8"
 "speed": "30 ft., fly 80 ft."
 "skillsaves":
-  "Perception": !!int "5"
-"senses": "darkvision 60 ft., passive Perception 15"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 15"
 "languages": ""
 "cr": "2"
 "actions":
-- "desc": "The griffon makes two Rend attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +6, reach 5 ft. Hit: 8 (1d8 + 4) Piercing damage.\
-    \ If the target is a Medium or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
-    \ condition (escape DC 14) from both of the griffon's front claws."
-  "name": "Rend"
+  - "desc": "The griffon makes two Rend attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d8 + 4) Piercing\
+      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 14) from both of the griffon's front claws."
+    "name": "Rend"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/monstrosity/token/griffon-xmm.webp"
 ```
 ^statblock

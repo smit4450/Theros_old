@@ -18,4 +18,4 @@ The next time you see a creature within 10 minutes after drinking this philter, 
 
 This rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.
 
-*Source: Dungeon Master's Guide (2024) p. 285*
+*Source: Dungeon Master's Guide (2024) p. 285. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

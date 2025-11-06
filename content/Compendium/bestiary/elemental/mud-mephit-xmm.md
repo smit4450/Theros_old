@@ -14,7 +14,7 @@ aliases: ["Mud Mephit"]
 # Mud Mephit
 *Source: Monster Manual (2024) p. 207*  
 
-![](Compendium/bestiary/elemental/img/mud-mephit.webp#right)  
+![](Compendium/bestiary/elemental/img/mephits.webp#right)  
 A combination of earth and water, mud mephits are crude, disgusting creatures. They take every opportunity to ruin objects and pollute food with muck.
 
 ## Mephits
@@ -42,36 +42,41 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "ac": !!int "11"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
+"modifier": !!int "1"
 "stats":
-- !!int "8"
-- !!int "12"
-- !!int "12"
-- !!int "9"
-- !!int "11"
-- !!int "7"
+  - !!int "8"
+  - !!int "12"
+  - !!int "12"
+  - !!int "9"
+  - !!int "11"
+  - !!int "7"
 "speed": "20 ft., fly 20 ft., swim 20 ft."
 "skillsaves":
-  "Stealth": !!int "3"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+3"
 "damage_immunities": "poison"
 "condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
 "languages": "Primordial (Aquan, Terran)"
 "cr": "1/4"
 "traits":
-- "desc": "The mephit explodes when it dies. Dexterity Saving Throw: DC 11, each\
-    \ creature in a 5-foot [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the mephit. Failure: The target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
-    \ condition until the end of its next turn."
-  "name": "Death Burst"
+  - "desc": "The mephit explodes when it dies. *Dexterity Saving Throw:* DC 11, each\
+      \ creature in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the mephit. *Failure:* The target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ condition until the end of its next turn."
+    "name": "Death Burst"
 "actions":
-- "desc": "Melee Attack: +3, reach 5 ft. Hit: 4 (1d6 + 1) Bludgeoning damage."
-  "name": "Slam"
-- "desc": "Dexterity Saving Throw: DC 11, one creature the mephit can see within\
-    \ 15 feet. Failure: The target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
-    \ condition until the end of the mephit's next turn."
-  "name": "Mud Breath (Recharge 6)"
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Bludgeoning\
+      \ damage."
+    "name": "Slam"
+  - "desc": "*Dexterity Saving Throw:* DC 11, one creature the mephit can see within\
+      \ 15 feet. *Failure:* The target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ condition until the end of the mephit's next turn."
+    "name": "Mud Breath (Recharge 6)"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/elemental/token/mud-mephit-xmm.webp"
 ```
 ^statblock

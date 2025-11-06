@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/item/armor/heavy
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Elven Chain"
 - "Elven Chain Mail"
@@ -35,4 +36,4 @@ You gain a +1 bonus to [Armor Class](Compendium/rules/variant-rules/armor-class-
 - **Weight**: 20.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 257. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 257. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

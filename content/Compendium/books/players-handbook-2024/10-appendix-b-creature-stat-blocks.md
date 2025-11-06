@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Appendix B: Creature Stat Blocks"]
+aliases:
+- Appendix B: Creature Stat Blocks
 ---
 # Appendix B: Creature Stat Blocks
 *Source: Player's Handbook (2024), p. 346* 

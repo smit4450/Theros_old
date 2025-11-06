@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Enspelled Armor (Level 5)"
 - "Enspelled (Level 5) Breastplate"

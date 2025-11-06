@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Power Level; Magic Item Power by Rarity"]
+aliases:
+- Power Level; Magic Item Power by Rarity
 ---
 # Power Level; Magic Item Power by Rarity
 *Source: Dungeon Master's Guide (2024) p. 58* 

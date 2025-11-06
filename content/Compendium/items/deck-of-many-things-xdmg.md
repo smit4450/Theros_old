@@ -54,7 +54,7 @@ You can increase one of your ability scores by 2, to a maximum of 22, provided y
 
 ## Comet
 
-The next time you enter combat against one or more [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md) creatures, you can select one of them as your foe when you roll [Initiative](Compendium/rules/variant-rules/initiative-xphb.md). If you reduce your foe to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) during that combat, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Death Saving Throws for 1 year. If someone else reduces your chosen foe to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) or you don't choose a foe, this card has no effect.
+The next time you enter combat against one or more [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) creatures, you can select one of them as your foe when you roll [Initiative](Compendium/rules/variant-rules/initiative-xphb.md). If you reduce your foe to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) during that combat, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on [Death Saving Throws](Compendium/rules/variant-rules/death-saving-throw-xphb.md) for 1 year. If someone else reduces your chosen foe to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) or you don't choose a foe, this card has no effect.
 
 ## Donjon
 
@@ -81,7 +81,7 @@ A powerful devil becomes your enemy. The devil seeks your ruin and torments you,
 
 ## Fool
 
-You have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
+You have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md) for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
 
 ## Gem
 
@@ -89,7 +89,7 @@ Twenty-five pieces of jewelry worth 2,000 GP each or fifty gems worth 1,000 GP e
 
 ## Jester
 
-You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) for the next 72 hours, or you can draw two additional cards beyond your declared draws.
+You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md) for the next 72 hours, or you can draw two additional cards beyond your declared draws.
 
 ## Key
 
@@ -109,7 +109,7 @@ Permanently reduce your Intelligence or Wisdom by `1d4 + 1` (to a minimum score 
 
 ## Rogue
 
-An NPC of the DM's choice becomes [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md) toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [Wish](Compendium/spells/wish-xphb.md) spell or divine intervention can end the NPC's hostility toward you.
+An NPC of the DM's choice becomes [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [Wish](Compendium/spells/wish-xphb.md) spell or divine intervention can end the NPC's hostility toward you.
 
 ## Ruin
 
@@ -143,4 +143,4 @@ You gain proficiency and [Expertise](Compendium/rules/variant-rules/expertise-xp
 
 Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is inert, ceases aging, and requires no food, air, or water. A [Wish](Compendium/spells/wish-xphb.md) spell can't return your soul to your body, but the spell reveals the location of the object that holds your soul. You draw no more cards.
 
-*Source: Dungeon Master's Guide (2024) p. 250. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Mysterious Deck") and the Free Rules (2024)*

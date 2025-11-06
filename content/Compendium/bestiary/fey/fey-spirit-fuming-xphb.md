@@ -18,30 +18,32 @@ aliases: ["Fey Spirit (Fuming)"]
 "type": "fey"
 "alignment": "Neutral"
 "ac_class": "12 + the spell's level"
+"modifier": !!int "3"
 "stats":
-- !!int "13"
-- !!int "16"
-- !!int "14"
-- !!int "14"
-- !!int "11"
-- !!int "16"
+  - !!int "13"
+  - !!int "16"
+  - !!int "14"
+  - !!int "14"
+  - !!int "11"
+  - !!int "16"
 "speed": "30 ft., fly 30 ft."
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed)"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
 "languages": "Sylvan, understands the languages you know"
 "actions":
-- "desc": "The spirit makes a number of Fey Blade attacks equal to half this spell's\
-    \ level (round down)."
-  "name": "Multiattack"
-- "desc": "Melee Attack: YourSpellAttack Bonus equals your spell attack modifier,\
-    \ reach 5 ft. Hit: 2d6 + 3 + the spell's level Force damage."
-  "name": "Fey Blade"
+  - "desc": "The spirit makes a number of Fey Blade attacks equal to half this spell's\
+      \ level (round down)."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
+      \ ft. *Hit:* 2d6 + 3 + the spell's level Force damage."
+    "name": "Fey Blade"
 "bonus_actions":
-- "desc": "The spirit magically teleports up to 30 feet to an unoccupied space it\
-    \ can see. The spirit has Advantage on the next attack roll it makes before the\
-    \ end of this turn."
-  "name": "Fey Step"
+  - "desc": "The spirit magically teleports up to 30 feet to an unoccupied space it\
+      \ can see. The spirit has Advantage on the next attack roll it makes before\
+      \ the end of this turn."
+    "name": "Fey Step"
 "source":
-- "XPHB"
+  - "XPHB"
 ```
 ^statblock

@@ -37,31 +37,36 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
 "ac": !!int "15"
 "hp": !!int "22"
 "hit_dice": "3d8 + 9"
+"modifier": !!int "3"
 "stats":
-- !!int "13"
-- !!int "13"
-- !!int "16"
-- !!int "1"
-- !!int "7"
-- !!int "3"
+  - !!int "13"
+  - !!int "13"
+  - !!int "16"
+  - !!int "1"
+  - !!int "7"
+  - !!int "3"
 "speed": "5 ft., climb 15 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-"senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 8"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+5"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1/2"
 "traits":
-- "desc": "The piercer can climb difficult surfaces, including along ceilings, without\
-    \ needing to make an ability check."
-  "name": "Spider Climb"
+  - "desc": "The piercer can climb difficult surfaces, including along ceilings, without\
+      \ needing to make an ability check."
+    "name": "Spider Climb"
 "actions":
-- "desc": "Melee Attack: +3, reach 5 ft. Hit: 5 (1d8 + 1) Piercing damage."
-  "name": "Bite"
-- "desc": "The piercer falls. Dexterity Saving Throw: DC 11, one creature directly\
-    \ underneath the piercer. Failure: 10 (3d6) Piercing damage. Failure or Success:\
-    \ The piercer reduces any damage it takes from the fall by 20."
-  "name": "Drop"
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 5 (1d8 + 1) Piercing\
+      \ damage."
+    "name": "Bite"
+  - "desc": "The piercer falls. *Dexterity Saving Throw:* DC 11, one creature directly\
+      \ underneath the piercer. *Failure:* 10 (3d6) Piercing damage. *Failure or\
+      \ Success:* The piercer reduces any damage it takes from the fall by 20."
+    "name": "Drop"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/aberration/token/piercer-xmm.webp"
 ```
 ^statblock

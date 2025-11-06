@@ -18,17 +18,17 @@ statblock: inline
 aliases: ["Hobgoblin Captain"]
 ---
 # Hobgoblin Captain
-*Source: Monster Manual (2024) p. 171*  
+*Source: Monster Manual (2024) p. 171. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fey/img/hobgoblin-captain.webp#right)  
+![](Compendium/bestiary/fey/img/hobgoblins.webp#right)  
 Hobgoblin captains are battlefield tacticians. They lead their allies to victory by employing martial skill and rallying others with orders and threats. Hobgoblin captains usually oversee hobgoblin battle groups or gangs of weaker monsters.
 
 ## Hobgoblins
 
-*Conquerers of Every Horizon*
+*Conquerors of Every Horizon*
 
 - **Habitat.** Desert, Forest, Grassland, Hill, Mountain, Planar (Acheron), Underdark  
-- **Treasure.** Armaments, Individual  
+- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
 
 Hobgoblins embody the primal urge to grow and spread, expressing such drives by bending the world to their whims. Lone hobgoblins claim woodland territories and plunder the wilds. In groups, they form hierarchical, martial societies bent on conquering lands and stripping them of resources to serve their expansionist zeal.
 
@@ -41,8 +41,6 @@ Many hobgoblins serve the violent god Maglubiyet, whose hunger for conquest matc
 The drive to subjugate and pillage is part of hobgoblins' supernatural nature, though a few might repress their warlike tendencies or turn them to more useful ends. Roll on or choose a result from the Hobgoblin Strategies table to inspire how a hobgoblin carries out its conquest.
 
 **Hobgoblin Strategies**
-
-`dice: [](hobgoblin-captain-xmm.md#^hobgoblin-strategies)`
 
 | dice: 1d6 | The Hobgoblin Works To... |
 |-----------|---------------------------|
@@ -64,33 +62,36 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 "ac": !!int "17"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
+"modifier": !!int "4"
 "stats":
-- !!int "15"
-- !!int "14"
-- !!int "14"
-- !!int "12"
-- !!int "10"
-- !!int "13"
+  - !!int "15"
+  - !!int "14"
+  - !!int "14"
+  - !!int "12"
+  - !!int "10"
+  - !!int "13"
 "speed": "30 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
 "languages": "Common, Goblin"
 "cr": "3"
 "traits":
-- "desc": "While in a 10-foot [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the hobgoblin, the hobgoblin and its allies have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on attack rolls and saving throws, provided the hobgoblin doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
-    \ condition."
-  "name": "Aura of Authority"
+  - "desc": "While in a 10-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the hobgoblin, the hobgoblin and its allies have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on attack rolls and saving throws, provided the hobgoblin doesn't have the\
+      \ [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition."
+    "name": "Aura of Authority"
 "actions":
-- "desc": "The hobgoblin makes two attacks, using Greatsword or Longbow in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 9 (2d6 + 2) Slashing damage\
-    \ plus 3 (1d6) Poison damage."
-  "name": "Greatsword"
-- "desc": "Ranged Attack: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing\
-    \ damage plus 5 (2d4) Poison damage."
-  "name": "Longbow"
+  - "desc": "The hobgoblin makes two attacks, using Greatsword or Longbow in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 9 (2d6 + 2) Slashing\
+      \ damage plus 3 (1d6) Poison damage."
+    "name": "Greatsword"
+  - "desc": "*Ranged Attack Roll:* +4, range 150/600 ft. *Hit:* 6 (1d8 + 2) Piercing\
+      \ damage plus 5 (2d4) Poison damage."
+    "name": "Longbow"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/fey/token/hobgoblin-captain-xmm.webp"
 ```
 ^statblock

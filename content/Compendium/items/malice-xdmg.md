@@ -17,4 +17,4 @@ aliases:
 
 A creature subjected to Malice must succeed on a DC 15 Constitution saving throw or have the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 hour. The creature also has the [Blinded](Compendium/rules/conditions.md#Blinded) condition while [Poisoned](Compendium/rules/conditions.md#Poisoned) in this way.
 
-*Source: Dungeon Master's Guide (2024) p. 91*
+*Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Describe Appearance and Personality; Wisdom"]
+aliases:
+- Describe Appearance and Personality; Wisdom
 ---
 # Describe Appearance and Personality; Wisdom
 *Source: Player's Handbook (2024) p. 38* 
 
 **Wisdom**
-
-`dice: [](describe-appearance-and-personality-wisdom-xphb.md#^wisdom)`
 
 | dice: 1d4 | High Wisdom | Low Wisdom |
 |-----------|-------------|------------|

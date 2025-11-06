@@ -25,4 +25,4 @@ While wearing this belt, you gain the following benefits:
 - **Darkvision.** You have [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 60 feet.  
 - **Resilience.** You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Poison damage. You also have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition.  
 
-*Source: Dungeon Master's Guide (2024) p. 235. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 235. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

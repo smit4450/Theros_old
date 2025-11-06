@@ -10,7 +10,7 @@ aliases:
 ---
 # Potion of Fire Breath
 *Potion, uncommon*  
-
+![](Compendium/items/img/potion-of-fire-breath.webp#right)
 
 - **Weight**: 0.5 lbs.
 

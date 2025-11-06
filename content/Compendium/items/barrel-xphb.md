@@ -17,4 +17,4 @@ aliases:
 
 A Barrel holds up to 40 gallons of liquid or up to 4 cubic feet of dry goods.
 
-*Source: Player's Handbook (2024) p. 224. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -12,26 +12,25 @@ tags:
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/oath-of-the-noble-genies
 classes:
 - Bard
-- Sorcerer
-- Sorcerer
-- Warlock
-- Warlock
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
 - Bard (College of Lore)
 - Fighter (Eldritch Knight)
+- Paladin (Oath of the Noble Genies)
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Warlock
+- Wizard
 aliases: ["Gaseous Form"]
 ---
 # Gaseous Form
 *3rd-level, Transmutation*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, a bit of gauze
+- **Components:** V, S, M (a bit of gauze)
 - **Duration:** Concentration, up to 1 hour
 
 A willing creature you touch shape-shifts, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) or if it takes a [Magic](Compendium/rules/actions.md#Magic) action to end the spell on itself.
@@ -42,6 +41,6 @@ The target can't talk or manipulate objects, and any objects it was carrying or 
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 3.
 
-**Classes**: [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Noble Genies)](Compendium/lists/list-spells-classes-oath-of-the-noble-genies-frhof.md "subclass=FRHoF;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 277. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

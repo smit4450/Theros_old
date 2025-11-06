@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-object
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/large
 - ttrpg-cli/object/type/siege-weapon
-aliases: ["Ram"]
+aliases:
+- Ram
 ---
 # Ram
 %%-- Embedded content starts on the next line. --%%
@@ -31,6 +33,6 @@ title: Ram
 
 ## Actions
 
-***Ram (Requires Position).*** *Melee Attack:* `+8`, reach 5 ft. *Hit:* 16 (`3d10`) Bludgeoning damage.
+***Ram (Requires Position).*** *Melee Attack Roll:* `+8`, reach 5 ft. *Hit:* 16 (`3d10`) Bludgeoning damage.
 ```
 ^statblock

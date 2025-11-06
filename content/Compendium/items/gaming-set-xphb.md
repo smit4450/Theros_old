@@ -20,4 +20,4 @@ aliases:
 - [Playing Cards](Compendium/items/playing-cards-xphb.md)
 - [Three-Dragon Ante Set](Compendium/items/three-dragon-ante-set-xphb.md)
 
-*Source: Player's Handbook (2024) p. 221. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

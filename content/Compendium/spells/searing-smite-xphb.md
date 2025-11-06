@@ -8,14 +8,13 @@ tags:
 - ttrpg-cli/spell/school/evocation
 classes:
 - Paladin
-- Paladin
 aliases: ["Searing Smite"]
 ---
 # Searing Smite
 *1st-level, Evocation*  
 
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Self
 - **Components:** V
 - **Duration:** 1 minute
@@ -24,6 +23,6 @@ As you hit the target, it takes an extra `1d6` Fire damage from the attack. At t
 
 **Using a Higher-Level Spell Slot.** All the damage increases by `1d6` for each spell slot level above 1.
 
-**Classes**: [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin)
+**Classes**: [Paladin](Compendium/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 314. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

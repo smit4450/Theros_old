@@ -11,11 +11,8 @@ tags:
 - ttrpg-cli/spell/school/conjuration
 classes:
 - Bard
-- Bard
-- Sorcerer
 - Sorcerer
 - Warlock
-- Wizard
 - Wizard
 aliases: ["Teleportation Circle"]
 ---
@@ -25,7 +22,7 @@ aliases: ["Teleportation Circle"]
 
 - **Casting time:** 1 minute
 - **Range:** 10 feet
-- **Components:** V, rare inks worth 50+ GP, which the spell consumes
+- **Components:** V, M (rare inks worth 50+ GP, which the spell consumes)
 - **Duration:** 1 round
 
 As you cast the spell, you draw a 5-foot-radius circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
@@ -36,6 +33,6 @@ When you first gain the ability to cast this spell, you learn the sigil sequence
 
 You can create a permanent teleportation circle by casting this spell in the same location every day for 365 days.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 332. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 332. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

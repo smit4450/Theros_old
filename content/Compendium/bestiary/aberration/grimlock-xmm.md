@@ -11,9 +11,9 @@ statblock: inline
 aliases: ["Grimlock"]
 ---
 # Grimlock
-*Source: Monster Manual (2024) p. 160*  
+*Source: Monster Manual (2024) p. 160. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/aberration/img/grimlock.webp#right)  
+![](Compendium/books/monster-manual-2025/img/grimlock.webp#right)  
 ## Grimlock
 
 *Puppet of the Mind Flayer Menace*
@@ -28,8 +28,6 @@ Grimlocks have shallow depressions rather than eyes. A sixth sense allows grimlo
 Roll on or choose a result from the Grimlock Tasks table to inspire how grimlocks serve illithids.
 
 **Grimlock Tasks**
-
-`dice: [](grimlock-xmm.md#^grimlock-tasks)`
 
 | dice: 1d4 | The Grimlock Serves Mind Flayers By... |
 |-----------|----------------------------------------|
@@ -51,26 +49,32 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
 "ac": !!int "11"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
+"modifier": !!int "1"
 "stats":
-- !!int "16"
-- !!int "12"
-- !!int "12"
-- !!int "9"
-- !!int "8"
-- !!int "6"
+  - !!int "16"
+  - !!int "12"
+  - !!int "12"
+  - !!int "9"
+  - !!int "8"
+  - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Athletics": !!int "5"
-  "Stealth": !!int "5"
-  "Perception": !!int "3"
-"senses": "blindsight 30 ft., passive Perception 13"
+  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+    "desc": "+5"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+5"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception\
+  \ 13"
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "Melee Attack: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage\
-    \ plus 2 (1d4) Psychic damage."
-  "name": "Bone Cudgel"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Bludgeoning\
+      \ damage plus 2 (1d4) Psychic damage."
+    "name": "Bone Cudgel"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/aberration/token/grimlock-xmm.webp"
 ```
 ^statblock

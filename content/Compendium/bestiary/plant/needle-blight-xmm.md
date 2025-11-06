@@ -13,7 +13,7 @@ aliases: ["Needle Blight"]
 # Needle Blight
 *Source: Monster Manual (2024) p. 43*  
 
-![](Compendium/bestiary/plant/img/needle-blight.webp#right)  
+![](Compendium/bestiary/plant/img/vine-needle-and-tree-blights.webp#right)  
 Needle blights have vaguely bipedal forms, with gaunt, misshapen limbs. Whether standing unnaturally still or lurching with their awkward gaits, these blights can't pass as either normal plants or woodland travelers. Once they spot foes, needle blights attack using their thorn-covered claws or by rapidly growing and flinging volleys of serrated, needlelike projectiles.
 
 ## Blights
@@ -39,24 +39,29 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 "ac": !!int "12"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
+"modifier": !!int "1"
 "stats":
-- !!int "12"
-- !!int "12"
-- !!int "13"
-- !!int "4"
-- !!int "8"
-- !!int "3"
+  - !!int "12"
+  - !!int "12"
+  - !!int "13"
+  - !!int "4"
+  - !!int "8"
+  - !!int "3"
 "speed": "30 ft."
 "condition_immunities": "[deafened](Compendium/rules/conditions.md#Deafened)"
-"senses": "blindsight 60 ft., passive Perception 9"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+  \ 9"
 "languages": "understands Common but can't speak"
 "cr": "1/4"
 "actions":
-- "desc": "Melee Attack: +3, reach 5 ft. Hit: 6 (2d4 + 1) Slashing damage."
-  "name": "Claw"
-- "desc": "Ranged Attack: +3, range 30/60 ft. Hit: 6 (2d4 + 1) Piercing damage."
-  "name": "Needles"
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 6 (2d4 + 1) Slashing\
+      \ damage."
+    "name": "Claw"
+  - "desc": "*Ranged Attack Roll:* +3, range 30/60 ft. *Hit:* 6 (2d4 + 1) Piercing\
+      \ damage."
+    "name": "Needles"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/plant/token/needle-blight-xmm.webp"
 ```
 ^statblock

@@ -13,7 +13,7 @@ aliases: ["Grell"]
 # Grell
 *Source: Monster Manual (2024) p. 157*  
 
-![](Compendium/bestiary/aberration/img/grell.webp#right)  
+![](Compendium/books/monster-manual-2025/img/grell.webp#right)  
 ## Grell
 
 *Bizarre Hunter That Travels between Worlds*
@@ -28,8 +28,6 @@ Grells are sapient beings, but their intellects and motivations are alien to mos
 Many grells pursue methods of traveling between worlds and planes of existence. They sometimes slip onto star-faring vessels or enter portals heedless of their destination. Roll on or choose a result from the Grell Explorations table to inspire why grells seek passage between realms.
 
 **Grell Explorations**
-
-`dice: [](grell-xmm.md#^grell-explorations)`
 
 | dice: 1d6 | Grells Travel Because They Are... |
 |-----------|-----------------------------------|
@@ -53,40 +51,46 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
 "ac": !!int "12"
 "hp": !!int "55"
 "hit_dice": "10d8 + 10"
+"modifier": !!int "6"
 "stats":
-- !!int "15"
-- !!int "14"
-- !!int "13"
-- !!int "12"
-- !!int "11"
-- !!int "9"
+  - !!int "15"
+  - !!int "14"
+  - !!int "13"
+  - !!int "12"
+  - !!int "11"
+  - !!int "9"
 "speed": "10 ft., fly 30 ft. (hover)"
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "4"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
 "damage_immunities": "lightning"
 "condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [prone](Compendium/rules/conditions.md#Prone)"
-"senses": "blindsight 60 ft., passive Perception 14"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+  \ 14"
 "languages": "Deep Speech"
 "cr": "3"
 "traits":
-- "desc": "The grell needn't spend extra movement to move a creature it is grappling."
-  "name": "Abduct"
+  - "desc": "The grell needn't spend extra movement to move a creature it is grappling."
+    "name": "Abduct"
 "actions":
-- "desc": "The grell makes one Beak attack and one Paralyzing Tentacles attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 11 (2d8 + 2) Piercing damage."
-  "name": "Beak"
-- "desc": "Melee Attack: +4, reach 10 ft. Hit: 7 (1d10 + 2) Piercing damage.\
-    \ If the target is a Medium or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
-    \ condition (escape DC 12) from two of ten tentacles. The target is also subjected\
-    \ to the following effect. Constitution Saving Throw: DC 11. Failure: The\
-    \ target has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition\
-    \ and repeats the save at the end of each of its turns, ending the effect on itself\
-    \ on a success. After 1 minute, it succeeds automatically. While [Poisoned](Compendium/rules/conditions.md#Poisoned),\
-    \ the target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition."
-  "name": "Paralyzing Tentacles"
+  - "desc": "The grell makes one Beak attack and one Paralyzing Tentacles attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 11 (2d8 + 2) Piercing\
+      \ damage."
+    "name": "Beak"
+  - "desc": "*Melee Attack Roll:* +4, reach 10 ft. *Hit:* 7 (1d10 + 2) Piercing\
+      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 12) from two of ten tentacles. The target is also subjected\
+      \ to the following effect. *Constitution Saving Throw:* DC 11. *Failure:* The\
+      \ target has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition\
+      \ and repeats the save at the end of each of its turns, ending the effect on\
+      \ itself on a success. After 1 minute, it succeeds automatically. While [Poisoned](Compendium/rules/conditions.md#Poisoned),\
+      \ the target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition."
+    "name": "Paralyzing Tentacles"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/aberration/token/grell-xmm.webp"
 ```
 ^statblock

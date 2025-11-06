@@ -12,52 +12,48 @@ tags:
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/feat/magic-initiate
+- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
 - ttrpg-cli/spell/feat/ritual-caster
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/race/elf
+- ttrpg-cli/spell/race/elf/high-elf
+- ttrpg-cli/spell/reward/kruphixs-devotee
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/diviner
 - ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/knowledge-domain
 classes:
 - Bard
-- Bard
+- Bard (College of Lore)
 - Cleric
-- Cleric
+- Cleric (Knowledge Domain)
 - Druid
-- Druid
-- Paladin
+- Fighter (Eldritch Knight)
 - Paladin
 - Ranger
-- Ranger
-- Sorcerer
+- Rogue (Arcane Trickster)
 - Sorcerer
 - Warlock
 - Wizard
-- Wizard
-- Rogue (Arcane Trickster)
-- Bard (College of Lore)
 - Wizard (Diviner)
-- Fighter (Eldritch Knight)
 aliases: ["Detect Magic"]
 ---
 # Detect Magic
 *1st-level, Divination (ritual)*  
 
 
-- **Casting time:** 1 action unless cast as a ritual
-- **Range:** Self (30-feet sphere)
+- **Casting time:** 1 Action unless cast as a ritual
+- **Range:** Self (30-foot Sphere)
 - **Components:** V, S
-- **Duration:** Concentration, up to 10 minute
+- **Duration:** Concentration, up to 10 minutes
 
 For the duration, you sense the presence of magical effects within 30 feet of yourself. If you sense such effects, you can take the [Magic](Compendium/rules/actions.md#Magic) action to see a faint aura around any visible creature or object in the area that bears the magic, and if an effect was created by a spell, you learn the spell's "school of magic".
 
 The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin); [Ranger](list-spells-classes-ranger); [Ranger](list-spells-classes-ranger); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Wizard (Diviner)](list-spells-classes-wizard-xphb-diviner-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 262. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

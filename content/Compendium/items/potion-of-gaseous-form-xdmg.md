@@ -18,4 +18,4 @@ When you drink this potion, you gain the effect of the [Gaseous Form](Compendium
 
 This potion's container seems to hold fog that moves and pours like water.
 
-*Source: Dungeon Master's Guide (2024) p. 287. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 287. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

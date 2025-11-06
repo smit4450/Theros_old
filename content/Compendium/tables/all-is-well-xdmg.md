@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["All Is Well"]
+aliases:
+- All Is Well
 ---
 # All Is Well
 *Source: Dungeon Master's Guide (2024) p. 350* 
-
-`dice: [](all-is-well-xdmg.md#^1-details)`
 
 | dice: 1d8 | Details |
 |-----------|---------|

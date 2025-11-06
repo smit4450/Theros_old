@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
 - ttrpg-cli/monster/legendary-group
-aliases: ["Sphinx"]
+aliases:
+- Sphinx
 ---
 # Sphinx
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual (2024)_
 
 The region containing a sphinx of lore's or sphinx of valor's lair is altered by its presence, creating the following effects:

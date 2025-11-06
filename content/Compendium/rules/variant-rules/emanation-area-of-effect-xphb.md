@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Emanation [Area of Effect]"]
+aliases:
+- Emanation [Area of Effect]
 ---
 # Emanation [Area of Effect]
-*Source: Player's Handbook (2024) p. 366. Available in the Free Rules (2024)* 
+*Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 An Emanation is an area of effect that extends in straight lines from a creature or an object in all directions. The effect that creates an Emanation specifies the distance it extends.
 

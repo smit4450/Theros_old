@@ -24,4 +24,4 @@ aliases:
 - [Figurine of Wondrous Power, Serpentine Owl](Compendium/items/figurine-of-wondrous-power-serpentine-owl-xdmg.md)
 - [Figurine of Wondrous Power, Silver Raven](Compendium/items/figurine-of-wondrous-power-silver-raven-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 261*
+*Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

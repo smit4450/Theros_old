@@ -4,17 +4,16 @@ cssclasses: json5e-item
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/wondrous/ring
 aliases: 
 - "Ring of Resistance"
 ---
 # Ring of Resistance
-*Rare*  
+*Ring, rare*  
 
 
 
 You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.
-
-`dice: [](ring-of-resistance-xdmg.md#^damage-type-gem)`
 
 | dice: d10 | Damage Type | Gem |
 |-----------|-------------|-----|
@@ -43,4 +42,4 @@ You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to one 
 - [Ring of Radiant Resistance](Compendium/items/ring-of-radiant-resistance-xdmg.md)
 - [Ring of Thunder Resistance](Compendium/items/ring-of-thunder-resistance-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 294. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

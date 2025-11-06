@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Special Purpose; Sentient Item's Alignment"]
+aliases:
+- Special Purpose; Sentient Item's Alignment
 ---
 # Special Purpose; Sentient Item's Alignment
 *Source: Dungeon Master's Guide (2024) p. 226* 
 
 **Sentient Item's Alignment**
-
-`dice: [](special-purpose-sentient-items-alignment-xdmg.md#^sentient-items-alignment)`
 
 | dice: 1d100 | Alignment |
 |-------------|-----------|

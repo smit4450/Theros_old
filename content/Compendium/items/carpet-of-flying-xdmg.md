@@ -18,8 +18,6 @@ Four sizes of Carpet of Flying exist. The DM chooses the size of a given carpet 
 
 **Applicable Carpet Sizes**
 
-`dice: [](carpet-of-flying-xdmg.md#^applicable-carpet-sizes)`
-
 | dice: 1d100 | Size | Capacity | Fly Speed |
 |-------------|------|----------|-----------|
 | 01-20 | [Carpet of Flying, 3 ft. × 5 ft.](Compendium/items/carpet-of-flying-3-ft-5-ft-xdmg.md) | 200 lb. | 80 feet |
@@ -35,4 +33,4 @@ Four sizes of Carpet of Flying exist. The DM chooses the size of a given carpet 
 - [Carpet of Flying, 5 ft. × 7 ft.](Compendium/items/carpet-of-flying-5-ft-7-ft-xdmg.md)
 - [Carpet of Flying, 6 ft. × 9 ft.](Compendium/items/carpet-of-flying-6-ft-9-ft-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 242*
+*Source: Dungeon Master's Guide (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

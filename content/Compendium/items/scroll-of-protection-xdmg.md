@@ -15,8 +15,6 @@ aliases:
 
 Each Scroll of Protection works against creatures of a specific creature type chosen by the DM or determined by rolling on the following table.
 
-`dice: [](scroll-of-protection-xdmg.md#^1-creature-type)`
-
 | dice: 1d100 | Creature Type |
 |-------------|---------------|
 | 01-10 | [Aberrations](Compendium/items/scroll-of-protection-aberrations-xdmg.md) |

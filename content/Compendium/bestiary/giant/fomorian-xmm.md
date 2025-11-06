@@ -25,8 +25,6 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
 
 **Fomorian Warping**
 
-`dice: [](fomorian-xmm.md#^fomorian-warping)`
-
 | dice: 1d4 | The Fomorian's Hex Causes... |
 |-----------|------------------------------|
 | 1 | Colorful, wandering pustules. |
@@ -47,31 +45,37 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
 "ac": !!int "14"
 "hp": !!int "172"
 "hit_dice": "15d12 + 75"
+"modifier": !!int "0"
 "stats":
-- !!int "23"
-- !!int "10"
-- !!int "20"
-- !!int "9"
-- !!int "14"
-- !!int "6"
+  - !!int "23"
+  - !!int "10"
+  - !!int "20"
+  - !!int "9"
+  - !!int "14"
+  - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "3"
-  "Perception": !!int "8"
-"senses": "darkvision 120 ft., passive Perception 18"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+8"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+3"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 18"
 "languages": "Giant, Undercommon"
 "cr": "8"
 "actions":
-- "desc": "The fomorian makes two Stone Club attacks. It can replace one attack with\
-    \ a use of Warping Hex if available."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +9, reach 15 ft. Hit: 24 (4d8 + 6) Bludgeoning damage."
-  "name": "Stone Club"
-- "desc": "Wisdom Saving Throw: DC 16, one creature the fomorian can see within\
-    \ 120 feet. Failure: 21 (6d6) Psychic damage, and the target gains 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion)\
-    \ level. Success: Half damage only."
-  "name": "Warping Hex (Recharge 4-6)"
+  - "desc": "The fomorian makes two Stone Club attacks. It can replace one attack\
+      \ with a use of Warping Hex if available."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +9, reach 15 ft. *Hit:* 24 (4d8 + 6) Bludgeoning\
+      \ damage."
+    "name": "Stone Club"
+  - "desc": "*Wisdom Saving Throw:* DC 16, one creature the fomorian can see within\
+      \ 120 feet. *Failure:* 21 (6d6) Psychic damage, and the target gains 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion)\
+      \ level. *Success:* Half damage only."
+    "name": "Warping Hex (Recharge 4-6)"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/giant/token/fomorian-xmm.webp"
 ```
 ^statblock

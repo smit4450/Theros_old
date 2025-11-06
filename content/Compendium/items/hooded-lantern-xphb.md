@@ -17,4 +17,4 @@ aliases:
 
 A Hooded Lantern burns Oil as fuel to cast [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) in a 30-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 30 feet. As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can lower the hood, reducing the light to [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) in a 5-foot radius, or raise it again.
 
-*Source: Player's Handbook (2024) p. 226. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

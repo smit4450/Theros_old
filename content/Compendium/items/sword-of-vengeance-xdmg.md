@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Sword of Vengeance"
 - "Glaive of Vengeance"
@@ -42,39 +43,39 @@ You can break the curse in the usual ways. Alternatively, casting [Banishment](C
 
 ### Glaive of Vengeance
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items), [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Greatsword of Vengeance
 
-- **Damage**: 2d6 S
+- **Damage**: 2d6 slashing
 - **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items), [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Longsword of Vengeance
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items), [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Rapier of Vengeance
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items), [Finesse](Compendium/rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Scimitar of Vengeance
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items), [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Shortsword of Vengeance
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items), [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 

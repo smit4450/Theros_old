@@ -20,8 +20,6 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 
 **Deck of Illusions**
 
-`dice: [](deck-of-illusions-xdmg.md#^deck-of-illusions)`
-
 | dice: 1d100 | Illusion |
 |-------------|----------|
 | 01-03 | [Adult Red Dragon](Compendium/bestiary/dragon/adult-red-dragon-xmm.md) |
@@ -59,4 +57,4 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 | 97-00 | The card drawer |
 ^deck-of-illusions
 
-*Source: Dungeon Master's Guide (2024) p. 249. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 249. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

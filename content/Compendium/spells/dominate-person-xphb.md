@@ -12,20 +12,17 @@ tags:
 - ttrpg-cli/spell/subclass/trickery-domain
 classes:
 - Bard
-- Bard
-- Sorcerer
-- Sorcerer
-- Wizard
-- Wizard
-- Warlock (Archfey Patron)
 - Cleric (Trickery Domain)
+- Sorcerer
+- Warlock (Archfey Patron)
+- Wizard
 aliases: ["Dominate Person"]
 ---
 # Dominate Person
 *5th-level, Enchantment*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -38,6 +35,6 @@ You can command the target to take a [Reaction](Compendium/rules/variant-rules/r
 
 **Using a Higher-Level Spell Slot.** Your [Concentration](Compendium/rules/conditions.md#Concentration) can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours).
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Warlock (Archfey Patron)](list-spells-classes-warlock-xphb-archfey-patron-xphb); [Cleric (Trickery Domain)](list-spells-classes-cleric-xphb-trickery-domain-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](Compendium/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (Archfey Patron)](Compendium/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 266. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

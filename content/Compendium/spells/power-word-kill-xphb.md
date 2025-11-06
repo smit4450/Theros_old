@@ -11,12 +11,8 @@ tags:
 - ttrpg-cli/spell/school/enchantment
 classes:
 - Bard
-- Bard
-- Sorcerer
 - Sorcerer
 - Warlock
-- Warlock
-- Wizard
 - Wizard
 aliases: ["Power Word Kill"]
 ---
@@ -24,13 +20,13 @@ aliases: ["Power Word Kill"]
 *9th-level, Enchantment*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V
 - **Duration:** Instantaneous
 
 You compel one creature you can see within range to die. If the target has 100 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) or fewer, it dies. Otherwise, it takes `12d12` Psychic damage.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 306. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

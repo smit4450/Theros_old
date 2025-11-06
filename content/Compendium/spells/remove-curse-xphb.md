@@ -14,33 +14,31 @@ tags:
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/winter-walker
 classes:
 - Bard
+- Bard (College of Lore)
 - Cleric
-- Cleric
+- Fighter (Eldritch Knight)
 - Paladin
-- Paladin
+- Ranger (Winter Walker)
+- Rogue (Arcane Trickster)
 - Warlock
-- Warlock
-- Wizard
 - Wizard
 - Wizard (Abjurer)
-- Rogue (Arcane Trickster)
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
 aliases: ["Remove Curse"]
 ---
 # Remove Curse
 *3rd-level, Abjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Instantaneous
 
 At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's [Attunement](Compendium/rules/variant-rules/attunement-xphb.md) to the object so it can be removed or discarded.
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Abjurer)](list-spells-classes-wizard-xphb-abjurer-xphb); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Ranger (Winter Walker)](Compendium/lists/list-spells-classes-winter-walker-frhof.md "subclass=FRHoF;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 312. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

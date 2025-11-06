@@ -14,7 +14,7 @@ aliases:
 *Weapon*  
 
 
-- **Damage**: 3d8 R
+- **Damage**: 3d8 radiant
 - **Range**: 100/300
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.

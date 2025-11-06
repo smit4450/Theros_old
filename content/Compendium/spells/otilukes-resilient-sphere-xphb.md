@@ -12,20 +12,19 @@ tags:
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Bard
-- Wizard
+- Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Abjurer)
-- Rogue (Arcane Trickster)
-- Fighter (Eldritch Knight)
 aliases: ["Otiluke's Resilient Sphere"]
 ---
 # Otiluke's Resilient Sphere
 *4th-level, Abjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
-- **Components:** V, S, a glass sphere
+- **Components:** V, S, M (a glass sphere)
 - **Duration:** Concentration, up to 1 minute
 
 A shimmering sphere encloses a Large or smaller creature or object within range. An unwilling creature must succeed on a Dexterity saving throw or be enclosed for the duration.
@@ -36,6 +35,6 @@ The sphere is weightless and just large enough to contain the creature or object
 
 A [Disintegrate](Compendium/spells/disintegrate-xphb.md) spell targeting the globe destroys it without harming anything inside.
 
-**Classes**: [Bard](list-spells-classes-bard); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Abjurer)](list-spells-classes-wizard-xphb-abjurer-xphb); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 303. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Resilient Sphere") and the Free Rules (2024)*

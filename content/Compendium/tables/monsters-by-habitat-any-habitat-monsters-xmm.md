@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases: ["Monsters by Habitat; Any Habitat Monsters"]
+aliases:
+- Monsters by Habitat; Any Habitat Monsters
 ---
 # Monsters by Habitat; Any Habitat Monsters
 *Source: Monster Manual (2024) p. 375* 
@@ -16,7 +18,7 @@ aliases: ["Monsters by Habitat; Any Habitat Monsters"]
 | 1/8 | [Bandit](Compendium/bestiary/humanoid/bandit-xmm.md), [Cultist](Compendium/bestiary/humanoid/cultist-xmm.md), [Guard](Compendium/bestiary/humanoid/guard-xmm.md), [Noble](Compendium/bestiary/humanoid/noble-xmm.md), [Warrior Infantry](Compendium/bestiary/humanoid/warrior-infantry-xmm.md) |
 | 1/4 | [Priest Acolyte](Compendium/bestiary/humanoid/priest-acolyte-xmm.md) |
 | 1/2 | [Performer](Compendium/bestiary/humanoid/performer-xmm.md), [Scout](Compendium/bestiary/humanoid/scout-xmm.md), [Tough](Compendium/bestiary/humanoid/tough-xmm.md) |
-| 1 | [Empyrean Iota](Compendium/bestiary//empyrean-iota-xmm.md), [Imp](Compendium/bestiary/fiend/imp-xmm.md), [Pirate](Compendium/bestiary/humanoid/pirate-xmm.md), [Spy](Compendium/bestiary/humanoid/spy-xmm.md) |
+| 1 | [Empyrean Iota](Compendium/bestiary/miscellaneous/empyrean-iota-xmm.md), [Imp](Compendium/bestiary/fiend/imp-xmm.md), [Pirate](Compendium/bestiary/humanoid/pirate-xmm.md), [Spy](Compendium/bestiary/humanoid/spy-xmm.md) |
 | 2 | [Bandit Captain](Compendium/bestiary/humanoid/bandit-captain-xmm.md), [Berserker](Compendium/bestiary/humanoid/berserker-xmm.md), [Cultist Fanatic](Compendium/bestiary/humanoid/cultist-fanatic-xmm.md), [Druid](Compendium/bestiary/humanoid/druid-xmm.md), [Mage Apprentice](Compendium/bestiary/humanoid/mage-apprentice-xmm.md), [Priest](Compendium/bestiary/humanoid/priest-xmm.md) |
 | 3 | [Knight](Compendium/bestiary/humanoid/knight-xmm.md), [Scout Captain](Compendium/bestiary/humanoid/scout-captain-xmm.md), [Swarm of Crawling Claws](Compendium/bestiary/undead/swarm-of-crawling-claws-xmm.md), [Warrior Veteran](Compendium/bestiary/humanoid/warrior-veteran-xmm.md) |
 | 4 | [Banshee](Compendium/bestiary/undead/banshee-xmm.md), [Guard Captain](Compendium/bestiary/humanoid/guard-captain-xmm.md), [Helmed Horror](Compendium/bestiary/construct/helmed-horror-xmm.md), [Tough Boss](Compendium/bestiary/humanoid/tough-boss-xmm.md) |
@@ -31,6 +33,6 @@ aliases: ["Monsters by Habitat; Any Habitat Monsters"]
 | 17 | [Death Knight](Compendium/bestiary/undead/death-knight-xmm.md), [Dracolich](Compendium/bestiary/undead/dracolich-xmm.md) |
 | 18 | [Demilich](Compendium/bestiary/undead/demilich-xmm.md) |
 | 21 | [Arch-hag](Compendium/bestiary/fey/arch-hag-xmm.md), [Lich](Compendium/bestiary/undead/lich-xmm.md) |
-| 23 | [Blob of Annihilation](Compendium/bestiary/ooze/blob-of-annihilation-xmm.md), [Empyrean](Compendium/bestiary//empyrean-xmm.md) |
+| 23 | [Blob of Annihilation](Compendium/bestiary/ooze/blob-of-annihilation-xmm.md), [Empyrean](Compendium/bestiary/miscellaneous/empyrean-xmm.md) |
 | 25 | [Colossus](Compendium/bestiary/construct/colossus-xmm.md) |
 ^any-habitat-monsters

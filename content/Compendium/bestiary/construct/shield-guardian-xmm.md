@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Shield Guardian"]
 ---
 # Shield Guardian
-*Source: Monster Manual (2024) p. 277*  
+*Source: Monster Manual (2024) p. 277, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/construct/img/shield-guardian.webp#right)  
 ## Shield Guardian
@@ -32,52 +32,57 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
 "ac": !!int "17"
 "hp": !!int "142"
 "hit_dice": "15d10 + 60"
+"modifier": !!int "-1"
 "stats":
-- !!int "18"
-- !!int "8"
-- !!int "18"
-- !!int "7"
-- !!int "10"
-- !!int "3"
+  - !!int "18"
+  - !!int "8"
+  - !!int "18"
+  - !!int "7"
+  - !!int "10"
+  - !!int "3"
 "speed": "30 ft."
 "damage_immunities": "poison"
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
   \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 10"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 10"
 "languages": "understands commands given in any language but can't speak"
 "cr": "7"
 "traits":
-- "desc": "The guardian is magically bound to an amulet. While the guardian and its\
-    \ amulet are on the same plane of existence, the amulet's wearer can telepathically\
-    \ call the guardian to travel to it, and the guardian knows the distance and direction\
-    \ to the amulet. If the guardian is within 60 feet of the amulet's wearer, half\
-    \ of any damage the wearer takes (round up) is transferred to the guardian."
-  "name": "Bound"
-- "desc": "The guardian regains 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ at the start of each of its turns if it has at least 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
-  "name": "Regeneration"
-- "desc": "A spellcaster who wears the guardian's amulet can cause the guardian to\
-    \ store one spell of level 4 or lower. To do so, the wearer must cast the spell\
-    \ on the guardian while within 5 feet of it. The spell has no effect but is stored\
-    \ within the guardian. Any previously stored spell is lost when a new spell is\
-    \ stored. The guardian can cast the spell stored with any parameters set by the\
-    \ original caster, requiring no spell components and using the caster's spellcasting\
-    \ ability. The stored spell is then lost."
-  "name": "Spell Storing"
+  - "desc": "The guardian is magically bound to an amulet. While the guardian and\
+      \ its amulet are on the same plane of existence, the amulet's wearer can telepathically\
+      \ call the guardian to travel to it, and the guardian knows the distance and\
+      \ direction to the amulet. If the guardian is within 60 feet of the amulet's\
+      \ wearer, half of any damage the wearer takes (round up) is transferred to the\
+      \ guardian."
+    "name": "Bound"
+  - "desc": "The guardian regains 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ at the start of each of its turns if it has at least 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)."
+    "name": "Regeneration"
+  - "desc": "A spellcaster who wears the guardian's amulet can cause the guardian\
+      \ to store one spell of level 4 or lower. To do so, the wearer must cast the\
+      \ spell on the guardian while within 5 feet of it. The spell has no effect but\
+      \ is stored within the guardian. Any previously stored spell is lost when a\
+      \ new spell is stored. The guardian can cast the spell stored with any parameters\
+      \ set by the original caster, requiring no spell components and using the caster's\
+      \ spellcasting ability. The stored spell is then lost."
+    "name": "Spell Storing"
 "actions":
-- "desc": "The guardian makes two Fist attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 10 ft. Hit: 11 (2d6 + 4) Bludgeoning damage\
-    \ plus 7 (2d6) Force damage."
-  "name": "Fist"
+  - "desc": "The guardian makes two Fist attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 11 (2d6 + 4) Bludgeoning\
+      \ damage plus 7 (2d6) Force damage."
+    "name": "Fist"
 "reactions":
-- "desc": "Trigger: An attack roll hits the wearer of the guardian's amulet while\
-    \ the wearer is within 5 feet of the guardian. Response: The wearer gains a +5\
-    \ bonus to AC, including against the triggering attack and possibly causing it\
-    \ to miss, until the start of the guardian's next turn."
-  "name": "Protection"
+  - "desc": "Trigger: An attack roll hits the wearer of the guardian's amulet while\
+      \ the wearer is within 5 feet of the guardian. _Response:_ The wearer gains\
+      \ a +5 bonus to AC, including against the triggering attack and possibly causing\
+      \ it to miss, until the start of the guardian's next turn."
+    "name": "Protection"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/construct/token/shield-guardian-xmm.webp"
 ```
 ^statblock

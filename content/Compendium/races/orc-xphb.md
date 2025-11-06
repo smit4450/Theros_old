@@ -7,7 +7,7 @@ tags:
 aliases: ["Orc"]
 ---
 # Orc
-*Source: Player's Handbook (2024) p. 195*  
+*Source: Player's Handbook (2024) p. 195. Available in the Free Rules (2024)*  
 ![](Compendium/races/img/orc.webp#right)
 
 - **Ability Scores**: None
@@ -19,9 +19,9 @@ aliases: ["Orc"]
 
 ### Adrenaline Rush
 
-You can take the [Dash](Compendium/rules/actions.md#Dash) action as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md). When you do so, you gain a number of [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to your [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md).
+You can take the [Dash](Compendium/rules/actions.md#Dash) action as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md). When you do so, you gain a number of [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md).
 
-You can use this trait a number of times equal to your [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You can use this trait a number of times equal to your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
 
 ### Darkvision
 
@@ -29,7 +29,7 @@ You have [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 120
 
 ### Relentless Endurance
 
-When you are reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) but not killed outright, you can drop to 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) instead. Once you use this trait, you can't do so again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+When you are reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) but not killed outright, you can drop to 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) instead. Once you use this trait, you can't do so again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
 
 ## Description
 

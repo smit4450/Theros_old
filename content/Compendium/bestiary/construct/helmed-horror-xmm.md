@@ -11,23 +11,21 @@ statblock: inline
 aliases: ["Helmed Horror"]
 ---
 # Helmed Horror
-*Source: Monster Manual (2024) p. 166*  
+*Source: Monster Manual (2024) p. 166, FRHoF*  
 
-![](Compendium/bestiary/construct/img/helmed-horror.webp#right)  
+![](Compendium/books/monster-manual-2025/img/helmed-horror.webp#right)  
 ## Helmed Horror
 
 *Armor with a Warrior's Purpose*
 
 - **Habitat.** Any  
-- **Treasure.** Armaments  
+- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
 
 Helmed horrors are suits of armor animated by magic. Rather than being unreasoning automatons, these armored shells possess the guile of soldiers and resilience against destructive magic. While their name suggests sinister intentions, these creatures serve their creators loyally. Helmed horrors are also sometimes called doom guards or spirit armors. Most show no evidence of a personality, but exceptions exist.
 
 Helmed horrors might perform any number of assignments. Roll on or choose a result from the Helmed Horror Directives table to inspire what tasks helmed horrors perform.
 
 **Helmed Horror Directives**
-
-`dice: [](helmed-horror-xmm.md#^helmed-horror-directives)`
 
 | dice: 1d6 | The Helmed Horror Follows Commands To... |
 |-----------|------------------------------------------|
@@ -46,40 +44,45 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
 "ac": !!int "20"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
+"modifier": !!int "3"
 "stats":
-- !!int "18"
-- !!int "13"
-- !!int "16"
-- !!int "10"
-- !!int "10"
-- !!int "10"
+  - !!int "18"
+  - !!int "13"
+  - !!int "16"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
 "speed": "30 ft., fly 30 ft. (hover)"
 "skillsaves":
-  "Perception": !!int "4"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
   \ [deafened](Compendium/rules/conditions.md#Deafened), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
   \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
   \ [stunned](Compendium/rules/conditions.md#Stunned)"
-"senses": "blindsight 60 ft., passive Perception 14"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+  \ 14"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "4"
 "traits":
-- "desc": "The helmed horror has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
-- "desc": "The helmed horror is immune to three spells chosen by its creator. Typical\
-    \ choices include [Heat Metal](Compendium/spells/heat-metal-xphb.md), [Lightning\
-    \ Bolt](Compendium/spells/lightning-bolt-xphb.md), and [Magic Missile](Compendium/spells/magic-missile-xphb.md)."
-  "name": "Spell Immunity"
+  - "desc": "The helmed horror has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The helmed horror is immune to three spells chosen by its creator. Typical\
+      \ choices include [Heat Metal](Compendium/spells/heat-metal-xphb.md), [Lightning\
+      \ Bolt](Compendium/spells/lightning-bolt-xphb.md), and [Magic Missile](Compendium/spells/magic-missile-xphb.md)."
+    "name": "Spell Immunity"
 "actions":
-- "desc": "The helmed horror makes two Arcane Sword attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +6, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage\
-    \ plus 5 (1d10) Force damage."
-  "name": "Arcane Sword"
+  - "desc": "The helmed horror makes two Arcane Sword attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d8 + 4) Slashing\
+      \ damage plus 5 (1d10) Force damage."
+    "name": "Arcane Sword"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/construct/token/helmed-horror-xmm.webp"
 ```
 ^statblock

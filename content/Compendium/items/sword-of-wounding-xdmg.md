@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Sword of Wounding"
 - "Glaive of Wounding"
@@ -33,41 +34,41 @@ When you hit a creature with an attack using this magic weapon, the target takes
 
 ### Glaive of Wounding
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Greatsword of Wounding
 
-- **Damage**: 2d6 S
+- **Damage**: 2d6 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Longsword of Wounding
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Rapier of Wounding
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Scimitar of Wounding
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Shortsword of Wounding
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 314*
+*Source: Dungeon Master's Guide (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -14,7 +14,7 @@ aliases:
 *Weapon ([greatsword](Compendium/items/greatsword-xphb.md)), artifact (requires attunement)*  
 ![](Compendium/items/img/blackrazor.webp#right)
 
-- **Damage**: 2d6 S
+- **Damage**: 2d6 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
@@ -28,7 +28,7 @@ While you hold this weapon, you have [Immunity](Compendium/rules/variant-rules/i
 
 Whenever you use Blackrazor to reduce a creature to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), the sword slays the creature and devours its soul unless it is a Construct or an Undead. A creature whose soul has been devoured by Blackrazor can be restored to life only by a [Wish](Compendium/spells/wish-xphb.md) spell.
 
-When Blackrazor devours a soul that isn't yours, you gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to the slain creature's [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) maximum.
+When Blackrazor devours a soul that isn't yours, you gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to the slain creature's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum.
 
 ## Haste
 

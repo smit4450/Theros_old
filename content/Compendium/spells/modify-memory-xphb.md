@@ -11,18 +11,16 @@ tags:
 - ttrpg-cli/spell/subclass/trickery-domain
 classes:
 - Bard
-- Bard
-- Wizard
-- Wizard
-- Warlock (Great Old One Patron)
 - Cleric (Trickery Domain)
+- Warlock (Great Old One Patron)
+- Wizard
 aliases: ["Modify Memory"]
 ---
 # Modify Memory
 *5th-level, Enchantment*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -39,6 +37,6 @@ A [Remove Curse](Compendium/spells/remove-curse-xphb.md) or [Greater Restoration
 
 **Using a Higher-Level Spell Slot.** You can alter the target's memories of an event that took place up to 7 days ago (level 6 spell slot), 30 days ago (level 7 spell slot), 365 days ago (level 8 spell slot), or any time in the creature's past (level 9 spell slot).
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Warlock (Great Old One Patron)](list-spells-classes-warlock-xphb-great-old-one-patron-xphb); [Cleric (Trickery Domain)](list-spells-classes-cleric-xphb-trickery-domain-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](Compendium/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](Compendium/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 299. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

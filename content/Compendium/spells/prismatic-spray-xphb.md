@@ -12,8 +12,6 @@ tags:
 classes:
 - Bard
 - Sorcerer
-- Sorcerer
-- Wizard
 - Wizard
 - Wizard (Evoker)
 aliases: ["Prismatic Spray"]
@@ -22,16 +20,14 @@ aliases: ["Prismatic Spray"]
 *7th-level, Evocation*  
 
 
-- **Casting time:** 1 action
-- **Range:** Self (60-feet cone)
+- **Casting time:** 1 Action
+- **Range:** Self (60-foot Cone)
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone makes a Dexterity saving throw. For each target, roll `1d8` to determine which color ray affects it, consulting the Prismatic Rays table.
+Eight rays of light flash from you in a 60-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). Each creature in the [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md) makes a Dexterity saving throw. For each target, roll `1d8` to determine which color ray affects it, consulting the Prismatic Rays table.
 
 **Prismatic Rays**
-
-`dice: [](prismatic-spray-xphb.md#^prismatic-rays)`
 
 | dice: 1d8 | Ray |
 |-----------|-----|
@@ -45,6 +41,6 @@ Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone 
 | 8 | **Special.** The target is struck by two rays. Roll twice, rerolling any 8. |
 ^prismatic-rays
 
-**Classes**: [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Evoker)](list-spells-classes-wizard-xphb-evoker-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 307. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 307. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

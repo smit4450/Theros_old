@@ -19,7 +19,7 @@ aliases: ["Goblin Hexer"]
 # Goblin Hexer
 *Source: Monster Manual (2024) p. 143*  
 
-![](Compendium/bestiary/fey/img/goblin-hexer.webp#right)  
+![A goblin boss, a goblin he...](Compendium/bestiary/fey/img/goblins.webp#right)  
 Goblin hexers use flashy and disruptive magic. Many goblin hexers are theatrical, dressing and behaving in exaggerated mimicry of archmages.
 
 ## Goblins
@@ -27,7 +27,7 @@ Goblin hexers use flashy and disruptive magic. Many goblin hexers are theatrical
 *Wild Tricksters and Troublemakers*
 
 - **Habitat.** Forest, Grassland, Hill, Planar (Acheron), Planar (Feywild), Underdark  
-- **Treasure.** Implements, Individual  
+- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
 
 Goblins are Feywild embodiments of recklessness and ruin. They delight in wreckage—the louder, the more energetic, and the more convoluted, the better. Goblin raids are often as much opportunities to enjoy setting fires and tormenting livestock as they are parts of more disruptive plots.
 
@@ -50,39 +50,43 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 "ac": !!int "13"
 "hp": !!int "45"
 "hit_dice": "10d6 + 10"
+"modifier": !!int "3"
 "stats":
-- !!int "8"
-- !!int "16"
-- !!int "12"
-- !!int "16"
-- !!int "10"
-- !!int "10"
+  - !!int "8"
+  - !!int "16"
+  - !!int "12"
+  - !!int "16"
+  - !!int "10"
+  - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Sleight of Hand": !!int "5"
-  "Stealth": !!int "7"
-"senses": "darkvision 60 ft., passive Perception 10"
+  - "name": "[Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)"
+    "desc": "+5"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+7"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
 "languages": "Common, Goblin"
 "cr": "3"
-"traits":
-- "desc": "The goblin casts one of the following spells, using Intelligence as the\
-    \ spellcasting ability (spell save DC 13):\n\nAt will: [Minor Illusion](Compendium/spells/minor-illusion-xphb.md)\n\
-    \n1/day each: [Blindness/Deafness](Compendium/spells/blindness-deafness-xphb.md),\
-    \ [Faerie Fire](Compendium/spells/faerie-fire-xphb.md), [Grease](Compendium/spells/grease-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "The goblin makes two Hex Stick attacks. It can replace one attack with\
-    \ a use of Spellcasting."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack: +5, reach 5 ft. or range 60 ft. Hit: 12 (2d8\
-    \ + 3) Psychic damage."
-  "name": "Hex Stick"
+  - "desc": "The goblin makes two Hex Stick attacks. It can replace one attack with\
+      \ a use of Spellcasting."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +5, reach 5 ft. or range 60 ft. *Hit:*\
+      \ 12 (2d8 + 3) Psychic damage."
+    "name": "Hex Stick"
+  - "desc": "The goblin casts one of the following spells, using Intelligence as the\
+      \ spellcasting ability (spell save DC 13):\n\n**At will:** [Minor Illusion](Compendium/spells/minor-illusion-xphb.md)\n\
+      \n**1/day each:** [Blindness/Deafness](Compendium/spells/blindness-deafness-xphb.md),\
+      \ [Faerie Fire](Compendium/spells/faerie-fire-xphb.md), [Grease](Compendium/spells/grease-xphb.md)"
+    "name": "Spellcasting"
 "reactions":
-- "desc": "Trigger: A creature the goblin can see hits it with an attack roll. {@actResponse\
-    \ d}Wisdom Saving Throw: DC 13, the triggering creature. Failure: The attack\
-    \ misses instead."
-  "name": "Jinx"
+  - "desc": "Trigger: A creature the goblin can see hits it with an attack roll. _Response—\
+      _*Wisdom Saving Throw:* DC 13, the triggering creature. *Failure:* The attack\
+      \ misses instead."
+    "name": "Jinx"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/fey/token/goblin-hexer-xmm.webp"
 ```
 ^statblock

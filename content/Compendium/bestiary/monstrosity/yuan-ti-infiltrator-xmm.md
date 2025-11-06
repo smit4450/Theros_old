@@ -16,7 +16,7 @@ aliases: ["Yuan-ti Infiltrator"]
 # Yuan-ti Infiltrator
 *Source: Monster Manual (2024) p. 342*  
 
-![](Compendium/bestiary/monstrosity/img/yuan-ti-infiltrator.webp#right)  
+![](Compendium/bestiary/monstrosity/img/yuan-ti.webp#right)  
 Infiltrators can pass as human, their serpentine features limited to scaly skin, forked tongues, and other minor or internal transformations. These spies insinuate themselves among their rivals, manipulating others and making foes vulnerable to the plots of more powerful yuan-ti.
 
 ## Yuan-ti
@@ -24,7 +24,7 @@ Infiltrators can pass as human, their serpentine features limited to scaly skin,
 *Power-Hungry Serpentine Conspirators*
 
 - **Habitat.** Desert, Forest, Swamp, Urban  
-- **Treasure.** Relics  
+- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
 
 Exploiting pacts with sinister supernatural forces, yuan-ti bargain away their humanity for the lethality and predatory deviousness of serpents. From hidden bastions, they manipulate rulers and the wealthy, seeking to control the world. Many yuan-ti possess venomous magic, which often manifests as fangs or striking serpents.
 
@@ -33,8 +33,6 @@ Yuan-ti have humanlike forms with a variety of horrifying serpentine transformat
 Yuan-ti might gain their reptilian features through dangerous supernatural rites. Roll on or choose a result from the Yuan-ti Transformations table to inspire how yuan-ti obtain their serpentine aspects.
 
 **Yuan-ti Transformations**
-
-`dice: [](yuan-ti-infiltrator-xmm.md#^yuan-ti-transformations)`
 
 | dice: 1d6 | A Yuan-ti Gained Its Snake Features From... |
 |-----------|---------------------------------------------|
@@ -60,40 +58,48 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 "ac": !!int "11"
 "hp": !!int "40"
 "hit_dice": "9d8"
+"modifier": !!int "1"
 "stats":
-- !!int "11"
-- !!int "12"
-- !!int "11"
-- !!int "13"
-- !!int "14"
-- !!int "12"
+  - !!int "11"
+  - !!int "12"
+  - !!int "11"
+  - !!int "13"
+  - !!int "14"
+  - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "5"
-  "Stealth": !!int "3"
-  "Perception": !!int "4"
+  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+    "desc": "+5"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+3"
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 14"
 "languages": "Abyssal, Common, Draconic"
 "cr": "1"
 "traits":
-- "desc": "The yuan-ti casts one of the following spells, requiring no Material components\
-    \ and using Wisdom as the spellcasting ability (spell save DC 12):\n\nAt will:\
-    \ [Animal Friendship](Compendium/spells/animal-friendship-xphb.md) (snakes only)\n\
-    \n2/day: [Suggestion](Compendium/spells/suggestion-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The yuan-ti has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "The yuan-ti has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The yuan-ti makes two Scimitar attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +3, reach 5 ft. Hit: 4 (1d6 + 1) Slashing damage."
-  "name": "Scimitar"
-- "desc": "Ranged Attack: +4, range 120 ft. Hit: 9 (2d6 + 2) Poison damage."
-  "name": "Poison Ray"
+  - "desc": "The yuan-ti makes two Scimitar attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Slashing\
+      \ damage."
+    "name": "Scimitar"
+  - "desc": "*Ranged Attack Roll:* +4, range 120 ft. *Hit:* 9 (2d6 + 2) Poison\
+      \ damage."
+    "name": "Poison Ray"
+  - "desc": "The yuan-ti casts one of the following spells, requiring no Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
+      \n**At will:** [Animal Friendship](Compendium/spells/animal-friendship-xphb.md)\
+      \ (snakes only)\n\n**2/day:** [Suggestion](Compendium/spells/suggestion-xphb.md)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/monstrosity/token/yuan-ti-infiltrator-xmm.webp"
 ```
 ^statblock

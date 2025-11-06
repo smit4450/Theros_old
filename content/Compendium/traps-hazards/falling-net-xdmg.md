@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-hazard
+cssclasses:
+- json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/trp
-aliases: ["Falling Net"]
+aliases:
+- Falling Net
 ---
 # Falling Net
 *Generic Hazard*  
@@ -29,4 +31,4 @@ A creature that has [Thieves' Tools](Compendium/items/thieves-tools-xphb.md) and
 
 You can scale the trap for higher levels by increasing the weight of the Net, which increases the save DC and the DC of the Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check as follows: DC 12 at levels 5–10, DC 14 at levels 11–16, or DC 16 at levels 17–20.
 
-*Source: Dungeon Master's Guide (2024) p. 100*
+*Source: Dungeon Master's Guide (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

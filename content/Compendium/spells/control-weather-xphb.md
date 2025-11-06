@@ -12,10 +12,7 @@ tags:
 classes:
 - Bard
 - Cleric
-- Cleric
 - Druid
-- Druid
-- Wizard
 - Wizard
 aliases: ["Control Weather"]
 ---
@@ -23,10 +20,10 @@ aliases: ["Control Weather"]
 *8th-level, Transmutation*  
 ![](Compendium/spells/img/control-weather.webp#right)
 
-- **Casting time:** 10 minute
-- **Range:** Self (5-miles sphere)
-- **Components:** V, S, burning incense
-- **Duration:** Concentration, up to 8 hour
+- **Casting time:** 10 minutes
+- **Range:** Self (5-mile Sphere)
+- **Components:** V, S, M (burning incense)
+- **Duration:** Concentration, up to 8 hours
 
 You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell, and it ends early if you go indoors.
 
@@ -68,6 +65,6 @@ When you change the weather conditions, find a current condition on the followin
 | 5 | Storm |
 ^wind
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 257. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 257. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

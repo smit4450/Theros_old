@@ -16,7 +16,7 @@ aliases: ["Beholder Zombie"]
 # Beholder Zombie
 *Source: Monster Manual (2024) p. 347*  
 
-![](Compendium/bestiary/undead/img/beholder-zombie.webp#right)  
+![](Compendium/bestiary/undead/img/zombies.webp#right)  
 Zombies animated from the corpses of beholders retain some use of those monsters' magical eyestalks. These hovering corpses rely on their magic to destroy impediments and paralyze foes, allowing them to savage foes with their rotting maws.
 
 Magic-using beholders typically raise these abominations from the corpses of defeated rivals.
@@ -46,55 +46,59 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 "ac": !!int "15"
 "hp": !!int "93"
 "hit_dice": "11d10 + 33"
+"modifier": !!int "-1"
 "stats":
-- !!int "14"
-- !!int "8"
-- !!int "16"
-- !!int "3"
-- !!int "8"
-- !!int "5"
+  - !!int "14"
+  - !!int "8"
+  - !!int "16"
+  - !!int "3"
+  - !!int "8"
+  - !!int "5"
 "speed": "5 ft., fly 20 ft. (hover)"
 "saves":
-  "Wisdom": !!int "2"
+  - "wisdom": !!int "2"
 "damage_immunities": "poison"
 "condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned), [prone](Compendium/rules/conditions.md#Prone)"
-"senses": "darkvision 60 ft., passive Perception 9"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 9"
 "languages": "understands Deep Speech and Undercommon but can't speak"
 "cr": "5"
 "traits":
-- "desc": "If damage reduces the zombie to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
-    \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
-    \ damage is Radiant or from a [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md).\
-    \ On a successful save, the zombie drops to 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ instead."
-  "name": "Undead Fortitude"
+  - "desc": "If damage reduces the zombie to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
+      \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
+      \ damage is Radiant or from a [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md).\
+      \ On a successful save, the zombie drops to 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ instead."
+    "name": "Undead Fortitude"
 "actions":
-- "desc": "The zombie uses Eye Rays twice."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +5, reach 5 ft. Hit: 16 (4d6 + 2) Piercing damage."
-  "name": "Bite"
-- "desc": "The zombie randomly shoots one of the following magical rays at a target\
-    \ it can see within 120 feet of itself (roll 1d4; reroll if the zombie has already\
-    \ used that ray during this turn):\n\n- 1 Paralyzing Ray. Constitution Saving\
-    \ Throw: DC 14. Failure: The target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed)\
-    \ condition and repeats the save at the end of each of its turns, ending the effect\
-    \ on itself on a success. After 1 minute, it succeeds automatically.  \n- 2\
-    \ Fear Ray. Wisdom Saving Throw: DC 14. Failure: 13 (3d8) Psychic damage,\
-    \ and the target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
-    \ condition until the end of its next turn.  \n- 3 Enervation Ray. Constitution\
-    \ Saving Throw: DC 14. Failure: 10 (3d6) Necrotic damage, and the target\
-    \ has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition until\
-    \ the end of its next turn. While [Poisoned](Compendium/rules/conditions.md#Poisoned),\
-    \ the target can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).\
-    \ Success: Half damage only.  \n- 4 Disintegration Ray. Dexterity Saving\
-    \ Throw: DC 14. Failure: 27 (5d10) Force damage. If the target is a nonmagical\
-    \ object or a creation of magical force, a 10-foot [Cube [Area of Effect]](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)\
-    \ of it disintegrates into dust. Success: Half damage. Failure or Success:\
-    \ If the target is a creature and this damage reduces it to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
-    \ it disintegrates into dust.  "
-  "name": "Eye Rays"
+  - "desc": "The zombie uses Eye Rays twice."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 16 (4d6 + 2) Piercing\
+      \ damage."
+    "name": "Bite"
+  - "desc": "The zombie randomly shoots one of the following magical rays at a target\
+      \ it can see within 120 feet of itself (roll 1d4; reroll if the zombie has\
+      \ already used that ray during this turn):\n\n- **1 Paralyzing Ray.** *Constitution\
+      \ Saving Throw:* DC 14. *Failure:* The target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed)\
+      \ condition and repeats the save at the end of each of its turns, ending the\
+      \ effect on itself on a success. After 1 minute, it succeeds automatically.\
+      \  \n- **2 Fear Ray.** *Wisdom Saving Throw:* DC 14. *Failure:* 13 (3d8) Psychic\
+      \ damage, and the target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ condition until the end of its next turn.  \n- **3 Enervation Ray.** *Constitution\
+      \ Saving Throw:* DC 14. *Failure:* 10 (3d6) Necrotic damage, and the target\
+      \ has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition until\
+      \ the end of its next turn. While [Poisoned](Compendium/rules/conditions.md#Poisoned),\
+      \ the target can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).\
+      \ *Success:* Half damage only.  \n- **4 Disintegration Ray.** *Dexterity Saving\
+      \ Throw:* DC 14. *Failure:* 27 (5d10) Force damage. If the target is a nonmagical\
+      \ object or a creation of magical force, a 10-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)\
+      \ of it disintegrates into dust. *Success:* Half damage. *Failure or Success:*\
+      \ If the target is a creature and this damage reduces it to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
+      \ it disintegrates into dust.  "
+    "name": "Eye Rays"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/undead/token/beholder-zombie-xmm.webp"
 ```
 ^statblock

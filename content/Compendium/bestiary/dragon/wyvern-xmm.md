@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Wyvern"]
 ---
 # Wyvern
-*Source: Monster Manual (2024) p. 337*  
+*Source: Monster Manual (2024) p. 337. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/dragon/img/wyvern.webp#right)  
 ## Wyvern
@@ -35,29 +35,34 @@ Once wyverns overpower a quarry, they carry it to their cavernous lairs to eithe
 "ac": !!int "14"
 "hp": !!int "127"
 "hit_dice": "15d10 + 45"
+"modifier": !!int "0"
 "stats":
-- !!int "19"
-- !!int "10"
-- !!int "16"
-- !!int "5"
-- !!int "12"
-- !!int "6"
+  - !!int "19"
+  - !!int "10"
+  - !!int "16"
+  - !!int "5"
+  - !!int "12"
+  - !!int "6"
 "speed": "30 ft., fly 80 ft."
 "skillsaves":
-  "Perception": !!int "4"
-"senses": "darkvision 120 ft., passive Perception 14"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 14"
 "languages": ""
 "cr": "6"
 "actions":
-- "desc": "The wyvern makes one Bite attack and one Sting attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 13 (2d8 + 4) Piercing damage."
-  "name": "Bite"
-- "desc": "Melee Attack: +7, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage\
-    \ plus 24 (7d6) Poison damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-    \ condition until the start of the wyvern's next turn."
-  "name": "Sting"
+  - "desc": "The wyvern makes one Bite attack and one Sting attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 13 (2d8 + 4) Piercing\
+      \ damage."
+    "name": "Bite"
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 11 (2d6 + 4) Piercing\
+      \ damage plus 24 (7d6) Poison damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ condition until the start of the wyvern's next turn."
+    "name": "Sting"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/dragon/token/wyvern-xmm.webp"
 ```
 ^statblock

@@ -18,4 +18,4 @@ When you drink this potion, your Strength score changes to 27 for 1 hour. The po
 
 This potion's transparent liquid has floating in it a sliver of fingernail from a cloud giant.
 
-*Source: Dungeon Master's Guide (2024) p. 288. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

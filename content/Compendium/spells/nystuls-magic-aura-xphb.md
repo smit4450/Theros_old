@@ -13,11 +13,10 @@ tags:
 - ttrpg-cli/spell/subclass/illusionist
 classes:
 - Bard
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
 - Bard (College of Lore)
 - Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Wizard
 - Wizard (Illusionist)
 aliases: ["Nystul's Magic Aura"]
 ---
@@ -25,10 +24,10 @@ aliases: ["Nystul's Magic Aura"]
 *2nd-level, Illusion*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, a small square of silk
-- **Duration:** 24 hour
+- **Components:** V, S, M (a small square of silk)
+- **Duration:** 24 hours
 
 With a touch, you place an illusion on a willing creature or an object that isn't being worn or carried. A creature gains the Mask effect below, and an object gains the False Aura effect below. The effect lasts for the duration. If you cast the spell on the same target every day for 30 days, the illusion lasts until dispelled.
 
@@ -42,6 +41,6 @@ You change the way the target appears to spells and magical effects that detect 
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb); [Wizard (Illusionist)](list-spells-classes-wizard-xphb-illusionist-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 302. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Arcanist's Magic Aura") and the Free Rules (2024)*

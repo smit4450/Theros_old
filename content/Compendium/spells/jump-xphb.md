@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/magic-initiate
+- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/optfeature/otherworldly-leap
 - ttrpg-cli/spell/school/transmutation
@@ -17,32 +17,28 @@ tags:
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Bard
-- Druid
-- Druid
-- Ranger
-- Ranger
-- Sorcerer
-- Sorcerer
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
 - Bard (College of Lore)
+- Druid
 - Fighter (Eldritch Knight)
+- Ranger
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Wizard
 aliases: ["Jump"]
 ---
 # Jump
 *1st-level, Transmutation*  
 
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Touch
-- **Components:** V, S, a grasshopper's hind leg
+- **Components:** V, S, M (a grasshopper's hind leg)
 - **Duration:** 1 minute
 
 You touch a willing creature. Once on each of its turns until the spell ends, that creature can jump up to 30 feet by spending 10 feet of movement.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Ranger](list-spells-classes-ranger); [Ranger](list-spells-classes-ranger); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 290. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

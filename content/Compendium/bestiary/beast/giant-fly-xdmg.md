@@ -20,19 +20,21 @@ aliases: ["Giant Fly"]
 "ac": !!int "11"
 "hp": !!int "19"
 "hit_dice": "3d10 + 3"
+"modifier": !!int "1"
 "stats":
-- !!int "14"
-- !!int "13"
-- !!int "13"
-- !!int "2"
-- !!int "10"
-- !!int "3"
+  - !!int "14"
+  - !!int "13"
+  - !!int "13"
+  - !!int "2"
+  - !!int "10"
+  - !!int "3"
 "speed": "30 ft., fly 60 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "0"
 "source":
-- "XDMG"
+  - "XDMG"
 "image": "Compendium/bestiary/beast/token/giant-fly-xdmg.webp"
 ```
 ^statblock

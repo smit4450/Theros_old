@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Merrow"]
 ---
 # Merrow
-*Source: Monster Manual (2024) p. 210*  
+*Source: Monster Manual (2024) p. 210. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/monstrosity/img/merrow.webp#right)  
 ## Merrow
@@ -38,34 +38,38 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
 "ac": !!int "13"
 "hp": !!int "45"
 "hit_dice": "6d10 + 12"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "15"
-- !!int "8"
-- !!int "10"
-- !!int "9"
+  - !!int "18"
+  - !!int "15"
+  - !!int "15"
+  - !!int "8"
+  - !!int "10"
+  - !!int "9"
 "speed": "10 ft., swim 40 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
 "languages": "Abyssal, Primordial (Aquan)"
 "cr": "2"
 "traits":
-- "desc": "The merrow can breathe air and water."
-  "name": "Amphibious"
+  - "desc": "The merrow can breathe air and water."
+    "name": "Amphibious"
 "actions":
-- "desc": "The merrow makes two attacks, using Bite, Claw, or Harpoon in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +6, reach 5 ft. Hit: 6 (1d4 + 4) Piercing damage,\
-    \ and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition\
-    \ until the end of the merrow's next turn."
-  "name": "Bite"
-- "desc": "Melee Attack: +6, reach 5 ft. Hit: 9 (2d4 + 4) Slashing damage."
-  "name": "Claw"
-- "desc": "Melee or Ranged Attack: +6, reach 5 ft. or range 20/60 ft. Hit: 11\
-    \ (2d6 + 4) Piercing damage. If the target is a Large or smaller creature, the\
-    \ merrow pulls the target up to 15 feet straight toward itself."
-  "name": "Harpoon"
+  - "desc": "The merrow makes two attacks, using Bite, Claw, or Harpoon in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 6 (1d4 + 4) Piercing\
+      \ damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ condition until the end of the merrow's next turn."
+    "name": "Bite"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (2d4 + 4) Slashing\
+      \ damage."
+    "name": "Claw"
+  - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 20/60 ft.\
+      \ *Hit:* 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller\
+      \ creature, the merrow pulls the target up to 15 feet straight toward itself."
+    "name": "Harpoon"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/monstrosity/token/merrow-xmm.webp"
 ```
 ^statblock

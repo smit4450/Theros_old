@@ -15,8 +15,8 @@ aliases:
 ![](Compendium/items/img/staff-of-the-python.webp#right)
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
@@ -26,4 +26,4 @@ On your turn, you can mentally command the snake (no action required) if it is w
 
 As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can command the snake to revert to staff form in its current space, and you can't use the staff's property again for 1 hour. If the snake is reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it dies and reverts to its staff form; the staff then shatters and is destroyed. If the snake reverts to staff form before losing all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it regains all of them.
 
-*Source: Dungeon Master's Guide (2024) p. 311. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

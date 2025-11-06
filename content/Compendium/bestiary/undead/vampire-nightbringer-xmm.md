@@ -14,7 +14,7 @@ aliases: ["Vampire Nightbringer"]
 # Vampire Nightbringer
 *Source: Monster Manual (2024) p. 316*  
 
-![](Compendium/bestiary/undead/img/vampire-nightbringer.webp#right)  
+![A vampire familiar provide...](Compendium/bestiary/undead/img/vampires.webp#right)  
 Born of necromantic rituals and planes of existence suffused with negative energy, vampire nightbringers manipulate shadows and feed on the raw life force of living creatures.
 
 ## Vampires
@@ -29,8 +29,6 @@ Vampires disguise their accursed, immortal natures, passing as mortals to feed o
 Undead vampires lie dormant during the day, retreating to resting places hidden from foes and the sun's searing rays. Roll on or choose a result from the Vampire Resting Places table to inspire a vampire's grim sanctuary.
 
 **Vampire Resting Places**
-
-`dice: [](vampire-nightbringer-xmm.md#^vampire-resting-places)`
 
 | dice: 1d6 | The Vampire's Resting Place Is... |
 |-----------|-----------------------------------|
@@ -60,49 +58,54 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 "ac": !!int "16"
 "hp": !!int "142"
 "hit_dice": "19d8 + 57"
+"modifier": !!int "4"
 "stats":
-- !!int "16"
-- !!int "18"
-- !!int "16"
-- !!int "13"
-- !!int "14"
-- !!int "15"
+  - !!int "16"
+  - !!int "18"
+  - !!int "16"
+  - !!int "13"
+  - !!int "14"
+  - !!int "15"
 "speed": "30 ft., fly 30 ft. (hover)"
 "saves":
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "5"
+  - "dexterity": !!int "7"
+  - "wisdom": !!int "5"
 "skillsaves":
-  "Stealth": !!int "7"
-  "Perception": !!int "5"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+7"
 "damage_immunities": "cold, necrotic"
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](Compendium/rules/conditions.md#Frightened)"
-"senses": "darkvision 120 ft., passive Perception 15"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 15"
 "languages": "Common plus one other language"
 "cr": "8"
 "traits":
-- "desc": "The vampire takes 10 Radiant damage if it starts its turn in sunlight.\
-    \ While in sunlight, it has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-    \ on attack rolls and ability checks."
-  "name": "Sunlight Hypersensitivity"
+  - "desc": "The vampire takes 10 Radiant damage if it starts its turn in sunlight.\
+      \ While in sunlight, it has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on attack rolls and ability checks."
+    "name": "Sunlight Hypersensitivity"
 "actions":
-- "desc": "The vampire makes one Bite attack and one Shadow Strike attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 7 (1d6 + 4) Piercing damage\
-    \ plus 10 (3d6) Necrotic damage. The target's [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ maximum decreases by an amount equal to the Necrotic damage taken, and the vampire\
-    \ regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal\
-    \ to that amount."
-  "name": "Bite"
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 7 (1d6 + 4) Slashing damage\
-    \ plus 14 (4d6) Cold damage."
-  "name": "Shadow Strike"
+  - "desc": "The vampire makes one Bite attack and one Shadow Strike attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 7 (1d6 + 4) Piercing\
+      \ damage plus 10 (3d6) Necrotic damage. The target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ maximum decreases by an amount equal to the Necrotic damage taken, and the\
+      \ vampire regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ equal to that amount."
+    "name": "Bite"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 7 (1d6 + 4) Slashing\
+      \ damage plus 14 (4d6) Cold damage."
+    "name": "Shadow Strike"
 "bonus_actions":
-- "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-    \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the vampire\
-    \ takes the Hide action."
-  "name": "Shadow Stealth"
+  - "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
+      \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the vampire\
+      \ takes the Hide action."
+    "name": "Shadow Stealth"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/undead/token/vampire-nightbringer-xmm.webp"
 ```
 ^statblock

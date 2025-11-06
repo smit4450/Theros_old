@@ -13,13 +13,11 @@ tags:
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Bard
-- Cleric
-- Cleric
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
 - Bard (College of Lore)
+- Cleric
 - Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Wizard
 aliases: ["Animate Dead"]
 ---
 # Animate Dead
@@ -28,7 +26,7 @@ aliases: ["Animate Dead"]
 
 - **Casting time:** 1 minute
 - **Range:** 10 feet
-- **Components:** V, S, a drop of blood, a piece of flesh, and a pinch of bone dust
+- **Components:** V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)
 - **Duration:** Instantaneous
 
 Choose a pile of bones or a corpse of a Medium or Small Humanoid within range. The target becomes an Undead creature: a [Skeleton](Compendium/bestiary/undead/skeleton-xmm.md) if you chose bones or a [Zombie](Compendium/bestiary/undead/zombie-xmm.md) if you chose a corpse.
@@ -39,6 +37,6 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **Using a Higher-Level Spell Slot.** You animate or reassert control over two additional Undead creatures for each spell slot level above 3. Each of the creatures must come from a different corpse or pile of bones.
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 240. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

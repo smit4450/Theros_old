@@ -17,8 +17,6 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 
 **Trinkets**
 
-`dice: [](trinket-xphb.md#^trinkets)`
-
 | dice: 1d100 | Trinket |
 |-------------|---------|
 | 01 | A mummified goblin hand |

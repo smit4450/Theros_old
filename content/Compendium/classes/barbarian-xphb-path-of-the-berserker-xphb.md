@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/barbarian/berserker
-aliases: ["Path of the Berserker"]
+aliases:
+- Path of the Berserker
 ---
 # Path of the Berserker
-*[Barbarian](barbarian-xphb.md): Barbarian Subclass*  
-*Source: Player's Handbook (2024) p. 54*  
+*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
+*Source: Player's Handbook (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -19,18 +21,18 @@ aliases: ["Path of the Berserker"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path%20of%20the%20Berserker%20(Level%203)'>Path of the Berserker</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path of the Berserker (Level 3)' class='internal-link'>Path of the Berserker</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Mindless%20Rage%20(Level%206)'>Mindless Rage</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Mindless Rage (Level 6)' class='internal-link'>Mindless Rage</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Retaliation%20(Level%2010)'>Retaliation</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Retaliation (Level 10)' class='internal-link'>Retaliation</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Intimidating%20Presence%20(Level%2014)'>Intimidating Presence</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Intimidating Presence (Level 14)' class='internal-link'>Intimidating Presence</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -38,7 +40,8 @@ aliases: ["Path of the Berserker"]
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -63,6 +66,6 @@ When you take damage from a creature that is within 5 feet of you, you can take 
 
 ### Intimidating Presence (Level 14)
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md)). On a failed save, a creature has the [Frightened](Compendium/rules/conditions.md#Frightened) condition for 1 minute. At the end of each of the [Frightened](Compendium/rules/conditions.md#Frightened) creature's turns, the creature repeats the save, ending the effect on itself on a success.
+As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md)). On a failed save, a creature has the [Frightened](Compendium/rules/conditions.md#Frightened) condition for 1 minute. At the end of each of the [Frightened](Compendium/rules/conditions.md#Frightened) creature's turns, the creature repeats the save, ending the effect on itself on a success.
 
 Once you use this feature, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you expend a use of your Rage (no action required) to restore your use of it.

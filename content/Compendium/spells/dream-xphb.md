@@ -11,10 +11,7 @@ tags:
 - ttrpg-cli/spell/subclass/illusionist
 classes:
 - Bard
-- Bard
 - Warlock
-- Warlock
-- Wizard
 - Wizard
 - Wizard (Illusionist)
 aliases: ["Dream"]
@@ -25,8 +22,8 @@ aliases: ["Dream"]
 
 - **Casting time:** 1 minute
 - **Range:** Self
-- **Components:** V, S, a handful of sand
-- **Duration:** 8 hour
+- **Components:** V, S, M (a handful of sand)
+- **Duration:** 8 hours
 
 You target a creature you know on the same plane of existence. You or a willing creature you touch enters a trance state to act as a dream messenger. While in the trance, the messenger is [Incapacitated](Compendium/rules/conditions.md#Incapacitated) and has a [Speed](Compendium/rules/variant-rules/speed-xphb.md) of 0.
 
@@ -36,6 +33,6 @@ If the target is awake when you cast the spell, the messenger knows it and can e
 
 You can make the messenger terrifying to the target. If you do so, the messenger can deliver a message of no more than ten words, and then the target makes a Wisdom saving throw. On a failed save, the target gains no benefit from its rest, and it takes `3d6` Psychic damage when it wakes up.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Illusionist)](list-spells-classes-wizard-xphb-illusionist-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 266. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

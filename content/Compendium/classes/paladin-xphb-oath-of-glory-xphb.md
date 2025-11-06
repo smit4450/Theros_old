@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/paladin/glory
-aliases: ["Oath of Glory"]
+aliases:
+- Oath of Glory
 ---
 # Oath of Glory
-*[Paladin](paladin-xphb.md): Paladin Subclass*  
+*[Paladin](./paladin-xphb.md): Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 114*  
 
 > [!tldr] Class and Feature Progression
@@ -19,11 +21,11 @@ aliases: ["Oath of Glory"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oath%20of%20Glory%20(Level%203)'>Oath of Glory</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oath of Glory (Level 3)' class='internal-link'>Oath of Glory</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Aura%20of%20Alacricity%20(Level%207)'>Aura of Alacricity</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Aura of Alacrity (Level 7)' class='internal-link'>Aura of Alacrity</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -31,14 +33,15 @@ aliases: ["Oath of Glory"]
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Glorious%20Defense%20(Level%2015)'>Glorious Defense</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Glorious Defense (Level 15)' class='internal-link'>Glorious Defense</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Living%20Legend%20(Level%2020)'>Living Legend</a></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Living Legend (Level 20)' class='internal-link'>Living Legend</a></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -78,7 +81,7 @@ Immediately after you cast [Divine Smite](Compendium/spells/divine-smite-xphb.md
 
 As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can expend one use of your Channel Divinity to augment your athleticism. For 1 hour, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Strength ([Athletics](Compendium/rules/skills.md#Athletics)) and Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) checks, and the distance of your Long and High Jumps increases by 10 feet (this extra distance costs movement as normal).
 
-### Aura of Alacricity (Level 7)
+### Aura of Alacrity (Level 7)
 
 Your Speed increases by 10 feet.
 

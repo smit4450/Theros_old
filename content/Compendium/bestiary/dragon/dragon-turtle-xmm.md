@@ -12,9 +12,9 @@ statblock: inline
 aliases: ["Dragon Turtle"]
 ---
 # Dragon Turtle
-*Source: Monster Manual (2024) p. 103*  
+*Source: Monster Manual (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/dragon-turtle.webp#right)  
+![](Compendium/books/monster-manual-2025/img/dragon-turtle.webp#right)  
 ## Dragon Turtle
 
 *Ancient Ruler of Undersea Realms*
@@ -33,43 +33,45 @@ Many dragon turtles live in secluded lairs or ruins deep underwater, and they mi
 "ac": !!int "20"
 "hp": !!int "356"
 "hit_dice": "23d20 + 115"
+"modifier": !!int "6"
 "stats":
-- !!int "25"
-- !!int "10"
-- !!int "20"
-- !!int "10"
-- !!int "12"
-- !!int "12"
+  - !!int "25"
+  - !!int "10"
+  - !!int "20"
+  - !!int "10"
+  - !!int "12"
+  - !!int "12"
 "speed": "20 ft., swim 50 ft."
 "saves":
-  "Wisdom": !!int "7"
-  "Constitution": !!int "11"
+  - "constitution": !!int "11"
+  - "wisdom": !!int "7"
 "damage_resistances": "fire"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 11"
 "languages": "Draconic, Primordial (Aquan)"
 "cr": "17"
 "traits":
-- "desc": "The dragon can breathe air and water."
-  "name": "Amphibious"
+  - "desc": "The dragon can breathe air and water."
+    "name": "Amphibious"
 "actions":
-- "desc": "The dragon makes three Bite attacks. It can replace one attack with a Tail\
-    \ attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +13, reach 15 ft. Hit: 23 (3d10 + 7) Piercing damage\
-    \ plus 7 (2d6) Fire damage. Being underwater doesn't grant [Resistance](Compendium/rules/variant-rules/resistance-xphb.md)\
-    \ to this Fire damage."
-  "name": "Bite"
-- "desc": "Melee Attack: +13, reach 15 ft. Hit: 18 (2d10 + 7) Bludgeoning\
-    \ damage. If the target is a Huge or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
-    \ condition."
-  "name": "Tail"
-- "desc": "Constitution Saving Throw: DC 19, each creature in a 60-foot [Cone [Area\
-    \ of Effect]](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). Failure:\
-    \ 56 (16d6) Fire damage. Success: Half damage. Failure or Success: Being\
-    \ underwater doesn't grant [Resistance](Compendium/rules/variant-rules/resistance-xphb.md)\
-    \ to this Fire damage."
-  "name": "Steam Breath (Recharge 5-6)"
+  - "desc": "The dragon makes three Bite attacks. It can replace one attack with a\
+      \ Tail attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +13, reach 15 ft. *Hit:* 23 (3d10 + 7) Piercing\
+      \ damage plus 7 (2d6) Fire damage. Being underwater doesn't grant [Resistance](Compendium/rules/variant-rules/resistance-xphb.md)\
+      \ to this Fire damage."
+    "name": "Bite"
+  - "desc": "*Melee Attack Roll:* +13, reach 15 ft. *Hit:* 18 (2d10 + 7) Bludgeoning\
+      \ damage. If the target is a Huge or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Tail"
+  - "desc": "*Constitution Saving Throw:* DC 19, each creature in a 60-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 56 (16d6) Fire damage. *Success:* Half damage. *Failure or Success:*\
+      \ Being underwater doesn't grant [Resistance](Compendium/rules/variant-rules/resistance-xphb.md)\
+      \ to this Fire damage."
+    "name": "Steam Breath (Recharge 5-6)"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/dragon/token/dragon-turtle-xmm.webp"
 ```
 ^statblock

@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-feat
+cssclasses:
+- json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/ei
-aliases: ["Pact of the Chain"]
+aliases:
+- Pact of the Chain
 ---
 # Pact of the Chain
-*Source: Player's Handbook (2024) p. 157*  
+*Source: Player's Handbook (2024) p. 157. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 You learn the [Find Familiar](Compendium/spells/find-familiar-xphb.md) spell and can cast it as a [Magic](Compendium/rules/actions.md#Magic) action without expending a spell slot.
 

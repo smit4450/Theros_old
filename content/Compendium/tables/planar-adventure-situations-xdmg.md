@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Planar Adventure Situations"]
+aliases:
+- Planar Adventure Situations
 ---
 # Planar Adventure Situations
 *Source: Dungeon Master's Guide (2024) p. 178* 
 
 **Planar Adventure Situations**
-
-`dice: [](planar-adventure-situations-xdmg.md#^planar-adventure-situations)`
 
 | dice: 1d10 | Situation |
 |------------|-----------|

@@ -5,11 +5,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/wondrous/ring
 aliases: 
 - "Ring of Spell Storing"
 ---
 # Ring of Spell Storing
-*Rare (requires attunement)*  
+*Ring, rare (requires attunement)*  
 ![](Compendium/items/img/ring-of-spell-storing.webp#right)
 
 
@@ -19,4 +20,4 @@ Any creature can cast a spell of level 1 through 5 into the ring by touching the
 
 While wearing this ring, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster but is otherwise treated as if you cast the spell. The spell cast from the ring is no longer stored in it, freeing up space.
 
-*Source: Dungeon Master's Guide (2024) p. 295. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 295. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

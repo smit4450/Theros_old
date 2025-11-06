@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Chapter 5: Creating Campaigns"]
+aliases:
+- Chapter 5: Creating Campaigns
 ---
 # Chapter 5: Creating Campaigns
 *Source: Dungeon Master's Guide (2024), p. 127* 
@@ -580,7 +582,7 @@ The conflict between adventurers and chromatic dragons might follow this broad o
 - **Levels 1–4.** Consider introducing this conflict as the adventurers reach level 3 or 4, with the adventurers confronting an aggressive chromatic dragon wyrmling. (You can use the adventure ""The Winged God"" from "chapter 4".)  
 - **Levels 5–10.** The adventurers might face a handful of ambitious young chromatic dragons, without hinting at a more significant conflict.  
 - **Levels 11–16.** It eventually becomes clear that the behavior of the adult dragons the characters face isn't normal. The characters might get involved in one dragon's schemes to undermine or overthrow another, or the characters might hear whispers of the dragons' dream of liberating Tiamat.  
-- **Levels 17–20.** The conflict reaches its worldshattering conclusion, with ancient dragons threatening nations and clashing with each other in devastating battles. The campaign might end with Tiamat herself appearing in the Flanaess—perhaps emerging from the Riftcanyon (see ""Mysteries of Greyhawk"" in this chapter) or from the depths of the Nyr Dyv.  
+- **Levels 17–20.** The conflict reaches its world-shattering conclusion, with ancient dragons threatening nations and clashing with each other in devastating battles. The campaign might end with Tiamat herself appearing in the Flanaess—perhaps emerging from the Riftcanyon (see ""Mysteries of Greyhawk"" in this chapter) or from the depths of the Nyr Dyv.  
 
 ![Tiamat herself brings a ca...](Compendium/books/dungeon-masters-guide-2024/img/068-05-002-tiamat-encounter.webp#center "Tiamat herself brings a campaign to a dramatic close")
 
@@ -1012,7 +1014,7 @@ Adventurers might visit the temple for one of the following reasons:
 
 This temple, dedicated to serving the god Pelor in the heart of the Garden Quarter, opens at dawn and closes at dusk. In a sanctuary in the heart of the temple, [Priests](Compendium/bestiary/humanoid/priest-xmm.md) conduct daily morning rites, as well as all-day observances every Godsday.
 
-Sarana, the temple's **Archpriest** (Neutral Good), is a middle-aged, human woman wearing a sun-shaped headdress and yellow-and-gold robes. She is never seen in public without her [Staff of Healing](Compendium/items/staff-of-healing-xdmg.md). Sarana has straw-colored hair, green eyes, and a forgiving nature.
+Sarana, the temple's [Archpriest](Compendium/bestiary/humanoid/archpriest-xmm.md) (Neutral Good), is a middle-aged, human woman wearing a sun-shaped headdress and yellow-and-gold robes. She is never seen in public without her [Staff of Healing](Compendium/items/staff-of-healing-xdmg.md). Sarana has straw-colored hair, green eyes, and a forgiving nature.
 
 ###### Character Backgrounds
 
@@ -1273,7 +1275,7 @@ United by their shared history as part of the ancient Kingdom of Keoland, the ma
 
 ##### Old Keoland Culture
 
-Old Keoland is a diverse region of the Flanaess where different cultures have mingled for many centuries. Keolish folk often garden, maintain close family ties, have a down-to-earth nature, and love storytelling.
+Old Keoland is a diverse region of the Flanaess where different cultures have mingled for many centuries. Keoish folk often garden, maintain close family ties, have a down-to-earth nature, and love storytelling.
 
 The clothes worn in Old Keoland tend toward loose-fitting shirts and wide-legged pants, voluminous cloaks for cold or wet weather, and sturdy boots. This region's cuisine represents a fusion of Central Flan dishes of rice, potato, and meat with some spices and seasonings brought from the west, creating unique flavors.
 

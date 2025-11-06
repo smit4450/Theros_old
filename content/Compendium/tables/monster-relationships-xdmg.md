@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Monster Relationships"]
+aliases:
+- Monster Relationships
 ---
 # Monster Relationships
 *Source: Dungeon Master's Guide (2024) p. 117* 
 
 **Monster Relationships**
-
-`dice: [](monster-relationships-xdmg.md#^monster-relationships)`
 
 | dice: 1d6 | Relationship |
 |-----------|--------------|

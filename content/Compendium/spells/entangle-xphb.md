@@ -6,23 +6,22 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/magic-initiate
+- ttrpg-cli/spell/feat/magic-initiate/druid-spells
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/conjuration
 - ttrpg-cli/spell/subclass/college-of-lore
 classes:
 - Bard
-- Druid
+- Bard (College of Lore)
 - Druid
 - Ranger
-- Bard (College of Lore)
 aliases: ["Entangle"]
 ---
 # Entangle
 *1st-level, Conjuration*  
 ![](Compendium/spells/img/entangle.webp#right)
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 90 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -31,6 +30,6 @@ Grasping plants sprout from the ground in a 20-foot square within range. For the
 
 Each creature (other than you) in the area when you cast the spell must succeed on a Strength saving throw or have the [Restrained](Compendium/rules/conditions.md#Restrained) condition until the spell ends. A [Restrained](Compendium/rules/conditions.md#Restrained) creature can take an action to make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check against your spell save DC. On a success, it frees itself from the grasping plants and is no longer [Restrained](Compendium/rules/conditions.md#Restrained) by them.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Ranger](list-spells-classes-ranger); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 268. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

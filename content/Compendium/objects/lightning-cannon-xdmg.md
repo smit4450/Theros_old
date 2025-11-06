@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-object
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/medium
 - ttrpg-cli/object/type/siege-weapon
-aliases: ["Lightning Cannon"]
+aliases:
+- Lightning Cannon
 ---
 # Lightning Cannon
 %%-- Embedded content starts on the next line. --%%
@@ -29,6 +31,6 @@ title: Lightning Cannon
 
 ## Actions
 
-***Lightning Ball (Requires Aim).*** *Ranged Attack:* `+6`, range 300/1,200 ft. *Hit:* 22 (`4d10`) Lightning damage.
+***Lightning Ball (Requires Aim).*** *Ranged Attack Roll:* `+6`, range 300/1,200 ft. *Hit:* 22 (`4d10`) Lightning damage.
 ```
 ^statblock

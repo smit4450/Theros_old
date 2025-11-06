@@ -14,7 +14,7 @@ aliases: ["Barlgura"]
 # Barlgura
 *Source: Monster Manual (2024) p. 31*  
 
-![](Compendium/bestiary/fiend/img/barlgura.webp#right)  
+![](Compendium/books/monster-manual-2025/img/barlgura.webp#right)  
 ## Barlgura
 
 *Demon of Instinct and Primal Violence*
@@ -36,51 +36,57 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
 "ac": !!int "15"
 "hp": !!int "85"
 "hit_dice": "10d10 + 30"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "7"
-- !!int "14"
-- !!int "9"
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "7"
+  - !!int "14"
+  - !!int "9"
 "speed": "40 ft., climb 40 ft."
 "saves":
-  "Dexterity": !!int "5"
-  "Constitution": !!int "6"
+  - "dexterity": !!int "5"
+  - "constitution": !!int "6"
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "5"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 15"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 15"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "5"
 "traits":
-- "desc": "The barlgura casts one of the following spells, requiring no Material components\
-    \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\n1/day\
-    \ each: [Entangle](Compendium/spells/entangle-xphb.md), [Phantasmal Killer](Compendium/spells/phantasmal-killer-xphb.md)\
-    \ (level 6 version)\n\n2/day each: [Disguise Self](Compendium/spells/disguise-self-xphb.md),\
-    \ [Invisibility](Compendium/spells/invisibility-xphb.md) (self only)"
-  "name": "Spellcasting"
-- "desc": "If the barlgura dies outside the Abyss, its body dissolves into ichor,\
-    \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ somewhere in the Abyss."
-  "name": "Demonic Restoration"
+  - "desc": "If the barlgura dies outside the Abyss, its body dissolves into ichor,\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ somewhere in the Abyss."
+    "name": "Demonic Restoration"
 "actions":
-- "desc": "The barlgura makes one Tormenting Bite attack and two Thrash attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage\
-    \ plus 13 (2d12) Psychic damage."
-  "name": "Tormenting Bite"
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 9 (1d10 + 4) Bludgeoning damage.\
-    \ If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
-    \ condition."
-  "name": "Thrash"
+  - "desc": "The barlgura makes one Tormenting Bite attack and two Thrash attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing\
+      \ damage plus 13 (2d12) Psychic damage."
+    "name": "Tormenting Bite"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 9 (1d10 + 4) Bludgeoning\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Thrash"
+  - "desc": "The barlgura casts one of the following spells, requiring no Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
+      \n**2/day each:** [Disguise Self](Compendium/spells/disguise-self-xphb.md),\
+      \ [Invisibility](Compendium/spells/invisibility-xphb.md) (self only)\n\n**1/day\
+      \ each:** [Entangle](Compendium/spells/entangle-xphb.md), [Phantasmal Killer](Compendium/spells/phantasmal-killer-xphb.md)\
+      \ (level 6 version)"
+    "name": "Spellcasting"
 "bonus_actions":
-- "desc": "The barlgura jumps up to 40 feet by spending 10 feet of movement."
-  "name": "Leap"
+  - "desc": "The barlgura jumps up to 40 feet by spending 10 feet of movement."
+    "name": "Leap"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/fiend/token/barlgura-xmm.webp"
 ```
 ^statblock

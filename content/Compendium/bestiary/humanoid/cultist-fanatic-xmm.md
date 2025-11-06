@@ -11,9 +11,9 @@ statblock: inline
 aliases: ["Cultist Fanatic"]
 ---
 # Cultist Fanatic
-*Source: Monster Manual (2024) p. 85*  
+*Source: Monster Manual (2024) p. 85, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/cultist-fanatic.webp#right)  
+![](Compendium/bestiary/humanoid/img/cultists.webp#right)  
 Cultist fanatics lead small cults or cells within larger cults. They're privy to more of a cult's mysteries than lower-ranking cultists are, granting them access to magical powers from their patrons.
 
 ## Cultists
@@ -21,13 +21,11 @@ Cultist fanatics lead small cults or cells within larger cults. They're privy to
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, Relics  
+- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
 **Cultist Agendas**
-
-`dice: [](cultist-fanatic-xmm.md#^cultist-agendas)`
 
 | dice: 1d6 | The Cultist Strives To... |
 |-----------|---------------------------|
@@ -44,8 +42,6 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 Cults often identify with symbols that exemplify their beliefs. Such symbols might mark objects important to the cult, as well as the dress and bodies of cultists themselves. These symbols might be broadly understandable, or they might have meaning only to cultists. Roll twice on or choose results from the Cult Symbols table to inspire a cult's icons.
 
 **Cult Symbols**
-
-`dice: [](cultist-fanatic-xmm.md#^cult-symbols)`
 
 | dice: 1d10 | The Symbol Is... | Depicted As... |
 |------------|------------------|----------------|
@@ -83,39 +79,44 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "ac": !!int "13"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
+"modifier": !!int "2"
 "stats":
-- !!int "11"
-- !!int "14"
-- !!int "12"
-- !!int "10"
-- !!int "14"
-- !!int "13"
+  - !!int "11"
+  - !!int "14"
+  - !!int "12"
+  - !!int "10"
+  - !!int "14"
+  - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "4"
+  - "wisdom": !!int "4"
 "skillsaves":
-  "Deception": !!int "3"
-  "Religion": !!int "2"
-  "Persuasion": !!int "3"
+  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+    "desc": "+3"
+  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+    "desc": "+3"
+  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+    "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "2"
-"traits":
-- "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 12, +4 to hit with spell attacks):\n\nAt will:\
-    \ [Light](Compendium/spells/light-xphb.md), [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\
-    \n1/day: [Hold Person](Compendium/spells/hold-person-xphb.md)\n\n2/day:\
-    \ [Command](Compendium/spells/command-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The cultist casts the [Spiritual Weapon](Compendium/spells/spiritual-weapon-xphb.md)\
-    \ spell, using the same spellcasting ability as Spellcasting.\n\n2/day: [Spiritual\
-    \ Weapon](Compendium/spells/spiritual-weapon-xphb.md)"
-  "name": "Spiritual Weapon (2/Day)"
 "actions":
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage\
-    \ plus 7 (2d6) Necrotic damage."
-  "name": "Pact Blade"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Slashing\
+      \ damage plus 7 (2d6) Necrotic damage."
+    "name": "Pact Blade"
+  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
+      \ ability (spell save DC 12, +4 to hit with spell attacks):\n\n**At will:**\
+      \ [Light](Compendium/spells/light-xphb.md), [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\
+      \n**2/day:** [Command](Compendium/spells/command-xphb.md)\n\n**1/day:** [Hold\
+      \ Person](Compendium/spells/hold-person-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The cultist casts the [Spiritual Weapon](Compendium/spells/spiritual-weapon-xphb.md)\
+      \ spell, using the same spellcasting ability as Spellcasting.\n"
+    "name": "Spiritual Weapon (2/Day)"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/humanoid/token/cultist-fanatic-xmm.webp"
 ```
 ^statblock

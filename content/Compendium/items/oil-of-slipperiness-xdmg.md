@@ -20,4 +20,4 @@ Alternatively, the oil can be poured on the ground as a [Magic](Compendium/rules
 
 This sticky, black unguent is thick and heavy, but it flows quickly when poured.
 
-*Source: Dungeon Master's Guide (2024) p. 283*
+*Source: Dungeon Master's Guide (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

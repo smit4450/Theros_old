@@ -21,37 +21,32 @@ tags:
 - ttrpg-cli/spell/subclass/oath-of-vengeance
 classes:
 - Bard
-- Cleric
-- Cleric
-- Druid
-- Druid
-- Ranger
-- Ranger
-- Sorcerer
-- Sorcerer
-- Wizard
-- Wizard
-- Wizard (Abjurer)
-- Rogue (Arcane Trickster)
-- Sorcerer (Clockwork Sorcery)
 - Bard (College of Lore)
+- Cleric
+- Druid
 - Fighter (Eldritch Knight)
 - Paladin (Oath of Glory)
-- Paladin (Oath of the Ancients)
 - Paladin (Oath of Vengeance)
+- Paladin (Oath of the Ancients)
+- Ranger
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Sorcerer (Clockwork Sorcery)
+- Wizard
+- Wizard (Abjurer)
 aliases: ["Protection from Energy"]
 ---
 # Protection from Energy
 *3rd-level, Abjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
 
 For the duration, the willing creature you touch has [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder.
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Ranger](list-spells-classes-ranger); [Ranger](list-spells-classes-ranger); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Abjurer)](list-spells-classes-wizard-xphb-abjurer-xphb); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Sorcerer (Clockwork Sorcery)](list-spells-classes-sorcerer-xphb-clockwork-sorcery-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb); [Paladin (Oath of Glory)](list-spells-classes-paladin-xphb-oath-of-glory-xphb); [Paladin (Oath of the Ancients)](list-spells-classes-paladin-xphb-oath-of-the-ancients-xphb); [Paladin (Oath of Vengeance)](list-spells-classes-paladin-xphb-oath-of-vengeance-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Glory)](Compendium/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Vengeance)](Compendium/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Ancients)](Compendium/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 309. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 309. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

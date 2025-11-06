@@ -18,8 +18,6 @@ This necklace has `1d4 + 2` magic beads made from aquamarine, black pearl, or to
 
 Six types of magic beads exist. The DM decides the type of each bead on the necklace or determines it randomly by rolling on the table below. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast from it as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) (using your spell save DC if a save is necessary). Once a magic bead's spell is cast, that bead can't be used again until the next dawn.
 
-`dice: [](necklace-of-prayer-beads-xdmg.md#^1-bead-spell)`
-
 | dice: 1d20 | Bead | Spell |
 |------------|------|-------|
 | 1-6 | Bead of Blessing | [Bless](Compendium/spells/bless-xphb.md) |
@@ -30,4 +28,4 @@ Six types of magic beads exist. The DM decides the type of each bead on the neck
 | 20 | Bead of Wind Walking | [Wind Walk](Compendium/spells/wind-walk-xphb.md) |
 ^1-bead-spell
 
-*Source: Dungeon Master's Guide (2024) p. 281*
+*Source: Dungeon Master's Guide (2024) p. 281. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

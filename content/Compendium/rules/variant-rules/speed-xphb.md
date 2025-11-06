@@ -1,18 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Speed"]
+aliases:
+- Speed
 ---
 # Speed
-*Source: Player's Handbook (2024) p. 374. Available in the Free Rules (2024)* 
+*Source: Player's Handbook (2024) p. 374. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 A creature has a Speed, which is the distance in feet the creature can cover when it moves on its turn.
 
 ## Special Speeds
 
-Some creatures have special speeds, such as a Burrow Speed, [Climb Speed](Compendium/rules/variant-rules/climb-speed-xphb.md), [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md), or [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md), each of which is defined in this glossary. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move. For example, if you have a Speed of 30 and a [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md) of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
+Some creatures have special speeds, such as a [Burrow Speed](Compendium/rules/variant-rules/burrow-speed-xphb.md), [Climb Speed](Compendium/rules/variant-rules/climb-speed-xphb.md), [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md), or [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md), each of which is defined in this glossary. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move. For example, if you have a Speed of 30 and a [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md) of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
 
 ## Changes to Your Speeds
 

@@ -14,7 +14,7 @@ aliases: ["Kuo-toa Monitor"]
 # Kuo-toa Monitor
 *Source: Monster Manual (2024) p. 190*  
 
-![](Compendium/bestiary/aberration/img/kuo-toa-monitor.webp#right)  
+![](Compendium/bestiary/aberration/img/kuo-toa-whip-and-monitor.webp#right)  
 Kuo-toa monitors control the day-to-day life of weaker kuo-toa, directing their work and worship. They also train beasts or monsters in the kuo-toa's service—such as chuuls or giant crabs—and command them in battle. Archpriests bless monitors with the power to control their underlings and to subdue foes with electricity channeled through their bizarre whips.
 
 ## Kuo-toa
@@ -22,7 +22,7 @@ Kuo-toa monitors control the day-to-day life of weaker kuo-toa, directing their 
 *Fishlike Fanatics of the Deep*
 
 - **Habitat.** Coastal, Underdark  
-- **Treasure.** Relics  
+- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
 
 Kuo-toa have slimy, humanoid bodies and the heads of goggle-eyed deep-sea fish. They claim they once dominated whole worlds, their empires spanning land and sea under the blessings of piscine gods. The kuo-toa can't say what disaster brought their glorious civilization to an end, but elves, humans, mind flayers, and the kuo-toan gods bear the brunt of their blame. From the lands and seas of the surface, the kuo-toa retreated into cavernous trenches and Underdark seas. In these hidden realms, kuo-toa brood over all they've lost and forgotten, nursing plots to avenge themselves for slights that might never have occurred.
 
@@ -37,8 +37,6 @@ Kuo-toa ever seek to placate their inscrutable deities. However, few kuo-toa can
 Lacking information about what their other gods look like, kuo-toa priests invent new forms for them, creating divine idols with whatever objects are at hand. But whether these kuo-toa priests draw power from belief or delusion, aberrant talent, or a stranger supernatural source, some power answers their petitions. Roll twice on or choose results from the Kuo-toa Deity Features table to inspire how kuo-toa represent a deity.
 
 **Kuo-toa Deity Features**
-
-`dice: [](kuo-toa-monitor-xmm.md#^kuo-toa-deity-features)`
 
 | dice: 1d10 | The Deity's Head Is Like A... | The Deity's Body Is Like A... |
 |------------|-------------------------------|-------------------------------|
@@ -59,8 +57,6 @@ Lacking information about what their other gods look like, kuo-toa priests inven
 Kuo-toa typically organize their communities around sites they believe to be important to their deities. These might be structures or series of caverns, and most feature both air-filled and submerged chambers. Important places within these sites suggest the rituals of kuo-toa faiths, the demands of kuo-toa deities, or the whims of omen-seeking archpriests. As with kuo-toa deities, the features of these locations vary between communities. Roll on or choose a result from the Kuo-toa Ritual Sites table to inspire features and suggest adventures within a kuo-toa community.
 
 **Kuo-toa Ritual Sites**
-
-`dice: [](kuo-toa-monitor-xmm.md#^kuo-toa-ritual-sites)`
 
 | dice: 1d8 | The Kuo-toa Community Features... |
 |-----------|-----------------------------------|
@@ -88,34 +84,40 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 "ac": !!int "13"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
+"modifier": !!int "0"
 "stats":
-- !!int "16"
-- !!int "10"
-- !!int "14"
-- !!int "12"
-- !!int "14"
-- !!int "11"
+  - !!int "16"
+  - !!int "10"
+  - !!int "14"
+  - !!int "12"
+  - !!int "14"
+  - !!int "11"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Religion": !!int "3"
-  "Perception": !!int "6"
-"senses": "darkvision 120 ft., truesight 30 ft., passive Perception 16"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+    "desc": "+3"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., [Truesight](Compendium/rules/senses.md#Truesight)\
+  \ 30 ft., passive Perception 16"
 "languages": "Undercommon"
 "cr": "3"
 "traits":
-- "desc": "The kuo-toa can breathe air and water."
-  "name": "Amphibious"
-- "desc": "While in sunlight, the kuo-toa has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-    \ on ability checks and attack rolls."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The kuo-toa can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "The kuo-toa makes two Bone Whip attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +5, reach 10 ft. Hit: 6 (1d6 + 3) Slashing damage\
-    \ plus 7 (2d6) Lightning damage, and the target can't make Opportunity Attacks\
-    \ until the start of the kuo-toa's next turn."
-  "name": "Bone Whip"
+  - "desc": "The kuo-toa makes two Bone Whip attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 10 ft. *Hit:* 6 (1d6 + 3) Slashing\
+      \ damage plus 7 (2d6) Lightning damage, and the target can't make [Opportunity\
+      \ Attacks](Compendium/rules/actions.md#Opportunity%20Attack) until the start\
+      \ of the kuo-toa's next turn."
+    "name": "Bone Whip"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/aberration/token/kuo-toa-monitor-xmm.webp"
 ```
 ^statblock

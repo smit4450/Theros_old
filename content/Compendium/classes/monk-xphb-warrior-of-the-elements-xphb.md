@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/monk/elements
-aliases: ["Warrior of the Elements"]
+aliases:
+- Warrior of the Elements
 ---
 # Warrior of the Elements
-*[Monk](monk-xphb.md): Monk Subclass*  
+*[Monk](./monk-xphb.md): Monk Subclass*  
 *Source: Player's Handbook (2024) p. 106*  
 
 > [!tldr] Class and Feature Progression
@@ -19,26 +21,27 @@ aliases: ["Warrior of the Elements"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Warrior%20of%20the%20Elements%20(Level%203)'>Warrior of the Elements</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Warrior of the Elements (Level 3)' class='internal-link'>Warrior of the Elements</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Elemental%20Burst%20(Level%206)'>Elemental Burst</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Elemental Burst (Level 6)' class='internal-link'>Elemental Burst</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Stride%20of%20the%20Elements%20(Level%2011)'>Stride of the Elements</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Stride of the Elements (Level 11)' class='internal-link'>Stride of the Elements</a></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Elemental%20Epitome%20(Level%2017)'>Elemental Epitome</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Elemental Epitome (Level 17)' class='internal-link'>Elemental Epitome</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -67,9 +70,9 @@ You know the [Elementalism](Compendium/spells/elementalism-xphb.md) spell. Wisdo
 
 ### Elemental Burst (Level 6)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend 2 Focus Points to cause elemental energy to burst in a 20-foot-radius [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point within 120 feet of yourself. Choose a damage type: Acid, Cold, Fire, Lightning, or Thunder.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend 2 Focus Points to cause elemental energy to burst in a 20-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point within 120 feet of yourself. Choose a damage type: Acid, Cold, Fire, Lightning, or Thunder.
 
-Each creature in the [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) must make a Dexterity saving throw. On a failed save, a creature takes damage of the chosen type equal to three rolls of your Martial Arts die. On a successful save, a creature takes half as much damage.
+Each creature in the [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) must make a Dexterity saving throw. On a failed save, a creature takes damage of the chosen type equal to three rolls of your Martial Arts die. On a successful save, a creature takes half as much damage.
 
 ### Stride of the Elements (Level 11)
 

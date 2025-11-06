@@ -12,9 +12,9 @@ tags:
 - ttrpg-cli/spell/subclass/illusionist
 classes:
 - Bard
+- Bard (College of Lore)
 - Druid
 - Ranger
-- Bard (College of Lore)
 - Wizard (Illusionist)
 aliases: ["Summon Beast"]
 ---
@@ -22,9 +22,9 @@ aliases: ["Summon Beast"]
 *2nd-level, Conjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 90 feet
-- **Components:** V, S, a feather, tuft of fur, and fish tail inside a gilded acorn worth 200+ GP
+- **Components:** V, S, M (a feather, tuft of fur, and fish tail inside a gilded acorn worth 200+ GP)
 - **Duration:** Concentration, up to 1 hour
 
 You call forth a bestial spirit. It manifests in an unoccupied space that you can see within range and uses the [Bestial Spirit](Compendium/bestiary/beast/bestial-spirit-xphb.md) stat block. When you cast the spell, choose an environment: Air, Land, or Water. The creature resembles an animal of your choice that is native to the chosen environment, which determines certain details in its stat block. The creature disappears when it drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) or when the spell ends.
@@ -33,6 +33,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Ranger](list-spells-classes-ranger); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Wizard (Illusionist)](list-spells-classes-wizard-xphb-illusionist-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 322*

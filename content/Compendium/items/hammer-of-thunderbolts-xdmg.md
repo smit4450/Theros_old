@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Hammer of Thunderbolts"
 - "Maul of Thunderbolts"
@@ -36,17 +37,17 @@ While you are attuned to the weapon and wearing either a [Belt of Giant Strength
 
 ### Maul of Thunderbolts
 
-- **Damage**: 2d6 B
+- **Damage**: 2d6 bludgeoning
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Warhammer of Thunderbolts
 
 - **Damage**:
-  - One-handed: 1d8 B
-  - Two-handed: 1d10 B
+  - One-handed: 1d8 bludgeoning
+  - Two-handed: 1d10 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 5.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 265*
+*Source: Dungeon Master's Guide (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

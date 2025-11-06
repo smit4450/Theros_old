@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/druid/land
-aliases: ["Circle of the Land"]
+aliases:
+- Circle of the Land
 ---
 # Circle of the Land
-*[Druid](druid-xphb.md): Druid Subclass*  
-*Source: Player's Handbook (2024) p. 84*  
+*[Druid](./druid-xphb.md): Druid Subclass*  
+*Source: Player's Handbook (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -19,18 +21,18 @@ aliases: ["Circle of the Land"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Circle%20of%20the%20Land%20(Level%203)'>Circle of the Land</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Circle of the Land (Level 3)' class='internal-link'>Circle of the Land</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Natural%20Recovery%20(Level%206)'>Natural Recovery</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Natural Recovery (Level 6)' class='internal-link'>Natural Recovery</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Nature's%20Ward%20(Level%2010)'>Nature's Ward</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Nature's Ward (Level 10)' class='internal-link'>Nature's Ward</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Nature's%20Sanctuary%20(Level%2014)'>Nature's Sanctuary</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Nature's Sanctuary (Level 14)' class='internal-link'>Nature's Sanctuary</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -38,7 +40,8 @@ aliases: ["Circle of the Land"]
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -95,7 +98,7 @@ Whenever you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.
 
 ### Land's Aid (Level 3)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on that point. Each creature of your choice in the [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) must make a Constitution saving throw against your spell save DC, taking `2d6` Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains `2d6` [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on that point. Each creature of your choice in the [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) must make a Constitution saving throw against your spell save DC, taking `2d6` Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains `2d6` [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).
 
 The damage and healing increase by `1d6` when you reach Druid levels 10 (`3d6`) and 14 (`4d6`).
 
@@ -121,6 +124,6 @@ You are immune to the [Poisoned](Compendium/rules/conditions.md#Poisoned) condit
 
 ### Nature's Sanctuary (Level 14)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [Cube [Area of Effect]](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition or die. You and your allies have [Cover](Compendium/rules/variant-rules/cover-xphb.md) while in that area, and your allies gain the current [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) of your [Nature](Compendium/rules/skills.md#Nature)'s Ward while there.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition or die. You and your allies have [Half Cover](Compendium/rules/variant-rules/cover-xphb.md) while in that area, and your allies gain the current [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) of your [Nature](Compendium/rules/skills.md#Nature)'s Ward while there.
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can move the [Cube [Area of Effect]](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) up to 60 feet to ground within 120 feet of yourself.
+As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can move the [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) up to 60 feet to ground within 120 feet of yourself.

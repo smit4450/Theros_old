@@ -12,11 +12,9 @@ tags:
 - ttrpg-cli/spell/subclass/illusionist
 classes:
 - Bard
-- Bard
+- Ranger (Fey Wanderer)
 - Warlock
 - Wizard
-- Wizard
-- Ranger (Fey Wanderer)
 - Wizard (Illusionist)
 aliases: ["Mislead"]
 ---
@@ -24,7 +22,7 @@ aliases: ["Mislead"]
 *5th-level, Illusion*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** S
 - **Duration:** Concentration, up to 1 hour
@@ -35,6 +33,6 @@ As a [Magic](Compendium/rules/actions.md#Magic) action, you can move the illusor
 
 You can see through its eyes and hear through its ears as if you were located where it is.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Ranger (Fey Wanderer)](list-spells-classes-ranger-xphb-fey-wanderer-xphb); [Wizard (Illusionist)](list-spells-classes-wizard-xphb-illusionist-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Ranger (Fey Wanderer)](Compendium/lists/list-spells-classes-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 299. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

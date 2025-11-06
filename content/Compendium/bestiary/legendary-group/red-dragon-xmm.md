@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
 - ttrpg-cli/monster/legendary-group
-aliases: ["Red Dragon"]
+aliases:
+- Red Dragon
 ---
 # Red Dragon
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual (2024)_
 
 The region containing an adult or ancient red dragon's lair is warped by its presence, creating the following effects:

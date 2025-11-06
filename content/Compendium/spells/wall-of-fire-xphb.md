@@ -15,29 +15,28 @@ tags:
 - ttrpg-cli/spell/subclass/evoker
 - ttrpg-cli/spell/subclass/fiend-patron
 - ttrpg-cli/spell/subclass/light-domain
+- ttrpg-cli/spell/subclass/spellfire-sorcery
 classes:
 - Bard
-- Druid
-- Druid
-- Sorcerer
-- Sorcerer
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
-- Warlock (Celestial Patron)
-- Fighter (Eldritch Knight)
-- Wizard (Evoker)
-- Warlock (Fiend Patron)
 - Cleric (Light Domain)
+- Druid
+- Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Sorcerer (Spellfire Sorcery)
+- Warlock (Celestial Patron)
+- Warlock (Fiend Patron)
+- Wizard
+- Wizard (Evoker)
 aliases: ["Wall of Fire"]
 ---
 # Wall of Fire
 *4th-level, Evocation*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
-- **Components:** V, S, a piece of charcoal
+- **Components:** V, S, M (a piece of charcoal)
 - **Duration:** Concentration, up to 1 minute
 
 You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration.
@@ -48,6 +47,6 @@ One side of the wall, selected by you when you cast this spell, deals `5d8` Fire
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 4.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Warlock (Celestial Patron)](list-spells-classes-warlock-xphb-celestial-patron-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb); [Wizard (Evoker)](list-spells-classes-wizard-xphb-evoker-xphb); [Warlock (Fiend Patron)](list-spells-classes-warlock-xphb-fiend-patron-xphb); [Cleric (Light Domain)](list-spells-classes-cleric-xphb-light-domain-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Spellfire Sorcery)](Compendium/lists/list-spells-classes-spellfire-sorcery-frhof.md "subclass=FRHoF;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Fiend Patron)](Compendium/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 338. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 338. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

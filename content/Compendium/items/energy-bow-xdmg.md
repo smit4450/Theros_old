@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Energy Bow"
 - "Energy Longbow"
@@ -28,7 +29,7 @@ Whenever you use this weapon to make a ranged attack against a creature, you can
 
 ## Arrow of Transport
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can fire one energy arrow from this weapon at a target you can see within 60 feet of yourself. The target can be either a willing Medium or smaller creature or an object that isn't being worn or carried, provided the object is small enough to fit inside a 5-foot [Cube [Area of Effect]](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md). The arrow teleports the target to an unoccupied space you can see within 10 feet of you.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can fire one energy arrow from this weapon at a target you can see within 60 feet of yourself. The target can be either a willing Medium or smaller creature or an object that isn't being worn or carried, provided the object is small enough to fit inside a 5-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md). The arrow teleports the target to an unoccupied space you can see within 10 feet of you.
 
 ## Energy Ladder
 
@@ -40,17 +41,17 @@ As a [Magic](Compendium/rules/actions.md#Magic) action, you can loose a flurry o
 
 ### Energy Longbow
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Range**: 150/600
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### Energy Shortbow
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 80/320
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 257. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 257. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

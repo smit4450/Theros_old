@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Preparing Spells; Spell Preparation by Class"]
+aliases:
+- Preparing Spells; Spell Preparation by Class
 ---
 # Preparing Spells; Spell Preparation by Class
-*Source: Player's Handbook (2024) p. 235* 
+*Source: Player's Handbook (2024) p. 235. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 **Spell Preparation by Class**
 

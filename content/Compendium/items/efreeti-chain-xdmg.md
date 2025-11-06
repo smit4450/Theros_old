@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Efreeti Chain"
 - "Efreeti Chain Mail"

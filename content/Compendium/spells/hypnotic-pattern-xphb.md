@@ -16,33 +16,29 @@ tags:
 - ttrpg-cli/spell/subclass/trickery-domain
 classes:
 - Bard
-- Bard
-- Sorcerer
-- Sorcerer
-- Warlock
-- Warlock
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
 - Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Wizard (Illusionist)
 - Cleric (Trickery Domain)
+- Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Warlock
+- Wizard
+- Wizard (Illusionist)
 aliases: ["Hypnotic Pattern"]
 ---
 # Hypnotic Pattern
 *3rd-level, Illusion*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
-- **Components:** S, a pinch of confetti
+- **Components:** S, M (a pinch of confetti)
 - **Duration:** Concentration, up to 1 minute
 
-You create a twisting pattern of colors in a 30-foot Cube within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the [Charmed](Compendium/rules/conditions.md#Charmed) condition for the duration. While [Charmed](Compendium/rules/conditions.md#Charmed), the creature has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition and a [Speed](Compendium/rules/variant-rules/speed-xphb.md) of 0.
+You create a twisting pattern of colors in a 30-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the [Charmed](Compendium/rules/conditions.md#Charmed) condition for the duration. While [Charmed](Compendium/rules/conditions.md#Charmed), the creature has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition and a [Speed](Compendium/rules/variant-rules/speed-xphb.md) of 0.
 
 The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb); [Wizard (Illusionist)](list-spells-classes-wizard-xphb-illusionist-xphb); [Cleric (Trickery Domain)](list-spells-classes-cleric-xphb-trickery-domain-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](Compendium/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 287. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 287. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

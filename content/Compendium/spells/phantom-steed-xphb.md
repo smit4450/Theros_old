@@ -14,11 +14,10 @@ tags:
 - ttrpg-cli/spell/subclass/illusionist
 classes:
 - Bard
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
 - Bard (College of Lore)
 - Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Wizard
 - Wizard (Illusionist)
 aliases: ["Phantom Steed"]
 ---
@@ -35,6 +34,6 @@ A Large, quasi-real, horselike creature appears on the ground in an unoccupied s
 
 For the duration, you or a creature you choose can ride the steed. The steed uses the [Riding Horse](Compendium/bestiary/beast/riding-horse-xmm.md) stat block, except it has a [Speed](Compendium/rules/variant-rules/speed-xphb.md) of 100 feet and can travel 13 miles in an hour. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends early if the steed takes any damage.
 
-**Classes**: [Bard](list-spells-classes-bard); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb); [Wizard (Illusionist)](list-spells-classes-wizard-xphb-illusionist-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 304. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 304. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

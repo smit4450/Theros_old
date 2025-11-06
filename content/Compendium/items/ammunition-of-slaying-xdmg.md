@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/gear/ammunition
 - ttrpg-cli/item/gear/ammunition-firearm
 - ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Ammunition of Slaying"
 - "Arrow of Slaying"
@@ -24,8 +25,6 @@ aliases:
 This magic ammunition is meant to slay creatures of a particular type, which the DM chooses or determines randomly by rolling on the table below. If a creature of that type takes damage from the ammunition, the creature makes a DC 17 Constitution saving throw, taking an extra `6d10` Force damage on a failed save or half as much extra damage on a successful one.
 
 After dealing its extra damage to a creature, the ammunition becomes nonmagical.
-
-`dice: [](ammunition-of-slaying-xdmg.md#^1-creature-type)`
 
 | dice: 1d100 | Creature Type |
 |-------------|---------------|
@@ -78,4 +77,4 @@ After dealing its extra damage to a creature, the ammunition becomes nonmagical.
 - **Weight**: 0.075 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 228*
+*Source: Dungeon Master's Guide (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

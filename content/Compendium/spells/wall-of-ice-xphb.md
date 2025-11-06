@@ -11,7 +11,6 @@ tags:
 classes:
 - Bard
 - Wizard
-- Wizard
 - Wizard (Evoker)
 aliases: ["Wall of Ice"]
 ---
@@ -19,10 +18,10 @@ aliases: ["Wall of Ice"]
 *6th-level, Evocation*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
-- **Components:** V, S, a piece of quartz
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a piece of quartz)
+- **Duration:** Concentration, up to 10 minutes
 
 You create a wall of ice on a solid surface within range. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-square panels. Each panel must be contiguous with another panel. In any form, the wall is 1 foot thick and lasts for the duration.
 
@@ -34,6 +33,6 @@ A creature moving through the sheet of frigid air for the first time on a turn m
 
 **Using a Higher-Level Spell Slot.** The damage the wall deals when it appears increases by `2d6` and the damage from passing through the sheet of frigid air increases by `1d6` for each spell slot level above 6.
 
-**Classes**: [Bard](list-spells-classes-bard); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Evoker)](list-spells-classes-wizard-xphb-evoker-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 339. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 339. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

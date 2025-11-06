@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Implements - Very Rare"]
+aliases:
+- Implements - Very Rare
 ---
 # Implements - Very Rare
 *Source: Dungeon Master's Guide (2024) p. 329* 
 
 **Implements - Very Rare**
-
-`dice: [](implements-very-rare-xdmg.md#^implements-very-rare)`
 
 | dice: 1d100 | Item |
 |-------------|------|

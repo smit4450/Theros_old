@@ -18,7 +18,7 @@ statblock: inline
 aliases: ["Phase Spider"]
 ---
 # Phase Spider
-*Source: Monster Manual (2024) p. 239*  
+*Source: Monster Manual (2024) p. 239, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/monstrosity/img/phase-spider.webp#right)  
 ## Phase Spider
@@ -44,44 +44,50 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
 "ac": !!int "14"
 "hp": !!int "45"
 "hit_dice": "7d10 + 7"
+"modifier": !!int "3"
 "stats":
-- !!int "15"
-- !!int "16"
-- !!int "12"
-- !!int "6"
-- !!int "10"
-- !!int "6"
+  - !!int "15"
+  - !!int "16"
+  - !!int "12"
+  - !!int "6"
+  - !!int "10"
+  - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": !!int "7"
-"senses": "darkvision 60 ft., passive Perception 10"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+7"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "3"
 "traits":
-- "desc": "The spider can see 60 feet into the Ethereal Plane while on the Material\
-    \ Plane and vice versa."
-  "name": "Ethereal Sight"
-- "desc": "The spider can climb difficult surfaces, including along ceilings, without\
-    \ needing to make an ability check."
-  "name": "Spider Climb"
-- "desc": "The spider ignores movement restrictions caused by webs, and the spider\
-    \ knows the location of any other creature in contact with the same web."
-  "name": "Web Walker"
+  - "desc": "The spider can see 60 feet into the Ethereal Plane while on the Material\
+      \ Plane and vice versa."
+    "name": "Ethereal Sight"
+  - "desc": "The spider can climb difficult surfaces, including along ceilings, without\
+      \ needing to make an ability check."
+    "name": "Spider Climb"
+  - "desc": "The spider ignores movement restrictions caused by webs, and the spider\
+      \ knows the location of any other creature in contact with the same web."
+    "name": "Web Walker"
 "actions":
-- "desc": "The spider makes two Bite attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +5, reach 5 ft. Hit: 8 (1d10 + 3) Piercing damage\
-    \ plus 9 (2d8) Poison damage. If this damage reduces the target to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
-    \ the target becomes [Stable](Compendium/rules/variant-rules/stable-xphb.md),\
-    \ and it has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition\
-    \ for 1 hour. While [Poisoned](Compendium/rules/conditions.md#Poisoned), the target\
-    \ also has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition."
-  "name": "Bite"
+  - "desc": "The spider makes two Bite attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (1d10 + 3) Piercing\
+      \ damage plus 9 (2d8) Poison damage. If this damage reduces the target to\
+      \ 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), the target\
+      \ becomes [Stable](Compendium/rules/variant-rules/stable-xphb.md), and it has\
+      \ the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 hour.\
+      \ While [Poisoned](Compendium/rules/conditions.md#Poisoned), the target also\
+      \ has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition."
+    "name": "Bite"
 "bonus_actions":
-- "desc": "The spider teleports from the Material Plane to the Ethereal Plane or vice\
-    \ versa."
-  "name": "Ethereal Jaunt"
+  - "desc": "The spider teleports from the Material Plane to the Ethereal Plane or\
+      \ vice versa."
+    "name": "Ethereal Jaunt"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/monstrosity/token/phase-spider-xmm.webp"
 ```
 ^statblock

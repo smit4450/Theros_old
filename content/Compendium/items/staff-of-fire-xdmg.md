@@ -15,8 +15,8 @@ aliases:
 ![](Compendium/items/img/staff-of-fire.webp#right)
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
@@ -35,6 +35,6 @@ The staff has 10 charges. While holding the staff, you can cast one of the spell
 
 ## Regaining Charges
 
-The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll ``. On a 1, the staff crumbles into cinders and is destroyed.
+The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll `1d20`. On a 1, the staff crumbles into cinders and is destroyed.
 
-*Source: Dungeon Master's Guide (2024) p. 307*
+*Source: Dungeon Master's Guide (2024) p. 307. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

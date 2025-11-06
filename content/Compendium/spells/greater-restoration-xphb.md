@@ -13,27 +13,26 @@ tags:
 - ttrpg-cli/spell/subclass/celestial-patron
 - ttrpg-cli/spell/subclass/clockwork-sorcery
 - ttrpg-cli/spell/subclass/life-domain
+- ttrpg-cli/spell/subclass/spellfire-sorcery
 classes:
 - Bard
-- Bard
 - Cleric
-- Cleric
-- Druid
+- Cleric (Life Domain)
 - Druid
 - Paladin
 - Ranger
-- Warlock (Celestial Patron)
 - Sorcerer (Clockwork Sorcery)
-- Cleric (Life Domain)
+- Sorcerer (Spellfire Sorcery)
+- Warlock (Celestial Patron)
 aliases: ["Greater Restoration"]
 ---
 # Greater Restoration
 *5th-level, Abjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, diamond dust worth 100+ GP, which the spell consumes
+- **Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes)
 - **Duration:** Instantaneous
 
 You touch a creature and magically remove one of the following effects from it:
@@ -42,8 +41,8 @@ You touch a creature and magically remove one of the following effects from it:
 - The [Charmed](Compendium/rules/conditions.md#Charmed) or [Petrified](Compendium/rules/conditions.md#Petrified) condition  
 - A curse, including the target's [Attunement](Compendium/rules/variant-rules/attunement-xphb.md) to a cursed magic item  
 - Any reduction to one of the target's ability scores  
-- Any reduction to the target's [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) maximum  
+- Any reduction to the target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum  
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Paladin](list-spells-classes-paladin); [Ranger](list-spells-classes-ranger); [Warlock (Celestial Patron)](list-spells-classes-warlock-xphb-celestial-patron-xphb); [Sorcerer (Clockwork Sorcery)](list-spells-classes-sorcerer-xphb-clockwork-sorcery-xphb); [Cleric (Life Domain)](list-spells-classes-cleric-xphb-life-domain-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Sorcerer (Clockwork Sorcery)](Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Spellfire Sorcery)](Compendium/lists/list-spells-classes-spellfire-sorcery-frhof.md "subclass=FRHoF;class=XPHB"); [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 281. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 281. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

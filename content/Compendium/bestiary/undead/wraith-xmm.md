@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Wraith"]
 ---
 # Wraith
-*Source: Monster Manual (2024) p. 336*  
+*Source: Monster Manual (2024) p. 336, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/undead/img/wraith.webp#right)  
 ## Wraith
@@ -30,8 +30,6 @@ Wraiths lurk in forgotten dungeons, accursed ruins, or lands influenced by sinis
 Wraiths might arise from a single powerfully evil soul or other baleful forces. Roll on or choose a result from the Wraith Manifestations table to inspire the wickedness a wraith embodies.
 
 **Wraith Manifestations**
-
-`dice: [](wraith-xmm.md#^wraith-manifestations)`
 
 | dice: 1d10 | The Wraith Embodies... |
 |------------|------------------------|
@@ -54,13 +52,14 @@ Wraiths might arise from a single powerfully evil soul or other baleful forces. 
 "ac": !!int "13"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
+"modifier": !!int "3"
 "stats":
-- !!int "6"
-- !!int "16"
-- !!int "16"
-- !!int "12"
-- !!int "14"
-- !!int "15"
+  - !!int "6"
+  - !!int "16"
+  - !!int "16"
+  - !!int "12"
+  - !!int "14"
+  - !!int "15"
 "speed": "5 ft., fly 60 ft. (hover)"
 "damage_resistances": "acid, bludgeoning, cold, fire, piercing, slashing"
 "damage_immunities": "necrotic, poison"
@@ -69,29 +68,32 @@ Wraiths might arise from a single powerfully evil soul or other baleful forces. 
   \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
   \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained),\
   \ [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 12"
 "languages": "Common plus two other languages"
 "cr": "5"
 "traits":
-- "desc": "The wraith can move through other creatures and objects as if they were\
-    \ [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
-    \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
-  "name": "Incorporeal Movement"
-- "desc": "While in sunlight, the wraith has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-    \ on ability checks and attack rolls."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The wraith can move through other creatures and objects as if they were\
+      \ [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
+      \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
+    "name": "Incorporeal Movement"
+  - "desc": "While in sunlight, the wraith has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Attack: +6, reach 5 ft. Hit: 21 (4d8 + 3) Necrotic damage.\
-    \ If the target is a creature, its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ maximum decreases by an amount equal to the damage taken."
-  "name": "Life Drain"
-- "desc": "The wraith targets a Humanoid corpse within 10 feet of itself that has\
-    \ been dead for no longer than 1 minute. The target's spirit rises as a [Specter](Compendium/bestiary/undead/specter-xmm.md)\
-    \ in the space of its corpse or in the nearest unoccupied space. The specter is\
-    \ under the wraith's control. The wraith can have no more than seven specters\
-    \ under its control at a time."
-  "name": "Create Specter"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 21 (4d8 + 3) Necrotic\
+      \ damage. If the target is a creature, its [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ maximum decreases by an amount equal to the damage taken."
+    "name": "Life Drain"
+  - "desc": "The wraith targets a Humanoid corpse within 10 feet of itself that has\
+      \ been dead for no longer than 1 minute. The target's spirit rises as a [Specter](Compendium/bestiary/undead/specter-xmm.md)\
+      \ in the space of its corpse or in the nearest unoccupied space. The specter\
+      \ is under the wraith's control. The wraith can have no more than seven specters\
+      \ under its control at a time."
+    "name": "Create Specter"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/undead/token/wraith-xmm.webp"
 ```
 ^statblock

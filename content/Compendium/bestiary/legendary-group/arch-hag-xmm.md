@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
 - ttrpg-cli/monster/legendary-group
-aliases: ["Arch-hag"]
+aliases:
+- Arch-hag
 ---
 # Arch-hag
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual (2024)_
 
 The region containing an arch-hag's lair is altered by its presence, creating the following effects:

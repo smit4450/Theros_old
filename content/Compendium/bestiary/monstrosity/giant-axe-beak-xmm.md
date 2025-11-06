@@ -15,7 +15,7 @@ aliases: ["Giant Axe Beak"]
 # Giant Axe Beak
 *Source: Monster Manual (2024) p. 24*  
 
-![](Compendium/bestiary/monstrosity/img/giant-axe-beak.webp#right)  
+![](Compendium/bestiary/monstrosity/img/axe-beak.webp#right)  
 Giant axe beaks typically dwell in secluded, primeval realms, such as isolated islands or underground wildernesses. They often compete with dinosaurs and other giant beasts for territory.
 
 ## Axe Beaks
@@ -43,31 +43,34 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 "ac": !!int "15"
 "hp": !!int "84"
 "hit_dice": "8d12 + 32"
+"modifier": !!int "5"
 "stats":
-- !!int "21"
-- !!int "14"
-- !!int "19"
-- !!int "3"
-- !!int "12"
-- !!int "5"
+  - !!int "21"
+  - !!int "14"
+  - !!int "19"
+  - !!int "3"
+  - !!int "12"
+  - !!int "5"
 "speed": "50 ft."
 "skillsaves":
-  "Perception": !!int "4"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "5"
 "actions":
-- "desc": "The axe beak makes one Sharpened Beak attack and one Talons attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +8, reach 10 ft. Hit: 18 (2d12 + 5) Slashing damage,\
-    \ and a creature within 5 feet of the target (axe beak's choice) takes 6 (1d12)\
-    \ Slashing damage."
-  "name": "Sharpened Beak"
-- "desc": "Melee Attack: +8, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage.\
-    \ If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
-    \ condition."
-  "name": "Talons"
+  - "desc": "The axe beak makes one Sharpened Beak attack and one Talons attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 18 (2d12 + 5) Slashing\
+      \ damage, and a creature within 5 feet of the target (axe beak's choice) takes\
+      \ 6 (1d12) Slashing damage."
+    "name": "Sharpened Beak"
+  - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 14 (2d8 + 5) Piercing\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Talons"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/monstrosity/token/giant-axe-beak-xmm.webp"
 ```
 ^statblock

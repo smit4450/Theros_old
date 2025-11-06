@@ -12,10 +12,7 @@ tags:
 classes:
 - Bard
 - Cleric
-- Cleric
 - Druid
-- Druid
-- Sorcerer
 - Sorcerer
 aliases: ["Earthquake"]
 ---
@@ -23,9 +20,9 @@ aliases: ["Earthquake"]
 *8th-level, Transmutation*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 500 feet
-- **Components:** V, S, a fractured rock
+- **Components:** V, S, M (a fractured rock)
 - **Duration:** Concentration, up to 1 minute
 
 Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The ground there is [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md).
@@ -46,6 +43,6 @@ A creature within a distance from a collapsing structure equal to half the struc
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md)
 
-*Source: Player's Handbook (2024) p. 267. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

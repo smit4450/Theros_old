@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Chapter 1: Playing the Game"]
+aliases:
+- Chapter 1: Playing the Game
 ---
 # Chapter 1: Playing the Game
 *Source: Player's Handbook (2024), p. 7* 
@@ -124,7 +126,7 @@ Here are the most common uses of dice in D&D.
 
 #### D20 Test
 
-The 20-sided die (`d20`) is the most important die you'll use in the game. It's central to the core mechanic—called [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md)—the game uses to determine whether creatures succeed or fail at the things they attempt during the game (see ""D20 Tests"" later in this chapter). You roll a `d20` whenever your character tries to do something that the DM decides has a chance of both success and failure. The higher your roll, the more likely it is that you succeed.
+The 20-sided die (`d20`) is the most important die you'll use in the game. It's central to the core mechanic—called [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md)—the game uses to determine whether creatures succeed or fail at the things they attempt during the game (see ""D20 Tests"" later in this chapter). You roll a `d20` whenever your character tries to do something that the DM decides has a chance of both success and failure. The higher your roll, the more likely it is that you succeed.
 
 #### Damage
 
@@ -163,11 +165,11 @@ Each ability has a modifier that you apply whenever you make a [D20 Test](Compen
 
 ## D20 Tests
 
-When the outcome of an action is uncertain, the game uses a `d20` roll to determine success or failure. These rolls are called [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md), and they come in three kinds: "ability checks", "saving throws", and "attack rolls". They follow these steps:
+When the outcome of an action is uncertain, the game uses a `d20` roll to determine success or failure. These rolls are called [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md), and they come in three kinds: "ability checks", "saving throws", and "attack rolls". They follow these steps:
 
 - **Roll 1d20.** You always want to roll high. If the roll has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) or [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) (described "later in this chapter"), you roll two d20s, but you use the number from only one of them—the higher one if you have Advantage or the lower one if you have Disadvantage.  
 - **Add Modifiers.** Add these modifiers to the number rolled on the `d20`:  
--     - **The Relevant Ability Modifier.** This chapter and the "rules glossary" explain which ability modifiers to use for various [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md).    
+-     - **The Relevant Ability Modifier.** This chapter and the "rules glossary" explain which ability modifiers to use for various [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md).    
         - **Your Proficiency Bonus If Relevant.** Each creature has a Proficiency Bonus, a number added when making a [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) that uses something, such as a skill, in which the creature has proficiency. See ""Proficiency"" later in this chapter.    
         - **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.    
 - **Compare the Total to a Target Number.** If the total of the `d20` and its modifiers equals or exceeds the target number, the [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) succeeds. Otherwise, it fails. The Dungeon Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a [Difficulty Class](Compendium/rules/variant-rules/difficulty-class-xphb.md) (DC). The target number for an attack roll is called an [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) (AC), which appears on a character sheet or in a [stat block](Compendium/rules/variant-rules/stat-block-xphb.md).  
@@ -378,7 +380,7 @@ In terms of timing, a Reaction takes place immediately after its trigger unless 
 
 During their adventures, player characters meet many different people and face some monsters that would rather talk than fight. In those situations, it's time for social interaction, which takes many forms. For example, you might try to convince a burglar to confess to wrongdoing or try to flatter a guard. The Dungeon Master assumes the roles of any nonplayer characters who are participating.
 
-An NPC's attitude toward your character is [Friendly [Attitude]](Compendium/rules/variant-rules/friendly-attitude-xphb.md), [Indifferent [Attitude]](Compendium/rules/variant-rules/indifferent-attitude-xphb.md), or [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md), as defined in the "rules glossary". Friendly NPCs are predisposed to help, and Hostile ones are inclined to hinder.
+An NPC's attitude toward your character is [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md), [Indifferent](Compendium/rules/variant-rules/indifferent-attitude-xphb.md), or [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md), as defined in the "rules glossary". Friendly NPCs are predisposed to help, and Hostile ones are inclined to hinder.
 
 Social interactions progress in two ways: through roleplaying and ability checks.
 
@@ -467,7 +469,7 @@ In this scene, players engage in a social interaction encounter. You and your gr
 
 > [!note] (2)—Influencing NPCs
 > 
-> Gareth takes the [Influence](Compendium/rules/actions.md#Influence) action, which characters can take to influence an NPC. It's easier to influence an NPC who's already disposed to help you, as Ismark is here. Ismark's [Friendly [Attitude]](Compendium/rules/variant-rules/friendly-attitude-xphb.md) attitude gives Phillip Advantage on the roll. In this case, [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) made the difference between success and failure.
+> Gareth takes the [Influence](Compendium/rules/actions.md#Influence) action, which characters can take to influence an NPC. It's easier to influence an NPC who's already disposed to help you, as Ismark is here. Ismark's [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md) attitude gives Phillip Advantage on the roll. In this case, [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) made the difference between success and failure.
 ^2-influencing-npcs
 
 - **Jared.** "You are too kind! First, I need your help transporting Ireena to the town of Vallaki."  
@@ -587,7 +589,7 @@ If you need to know how fast you can move when every second matters, see the mov
 
 #### Travel Pace
 
-While traveling outside combat, a group can move at a Fast, Normal, or Slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time; if riding horses or other mounts, the group can move twice that distance for 1 hour, after which the mounts need a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) before they can move at that increased pace again (see "chapter 6" for a selection of mounts for sale). The *Dungeon Master's Guide* has rules that affect which pace you can choose in certain types of terrain.
+While traveling outside combat, a group can move at a Fast, Normal, or Slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time; if riding horses or other mounts, the group can move twice that distance for 1 hour, after which the mounts need a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) before they can move at that increased pace again (see "chapter 6" for a selection of mounts for sale). The *Dungeon Master's Guide* has rules that affect which pace you can choose in certain types of terrain.
 
 ![Travel Pace](Compendium/tables/travel-pace-xphb.md)
 
@@ -758,7 +760,7 @@ You can interact with one object or feature of the environment for free, during 
 
 If you want to interact with a second object, you need to take the [Utilize](Compendium/rules/actions.md#Utilize) action. Some magic items and other special objects always require an action to use, as stated in their descriptions.
 
-The DM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the DM might require you to take the Utilize action to open a stuck door or turn a crank to lower a drawbridge.
+The DM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the DM might require you to take the [Utilize](Compendium/rules/actions.md#Utilize) action to open a stuck door or turn a crank to lower a drawbridge.
 
 ##### Doing Nothing on Your Turn
 
@@ -837,7 +839,7 @@ When you take the [Attack](Compendium/rules/actions.md#Attack) action, you make 
 
 Walls, trees, creatures, and other obstacles can provide cover, making a target more difficult to harm. As detailed in the Cover table, there are three degrees of cover, each of which gives a different benefit to a target.
 
-A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives [Cover](Compendium/rules/variant-rules/cover-xphb.md) and a tree trunk that gives [Cover](Compendium/rules/variant-rules/cover-xphb.md), the target has Three-Quarters Cover.
+A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren't added together. For example, if a target is behind a creature that gives [Half Cover](Compendium/rules/variant-rules/cover-xphb.md) and a tree trunk that gives [Three-Quarters Cover](Compendium/rules/variant-rules/cover-xphb.md), the target has Three-Quarters Cover.
 
 ![Cover](Compendium/tables/cover-xphb.md)
 
@@ -878,7 +880,7 @@ Combatants watch for enemies to drop their guard. If you move heedlessly past yo
 
 ##### Avoiding Opportunity Attack
 
-You can avoid provoking an Opportunity Attack by taking the [Disengage](Compendium/rules/actions.md#Disengage) action. You also don't provoke an Opportunity Attack when you [Teleportation](Compendium/rules/variant-rules/teleportation-xphb.md) or when you are moved without using your movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy.
+You can avoid provoking an Opportunity Attack by taking the [Disengage](Compendium/rules/actions.md#Disengage) action. You also don't provoke an Opportunity Attack when you [Teleport](Compendium/rules/variant-rules/teleportation-xphb.md) or when you are moved without using your movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy.
 
 ##### Making an Opportunity Attack
 
@@ -936,7 +938,7 @@ If you have half your Hit Points or fewer, you're Bloodied, which has no game ef
 
 > [!note] Resting
 > 
-> Adventurers can't spend every hour adventuring. They need rest. Any creature can take hour-long [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) in the midst of a day and an 8-hour [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) to end it. Regaining Hit Points is one of the main benefits of a rest. The "rules glossary" provides the rules for Short and Long Rests.
+> Adventurers can't spend every hour adventuring. They need rest. Any creature can take hour-long [Short Rests](Compendium/rules/variant-rules/short-rest-xphb.md) in the midst of a day and an 8-hour [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) to end it. Regaining Hit Points is one of the main benefits of a rest. The "rules glossary" provides the rules for Short and Long Rests.
 ^resting
 
 ### Damage Rolls
@@ -985,7 +987,7 @@ Some creatures and objects have Immunity to certain damage types and conditions.
 
 ### Healing
 
-Hit Points can be restored by magic, such as the [Cure Wounds](Compendium/spells/cure-wounds-xphb.md) spell or a [Potion of Healing](Compendium/items/potion-of-healing-xdmg.md), or by a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+Hit Points can be restored by magic, such as the [Cure Wounds](Compendium/spells/cure-wounds-xphb.md) spell or a [Potion of Healing](Compendium/items/potion-of-healing-xdmg.md), or by a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
 
 When you receive healing, add the restored Hit Points to your current Hit Points. Your Hit Points can't exceed your Hit Point maximum, so any Hit Points regained in excess of the maximum are lost. For example, if you receive 8 Hit Points of healing and have 14 Hit Points and a Hit Point maximum of 20, you regain 6 Hit Points, not 8.
 
@@ -1015,7 +1017,7 @@ If your character dies, others might find a magical way to revive your character
 
 #### Falling Unconscious
 
-If you reach 0 Hit Points and don't die instantly, you have the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition until you regain any Hit Points, and you now face making [Death Saving Throw](Compendium/rules/variant-rules/death-saving-throw-xphb.md) (see below).
+If you reach 0 Hit Points and don't die instantly, you have the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition until you regain any Hit Points, and you now face making [Death Saving Throws](Compendium/rules/variant-rules/death-saving-throw-xphb.md) (see below).
 
 > [!note] Knocking Out a Creature
 > 
@@ -1028,7 +1030,7 @@ Whenever you start your turn with 0 Hit Points, you must make a Death Saving Thr
 
 ##### Three Successes/Failures
 
-Roll ``. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become [Stable](Compendium/rules/variant-rules/stable-xphb.md) (see "Stabilizing a Character" below). On your third failure, you die.
+Roll `1d20`. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become [Stable](Compendium/rules/variant-rules/stable-xphb.md) (see "Stabilizing a Character" below). On your third failure, you die.
 
 The successes and failures don't need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you regain any Hit Points or become Stable.
 
@@ -1044,7 +1046,7 @@ If you take any damage while you have 0 Hit Points, you suffer a Death Saving Th
 
 You can take the [Help](Compendium/rules/actions.md#Help) action to try to stabilize a creature with 0 Hit Points, which requires a successful DC 10 Wisdom ([Medicine](Compendium/rules/skills.md#Medicine)) check.
 
-A Stable creature doesn't make Death Saving Throws even though it has 0 Hit Points, but it still has the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition. If the creature takes damage, it stops being Stable and starts making Death Saving Throws again. A Stable creature that isn't healed regains 1 Hit Point after `1d4` hours.
+A Stable creature doesn't make [Death Saving Throws](Compendium/rules/variant-rules/death-saving-throw-xphb.md) even though it has 0 Hit Points, but it still has the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition. If the creature takes damage, it stops being Stable and starts making [Death Saving Throws](Compendium/rules/variant-rules/death-saving-throw-xphb.md) again. A Stable creature that isn't healed regains 1 Hit Point after `1d4` hours.
 
 ### Temporary Hit Points
 
@@ -1229,7 +1231,7 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 > [!note] (15)—Areas of Effect
 > 
-> Spells and many other effects in the game fill a specific area that is defined by the rules, like the 15-foot [Cube [Area of Effect]](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) of the [Thunderwave](Compendium/spells/thunderwave-xphb.md) spell. See the "rules glossary" for more on areas of effect.
+> Spells and many other effects in the game fill a specific area that is defined by the rules, like the 15-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) of the [Thunderwave](Compendium/spells/thunderwave-xphb.md) spell. See the "rules glossary" for more on areas of effect.
 ^15-areas-of-effect
 
 > [!note] (16)—Saving Throws

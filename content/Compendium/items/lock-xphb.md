@@ -17,4 +17,4 @@ aliases:
 
 A Lock comes with a key. Without the key, a creature can use [Thieves' Tools](Compendium/items/thieves-tools-xphb.md) to pick this Lock with a successful DC 15 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)) check.
 
-*Source: Player's Handbook (2024) p. 226. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

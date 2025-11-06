@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Armaments - Very Rare"]
+aliases:
+- Armaments - Very Rare
 ---
 # Armaments - Very Rare
 *Source: Dungeon Master's Guide (2024) p. 328* 
 
 **Armaments - Very Rare**
-
-`dice: [](armaments-very-rare-xdmg.md#^armaments-very-rare)`
 
 | dice: 1d100 | Item |
 |-------------|------|

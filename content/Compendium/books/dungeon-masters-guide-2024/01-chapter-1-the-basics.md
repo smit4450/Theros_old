@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Chapter 1: The Basics"]
+aliases:
+- Chapter 1: The Basics
 ---
 # Chapter 1: The Basics
 *Source: Dungeon Master's Guide (2024), p. 5* 
@@ -146,7 +148,7 @@ Some players and DMs find it helpful to have information available in the form o
 
 ## Preparing a Session
 
-The more you prepare before your game, the more smoothly the game will go—to a certain point. To avoid being either under- or overprepared, use the one-hour guideline below and prioritize what to prepare depending on the time you have available.
+The more you prepare before your game, the more smoothly the game will go—to a certain point. To avoid being either under- or over-prepared, use the one-hour guideline below and prioritize what to prepare depending on the time you have available.
 
 ### The One-Hour Guideline
 
@@ -237,8 +239,8 @@ Sometimes the players might give you a group answer: "We go through the door." O
 After the players describe their characters' actions, it's the DM's job to resolve those actions, guided by the rules and the adventure you've prepared. So how do you decide? Think through these possibilities:
 
 - **No Rules Required.** Sometimes, resolving a situation is easy. If an adventurer wants to cross an empty room and open a door, you can just say that the door opens and describe what lies beyond (perhaps referencing your map or notes).  
-- **Obstacles to Success.** A lock, a guard, or some other obstacle might hinder a character's ability to complete a task. In those cases, you typically call for a [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md), usually an ability check. For example, a successful Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)) check might be needed to pick the lock, while a successful Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) check and some coins might be needed to bribe the guard. The ""Resolving Outcomes"" section in "chapter 2" gives more guidance on how to use [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) and other tools to determine the results of characters' actions.  
-- **Roleplaying.** When the players interact with other creatures, roleplay those creatures based on whether they are [Friendly [Attitude]](Compendium/rules/variant-rules/friendly-attitude-xphb.md), [Indifferent [Attitude]](Compendium/rules/variant-rules/indifferent-attitude-xphb.md), or [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md). Improvise based on what you know about the creatures, their knowledge, and their motivations. Then bring these creatures to life as you describe what happens. (See the ""Running Social Interaction"" section in "chapter 2" for more advice.)  
+- **Obstacles to Success.** A lock, a guard, or some other obstacle might hinder a character's ability to complete a task. In those cases, you typically call for a [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md), usually an ability check. For example, a successful Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)) check might be needed to pick the lock, while a successful Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) check and some coins might be needed to bribe the guard. The ""Resolving Outcomes"" section in "chapter 2" gives more guidance on how to use [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md) and other tools to determine the results of characters' actions.  
+- **Roleplaying.** When the players interact with other creatures, roleplay those creatures based on whether they are [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md), [Indifferent](Compendium/rules/variant-rules/indifferent-attitude-xphb.md), or [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md). Improvise based on what you know about the creatures, their knowledge, and their motivations. Then bring these creatures to life as you describe what happens. (See the ""Running Social Interaction"" section in "chapter 2" for more advice.)  
 - **One Action at a Time.** The "rules about actions" in the "Player's Handbook" limit how many things a character can do at once. Keeping those rules in mind can help you adjudicate situations.  
 - **Combat.** In combat, many situations involve attack rolls or saving throws. The rules of combat can help you determine the effectiveness of a character's actions. The ""Running Combat"" section in "chapter 2" offers advice on combat.  
 - **Spellcasting.** If a character casts a spell, you can usually let the player tell you what the spell does and how to resolve it. If questions arise, read the text of the spell yourself—how a spell is supposed to work is usually pretty clear. The general "rules of spellcasting" in the "Player's Handbook" are also essential for resolving a spell's effects.  
@@ -395,7 +397,7 @@ Here are some questions that can help you define your unique style as a DM and t
 
 - **Hack and Slash or Immersive Roleplaying?.** Does the game focus on combat and action or on a rich story with detailed NPCs?  
 - **All Ages or Mature Themes?.** Is the game for all ages, or does it involve mature themes?  
-- **Gritty or Cinematic?.** Do you prefer gritty realism, or are you more focused on making the game feel cinematic and superheroic?  
+- **Gritty or Cinematic?.** Do you prefer gritty realism, or are you more focused on making the game feel cinematic and super-heroic?  
 - **Serious or Silly?.** Do you want to maintain a serious tone, or is humor your goal?  
 - **Preplanned or Improvised?.** Do you like to plan thoroughly, or do you prefer to improvise?  
 - **General or Thematic?.** Is the game a mixture of themes and genres, or does it center on a particular theme or a genre such as horror?  
@@ -487,7 +489,7 @@ Beyond the general themes and flavors of fantasy you're interested in exploring 
 
 DMs and players can have phobias or triggers that others might not be aware of. Any in-game topic or theme that makes a member of the gaming group feel unsafe (a hard limit) must be avoided. If a topic or theme makes one or more players nervous but they consent to include it in-game (a soft limit), incorporate it with care, if at all, and be ready to quickly veer away from it if needed.
 
-Common in-game limits apply to topics such as intraparty romance, sex, exploitation, racism, enslavement, and violence toward children and animals. Limits can also apply to certain creatures, such as spiders, snakes, rats, and demons. It's also important to discuss limits around what harm might befall characters, including mind-control magic, helplessness, and death.
+Common in-game limits apply to topics such as intra-party romance, sex, exploitation, racism, enslavement, and violence toward children and animals. Limits can also apply to certain creatures, such as spiders, snakes, rats, and demons. It's also important to discuss limits around what harm might befall characters, including mind-control magic, helplessness, and death.
 
 That said, D&D is a game that has in-world conflicts and mayhem. Certain core elements of the game are difficult to ignore. For example, taking damage isn't a limit you can work around easily. Similarly, character death is something that happens from time to time, though the game has ways to counteract or avoid it (see ""Death"" in "chapter 3" for suggestions).
 
@@ -609,7 +611,7 @@ If this behavior comes up in your game, it might be time to reopen the conversat
 
 ##### Evil Characters
 
-Players who want to play evil characters might be looking to carry out antisocial behavior in the game. If a player asks for permission to play an evil character or comes to the table with one already made, talk to that player about what they have in mind and make sure their plans square with the group's expectations for your game. Sometimes a player wants to explore playing an evil character for perfectly good (and nondisruptive) reasons, and sometimes a whole group decides it might be fun to play evil characters together. These are valid options, as long as everyone's on the same page about how the campaign will go.
+Players who want to play evil characters might be looking to carry out antisocial behavior in the game. If a player asks for permission to play an evil character or comes to the table with one already made, talk to that player about what they have in mind and make sure their plans square with the group's expectations for your game. Sometimes a player wants to explore playing an evil character for perfectly good (and non-disruptive) reasons, and sometimes a whole group decides it might be fun to play evil characters together. These are valid options, as long as everyone's on the same page about how the campaign will go.
 
 #### Players Exploiting the Rules
 

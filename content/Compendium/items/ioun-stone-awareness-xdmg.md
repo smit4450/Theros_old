@@ -23,4 +23,4 @@ As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can seize and st
 
 While this dark-blue rhomboid orbits your head, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) rolls and Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks.
 
-*Source: Dungeon Master's Guide (2024) p. 273*
+*Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

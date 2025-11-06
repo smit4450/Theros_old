@@ -24,6 +24,7 @@ Spore servants are corpses that have been overgrown and reanimated by a myconid 
 - **Treasure.** Any  
 
 Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. These ambulatory fungal creatures tend to their sanctuaries and avoid becoming embroiled in the conflicts of other creatures. They use specialized spores to communicate, to alert one another to danger, and to defend themselves. When myconids encounter others beings, they use mind-linking spores to allow nearby creatures to telepathically share thoughts. Nevertheless, myconids' goals remain mysterious to most non-fungal creatures.
+![](Compendium/bestiary/plant/img/myconids.webp#center)  
 ## Statblock
 
 ```statblock
@@ -34,26 +35,29 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 "ac": !!int "13"
 "hp": !!int "37"
 "hit_dice": "5d8 + 15"
+"modifier": !!int "1"
 "stats":
-- !!int "16"
-- !!int "12"
-- !!int "16"
-- !!int "2"
-- !!int "6"
-- !!int "1"
+  - !!int "16"
+  - !!int "12"
+  - !!int "16"
+  - !!int "2"
+  - !!int "6"
+  - !!int "1"
 "speed": "20 ft."
 "damage_immunities": "poison"
 "condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
   \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "blindsight 30 ft., passive Perception 8"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception\
+  \ 8"
 "languages": "telepathy 30 ft."
 "cr": "1"
 "actions":
-- "desc": "Melee Attack: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage\
-    \ plus 2 (1d4) Poison damage."
-  "name": "Slam"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Bludgeoning\
+      \ damage plus 2 (1d4) Poison damage."
+    "name": "Slam"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/plant/token/myconid-spore-servant-xmm.webp"
 ```
 ^statblock

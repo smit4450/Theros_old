@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Druid
-- Druid
 aliases: ["Tsunami"]
 ---
 # Tsunami
@@ -20,7 +19,7 @@ aliases: ["Tsunami"]
 - **Casting time:** 1 minute
 - **Range:** 1 miles
 - **Components:** V, S
-- **Duration:** Concentration, up to 6 round
+- **Duration:** Concentration, up to 6 rounds
 
 A wall of water springs into existence at a point you choose within range. You can make the wall up to 300 feet long, 300 feet high, and 50 feet thick. The wall lasts for the duration.
 
@@ -30,6 +29,6 @@ At the start of each of your turns after the wall appears, the wall, along with 
 
 A creature caught in the wall can move by swimming. Because of the wave's force, though, the creature must succeed on a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check against your spell save DC to move at all. If it fails the check, it can't move. A creature that moves out of the wall falls to the ground.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 336*
+*Source: Player's Handbook (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

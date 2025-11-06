@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Lemure"]
 ---
 # Lemure
-*Source: Monster Manual (2024) p. 194*  
+*Source: Monster Manual (2024) p. 194. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/fiend/img/lemure.webp#right)  
 Lemures torment weaker creatures, but in the Nine Hells, few such beings exist. To avoid greater suffering, they obey the orders of more powerful devils.
@@ -36,31 +36,34 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "ac": !!int "9"
 "hp": !!int "9"
 "hit_dice": "2d8"
+"modifier": !!int "-3"
 "stats":
-- !!int "10"
-- !!int "5"
-- !!int "11"
-- !!int "1"
-- !!int "11"
-- !!int "3"
+  - !!int "10"
+  - !!int "5"
+  - !!int "11"
+  - !!int "1"
+  - !!int "11"
+  - !!int "3"
 "speed": "20 ft."
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft. (unimpeded by magical darkness), passive Perception\
-  \ 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft. (unimpeded\
+  \ by magical [Darkness](Compendium/rules/variant-rules/darkness-xphb.md)), passive\
+  \ Perception 10"
 "languages": "understands Infernal but can't speak"
 "cr": "0"
 "traits":
-- "desc": "If the lemure dies in the Nine Hells, it revives with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ in 1d10 days unless it is killed by a creature under the effects of a [Bless](Compendium/spells/bless-xphb.md)\
-    \ spell or its remains are sprinkled with Holy Water."
-  "name": "Hellish Restoration"
+  - "desc": "If the lemure dies in the Nine Hells, it revives with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ in 1d10 days unless it is killed by a creature under the effects of a [Bless](Compendium/spells/bless-xphb.md)\
+      \ spell or its remains are sprinkled with Holy Water."
+    "name": "Hellish Restoration"
 "actions":
-- "desc": "Melee Attack: +2, reach 5 ft. Hit: 2 (1d4) Poison damage."
-  "name": "Vile Slime"
+  - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 2 (1d4) Poison damage."
+    "name": "Vile Slime"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/fiend/token/lemure-xmm.webp"
 ```
 ^statblock

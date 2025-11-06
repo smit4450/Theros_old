@@ -17,4 +17,4 @@ Each of the quiver's three compartments connects to an extradimensional space th
 
 You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.
 
-*Source: Dungeon Master's Guide (2024) p. 189*
+*Source: Dungeon Master's Guide (2024) p. 189. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Efficient Quiver") and the Free Rules (2024)*

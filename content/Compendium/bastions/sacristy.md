@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-bastion
+cssclasses:
+- json5e-bastion
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Sacristy"]
+aliases:
+- Sacristy
 ---
 # Sacristy
 *Level 9 Bastion facility*  

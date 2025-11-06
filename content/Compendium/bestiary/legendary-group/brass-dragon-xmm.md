@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
 - ttrpg-cli/monster/legendary-group
-aliases: ["Brass Dragon"]
+aliases:
+- Brass Dragon
 ---
 # Brass Dragon
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual (2024)_
 
 The area containing an adult or ancient brass dragon's lair is altered by its presence, creating the following effects:

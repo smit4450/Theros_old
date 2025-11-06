@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-feat
+cssclasses:
+- json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases: ["Heavily Armored"]
+aliases:
+- Heavily Armored
 ---
 # Heavily Armored
 *Source: Player's Handbook (2024) p. 204*  
@@ -13,6 +15,6 @@ aliases: ["Heavily Armored"]
 
 You gain the following benefits.
 
-## Armor Training
+**Ability Score Increase.** Increase your Constitution or Strength by 1, to a maximum of 20.
 
-You gain training with Heavy armor.
+**Armor Training.** You gain training with Heavy armor.

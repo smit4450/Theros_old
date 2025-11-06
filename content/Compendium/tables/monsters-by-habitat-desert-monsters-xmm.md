@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases: ["Monsters by Habitat; Desert Monsters"]
+aliases:
+- Monsters by Habitat; Desert Monsters
 ---
 # Monsters by Habitat; Desert Monsters
 *Source: Monster Manual (2024) p. 375* 

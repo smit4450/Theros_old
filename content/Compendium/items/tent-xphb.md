@@ -17,4 +17,4 @@ aliases:
 
 A Tent sleeps up to two Small or Medium creatures.
 
-*Source: Player's Handbook (2024) p. 229. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

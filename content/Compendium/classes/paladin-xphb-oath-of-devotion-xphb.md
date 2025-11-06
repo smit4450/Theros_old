@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/paladin/devotion
-aliases: ["Oath of Devotion"]
+aliases:
+- Oath of Devotion
 ---
 # Oath of Devotion
-*[Paladin](paladin-xphb.md): Paladin Subclass*  
-*Source: Player's Handbook (2024) p. 113*  
+*[Paladin](./paladin-xphb.md): Paladin Subclass*  
+*Source: Player's Handbook (2024) p. 113. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -19,11 +21,11 @@ aliases: ["Oath of Devotion"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oath%20of%20Devotion%20(Level%203)'>Oath of Devotion</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oath of Devotion (Level 3)' class='internal-link'>Oath of Devotion</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Aura%20of%20Devotion%20(Level%207)'>Aura of Devotion</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Aura of Devotion (Level 7)' class='internal-link'>Aura of Devotion</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -31,14 +33,15 @@ aliases: ["Oath of Devotion"]
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Smite%20of%20Protection%20(Level%2015)'>Smite of Protection</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Smite of Protection (Level 15)' class='internal-link'>Smite of Protection</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Holy%20Nimbus%20(Level%2020)'>Holy Nimbus</a></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Holy Nimbus (Level 20)' class='internal-link'>Holy Nimbus</a></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -86,7 +89,7 @@ You and your allies have [Immunity](Compendium/rules/variant-rules/immunity-xphb
 
 ### Smite of Protection (Level 15)
 
-Your magical smite now radiates protective energy. Whenever you cast [Divine Smite](Compendium/spells/divine-smite-xphb.md), you and your allies have [Cover](Compendium/rules/variant-rules/cover-xphb.md) while in your Aura of Protection. The aura has this benefit until the start of your next turn.
+Your magical smite now radiates protective energy. Whenever you cast [Divine Smite](Compendium/spells/divine-smite-xphb.md), you and your allies have [Half Cover](Compendium/rules/variant-rules/cover-xphb.md) while in your Aura of Protection. The aura has this benefit until the start of your next turn.
 
 ### Holy Nimbus (Level 20)
 
@@ -98,7 +101,7 @@ You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on any sa
 
 #### Radiant Damage
 
-Whenever an enemy starts its turn in the aura, that creature takes Radiant damage equal to your Charisma modifier plus your [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md).
+Whenever an enemy starts its turn in the aura, that creature takes Radiant damage equal to your Charisma modifier plus your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md).
 
 #### Sunlight
 

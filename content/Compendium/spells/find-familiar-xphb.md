@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/magic-initiate
+- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
 - ttrpg-cli/spell/feat/ritual-caster
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/optfeature/pact-of-the-chain
@@ -18,12 +18,11 @@ tags:
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Bard
-- Druid
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
 - Bard (College of Lore)
+- Druid
 - Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Wizard
 aliases: ["Find Familiar"]
 ---
 # Find Familiar
@@ -32,7 +31,7 @@ aliases: ["Find Familiar"]
 
 - **Casting time:** 1 hour unless cast as a ritual
 - **Range:** 10 feet
-- **Components:** V, S, burning incense worth 10+ GP, which the spell consumes
+- **Components:** V, S, M (burning incense worth 10+ GP, which the spell consumes)
 - **Duration:** Instantaneous
 
 You gain the service of a familiar, a spirit that takes an animal form you choose: [Bat](Compendium/bestiary/beast/bat-xmm.md), [Cat](Compendium/bestiary/beast/cat-xmm.md), [Frog](Compendium/bestiary/beast/frog-xmm.md), [Hawk](Compendium/bestiary/beast/hawk-xmm.md), [Lizard](Compendium/bestiary/beast/lizard-xmm.md), [Octopus](Compendium/bestiary/beast/octopus-xmm.md), [Owl](Compendium/bestiary/beast/owl-xmm.md), [Rat](Compendium/bestiary/beast/rat-xmm.md), [Raven](Compendium/bestiary/beast/raven-xmm.md), [Spider](Compendium/bestiary/beast/spider-xmm.md), [Weasel](Compendium/bestiary/beast/weasel-xmm.md), or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
@@ -57,6 +56,6 @@ You can't have more than one familiar at a time. If you cast this spell while yo
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 272. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

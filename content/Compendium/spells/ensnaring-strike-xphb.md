@@ -8,16 +8,15 @@ tags:
 - ttrpg-cli/spell/school/conjuration
 - ttrpg-cli/spell/subclass/oath-of-the-ancients
 classes:
-- Ranger
-- Ranger
 - Paladin (Oath of the Ancients)
+- Ranger
 aliases: ["Ensnaring Strike"]
 ---
 # Ensnaring Strike
 *1st-level, Conjuration*  
 
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Self
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
@@ -28,6 +27,6 @@ While [Restrained](Compendium/rules/conditions.md#Restrained), the target takes 
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 1.
 
-**Classes**: [Ranger](list-spells-classes-ranger); [Ranger](list-spells-classes-ranger); [Paladin (Oath of the Ancients)](list-spells-classes-paladin-xphb-oath-of-the-ancients-xphb)
+**Classes**: [Paladin (Oath of the Ancients)](Compendium/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 268. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

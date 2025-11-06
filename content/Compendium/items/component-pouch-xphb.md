@@ -17,4 +17,4 @@ aliases:
 
 A Component Pouch is watertight and filled with compartments that hold all the free Material components of your spells.
 
-*Source: Player's Handbook (2024) p. 225. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

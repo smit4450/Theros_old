@@ -12,10 +12,9 @@ tags:
 - ttrpg-cli/spell/subclass/illusionist
 classes:
 - Bard
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
 - Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Wizard
 - Wizard (Illusionist)
 aliases: ["Phantasmal Killer"]
 ---
@@ -23,7 +22,7 @@ aliases: ["Phantasmal Killer"]
 *4th-level, Illusion*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -34,6 +33,6 @@ For the duration, the target makes a Wisdom saving throw at the end of each of i
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for each spell slot level above 4.
 
-**Classes**: [Bard](list-spells-classes-bard); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb); [Wizard (Illusionist)](list-spells-classes-wizard-xphb-illusionist-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 304. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 304. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

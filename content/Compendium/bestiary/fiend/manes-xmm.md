@@ -36,25 +36,28 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
 "ac": !!int "9"
 "hp": !!int "9"
 "hit_dice": "2d6 + 2"
+"modifier": !!int "-1"
 "stats":
-- !!int "10"
-- !!int "9"
-- !!int "13"
-- !!int "3"
-- !!int "8"
-- !!int "4"
+  - !!int "10"
+  - !!int "9"
+  - !!int "13"
+  - !!int "3"
+  - !!int "8"
+  - !!int "4"
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [frightened](Compendium/rules/conditions.md#Frightened),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 60 ft., passive Perception 9"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "1/8"
 "actions":
-- "desc": "Melee Attack: +2, reach 5 ft. Hit: 5 (2d4) Slashing damage."
-  "name": "Claw"
+  - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 5 (2d4) Slashing damage."
+    "name": "Claw"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/fiend/token/manes-xmm.webp"
 ```
 ^statblock

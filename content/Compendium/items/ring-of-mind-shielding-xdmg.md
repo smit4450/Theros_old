@@ -5,11 +5,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+- ttrpg-cli/item/wondrous/ring
 aliases: 
 - "Ring of Mind Shielding"
 ---
 # Ring of Mind Shielding
-*Uncommon (requires attunement)*  
+*Ring, uncommon (requires attunement)*  
 ![](Compendium/items/img/ring-of-mind-shielding.webp#right)
 
 
@@ -19,4 +20,4 @@ You can take a [Magic](Compendium/rules/actions.md#Magic) action to cause the ri
 
 If you die while wearing the ring, your soul enters it, unless it already houses a soul. You can remain in the ring or depart for the afterlife. As long as your soul is in the ring, you can telepathically communicate with any creature wearing it. A wearer can't prevent this telepathic communication.
 
-*Source: Dungeon Master's Guide (2024) p. 293*
+*Source: Dungeon Master's Guide (2024) p. 293. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

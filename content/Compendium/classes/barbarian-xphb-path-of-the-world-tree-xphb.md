@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/barbarian/world-tree
-aliases: ["Path of the World Tree"]
+aliases:
+- Path of the World Tree
 ---
 # Path of the World Tree
-*[Barbarian](barbarian-xphb.md): Barbarian Subclass*  
+*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 56*  
 
 > [!tldr] Class and Feature Progression
@@ -19,18 +21,18 @@ aliases: ["Path of the World Tree"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path%20of%20the%20World%20Tree%20(Level%203)'>Path of the World Tree</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path of the World Tree (Level 3)' class='internal-link'>Path of the World Tree</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Branches%20of%20the%20Tree%20(Level%206)'>Branches of the Tree</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Branches of the Tree (Level 6)' class='internal-link'>Branches of the Tree</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Battering%20Roots%20(Level%2010)'>Battering Roots</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Battering Roots (Level 10)' class='internal-link'>Battering Roots</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Travel%20Along%20the%20Tree%20(Level%2014)'>Travel Along the Tree</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Travel Along the Tree (Level 14)' class='internal-link'>Travel Along the Tree</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -38,7 +40,8 @@ aliases: ["Path of the World Tree"]
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -63,7 +66,7 @@ At the start of each of your turns while your Rage is active, you can choose ano
 
 ### Branches of the Tree (Level 6)
 
-Whenever a creature you can see starts its turn within 30 feet of you while your Rage is active, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to summon spectral branches of the World Tree around it. The target must succeed on a Strength saving throw (DC 8 plus your Strength modifier and [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md)) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. After the target teleports, you can reduce its [Speed](Compendium/rules/variant-rules/speed-xphb.md) to 0 until the end of the current turn.
+Whenever a creature you can see starts its turn within 30 feet of you while your Rage is active, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to summon spectral branches of the World Tree around it. The target must succeed on a Strength saving throw (DC 8 plus your Strength modifier and [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md)) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. After the target teleports, you can reduce its [Speed](Compendium/rules/variant-rules/speed-xphb.md) to 0 until the end of the current turn.
 
 ### Battering Roots (Level 10)
 

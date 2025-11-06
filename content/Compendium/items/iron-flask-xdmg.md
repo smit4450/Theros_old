@@ -18,8 +18,6 @@ You can take a [Magic](Compendium/rules/actions.md#Magic) action to remove the f
 
 An [Identify](Compendium/spells/identify-xphb.md) spell reveals if the flask contains a creature, but the only way to determine the type of creature is to open the flask. A newly discovered Iron Flask might already contain a creature chosen by the DM or determined randomly by rolling on the following table (see the "Monster Manual" for the creature's stat block).
 
-`dice: [](iron-flask-xdmg.md#^1-contents)`
-
 | dice: 1d100 | Contents |
 |-------------|----------|
 | 01-50 | No creature |
@@ -54,4 +52,4 @@ An [Identify](Compendium/spells/identify-xphb.md) spell reveals if the flask con
 | 00 | [Xorn](Compendium/bestiary/elemental/xorn-xmm.md) |
 ^1-contents
 
-*Source: Dungeon Master's Guide (2024) p. 274*
+*Source: Dungeon Master's Guide (2024) p. 274. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

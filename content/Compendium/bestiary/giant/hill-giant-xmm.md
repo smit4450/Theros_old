@@ -11,15 +11,15 @@ statblock: inline
 aliases: ["Hill Giant"]
 ---
 # Hill Giant
-*Source: Monster Manual (2024) p. 168*  
+*Source: Monster Manual (2024) p. 168. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/giant/img/hill-giant.webp#right)  
+![](Compendium/books/monster-manual-2025/img/hill-giant.webp#right)  
 ## Hill Giant
 
 *Giant of Crags and Valleys*
 
 - **Habitat.** Hill  
-- **Treasure.** Armaments  
+- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
 
 Hill giants live among rugged bluffs and highlands. Standing three times the size of most humans, these giants exhibit skin and hair in a range of shades, including hues suggestive of the earth and mosses near their dwellings.
 
@@ -34,31 +34,34 @@ Disaster, invasion, or want might drive hill giants from their homes into other 
 "ac": !!int "13"
 "hp": !!int "105"
 "hit_dice": "10d12 + 40"
+"modifier": !!int "2"
 "stats":
-- !!int "21"
-- !!int "8"
-- !!int "19"
-- !!int "5"
-- !!int "9"
-- !!int "6"
+  - !!int "21"
+  - !!int "8"
+  - !!int "19"
+  - !!int "5"
+  - !!int "9"
+  - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Giant"
 "cr": "5"
 "actions":
-- "desc": "The giant makes two attacks, using Tree Club or Trash Lob in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +8, reach 10 ft. Hit: 18 (3d8 + 5) Bludgeoning damage.\
-    \ If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
-    \ condition."
-  "name": "Tree Club"
-- "desc": "Ranged Attack: +8, range 60/240 ft. Hit: 16 (2d10 + 5) Bludgeoning\
-    \ damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-    \ condition until the end of its next turn."
-  "name": "Trash Lob"
+  - "desc": "The giant makes two attacks, using Tree Club or Trash Lob in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 18 (3d8 + 5) Bludgeoning\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Tree Club"
+  - "desc": "*Ranged Attack Roll:* +8, range 60/240 ft. *Hit:* 16 (2d10 + 5) Bludgeoning\
+      \ damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ condition until the end of its next turn."
+    "name": "Trash Lob"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/giant/token/hill-giant-xmm.webp"
 ```
 ^statblock

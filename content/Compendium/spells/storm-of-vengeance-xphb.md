@@ -10,14 +10,13 @@ tags:
 classes:
 - Bard
 - Druid
-- Druid
 aliases: ["Storm of Vengeance"]
 ---
 # Storm of Vengeance
 *9th-level, Conjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 1 miles
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -44,6 +43,6 @@ Gusts and freezing rain assail the area under the cloud. Each creature there tak
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 320. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 321. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

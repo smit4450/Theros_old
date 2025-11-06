@@ -13,7 +13,7 @@ aliases: ["Bandit Deceiver"]
 # Bandit Deceiver
 *Source: Monster Manual (2024) p. 28*  
 
-![](Compendium/bestiary/humanoid/img/bandit-deceiver.webp#right)  
+![](Compendium/bestiary/humanoid/img/bandits.webp#right)  
 Bandit deceivers use magic to disguise their activities or create flashy distractions.
 
 ## Bandits
@@ -32,8 +32,6 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 > I am he who rules the world, don't you know? One little piece at a time.
 
 **Bandit Motivations**
-
-`dice: [](bandit-deceiver-xmm.md#^bandit-motivations)`
 
 | dice: 1d6 | The Bandit... |
 |-----------|---------------|
@@ -54,46 +52,50 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 "ac": !!int "16"
 "hp": !!int "130"
 "hit_dice": "20d8 + 40"
+"modifier": !!int "6"
 "stats":
-- !!int "8"
-- !!int "16"
-- !!int "14"
-- !!int "17"
-- !!int "12"
-- !!int "16"
+  - !!int "8"
+  - !!int "16"
+  - !!int "14"
+  - !!int "17"
+  - !!int "12"
+  - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Dexterity": !!int "6"
-  "Intelligence": !!int "6"
+  - "dexterity": !!int "6"
+  - "intelligence": !!int "6"
 "skillsaves":
-  "Stealth": !!int "9"
-  "Perception": !!int "4"
-  "Acrobatics": !!int "6"
+  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+    "desc": "+6"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+9"
 "senses": "passive Perception 14"
 "languages": "Common, Thieves' cant"
 "cr": "7"
-"traits":
-- "desc": "The bandit casts one of the following spells, using Intelligence as the\
-    \ spellcasting ability (spell save DC 14):\n\nAt will: [Disguise Self](Compendium/spells/disguise-self-xphb.md),\
-    \ [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Minor Illusion](Compendium/spells/minor-illusion-xphb.md)\n\
-    \n1/day each: [Hold Person](Compendium/spells/hold-person-xphb.md) (level\
-    \ 4 version), [Mage Armor](Compendium/spells/mage-armor-xphb.md) (included in\
-    \ AC), [Major Image](Compendium/spells/major-image-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "The bandit makes three Dagger attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack: +6, reach 5 ft. or range 20/60 ft. Hit: 8\
-    \ (2d4 + 3) Piercing damage plus 10 (3d6) Poison damage."
-  "name": "Dagger"
-- "desc": "Constitution Saving Throw: DC 14, each creature in a 10-foot-radius [Sphere\
-    \ [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
-    \ centered on a point the bandit can see within 120 feet. Failure: 13 (3d6\
-    \ + 3) Radiant damage, and the target has the [Blinded](Compendium/rules/conditions.md#Blinded)\
-    \ condition until the start of the bandit's next turn. Success: Half damage\
-    \ only."
-  "name": "Blinding Flash (Recharge 4-6)"
+  - "desc": "The bandit makes three Dagger attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 20/60 ft.\
+      \ *Hit:* 8 (2d4 + 3) Piercing damage plus 10 (3d6) Poison damage."
+    "name": "Dagger"
+  - "desc": "*Constitution Saving Throw:* DC 14, each creature in a 10-foot-radius\
+      \ [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered\
+      \ on a point the bandit can see within 120 feet. *Failure:* 13 (3d6 + 3) Radiant\
+      \ damage, and the target has the [Blinded](Compendium/rules/conditions.md#Blinded)\
+      \ condition until the start of the bandit's next turn. *Success:* Half damage\
+      \ only."
+    "name": "Blinding Flash (Recharge 4-6)"
+  - "desc": "The bandit casts one of the following spells, using Intelligence as the\
+      \ spellcasting ability (spell save DC 14):\n\n**At will:** [Disguise Self](Compendium/spells/disguise-self-xphb.md),\
+      \ [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Minor Illusion](Compendium/spells/minor-illusion-xphb.md)\n\
+      \n**1/day each:** [Hold Person](Compendium/spells/hold-person-xphb.md) (level\
+      \ 4 version), [Mage Armor](Compendium/spells/mage-armor-xphb.md) (included in\
+      \ AC), [Major Image](Compendium/spells/major-image-xphb.md)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/humanoid/token/bandit-deceiver-xmm.webp"
 ```
 ^statblock

@@ -35,8 +35,6 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 
 **Gorgon Command Keys**
 
-`dice: [](brazen-gorgon-xmm.md#^gorgon-command-keys)`
-
 | dice: 1d6 | Gorgon Won't Attack Those That... |
 |-----------|-----------------------------------|
 | 1 | Cast a particular spell in the gorgon's presence. |
@@ -51,6 +49,7 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 > 
 > Notable among my eccentric ancestor's scattered designs was a schematic of a swamp-dwelling bovine monster and an ominous note: "Do better."
 
+![](Compendium/bestiary/construct/img/gorgons.webp#center)  
 ## Statblock
 
 ```statblock
@@ -61,51 +60,54 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 "ac": !!int "19"
 "hp": !!int "161"
 "hit_dice": "17d10 + 68"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "14"
-- !!int "19"
-- !!int "2"
-- !!int "14"
-- !!int "7"
+  - !!int "18"
+  - !!int "14"
+  - !!int "19"
+  - !!int "2"
+  - !!int "14"
+  - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "10"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+10"
 "damage_immunities": "fire"
 "condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [petrified](Compendium/rules/conditions.md#Petrified)"
-"senses": "darkvision 60 ft., passive Perception 20"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 20"
 "languages": ""
 "cr": "9"
 "traits":
-- "desc": "At the end of each of the gorgon's turns, each creature in a 5-foot [Emanation\
-    \ [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the gorgon takes 13 (3d8) Fire damage."
-  "name": "Flame Aura"
-- "desc": "The gorgon sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
-    \ in a 10-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-    \ for an additional 10 feet."
-  "name": "Illumination"
+  - "desc": "At the end of each of the gorgon's turns, each creature in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the gorgon takes 13 (3d8) Fire damage."
+    "name": "Flame Aura"
+  - "desc": "The gorgon sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
+      \ in a 10-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
+      \ for an additional 10 feet."
+    "name": "Illumination"
 "actions":
-- "desc": "The gorgon makes two Gore attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +8, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage\
-    \ plus 10 (3d6) Fire damage."
-  "name": "Gore"
-- "desc": "The gorgon moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-    \ without provoking Opportunity Attacks and can move through the spaces of Medium\
-    \ or smaller creatures. Each time the gorgon enters a creature's space for the\
-    \ first time during this move, that target is subjected to the following effect.\
-    \ Dexterity Saving Throw: DC 16. Failure: 13 (2d8 + 4) Piercing damage plus\
-    \ 13 (3d8) Fire damage, and the target is pulled into the gorgon's space and\
-    \ has the [Grappled](Compendium/rules/conditions.md#Grappled) condition (escape\
-    \ DC 14); if the gorgon already has a creature [Grappled](Compendium/rules/conditions.md#Grappled),\
-    \ the target has the [Prone](Compendium/rules/conditions.md#Prone) condition instead.\
-    \ Until the grapple ends, the target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
-    \ condition. When the gorgon moves, the [Grappled](Compendium/rules/conditions.md#Grappled)\
-    \ target moves with it, costing no extra movement."
-  "name": "Smelting Charge (Recharge 5-6)"
+  - "desc": "The gorgon makes two Gore attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing\
+      \ damage plus 10 (3d6) Fire damage."
+    "name": "Gore"
+  - "desc": "The gorgon moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)\
+      \ and can move through the spaces of Medium or smaller creatures. Each time\
+      \ the gorgon enters a creature's space for the first time during this move,\
+      \ that target is subjected to the following effect. *Dexterity Saving Throw:*\
+      \ DC 16. *Failure:* 13 (2d8 + 4) Piercing damage plus 13 (3d8) Fire damage,\
+      \ and the target is pulled into the gorgon's space and has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 14); if the gorgon already has a creature [Grappled](Compendium/rules/conditions.md#Grappled),\
+      \ the target has the [Prone](Compendium/rules/conditions.md#Prone) condition\
+      \ instead. Until the grapple ends, the target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ condition. When the gorgon moves, the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ target moves with it, costing no extra movement."
+    "name": "Smelting Charge (Recharge 5-6)"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/construct/token/brazen-gorgon-xmm.webp"
 ```
 ^statblock

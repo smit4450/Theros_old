@@ -17,4 +17,4 @@ aliases:
 
 A Robe has vocational or ceremonial significance. Some events and locations admit only people wearing a Robe bearing certain colors or symbols.
 
-*Source: Player's Handbook (2024) p. 228. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

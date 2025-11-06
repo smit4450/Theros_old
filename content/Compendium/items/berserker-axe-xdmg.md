@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Berserker Axe"
 - "Berserker Battleaxe"
@@ -19,7 +20,7 @@ aliases:
 
 - **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items)
 
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) maximum increases by 1 for each level you have attained.
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum increases by 1 for each level you have attained.
 
 ## Curse
 
@@ -37,22 +38,22 @@ While berserk, you regard the creature nearest to you that you can see or hear a
 ### Berserker Battleaxe
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items), [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Berserker Greataxe
 
-- **Damage**: 1d12 S
+- **Damage**: 1d12 slashing
 - **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items), [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Berserker Halberd
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items), [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 236. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 236. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -16,25 +16,21 @@ tags:
 - ttrpg-cli/spell/subclass/trickery-domain
 classes:
 - Bard
-- Bard
-- Sorcerer
-- Sorcerer
-- Warlock
-- Warlock
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
-- Fighter (Eldritch Knight)
-- Ranger (Fey Wanderer)
-- Paladin (Oath of Vengeance)
 - Cleric (Trickery Domain)
+- Fighter (Eldritch Knight)
+- Paladin (Oath of Vengeance)
+- Ranger (Fey Wanderer)
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Warlock
+- Wizard
 aliases: ["Dimension Door"]
 ---
 # Dimension Door
 *4th-level, Conjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 500 feet
 - **Components:** V
 - **Duration:** Instantaneous
@@ -45,6 +41,6 @@ You can also teleport one willing creature. The creature must be within 5 feet o
 
 If you, the other creature, or both would arrive in a space occupied by a creature or completely filled by one or more objects, you and any creature traveling with you each take `4d6` Force damage, and the teleportation fails.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb); [Ranger (Fey Wanderer)](list-spells-classes-ranger-xphb-fey-wanderer-xphb); [Paladin (Oath of Vengeance)](list-spells-classes-paladin-xphb-oath-of-vengeance-xphb); [Cleric (Trickery Domain)](list-spells-classes-cleric-xphb-trickery-domain-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](Compendium/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Vengeance)](Compendium/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Ranger (Fey Wanderer)](Compendium/lists/list-spells-classes-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 262. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

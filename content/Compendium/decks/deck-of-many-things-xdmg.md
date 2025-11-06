@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-deck
+cssclasses:
+- json5e-deck
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Deck of Many Things"]
+aliases:
+- Deck of Many Things
 ---
 # Deck of Many Things
-*Source: Dungeon Master's Guide (2024) p. 250*  
+*Source: Dungeon Master's Guide (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Mysterious Deck") and the Free Rules (2024)*  
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have thirteen cards, but some have twenty-two. Use the appropriate column of the Deck of Many Things table when randomly determining cards drawn from the deck.
 
@@ -15,8 +17,6 @@ Before you draw a card, you must declare how many cards you intend to draw and t
 Once a card is drawn, it disappears. Unless the card is the Fool or Jester, the card reappears in the deck, making it possible to draw the same card twice. (Once the Fool or Jester has left the deck, reroll on the table if that card comes up again.)
 
 **Deck of Many Things**
-
-`dice: [](deck-of-many-things-xdmg.md#^deck-of-many-things)`
 
 | dice: 1d100 | Card |
 |-------------|------|
@@ -52,7 +52,7 @@ You can increase one of your ability scores by 2, to a maximum of 22, provided y
 
 ### Comet
 ![](Compendium/decks/img/deck-of-many-things-12-comet.webp#card)
-The next time you enter combat against one or more [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md) creatures, you can select one of them as your foe when you roll [Initiative](Compendium/rules/variant-rules/initiative-xphb.md). If you reduce your foe to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) during that combat, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Death Saving Throws for 1 year. If someone else reduces your chosen foe to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) or you don't choose a foe, this card has no effect.
+The next time you enter combat against one or more [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) creatures, you can select one of them as your foe when you roll [Initiative](Compendium/rules/variant-rules/initiative-xphb.md). If you reduce your foe to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) during that combat, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on [Death Saving Throws](Compendium/rules/variant-rules/death-saving-throw-xphb.md) for 1 year. If someone else reduces your chosen foe to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) or you don't choose a foe, this card has no effect.
 
 ### Donjon
 ![](Compendium/decks/img/deck-of-many-things-17-donjon.webp#card)
@@ -72,7 +72,7 @@ A powerful devil becomes your enemy. The devil seeks your ruin and torments you,
 
 ### Fool
 ![](Compendium/decks/img/deck-of-many-things-01-fool.webp#card)
-You have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
+You have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md) for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
 
 ### Gem
 ![](Compendium/decks/img/deck-of-many-things-05-gem.webp#card)
@@ -80,7 +80,7 @@ Twenty-five pieces of jewelry worth 2,000 GP each or fifty gems worth 1,000 GP e
 
 ### Jester
 ![](Compendium/decks/img/deck-of-many-things-14-jester.webp#card)
-You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) for the next 72 hours, or you can draw two additional cards beyond your declared draws.
+You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md) for the next 72 hours, or you can draw two additional cards beyond your declared draws.
 
 ### Key
 ![](Compendium/decks/img/deck-of-many-things-02-key.webp#card)
@@ -100,7 +100,7 @@ Permanently reduce your Intelligence or Wisdom by `1d4 + 1` (to a minimum score 
 
 ### Rogue
 ![](Compendium/decks/img/deck-of-many-things-06-rogue.webp#card)
-An NPC of the DM's choice becomes [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md) toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [Wish](Compendium/spells/wish-xphb.md) spell or divine intervention can end the NPC's hostility toward you.
+An NPC of the DM's choice becomes [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [Wish](Compendium/spells/wish-xphb.md) spell or divine intervention can end the NPC's hostility toward you.
 
 ### Ruin
 ![](Compendium/decks/img/deck-of-many-things-16-ruin.webp#card)

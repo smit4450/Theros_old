@@ -23,4 +23,4 @@ As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can seize and st
 
 Your Dexterity increases by 2, to a maximum of 20, while this deep-red sphere orbits your head.
 
-*Source: Dungeon Master's Guide (2024) p. 273*
+*Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

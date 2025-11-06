@@ -11,10 +11,7 @@ tags:
 - ttrpg-cli/spell/subclass/illusionist
 classes:
 - Bard
-- Bard
 - Druid
-- Druid
-- Wizard
 - Wizard
 - Wizard (Illusionist)
 aliases: ["Mirage Arcane"]
@@ -23,10 +20,10 @@ aliases: ["Mirage Arcane"]
 *7th-level, Illusion*  
 
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** Sight
 - **Components:** V, S
-- **Duration:** 10 day
+- **Duration:** 10 days
 
 You make terrain in an area up to 1 mile square look, sound, smell, and even feel like some other sort of terrain. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other rough or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road.
 
@@ -36,6 +33,6 @@ The illusion includes audible, visual, tactile, and olfactory elements, so it ca
 
 Creatures with [Truesight](Compendium/rules/senses.md#Truesight) can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Illusionist)](list-spells-classes-wizard-xphb-illusionist-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 299. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

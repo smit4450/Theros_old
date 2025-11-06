@@ -15,7 +15,7 @@ aliases: ["Juvenile Shadow Dragon"]
 # Juvenile Shadow Dragon
 *Source: Monster Manual (2024) p. 275*  
 
-![](Compendium/bestiary/dragon/img/juvenile-shadow-dragon.webp#right)  
+![A shadow dragon lurks amon...](Compendium/bestiary/dragon/img/shadow-dragons.webp#right)  
 ## Shadow Dragons
 
 *Dragon Corrupted by Darkness*
@@ -45,54 +45,58 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
 "ac": !!int "15"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
+"modifier": !!int "4"
 "stats":
-- !!int "17"
-- !!int "14"
-- !!int "17"
-- !!int "12"
-- !!int "11"
-- !!int "15"
+  - !!int "17"
+  - !!int "14"
+  - !!int "17"
+  - !!int "12"
+  - !!int "11"
+  - !!int "15"
 "speed": "30 ft., climb 30 ft., fly 60 ft."
 "saves":
-  "Dexterity": !!int "4"
+  - "dexterity": !!int "4"
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "4"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
 "damage_resistances": "See Living Shadow"
 "damage_immunities": "necrotic"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 14"
 "languages": "Common, Draconic"
 "cr": "4"
 "traits":
-- "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-    \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the dragon has\
-    \ [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to damage that\
-    \ isn't Force, Psychic, or Radiant."
-  "name": "Living Shadow"
-- "desc": "While in sunlight, the dragon has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-    \ on ability checks and attack rolls."
-  "name": "Sunlight Sensitivity"
+  - "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
+      \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the dragon\
+      \ has [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to damage\
+      \ that isn't Force, Psychic, or Radiant."
+    "name": "Living Shadow"
+  - "desc": "While in sunlight, the dragon has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "The dragon makes two Rend attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +5, reach 10 ft. Hit: 7 (1d8 + 3) Slashing damage\
-    \ plus 3 (1d6) Necrotic damage."
-  "name": "Rend"
-- "desc": "Dexterity Saving Throw: DC 13, each creature in a 30-foot [Cone [Area\
-    \ of Effect]](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). Failure:\
-    \ 17 (5d6) Necrotic damage. Success: Half damage. Failure or Success: A\
-    \ Humanoid reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ by this damage dies, and a [Shadow](Compendium/bestiary/undead/shadow-xmm.md)\
-    \ rises from its corpse. The shadow is under the dragon's control and shares the\
-    \ dragon's [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) count\
-    \ but acts immediately after the dragon."
-  "name": "Shadow Breath (Recharge 5-6)"
+  - "desc": "The dragon makes two Rend attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 10 ft. *Hit:* 7 (1d8 + 3) Slashing\
+      \ damage plus 3 (1d6) Necrotic damage."
+    "name": "Rend"
+  - "desc": "*Dexterity Saving Throw:* DC 13, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 17 (5d6) Necrotic damage. *Success:* Half damage. *Failure or\
+      \ Success:* A Humanoid reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ by this damage dies, and a [Shadow](Compendium/bestiary/undead/shadow-xmm.md)\
+      \ rises from its corpse. The shadow is under the dragon's control and shares\
+      \ the dragon's [Initiative](Compendium/rules/variant-rules/initiative-xphb.md)\
+      \ count but acts immediately after the dragon."
+    "name": "Shadow Breath (Recharge 5-6)"
 "bonus_actions":
-- "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-    \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the dragon takes\
-    \ the Hide action."
-  "name": "Shadow Stealth"
+  - "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
+      \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the dragon\
+      \ takes the Hide action."
+    "name": "Shadow Stealth"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/dragon/token/juvenile-shadow-dragon-xmm.webp"
 ```
 ^statblock

@@ -12,12 +12,9 @@ tags:
 - ttrpg-cli/spell/subclass/oath-of-devotion
 classes:
 - Bard
-- Bard
-- Cleric
-- Cleric
-- Paladin
-- Paladin
 - Bard (College of Lore)
+- Cleric
+- Paladin
 - Paladin (Oath of Devotion)
 aliases: ["Zone of Truth"]
 ---
@@ -25,15 +22,15 @@ aliases: ["Zone of Truth"]
 *2nd-level, Enchantment*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
-- **Duration:** 10 minute
+- **Duration:** 10 minutes
 
-You create a magical zone that guards against deception in a 15-foot-radius Sphere centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature can't speak a deliberate lie while in the radius. You know whether a creature succeeds or fails on this save.
+You create a magical zone that guards against deception in a 15-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature can't speak a deliberate lie while in the radius. You know whether a creature succeeds or fails on this save.
 
 An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Paladin (Oath of Devotion)](list-spells-classes-paladin-xphb-oath-of-devotion-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](Compendium/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 343. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 343. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

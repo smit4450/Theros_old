@@ -19,4 +19,4 @@ To create a clay golem, you must spend 30 days, working without interruption wit
 
 Once you finish creating the golem, the book is consumed in eldritch flames. The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands.
 
-*Source: Dungeon Master's Guide (2024) p. 277. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

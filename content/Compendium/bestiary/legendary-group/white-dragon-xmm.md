@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
 - ttrpg-cli/monster/legendary-group
-aliases: ["White Dragon"]
+aliases:
+- White Dragon
 ---
 # White Dragon
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual (2024)_
 
 The region containing an adult or ancient white dragon's lair is affected by its presence, creating the following effects:

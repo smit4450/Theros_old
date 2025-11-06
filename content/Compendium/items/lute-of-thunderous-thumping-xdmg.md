@@ -13,7 +13,7 @@ aliases:
 *Weapon ([club](Compendium/items/club-xphb.md)), very rare*  
 
 
-- **Damage**: 1d4 B
+- **Damage**: 1d4 bludgeoning
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 

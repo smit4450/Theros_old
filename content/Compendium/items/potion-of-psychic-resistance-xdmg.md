@@ -14,6 +14,6 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to {{getFullImmRes item.resist}} damage for 1 hour.
+When you drink this potion, you have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to psychic damage for 1 hour.
 
-*Source: Dungeon Master's Guide (2024) p. 289. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

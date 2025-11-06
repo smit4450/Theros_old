@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases: ["How to Use a Monster"]
+aliases:
+- How to Use a Monster
 ---
 # How to Use a Monster
 *Source: Monster Manual (2025), p. 5* 
@@ -65,7 +67,7 @@ A monster's treasure entry specifies whether the monster hoards treasure and the
 
 - **Any.** The monster's treasure hoard can include monetary treasure and any kinds of magic items.  
 - **Individual.** The monster doesn't have a treasure hoard, but it might keep monetary treasure.  
-- **Treasure Theme (Arcana, Armaments, Implements, or Relics).** The monster's treasure hoard features magic items with the noted theme. The "Dungeon Master's Guide" details treasure hoards appropriate for each theme.  
+- **Treasure Theme ([Arcana](Compendium/tables/random-magic-items-arcana.md), [Armaments](Compendium/tables/random-magic-items-armaments.md), [Implements](Compendium/tables/random-magic-items-implements.md), or [Relics](Compendium/tables/random-magic-items-relics.md)).** The monster's treasure hoard features magic items with the noted theme. The "Dungeon Master's Guide" details treasure hoards appropriate for each theme.  
 - **None.** The monster doesn't care about treasure. Any treasure the monster has is incidental.  
 
 Any treasure a monster has is in addition to equipment listed in the Gear entry of its stat block. The "Dungeon Master's Guide" provides more information on monster treasure.
@@ -127,7 +129,7 @@ A monster's [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) (A
 
 ### Initiative
 
-The [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) entry specifies the monster's [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) modifier followed by the monster's [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) score in parentheses. Use the modifier when you roll to determine a monster's [Initiative](Compendium/rules/variant-rules/initiative-xphb.md). A monster's [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) modifier is typically equal to its Dexterity modifier, but some monsters have additional modifiers, such as [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md), applied to that number.
+The [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) entry specifies the monster's [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) modifier followed by the monster's [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) score in parentheses. Use the modifier when you roll to determine a monster's [Initiative](Compendium/rules/variant-rules/initiative-xphb.md). A monster's [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) modifier is typically equal to its Dexterity modifier, but some monsters have additional modifiers, such as [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md), applied to that number.
 
 If you don't want to roll a monster's [Initiative](Compendium/rules/variant-rules/initiative-xphb.md), use the [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) score as the monster's [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) in combat. [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) is further detailed in the "Player's Handbook".
 
@@ -145,7 +147,7 @@ For more on [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), see
 
 ### Speed
 
-The Speed entry specifies a monster's Speed. Some monsters have one or more of the following speeds: [Burrow Speed](Compendium/rules/variant-rules/burrow-speed-xphb.md), [Climb Speed](Compendium/rules/variant-rules/climb-speed-xphb.md), [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md), [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md). Rules for [Speed](Compendium/rules/variant-rules/speed-xphb.md) and these specials speeds appear in the "Player's Handbook".
+The Speed entry specifies a monster's Speed. Some monsters have one or more of the following speeds: [Burrow](Compendium/rules/variant-rules/burrow-speed-xphb.md), [Climb](Compendium/rules/variant-rules/climb-speed-xphb.md), [Fly](Compendium/rules/variant-rules/fly-speed-xphb.md), [Swim](Compendium/rules/variant-rules/swim-speed-xphb.md). Rules for [Speed](Compendium/rules/variant-rules/speed-xphb.md) and these specials speeds appear in the "Player's Handbook".
 
 ### Ability Scores
 
@@ -153,15 +155,15 @@ Every monster has six ability scores along with corresponding ability score modi
 
 ### Skills
 
-The Skills entry specifies a monster's skill proficiencies, if any. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom ([Perception](Compendium/rules/skills.md#Perception)) and Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks. A skill bonus is the sum of a monster's relevant ability modifier and its [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md). Other modifiers might apply.
+The Skills entry specifies a monster's skill proficiencies, if any. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom ([Perception](Compendium/rules/skills.md#Perception)) and Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks. A skill bonus is the sum of a monster's relevant ability modifier and its [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md). Other modifiers might apply.
 
 ### Resistances and Vulnerabilities
 
-These entries list a monster's [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) and [Vulnerability](Compendium/rules/variant-rules/vulnerability-xphb.md), if any. See the "Player's Handbook" for more information.
+These entries list a monster's [Resistances](Compendium/rules/variant-rules/resistance-xphb.md) and [Vulnerabilities](Compendium/rules/variant-rules/vulnerability-xphb.md), if any. See the "Player's Handbook" for more information.
 
 ### Immunities
 
-This entry lists the monster's [Immunity](Compendium/rules/variant-rules/immunity-xphb.md), if any. If the monster has damage and condition Immunities, the damage types are listed before the conditions. See the "Player's Handbook" for details.
+This entry lists the monster's [Immunities](Compendium/rules/variant-rules/immunity-xphb.md), if any. If the monster has damage and condition Immunities, the damage types are listed before the conditions. See the "Player's Handbook" for details.
 
 ### Gear
 
@@ -216,7 +218,7 @@ Unless a rule says otherwise, a monster summoned by a spell or another magical a
 
 #### Proficiency Bonus
 
-A monster's [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md) (PB) is determined by its CR, as shown in the [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md) by [Challenge Rating](Compendium/rules/variant-rules/challenge-rating-xphb.md) table, and is reflected in saving throws, skills, and other statistics where the monster's exceptional aptitude is a factor.
+A monster's [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) (PB) is determined by its CR, as shown in the [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) by [Challenge Rating](Compendium/rules/variant-rules/challenge-rating-xphb.md) table, and is reflected in saving throws, skills, and other statistics where the monster's exceptional aptitude is a factor.
 
 ![Proficiency Bonus by Challenge Rating](Compendium/tables/proficiency-bonus-by-challenge-rating-xmm.md)
 
@@ -274,11 +276,11 @@ If a spell has a casting time of 1 minute or more yet is listed in a spellcastin
 
 ### Bonus Action
 
-If a monster has Bonus Action options, they are listed in this section. See the "Player's Handbook" for details on [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md).
+If a monster has Bonus Action options, they are listed in this section. See the "Player's Handbook" for details on [Bonus Actions](Compendium/rules/variant-rules/bonus-action-xphb.md).
 
 ### Reactions
 
-If the monster has Reaction options, those are listed in this section along with their triggers. See the "Player's Handbook" for details on [Reaction](Compendium/rules/variant-rules/reaction-xphb.md).
+If the monster has Reaction options, those are listed in this section along with their triggers. See the "Player's Handbook" for details on [Reactions](Compendium/rules/variant-rules/reaction-xphb.md).
 
 ### Legendary Actions
 
@@ -291,5 +293,5 @@ The monster has a limited number of Legendary Action uses, and that number is sp
 Some parts of a stat block have restrictions on the number of times they can be used. Here are the most common ways that usage is limited:
 
 - **X/Day.** This notation means the stat block part can be used a certain number of times (represented by X) and that a monster must finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) to regain expended uses. For example, a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) that includes "1/Day" means the [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) can be taken once and that the monster must finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) to take it again.  
-- **Recharge X–Y.** This notation means a monster can use the stat block part once. At the start of each of the monster's turns, roll `1d6`. If the roll is within the number range given in the notation (represented by X–Y), the monster regains the use of that part, which also recharges when the monster finishes a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). For example, "Recharge 5–6" in an action means a monster can take the action once. Then, at the start of each of the monster's turns, it regains the use of that action if it rolls a 5 or 6 on `1d6`.  
-- **Recharge after a Short or Long Rest.** This notation means the monster can use the stat block part once and must then finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) to use it again.
+- **Recharge X–Y.** This notation means a monster can use the stat block part once. At the start of each of the monster's turns, roll `1d6`. If the roll is within the number range given in the notation (represented by X–Y), the monster regains the use of that part, which also recharges when the monster finishes a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). For example, "Recharge 5–6" in an action means a monster can take the action once. Then, at the start of each of the monster's turns, it regains the use of that action if it rolls a 5 or 6 on `1d6`.  
+- **Recharge after a Short or Long Rest.** This notation means the monster can use the stat block part once and must then finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) to use it again.

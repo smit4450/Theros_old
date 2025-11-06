@@ -18,4 +18,4 @@ You can take a [Magic](Compendium/rules/actions.md#Magic) action to unfold the W
 
 Once the Well of Many Worlds has opened a portal, it can't do so again for `1d8` hours.
 
-*Source: Dungeon Master's Guide (2024) p. 324*
+*Source: Dungeon Master's Guide (2024) p. 324. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

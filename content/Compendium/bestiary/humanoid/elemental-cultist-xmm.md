@@ -13,7 +13,7 @@ aliases: ["Elemental Cultist"]
 # Elemental Cultist
 *Source: Monster Manual (2024) p. 87*  
 
-![](Compendium/bestiary/humanoid/img/elemental-cultist.webp#right)  
+![](Compendium/bestiary/humanoid/img/aberrant-cultist-and-elemental-cultist.webp#right)  
 Elemental cultists harness destructive natural forces to cleanse the world of civilization or prove the dominance of one element over all others. Such cultists are aligned with Elemental monsters or wicked immortals such as the Princes of Elemental Evil or the Elder Elemental Eye.
 
 ## Cultists
@@ -21,13 +21,11 @@ Elemental cultists harness destructive natural forces to cleanse the world of ci
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, Relics  
+- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
 **Cultist Agendas**
-
-`dice: [](elemental-cultist-xmm.md#^cultist-agendas)`
 
 | dice: 1d6 | The Cultist Strives To... |
 |-----------|---------------------------|
@@ -44,8 +42,6 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 Cults often identify with symbols that exemplify their beliefs. Such symbols might mark objects important to the cult, as well as the dress and bodies of cultists themselves. These symbols might be broadly understandable, or they might have meaning only to cultists. Roll twice on or choose results from the Cult Symbols table to inspire a cult's icons.
 
 **Cult Symbols**
-
-`dice: [](elemental-cultist-xmm.md#^cult-symbols)`
 
 | dice: 1d10 | The Symbol Is... | Depicted As... |
 |------------|------------------|----------------|
@@ -73,6 +69,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > 
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
+![](Compendium/bestiary/humanoid/img/cultists.webp#center)  
 ## Statblock
 
 ```statblock
@@ -83,47 +80,51 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "ac": !!int "16"
 "hp": !!int "135"
 "hit_dice": "18d8 + 54"
+"modifier": !!int "4"
 "stats":
-- !!int "18"
-- !!int "12"
-- !!int "16"
-- !!int "14"
-- !!int "18"
-- !!int "12"
+  - !!int "18"
+  - !!int "12"
+  - !!int "16"
+  - !!int "14"
+  - !!int "18"
+  - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "7"
-  "Constitution": !!int "6"
+  - "constitution": !!int "6"
+  - "wisdom": !!int "7"
 "skillsaves":
-  "Religion": !!int "5"
-  "Perception": !!int "7"
-  "Arcana": !!int "5"
+  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+    "desc": "+5"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+    "desc": "+5"
 "senses": "passive Perception 17"
 "languages": "Common, Primordial"
 "cr": "8"
-"traits":
-- "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 15):\n\nAt will: [Elementalism](Compendium/spells/elementalism-xphb.md),\
-    \ [Mage Hand](Compendium/spells/mage-hand-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "The cultist makes three attacks, using Elemental Flail or Elemental Claw\
-    \ in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 25 (6d6 + 4) damage of a type\
-    \ chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder."
-  "name": "Elemental Flail"
-- "desc": "Ranged Attack: +7, range 120 ft. Hit: 22 (4d10) damage of a type\
-    \ chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder. If the target\
-    \ is a Medium or smaller creature, the cultist moves the target up to 10 feet\
-    \ straight toward or away from itself."
-  "name": "Elemental Claw"
+  - "desc": "The cultist makes three attacks, using Elemental Flail or Elemental Claw\
+      \ in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 25 (6d6 + 4) damage of\
+      \ a type chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder."
+    "name": "Elemental Flail"
+  - "desc": "*Ranged Attack Roll:* +7, range 120 ft. *Hit:* 22 (4d10) damage of\
+      \ a type chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder. If\
+      \ the target is a Medium or smaller creature, the cultist moves the target up\
+      \ to 10 feet straight toward or away from itself."
+    "name": "Elemental Claw"
+  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
+      \ ability (spell save DC 15):\n\n**At will:** [Elementalism](Compendium/spells/elementalism-xphb.md),\
+      \ [Mage Hand](Compendium/spells/mage-hand-xphb.md)"
+    "name": "Spellcasting"
 "reactions":
-- "desc": "Trigger: The cultist takes Acid, Cold, Fire, Lightning, or Thunder damage.\
-    \ Response: The cultist gives itself [Resistance](Compendium/rules/variant-rules/resistance-xphb.md)\
-    \ to that instance of damage and gains 10 [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)."
-  "name": "Elemental Absorption (1/Day)"
+  - "desc": "Trigger: The cultist takes Acid, Cold, Fire, Lightning, or Thunder damage.\
+      \ _Response:_ The cultist gives itself [Resistance](Compendium/rules/variant-rules/resistance-xphb.md)\
+      \ to that instance of damage and gains 10 [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)."
+    "name": "Elemental Absorption (1/Day)"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/humanoid/token/elemental-cultist-xmm.webp"
 ```
 ^statblock

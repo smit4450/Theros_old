@@ -5,11 +5,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
+- ttrpg-cli/item/wondrous/ring
 aliases: 
 - "Ring of Elemental Command (Fire)"
 ---
 # Ring of Elemental Command (Fire)
-*Legendary (requires attunement)*  
+*Ring, legendary (requires attunement)*  
 
 
 
@@ -28,4 +29,4 @@ While wearing the ring, you benefit from additional properties corresponding to 
 
 The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [Burning Hands](Compendium/spells/burning-hands-xphb.md) (1 charge), [Fireball](Compendium/spells/fireball-xphb.md) (2 charges), [Fire Storm](Compendium/spells/fire-storm-xphb.md) (4 charges), [Wall of Fire](Compendium/spells/wall-of-fire-xphb.md) (3 charges)
 
-*Source: Dungeon Master's Guide (2024) p. 292*
+*Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

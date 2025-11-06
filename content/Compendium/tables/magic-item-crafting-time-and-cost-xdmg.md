@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Magic Item Crafting Time and Cost"]
+aliases:
+- Magic Item Crafting Time and Cost
 ---
 # Magic Item Crafting Time and Cost
 *Source: Dungeon Master's Guide (2024) p. 221* 

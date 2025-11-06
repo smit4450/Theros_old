@@ -14,7 +14,7 @@ aliases: ["Githzerai Psion"]
 # Githzerai Psion
 *Source: Monster Manual (2024) p. 137*  
 
-![](Compendium/bestiary/aberration/img/githzerai-psion.webp#right)  
+![](Compendium/bestiary/aberration/img/githzerai.webp#right)  
 These powerful psions oversee githzerai sanctuaries, study enigmatic planar events, and lead rrakkma—hostile forays into mind flayer colonies to slay illithids and uncover secrets of how the ancient gith were transformed.
 
 ## Githzerai
@@ -22,7 +22,7 @@ These powerful psions oversee githzerai sanctuaries, study enigmatic planar even
 *Explorers at Reality's Extremes*
 
 - **Habitat.** Planar (Limbo)  
-- **Treasure.** Arcana, Individual  
+- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md), Individual  
 
 Githzerai are gaunt, humanlike beings, physically identical to githyanki. They share a history with githyanki as creatures physically and psychically transformed by mind flayers (see the "Githyanki" section). Githzerai know that in body and mind, their species was manipulated by their former illithid oppressors. Rather than giving in to this programming, githzerai follow the teachings of their first leader, Zerthimon, and reshape their minds and bodies to find peace.
 
@@ -33,8 +33,6 @@ Githzerai psychically create serene, hidden sanctuaries in chaotic reaches of th
 Characters might be drawn into conflicts involving githzerai and githyanki in various ways. Roll on or choose a result from the Gith Conflicts table to inspire adventures featuring these age-old rivals.
 
 **Gith Conflicts**
-
-`dice: [](githzerai-psion-xmm.md#^gith-conflicts)`
 
 | dice: 1d8 | The Characters Are... |
 |-----------|-----------------------|
@@ -63,47 +61,52 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 "ac": !!int "18"
 "hp": !!int "169"
 "hit_dice": "26d8 + 52"
+"modifier": !!int "8"
 "stats":
-- !!int "12"
-- !!int "18"
-- !!int "15"
-- !!int "19"
-- !!int "18"
-- !!int "14"
+  - !!int "12"
+  - !!int "18"
+  - !!int "15"
+  - !!int "19"
+  - !!int "18"
+  - !!int "14"
 "speed": "40 ft., fly 40 ft. (hover)"
 "saves":
-  "Dexterity": !!int "8"
-  "Wisdom": !!int "8"
-  "Intelligence": !!int "8"
-  "Strength": !!int "5"
+  - "strength": !!int "5"
+  - "dexterity": !!int "8"
+  - "intelligence": !!int "8"
+  - "wisdom": !!int "8"
 "skillsaves":
-  "Insight": !!int "8"
-  "Perception": !!int "8"
-  "Arcana": !!int "8"
+  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+    "desc": "+8"
+  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+    "desc": "+8"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+8"
 "senses": "passive Perception 18"
 "languages": "Common, Gith"
 "cr": "12"
-"traits":
-- "desc": "The githzerai casts one of the following spells, requiring no spell components\
-    \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\nAt\
-    \ will: [Mage Hand](Compendium/spells/mage-hand-xphb.md) (the hand is Invisible)\n\
-    \n1/day each: [Plane Shift](Compendium/spells/plane-shift-xphb.md), [See Invisibility](Compendium/spells/see-invisibility-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The githzerai casts [Feather Fall](Compendium/spells/feather-fall-xphb.md)\
-    \ or [Shield](Compendium/spells/shield-xphb.md) in response to the spell's trigger,\
-    \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n\
-    \nAt will: [Feather Fall](Compendium/spells/feather-fall-xphb.md), [Shield](Compendium/spells/shield-xphb.md)"
-  "name": "Psionic Defense"
 "actions":
-- "desc": "The githzerai makes three Psychic Warp attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack: +8, reach 5 ft. or range 120 ft. Hit: 26\
-    \ (4d10 + 4) Psychic damage, and the target has the githzerai's choice of (A)\
-    \ the [Charmed](Compendium/rules/conditions.md#Charmed) condition until the start\
-    \ of the githzerai's next turn or (B) the [Prone](Compendium/rules/conditions.md#Prone)\
-    \ condition, provided the target is a Large or smaller creature."
-  "name": "Psychic Warp"
+  - "desc": "The githzerai makes three Psychic Warp attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +8, reach 5 ft. or range 120 ft. *Hit:*\
+      \ 26 (4d10 + 4) Psychic damage, and the target has the githzerai's choice\
+      \ of (A) the [Charmed](Compendium/rules/conditions.md#Charmed) condition until\
+      \ the start of the githzerai's next turn or (B) the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ condition, provided the target is a Large or smaller creature."
+    "name": "Psychic Warp"
+  - "desc": "The githzerai casts one of the following spells, requiring no spell components\
+      \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
+      **At will:** [Mage Hand](Compendium/spells/mage-hand-xphb.md) (the hand is Invisible)\n\
+      \n**1/day each:** [Plane Shift](Compendium/spells/plane-shift-xphb.md), [See\
+      \ Invisibility](Compendium/spells/see-invisibility-xphb.md)"
+    "name": "Spellcasting"
+"reactions":
+  - "desc": "The githzerai casts [Feather Fall](Compendium/spells/feather-fall-xphb.md)\
+      \ or [Shield](Compendium/spells/shield-xphb.md) in response to the spell's trigger,\
+      \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
+    "name": "Psionic Defense"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/aberration/token/githzerai-psion-xmm.webp"
 ```
 ^statblock

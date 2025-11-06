@@ -27,8 +27,6 @@ Although scarecrows take their name from rural effigies, they might take varied 
 
 **Scarecrow Frames**
 
-`dice: [](scarecrow-xmm.md#^scarecrow-frames)`
-
 | dice: 1d8 | The Scarecrow Is Made From... |
 |-----------|-------------------------------|
 | 1 | Animal furs, bones, horns, and claws. |
@@ -48,13 +46,14 @@ Although scarecrows take their name from rural effigies, they might take varied 
 "ac": !!int "11"
 "hp": !!int "27"
 "hit_dice": "6d8"
+"modifier": !!int "3"
 "stats":
-- !!int "11"
-- !!int "13"
-- !!int "11"
-- !!int "10"
-- !!int "10"
-- !!int "13"
+  - !!int "11"
+  - !!int "13"
+  - !!int "11"
+  - !!int "10"
+  - !!int "10"
+  - !!int "13"
 "speed": "30 ft."
 "damage_vulnerabilities": "fire"
 "damage_immunities": "poison"
@@ -62,20 +61,22 @@ Although scarecrows take their name from rural effigies, they might take varied 
   \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
   \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
   \ [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
 "languages": "Common plus one other language"
 "cr": "1"
 "actions":
-- "desc": "Melee Attack: +3, reach 5 ft. Hit: 6 (2d4 + 1) Slashing damage,\
-    \ and the target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
-    \ condition until the end of the scarecrow's next turn."
-  "name": "Fearsome Claw"
-- "desc": "Wisdom Saving Throw: DC 11, one creature the scarecrow can see within\
-    \ 30 feet. Failure: The target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
-    \ condition until the end of the scarecrow's next turn. While [Frightened](Compendium/rules/conditions.md#Frightened),\
-    \ the target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition."
-  "name": "Terrifying Glare"
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 6 (2d4 + 1) Slashing\
+      \ damage, and the target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ condition until the end of the scarecrow's next turn."
+    "name": "Fearsome Claw"
+  - "desc": "*Wisdom Saving Throw:* DC 11, one creature the scarecrow can see within\
+      \ 30 feet. *Failure:* The target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ condition until the end of the scarecrow's next turn. While [Frightened](Compendium/rules/conditions.md#Frightened),\
+      \ the target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition."
+    "name": "Terrifying Glare"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/construct/token/scarecrow-xmm.webp"
 ```
 ^statblock

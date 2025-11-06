@@ -14,10 +14,10 @@ aliases:
 ![](Compendium/items/img/quarterstaff.webp#right)
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Cost**: 2 sp
 - **Weight**: 4.0 lbs.
 
-*Source: Player's Handbook (2024) p. 215. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

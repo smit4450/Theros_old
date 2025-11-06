@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Glossary Conventions"]
+aliases:
+- Glossary Conventions
 ---
 # Glossary Conventions
 *Source: Player's Handbook (2024) p. 360* 
@@ -24,7 +26,7 @@ aliases: ["Glossary Conventions"]
 | DM | Dungeon Master |
 | EP | Electrum Piece(s) |
 | GP | Gold Piece(s) |
-| HP | [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)(s) |
+| HP | [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)(s) |
 | Int. | Intelligence |
 | LE | Lawful Evil |
 | LG | Lawful Good |
@@ -34,7 +36,7 @@ aliases: ["Glossary Conventions"]
 | NE | Neutral Evil |
 | NG | Neutral Good |
 | NPC | Nonplayer character |
-| PB | [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md) |
+| PB | [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) |
 | PP | Platinum Piece(s) |
 | R | [Ritual](Compendium/rules/variant-rules/ritual-xphb.md) |
 | S | Somatic component |
@@ -42,4 +44,4 @@ aliases: ["Glossary Conventions"]
 | Str. | Strength |
 | V | Verbal component |
 | Wis. | Wisdom |
-| XP | [Experience Points](Compendium/rules/variant-rules/experience-points-xphb.md)(s) |
+| XP | [Experience Point](Compendium/rules/variant-rules/experience-points-xphb.md)(s) |

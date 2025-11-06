@@ -19,29 +19,31 @@ aliases: ["Beast of the Sky"]
 "type": "beast"
 "alignment": "Neutral"
 "ac_class": "13 plus your Wisdom modifier"
+"modifier": !!int "3"
 "stats":
-- !!int "6"
-- !!int "16"
-- !!int "13"
-- !!int "8"
-- !!int "14"
-- !!int "11"
+  - !!int "6"
+  - !!int "16"
+  - !!int "13"
+  - !!int "8"
+  - !!int "14"
+  - !!int "11"
 "speed": "10 ft., fly 60 ft."
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 12"
 "languages": "understands the languages you know"
 "traits":
-- "desc": "The beast doesn't provoke Opportunity Attacks when it flies out of an enemy's\
-    \ reach."
-  "name": "Flyby"
-- "desc": "Add your Proficiency Bonus to any ability check or saving throw the beast\
-    \ makes."
-  "name": "Primal Bond"
+  - "desc": "The beast doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)\
+      \ when it flies out of an enemy's reach."
+    "name": "Flyby"
+  - "desc": "Add your Proficiency Bonus to any ability check or saving throw the beast\
+      \ makes."
+    "name": "Primal Bond"
 "actions":
-- "desc": "Melee Attack: YourSpellAttack Bonus equals your spell attack modifier,\
-    \ reach 5 ft. Hit: 1d4 + 3 plus your Wisdom modifier Slashing damage."
-  "name": "Beast's Strike"
+  - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
+      \ ft. *Hit:* 1d4 + 3 plus your Wisdom modifier Slashing damage."
+    "name": "Beast's Strike"
 "source":
-- "XPHB"
+  - "XPHB"
 "image": "Compendium/bestiary/beast/token/beast-of-the-sky-xphb.webp"
 ```
 ^statblock

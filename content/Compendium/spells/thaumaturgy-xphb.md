@@ -5,23 +5,22 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/feat/blessed-warrior
-- ttrpg-cli/spell/feat/magic-initiate
+- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
 - ttrpg-cli/spell/level/cantrip
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
 - ttrpg-cli/spell/race/tiefling
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/college-of-lore
 classes:
-- Cleric
-- Cleric
 - Bard (College of Lore)
+- Cleric
 aliases: ["Thaumaturgy"]
 ---
 # Thaumaturgy
 *cantrip, Transmutation*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V
 - **Duration:** 1 minute
@@ -54,6 +53,6 @@ You cause harmless tremors in the ground for 1 minute.
 
 ## Summary
 
-**Classes**: [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md)
 
-*Source: Player's Handbook (2024) p. 333. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

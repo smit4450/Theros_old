@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Arcana - Common"]
+aliases:
+- Arcana - Common
 ---
 # Arcana - Common
 *Source: Dungeon Master's Guide (2024) p. 326* 
 
 **Arcana - Common**
-
-`dice: [](arcana-common-xdmg.md#^arcana-common)`
 
 | dice: 1d100 | Item |
 |-------------|------|

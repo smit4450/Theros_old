@@ -1,20 +1,22 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/blessed-warrior
-aliases: ["Spells for Blessed Warrior"]
+aliases:
+- Spells for Blessed Warrior
 ---
 # Spells for Blessed Warrior
 
 ## Cantrip
 
-- [Guidance](guidance-xphb "XPHB") 
-- [Light](light-xphb "XPHB") 
-- [Mending](mending-xphb "XPHB") 
-- [Resistance](resistance-xphb "XPHB") 
-- [Sacred Flame](sacred-flame-xphb "XPHB") 
-- [Spare the Dying](spare-the-dying-xphb "XPHB") 
-- [Thaumaturgy](thaumaturgy-xphb "XPHB") 
-- [Toll the Dead](toll-the-dead-xphb "XPHB") 
-- [Word of Radiance](word-of-radiance-xphb "XPHB")
+- [Guidance](Compendium/spells/guidance-xphb.md "XPHB") 
+- [Light](Compendium/spells/light-xphb.md "XPHB") 
+- [Mending](Compendium/spells/mending-xphb.md "XPHB") 
+- [Resistance](Compendium/spells/resistance-xphb.md "XPHB") 
+- [Sacred Flame](Compendium/spells/sacred-flame-xphb.md "XPHB") 
+- [Spare the Dying](Compendium/spells/spare-the-dying-xphb.md "XPHB") 
+- [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md "XPHB") 
+- [Toll the Dead](Compendium/spells/toll-the-dead-xphb.md "XPHB") 
+- [Word of Radiance](Compendium/spells/word-of-radiance-xphb.md "XPHB")

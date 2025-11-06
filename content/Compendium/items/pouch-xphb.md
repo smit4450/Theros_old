@@ -17,4 +17,4 @@ aliases:
 
 A Pouch holds up to 6 pounds within one-fifth of a cubic foot.
 
-*Source: Player's Handbook (2024) p. 228. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

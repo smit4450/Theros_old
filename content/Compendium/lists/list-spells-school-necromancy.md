@@ -1,69 +1,72 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/spell/list/school/necromancy
-aliases: ["Necromancy Spells"]
+aliases:
+- Necromancy Spells
 ---
 # Necromancy Spells
 
 ## Cantrip
 
-- [Chill Touch](chill-touch-xphb "XPHB")
-- [Poison Spray](poison-spray-xphb "XPHB")
-- [Spare the Dying](spare-the-dying-xphb "XPHB")
-- [Toll the Dead](toll-the-dead-xphb "XPHB")
+- [Chill Touch](Compendium/spells/chill-touch-xphb.md "XPHB")
+- [Poison Spray](Compendium/spells/poison-spray-xphb.md "XPHB")
+- [Spare the Dying](Compendium/spells/spare-the-dying-xphb.md "XPHB")
+- [Toll the Dead](Compendium/spells/toll-the-dead-xphb.md "XPHB")
 
 ## 1st Level
 
-- [False Life](false-life-xphb "XPHB")
-- [Inflict Wounds](inflict-wounds-xphb "XPHB")
-- [Ray of Sickness](ray-of-sickness-xphb "XPHB")
-- [Wrathful Smite](wrathful-smite-xphb "XPHB")
+- [False Life](Compendium/spells/false-life-xphb.md "XPHB")
+- [Inflict Wounds](Compendium/spells/inflict-wounds-xphb.md "XPHB")
+- [Ray of Sickness](Compendium/spells/ray-of-sickness-xphb.md "XPHB")
+- [Wrathful Smite](Compendium/spells/wrathful-smite-xphb.md "XPHB")
 
 ## 2nd Level
 
-- [Gentle Repose](gentle-repose-xphb "XPHB")
-- [Ray of Enfeeblement](ray-of-enfeeblement-xphb "XPHB")
+- [Death Armor](Compendium/spells/death-armor-frhof.md "FRHoF")
+- [Gentle Repose](Compendium/spells/gentle-repose-xphb.md "XPHB")
+- [Ray of Enfeeblement](Compendium/spells/ray-of-enfeeblement-xphb.md "XPHB")
 
 ## 3rd Level
 
-- [Animate Dead](animate-dead-xphb "XPHB")
-- [Bestow Curse](bestow-curse-xphb "XPHB")
-- [Feign Death](feign-death-xphb "XPHB")
-- [Revivify](revivify-xphb "XPHB")
-- [Speak with Dead](speak-with-dead-xphb "XPHB")
-- [Summon Undead](summon-undead-xphb "XPHB")
-- [Vampiric Touch](vampiric-touch-xphb "XPHB")
+- [Animate Dead](Compendium/spells/animate-dead-xphb.md "XPHB")
+- [Bestow Curse](Compendium/spells/bestow-curse-xphb.md "XPHB")
+- [Feign Death](Compendium/spells/feign-death-xphb.md "XPHB")
+- [Revivify](Compendium/spells/revivify-xphb.md "XPHB")
+- [Speak with Dead](Compendium/spells/speak-with-dead-xphb.md "XPHB")
+- [Summon Undead](Compendium/spells/summon-undead-xphb.md "XPHB")
+- [Vampiric Touch](Compendium/spells/vampiric-touch-xphb.md "XPHB")
 
 ## 4th Level
 
-- [Blight](blight-xphb "XPHB")
+- [Blight](Compendium/spells/blight-xphb.md "XPHB")
 
 ## 5th Level
 
-- [Contagion](contagion-xphb "XPHB")
-- [Raise Dead](raise-dead-xphb "XPHB")
-- [Reincarnate](reincarnate-xphb "XPHB")
+- [Contagion](Compendium/spells/contagion-xphb.md "XPHB")
+- [Raise Dead](Compendium/spells/raise-dead-xphb.md "XPHB")
+- [Reincarnate](Compendium/spells/reincarnate-xphb.md "XPHB")
 
 ## 6th Level
 
-- [Circle of Death](circle-of-death-xphb "XPHB")
-- [Create Undead](create-undead-xphb "XPHB")
-- [Eyebite](eyebite-xphb "XPHB")
-- [Harm](harm-xphb "XPHB")
-- [Magic Jar](magic-jar-xphb "XPHB")
+- [Circle of Death](Compendium/spells/circle-of-death-xphb.md "XPHB")
+- [Create Undead](Compendium/spells/create-undead-xphb.md "XPHB")
+- [Eyebite](Compendium/spells/eyebite-xphb.md "XPHB")
+- [Harm](Compendium/spells/harm-xphb.md "XPHB")
+- [Magic Jar](Compendium/spells/magic-jar-xphb.md "XPHB")
 
 ## 7th Level
 
-- [Finger of Death](finger-of-death-xphb "XPHB")
-- [Resurrection](resurrection-xphb "XPHB")
+- [Finger of Death](Compendium/spells/finger-of-death-xphb.md "XPHB")
+- [Resurrection](Compendium/spells/resurrection-xphb.md "XPHB")
 
 ## 8th Level
 
-- [Clone](clone-xphb "XPHB")
+- [Clone](Compendium/spells/clone-xphb.md "XPHB")
 
 ## 9th Level
 
-- [Astral Projection](astral-projection-xphb "XPHB")
-- [True Resurrection](true-resurrection-xphb "XPHB")
+- [Astral Projection](Compendium/spells/astral-projection-xphb.md "XPHB")
+- [True Resurrection](Compendium/spells/true-resurrection-xphb.md "XPHB")

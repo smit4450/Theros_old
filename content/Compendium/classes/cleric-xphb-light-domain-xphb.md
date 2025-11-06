@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/domain/light
 - ttrpg-cli/subclass/cleric/light
-aliases: ["Light Domain"]
+aliases:
+- Light Domain
 ---
 # Light Domain
-*[Cleric](cleric-xphb.md): Cleric Subclass*  
+*[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 74*  
 
 > [!tldr] Class and Feature Progression
@@ -20,10 +22,10 @@ aliases: ["Light Domain"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Light%20Domain%20(Level%203)'>Light Domain</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Light Domain (Level 3)' class='internal-link'>Light Domain</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Improved%20Warding%20Flare%20(Level%206)'>Improved Warding Flare</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Improved Warding Flare (Level 6)' class='internal-link'>Improved Warding Flare</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -34,12 +36,13 @@ aliases: ["Light Domain"]
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Corona%20of%20Light%20(Level%2017)'>Corona of Light</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Corona of Light (Level 17)' class='internal-link'>Corona of Light</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -68,7 +71,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ### Radiance of the Dawn (Level 3)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you present your [Holy Symbol](Compendium/items/holy-symbol-xphb.md) and expend a use of your Channel Divinity to emit a flash of light in a 30-foot [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from yourself. Any magical [Darkness](Compendium/rules/variant-rules/darkness-xphb.md)—such as that created by the [Darkness](Compendium/spells/darkness-xphb.md) spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to `2d10` plus your Cleric level on a failed save or half as much damage on a successful one.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you present your [Holy Symbol](Compendium/items/holy-symbol-xphb.md) and expend a use of your Channel Divinity to emit a flash of light in a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from yourself. Any magical [Darkness](Compendium/rules/variant-rules/darkness-xphb.md)—such as that created by the [Darkness](Compendium/spells/darkness-xphb.md) spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to `2d10` plus your Cleric level on a failed save or half as much damage on a successful one.
 
 ### Warding Flare (Level 3)
 
@@ -78,7 +81,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Improved Warding Flare (Level 6)
 
-You regain all expended uses of your Warding Flare when you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You regain all expended uses of your Warding Flare when you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
 
 In addition, whenever you use Warding Flare, you can give the target of the triggering attack a number of [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to `2d6` plus your Wisdom modifier.
 

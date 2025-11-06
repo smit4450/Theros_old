@@ -49,10 +49,10 @@ The orb has 7 charges and regains `1d4 + 3` expended charges daily at dawn. If y
 
 ## Call Dragons
 
-While you control the orb, you can take a [Magic](Compendium/rules/actions.md#Magic) action to cause the orb to issue a telepathic call that extends in all directions for 40 miles. Chromatic dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as "Tiamat" are unaffected by this call. Chromatic dragons drawn to the orb might be [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md) toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.
+While you control the orb, you can take a [Magic](Compendium/rules/actions.md#Magic) action to cause the orb to issue a telepathic call that extends in all directions for 40 miles. Chromatic dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as "Tiamat" are unaffected by this call. Chromatic dragons drawn to the orb might be [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.
 
 ## Destroying an Orb
 
 An Orb of Dragonkind has AC 20 and is destroyed if it takes damage from a +3 Weapon or a [Disintegrate](Compendium/spells/disintegrate-xphb.md) spell. Nothing else can harm it.
 
-*Source: Dungeon Master's Guide (2024) p. 283*
+*Source: Dungeon Master's Guide (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Dragon Orb") and the Free Rules (2024)*

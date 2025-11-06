@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Appendix A: The Multiverse"]
+aliases:
+- Appendix A: The Multiverse
 ---
 # Appendix A: The Multiverse
 *Source: Player's Handbook (2024), p. 344* 

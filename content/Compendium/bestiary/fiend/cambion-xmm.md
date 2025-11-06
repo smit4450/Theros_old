@@ -13,13 +13,13 @@ aliases: ["Cambion"]
 # Cambion
 *Source: Monster Manual (2024) p. 65*  
 
-![](Compendium/bestiary/fiend/img/cambion.webp#right)  
+![](Compendium/books/monster-manual-2025/img/cambion.webp#right)  
 ## Cambion
 
 *Mortal Infused with Fiendish Might*
 
 - **Habitat.** Any  
-- **Treasure.** Relics  
+- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
 
 Cambions are former mortals corrupted by fiendish power or possessed by insidious forces. While tieflings are free-willed individuals with a hint of fiendish ancestry, cambions are inherently tied to or remade by the wicked magic of the Lower Planes.
 
@@ -32,8 +32,6 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
 > It seems that I must do everything myself, since I have only fools for servants. Clearly disappointment must ever be the price of divinity.
 
 **Cambion Origins**
-
-`dice: [](cambion-xmm.md#^cambion-origins)`
 
 | dice: 1d6 | The Cambion Gained Its Power After... |
 |-----------|---------------------------------------|
@@ -52,45 +50,52 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
 "ac": !!int "19"
 "hp": !!int "105"
 "hit_dice": "14d8 + 42"
+"modifier": !!int "4"
 "stats":
-- !!int "18"
-- !!int "18"
-- !!int "16"
-- !!int "14"
-- !!int "12"
-- !!int "16"
+  - !!int "18"
+  - !!int "18"
+  - !!int "16"
+  - !!int "14"
+  - !!int "12"
+  - !!int "16"
 "speed": "30 ft., fly 60 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Intelligence": !!int "5"
-  "Strength": !!int "7"
-  "Constitution": !!int "6"
+  - "strength": !!int "7"
+  - "constitution": !!int "6"
+  - "intelligence": !!int "5"
+  - "charisma": !!int "6"
 "skillsaves":
-  "Deception": !!int "6"
-  "Stealth": !!int "7"
-  "Perception": !!int "4"
+  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+    "desc": "+6"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+7"
 "damage_resistances": "cold, fire, lightning, poison"
 "condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft., passive Perception 14"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 14"
 "languages": "Abyssal, Common, Infernal"
 "cr": "5"
-"traits":
-- "desc": "The cambion casts one of the following spells, requiring no Material components\
-    \ and using Charisma as the spellcasting ability (spell save DC 14):\n\n1/day\
-    \ each: [Dominate Person](Compendium/spells/dominate-person-xphb.md) (level\
-    \ 8 version), [Plane Shift](Compendium/spells/plane-shift-xphb.md) (self only)\n\
-    \n2/day each: [Alter Self](Compendium/spells/alter-self-xphb.md), [Command](Compendium/spells/command-xphb.md)\
-    \ (level 3 version), [Detect Magic](Compendium/spells/detect-magic-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "The cambion makes two attacks, using Claw or Fire Ray in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage\
-    \ plus 7 (2d6) Fire damage."
-  "name": "Claw"
-- "desc": "Ranged Attack: +7, range 120 ft. Hit: 13 (3d6 + 3) Fire damage."
-  "name": "Fire Ray"
+  - "desc": "The cambion makes two attacks, using Claw or Fire Ray in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 8 (1d8 + 4) Slashing\
+      \ damage plus 7 (2d6) Fire damage."
+    "name": "Claw"
+  - "desc": "*Ranged Attack Roll:* +7, range 120 ft. *Hit:* 13 (3d6 + 3) Fire\
+      \ damage."
+    "name": "Fire Ray"
+  - "desc": "The cambion casts one of the following spells, requiring no Material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
+      \n**2/day each:** [Alter Self](Compendium/spells/alter-self-xphb.md), [Command](Compendium/spells/command-xphb.md)\
+      \ (level 3 version), [Detect Magic](Compendium/spells/detect-magic-xphb.md)\n\
+      \n**1/day each:** [Dominate Person](Compendium/spells/dominate-person-xphb.md)\
+      \ (level 8 version), [Plane Shift](Compendium/spells/plane-shift-xphb.md) (self\
+      \ only)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/fiend/token/cambion-xmm.webp"
 ```
 ^statblock

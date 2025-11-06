@@ -11,21 +11,19 @@ statblock: inline
 aliases: ["Gladiator"]
 ---
 # Gladiator
-*Source: Monster Manual (2024) p. 139*  
+*Source: Monster Manual (2024) p. 139. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/gladiator.webp#right)  
+![In an undersea arena, the ...](Compendium/bestiary/humanoid/img/gladiator.webp#right)  
 ## Gladiator
 
 *Competitor and Prizefighter*
 
 - **Habitat.** Any  
-- **Treasure.** Armaments, Individual  
+- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
 
 Gladiators are professional fighters who pit themselves against one another, monsters, and other challenges to entertain audiences. While some compete merely to survive, others love the thrill of performing—and all gladiators know the importance of theatrics in keeping audiences excited. Roll on or choose an option from the Gladiator Theatrics table to inspire the unique flourishes a gladiator uses when competing.
 
 **Gladiator Theatrics**
-
-`dice: [](gladiator-xmm.md#^gladiator-theatrics)`
 
 | dice: 1d6 | During a Competition, the Gladiator... |
 |-----------|----------------------------------------|
@@ -44,43 +42,47 @@ Gladiators are professional fighters who pit themselves against one another, mon
 "ac": !!int "16"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
+"modifier": !!int "5"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "10"
-- !!int "12"
-- !!int "15"
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "10"
+  - !!int "12"
+  - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "4"
-  "Strength": !!int "7"
-  "Constitution": !!int "6"
+  - "strength": !!int "7"
+  - "dexterity": !!int "5"
+  - "constitution": !!int "6"
+  - "wisdom": !!int "4"
 "skillsaves":
-  "Athletics": !!int "10"
-  "Performance": !!int "5"
+  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+    "desc": "+10"
+  - "name": "[Performance](Compendium/rules/skills.md#Performance)"
+    "desc": "+5"
 "senses": "passive Perception 11"
 "languages": "Common"
 "cr": "5"
 "actions":
-- "desc": "The gladiator makes three Spear attacks. It can replace one attack with\
-    \ a use of Shield Bash."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack: +7, reach 5 ft. or range 20/60 ft. Hit: 11\
-    \ (2d6 + 4) Piercing damage."
-  "name": "Spear"
-- "desc": "Strength Saving Throw: DC 15, one creature within 5 feet that the gladiator\
-    \ can see. Failure: 9 (2d4 + 4) Bludgeoning damage. If the target is a Medium\
-    \ or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
-    \ condition."
-  "name": "Shield Bash"
+  - "desc": "The gladiator makes three Spear attacks. It can replace one attack with\
+      \ a use of Shield Bash."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +7, reach 5 ft. or range 20/60 ft.\
+      \ *Hit:* 11 (2d6 + 4) Piercing damage."
+    "name": "Spear"
+  - "desc": "*Strength Saving Throw:* DC 15, one creature within 5 feet that the gladiator\
+      \ can see. *Failure:* 9 (2d4 + 4) Bludgeoning damage. If the target is a Medium\
+      \ or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Shield Bash"
 "reactions":
-- "desc": "Trigger: The gladiator is hit by a melee attack roll while holding a weapon.\
-    \ Response: The gladiator adds 3 to its AC against that attack, possibly causing\
-    \ it to miss."
-  "name": "Parry"
+  - "desc": "Trigger: The gladiator is hit by a melee attack roll while holding a\
+      \ weapon. _Response:_ The gladiator adds 3 to its AC against that attack, possibly\
+      \ causing it to miss."
+    "name": "Parry"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/humanoid/token/gladiator-xmm.webp"
 ```
 ^statblock

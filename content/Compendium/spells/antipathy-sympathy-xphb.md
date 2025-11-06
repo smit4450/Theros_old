@@ -11,8 +11,6 @@ tags:
 classes:
 - Bard
 - Druid
-- Druid
-- Wizard
 - Wizard
 aliases: ["Antipathy/Sympathy"]
 ---
@@ -22,8 +20,8 @@ aliases: ["Antipathy/Sympathy"]
 
 - **Casting time:** 1 hour
 - **Range:** 60 feet
-- **Components:** V, S, a mix of vinegar and honey
-- **Duration:** 10 day
+- **Components:** V, S, M (a mix of vinegar and honey)
+- **Duration:** 10 days
 
 As you cast the spell, choose whether it creates antipathy or sympathy, and target one creature or object that is Huge or smaller. Then specify a kind of creature, such as red dragons, goblins, or vampires. A creature of the chosen kind makes a Wisdom saving throw when it comes within 120 feet of the target. Your choice of antipathy or sympathy determines what happens to a creature when it fails that save:
 
@@ -36,6 +34,6 @@ If the [Frightened](Compendium/rules/conditions.md#Frightened) or [Charmed](Comp
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 242. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

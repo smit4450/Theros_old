@@ -13,28 +13,29 @@ tags:
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/evoker
 - ttrpg-cli/spell/subclass/fiend-patron
+- ttrpg-cli/spell/subclass/spellfire-sorcery
 - ttrpg-cli/spell/subclass/war-domain
 classes:
 - Bard
-- Druid
-- Sorcerer
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
-- Fighter (Eldritch Knight)
-- Wizard (Evoker)
-- Warlock (Fiend Patron)
 - Cleric (War Domain)
+- Druid
+- Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Sorcerer (Spellfire Sorcery)
+- Warlock (Fiend Patron)
+- Wizard
+- Wizard (Evoker)
 aliases: ["Fire Shield"]
 ---
 # Fire Shield
 *4th-level, Evocation*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
-- **Components:** V, S, a bit of phosphorus or a firefly
-- **Duration:** 10 minute
+- **Components:** V, S, M (a bit of phosphorus or a firefly)
+- **Duration:** 10 minutes
 
 Wispy flames wreathe your body for the duration, shedding [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) in a 10-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 10 feet.
 
@@ -42,6 +43,6 @@ The flames provide you with a warm shield or a chill shield, as you choose. The 
 
 In addition, whenever a creature within 5 feet of you hits you with a melee attack roll, the shield erupts with flame. The attacker takes `2d8` Fire damage from a warm shield or `2d8` Cold damage from a chill shield.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb); [Wizard (Evoker)](list-spells-classes-wizard-xphb-evoker-xphb); [Warlock (Fiend Patron)](list-spells-classes-warlock-xphb-fiend-patron-xphb); [Cleric (War Domain)](list-spells-classes-cleric-xphb-war-domain-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Spellfire Sorcery)](Compendium/lists/list-spells-classes-spellfire-sorcery-frhof.md "subclass=FRHoF;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (Fiend Patron)](Compendium/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 274. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 274. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

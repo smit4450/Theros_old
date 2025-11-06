@@ -16,8 +16,6 @@ aliases:
 
 When you drink this potion, you have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to one type of damage for 1 hour. The DM chooses the type or determines it randomly by rolling on the following table.
 
-`dice: [](potion-of-resistance-xdmg.md#^damage-type)`
-
 | dice: d10 | Damage Type |
 |-----------|-------------|
 | 1 | [Acid](Compendium/items/potion-of-acid-resistance-xdmg.md) |
@@ -45,4 +43,4 @@ When you drink this potion, you have [Resistance](Compendium/rules/variant-rules
 - [Potion of Radiant Resistance](Compendium/items/potion-of-radiant-resistance-xdmg.md)
 - [Potion of Thunder Resistance](Compendium/items/potion-of-thunder-resistance-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 289. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

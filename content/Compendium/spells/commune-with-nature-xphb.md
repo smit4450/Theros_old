@@ -12,13 +12,11 @@ tags:
 - ttrpg-cli/spell/subclass/oath-of-the-ancients
 - ttrpg-cli/spell/subclass/path-of-the-wild-heart
 classes:
+- Barbarian (Path of the Wild Heart)
 - Bard
 - Druid
-- Druid
-- Ranger
-- Ranger
 - Paladin (Oath of the Ancients)
-- Barbarian (Path of the Wild Heart)
+- Ranger
 aliases: ["Commune with Nature"]
 ---
 # Commune with Nature
@@ -42,6 +40,6 @@ Choose three of the following facts; you learn those facts as they pertain to th
 
 For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Ranger](list-spells-classes-ranger); [Ranger](list-spells-classes-ranger); [Paladin (Oath of the Ancients)](list-spells-classes-paladin-xphb-oath-of-the-ancients-xphb); [Barbarian (Path of the Wild Heart)](list-spells-classes-barbarian-xphb-path-of-the-wild-heart-xphb)
+**Classes**: [Barbarian (Path of the Wild Heart)](Compendium/lists/list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](Compendium/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 252. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

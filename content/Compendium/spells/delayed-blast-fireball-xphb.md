@@ -12,8 +12,6 @@ tags:
 classes:
 - Bard
 - Sorcerer
-- Sorcerer
-- Wizard
 - Wizard
 - Wizard (Evoker)
 aliases: ["Delayed Blast Fireball"]
@@ -22,12 +20,12 @@ aliases: ["Delayed Blast Fireball"]
 *7th-level, Evocation*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 150 feet
-- **Components:** V, S, a ball of bat guano and sulfur
+- **Components:** V, S, M (a ball of bat guano and sulfur)
 - **Duration:** Concentration, up to 1 minute
 
-A beam of yellow light flashes from you, then condenses at a chosen point within range as a glowing bead for the duration. When the spell ends, the bead explodes, and each creature in a 20-foot-radius Sphere centered on that point makes a Dexterity saving throw. A creature takes Fire damage equal to the total accumulated damage on a failed save or half as much damage on a successful one.
+A beam of yellow light flashes from you, then condenses at a chosen point within range as a glowing bead for the duration. When the spell ends, the bead explodes, and each creature in a 20-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on that point makes a Dexterity saving throw. A creature takes Fire damage equal to the total accumulated damage on a failed save or half as much damage on a successful one.
 
 The spell's base damage is `12d6`, and the damage increases by `1d6` whenever your turn ends and the spell hasn't ended.
 
@@ -37,6 +35,6 @@ When the bead explodes, flammable objects in the explosion that aren't being wor
 
 **Using a Higher-Level Spell Slot.** The base damage increases by `1d6` for each spell slot level above 7.
 
-**Classes**: [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Evoker)](list-spells-classes-wizard-xphb-evoker-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 261. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

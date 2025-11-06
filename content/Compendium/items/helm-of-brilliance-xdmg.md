@@ -19,11 +19,11 @@ You gain the following benefits while wearing the helm.
 
 ## Diamond Light
 
-As long as it has at least one diamond, the helm emits a 30-foot [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md). When at least one Undead is within that area, the [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) is filled with [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md). Any Undead that starts its turn in that area takes `1d6` Radiant damage.
+As long as it has at least one diamond, the helm emits a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md). When at least one Undead is within that area, the [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) is filled with [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md). Any Undead that starts its turn in that area takes `1d6` Radiant damage.
 
 ## Fire Opal Flames
 
-As long as the helm has at least one fire opal, you can take a [Magic](Compendium/rules/actions.md#Magic) action to cause one weapon you are holding to burst into flames. The flames emit [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) in a 10-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 10 feet. The flames are harmless to you and the weapon. When you hit with an attack using the blazing weapon, the target takes an extra `1d6` Fire damage. The fl ames last until you take a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) to extinguish them or until you drop or stow the weapon.
+As long as the helm has at least one fire opal, you can take a [Magic](Compendium/rules/actions.md#Magic) action to cause one weapon you are holding to burst into flames. The flames emit [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) in a 10-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 10 feet. The flames are harmless to you and the weapon. When you hit with an attack using the blazing weapon, the target takes an extra `1d6` Fire damage. The flames last until you take a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) to extinguish them or until you drop or stow the weapon.
 
 ## Ruby Resistance
 
@@ -35,6 +35,6 @@ You can cast one of the following spells (save DC 18), using one of the helm's g
 
 ## Taking Fire Damage
 
-Roll `` if you are wearing the helm and take Fire damage as a result of failing a saving throw against a spell. On a roll of 1, the helm emits beams of light from its remaining gems and is then destroyed. Each creature within a 60-foot [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you must succeed on a DC 17 Dexterity saving throw or be struck by a beam, taking Radiant damage equal to the number of gems in the helm.
+Roll `1d20` if you are wearing the helm and take Fire damage as a result of failing a saving throw against a spell. On a roll of 1, the helm emits beams of light from its remaining gems and is then destroyed. Each creature within a 60-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you must succeed on a DC 17 Dexterity saving throw or be struck by a beam, taking Radiant damage equal to the number of gems in the helm.
 
-*Source: Dungeon Master's Guide (2024) p. 268*
+*Source: Dungeon Master's Guide (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

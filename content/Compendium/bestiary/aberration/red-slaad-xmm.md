@@ -14,7 +14,7 @@ aliases: ["Red Slaad"]
 # Red Slaad
 *Source: Monster Manual (2024) p. 285*  
 
-![](Compendium/bestiary/aberration/img/red-slaad.webp#right)  
+![](Compendium/bestiary/aberration/img/red-and-blue-slaad.webp#right)  
 Red slaadi amass in vast throngs in Limbo. There they wrestle and croak-sing as they endlessly dismantle and rebuild islands of drifting planar matter. When they encounter non-slaadi, red slaadi seek to play with, telepathically converse with, or devour the other creatures. These whims change from moment to moment. Red slaadi instinctively avoid harming those bearing slaadi eggs, which red slaadi implant using their claws, or other slaad curses.
 
 ## Slaadi
@@ -49,42 +49,46 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 "ac": !!int "14"
 "hp": !!int "93"
 "hit_dice": "11d10 + 33"
+"modifier": !!int "1"
 "stats":
-- !!int "16"
-- !!int "12"
-- !!int "16"
-- !!int "6"
-- !!int "6"
-- !!int "7"
+  - !!int "16"
+  - !!int "12"
+  - !!int "16"
+  - !!int "6"
+  - !!int "6"
+  - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "1"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+1"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 11"
 "languages": "Slaad; telepathy 60 ft."
 "cr": "5"
 "traits":
-- "desc": "The slaad has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
-- "desc": "The slaad regains 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ at the start of each of its turns if it has at least 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
-  "name": "Regeneration"
+  - "desc": "The slaad has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The slaad regains 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ at the start of each of its turns if it has at least 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)."
+    "name": "Regeneration"
 "actions":
-- "desc": "The slaad makes three Injecting Claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +6, reach 10 ft. Hit: 10 (2d6 + 3) Piercing damage.\
-    \ If the target is a Humanoid not cursed by a slaad, it is subjected to the following\
-    \ effect. Constitution Saving Throw: DC 14. Failure: The target is cursed\
-    \ unawares, and a minuscule slaad egg is implanted in it. Removing the curse destroys\
-    \ the egg.\n\nOver 2d4 × 10 days, the egg gestates. In the final 24 hours, the\
-    \ cursed target feels unwell; its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-    \ is halved, and it has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-    \ on [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md). At the end of\
-    \ this time, the egg turns into a Slaad Tadpole, which chews out of the host and\
-    \ kills it."
-  "name": "Injecting Claw"
+  - "desc": "The slaad makes three Injecting Claw attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 10 (2d6 + 3) Piercing\
+      \ damage. If the target is a Humanoid not cursed by a slaad, it is subjected\
+      \ to the following effect. *Constitution Saving Throw:* DC 14. *Failure:* The\
+      \ target is cursed unawares, and a minuscule slaad egg is implanted in it. Removing\
+      \ the curse destroys the egg.\n\nOver 2d4 × 10 days, the egg gestates. In\
+      \ the final 24 hours, the cursed target feels unwell; its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+      \ is halved, and it has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md). At the end\
+      \ of this time, the egg turns into a Slaad Tadpole, which chews out of the host\
+      \ and kills it."
+    "name": "Injecting Claw"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/aberration/token/red-slaad-xmm.webp"
 ```
 ^statblock

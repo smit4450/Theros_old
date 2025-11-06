@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Artifact Properties; Minor Detrimental Properties"]
+aliases:
+- Artifact Properties; Minor Detrimental Properties
 ---
 # Artifact Properties; Minor Detrimental Properties
 *Source: Dungeon Master's Guide (2024) p. 224* 
 
 **Minor Detrimental Properties**
-
-`dice: [](artifact-properties-minor-detrimental-properties-xdmg.md#^minor-detrimental-properties)`
 
 | dice: 1d100 | Property |
 |-------------|----------|
@@ -27,5 +27,5 @@ aliases: ["Artifact Properties; Minor Detrimental Properties"]
 | 81–84 | While you're attuned to the Artifact, nonmagical flames are extinguished within 30 feet of you. |
 | 85–88 | While you're attuned to the Artifact, other creatures can't take Short or Long Rests while within 300 feet of you. |
 | 89–92 | While attuned to the Artifact, you kill any nonmagical vegetation you touch that isn't a creature. |
-| 93–00 | While you're attuned to the Artifact, Beasts within 30 feet of you that have a Challenge Rating of 6 or lower are [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md) toward you. |
+| 93–00 | While you're attuned to the Artifact, Beasts within 30 feet of you that have a Challenge Rating of 6 or lower are [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) toward you. |
 ^minor-detrimental-properties

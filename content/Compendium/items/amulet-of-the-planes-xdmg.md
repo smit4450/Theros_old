@@ -16,8 +16,6 @@ aliases:
 
 While wearing this amulet, you can take a [Magic](Compendium/rules/actions.md#Magic) action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence ([Arcana](Compendium/rules/skills.md#Arcana)) check. On a successful check, you cast [Plane Shift](Compendium/spells/plane-shift-xphb.md). On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling `1d100` and consulting the following table.
 
-`dice: [](amulet-of-the-planes-xdmg.md#^1-destination)`
-
 | dice: 1d100 | Destination |
 |-------------|-------------|
 | 01-60 | Random location on the plane you named |
@@ -27,4 +25,4 @@ While wearing this amulet, you can take a [Magic](Compendium/rules/actions.md#Ma
 | 91-00 | Random location on the Astral Plane |
 ^1-destination
 
-*Source: Dungeon Master's Guide (2024) p. 150*
+*Source: Dungeon Master's Guide (2024) p. 150. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

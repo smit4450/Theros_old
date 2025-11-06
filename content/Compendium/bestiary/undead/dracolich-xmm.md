@@ -13,7 +13,7 @@ aliases: ["Dracolich"]
 # Dracolich
 *Source: Monster Manual (2024) p. 102*  
 
-![](Compendium/bestiary/undead/img/dracolich.webp#right)  
+![](Compendium/books/monster-manual-2025/img/dracolich.webp#right)  
 ## Dracolich
 
 *Draconic Tyrant Reborn*
@@ -28,8 +28,6 @@ Dracoliches combine the corrupt immortality of the undead with the legendary pow
 There are untold profane routes by which a dragon might become a dracolich. However one is created, a dracolich chooses a gem that becomes the anchor for its spirit and binds the deathless dragon to the world. So long as a dracolich is on the same plane of existence as its soul gem, the dracolich can survive the destruction of its physical body. Its spirit retreats into the gem if the dracolich's body is destroyed, and the monster might one day regain its terrifying form. Dracoliches often sequester their soul gems within meaningful treasure from their hoard or in unassuming baubles. Roll on or choose a result from the Dracolich Soul Gem Vessels table to inspire what holds a dracolich's soul gem.
 
 **Dracolich Soul Gem Vessels**
-
-`dice: [](dracolich-xmm.md#^dracolich-soul-gem-vessels)`
 
 | dice: 1d10 | A Dracolich's Soul Gem Is Hidden In... |
 |------------|----------------------------------------|
@@ -61,96 +59,101 @@ A dracolich lurks in a corrupted version of the lair it had in life.
 "ac": !!int "20"
 "hp": !!int "225"
 "hit_dice": "18d12 + 108"
+"modifier": !!int "12"
 "stats":
-- !!int "25"
-- !!int "10"
-- !!int "23"
-- !!int "19"
-- !!int "15"
-- !!int "21"
+  - !!int "25"
+  - !!int "10"
+  - !!int "23"
+  - !!int "19"
+  - !!int "15"
+  - !!int "21"
 "speed": "40 ft., burrow 30 ft., fly 80 ft."
 "saves":
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "8"
+  - "dexterity": !!int "6"
+  - "wisdom": !!int "8"
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "14"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+14"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 24"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 24"
 "languages": "Common, Draconic"
 "cr": "17"
 "traits":
-- "desc": "The dracolich casts one of the following spells, requiring no Material\
-    \ components and using Charisma as the spellcasting ability (spell save DC 19,\
-    \ +11 to hit with spell attacks):\n\nAt will: [Detect Magic](Compendium/spells/detect-magic-xphb.md),\
-    \ [Ray of Sickness](Compendium/spells/ray-of-sickness-xphb.md) (level 2 version)\n\
-    \n1/day each: [Create Undead](Compendium/spells/create-undead-xphb.md) (level\
-    \ 8 version), [Finger of Death](Compendium/spells/finger-of-death-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "If the dracolich fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-- "desc": "Creatures within 60 feet of the dracolich can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
-  "name": "Life Suppression"
-- "desc": "The dracolich has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
-- "desc": "The dracolich has a magical gem. If the dracolich is destroyed while the\
-    \ gem is on the same plane of existence as it, the dracolich gains a new body\
-    \ in  days, regaining all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ and appearing within 5 feet of the gem.\n\nThe gem is a Tiny object that has\
-    \ AC 20; HP 50; and [Immunity](Compendium/rules/variant-rules/immunity-xphb.md)\
-    \ to Necrotic, Poison, and Psychic damage. The gem regains all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ at the end of every turn, but it turns to dust if reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).\
-    \ If the gem is destroyed, the dracolich can create a new one by completing an\
-    \ 8-hour ritual using a gem worth 1,000+ GP and by expending 5,000 GP, which the\
-    \ ritual consumes."
-  "name": "Soul Gem"
+  - "desc": "If the dracolich fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
+  - "desc": "Creatures within 60 feet of the dracolich can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+    "name": "Life Suppression"
+  - "desc": "The dracolich has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The dracolich has a magical gem. If the dracolich is destroyed while\
+      \ the gem is on the same plane of existence as it, the dracolich gains a new\
+      \ body in 1d20 days, regaining all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ and appearing within 5 feet of the gem.\n\nThe gem is a Tiny object that has\
+      \ AC 20; HP 50; and [Immunity](Compendium/rules/variant-rules/immunity-xphb.md)\
+      \ to Necrotic, Poison, and Psychic damage. The gem regains all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ at the end of every turn, but it turns to dust if reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).\
+      \ If the gem is destroyed, the dracolich can create a new one by completing\
+      \ an 8-hour ritual using a gem worth 1,000+ GP and by expending 5,000 GP, which\
+      \ the ritual consumes."
+    "name": "Soul Gem"
 "actions":
-- "desc": "The dracolich makes three Rend attacks. It can replace one attack with\
-    \ a use of Spellcasting to cast [Ray of Sickness](Compendium/spells/ray-of-sickness-xphb.md)\
-    \ (level 2 version)."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +13, reach 10 ft. Hit: 18 (2d10 + 7) Slashing damage\
-    \ plus 4 (1d8) Necrotic damage."
-  "name": "Rend"
-- "desc": "Constitution Saving Throw: DC 20, each creature in a 60-foot [Cone [Area\
-    \ of Effect]](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). Failure:\
-    \ 52 (8d12) Necrotic damage. Success: Half damage."
-  "name": "Necrotic Breath (Recharge 5-6)"
-"legendary_actions":
-- "desc": "The dracolich moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
-    \ and it makes one Rend attack."
-  "name": "Pounce"
-- "desc": "The dracolich uses Spellcasting to cast [Ray of Sickness](Compendium/spells/ray-of-sickness-xphb.md)\
-    \ (level 2 version). The dracolich can't take this action again until the start\
-    \ of its next turn."
-  "name": "Sickening Ray"
-- "desc": "Wisdom Saving Throw: DC 19, each creature in a 30-foot [Emanation [Area\
-    \ of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the dracolich. Failure: 11 (2d10) Psychic damage, and the\
-    \ target has the [Frightened](Compendium/rules/conditions.md#Frightened) condition\
-    \ until the end of its next turn. Failure or Success: The dracolich can't take\
-    \ this action again until the start of its next turn."
-  "name": "Terrifying Presence"
+  - "desc": "The dracolich makes three Rend attacks. It can replace one attack with\
+      \ a use of Spellcasting to cast [Ray of Sickness](Compendium/spells/ray-of-sickness-xphb.md)\
+      \ (level 2 version)."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +13, reach 10 ft. *Hit:* 18 (2d10 + 7) Slashing\
+      \ damage plus 4 (1d8) Necrotic damage."
+    "name": "Rend"
+  - "desc": "*Constitution Saving Throw:* DC 20, each creature in a 60-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 52 (8d12) Necrotic damage. *Success:* Half damage."
+    "name": "Necrotic Breath (Recharge 5-6)"
+  - "desc": "The dracolich casts one of the following spells, requiring no Material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 19,\
+      \ +11 to hit with spell attacks):\n\n**At will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md),\
+      \ [Ray of Sickness](Compendium/spells/ray-of-sickness-xphb.md) (level 2 version)\n\
+      \n**1/day each:** [Create Undead](Compendium/spells/create-undead-xphb.md) (level\
+      \ 8 version), [Finger of Death](Compendium/spells/finger-of-death-xphb.md)"
+    "name": "Spellcasting"
 "regional_effects":
-- "desc": "The region containing a dracolich's lair is warped by its presence, creating\
-    \ the following effects:"
-  "name": ""
-- "desc": "- Sapping Mist. The area within 1 mile of the lair is [Lightly Obscured](Compendium/rules/variant-rules/lightly-obscured-xphb.md)\
-    \ by pale fog. Whenever a creature other than the dracolich or one of its allies\
-    \ finishes a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) in\
-    \ that area, it must succeed on a DC 15 Constitution saving throw or gain 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion)\
-    \ level.  \n- Soul Drain. Creatures within 1 mile of the lair have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-    \ on Death Saving Throws.  "
-  "name": ""
-- "desc": "If the dracolich is destroyed or moves its lair elsewhere, these effects\
-    \ end immediately. The effects resume if the dracolich gains a new body (see its\
-    \ Soul Gem trait)."
-  "name": ""
+  - "desc": "The region containing a dracolich's lair is warped by its presence, creating\
+      \ the following effects:\n\n- **Sapping Mist.** The area within 1 mile of the\
+      \ lair is [Lightly Obscured](Compendium/rules/variant-rules/lightly-obscured-xphb.md)\
+      \ by pale fog. Whenever a creature other than the dracolich or one of its allies\
+      \ finishes a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) in\
+      \ that area, it must succeed on a DC 15 Constitution saving throw or gain 1\
+      \ [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level.  \n- **Soul\
+      \ Drain.** Creatures within 1 mile of the lair have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on [Death Saving Throws](Compendium/rules/variant-rules/death-saving-throw-xphb.md).\
+      \  \n\nIf the dracolich is destroyed or moves its lair elsewhere, these effects\
+      \ end immediately. The effects resume if the dracolich gains a new body (see\
+      \ its Soul Gem trait)."
+    "name": ""
+"legendary_description": "Legendary Action Uses: 3 (4 in Lair). Immediately after\
+  \ another creature's turn, the dracolich can expend a use to take one of the following\
+  \ actions. The dracolich regains all expended uses at the start of each of its turns."
+"legendary_actions":
+  - "desc": "The dracolich moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
+      \ and it makes one Rend attack."
+    "name": "Pounce"
+  - "desc": "The dracolich uses Spellcasting to cast [Ray of Sickness](Compendium/spells/ray-of-sickness-xphb.md)\
+      \ (level 2 version). The dracolich can't take this action again until the start\
+      \ of its next turn."
+    "name": "Sickening Ray"
+  - "desc": "*Wisdom Saving Throw:* DC 19, each creature in a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the dracolich. *Failure:* 11 (2d10) Psychic damage, and\
+      \ the target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ condition until the end of its next turn. *Failure or Success:* The dracolich\
+      \ can't take this action again until the start of its next turn."
+    "name": "Terrifying Presence"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/undead/token/dracolich-xmm.webp"
 ```
 ^statblock

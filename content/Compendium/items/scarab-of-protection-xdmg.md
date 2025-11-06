@@ -28,4 +28,4 @@ The scarab has 12 charges. If you fail a saving throw against a Necromancy spell
 
 You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells.
 
-*Source: Dungeon Master's Guide (2024) p. 302*
+*Source: Dungeon Master's Guide (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

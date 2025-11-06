@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-feat
+cssclasses:
+- json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases: ["Resilient"]
+aliases:
+- Resilient
 ---
 # Resilient
 *Source: Player's Handbook (2024) p. 206*  
@@ -13,6 +15,6 @@ aliases: ["Resilient"]
 
 You gain the following benefits.
 
-## Saving Throw Proficiency
+**Ability Score Increase.** Choose one ability in which you lack saving throw proficiency. Increase the chosen ability score by 1, to a maximum of 20.
 
-You gain saving throw proficiency with the chosen ability.
+**Saving Throw Proficiency.** You gain saving throw proficiency with the chosen ability.

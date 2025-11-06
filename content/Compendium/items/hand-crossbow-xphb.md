@@ -13,10 +13,10 @@ aliases:
 *Weapon*  
 ![](Compendium/items/img/hand-crossbow.webp#right)
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 30/120
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Light](Compendium/rules/item-properties.md#Light), [Loading](Compendium/rules/item-properties.md#Loading)
 - **Cost**: 75 gp
 - **Weight**: 3.0 lbs.
 
-*Source: Player's Handbook (2024) p. 215. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

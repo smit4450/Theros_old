@@ -11,9 +11,8 @@ tags:
 - ttrpg-cli/spell/subclass/life-domain
 classes:
 - Bard
-- Cleric
-- Cleric
 - Bard (College of Lore)
+- Cleric
 - Cleric (Life Domain)
 aliases: ["Mass Healing Word"]
 ---
@@ -21,7 +20,7 @@ aliases: ["Mass Healing Word"]
 *3rd-level, Abjuration*  
 
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** 60 feet
 - **Components:** V
 - **Duration:** Instantaneous
@@ -30,6 +29,6 @@ Up to six creatures of your choice that you can see within range regain [Hit Poi
 
 **Using a Higher-Level Spell Slot.** The healing increases by `1d4` for each spell slot level above 3.
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Cleric (Life Domain)](list-spells-classes-cleric-xphb-life-domain-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md)
 
-*Source: Player's Handbook (2024) p. 296. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

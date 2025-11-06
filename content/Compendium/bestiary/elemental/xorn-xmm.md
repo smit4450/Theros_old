@@ -13,9 +13,9 @@ statblock: inline
 aliases: ["Xorn"]
 ---
 # Xorn
-*Source: Monster Manual (2024) p. 338*  
+*Source: Monster Manual (2024) p. 338. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/elemental/img/xorn.webp#right)  
+![](Compendium/books/monster-manual-2025/img/xorn.webp#right)  
 ## Xorn
 
 *Treasure-Devouring Glutton*
@@ -32,8 +32,6 @@ Rapt gourmands, xorn focus on their next meals. They care little for living crea
 Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's favorite fare.
 
 **Xorn Delicacies**
-
-`dice: [](xorn-xmm.md#^xorn-delicacies)`
 
 | dice: 1d8 | The Xorn Craves... |
 |-----------|--------------------|
@@ -54,43 +52,50 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
 "ac": !!int "19"
 "hp": !!int "84"
 "hit_dice": "8d8 + 48"
+"modifier": !!int "0"
 "stats":
-- !!int "17"
-- !!int "10"
-- !!int "22"
-- !!int "11"
-- !!int "10"
-- !!int "11"
+  - !!int "17"
+  - !!int "10"
+  - !!int "22"
+  - !!int "11"
+  - !!int "10"
+  - !!int "11"
 "speed": "20 ft., burrow 20 ft."
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "6"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
 "damage_immunities": "poison"
 "condition_immunities": "[paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 16"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., Tremorsense\
+  \ 60 ft., passive Perception 16"
 "languages": "Primordial (Terran)"
 "cr": "5"
 "traits":
-- "desc": "The xorn can burrow through nonmagical, unworked earth and stone. While\
-    \ doing so, the xorn doesn't disturb the material it moves through."
-  "name": "Earth Glide"
-- "desc": "The xorn can pinpoint the location of precious metals and stones within\
-    \ 60 feet of itself."
-  "name": "Treasure Sense"
+  - "desc": "The xorn can burrow through nonmagical, unworked earth and stone. While\
+      \ doing so, the xorn doesn't disturb the material it moves through."
+    "name": "Earth Glide"
+  - "desc": "The xorn can pinpoint the location of precious metals and stones within\
+      \ 60 feet of itself."
+    "name": "Treasure Sense"
 "actions":
-- "desc": "The xorn makes one Bite attack and three Claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +6, reach 5 ft. Hit: 17 (4d6 + 3) Piercing damage."
-  "name": "Bite"
-- "desc": "Melee Attack: +6, reach 5 ft. Hit: 8 (1d10 + 3) Slashing damage."
-  "name": "Claw"
+  - "desc": "The xorn makes one Bite attack and three Claw attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 17 (4d6 + 3) Piercing\
+      \ damage."
+    "name": "Bite"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d10 + 3) Slashing\
+      \ damage."
+    "name": "Claw"
 "bonus_actions":
-- "desc": "The xorn moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-    \ or [Burrow Speed](Compendium/rules/variant-rules/burrow-speed-xphb.md) straight\
-    \ toward an enemy it can sense."
-  "name": "Charge"
+  - "desc": "The xorn moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+      \ or [Burrow Speed](Compendium/rules/variant-rules/burrow-speed-xphb.md) straight\
+      \ toward an enemy it can sense."
+    "name": "Charge"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/elemental/token/xorn-xmm.webp"
 ```
 ^statblock

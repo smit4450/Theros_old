@@ -9,17 +9,14 @@ tags:
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/circle-of-the-land
+- ttrpg-cli/spell/subclass/circle-of-the-land/arid-land
 - ttrpg-cli/spell/subclass/evoker
 classes:
 - Bard
 - Druid
-- Druid
-- Sorcerer
+- Druid (Circle of the Land, Arid Land)
 - Sorcerer
 - Wizard
-- Wizard
-- Druid (Circle of the Land)
 - Wizard (Evoker)
 aliases: ["Wall of Stone"]
 ---
@@ -27,10 +24,10 @@ aliases: ["Wall of Stone"]
 *5th-level, Evocation*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
-- **Components:** V, S, a cube of granite
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a cube of granite)
+- **Duration:** Concentration, up to 10 minutes
 
 A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.
 
@@ -44,6 +41,6 @@ The wall is an object made of stone that can be damaged and thus breached. Each 
 
 If you maintain your [Concentration](Compendium/rules/conditions.md#Concentration) on this spell for its full duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Druid (Circle of the Land)](list-spells-classes-druid-xphb-circle-of-the-land-xphb); [Wizard (Evoker)](list-spells-classes-wizard-xphb-evoker-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Arid Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 339. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 339. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

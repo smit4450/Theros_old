@@ -21,13 +21,11 @@ Fiend cultists worship fiends or evil deities. They often work to bring ruin to 
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, Relics  
+- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
 **Cultist Agendas**
-
-`dice: [](fiend-cultist-xmm.md#^cultist-agendas)`
 
 | dice: 1d6 | The Cultist Strives To... |
 |-----------|---------------------------|
@@ -44,8 +42,6 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 Cults often identify with symbols that exemplify their beliefs. Such symbols might mark objects important to the cult, as well as the dress and bodies of cultists themselves. These symbols might be broadly understandable, or they might have meaning only to cultists. Roll twice on or choose results from the Cult Symbols table to inspire a cult's icons.
 
 **Cult Symbols**
-
-`dice: [](fiend-cultist-xmm.md#^cult-symbols)`
 
 | dice: 1d10 | The Symbol Is... | Depicted As... |
 |------------|------------------|----------------|
@@ -73,6 +69,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > 
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
+![](Compendium/bestiary/humanoid/img/cultists.webp#center)  
 ## Statblock
 
 ```statblock
@@ -83,41 +80,47 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "ac": !!int "16"
 "hp": !!int "127"
 "hit_dice": "17d8 + 51"
+"modifier": !!int "5"
 "stats":
-- !!int "19"
-- !!int "15"
-- !!int "16"
-- !!int "12"
-- !!int "18"
-- !!int "10"
+  - !!int "19"
+  - !!int "15"
+  - !!int "16"
+  - !!int "12"
+  - !!int "18"
+  - !!int "10"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "7"
-  "Constitution": !!int "6"
+  - "constitution": !!int "6"
+  - "wisdom": !!int "7"
 "skillsaves":
-  "Religion": !!int "4"
-  "Perception": !!int "7"
-"senses": "darkvision 90 ft. (unimpeded by magical darkness), passive Perception 17"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+    "desc": "+4"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 90 ft. (unimpeded by\
+  \ magical [Darkness](Compendium/rules/variant-rules/darkness-xphb.md)), passive\
+  \ Perception 17"
 "languages": "Abyssal, Common, Infernal"
 "cr": "8"
-"traits":
-- "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 15, +7 to hit with spell attacks):\n\nAt will:\
-    \ [Scorching Ray](Compendium/spells/scorching-ray-xphb.md) (level 5 version),\
-    \ [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\n2/day: [Fireball](Compendium/spells/fireball-xphb.md)\
-    \ (level 6 version)"
-  "name": "Spellcasting"
-- "desc": "The cultist casts [Hellish Rebuke](Compendium/spells/hellish-rebuke-xphb.md)\
-    \ in response to that spell's trigger, using the same spellcasting ability as\
-    \ Spellcasting.\n\nAt will: [Hellish Rebuke](Compendium/spells/hellish-rebuke-xphb.md)"
-  "name": "Hellish Rebuke"
 "actions":
-- "desc": "The cultist makes three Pact Axe attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 10 (1d12 + 4) Slashing damage\
-    \ plus 13 (3d8) Fire damage."
-  "name": "Pact Axe"
+  - "desc": "The cultist makes three Pact Axe attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 10 (1d12 + 4) Slashing\
+      \ damage plus 13 (3d8) Fire damage."
+    "name": "Pact Axe"
+  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
+      \ ability (spell save DC 15, +7 to hit with spell attacks):\n\n**At will:**\
+      \ [Scorching Ray](Compendium/spells/scorching-ray-xphb.md) (level 5 version),\
+      \ [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\n**2/day:** [Fireball](Compendium/spells/fireball-xphb.md)\
+      \ (level 6 version)"
+    "name": "Spellcasting"
+"reactions":
+  - "desc": "The cultist casts [Hellish Rebuke](Compendium/spells/hellish-rebuke-xphb.md)\
+      \ in response to that spell's trigger, using the same spellcasting ability as\
+      \ Spellcasting.\n"
+    "name": "Hellish Rebuke"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/humanoid/token/fiend-cultist-xmm.webp"
 ```
 ^statblock

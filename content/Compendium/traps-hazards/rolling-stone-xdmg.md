@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-hazard
+cssclasses:
+- json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/trp
-aliases: ["Rolling Stone"]
+aliases:
+- Rolling Stone
 ---
 # Rolling Stone
 *Generic Hazard*  
@@ -27,4 +29,4 @@ The stone is a Large object that has AC 17, HP 100, a [Damage Threshold](Compend
 
 As an action, a creature can try to slow down the stone with a DC 20 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check. If the check is successful, the distance the stone moves on its turn is reduced by 15 feet. If that distance drops to 0, it stops moving and is no longer a threat.
 
-*Source: Dungeon Master's Guide (2024) p. 102*
+*Source: Dungeon Master's Guide (2024) p. 102. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

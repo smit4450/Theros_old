@@ -6,25 +6,22 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/feat/magic-initiate
+- ttrpg-cli/spell/feat/magic-initiate/druid-spells
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/abjuration
 - ttrpg-cli/spell/subclass/college-of-lore
 classes:
 - Bard
-- Bard
-- Cleric
-- Cleric
-- Druid
-- Druid
 - Bard (College of Lore)
+- Cleric
+- Druid
 aliases: ["Healing Word"]
 ---
 # Healing Word
 *1st-level, Abjuration*  
 
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** 60 feet
 - **Components:** V
 - **Duration:** Instantaneous
@@ -33,6 +30,6 @@ A creature of your choice that you can see within range regains [Hit Points](Com
 
 **Using a Higher-Level Spell Slot.** The healing increases by `2d4` for each spell slot level above 1.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 284. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

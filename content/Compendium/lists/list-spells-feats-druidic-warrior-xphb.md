@@ -1,24 +1,26 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/druidic-warrior
-aliases: ["Spells for Druidic Warrior"]
+aliases:
+- Spells for Druidic Warrior
 ---
 # Spells for Druidic Warrior
 
 ## Cantrip
 
-- [Druidcraft](druidcraft-xphb "XPHB") 
-- [Elementalism](elementalism-xphb "XPHB") 
-- [Guidance](guidance-xphb "XPHB") 
-- [Mending](mending-xphb "XPHB") 
-- [Message](message-xphb "XPHB") 
-- [Poison Spray](poison-spray-xphb "XPHB") 
-- [Produce Flame](produce-flame-xphb "XPHB") 
-- [Resistance](resistance-xphb "XPHB") 
-- [Shillelagh](shillelagh-xphb "XPHB") 
-- [Spare the Dying](spare-the-dying-xphb "XPHB") 
-- [Starry Wisp](starry-wisp-xphb "XPHB") 
-- [Thorn Whip](thorn-whip-xphb "XPHB") 
-- [Thunderclap](thunderclap-xphb "XPHB")
+- [Druidcraft](Compendium/spells/druidcraft-xphb.md "XPHB") 
+- [Elementalism](Compendium/spells/elementalism-xphb.md "XPHB") 
+- [Guidance](Compendium/spells/guidance-xphb.md "XPHB") 
+- [Mending](Compendium/spells/mending-xphb.md "XPHB") 
+- [Message](Compendium/spells/message-xphb.md "XPHB") 
+- [Poison Spray](Compendium/spells/poison-spray-xphb.md "XPHB") 
+- [Produce Flame](Compendium/spells/produce-flame-xphb.md "XPHB") 
+- [Resistance](Compendium/spells/resistance-xphb.md "XPHB") 
+- [Shillelagh](Compendium/spells/shillelagh-xphb.md "XPHB") 
+- [Spare the Dying](Compendium/spells/spare-the-dying-xphb.md "XPHB") 
+- [Starry Wisp](Compendium/spells/starry-wisp-xphb.md "XPHB") 
+- [Thorn Whip](Compendium/spells/thorn-whip-xphb.md "XPHB") 
+- [Thunderclap](Compendium/spells/thunderclap-xphb.md "XPHB")

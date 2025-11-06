@@ -14,7 +14,7 @@ aliases: ["Divine Smite"]
 *1st-level, Evocation*  
 ![](Compendium/spells/img/divine-smite.webp#right)
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Self
 - **Components:** V
 - **Duration:** Instantaneous
@@ -23,6 +23,6 @@ The target takes an extra `2d8` Radiant damage from the attack. The damage incre
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 1.
 
-**Classes**: [Paladin](list-spells-classes-paladin)
+**Classes**: [Paladin](Compendium/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 265. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

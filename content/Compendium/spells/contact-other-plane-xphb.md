@@ -10,11 +10,11 @@ tags:
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/diviner
+- ttrpg-cli/spell/subclass/oath-of-the-noble-genies
 classes:
 - Bard
+- Paladin (Oath of the Noble Genies)
 - Warlock
-- Warlock
-- Wizard
 - Wizard
 - Wizard (Diviner)
 aliases: ["Contact Other Plane"]
@@ -32,6 +32,6 @@ You mentally contact a demigod, the spirit of a long-dead sage, or some other kn
 
 On a failed save, you take `6d6` Psychic damage and have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). A [Greater Restoration](Compendium/spells/greater-restoration-xphb.md) spell cast on you ends this effect.
 
-**Classes**: [Bard](list-spells-classes-bard); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Diviner)](list-spells-classes-wizard-xphb-diviner-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Paladin (Oath of the Noble Genies)](Compendium/lists/list-spells-classes-oath-of-the-noble-genies-frhof.md "subclass=FRHoF;class=XPHB"); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 255. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

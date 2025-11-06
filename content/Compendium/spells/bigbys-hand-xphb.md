@@ -13,7 +13,6 @@ classes:
 - Bard
 - Sorcerer
 - Wizard
-- Wizard
 - Wizard (Evoker)
 aliases: ["Bigby's Hand"]
 ---
@@ -21,14 +20,14 @@ aliases: ["Bigby's Hand"]
 *5th-level, Evocation*  
 ![](Compendium/spells/img/bigbys-hand.webp#right)
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
-- **Components:** V, S, an eggshell and a glove
+- **Components:** V, S, M (an eggshell and a glove)
 - **Duration:** Concentration, up to 1 minute
 
 You create a Large hand of shimmering magical energy in an unoccupied space that you can see within range. The hand lasts for the duration, and it moves at your command, mimicking the movements of your own hand.
 
-The hand is an object that has AC 20 and [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to your [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) maximum. If it drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), the spell ends. The hand doesn't occupy its space.
+The hand is an object that has AC 20 and [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to your [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum. If it drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), the spell ends. The hand doesn't occupy its space.
 
 When you cast the spell and as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) on your later turns, you can move the hand up to 60 feet and then cause one of the following effects:
 
@@ -39,6 +38,6 @@ When you cast the spell and as a [Bonus Action](Compendium/rules/variant-rules/b
 
 **Using a Higher-Level Spell Slot.** The damage of the Clenched Fist increases by `2d8` and the damage of the Grasping Hand increases by `2d6` for each spell slot level above 5.
 
-**Classes**: [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Evoker)](list-spells-classes-wizard-xphb-evoker-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 245. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 246. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Arcane Hand") and the Free Rules (2024)*

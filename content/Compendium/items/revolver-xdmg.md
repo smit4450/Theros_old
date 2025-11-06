@@ -14,7 +14,7 @@ aliases:
 *Weapon*  
 
 
-- **Damage**: 2d8 P
+- **Damage**: 2d8 piercing
 - **Range**: 40/120
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.

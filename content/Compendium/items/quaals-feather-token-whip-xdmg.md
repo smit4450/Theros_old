@@ -18,4 +18,4 @@ You can take a [Magic](Compendium/rules/actions.md#Magic) action to throw the to
 
 As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can direct the whip to fly up to 20 feet and repeat the attack against a creature within 10 feet of the whip. The whip disappears after 1 hour, when you take a [Magic](Compendium/rules/actions.md#Magic) action to dismiss it, or when you die or have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
 
-*Source: Dungeon Master's Guide (2024) p. 290*
+*Source: Dungeon Master's Guide (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Feather Token, Whip") and the Free Rules (2024)*

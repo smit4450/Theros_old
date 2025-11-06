@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Death Dog"]
 ---
 # Death Dog
-*Source: Monster Manual (2024) p. 91*  
+*Source: Monster Manual (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/monstrosity/img/death-dog.webp#right)  
 ## Death Dog
@@ -31,8 +31,6 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 
 **Death Dog Malady Symptoms**
 
-`dice: [](death-dog-xmm.md#^death-dog-malady-symptoms)`
-
 | dice: 1d6 | The Death Dog's Malady Causes... |
 |-----------|----------------------------------|
 | 1 | Marks from canine jaws to appear on the victim's body, as if they were still being mauled. |
@@ -50,38 +48,43 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 "ac": !!int "12"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
+"modifier": !!int "2"
 "stats":
-- !!int "15"
-- !!int "14"
-- !!int "14"
-- !!int "3"
-- !!int "13"
-- !!int "6"
+  - !!int "15"
+  - !!int "14"
+  - !!int "14"
+  - !!int "3"
+  - !!int "13"
+  - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "5"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
 "condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
   \ [deafened](Compendium/rules/conditions.md#Deafened), [frightened](Compendium/rules/conditions.md#Frightened),\
   \ [stunned](Compendium/rules/conditions.md#Stunned), [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "darkvision 120 ft., passive Perception 15"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 15"
 "languages": ""
 "cr": "1"
 "actions":
-- "desc": "The death dog makes two Bite attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage.\
-    \ If the target is a creature, it is subjected to the following effect. Constitution\
-    \ Saving Throw: DC 12. {@actSaveFail 1} The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-    \ condition. While [Poisoned](Compendium/rules/conditions.md#Poisoned), the target's\
-    \ [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) maximum doesn't\
-    \ return to normal when finishing a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md),\
-    \ and it repeats the save every 24 hours that elapse, ending the effect on itself\
-    \ on a success. Subsequent Failures: The [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-    \ target's [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) maximum\
-    \ decreases by 5 (1d10)."
-  "name": "Bite"
+  - "desc": "The death dog makes two Bite attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Piercing\
+      \ damage. If the target is a creature, it is subjected to the following effect.\
+      \ *Constitution Saving Throw:* DC 12. *1St Failure:* The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ condition. While [Poisoned](Compendium/rules/conditions.md#Poisoned), the\
+      \ target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum\
+      \ doesn't return to normal when finishing a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md),\
+      \ and it repeats the save every 24 hours that elapse, ending the effect on itself\
+      \ on a success. Subsequent Failures: The [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum\
+      \ decreases by 5 (1d10)."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/monstrosity/token/death-dog-xmm.webp"
 ```
 ^statblock

@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Choose a Background; Ability Scores and Backgrounds"]
+aliases:
+- Choose a Background; Ability Scores and Backgrounds
 ---
 # Choose a Background; Ability Scores and Backgrounds
-*Source: Player's Handbook (2024) p. 36* 
+*Source: Player's Handbook (2024) p. 36. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 **Ability Scores and Backgrounds**
 

@@ -11,9 +11,9 @@ statblock: inline
 aliases: ["Pirate Captain"]
 ---
 # Pirate Captain
-*Source: Monster Manual (2024) p. 242*  
+*Source: Monster Manual (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/pirate-captain.webp#right)  
+![](Compendium/bestiary/humanoid/img/pirates.webp#right)  
 Pirate captains command crews of pirates, dictating their destinations and targets. Captains cultivate fearsome and theatrical reputations, painting themselves as larger-than-life characters to terrorize their foes, ensure the obedience of their crews, and attract followers to their banner. Many have colorful nicknames inspired by signature traits and deeds.
 
 ## Pirates
@@ -21,7 +21,7 @@ Pirate captains command crews of pirates, dictating their destinations and targe
 *Freebooters and Fortune Hunters*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, Implements  
+- **Treasure.** Individual, [Implements](Compendium/tables/random-magic-items-implements.md)  
 
 The term "pirate" encompasses a broad range of seafarers, including vicious sea rovers, dogged privateers, cursed treasure hunters, and others who seek riches and fame on the seas.
 
@@ -32,8 +32,6 @@ Pirates might be allies, foes, wild cards, or some combination thereof. While th
 To terrify opponents and spread their reputations, pirate crews fly distinctive flags. Roll twice on or choose results from the Pirate Flags table to inspire what flag a pirate crew sails under.
 
 **Pirate Flags**
-
-`dice: [](pirate-captain-xmm.md#^pirate-flags)`
 
 | dice: 1d8 | The Flag Shows A... | With... |
 |-----------|---------------------|---------|
@@ -56,47 +54,51 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 "ac": !!int "17"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
+"modifier": !!int "7"
 "stats":
-- !!int "10"
-- !!int "18"
-- !!int "14"
-- !!int "10"
-- !!int "14"
-- !!int "17"
+  - !!int "10"
+  - !!int "18"
+  - !!int "14"
+  - !!int "10"
+  - !!int "14"
+  - !!int "17"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "5"
-  "Strength": !!int "3"
+  - "strength": !!int "3"
+  - "dexterity": !!int "7"
+  - "wisdom": !!int "5"
+  - "charisma": !!int "6"
 "skillsaves":
-  "Perception": !!int "5"
-  "Acrobatics": !!int "7"
+  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+    "desc": "+7"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "Common plus one other language"
 "cr": "6"
 "actions":
-- "desc": "The pirate makes three attacks, using Rapier or Pistol in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 13 (2d8 + 4) Piercing damage,\
-    \ and the pirate has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on the next attack roll it makes before the end of this turn."
-  "name": "Rapier"
-- "desc": "Ranged Attack: +7, range 30/90 ft. Hit: 15 (2d10 + 4) Piercing\
-    \ damage."
-  "name": "Pistol"
+  - "desc": "The pirate makes three attacks, using Rapier or Pistol in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 13 (2d8 + 4) Piercing\
+      \ damage, and the pirate has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on the next attack roll it makes before the end of this turn."
+    "name": "Rapier"
+  - "desc": "*Ranged Attack Roll:* +7, range 30/90 ft. *Hit:* 15 (2d10 + 4) Piercing\
+      \ damage."
+    "name": "Pistol"
 "bonus_actions":
-- "desc": "Wisdom Saving Throw: DC 14, one creature the pirate can see within 30\
-    \ feet. Failure: The target has the [Charmed](Compendium/rules/conditions.md#Charmed)\
-    \ condition until the start of the pirate's next turn."
-  "name": "Captain's Charm"
+  - "desc": "*Wisdom Saving Throw:* DC 14, one creature the pirate can see within\
+      \ 30 feet. *Failure:* The target has the [Charmed](Compendium/rules/conditions.md#Charmed)\
+      \ condition until the start of the pirate's next turn."
+    "name": "Captain's Charm"
 "reactions":
-- "desc": "Trigger: The pirate is hit by a melee attack roll while holding a weapon.\
-    \ Response: The pirate adds 3 to its AC against that attack, possibly causing\
-    \ it to miss. On a miss, the pirate makes one Rapier attack against the triggering\
-    \ creature if within range."
-  "name": "Riposte"
+  - "desc": "Trigger: The pirate is hit by a melee attack roll while holding a weapon.\
+      \ _Response:_ The pirate adds 3 to its AC against that attack, possibly causing\
+      \ it to miss. On a miss, the pirate makes one Rapier attack against the triggering\
+      \ creature if within range."
+    "name": "Riposte"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/humanoid/token/pirate-captain-xmm.webp"
 ```
 ^statblock

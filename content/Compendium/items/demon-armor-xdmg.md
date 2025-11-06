@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Demon Armor"
 - "Demon Breastplate"
@@ -132,4 +133,4 @@ Once you don this cursed armor, you can't doff it unless you are targeted by a [
 - **Weight**: 13.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 252*
+*Source: Dungeon Master's Guide (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

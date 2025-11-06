@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Random Magic Items - Implements"]
+aliases:
+- Random Magic Items - Implements
 ---
 # Random Magic Items - Implements
 *Source: Dungeon Master's Guide (2024) p. 329* 
 
 **Implements - Common**
-
-`dice: [](random-magic-items-implements.md#^implements-common)`
 
 | dice: 1d100 | Item |
 |-------------|------|
@@ -53,8 +53,6 @@ aliases: ["Random Magic Items - Implements"]
 ^implements-common
 
 **Implements - Uncommon**
-
-`dice: [](random-magic-items-implements.md#^implements-uncommon)`
 
 | dice: 1d100 | Item |
 |-------------|------|
@@ -105,8 +103,6 @@ aliases: ["Random Magic Items - Implements"]
 
 **Implements - Rare**
 
-`dice: [](random-magic-items-implements.md#^implements-rare)`
-
 | dice: 1d100 | Item |
 |-------------|------|
 | 01–04 | [Ammunition, +2](Compendium/items/2-ammunition-xdmg.md) |
@@ -137,8 +133,6 @@ aliases: ["Random Magic Items - Implements"]
 
 **Implements - Very Rare**
 
-`dice: [](random-magic-items-implements.md#^implements-very-rare)`
-
 | dice: 1d100 | Item |
 |-------------|------|
 | 01–07 | [Ammunition, +3](Compendium/items/3-ammunition-xdmg.md) |
@@ -158,8 +152,6 @@ aliases: ["Random Magic Items - Implements"]
 ^implements-very-rare
 
 **Implements - Legendary**
-
-`dice: [](random-magic-items-implements.md#^implements-legendary)`
 
 | dice: 1d100 | Item |
 |-------------|------|

@@ -14,9 +14,9 @@ statblock: inline
 aliases: ["Ogre Zombie"]
 ---
 # Ogre Zombie
-*Source: Monster Manual (2024) p. 346*  
+*Source: Monster Manual (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/undead/img/ogre-zombie.webp#right)  
+![](Compendium/bestiary/undead/img/zombies.webp#right)  
 Ogre zombies serve as tireless labor and undying weapons of war. These massive zombies possess the size and strength to break through barriers that repel smaller zombies.
 
 ## Zombies
@@ -44,33 +44,37 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 "ac": !!int "8"
 "hp": !!int "85"
 "hit_dice": "9d10 + 36"
+"modifier": !!int "-2"
 "stats":
-- !!int "19"
-- !!int "6"
-- !!int "18"
-- !!int "3"
-- !!int "6"
-- !!int "5"
+  - !!int "19"
+  - !!int "6"
+  - !!int "18"
+  - !!int "3"
+  - !!int "6"
+  - !!int "5"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "0"
+  - "wisdom": !!int "0"
 "damage_immunities": "poison"
 "condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 60 ft., passive Perception 8"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 8"
 "languages": "understands Common and Giant but can't speak"
 "cr": "2"
 "traits":
-- "desc": "If damage reduces the zombie to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
-    \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
-    \ damage is Radiant or from a [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md).\
-    \ On a successful save, the zombie drops to 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ instead."
-  "name": "Undead Fortitude"
+  - "desc": "If damage reduces the zombie to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
+      \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
+      \ damage is Radiant or from a [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md).\
+      \ On a successful save, the zombie drops to 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ instead."
+    "name": "Undead Fortitude"
 "actions":
-- "desc": "Melee Attack: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage."
-  "name": "Slam"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 13 (2d8 + 4) Bludgeoning\
+      \ damage."
+    "name": "Slam"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/undead/token/ogre-zombie-xmm.webp"
 ```
 ^statblock

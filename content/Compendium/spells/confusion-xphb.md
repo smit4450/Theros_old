@@ -12,34 +12,30 @@ tags:
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/great-old-one-patron
+- ttrpg-cli/spell/subclass/knowledge-domain
 - ttrpg-cli/spell/subclass/trickery-domain
 classes:
 - Bard
-- Bard
-- Druid
-- Druid
-- Sorcerer
-- Sorcerer
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
-- Fighter (Eldritch Knight)
-- Warlock (Great Old One Patron)
+- Cleric (Knowledge Domain)
 - Cleric (Trickery Domain)
+- Druid
+- Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Warlock (Great Old One Patron)
+- Wizard
 aliases: ["Confusion"]
 ---
 # Confusion
 *4th-level, Enchantment*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 90 feet
-- **Components:** V, S, three nut shells
+- **Components:** V, S, M (three nut shells)
 - **Duration:** Concentration, up to 1 minute
 
-Each creature in a 10-foot-radius Sphere centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll `1d10` at the start of each of its turns to determine its behavior for that turn, consulting the table below.
-
-`dice: [](confusion-xphb.md#^1-behavior-for-the-turn)`
+Each creature in a 10-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll `1d10` at the start of each of its turns to determine its behavior for that turn, consulting the table below.
 
 | dice: 1d10 | Behavior for the Turn |
 |------------|-----------------------|
@@ -51,8 +47,8 @@ Each creature in a 10-foot-radius Sphere centered on a point you choose within r
 
 At the end of each of its turns, an affected target repeats the save, ending the spell on itself on a success.
 
-**Using a Higher-Level Spell Slot.** The Sphere's radius increases by 5 feet for each spell slot level above 4.
+**Using a Higher-Level Spell Slot.** The [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)'s radius increases by 5 feet for each spell slot level above 4.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb); [Warlock (Great Old One Patron)](list-spells-classes-warlock-xphb-great-old-one-patron-xphb); [Cleric (Trickery Domain)](list-spells-classes-cleric-xphb-trickery-domain-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Trickery Domain)](Compendium/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (Great Old One Patron)](Compendium/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 253. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 253. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

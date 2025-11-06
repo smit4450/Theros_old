@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Armaments - Legendary"]
+aliases:
+- Armaments - Legendary
 ---
 # Armaments - Legendary
 *Source: Dungeon Master's Guide (2024) p. 328* 
 
 **Armaments - Legendary**
-
-`dice: [](armaments-legendary-xdmg.md#^armaments-legendary)`
 
 | dice: 1d100 | Item |
 |-------------|------|

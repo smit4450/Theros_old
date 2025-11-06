@@ -13,16 +13,11 @@ tags:
 - ttrpg-cli/spell/subclass/fiend-patron
 classes:
 - Bard
-- Bard
-- Cleric
 - Cleric
 - Druid
-- Druid
 - Paladin
-- Paladin
-- Wizard
-- Wizard
 - Warlock (Fiend Patron)
+- Wizard
 aliases: ["Geas"]
 ---
 # Geas
@@ -32,7 +27,7 @@ aliases: ["Geas"]
 - **Casting time:** 1 minute
 - **Range:** 60 feet
 - **Components:** V
-- **Duration:** 30 day
+- **Duration:** 30 days
 
 You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a Wisdom saving throw or have the [Charmed](Compendium/rules/conditions.md#Charmed) condition for the duration. The target automatically succeeds if it can't understand your command.
 
@@ -44,6 +39,6 @@ A [Remove Curse](Compendium/spells/remove-curse-xphb.md), [Greater Restoration](
 
 **Using a Higher-Level Spell Slot.** If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Warlock (Fiend Patron)](list-spells-classes-warlock-xphb-fiend-patron-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Warlock (Fiend Patron)](Compendium/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 278. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

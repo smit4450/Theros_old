@@ -10,10 +10,7 @@ tags:
 - ttrpg-cli/spell/school/transmutation
 classes:
 - Bard
-- Bard
 - Sorcerer
-- Sorcerer
-- Wizard
 - Wizard
 aliases: ["Animate Objects"]
 ---
@@ -21,7 +18,7 @@ aliases: ["Animate Objects"]
 *5th-level, Transmutation*  
 ![](Compendium/spells/img/animate-objects.webp#right)
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -34,6 +31,6 @@ Until the spell ends, you can take a [Bonus Action](Compendium/rules/variant-rul
 
 **Using a Higher-Level Spell Slot.** The creature's Slam damage increases by `1d4` (Medium or smaller), `1d6` (Large), or `1d12` (Huge) for each spell slot level above 5.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 240. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

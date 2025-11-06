@@ -17,4 +17,4 @@ aliases:
 
 A Ladder is 10 feet tall. You must climb to move up or down it.
 
-*Source: Player's Handbook (2024) p. 226. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,33 +1,35 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/fey-touched
-aliases: ["Spells for Fey-Touched"]
+aliases:
+- Spells for Fey-Touched
 ---
 # Spells for Fey-Touched
 
 ## 1st Level
 
-- [Animal Friendship](animal-friendship-xphb "XPHB") 
-- [Bane](bane-xphb "XPHB") 
-- [Bless](bless-xphb "XPHB") 
-- [Charm Person](charm-person-xphb "XPHB") 
-- [Command](command-xphb "XPHB") 
-- [Compelled Duel](compelled-duel-xphb "XPHB") 
-- [Comprehend Languages](comprehend-languages-xphb "XPHB") 
-- [Detect Evil and Good](detect-evil-and-good-xphb "XPHB") 
-- [Detect Magic](detect-magic-xphb "XPHB") 
-- [Detect Poison and Disease](detect-poison-and-disease-xphb "XPHB") 
-- [Dissonant Whispers](dissonant-whispers-xphb "XPHB") 
-- [Heroism](heroism-xphb "XPHB") 
-- [Hex](hex-xphb "XPHB") 
-- [Hunter's Mark](hunters-mark-xphb "XPHB") 
-- [Identify](identify-xphb "XPHB") 
-- [Sleep](sleep-xphb "XPHB") 
-- [Speak with Animals](speak-with-animals-xphb "XPHB") 
-- [Tasha's Hideous Laughter](tashas-hideous-laughter-xphb "XPHB") 
+- [Animal Friendship](Compendium/spells/animal-friendship-xphb.md "XPHB") 
+- [Bane](Compendium/spells/bane-xphb.md "XPHB") 
+- [Bless](Compendium/spells/bless-xphb.md "XPHB") 
+- [Charm Person](Compendium/spells/charm-person-xphb.md "XPHB") 
+- [Command](Compendium/spells/command-xphb.md "XPHB") 
+- [Compelled Duel](Compendium/spells/compelled-duel-xphb.md "XPHB") 
+- [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md "XPHB") 
+- [Detect Evil and Good](Compendium/spells/detect-evil-and-good-xphb.md "XPHB") 
+- [Detect Magic](Compendium/spells/detect-magic-xphb.md "XPHB") 
+- [Detect Poison and Disease](Compendium/spells/detect-poison-and-disease-xphb.md "XPHB") 
+- [Dissonant Whispers](Compendium/spells/dissonant-whispers-xphb.md "XPHB") 
+- [Heroism](Compendium/spells/heroism-xphb.md "XPHB") 
+- [Hex](Compendium/spells/hex-xphb.md "XPHB") 
+- [Hunter's Mark](Compendium/spells/hunters-mark-xphb.md "XPHB") 
+- [Identify](Compendium/spells/identify-xphb.md "XPHB") 
+- [Sleep](Compendium/spells/sleep-xphb.md "XPHB") 
+- [Speak with Animals](Compendium/spells/speak-with-animals-xphb.md "XPHB") 
+- [Tasha's Hideous Laughter](Compendium/spells/tashas-hideous-laughter-xphb.md "XPHB") 
 
 ## 2nd Level
 
-- [Misty Step](misty-step-xphb "XPHB")
+- [Misty Step](Compendium/spells/misty-step-xphb.md "XPHB")

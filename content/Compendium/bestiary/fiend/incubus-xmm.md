@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Incubus"]
 ---
 # Incubus
-*Source: Monster Manual (2024) p. 178*  
+*Source: Monster Manual (2024) p. 178, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/fiend/img/incubus.webp#right)  
 ## Incubus
@@ -30,8 +30,6 @@ Incubi can transform into succubi and vice versa, taking the forms they need to 
 Those visited by an incubus have recurring nightmares. Roll on or choose a result from the Incubus Nightmares table to inspire these night terrors.
 
 **Incubus Nightmares**
-
-`dice: [](incubus-xmm.md#^incubus-nightmares)`
 
 | dice: 1d8 | The Incubus's Victim Has Dreams Of... |
 |-----------|---------------------------------------|
@@ -52,51 +50,60 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 "ac": !!int "15"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
+"modifier": !!int "3"
 "stats":
-- !!int "8"
-- !!int "17"
-- !!int "13"
-- !!int "15"
-- !!int "12"
-- !!int "20"
+  - !!int "8"
+  - !!int "17"
+  - !!int "13"
+  - !!int "15"
+  - !!int "12"
+  - !!int "20"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  "Deception": !!int "9"
-  "Stealth": !!int "7"
-  "Insight": !!int "5"
-  "Perception": !!int "5"
-  "Persuasion": !!int "9"
+  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+    "desc": "+9"
+  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+    "desc": "+5"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+    "desc": "+9"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+7"
 "damage_resistances": "cold, fire, poison, psychic"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 15"
 "languages": "Abyssal, Common, Infernal; telepathy 60 ft."
 "cr": "4"
 "traits":
-- "desc": "The incubus casts one of the following spells, requiring no Material components\
-    \ and using Charisma as the spellcasting ability (spell save DC 15):\n\nAt will:\
-    \ [Disguise Self](Compendium/spells/disguise-self-xphb.md), [Etherealness](Compendium/spells/etherealness-xphb.md)\n\
-    \n1/day each: [Dream](Compendium/spells/dream-xphb.md), [Hypnotic Pattern](Compendium/spells/hypnotic-pattern-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "When the incubus finishes a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md),\
-    \ it can shape-shift into a [Succubus](Compendium/bestiary/fiend/succubus-xmm.md),\
-    \ using that stat block instead of this one. Any equipment it's wearing or carrying\
-    \ isn't transformed."
-  "name": "Succubus Form"
+  - "desc": "When the incubus finishes a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md),\
+      \ it can shape-shift into a [Succubus](Compendium/bestiary/fiend/succubus-xmm.md),\
+      \ using that stat block instead of this one. Any equipment it's wearing or carrying\
+      \ isn't transformed."
+    "name": "Succubus Form"
 "actions":
-- "desc": "The incubus makes two Restless Touch attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 15 (3d6 + 5) Psychic damage,\
-    \ and the target is cursed for 24 hours or until the incubus dies. Until the curse\
-    \ ends, the target gains no benefit from finishing Short Rests."
-  "name": "Restless Touch"
+  - "desc": "The incubus makes two Restless Touch attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 15 (3d6 + 5) Psychic\
+      \ damage, and the target is cursed for 24 hours or until the incubus dies. Until\
+      \ the curse ends, the target gains no benefit from finishing Short Rests."
+    "name": "Restless Touch"
+  - "desc": "The incubus casts one of the following spells, requiring no Material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
+      \n**At will:** [Disguise Self](Compendium/spells/disguise-self-xphb.md), [Etherealness](Compendium/spells/etherealness-xphb.md)\n\
+      \n**1/day each:** [Dream](Compendium/spells/dream-xphb.md), [Hypnotic Pattern](Compendium/spells/hypnotic-pattern-xphb.md)"
+    "name": "Spellcasting"
 "bonus_actions":
-- "desc": "Wisdom Saving Throw: DC 15, one creature the incubus can see within 60\
-    \ feet. Failure: If the target has 20 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ or fewer, it has the [Unconscious](Compendium/rules/conditions.md#Unconscious)\
-    \ condition for 1 hour, until it takes damage, or until a creature within 5 feet\
-    \ of it takes an action to wake it. Otherwise, the target takes 18 (4d8) Psychic\
-    \ damage."
-  "name": "Nightmare (Recharge 6)"
+  - "desc": "*Wisdom Saving Throw:* DC 15, one creature the incubus can see within\
+      \ 60 feet. *Failure:* If the target has 20 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ or fewer, it has the [Unconscious](Compendium/rules/conditions.md#Unconscious)\
+      \ condition for 1 hour, until it takes damage, or until a creature within 5\
+      \ feet of it takes an action to wake it. Otherwise, the target takes 18 (4d8)\
+      \ Psychic damage."
+    "name": "Nightmare (Recharge 6)"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/fiend/token/incubus-xmm.webp"
 ```
 ^statblock

@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-deck
+cssclasses:
+- json5e-deck
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Deck of Illusions"]
+aliases:
+- Deck of Illusions
 ---
 # Deck of Illusions
-*Source: Dungeon Master's Guide (2024) p. 249*  
+*Source: Dungeon Master's Guide (2024) p. 249. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 This box contains a set of cards. A full deck has 34 cards: 32 depicting specific creatures and two with a mirrored surface. A deck found as treasure is usually missing ` - 1` cards.
 
@@ -15,8 +17,6 @@ The magic of the deck functions only if its cards are drawn at random. You can t
 Any physical interaction with the illusory creature reveals it to be false, because objects pass through it. A creature that takes a [Study](Compendium/rules/actions.md#Study) action to visually inspect the illusory creature identifies it as an illusion with a successful DC 15 Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check. The illusion lasts until its card is moved or the illusion is dispelled (using a [Dispel Magic](Compendium/spells/dispel-magic-xphb.md) spell or a similar effect). When the illusion ends, the image on its card disappears, and that card can't be used again.
 
 **Deck of Illusions**
-
-`dice: [](deck-of-illusions-xdmg.md#^deck-of-illusions)`
 
 | dice: 1d100 | Illusion |
 |-------------|----------|

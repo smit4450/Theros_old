@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Happenstance Hooks"]
+aliases:
+- Happenstance Hooks
 ---
 # Happenstance Hooks
 *Source: Dungeon Master's Guide (2024) p. 111* 
 
 **Happenstance Hooks**
-
-`dice: [](happenstance-hooks-xdmg.md#^happenstance-hooks)`
 
 | dice: 1d6 | Hook |
 |-----------|------|

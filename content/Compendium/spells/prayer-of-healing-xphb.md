@@ -11,17 +11,16 @@ tags:
 - ttrpg-cli/spell/subclass/college-of-lore
 classes:
 - Bard
-- Cleric
+- Bard (College of Lore)
 - Cleric
 - Paladin
-- Bard (College of Lore)
 aliases: ["Prayer of Healing"]
 ---
 # Prayer of Healing
 *2nd-level, Abjuration*  
 
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** 30 feet
 - **Components:** V
 - **Duration:** Instantaneous
@@ -30,6 +29,6 @@ Up to five creatures of your choice who remain within range for the spell's enti
 
 **Using a Higher-Level Spell Slot.** The healing increases by `1d8` for each spell slot level above 2.
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Paladin](list-spells-classes-paladin); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 307. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 307. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

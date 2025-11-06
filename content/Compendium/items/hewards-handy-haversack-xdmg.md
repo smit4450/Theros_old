@@ -21,6 +21,6 @@ If any of its pouches is overloaded, pierced, or torn, the haversack ruptures an
 
 Each pouch of the haversack holds enough air for 10 minutes of breathing, divided by the number of breathing creatures inside.
 
-Placing the haversack inside an extradimensional space created by a [Bag of Holding](Compendium/items/bag-of-holding-xdmg.md), [Portable Hole](Compendium/items/portable-hole-xdmg.md), or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind [Cover](Compendium/rules/variant-rules/cover-xphb.md) is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Placing the haversack inside an extradimensional space created by a [Bag of Holding](Compendium/items/bag-of-holding-xdmg.md), [Portable Hole](Compendium/items/portable-hole-xdmg.md), or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind [Total Cover](Compendium/rules/variant-rules/cover-xphb.md) is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
-*Source: Dungeon Master's Guide (2024) p. 269*
+*Source: Dungeon Master's Guide (2024) p. 269. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Handy Haversack") and the Free Rules (2024)*

@@ -17,4 +17,4 @@ aliases:
 
 A Waterskin holds up to 4 pints. If you don't drink sufficient water, you risk dehydration.
 
-*Source: Player's Handbook (2024) p. 229. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

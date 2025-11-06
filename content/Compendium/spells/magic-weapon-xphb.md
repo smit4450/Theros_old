@@ -17,24 +17,22 @@ tags:
 - ttrpg-cli/spell/subclass/war-domain
 classes:
 - Bard
+- Bard (College of Lore)
+- Cleric (War Domain)
+- Fighter (Eldritch Knight)
 - Paladin
-- Paladin
+- Paladin (Oath of Glory)
 - Ranger
+- Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-- Wizard
-- Rogue (Arcane Trickster)
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Paladin (Oath of Glory)
-- Cleric (War Domain)
 aliases: ["Magic Weapon"]
 ---
 # Magic Weapon
 *2nd-level, Transmutation*  
 
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** 1 hour
@@ -43,6 +41,6 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 **Using a Higher-Level Spell Slot.** The bonus increases to +2 with a level 3-5 spell slot. The bonus increases to +3 with a level 6+ spell slot.
 
-**Classes**: [Bard](list-spells-classes-bard); [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin); [Ranger](list-spells-classes-ranger); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb); [Paladin (Oath of Glory)](list-spells-classes-paladin-xphb-oath-of-glory-xphb); [Cleric (War Domain)](list-spells-classes-cleric-xphb-war-domain-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Glory)](Compendium/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 295. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 295. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

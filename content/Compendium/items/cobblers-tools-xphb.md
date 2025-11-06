@@ -19,4 +19,4 @@ aliases:
 - **Utilize.** Modify footwear to give [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the wearer's next Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check (DC 10)  
 - **Craft.** [Climber's Kit](Compendium/items/climbers-kit-xphb.md)  
 
-*Source: Player's Handbook (2024) p. 220. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

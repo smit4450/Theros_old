@@ -11,20 +11,19 @@ tags:
 - ttrpg-cli/spell/subclass/college-of-lore
 classes:
 - Bard
-- Druid
+- Bard (College of Lore)
 - Druid
 - Sorcerer
-- Bard (College of Lore)
 aliases: ["Flame Blade"]
 ---
 # Flame Blade
 *2nd-level, Evocation*  
 
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Self
-- **Components:** V, S, a sumac leaf
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a sumac leaf)
+- **Duration:** Concentration, up to 10 minutes
 
 You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke it again as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md).
 
@@ -34,6 +33,6 @@ The flaming blade sheds [Bright Light](Compendium/rules/variant-rules/bright-lig
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 2.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Sorcerer](list-spells-classes-sorcerer); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md)
 
-*Source: Player's Handbook (2024) p. 275. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

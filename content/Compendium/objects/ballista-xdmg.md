@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-object
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/large
 - ttrpg-cli/object/type/siege-weapon
-aliases: ["Ballista"]
+aliases:
+- Ballista
 ---
 # Ballista
 %%-- Embedded content starts on the next line. --%%
@@ -29,6 +31,6 @@ title: Ballista
 
 ## Actions
 
-***Ballista Bolt (Requires Load and Aim).*** *Ranged Attack:* `+6`, range 120/480 ft. *Hit:* 16 (`3d10`) Piercing damage.
+***Ballista Bolt (Requires Load and Aim).*** *Ranged Attack Roll:* `+6`, range 120/480 ft. *Hit:* 16 (`3d10`) Piercing damage.
 ```
 ^statblock

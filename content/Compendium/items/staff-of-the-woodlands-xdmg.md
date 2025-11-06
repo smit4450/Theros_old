@@ -15,8 +15,8 @@ aliases:
 ![](Compendium/items/img/staff-of-the-woodlands.webp#right)
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
@@ -44,6 +44,6 @@ You can take a [Magic](Compendium/rules/actions.md#Magic) action to plant one en
 
 ## Regaining Charges
 
-The staff regains `1d6` expended charges daily at dawn. If you expend the last charge, roll ``. On a 1, the staff loses its properties and becomes a nonmagical Quarterstaff.
+The staff regains `1d6` expended charges daily at dawn. If you expend the last charge, roll `1d20`. On a 1, the staff loses its properties and becomes a nonmagical Quarterstaff.
 
-*Source: Dungeon Master's Guide (2024) p. 311*
+*Source: Dungeon Master's Guide (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -21,6 +21,6 @@ Each *Ioun Stone* orbiting your head is considered to be an object you are weari
 
 As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [Attunement](Compendium/rules/variant-rules/attunement-xphb.md) to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
 
-You regain 15 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) at the end of each hour this pearly white spindle orbits your head if you have at least 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).
+You regain 15 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) at the end of each hour this pearly white spindle orbits your head if you have at least 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md).
 
-*Source: Dungeon Master's Guide (2024) p. 273*
+*Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

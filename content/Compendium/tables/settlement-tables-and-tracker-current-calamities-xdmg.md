@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Settlement Tables and Tracker; Current Calamities"]
+aliases:
+- Settlement Tables and Tracker; Current Calamities
 ---
 # Settlement Tables and Tracker; Current Calamities
 *Source: Dungeon Master's Guide (2024) p. 93* 
 
 **Current Calamities**
-
-`dice: [](settlement-tables-and-tracker-current-calamities-xdmg.md#^current-calamities)`
 
 | dice: 1d12 | Calamity |
 |------------|----------|

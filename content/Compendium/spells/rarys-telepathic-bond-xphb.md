@@ -12,9 +12,8 @@ tags:
 - ttrpg-cli/spell/subclass/diviner
 classes:
 - Bard
-- Wizard
-- Wizard
 - Sorcerer (Aberrant Sorcery)
+- Wizard
 - Wizard (Diviner)
 aliases: ["Rary's Telepathic Bond"]
 ---
@@ -22,15 +21,15 @@ aliases: ["Rary's Telepathic Bond"]
 *5th-level, Divination (ritual)*  
 
 
-- **Casting time:** 1 action unless cast as a ritual
+- **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 30 feet
-- **Components:** V, S, two eggs
+- **Components:** V, S, M (two eggs)
 - **Duration:** 1 hour
 
 You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures that can't communicate in any languages aren't affected by this spell.
 
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they share a language. The communication is possible over any distance, though it can't extend to other planes of existence.
 
-**Classes**: [Bard](list-spells-classes-bard); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Sorcerer (Aberrant Sorcery)](list-spells-classes-sorcerer-xphb-aberrant-sorcery-xphb); [Wizard (Diviner)](list-spells-classes-wizard-xphb-diviner-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer (Aberrant Sorcery)](Compendium/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 311. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Telepathic Bond") and the Free Rules (2024)*

@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Level-Based Renown"]
+aliases:
+- Level-Based Renown
 ---
 # Level-Based Renown
 *Source: Dungeon Master's Guide (2024) p. 92* 

@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases: ["Monsters by Habitat; Grassland Monsters"]
+aliases:
+- Monsters by Habitat; Grassland Monsters
 ---
 # Monsters by Habitat; Grassland Monsters
 *Source: Monster Manual (2024) p. 375* 

@@ -16,4 +16,4 @@ aliases:
 
 While wearing this amulet, you can't be targeted by Divination spells or perceived through magical scrying sensors unless you allow it.
 
-*Source: Dungeon Master's Guide (2024) p. 228. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

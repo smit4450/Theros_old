@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Psychic Wind Psychic Effects"]
+aliases:
+- Psychic Wind Psychic Effects
 ---
 # Psychic Wind Psychic Effects
 *Source: Dungeon Master's Guide (2024) p. 185* 
 
 **Psychic Wind Psychic Effects**
-
-`dice: [](psychic-wind-psychic-effects-xdmg.md#^psychic-wind-psychic-effects)`
 
 | dice: 1d20 | Psychic Effect |
 |------------|----------------|

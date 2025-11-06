@@ -5,11 +5,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/wondrous/rod
 aliases: 
 - "Rod of Alertness"
 ---
 # Rod of Alertness
-*Very rare (requires attunement)*  
+*Rod, very rare (requires attunement)*  
 
 
 - **Weight**: 2.0 lbs.
@@ -31,4 +32,4 @@ As a [Magic](Compendium/rules/actions.md#Magic) action, you can plant the haft e
 
 The rod's head stops glowing and the effect ends after 10 minutes or when a creature takes a [Magic](Compendium/rules/actions.md#Magic) action to pull the rod from the ground. Once used, this property can't be used again until the next dawn.
 
-*Source: Dungeon Master's Guide (2024) p. 299*
+*Source: Dungeon Master's Guide (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

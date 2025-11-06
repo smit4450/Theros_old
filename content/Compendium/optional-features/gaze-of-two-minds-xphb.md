@@ -1,15 +1,17 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-feat
+cssclasses:
+- json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/ei
-aliases: ["Gaze of Two Minds"]
+aliases:
+- Gaze of Two Minds
 ---
 # Gaze of Two Minds
-*Source: Player's Handbook (2024) p. 156*  
+*Source: Player's Handbook (2024) p. 156. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
-**Prerequisite**: 5th Warlock
+**Prerequisite**: Level 5
 
 You can use a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.
 

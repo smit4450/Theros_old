@@ -19,4 +19,4 @@ Crossbow bolts are used with a weapon that has the ammunition property to make a
 
 Bolts are typically stored in a [Crossbow Bolt Case](Compendium/items/crossbow-bolt-case-xphb.md) (bought separately).
 
-*Source: Player's Handbook (2024) p. 222*
+*Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

@@ -16,6 +16,6 @@ This rope is 30 feet long. While holding one end of the rope, you can take a [Ma
 
 A target [Restrained](Compendium/rules/conditions.md#Restrained) by the rope can take an action to make its choice of a DC 15 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check. On a successful check, the target is no longer [Restrained](Compendium/rules/conditions.md#Restrained) by the rope. If you're still holding onto the rope when a target escapes from it, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to command the rope to coil up in your hand; otherwise, the rope coils up in the target's space.
 
-The rope has AC 20, HP 20, and [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to Poison and Psychic damage. It regains 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) every 5 minutes as long as it has at least 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). If the rope drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it is destroyed.
+The rope has AC 20, HP 20, and [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to Poison and Psychic damage. It regains 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) every 5 minutes as long as it has at least 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md). If the rope drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it is destroyed.
 
-*Source: Dungeon Master's Guide (2024) p. 301*
+*Source: Dungeon Master's Guide (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

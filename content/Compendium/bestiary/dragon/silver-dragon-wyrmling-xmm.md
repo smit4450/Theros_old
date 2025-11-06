@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Silver Dragon Wyrmling"]
 ---
 # Silver Dragon Wyrmling
-*Source: Monster Manual (2024) p. 278*  
+*Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/dragon/img/silver-dragon-wyrmling.webp#right)  
 Silver dragon wyrmlings typically live with one or more parents or mentors, learning much about the world and its past before living on their own.
@@ -22,7 +22,7 @@ Silver dragon wyrmlings typically live with one or more parents or mentors, lear
 *Dragons of Courage and Fairness*
 
 - **Habitat.** Mountain, Urban  
-- **Treasure.** Arcana  
+- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
 
 Silver dragons work to preserve peace and encourage greatness. They try to live as examples of decency while remaining watchful against evil.
 
@@ -44,42 +44,46 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
 "ac": !!int "17"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
+"modifier": !!int "2"
 "stats":
-- !!int "19"
-- !!int "10"
-- !!int "17"
-- !!int "12"
-- !!int "11"
-- !!int "15"
+  - !!int "19"
+  - !!int "10"
+  - !!int "17"
+  - !!int "12"
+  - !!int "11"
+  - !!int "15"
 "speed": "30 ft., fly 60 ft."
 "saves":
-  "Dexterity": !!int "2"
-  "Wisdom": !!int "2"
+  - "dexterity": !!int "2"
+  - "wisdom": !!int "2"
 "skillsaves":
-  "Stealth": !!int "2"
-  "Perception": !!int "4"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+2"
 "damage_immunities": "cold"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 10 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
 "actions":
-- "desc": "The dragon makes two Rend attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +6, reach 5 ft. Hit: 9 (1d10 + 4) Piercing damage."
-  "name": "Rend"
-- "desc": "Constitution Saving Throw: DC 13, each creature in a 15-foot [Cone [Area\
-    \ of Effect]](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). Failure:\
-    \ 18 (4d8) Cold damage. Success: Half damage."
-  "name": "Cold Breath (Recharge 5-6)"
-- "desc": "Constitution Saving Throw: DC 13, each creature in a 15-foot [Cone [Area\
-    \ of Effect]](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). {@actSaveFail\
-    \ 1} The target has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
-    \ condition until the end of its next turn, when it repeats the save. {@actSaveFail\
-    \ 2} The target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed)\
-    \ condition, and it repeats the save at the end of each of its turns, ending the\
-    \ effect on itself on a success. After 1 minute, it succeeds automatically."
-  "name": "Paralyzing Breath"
+  - "desc": "The dragon makes two Rend attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (1d10 + 4) Piercing\
+      \ damage."
+    "name": "Rend"
+  - "desc": "*Constitution Saving Throw:* DC 13, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 18 (4d8) Cold damage. *Success:* Half damage."
+    "name": "Cold Breath (Recharge 5-6)"
+  - "desc": "*Constitution Saving Throw:* DC 13, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *1St Failure:* The target has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ condition until the end of its next turn, when it repeats the save. *2Nd Failure:*\
+      \ The target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition,\
+      \ and it repeats the save at the end of each of its turns, ending the effect\
+      \ on itself on a success. After 1 minute, it succeeds automatically."
+    "name": "Paralyzing Breath"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/dragon/token/silver-dragon-wyrmling-xmm.webp"
 ```
 ^statblock

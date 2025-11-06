@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Adjudicating Areas of Effect; Targets in Area of Effect"]
+aliases:
+- Adjudicating Areas of Effect; Targets in Area of Effect
 ---
 # Adjudicating Areas of Effect; Targets in Area of Effect
 *Source: Dungeon Master's Guide (2024) p. 82* 
@@ -26,4 +28,4 @@ aliases: ["Adjudicating Areas of Effect; Targets in Area of Effect"]
 | — | 50-foot | 30-foot-radius | — | 20 |
 ^targets-in-area-of-effect
 
-*Use this column for [Cylinder [Area of Effect]](Compendium/rules/variant-rules/cylinder-area-of-effect-xphb.md), [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) (using the size of the Emanation rather than its radius), and [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md).
+*Use this column for [Cylinders](Compendium/rules/variant-rules/cylinder-area-of-effect-xphb.md), [Emanations](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) (using the size of the Emanation rather than its radius), and [Spheres](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md).

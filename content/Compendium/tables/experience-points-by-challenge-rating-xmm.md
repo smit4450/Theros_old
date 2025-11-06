@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases: ["Experience Points by Challenge Rating"]
+aliases:
+- Experience Points by Challenge Rating
 ---
 # Experience Points by Challenge Rating
-*Source: Monster Manual (2024) p. 8* 
+*Source: Monster Manual (2024) p. 8. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 **Experience Points by Challenge Rating**
 

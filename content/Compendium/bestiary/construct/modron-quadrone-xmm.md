@@ -28,7 +28,7 @@ Beings of magic and machinery, modrons embody absolute law. These inhabitants of
 
 Modrons are parts of a vast hierarchy, spanning from quirky monodrones to the leader of their kind, the godlike Primus. Every modron carries out tasks assigned to it by higher-ranking modrons, doing so without question. Generally, modrons communicate only with other modrons of their own rank or the ranks immediately above and below them. Those more than one rank away tend to be either too advanced or too simple for them to understand.
 
-Modrons excel at tasks that require patience and precision, but they have little understanding of nonliteral concepts such as art or humor. They have no egos; they have only their work and the certainty that multiversal law depends on their efficacy.
+Modrons excel at tasks that require patience and precision, but they have little understanding of non-literal concepts such as art or humor. They have no egos; they have only their work and the certainty that multiversal law depends on their efficacy.
 
 In rare cases, a modron goes rogue and develops its own will. In these cases, other modrons are sent to recover or destroy their malfunctioning kin.
 
@@ -37,8 +37,6 @@ In rare cases, a modron goes rogue and develops its own will. In these cases, ot
 Whether in service to lawful deities or as part of the Great Modron March, modrons travel from Mechanus to spread their vision of law to other planes of existence. Roll on or choose a result from the Modron Operations table to inspire what effort leads a group of modrons to other realms.
 
 **Modron Operations**
-
-`dice: [](modron-quadrone-xmm.md#^modron-operations)`
 
 | dice: 1d8 | The Modrons Work To... |
 |-----------|------------------------|
@@ -66,32 +64,37 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 "ac": !!int "16"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
+"modifier": !!int "2"
 "stats":
-- !!int "12"
-- !!int "14"
-- !!int "12"
-- !!int "10"
-- !!int "10"
-- !!int "11"
+  - !!int "12"
+  - !!int "14"
+  - !!int "12"
+  - !!int "10"
+  - !!int "10"
+  - !!int "11"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+2"
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed)"
-"senses": "truesight 120 ft., passive Perception 12"
+"senses": "[Truesight](Compendium/rules/senses.md#Truesight) 120 ft., passive Perception\
+  \ 12"
 "languages": "Modron"
 "cr": "1"
 "traits":
-- "desc": "If the modron dies, it disintegrates into dust, leaving behind anything\
-    \ it was wearing or carrying."
-  "name": "Disintegration"
+  - "desc": "If the modron dies, it disintegrates into dust, leaving behind anything\
+      \ it was wearing or carrying."
+    "name": "Disintegration"
 "actions":
-- "desc": "The modron makes four Slam attacks or four Gears Launcher attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 4 (1d4 + 2) Force damage."
-  "name": "Slam"
-- "desc": "Ranged Attack: +4, range 320 ft. Hit: 4 (1d4 + 2) Force damage."
-  "name": "Gears Launcher"
+  - "desc": "The modron makes four Slam attacks or four Gears Launcher attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Force damage."
+    "name": "Slam"
+  - "desc": "*Ranged Attack Roll:* +4, range 320 ft. *Hit:* 4 (1d4 + 2) Force\
+      \ damage."
+    "name": "Gears Launcher"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/construct/token/modron-quadrone-xmm.webp"
 ```
 ^statblock

@@ -13,7 +13,7 @@ aliases: ["Crawling Claw"]
 # Crawling Claw
 *Source: Monster Manual (2024) p. 83*  
 
-![](Compendium/bestiary/undead/img/crawling-claw.webp#right)  
+![](Compendium/bestiary/undead/img/crawling-claws.webp#right)  
 Lone crawling claws can continue killing sprees they perpetrated in life. Some recklessly attack the living, while others pursue specific victims. In rare cases, a crawling claw wreaks mayhem while the rest of its body still lives, with the original creature potentially unaware of its severed hand's crimes.
 
 ## Crawling Claws
@@ -39,25 +39,28 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "ac": !!int "12"
 "hp": !!int "2"
 "hit_dice": "1d4"
+"modifier": !!int "2"
 "stats":
-- !!int "13"
-- !!int "14"
-- !!int "11"
-- !!int "5"
-- !!int "10"
-- !!int "4"
+  - !!int "13"
+  - !!int "14"
+  - !!int "11"
+  - !!int "5"
+  - !!int "10"
+  - !!int "4"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](Compendium/rules/conditions.md#Frightened), [incapacitated](Compendium/rules/conditions.md#Incapacitated),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "blindsight 30 ft., passive Perception 10"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception\
+  \ 10"
 "languages": "understands Common but can't speak"
 "cr": "0"
 "actions":
-- "desc": "Melee Attack: +3, reach 5 ft. Hit: 2 Necrotic damage."
-  "name": "Slam"
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 2 Necrotic damage."
+    "name": "Slam"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/undead/token/crawling-claw-xmm.webp"
 ```
 ^statblock

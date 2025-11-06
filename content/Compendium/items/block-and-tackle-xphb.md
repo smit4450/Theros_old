@@ -17,4 +17,4 @@ aliases:
 
 A [Block and Tackle](Compendium/items/block-and-tackle-xphb.md) allows you to hoist up to four times the weight you can normally lift.
 
-*Source: Player's Handbook (2024) p. 224. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

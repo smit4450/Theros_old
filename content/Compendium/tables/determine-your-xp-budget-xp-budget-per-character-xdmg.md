@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Determine Your XP Budget; XP Budget per Character"]
+aliases:
+- Determine Your XP Budget; XP Budget per Character
 ---
 # Determine Your XP Budget; XP Budget per Character
 *Source: Dungeon Master's Guide (2024) p. 114* 

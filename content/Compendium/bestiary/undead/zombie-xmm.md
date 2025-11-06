@@ -14,9 +14,9 @@ statblock: inline
 aliases: ["Zombie"]
 ---
 # Zombie
-*Source: Monster Manual (2024) p. 346, Player's Handbook (2024) p. 359*  
+*Source: Monster Manual (2024) p. 346, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/undead/img/zombie.webp#right)  
+![](Compendium/bestiary/undead/img/zombies.webp#right)  
 Humanoid zombies usually serve as guardians, servants, or soldiers for evil magic-users. In rare cases, foul magic might result in widespread reanimation of the dead, unleashing hordes of zombies to terrorize the living.
 
 ## Zombies
@@ -44,35 +44,38 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 "ac": !!int "8"
 "hp": !!int "15"
 "hit_dice": "2d8 + 6"
+"modifier": !!int "-2"
 "stats":
-- !!int "13"
-- !!int "6"
-- !!int "16"
-- !!int "3"
-- !!int "6"
-- !!int "5"
+  - !!int "13"
+  - !!int "6"
+  - !!int "16"
+  - !!int "3"
+  - !!int "6"
+  - !!int "5"
 "speed": "20 ft."
 "saves":
-  "Wisdom": !!int "0"
+  - "wisdom": !!int "0"
 "damage_immunities": "poison"
 "condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 60 ft., passive Perception 8"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 8"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "1/4"
 "traits":
-- "desc": "If damage reduces the zombie to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
-    \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
-    \ damage is Radiant or from a [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md).\
-    \ On a successful save, the zombie drops to 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ instead."
-  "name": "Undead Fortitude"
+  - "desc": "If damage reduces the zombie to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
+      \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
+      \ damage is Radiant or from a [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md).\
+      \ On a successful save, the zombie drops to 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ instead."
+    "name": "Undead Fortitude"
 "actions":
-- "desc": "Melee Attack: +3, reach 5 ft. Hit: 5 (1d8 + 1) Bludgeoning damage."
-  "name": "Slam"
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 5 (1d8 + 1) Bludgeoning\
+      \ damage."
+    "name": "Slam"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "Compendium/bestiary/undead/token/zombie-xmm.webp"
 ```
 ^statblock

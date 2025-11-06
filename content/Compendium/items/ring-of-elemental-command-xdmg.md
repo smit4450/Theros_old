@@ -5,11 +5,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
+- ttrpg-cli/item/wondrous/ring
 aliases: 
 - "Ring of Elemental Command"
 ---
 # Ring of Elemental Command
-*Legendary (requires attunement)*  
+*Ring, legendary (requires attunement)*  
 
 
 
@@ -20,4 +21,4 @@ aliases:
 - [Ring of Elemental Command (Fire)](Compendium/items/ring-of-elemental-command-fire-xdmg.md)
 - [Ring of Elemental Command (Water)](Compendium/items/ring-of-elemental-command-water-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 292*
+*Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

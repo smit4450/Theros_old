@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
 - ttrpg-cli/monster/legendary-group
-aliases: ["Aboleth"]
+aliases:
+- Aboleth
 ---
 # Aboleth
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual (2024)_
 
 The region containing an aboleth's lair is warped by it, creating the following effects:

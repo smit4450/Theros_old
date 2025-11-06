@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/fighter/battle-master
-aliases: ["Battle Master"]
+aliases:
+- Battle Master
 ---
 # Battle Master
-*[Fighter](fighter-xphb.md): Fighter Subclass*  
+*[Fighter](./fighter-xphb.md): Fighter Subclass*  
 *Source: Player's Handbook (2024) p. 93*  
 
 > [!tldr] Class and Feature Progression
@@ -19,26 +21,27 @@ aliases: ["Battle Master"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Battle%20Master%20(Level%203)'>Battle Master</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Battle Master (Level 3)' class='internal-link'>Battle Master</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Know%20Your%20Enemy%20(Level%207)'>Know Your Enemy</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Know Your Enemy (Level 7)' class='internal-link'>Know Your Enemy</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Improved%20Combat%20Superiority%20(Level%2010)'>Improved Combat Superiority</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Improved Combat Superiority (Level 10)' class='internal-link'>Improved Combat Superiority</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Relentless%20(Level%2015)'>Relentless</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Relentless (Level 15)' class='internal-link'>Relentless</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Ultimate%20Combat%20Superiority%20(Level%2018)'>Ultimate Combat Superiority</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Ultimate Combat Superiority (Level 18)' class='internal-link'>Ultimate Combat Superiority</a></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -55,19 +58,19 @@ Your experience on the battlefield has refined your fighting techniques. You lea
 
 #### Maneuvers
 
-You learn three maneuvers of your choice from the "[Maneuvers Options](Compendium/lists/list-optfeaturetype-mv-b.md)" section later in this subclass's description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
+You learn three maneuvers of your choice from the "Maneuvers Options^[Optional features from [Maneuver, Battle Master](Compendium/lists/list-optfeaturetype-mv-b.md); defined in Player's Handbook (2024)]" section later in this subclass's description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
 
 You learn two additional maneuvers of your choice when you reach Fighter levels 7, 10, and 15. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
 
 #### Superiority Dice
 
-You have four Superiority Dice, which are d8s (`d8`). A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You have four Superiority Dice, which are d8s (`d8`). A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
 
 You gain an additional Superiority Die when you reach Fighter levels 7 (five dice total) and 15 (six dice total).
 
 #### Saving Throws
 
-If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md).
+If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md).
 
 ### Student of War (Level 3)
 

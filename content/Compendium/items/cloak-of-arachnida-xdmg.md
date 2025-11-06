@@ -31,4 +31,4 @@ You can't be caught in webs of any sort and can move through webs as if they wer
 
 You can cast [Web](Compendium/spells/web-xphb.md) (save DC 13). The web created by the spell fills twice its normal area. Once used, this property can't be used again until the next dawn.
 
-*Source: Dungeon Master's Guide (2024) p. 244. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -6,29 +6,29 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/4th-level
+- ttrpg-cli/spell/reward/epharas-disciple
 - ttrpg-cli/spell/school/abjuration
 - ttrpg-cli/spell/subclass/abjurer
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Bard
-- Wizard
+- Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Abjurer)
-- Rogue (Arcane Trickster)
-- Fighter (Eldritch Knight)
 aliases: ["Mordenkainen's Private Sanctum"]
 ---
 # Mordenkainen's Private Sanctum
 *4th-level, Abjuration*  
 
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** 120 feet
-- **Components:** V, S, a thin sheet of lead
-- **Duration:** 24 hour
+- **Components:** V, S, M (a thin sheet of lead)
+- **Duration:** 24 hours
 
-You make an area within range magically secure. The area is a Cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration.
+You make an area within range magically secure. The area is a [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration.
 
 When you cast the spell, you decide what sort of security the spell provides, choosing any of the following properties:
 
@@ -41,8 +41,8 @@ When you cast the spell, you decide what sort of security the spell provides, ch
 
 Casting this spell on the same spot every day for 365 days makes the spell last until dispelled.
 
-**Using a Higher-Level Spell Slot.** You can increase the size of the Cube by 100 feet for each spell slot level above 4.
+**Using a Higher-Level Spell Slot.** You can increase the size of the [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) by 100 feet for each spell slot level above 4.
 
-**Classes**: [Bard](list-spells-classes-bard); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Abjurer)](list-spells-classes-wizard-xphb-abjurer-xphb); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 301. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Private Sanctum") and the Free Rules (2024)*

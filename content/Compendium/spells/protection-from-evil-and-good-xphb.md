@@ -9,7 +9,7 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/magic-initiate
+- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/abjuration
 - ttrpg-cli/spell/subclass/abjurer
@@ -20,34 +20,30 @@ tags:
 - ttrpg-cli/spell/subclass/oath-of-devotion
 classes:
 - Bard
-- Cleric
+- Bard (College of Lore)
 - Cleric
 - Druid
+- Fighter (Eldritch Knight)
 - Paladin
-- Paladin
-- Warlock
-- Warlock
-- Wizard
-- Wizard
-- Wizard (Abjurer)
+- Paladin (Oath of Devotion)
 - Rogue (Arcane Trickster)
 - Sorcerer (Clockwork Sorcery)
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Paladin (Oath of Devotion)
+- Warlock
+- Wizard
+- Wizard (Abjurer)
 aliases: ["Protection from Evil and Good"]
 ---
 # Protection from Evil and Good
 *1st-level, Abjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, a flask of Holy Water worth 25+ GP, which the spell consumes
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a flask of Holy Water worth 25+ GP, which the spell consumes)
+- **Duration:** Concentration, up to 10 minutes
 
 Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls against the target. The target also can't be possessed by or gain the [Charmed](Compendium/rules/conditions.md#Charmed) or [Frightened](Compendium/rules/conditions.md#Frightened) conditions from them. If the target is already possessed, [Charmed](Compendium/rules/conditions.md#Charmed), or [Frightened](Compendium/rules/conditions.md#Frightened) by such a creature, the target has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on any new saving throw against the relevant effect.
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Abjurer)](list-spells-classes-wizard-xphb-abjurer-xphb); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Sorcerer (Clockwork Sorcery)](list-spells-classes-sorcerer-xphb-clockwork-sorcery-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb); [Paladin (Oath of Devotion)](list-spells-classes-paladin-xphb-oath-of-devotion-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 309. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 309. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

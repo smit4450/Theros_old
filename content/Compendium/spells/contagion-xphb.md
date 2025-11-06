@@ -11,8 +11,6 @@ tags:
 classes:
 - Bard
 - Cleric
-- Cleric
-- Druid
 - Druid
 aliases: ["Contagion"]
 ---
@@ -20,10 +18,10 @@ aliases: ["Contagion"]
 *5th-level, Necromancy*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
-- **Duration:** 7 day
+- **Duration:** 7 days
 
 Your touch inflicts a magical contagion. The target must succeed on a Constitution saving throw or take `11d8` Necrotic damage and have the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition. Also, choose one ability when you cast the spell. While [Poisoned](Compendium/rules/conditions.md#Poisoned), the target has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on saving throws made with the chosen ability.
 
@@ -31,6 +29,6 @@ The target must repeat the saving throw at the end of each of its turns until it
 
 Whenever the [Poisoned](Compendium/rules/conditions.md#Poisoned) target receives an effect that would end the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition, the target must succeed on a Constitution saving throw, or the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition doesn't end on it.
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 256. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -15,4 +15,4 @@ aliases:
 
 While wearing these bracers, you gain a +2 bonus to [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) if you are wearing no armor and using no Shield.
 
-*Source: Dungeon Master's Guide (2024) p. 241. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Settlement Tables and Tracker; Defining Traits"]
+aliases:
+- Settlement Tables and Tracker; Defining Traits
 ---
 # Settlement Tables and Tracker; Defining Traits
 *Source: Dungeon Master's Guide (2024) p. 93* 
 
 **Defining Traits**
-
-`dice: [](settlement-tables-and-tracker-defining-traits-xdmg.md#^defining-traits)`
 
 | dice: 1d20 | Trait |
 |------------|-------|

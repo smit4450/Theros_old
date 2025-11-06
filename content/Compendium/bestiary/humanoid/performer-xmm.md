@@ -13,7 +13,7 @@ aliases: ["Performer"]
 # Performer
 *Source: Monster Manual (2024) p. 236*  
 
-![](Compendium/bestiary/humanoid/img/performer.webp#right)  
+![](Compendium/bestiary/humanoid/img/performers.webp#right)  
 Common performers include traveling storytellers, tavern musicians, local entertainers, and chorus members performing with veteran artists. These performers might be self-taught or in the early years of formal training. Most have a modest level of celebrity and two or three instruments or talents at which they excel.
 
 ## Performers
@@ -21,7 +21,7 @@ Common performers include traveling storytellers, tavern musicians, local entert
 *Artists and Entertainers*
 
 - **Habitat.** Any  
-- **Treasure.** Implements, Individual  
+- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
 
 From royal courts to village squares, skilled entertainers hone their talents and delight audiences. Some travel far, sharing tales and demonstrating mysterious arts. Others serve in the courts and theaters of great nations, cultivating celebrity and navigating the whims of patrons. Many hone professional secrets and magical flourishes, striving to make their performances truly unforgettable.
 
@@ -101,32 +101,38 @@ Wrestler
 "ac": !!int "13"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
+"modifier": !!int "3"
 "stats":
-- !!int "12"
-- !!int "16"
-- !!int "12"
-- !!int "13"
-- !!int "14"
-- !!int "16"
+  - !!int "12"
+  - !!int "16"
+  - !!int "12"
+  - !!int "13"
+  - !!int "14"
+  - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "5"
+  - "dexterity": !!int "5"
+  - "charisma": !!int "5"
 "skillsaves":
-  "Athletics": !!int "3"
-  "Performance": !!int "7"
-  "Acrobatics": !!int "5"
+  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+    "desc": "+5"
+  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+    "desc": "+3"
+  - "name": "[Performance](Compendium/rules/skills.md#Performance)"
+    "desc": "+7"
 "senses": "passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "1/2"
 "actions":
-- "desc": "Melee Attack: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage."
-  "name": "Shortsword"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing\
+      \ damage."
+    "name": "Shortsword"
 "reactions":
-- "desc": "Trigger: The performer is hit by an attack roll. Response: The performer\
-    \ halves the damage (round down) it takes from that attack."
-  "name": "Uncanny Dodge"
+  - "desc": "Trigger: The performer is hit by an attack roll. _Response:_ The performer\
+      \ halves the damage (round down) it takes from that attack."
+    "name": "Uncanny Dodge"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/humanoid/token/performer-xmm.webp"
 ```
 ^statblock

@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases: ["Monsters by Habitat; Urban Monsters"]
+aliases:
+- Monsters by Habitat; Urban Monsters
 ---
 # Monsters by Habitat; Urban Monsters
 *Source: Monster Manual (2024) p. 375* 

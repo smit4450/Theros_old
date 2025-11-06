@@ -11,8 +11,6 @@ tags:
 - ttrpg-cli/spell/subclass/oath-of-glory
 classes:
 - Bard
-- Bard
-- Paladin
 - Paladin
 - Paladin (Oath of Glory)
 aliases: ["Heroism"]
@@ -21,7 +19,7 @@ aliases: ["Heroism"]
 *1st-level, Enchantment*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -30,6 +28,6 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin); [Paladin (Oath of Glory)](list-spells-classes-paladin-xphb-oath-of-glory-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Paladin (Oath of Glory)](Compendium/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](Compendium/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 285. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 285. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

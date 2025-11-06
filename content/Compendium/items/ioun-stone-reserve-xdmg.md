@@ -27,4 +27,4 @@ Any creature can cast a spell of level 1 through 4 into the stone by touching it
 
 While this stone orbits your head, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster but is otherwise treated as if you cast the spell. The spell cast from the stone is no longer stored in it, freeing up space.
 
-*Source: Dungeon Master's Guide (2024) p. 273*
+*Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

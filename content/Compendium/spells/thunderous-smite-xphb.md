@@ -6,16 +6,17 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/evocation
+- ttrpg-cli/spell/subclass/oath-of-the-noble-genies
 classes:
 - Paladin
-- Paladin
+- Paladin (Oath of the Noble Genies)
 aliases: ["Thunderous Smite"]
 ---
 # Thunderous Smite
 *1st-level, Evocation*  
 
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Self
 - **Components:** V
 - **Duration:** Instantaneous
@@ -24,6 +25,6 @@ Your strike rings with thunder that is audible within 300 feet of you, and the t
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 1.
 
-**Classes**: [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin)
+**Classes**: [Paladin (Oath of the Noble Genies)](Compendium/lists/list-spells-classes-oath-of-the-noble-genies-frhof.md "subclass=FRHoF;class=XPHB"); [Paladin](Compendium/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook (2024) p. 334*

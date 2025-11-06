@@ -12,10 +12,7 @@ tags:
 classes:
 - Bard
 - Cleric
-- Cleric
 - Warlock
-- Warlock
-- Wizard
 - Wizard
 aliases: ["Create Undead"]
 ---
@@ -25,7 +22,7 @@ aliases: ["Create Undead"]
 
 - **Casting time:** 1 minute
 - **Range:** 10 feet
-- **Components:** V, S, one 150+ GP black onyx stone for each corpse
+- **Components:** V, S, M (one 150+ GP black onyx stone for each corpse)
 - **Duration:** Instantaneous
 
 You can cast this spell only at night. Choose up to three corpses of Medium or Small Humanoids within range. Each one becomes a [Ghoul](Compendium/bestiary/undead/ghoul-xmm.md) under your control (see the "Monster Manual" for its stat block).
@@ -36,6 +33,6 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **Using a Higher-Level Spell Slot.** If you use a level 7 spell slot, you can animate or reassert control over four [Ghouls](Compendium/bestiary/undead/ghoul-xmm.md). If you use a level 8 spell slot, you can animate or reassert control over five [Ghouls](Compendium/bestiary/undead/ghoul-xmm.md) or two [Ghasts](Compendium/bestiary/undead/ghast-xmm.md) or [Wights](Compendium/bestiary/undead/wight-xmm.md). If you use a level 9 spell slot, you can animate or reassert control over six [Ghouls](Compendium/bestiary/undead/ghoul-xmm.md), three [Ghasts](Compendium/bestiary/undead/ghast-xmm.md) or [Wights](Compendium/bestiary/undead/wight-xmm.md), or two [Mummies](Compendium/bestiary/undead/mummy-xmm.md). See the "Monster Manual" for these stat blocks.
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 258. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

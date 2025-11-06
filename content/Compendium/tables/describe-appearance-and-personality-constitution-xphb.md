@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Describe Appearance and Personality; Constitution"]
+aliases:
+- Describe Appearance and Personality; Constitution
 ---
 # Describe Appearance and Personality; Constitution
 *Source: Player's Handbook (2024) p. 38* 
 
 **Constitution**
-
-`dice: [](describe-appearance-and-personality-constitution-xphb.md#^constitution)`
 
 | dice: 1d4 | High Constitution | Low Constitution |
 |-----------|-------------------|------------------|

@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-reward
+cssclasses:
+- json5e-reward
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/blessing
-aliases: ["Blessing of Wound Closure"]
+aliases:
+- Blessing of Wound Closure
 ---
 # Blessing of Wound Closure
 

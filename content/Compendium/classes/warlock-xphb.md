@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/class/warlock
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Warlock"]
+aliases:
+- Warlock
 ---
 # Warlock
-*Source: Player's Handbook (2024) p. 152*  
+*Source: Player's Handbook (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -16,28 +18,29 @@ aliases: ["Warlock"]
 > <tr><th colspan='8'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value"><a href="Compendium/lists/list-optfeaturetype-ei.md">Invocations</a></th><th class="value">Cantrips</th><th class="value">Prepared Spells</th><th class="value">Spell Slots</th><th class="value">Slot Level</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Eldritch%20Invocations%20(Level%201)'>Eldritch Invocations</a>, <a href='#Pact%20Magic%20(Level%201)'>Pact Magic</a>, <a href='#Eldritch%20Invocation%20Options%20(Level%201)'>Eldritch Invocation Options</a></td><td class="value">1</td><td class="value">2</td><td class="value">2</td><td class="value">1</td><td class="value">1</td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Magical%20Cunning%20(Level%202)'>Magical Cunning</a></td><td class="value">3</td><td class="value">2</td><td class="value">3</td><td class="value">2</td><td class="value">1</td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Warlock%20Subclass%20(Level%203)'>Warlock Subclass</a></td><td class="value">3</td><td class="value">2</td><td class="value">4</td><td class="value">2</td><td class="value">2</td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">3</td><td class="value">5</td><td class="value">2</td><td class="value">2</td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Eldritch Invocations (Level 1)' class='internal-link'>Eldritch Invocations</a>, <a href='#Pact Magic (Level 1)' class='internal-link'>Pact Magic</a>, <a href='#Eldritch Invocation Options (Level 1)' class='internal-link'>Eldritch Invocation Options</a></td><td class="value">1</td><td class="value">2</td><td class="value">2</td><td class="value">1</td><td class="value">1</td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Magical Cunning (Level 2)' class='internal-link'>Magical Cunning</a></td><td class="value">3</td><td class="value">2</td><td class="value">3</td><td class="value">2</td><td class="value">1</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Warlock Subclass (Level 3)' class='internal-link'>Warlock Subclass</a></td><td class="value">3</td><td class="value">2</td><td class="value">4</td><td class="value">2</td><td class="value">2</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">3</td><td class="value">5</td><td class="value">2</td><td class="value">2</td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td><td class="value">5</td><td class="value">3</td><td class="value">6</td><td class="value">2</td><td class="value">3</td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Subclass%20Feature%20(Level%206)'>Subclass Feature</a></td><td class="value">5</td><td class="value">3</td><td class="value">7</td><td class="value">2</td><td class="value">3</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Subclass Feature (Level 6)' class='internal-link'>Subclass Feature</a></td><td class="value">5</td><td class="value">3</td><td class="value">7</td><td class="value">2</td><td class="value">3</td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td><td class="value">6</td><td class="value">3</td><td class="value">8</td><td class="value">2</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a></td><td class="value">6</td><td class="value">3</td><td class="value">9</td><td class="value">2</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Contact%20Patron%20(Level%209)'>Contact Patron</a></td><td class="value">7</td><td class="value">3</td><td class="value">10</td><td class="value">2</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Subclass%20Feature%20(Level%2010)'>Subclass Feature</a></td><td class="value">7</td><td class="value">4</td><td class="value">10</td><td class="value">2</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Mystic%20Arcanum%20(Level%2011)'>Mystic Arcanum</a></td><td class="value">7</td><td class="value">4</td><td class="value">11</td><td class="value">3</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td><td class="value">8</td><td class="value">4</td><td class="value">11</td><td class="value">3</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Mystic%20Arcanum%20(Level%2013)'>Mystic Arcanum</a></td><td class="value">8</td><td class="value">4</td><td class="value">12</td><td class="value">3</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Subclass%20Feature%20(Level%2014)'>Subclass Feature</a></td><td class="value">8</td><td class="value">4</td><td class="value">12</td><td class="value">3</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Mystic%20Arcanum%20(Level%2015)'>Mystic Arcanum</a></td><td class="value">9</td><td class="value">4</td><td class="value">13</td><td class="value">3</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td><td class="value">9</td><td class="value">4</td><td class="value">13</td><td class="value">3</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Mystic%20Arcanum%20(Level%2017)'>Mystic Arcanum</a></td><td class="value">9</td><td class="value">4</td><td class="value">14</td><td class="value">4</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td><td class="value">6</td><td class="value">3</td><td class="value">9</td><td class="value">2</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Contact Patron (Level 9)' class='internal-link'>Contact Patron</a></td><td class="value">7</td><td class="value">3</td><td class="value">10</td><td class="value">2</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Subclass Feature (Level 10)' class='internal-link'>Subclass Feature</a></td><td class="value">7</td><td class="value">4</td><td class="value">10</td><td class="value">2</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Mystic Arcanum (Level 11)' class='internal-link'>Mystic Arcanum</a></td><td class="value">7</td><td class="value">4</td><td class="value">11</td><td class="value">3</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">8</td><td class="value">4</td><td class="value">11</td><td class="value">3</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Mystic Arcanum (Level 13)' class='internal-link'>Mystic Arcanum</a></td><td class="value">8</td><td class="value">4</td><td class="value">12</td><td class="value">3</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Subclass Feature (Level 14)' class='internal-link'>Subclass Feature</a></td><td class="value">8</td><td class="value">4</td><td class="value">12</td><td class="value">3</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Mystic Arcanum (Level 15)' class='internal-link'>Mystic Arcanum</a></td><td class="value">9</td><td class="value">4</td><td class="value">13</td><td class="value">3</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">9</td><td class="value">4</td><td class="value">13</td><td class="value">3</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Mystic Arcanum (Level 17)' class='internal-link'>Mystic Arcanum</a></td><td class="value">9</td><td class="value">4</td><td class="value">14</td><td class="value">4</td><td class="value">5</td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td><td class="value">10</td><td class="value">4</td><td class="value">14</td><td class="value">4</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Epic%20Boon%20(Level%2019)'>Epic Boon</a></td><td class="value">10</td><td class="value">4</td><td class="value">15</td><td class="value">4</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Eldritch%20Master%20(Level%2020)'>Eldritch Master</a></td><td class="value">10</td><td class="value">4</td><td class="value">15</td><td class="value">4</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Epic Boon (Level 19)' class='internal-link'>Epic Boon</a></td><td class="value">10</td><td class="value">4</td><td class="value">15</td><td class="value">4</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Eldritch Master (Level 20)' class='internal-link'>Eldritch Master</a></td><td class="value">10</td><td class="value">4</td><td class="value">15</td><td class="value">4</td><td class="value">5</td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 ## Hit Points
 
@@ -70,7 +73,7 @@ Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked 
 
 ### Eldritch Invocations (Level 1)
 
-You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "[Eldritch Invocation Options](Compendium/lists/list-optfeaturetype-ei.md)" section later in this class's description.
+You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options^[Optional features from [Eldritch Invocation](Compendium/lists/list-optfeaturetype-ei.md); defined in Player's Handbook (2024)]" section later in this class's description.
 
 #### Prerequisites
 
@@ -96,7 +99,7 @@ When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of you
 
 #### Spell Slots
 
-The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
 
 For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [Witch Bolt](Compendium/spells/witch-bolt-xphb.md), you must spend one of those slots, and you cast it as a level 3 spell.
 

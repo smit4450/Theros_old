@@ -8,14 +8,13 @@ tags:
 - ttrpg-cli/spell/school/transmutation
 classes:
 - Paladin
-- Paladin
 aliases: ["Shining Smite"]
 ---
 # Shining Smite
 *2nd-level, Transmutation*  
 
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Self
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
@@ -24,6 +23,6 @@ The target hit by the strike takes an extra `2d6` Radiant damage from the attack
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 2.
 
-**Classes**: [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin)
+**Classes**: [Paladin](Compendium/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 316. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

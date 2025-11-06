@@ -12,9 +12,9 @@ statblock: inline
 aliases: ["Quasit"]
 ---
 # Quasit
-*Source: Monster Manual (2024) p. 252, Player's Handbook (2024) p. 355*  
+*Source: Monster Manual (2024) p. 252, Player's Handbook (2024) p. 355, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/quasit.webp#right)  
+![](Compendium/books/monster-manual-2025/img/quasit.webp#right)  
 ## Quasit
 
 *Demon of Discord and Disorder*
@@ -39,49 +39,53 @@ Quasits are usually overlooked and underestimated by other demons. This drives t
 "ac": !!int "13"
 "hp": !!int "25"
 "hit_dice": "10d4"
+"modifier": !!int "3"
 "stats":
-- !!int "5"
-- !!int "17"
-- !!int "10"
-- !!int "7"
-- !!int "10"
-- !!int "10"
+  - !!int "5"
+  - !!int "17"
+  - !!int "10"
+  - !!int "7"
+  - !!int "10"
+  - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "5"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 10"
 "languages": "Abyssal, Common"
 "cr": "1"
 "traits":
-- "desc": "The quasit casts [Invisibility](Compendium/spells/invisibility-xphb.md)\
-    \ on itself, requiring no spell components and using Charisma as the spellcasting\
-    \ ability.\n\nAt will: [Invisibility](Compendium/spells/invisibility-xphb.md)"
-  "name": "Invisibility"
-- "desc": "The quasit has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "The quasit has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Attack: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage,\
-    \ and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition\
-    \ until the start of the quasit's next turn."
-  "name": "Rend"
-- "desc": "Wisdom Saving Throw: DC 10, one creature within 20 feet. Failure: The\
-    \ target has the [Frightened](Compendium/rules/conditions.md#Frightened) condition.\
-    \ At the end of each of its turns, the target repeats the save, ending the effect\
-    \ on itself on a success. After 1 minute, it succeeds automatically."
-  "name": "Scare (1/Day)"
-- "desc": "The quasit shape-shifts to resemble a bat ([Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-    \ 10 ft., Fly 40 ft.), a centipede (40 ft., Climb 40 ft.), or a toad (40 ft.,\
-    \ Swim 40 ft.), or it returns to its true form. Its game statistics are the same\
-    \ in each form, except for its [Speed](Compendium/rules/variant-rules/speed-xphb.md).\
-    \ Any equipment it is wearing or carrying isn't transformed."
-  "name": "Shape-Shift"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Slashing\
+      \ damage, and the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ condition until the start of the quasit's next turn."
+    "name": "Rend"
+  - "desc": "*Wisdom Saving Throw:* DC 10, one creature within 20 feet. *Failure:*\
+      \ The target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ condition. At the end of each of its turns, the target repeats the save, ending\
+      \ the effect on itself on a success. After 1 minute, it succeeds automatically."
+    "name": "Scare (1/Day)"
+  - "desc": "The quasit shape-shifts to resemble a bat ([Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+      \ 10 ft., Fly 40 ft.), a centipede (40 ft., Climb 40 ft.), or a toad (40 ft.,\
+      \ Swim 40 ft.), or it returns to its true form. Its game statistics are the\
+      \ same in each form, except for its [Speed](Compendium/rules/variant-rules/speed-xphb.md).\
+      \ Any equipment it is wearing or carrying isn't transformed."
+    "name": "Shape-Shift"
+  - "desc": "The quasit casts [Invisibility](Compendium/spells/invisibility-xphb.md)\
+      \ on itself, requiring no spell components and using Charisma as the spellcasting\
+      \ ability.\n"
+    "name": "Invisibility"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
+  - "FRHoF"
 "image": "Compendium/bestiary/fiend/token/quasit-xmm.webp"
 ```
 ^statblock

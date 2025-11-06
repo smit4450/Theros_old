@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/magic-initiate
+- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
 - ttrpg-cli/spell/feat/ritual-caster
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
@@ -19,15 +19,13 @@ tags:
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Bard
-- Ranger
-- Ranger
-- Wizard
-- Wizard
-- Wizard (Abjurer)
-- Rogue (Arcane Trickster)
-- Sorcerer (Clockwork Sorcery)
 - Bard (College of Lore)
 - Fighter (Eldritch Knight)
+- Ranger
+- Rogue (Arcane Trickster)
+- Sorcerer (Clockwork Sorcery)
+- Wizard
+- Wizard (Abjurer)
 aliases: ["Alarm"]
 ---
 # Alarm
@@ -36,14 +34,14 @@ aliases: ["Alarm"]
 
 - **Casting time:** 1 minute unless cast as a ritual
 - **Range:** 30 feet
-- **Components:** V, S, a bell and silver wire
-- **Duration:** 8 hour
+- **Components:** V, S, M (a bell and silver wire)
+- **Duration:** 8 hours
 
-You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:
+You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md). Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:
 
 - **Audible Alarm.** The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area.  
 - **Mental Alarm.** You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you're asleep.  
 
-**Classes**: [Bard](list-spells-classes-bard); [Ranger](list-spells-classes-ranger); [Ranger](list-spells-classes-ranger); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Abjurer)](list-spells-classes-wizard-xphb-abjurer-xphb); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Sorcerer (Clockwork Sorcery)](list-spells-classes-sorcerer-xphb-clockwork-sorcery-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 239. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/spell/list/class/monk
-aliases: ["Monk Spells"]
+aliases:
+- Monk Spells
 ---
 # Monk Spells
 
 ## 9th Level
 
-- [Astral Projection](astral-projection-xphb "XPHB")
+- [Astral Projection](Compendium/spells/astral-projection-xphb.md "XPHB")

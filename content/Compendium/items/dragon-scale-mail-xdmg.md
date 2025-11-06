@@ -30,4 +30,4 @@ aliases:
 - [Silver Dragon Scale Mail](Compendium/items/silver-dragon-scale-mail-xdmg.md)
 - [White Dragon Scale Mail](Compendium/items/white-dragon-scale-mail-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 254*
+*Source: Dungeon Master's Guide (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

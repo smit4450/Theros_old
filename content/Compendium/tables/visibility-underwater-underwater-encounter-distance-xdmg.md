@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Visibility Underwater; Underwater Encounter Distance"]
+aliases:
+- Visibility Underwater; Underwater Encounter Distance
 ---
 # Visibility Underwater; Underwater Encounter Distance
 *Source: Dungeon Master's Guide (2024) p. 36* 

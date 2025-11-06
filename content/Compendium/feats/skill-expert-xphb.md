@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-feat
+cssclasses:
+- json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases: ["Skill Expert"]
+aliases:
+- Skill Expert
 ---
 # Skill Expert
 *Source: Player's Handbook (2024) p. 207*  
@@ -13,10 +15,8 @@ aliases: ["Skill Expert"]
 
 You gain the following benefits.
 
-## Skill Proficiency
+**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 20.
 
-You gain proficiency in one skill of your choice.
+**Skill Proficiency.** You gain proficiency in one skill of your choice.
 
-## Expertise
-
-Choose one skill in which you have proficiency but lack Expertise. You gain Expertise with that skill.
+**Expertise.** Choose one skill in which you have proficiency but lack [Expertise](Compendium/rules/variant-rules/expertise-xphb.md). You gain [Expertise](Compendium/rules/variant-rules/expertise-xphb.md) with that skill.

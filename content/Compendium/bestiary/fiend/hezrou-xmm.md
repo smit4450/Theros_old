@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Hezrou"]
 ---
 # Hezrou
-*Source: Monster Manual (2024) p. 167*  
+*Source: Monster Manual (2024) p. 167. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/fiend/img/hezrou.webp#right)  
 ## Hezrou
@@ -29,8 +29,6 @@ Hezrous serve more powerful demons, such as nalfeshnees and mariliths. They take
 When on the Material Plane or otherwise left to their own devices, hezrous recklessly indulge in destructive, short-sighted rampages. Only magic and threats from more powerful masters can curb these demons' outrages and compel hezrous to pursue greater plots. Powerful spellcasters often use sinister coercions, spells like [Magic Circle](Compendium/spells/magic-circle-xphb.md) and [Planar Binding](Compendium/spells/planar-binding-xphb.md), or other magic to force hezrous to serve them. Roll on or choose a result from the Demonic Undertakings table to inspire how a magic-user might employ a hezrou or similar demon.
 
 **Demonic Undertakings**
-
-`dice: [](hezrou-xmm.md#^demonic-undertakings)`
 
 | dice: 1d6 | The Demon Is Compelled To... |
 |-----------|------------------------------|
@@ -50,47 +48,50 @@ When on the Material Plane or otherwise left to their own devices, hezrous reckl
 "ac": !!int "18"
 "hp": !!int "157"
 "hit_dice": "15d10 + 75"
+"modifier": !!int "6"
 "stats":
-- !!int "19"
-- !!int "17"
-- !!int "20"
-- !!int "5"
-- !!int "12"
-- !!int "13"
+  - !!int "19"
+  - !!int "17"
+  - !!int "20"
+  - !!int "5"
+  - !!int "12"
+  - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "4"
-  "Strength": !!int "7"
-  "Constitution": !!int "8"
+  - "strength": !!int "7"
+  - "constitution": !!int "8"
+  - "wisdom": !!int "4"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 11"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "8"
 "traits":
-- "desc": "If the hezrou dies outside the Abyss, its body dissolves into ichor, and\
-    \ it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ somewhere in the Abyss."
-  "name": "Demonic Restoration"
-- "desc": "The hezrou has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
-- "desc": "Constitution Saving Throw: DC 16, any creature that starts its turn in\
-    \ a 10-foot [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the hezrou. Failure: The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-    \ condition until the start of its next turn."
-  "name": "Stench"
+  - "desc": "If the hezrou dies outside the Abyss, its body dissolves into ichor,\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ somewhere in the Abyss."
+    "name": "Demonic Restoration"
+  - "desc": "The hezrou has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "*Constitution Saving Throw:* DC 16, any creature that starts its turn\
+      \ in a 10-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the hezrou. *Failure:* The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ condition until the start of its next turn."
+    "name": "Stench"
 "actions":
-- "desc": "The hezrou makes three Rend attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 6 (1d4 + 4) Slashing damage\
-    \ plus 9 (2d8) Poison damage."
-  "name": "Rend"
+  - "desc": "The hezrou makes three Rend attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 6 (1d4 + 4) Slashing\
+      \ damage plus 9 (2d8) Poison damage."
+    "name": "Rend"
 "bonus_actions":
-- "desc": "The hezrou jumps up to 30 feet by spending 10 feet of movement."
-  "name": "Leap"
+  - "desc": "The hezrou jumps up to 30 feet by spending 10 feet of movement."
+    "name": "Leap"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/fiend/token/hezrou-xmm.webp"
 ```
 ^statblock

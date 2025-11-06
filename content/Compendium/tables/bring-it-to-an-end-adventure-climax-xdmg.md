@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Bring It to an End; Adventure Climax"]
+aliases:
+- Bring It to an End; Adventure Climax
 ---
 # Bring It to an End; Adventure Climax
 *Source: Dungeon Master's Guide (2024) p. 120* 
 
 **Adventure Climax**
-
-`dice: [](bring-it-to-an-end-adventure-climax-xdmg.md#^adventure-climax)`
 
 | dice: 1d10 | Climax |
 |------------|--------|

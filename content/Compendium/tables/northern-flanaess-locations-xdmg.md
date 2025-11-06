@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Northern Flanaess Locations"]
+aliases:
+- Northern Flanaess Locations
 ---
 # Northern Flanaess Locations
 *Source: Dungeon Master's Guide (2024) p. 165* 

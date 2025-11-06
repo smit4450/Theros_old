@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
 - ttrpg-cli/monster/legendary-group
-aliases: ["Silver Dragon"]
+aliases:
+- Silver Dragon
 ---
 # Silver Dragon
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual (2024)_
 
 The region containing an adult or ancient silver dragon's lair is changed by its magic, creating the following effects:

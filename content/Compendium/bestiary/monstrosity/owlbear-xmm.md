@@ -11,9 +11,9 @@ statblock: inline
 aliases: ["Owlbear"]
 ---
 # Owlbear
-*Source: Monster Manual (2024) p. 234*  
+*Source: Monster Manual (2024) p. 234, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/owlbear.webp#right)  
+![](Compendium/bestiary/monstrosity/img/owlbears.webp#right)  
 Owlbears are tenacious hunters that might track prey over miles and rarely give up their hunts.
 
 ## Owlbears
@@ -28,8 +28,6 @@ Created long ago by misguided mages, owlbears combine keen avian eyes, thick fea
 Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear Den Features table to inspire an owlbear den's noteworthy traits.
 
 **Owlbear Den Features**
-
-`dice: [](owlbear-xmm.md#^owlbear-den-features)`
 
 | dice: 1d4 | An Owlbear Den Contains... |
 |-----------|----------------------------|
@@ -48,25 +46,31 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
 "ac": !!int "13"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
+"modifier": !!int "1"
 "stats":
-- !!int "20"
-- !!int "12"
-- !!int "17"
-- !!int "3"
-- !!int "12"
-- !!int "7"
+  - !!int "20"
+  - !!int "12"
+  - !!int "17"
+  - !!int "3"
+  - !!int "12"
+  - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  "Perception": !!int "5"
-"senses": "darkvision 60 ft., passive Perception 15"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 15"
 "languages": ""
 "cr": "3"
 "actions":
-- "desc": "The owlbear makes two Rend attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 14 (2d8 + 5) Slashing damage."
-  "name": "Rend"
+  - "desc": "The owlbear makes two Rend attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (2d8 + 5) Slashing\
+      \ damage."
+    "name": "Rend"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/monstrosity/token/owlbear-xmm.webp"
 ```
 ^statblock

@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Armor of Necrotic Resistance"
 - "Breastplate of Necrotic Resistance"
@@ -28,7 +29,7 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to {{getFullImmRes item.resist}} damage while you wear this armor.
+You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to necrotic damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Necrotic Resistance](#Breastplate%20of%20Necrotic%20Resistance)
@@ -115,4 +116,4 @@ You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to {{ge
 - **Weight**: 13.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 231. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

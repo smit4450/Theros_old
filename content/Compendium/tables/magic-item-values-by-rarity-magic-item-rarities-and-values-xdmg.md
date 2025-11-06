@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Magic Item Values by Rarity; Magic Item Rarities and Values"]
+aliases:
+- Magic Item Values by Rarity; Magic Item Rarities and Values
 ---
 # Magic Item Values by Rarity; Magic Item Rarities and Values
 *Source: Dungeon Master's Guide (2024) p. 217* 

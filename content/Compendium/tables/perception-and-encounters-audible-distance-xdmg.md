@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Perception and Encounters; Audible Distance"]
+aliases:
+- Perception and Encounters; Audible Distance
 ---
 # Perception and Encounters; Audible Distance
 *Source: Dungeon Master's Guide (2024) p. 34* 

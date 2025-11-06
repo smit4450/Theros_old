@@ -13,7 +13,7 @@ aliases:
 *Weapon*  
 
 
-- **Damage**: 1d6 Y
+- **Damage**: 1d6 psychic
 - **Range**: 60/120
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Thrown](Compendium/rules/item-properties.md#Thrown)
 

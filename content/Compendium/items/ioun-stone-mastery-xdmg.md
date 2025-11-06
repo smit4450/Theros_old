@@ -21,6 +21,6 @@ Each *Ioun Stone* orbiting your head is considered to be an object you are weari
 
 As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [Attunement](Compendium/rules/variant-rules/attunement-xphb.md) to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
 
-Your [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md) increases by 1 while this pale green prism orbits your head.
+Your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) increases by 1 while this pale green prism orbits your head.
 
-*Source: Dungeon Master's Guide (2024) p. 273*
+*Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

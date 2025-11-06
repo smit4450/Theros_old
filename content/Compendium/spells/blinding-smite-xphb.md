@@ -5,9 +5,9 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/level/3rd-level
+- ttrpg-cli/spell/reward/mogiss-votary
 - ttrpg-cli/spell/school/evocation
 classes:
-- Paladin
 - Paladin
 aliases: ["Blinding Smite"]
 ---
@@ -15,7 +15,7 @@ aliases: ["Blinding Smite"]
 *3rd-level, Evocation*  
 
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** Self
 - **Components:** V
 - **Duration:** 1 minute
@@ -24,6 +24,6 @@ The target hit by the strike takes an extra `3d8` Radiant damage from the attack
 
 **Using a Higher-Level Spell Slot.** The extra damage increases by `1d8` for each spell slot level above 3.
 
-**Classes**: [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin)
+**Classes**: [Paladin](Compendium/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook (2024) p. 247*

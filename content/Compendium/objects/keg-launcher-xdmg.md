@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-object
+cssclasses:
+- json5e-object
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/large
 - ttrpg-cli/object/type/siege-weapon
-aliases: ["Keg Launcher"]
+aliases:
+- Keg Launcher
 ---
 # Keg Launcher
 %%-- Embedded content starts on the next line. --%%
@@ -29,6 +31,6 @@ title: Keg Launcher
 
 ## Actions
 
-***Toxic Keg (Requires Load and Aim).*** *Constitution Saving Throw:* DC 15, each creature in a 20-foot-radius [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point 30 to 300 feet from the launcher. *Failure:* 14 (`4d6`) Poison damage. *Success:* Half damage.
+***Toxic Keg (Requires Load and Aim).*** *Constitution Saving Throw:* DC 15, each creature in a 20-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point 30 to 300 feet from the launcher. *Failure:* 14 (`4d6`) Poison damage. *Success:* Half damage.
 ```
 ^statblock

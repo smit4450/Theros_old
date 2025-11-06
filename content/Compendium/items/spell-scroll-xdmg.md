@@ -26,4 +26,4 @@ aliases:
 - [Spell Scroll (Level 8)](Compendium/items/spell-scroll-level-8-xdmg.md)
 - [Spell Scroll (Level 9)](Compendium/items/spell-scroll-level-9-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 305. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

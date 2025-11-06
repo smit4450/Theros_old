@@ -14,7 +14,7 @@ aliases: ["Grick Ancient"]
 # Grick Ancient
 *Source: Monster Manual (2024) p. 158*  
 
-![](Compendium/bestiary/aberration/img/grick-ancient.webp#right)  
+![](Compendium/bestiary/aberration/img/gricks.webp#right)  
 Gricks can live for centuries, with the eldest growing to monstrous sizes. Grick ancients actively hunt more than they wait in ambush, and they have no qualms about devouring smaller gricks.
 
 ## Gricks
@@ -37,33 +37,38 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
 "ac": !!int "18"
 "hp": !!int "135"
 "hit_dice": "18d10 + 36"
+"modifier": !!int "3"
 "stats":
-- !!int "18"
-- !!int "16"
-- !!int "15"
-- !!int "4"
-- !!int "14"
-- !!int "9"
+  - !!int "18"
+  - !!int "16"
+  - !!int "15"
+  - !!int "4"
+  - !!int "14"
+  - !!int "9"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": !!int "6"
-"senses": "darkvision 60 ft., passive Perception 12"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 12"
 "languages": ""
 "cr": "7"
 "actions":
-- "desc": "The grick makes one Beak attack, one Slam attack, and one Tentacles attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 10 ft. Hit: 22 (4d8 + 4) Piercing damage."
-  "name": "Beak"
-- "desc": "Melee Attack: +7, reach 10 ft. Hit: 7 (1d6 + 4) Bludgeoning damage.\
-    \ If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
-    \ condition."
-  "name": "Slam"
-- "desc": "Melee Attack: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage.\
-    \ If the target is a Large or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
-    \ condition (escape DC 14) from all four tentacles."
-  "name": "Tentacles"
+  - "desc": "The grick makes one Beak attack, one Slam attack, and one Tentacles attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 22 (4d8 + 4) Piercing\
+      \ damage."
+    "name": "Beak"
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 7 (1d6 + 4) Bludgeoning\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Slam"
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 15 (2d10 + 4) Slashing\
+      \ damage. If the target is a Large or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 14) from all four tentacles."
+    "name": "Tentacles"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/aberration/token/grick-ancient-xmm.webp"
 ```
 ^statblock

@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Luck Blade"
 - "Luck Glaive"
@@ -44,47 +45,47 @@ The weapon has `1d3` charges. While holding it, you can expend 1 charge and cast
 
 ### Luck Glaive
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Luck Greatsword
 
-- **Damage**: 2d6 S
+- **Damage**: 2d6 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Luck Longsword
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Luck Rapier
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Luck Scimitar
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Luck Shortsword
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Luck Sickle
 
-- **Damage**: 1d4 S
+- **Damage**: 1d4 slashing
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 275*
+*Source: Dungeon Master's Guide (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

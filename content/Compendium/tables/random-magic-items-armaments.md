@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Random Magic Items - Armaments"]
+aliases:
+- Random Magic Items - Armaments
 ---
 # Random Magic Items - Armaments
 *Source: Dungeon Master's Guide (2024) p. 328* 
 
 **Armaments - Common**
-
-`dice: [](random-magic-items-armaments.md#^armaments-common)`
 
 | dice: 1d100 | Item |
 |-------------|------|
@@ -27,8 +27,6 @@ aliases: ["Random Magic Items - Armaments"]
 ^armaments-common
 
 **Armaments - Uncommon**
-
-`dice: [](random-magic-items-armaments.md#^armaments-uncommon)`
 
 | dice: 1d100 | Item |
 |-------------|------|
@@ -56,8 +54,6 @@ aliases: ["Random Magic Items - Armaments"]
 ^armaments-uncommon
 
 **Armaments - Rare**
-
-`dice: [](random-magic-items-armaments.md#^armaments-rare)`
 
 | dice: 1d100 | Item |
 |-------------|------|
@@ -101,8 +97,6 @@ aliases: ["Random Magic Items - Armaments"]
 
 **Armaments - Very Rare**
 
-`dice: [](random-magic-items-armaments.md#^armaments-very-rare)`
-
 | dice: 1d100 | Item |
 |-------------|------|
 | 01–03 | [Ammunition, +3](Compendium/items/3-ammunition-xdmg.md) |
@@ -141,8 +135,6 @@ aliases: ["Random Magic Items - Armaments"]
 ^armaments-very-rare
 
 **Armaments - Legendary**
-
-`dice: [](random-magic-items-armaments.md#^armaments-legendary)`
 
 | dice: 1d100 | Item |
 |-------------|------|

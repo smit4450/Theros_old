@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Enspelled Armor (Level 1)"
 - "Enspelled (Level 1) Breastplate"

@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-feat
+cssclasses:
+- json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases: ["Mage Slayer"]
+aliases:
+- Mage Slayer
 ---
 # Mage Slayer
 *Source: Player's Handbook (2024) p. 205*  
@@ -13,10 +15,8 @@ aliases: ["Mage Slayer"]
 
 You gain the following benefits.
 
-## Concentration Breaker
+**Ability Score Increase.** Increase your Strength or Dexterity by 1, to a maximum of 20.
 
-When you damage a creature that is [Concentrating](Compendium/rules/conditions.md#Concentration), it has Disadvantage on the saving throw it makes to maintain [Concentration](Compendium/rules/conditions.md#Concentration).
+**Concentration Breaker.** When you damage a creature that is [Concentrating](Compendium/rules/conditions.md#Concentration), it has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on the saving throw it makes to maintain [Concentration](Compendium/rules/conditions.md#Concentration).
 
-## Guarded Mind
-
-If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a Short or Long Rest.
+**Guarded Mind.** If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).

@@ -16,6 +16,6 @@ You can take a [Magic](Compendium/rules/actions.md#Magic) action to blow this ho
 
 A iron horn summons 5 [Berserkers](Compendium/bestiary/humanoid/berserker-xmm.md). To use the iron horn, you must have [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md) with all Martial weapons.
 
-If you blow the horn without meeting its requirement, the summoned [Berserkers](Compendium/bestiary/humanoid/berserker-xmm.md) attack you. If you meet the requirement, they are [Friendly [Attitude]](Compendium/rules/variant-rules/friendly-attitude-xphb.md) to you and your allies and follow your commands.
+If you blow the horn without meeting its requirement, the summoned [Berserkers](Compendium/bestiary/humanoid/berserker-xmm.md) attack you. If you meet the requirement, they are [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md) to you and your allies and follow your commands.
 
-*Source: Dungeon Master's Guide (2024) p. 270*
+*Source: Dungeon Master's Guide (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

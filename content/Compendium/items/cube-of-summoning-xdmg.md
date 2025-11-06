@@ -20,8 +20,6 @@ Once the cube summons a creature, the cube can't do so again until the next dawn
 
 **Cube of Summoning**
 
-`dice: [](cube-of-summoning-xdmg.md#^cube-of-summoning)`
-
 | dice: 1d6 | Spell |
 |-----------|-------|
 | 1 | [Summon Aberration](Compendium/spells/summon-aberration-xphb.md) |

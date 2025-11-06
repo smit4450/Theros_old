@@ -19,15 +19,13 @@ aliases: ["Flameskull"]
 *Skull Smoldering with Magical Obsession*
 
 - **Habitat.** Underdark  
-- **Treasure.** Arcana  
+- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
 
 Flameskulls are flying skulls that blaze with magical fire and the half-remembered arcana of dead spellcasters. They rise from the remains of dead magic-users who were reanimated by sinister necromancers or whose magical pursuits drive them beyond death. Flameskulls might serve as guardians for their creators or pursue ambitions left unfulfilled in life. They lash out at foes with destructive spells and bursts of fire, wielding magic without the need for most components.
 
 Flameskulls take various forms, from skulls with humanlike features to ones with fearsome or bestial alterations. Their flames vary in color and grow more intense when they're angry. Roll on or choose a result from the Flameskull Details table to inspire what makes a flameskull distinctive.
 
 **Flameskull Details**
-
-`dice: [](flameskull-xmm.md#^flameskull-details)`
 
 | dice: 1d6 | The Flameskull Features... |
 |-----------|----------------------------|
@@ -51,49 +49,55 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
 "ac": !!int "13"
 "hp": !!int "40"
 "hit_dice": "9d4 + 18"
+"modifier": !!int "3"
 "stats":
-- !!int "1"
-- !!int "17"
-- !!int "14"
-- !!int "16"
-- !!int "10"
-- !!int "11"
+  - !!int "1"
+  - !!int "17"
+  - !!int "14"
+  - !!int "16"
+  - !!int "10"
+  - !!int "11"
 "speed": "5 ft., fly 40 ft. (hover)"
 "skillsaves":
-  "Perception": !!int "2"
-  "Arcana": !!int "5"
+  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+    "desc": "+5"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+2"
 "damage_immunities": "fire, necrotic, poison"
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [frightened](Compendium/rules/conditions.md#Frightened), [paralyzed](Compendium/rules/conditions.md#Paralyzed),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned), [prone](Compendium/rules/conditions.md#Prone)"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 12"
 "languages": "Common plus two other languages"
 "cr": "4"
 "traits":
-- "desc": "The flameskull casts one of the following spells, requiring no Somatic\
-    \ or Material components and using Intelligence as the spellcasting ability (spell\
-    \ save DC 13):\n\nAt will: [Mage Hand](Compendium/spells/mage-hand-xphb.md)\n\
-    \n1/day: [Fireball](Compendium/spells/fireball-xphb.md)\n\n2/day: [Magic\
-    \ Missile](Compendium/spells/magic-missile-xphb.md) (level 2 version)"
-  "name": "Spellcasting"
-- "desc": "The flameskull sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
-    \ in a 15-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-    \ for an additional 15 feet."
-  "name": "Illumination"
-- "desc": "The flameskull has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
-- "desc": "If the flameskull is destroyed, it regains all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ in 1 hour unless Holy Water is sprinkled on its remains or the [Dispel Evil\
-    \ and Good](Compendium/spells/dispel-evil-and-good-xphb.md) spell is cast on them."
-  "name": "Undead Restoration"
+  - "desc": "The flameskull sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
+      \ in a 15-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
+      \ for an additional 15 feet."
+    "name": "Illumination"
+  - "desc": "The flameskull has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "If the flameskull is destroyed, it regains all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ in 1 hour unless Holy Water is sprinkled on its remains or the [Dispel Evil\
+      \ and Good](Compendium/spells/dispel-evil-and-good-xphb.md) spell is cast on\
+      \ them."
+    "name": "Undead Restoration"
 "actions":
-- "desc": "The flameskull makes two Fire Ray attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack: +5, reach 5 ft. or range 60 ft. Hit: 13 (3d6\
-    \ + 3) Fire damage."
-  "name": "Fire Ray"
+  - "desc": "The flameskull makes two Fire Ray attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +5, reach 5 ft. or range 60 ft. *Hit:*\
+      \ 13 (3d6 + 3) Fire damage."
+    "name": "Fire Ray"
+  - "desc": "The flameskull casts one of the following spells, requiring no Somatic\
+      \ or Material components and using Intelligence as the spellcasting ability\
+      \ (spell save DC 13):\n\n**At will:** [Mage Hand](Compendium/spells/mage-hand-xphb.md)\n\
+      \n**2/day:** [Magic Missile](Compendium/spells/magic-missile-xphb.md) (level\
+      \ 2 version)\n\n**1/day:** [Fireball](Compendium/spells/fireball-xphb.md)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/undead/token/flameskull-xmm.webp"
 ```
 ^statblock

@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Executioner's Axe"
 - "Executioner's Battleaxe"
@@ -32,26 +33,26 @@ Any Humanoid you hit with the weapon takes an extra `2d6` Slashing damage, and y
 ### Executioner's Battleaxe
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Executioner's Greataxe
 
-- **Damage**: 1d12 S
+- **Damage**: 1d12 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Executioner's Halberd
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Executioner's Handaxe
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Range**: 20/60
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.

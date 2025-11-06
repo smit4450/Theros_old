@@ -26,8 +26,6 @@ While in control of the sphere, you can take a [Bonus Action](Compendium/rules/v
 
 If the sphere comes into contact with a planar portal (such as that created by the [Gate](Compendium/spells/gate-xphb.md) spell) or an extradimensional space (such as that within a Portable Hole), the DM determines randomly what happens using the following table.
 
-`dice: [](sphere-of-annihilation-xdmg.md#^1-result)`
-
 | dice: 1d100 | Result |
 |-------------|--------|
 | 01-50 | The sphere is destroyed. |
@@ -35,4 +33,4 @@ If the sphere comes into contact with a planar portal (such as that created by t
 | 86-00 | A spatial rift sends the sphere and each creature and object within 180 feet of the sphere to a random plane of existence. |
 ^1-result
 
-*Source: Dungeon Master's Guide (2024) p. 306*
+*Source: Dungeon Master's Guide (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

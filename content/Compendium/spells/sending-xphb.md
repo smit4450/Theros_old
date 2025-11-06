@@ -15,25 +15,22 @@ tags:
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Bard
-- Bard
-- Cleric
-- Cleric
-- Wizard
-- Wizard
-- Sorcerer (Aberrant Sorcery)
-- Rogue (Arcane Trickster)
 - Bard (College of Lore)
-- Wizard (Diviner)
+- Cleric
 - Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Sorcerer (Aberrant Sorcery)
+- Wizard
+- Wizard (Diviner)
 aliases: ["Sending"]
 ---
 # Sending
 *3rd-level, Divination*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Unlimited
-- **Components:** V, S, a copper wire
+- **Components:** V, S, M (a copper wire)
 - **Duration:** Instantaneous
 
 You send a short message of 25 words or fewer to a creature you have met or a creature described to you by someone who has met it. The target hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables targets to understand the meaning of your message.
@@ -42,6 +39,6 @@ You can send the message across any distance and even to other planes of existen
 
 Upon receiving your message, a creature can block your ability to reach it again with this spell for 8 hours. If you try to send another message during that time, you learn that you are blocked, and the spell fails.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Sorcerer (Aberrant Sorcery)](list-spells-classes-sorcerer-xphb-aberrant-sorcery-xphb); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Wizard (Diviner)](list-spells-classes-wizard-xphb-diviner-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Aberrant Sorcery)](Compendium/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 314. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

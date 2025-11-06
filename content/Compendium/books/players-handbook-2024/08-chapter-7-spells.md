@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Chapter 7: Spells"]
+aliases:
+- Chapter 7: Spells
 ---
 # Chapter 7: Spells
 *Source: Player's Handbook (2024), p. 235* 
@@ -114,7 +116,7 @@ A Verbal component is the chanting of esoteric words that sound like nonsense to
 
 > [!note] Creating Verbal Components
 > 
-> If you'd like to say a spell's Verbal component, you may make up the words. However you make them, the goal is to create something that's easy to say and that doesn't mean anything in the real world. Consider this method: take the name of the spell, keep only one instance of each of its letters, and rearrange the remaining letters into words. For example, remove the second *l* from [Fireball](Compendium/spells/fireball-xphb.md) and rearrange the remaining letters to create *Ber Fila* or*Fel Bira*.
+> If you'd like to say a spell's Verbal component, you may make up the words. However you make them, the goal is to create something that's easy to say and that doesn't mean anything in the real world. Consider this method: take the name of the spell, keep only one instance of each of its letters, and rearrange the remaining letters into words. For example, remove the second *l* from [Fireball](Compendium/spells/fireball-xphb.md) and rearrange the remaining letters to create *Ber Fila* or *Fel Bira*.
 ^creating-verbal-components
 
 #### Somatic (S)
@@ -145,15 +147,15 @@ A typical spell requires the caster to pick one or more targets to be affected b
 
 ##### A Clear Path to the Target
 
-To target something with a spell, a caster must have a clear path to it, so it can't be behind [Cover](Compendium/rules/variant-rules/cover-xphb.md).
+To target something with a spell, a caster must have a clear path to it, so it can't be behind [Total Cover](Compendium/rules/variant-rules/cover-xphb.md).
 
 ##### Targeting Yourself
 
-If a spell targets a creature of your choice, you can choose yourself unless the creature must be [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md) or specifically a creature other than you.
+If a spell targets a creature of your choice, you can choose yourself unless the creature must be [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) or specifically a creature other than you.
 
 ##### Areas of Effect
 
-Some spells, such as [Thunderwave](Compendium/spells/thunderwave-xphb.md), cover an area called an [area of effect](Compendium/rules/variant-rules/area-of-effect-xphb.md), which is defined in the "rules glossary". The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: [Cone [Area of Effect]](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md), [Cube [Area of Effect]](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md), [Cylinder [Area of Effect]](Compendium/rules/variant-rules/cylinder-area-of-effect-xphb.md), [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md), [Line [Area of Effect]](Compendium/rules/variant-rules/line-area-of-effect-xphb.md), or [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md).
+Some spells, such as [Thunderwave](Compendium/spells/thunderwave-xphb.md), cover an area called an [area of effect](Compendium/rules/variant-rules/area-of-effect-xphb.md), which is defined in the "rules glossary". The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md), [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md), [Cylinder](Compendium/rules/variant-rules/cylinder-area-of-effect-xphb.md), [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md), [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md), or [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md).
 
 ![](Compendium/books/players-handbook-2024/img/183-08-003-areas-of-effect.webp#center)
 
@@ -171,13 +173,13 @@ If the spell normally has no effect on a target that succeeds on a saving throw,
 
 Many spells specify that a target makes a saving throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure. Here's how to calculate the DC for your spells:
 
-<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Spellcasting modifier</span>
+<span class='abilityDc'>**Spell save DC**: Spellcasting + Proficiency Bonus</span>
 
 #### Attack Rolls
 
 Some spells require the caster to make an attack roll to determine whether the spell hits a target. Here's how to calculate the attack modifier for your spells:
 
-<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Spellcasting modifier</span>
+<span class='abilityAttackMod'>**Spell attack modifier**: Spellcasting + Proficiency Bonus</span>
 
 #### Combining Spell Effects
 

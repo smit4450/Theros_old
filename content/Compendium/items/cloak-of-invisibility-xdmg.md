@@ -15,4 +15,4 @@ aliases:
 
 This cloak has 3 charges and regains `1d3` expended charges daily at dawn. While wearing the cloak, you can take a [Magic](Compendium/rules/actions.md#Magic) action to pull its hood over your head and expend 1 charge to give yourself the [Invisible](Compendium/rules/conditions.md#Invisible) condition for 1 hour. The effect ends early if you pull the hood down (no action required) or cease wearing the hood.
 
-*Source: Dungeon Master's Guide (2024) p. 244. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/spell/subclass/oath-of-glory
 classes:
 - Bard
-- Bard
 - Paladin (Oath of Glory)
 aliases: ["Compulsion"]
 ---
@@ -17,7 +16,7 @@ aliases: ["Compulsion"]
 *4th-level, Enchantment*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -26,6 +25,6 @@ Each creature of your choice that you can see within range must succeed on a Wis
 
 For the duration, you can take a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) to designate a direction that is horizontal to you. Each [Charmed](Compendium/rules/conditions.md#Charmed) target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Paladin (Oath of Glory)](list-spells-classes-paladin-xphb-oath-of-glory-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Paladin (Oath of Glory)](Compendium/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 252. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

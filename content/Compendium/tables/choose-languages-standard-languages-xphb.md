@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Choose Languages; Standard Languages"]
+aliases:
+- Choose Languages; Standard Languages
 ---
 # Choose Languages; Standard Languages
-*Source: Player's Handbook (2024) p. 37* 
+*Source: Player's Handbook (2024) p. 37. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 **Standard Languages**
-
-`dice: [](choose-languages-standard-languages-xphb.md#^standard-languages)`
 
 | dice: 1d12 | Language | Origin |
 |------------|----------|--------|

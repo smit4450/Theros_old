@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Chapter 3: DM's Toolbox"]
+aliases:
+- Chapter 3: DM's Toolbox
 ---
 # Chapter 3: DM's Toolbox
 *Source: Dungeon Master's Guide (2024), p. 51* 
@@ -44,7 +46,7 @@ Alignment can help you determine how a creature behaves in your game in two simp
 
 #### Starting Attitude
 
-A creature's alignment can help you determine the creature's attitude in an encounter. A Chaotic Evil monster is likely to be [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md), while a Lawful Good one is more likely to have a [Friendly [Attitude]](Compendium/rules/variant-rules/friendly-attitude-xphb.md) attitude, ready to help those in need.
+A creature's alignment can help you determine the creature's attitude in an encounter. A Chaotic Evil monster is likely to be [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md), while a Lawful Good one is more likely to have a [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md) attitude, ready to help those in need.
 
 #### Personality
 
@@ -76,13 +78,13 @@ Participants in the chase are strongly motivated to take the [Dash](Compendium/r
 
 #### Dashing
 
-A chase participant can take the [Dash](Compendium/rules/actions.md#Dash) action a number of times equal to 3 plus its Constitution modifier (minimum of once). Each additional Dash action it takes during the chase requires the creature to succeed on a DC 10 Constitution saving throw at the end of its turn or gain 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level. A participant drops out of the chase if its Speed is 0.
+A chase participant can take the [Dash](Compendium/rules/actions.md#Dash) action a number of times equal to 3 plus its Constitution modifier (minimum of once). Each additional Dash action it takes during the chase requires the creature to succeed on a DC 10 Constitution saving throw at the end of its turn or gain 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level. A participant drops out of the chase if it has 5 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) levels. A creature can remove the [Exhaustion](Compendium/rules/conditions.md#Exhaustion) levels it gained during the chase by finishing a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
 
 #### Spells and Attacks
 
 A chase participant can make attacks and cast spells against other creatures within range.
 
-Chase participants can't normally make [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack) against each other, since they are all assumed to be moving in the same direction at the same time. However, participants can still be the targets of Opportunity Attacks from creatures not participating in the chase. For example, adventurers who chase a thief past a gang of ruffians might provoke Opportunity Attacks from the ruffians.
+Chase participants can't normally make [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack) against each other, since they are all assumed to be moving in the same direction at the same time. However, participants can still be the targets of [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack) from creatures not participating in the chase. For example, adventurers who chase a thief past a gang of ruffians might provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack) from the ruffians.
 
 ### Ending a Chase
 
@@ -219,24 +221,24 @@ You can also use traits from other stat blocks in the "Monster Manual", provided
 - **Battle Ready.** The creature has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) rolls.  
 - **Beast Whisperer.** The creature can communicate with Beasts as if they shared a common language.  
 - **Death Jinx.** When the creature dies, one random creature within 10 feet of the dead creature is targeted by a [Bane](Compendium/spells/bane-xphb.md) spell (save DC 13), which lasts for its full duration.  
-- **Dimensional Disruption.** Disruptive energy extends from the creature in a 30-foot [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md). Other creatures can't teleport to or from a space in that area. Any attempt to do so is wasted.  
-- **Disciple of the Nine Hells.** When the creature dies, its body disgorges a [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md) [Imp](Compendium/bestiary/fiend/imp-xmm.md) in the same space.  
+- **Dimensional Disruption.** Disruptive energy extends from the creature in a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md). Other creatures can't teleport to or from a space in that area. Any attempt to do so is wasted.  
+- **Disciple of the Nine Hells.** When the creature dies, its body disgorges a [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) [Imp](Compendium/bestiary/fiend/imp-xmm.md) in the same space.  
 - **Disintegration.** When the creature dies, its body and nonmagical possessions turn to dust. Any magic items it possessed are left behind in its space.  
-- **Emissary of Juiblex.** When the creature dies, its body disgorges a [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md) [Ochre Jelly](Compendium/bestiary/ooze/ochre-jelly-xmm.md) in the same space.  
+- **Emissary of Juiblex.** When the creature dies, its body disgorges a [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) [Ochre Jelly](Compendium/bestiary/ooze/ochre-jelly-xmm.md) in the same space.  
 - **Fey Ancestry.** The creature has Advantage on saving throws it makes to avoid or end the [Charmed](Compendium/rules/conditions.md#Charmed) condition, and magic can't put it to sleep.  
 - **Forbiddance.** The creature can't enter a residence without an invitation from one of its occupants.  
-- **Gloom Shroud.** Imperceptible energy channeled from the "Shadowfell" extends from the creature in a 20-foot [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md). Other creatures in that area have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on Charisma checks and Charisma saving throws.  
+- **Gloom Shroud.** Imperceptible energy channeled from the "Shadowfell" extends from the creature in a 20-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md). Other creatures in that area have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on Charisma checks and Charisma saving throws.  
 - **Light.** The creature sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) in a 10-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 10 feet. As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), the creature can suppress this light or cause it to return. The light winks out if the creature dies.  
 - **Mimicry.** The creature can mimic Beast sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](Compendium/rules/skills.md#Insight)) check.  
 - **Poison Tolerant.** The creature has Advantage on saving throws it makes to avoid or end the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition.  
 - **Resonant Connection.** The creature has a supernatural connection to another creature or an object and knows the most direct route to it, provided the two are within 1 mile of each other.  
 - **Siege Monster.** The creature deals double damage to objects and structures.  
-- **Slaad Host.** When the creature dies, a [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md) [Slaad Tadpole](Compendium/bestiary/aberration/slaad-tadpole-xmm.md) bursts from its innards in the same space.  
+- **Slaad Host.** When the creature dies, a [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) [Slaad Tadpole](Compendium/bestiary/aberration/slaad-tadpole-xmm.md) bursts from its innards in the same space.  
 - **Steadfast.** The creature has [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to the [Frightened](Compendium/rules/conditions.md#Frightened) condition while it can see an ally within 30 feet of itself.  
 - **Telepathic Bond.** The creature is linked psychically to another creature. While both are on the same plane of existence, they can communicate telepathically with each other.  
 - **Telepathic Shroud.** The creature is immune to any effect that would sense its emotions or read its thoughts, as well as to spells from the school of Divination. As a Bonus Action, the creature can suppress this trait or reactivate it.  
 - **Ventriloquism.** Whenever the creature speaks, it can choose a point within 30 feet of itself; its voice emanates from that point.  
-- **Warrior's Wrath.** The creature has Advantage on melee attack rolls against any [Bloodied](Compendium/rules/variant-rules/bloodied-xphb.md) creature.  
+- **Warrior's Wrath.** The creature has Advantage on melee attack rolls against any [Bloodied](Compendium/rules/conditions.md#Bloodied) creature.  
 - **Wild Talent.** Choose one cantrip; the creature can cast that cantrip without spell components, using Intelligence, Wisdom, or Charisma as the spellcasting ability.  
 
 ## Creating a Magic Item
@@ -424,7 +426,7 @@ After finishing a Long Rest, the character makes a DC 20 Constitution saving thr
 
 ### Death Scenes
 
-When a character is reduced to 0 Hit Points, the player sometimes has to sit out one or more rounds of combat with nothing to do but roll [Death Saving Throw](Compendium/rules/variant-rules/death-saving-throw-xphb.md). One way to keep a player involved in the game is to prompt some roleplaying along with each Death Save. You might ask the player to describe a memory that surfaces in the character's mind while hovering near death. Consider these possibilities:
+When a character is reduced to 0 Hit Points, the player sometimes has to sit out one or more rounds of combat with nothing to do but roll [Death Saving Throws](Compendium/rules/variant-rules/death-saving-throw-xphb.md). One way to keep a player involved in the game is to prompt some roleplaying along with each Death Save. You might ask the player to describe a memory that surfaces in the character's mind while hovering near death. Consider these possibilities:
 
 - **On a Successful Death Save.** A memory that inspires hope and courage. A beloved person who would urge the character to cling to life. A thought of something to live for. A favorite childhood memory.  
 - **On a Failed Death Save.** A memory that stirs up shame or grief. A beloved person who is already dead, beckoning the character to join them. An experience of weariness or despair.  
@@ -509,7 +511,7 @@ Adventurers often fail to locate secret doors. For this reason, don't hide impor
 
 Typically made of iron or wood, a portcullis blocks a passage or an archway until it is raised into the ceiling by a winch and chain. Creatures within 5 feet of a lowered portcullis can make ranged attacks or cast spells through it, and they have [Three-Quarters Cover](Compendium/tables/cover-xphb.md) against attacks, spells, and other effects originating from the opposite side. A portcullis can also be attacked and destroyed, using the AC and Hit Points of a metal door (if iron) or a wooden door (if wood).
 
-Winching a portcullis up or down requires the Utilize action. If a creature can't reach the winch (usually because it's on the other side of the portcullis), lifting the portcullis requires the [Utilize](Compendium/rules/actions.md#Utilize) action and a successful Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check. The DC of the check depends on the type of portcullis, as shown in the Portcullises table.
+Winching a portcullis up or down requires the [Utilize](Compendium/rules/actions.md#Utilize) action. If a creature can't reach the winch (usually because it's on the other side of the portcullis), lifting the portcullis requires the [Utilize](Compendium/rules/actions.md#Utilize) action and a successful Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check. The DC of the check depends on the type of portcullis, as shown in the Portcullises table.
 
 ![Portcullises](Compendium/tables/portcullises-xdmg.md)
 
@@ -686,7 +688,7 @@ Some weapons in the Firearms table have the following properties, in addition to
 
 #### Burst Fire
 
-As an action, you can expend 10 pieces of a Burst Fire weapon's ammunition to spray shots in a 10-foot [Cube [Area of Effect]](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) within the weapon's normal range. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take damage. Roll the weapon's damage once, and apply it to each creature that failed the save.
+As an action, you can expend 10 pieces of a Burst Fire weapon's ammunition to spray shots in a 10-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) within the weapon's normal range. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take damage. Roll the weapon's damage once, and apply it to each creature that failed the save.
 
 #### Reload
 
@@ -708,11 +710,11 @@ The Explosives table has examples of explosives. If no cost is given for an expl
 
 #### Bomb
 
-As an action, you can light a Bomb and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Fire damage on a failed save or half as much damage on a successful one.
+As an action, you can light a Bomb and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Fire damage on a failed save or half as much damage on a successful one.
 
 #### Dynamite Stick
 
-An an action, you can light a Dynamite Stick and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Force damage on a failed save or half as much damage on a successful one.
+An an action, you can light a Dynamite Stick and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Force damage on a failed save or half as much damage on a successful one.
 
 It takes 1 minute to bind two or more Dynamite Sticks together so they explode at the same time. Each stick after the first increases the damage by `1d6` (to a maximum of `10d6`) and the effect's radius by 5 feet (to a maximum of 20 feet).
 
@@ -720,19 +722,19 @@ It takes 1 minute to rig dynamite with a longer fuse so it explodes after a long
 
 #### Grenades and Grenade Launchers
 
-As an action, you can either throw a grenade at a point up to 60 feet away or use a Grenade Launcher to propel the grenade to a point up to 1,000 feet away. The grenade explodes at that point, creating a particular effect in a 20-foot-radius [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md).
+As an action, you can either throw a grenade at a point up to 60 feet away or use a Grenade Launcher to propel the grenade to a point up to 1,000 feet away. The grenade explodes at that point, creating a particular effect in a 20-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md).
 
 #### Fragmentation Grenade
 
-Each creature in the [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) makes a DC 15 Dexterity saving throw, taking 17 (`5d6`) Piercing damage on a failed save or half as much damage on a successful one.
+Each creature in the [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) makes a DC 15 Dexterity saving throw, taking 17 (`5d6`) Piercing damage on a failed save or half as much damage on a successful one.
 
 #### Smoke Grenade
 
-The area of the [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) is [Heavily Obscured](Compendium/rules/variant-rules/heavily-obscured-xphb.md) by smoke for 1 minute. A strong wind (such as the [Gust of Wind](Compendium/spells/gust-of-wind-xphb.md) spell) disperses the smoke.
+The area of the [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) is [Heavily Obscured](Compendium/rules/variant-rules/heavily-obscured-xphb.md) by smoke for 1 minute. A strong wind (such as the [Gust of Wind](Compendium/spells/gust-of-wind-xphb.md) spell) disperses the smoke.
 
 #### Gunpowder
 
-Setting fire to a container full of Gunpowder causes it to explode. When a container explodes, each creature in a 10-foot-radius [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on the container makes a DC 12 Dexterity saving throw, taking 10 (`3d6`) Fire damage (for a powder horn) or 24 (`7d6`) Fire damage (for a keg) on a failed save or half as much damage on a successful one.
+Setting fire to a container full of Gunpowder causes it to explode. When a container explodes, each creature in a 10-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on the container makes a DC 12 Dexterity saving throw, taking 10 (`3d6`) Fire damage (for a powder horn) or 24 (`7d6`) Fire damage (for a keg) on a failed save or half as much damage on a successful one.
 
 ### Alien Technology
 
@@ -921,7 +923,7 @@ Follow these tips to smooth a combat encounter with a large number of monsters:
 
 ### Average Results
 
-Whenever you would otherwise make a number of [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) for identical monsters, the Mob Results table can help you determine the number of successful [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) the monsters get without having to roll dice. Follow these steps:
+Whenever you would otherwise make a number of [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md) for identical monsters, the Mob Results table can help you determine the number of successful [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md) the monsters get without having to roll dice. Follow these steps:
 
 - **Step 1.** Determine the minimum `d20` roll the monsters need to succeed on the [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) using the following formula:  
 
@@ -938,7 +940,7 @@ When the characters are fighting a large number of monsters, it's not always pra
 
 The Targets in Area of Effect table offers a guideline. To use the table, find the column for the shape of the area, then read down until you find its size. Then check the rightmost column to see about how many creatures are caught in the area. If you imagine that the targets are spread out, decrease the number by `1d3`. If they're bunched up, you can increase the number by `1d3`. Of course, an area can't encompass more creatures than are present in an encounter.
 
-Your judgment always outweighs these guidelines, and it's fine to err on the side of affecting more creatures. For example, if eight zombies are crowded around a Fighter when the Bard centers a [Shatter](Compendium/spells/shatter-xphb.md) spell on the Fighter's space, the spell's area should definitely engulf all eight zombies, even though according to the table, a 10-foot-radius [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) includes only three creatures.
+Your judgment always outweighs these guidelines, and it's fine to err on the side of affecting more creatures. For example, if eight zombies are crowded around a Fighter when the Bard centers a [Shatter](Compendium/spells/shatter-xphb.md) spell on the Fighter's space, the spell's area should definitely engulf all eight zombies, even though according to the table, a 10-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) includes only three creatures.
 
 ![Adjudicating Areas of Effect; Targets in Area of Effect](Compendium/tables/adjudicating-areas-of-effect-targets-in-area-of-effect-xdmg.md)
 
@@ -948,7 +950,7 @@ The following scenario shows examples of how you as the DM can apply the guideli
 
 Eight [Zombies](Compendium/bestiary/undead/zombie-xmm.md) surround and attack a Fighter. The zombies' attack bonus is +3, and the Fighter's AC is 18, so the roll needed is 15 (18−3). Finding 15 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 2/8—two of the zombies hit. Using the zombies' average damage (4 Bludgeoning damage), the Fighter takes 8 Bludgeoning damage.
 
-After seeing the Fighter mauled by zombies, the Bard casts [Shatter](Compendium/spells/shatter-xphb.md), centering the spell on the Fighter. (The Bard trusts that the Fighter will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md), and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies' Constitution saving throw bonus is +3, and the Bard's spell saving throw DC is 16, so the roll needed is 13 (16−3). Finding 13 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.
+After seeing the Fighter mauled by zombies, the Bard casts [Shatter](Compendium/spells/shatter-xphb.md), centering the spell on the Fighter. (The Bard trusts that the Fighter will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md), and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies' Constitution saving throw bonus is +3, and the Bard's spell saving throw DC is 16, so the roll needed is 13 (16−3). Finding 13 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.
 
 Seeing a larger crowd of zombies in the distance, the Wizard casts [Fireball](Compendium/spells/fireball-xphb.md). The spell covers a 20-foot-radius Sphere. The Targets in Area of Effect table suggests that area covers ten zombies, but the DM rules that they're densely packed together and adds `1d3`, rolling a 2. So the spell engulfs twelve zombies in its area. The zombies' Dexterity saving throw modifier is −2, and the Wizard's spell save DC is 16, so the roll needed is 18 (16−[−2]). Finding 18 in the Normal column and reading across to the Out of 6 column, the DM gets a result of 1/6. Twelve times 1/6 is 2, so two of the twelve zombies succeed on the save.
 
@@ -1062,7 +1064,7 @@ An NPC with a Loyalty Score of 10 or higher risks anything to help fellow party 
 
 ##### Crew Loyalty and Mutiny
 
-If the characters own or operate a sailing ship or similar vessel, you can use these rules to track the loyalty of individual crew members or the ship's crew as a whole. If at least half the crew's Loyalty Scores drop to 0 during a voyage, the crew turns [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md) and stages a mutiny. If the ship is berthed, disloyal crew members leave the ship and never return.
+If the characters own or operate a sailing ship or similar vessel, you can use these rules to track the loyalty of individual crew members or the ship's crew as a whole. If at least half the crew's Loyalty Scores drop to 0 during a voyage, the crew turns [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) and stages a mutiny. If the ship is berthed, disloyal crew members leave the ship and never return.
 
 ## Poison
 
@@ -1074,7 +1076,7 @@ Poisons come in the following four types:
 
 - **Contact.** Contact poison can be smeared on an object and remains potent until it is touched or washed off. A creature that touches contact poison with exposed skin suffers its effects.  
 - **Ingested.** A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the saving throw or dealing only half as much damage on a failed save.  
-- **Inhaled.** Poisonous powders and gases take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot [Cube [Area of Effect]](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.  
+- **Inhaled.** Poisonous powders and gases take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.  
 - **Injury.** Injury poison can be applied as a Bonus Action to a weapon, a piece of ammunition, or similar object. The poison remains potent until delivered through a wound or washed off. A creature that takes Piercing or Slashing damage from an object coated with the poison is exposed to its effects.  
 
 ### Purchasing Poison

@@ -19,4 +19,4 @@ aliases:
 - **Utilize.** Detect a poisoned object (DC 10)  
 - **Craft.** [Basic Poison](Compendium/items/basic-poison-xphb.md)  
 
-*Source: Player's Handbook (2024) p. 221. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

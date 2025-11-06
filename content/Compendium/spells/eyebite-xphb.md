@@ -11,12 +11,8 @@ tags:
 - ttrpg-cli/spell/school/necromancy
 classes:
 - Bard
-- Bard
-- Sorcerer
 - Sorcerer
 - Warlock
-- Warlock
-- Wizard
 - Wizard
 aliases: ["Eyebite"]
 ---
@@ -24,7 +20,7 @@ aliases: ["Eyebite"]
 *6th-level, Necromancy*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -47,6 +43,6 @@ The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 270. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

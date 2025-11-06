@@ -14,7 +14,7 @@ aliases: ["Larva"]
 # Larva
 *Source: Monster Manual (2024) p. 193*  
 
-![](Compendium/bestiary/fiend/img/larva.webp#right)  
+![](Compendium/bestiary/fiend/img/larvae.webp#right)  
 Larvae have disjointed, painful memories of their past lives. Most desperately avoid other creatures.
 
 ## Larvae
@@ -37,21 +37,25 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
 "ac": !!int "9"
 "hp": !!int "9"
 "hit_dice": "2d8"
+"modifier": !!int "-1"
 "stats":
-- !!int "9"
-- !!int "9"
-- !!int "10"
-- !!int "6"
-- !!int "10"
-- !!int "2"
+  - !!int "9"
+  - !!int "9"
+  - !!int "10"
+  - !!int "6"
+  - !!int "10"
+  - !!int "2"
 "speed": "20 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "0"
 "actions":
-- "desc": "Melee Attack: +1, reach 5 ft. Hit: 1 (1d4 - 1) Necrotic damage."
-  "name": "Bite"
+  - "desc": "*Melee Attack Roll:* +1, reach 5 ft. *Hit:* 1 (1d4 - 1) Necrotic\
+      \ damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/fiend/token/larva-xmm.webp"
 ```
 ^statblock

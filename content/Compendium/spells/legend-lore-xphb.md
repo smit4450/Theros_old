@@ -10,26 +10,25 @@ tags:
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/diviner
 - ttrpg-cli/spell/subclass/draconic-sorcery
+- ttrpg-cli/spell/subclass/knowledge-domain
 - ttrpg-cli/spell/subclass/oath-of-glory
 classes:
 - Bard
-- Bard
 - Cleric
-- Cleric
-- Wizard
+- Cleric (Knowledge Domain)
+- Paladin (Oath of Glory)
+- Sorcerer (Draconic Sorcery)
 - Wizard
 - Wizard (Diviner)
-- Sorcerer (Draconic Sorcery)
-- Paladin (Oath of Glory)
 aliases: ["Legend Lore"]
 ---
 # Legend Lore
 *5th-level, Divination*  
 
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** Self
-- **Components:** V, S, incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each
+- **Components:** V, S, M (incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each)
 - **Duration:** Instantaneous
 
 Name or describe a famous person, place, or object. The spell brings to your mind a brief summary of the significant lore about that famous thing, as described by the DM.
@@ -38,6 +37,6 @@ The lore might consist of important details, amusing revelations, or even secret
 
 If the famous thing you chose isn't actually famous, you hear sad musical notes played on a trombone, and the spell fails.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Diviner)](list-spells-classes-wizard-xphb-diviner-xphb); [Sorcerer (Draconic Sorcery)](list-spells-classes-sorcerer-xphb-draconic-sorcery-xphb); [Paladin (Oath of Glory)](list-spells-classes-paladin-xphb-oath-of-glory-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Glory)](Compendium/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](Compendium/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 290. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

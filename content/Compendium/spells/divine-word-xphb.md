@@ -10,14 +10,13 @@ tags:
 classes:
 - Bard
 - Cleric
-- Cleric
 aliases: ["Divine Word"]
 ---
 # Divine Word
 *7th-level, Evocation*  
 
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** 30 feet
 - **Components:** V
 - **Duration:** Instantaneous
@@ -34,6 +33,6 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 | 41-50 | The target has the [Deafened](Compendium/rules/conditions.md#Deafened) condition for 1 minute. |
 ^divine-word-effects
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md)
 
-*Source: Player's Handbook (2024) p. 265. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -9,34 +9,32 @@ tags:
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/enchantment
+- ttrpg-cli/spell/subclass/circle-of-the-sea
 - ttrpg-cli/spell/subclass/oath-of-vengeance
 - ttrpg-cli/spell/subclass/war-domain
 classes:
 - Bard
-- Bard
-- Sorcerer
-- Sorcerer
-- Warlock
-- Warlock
-- Wizard
-- Wizard
-- Paladin (Oath of Vengeance)
 - Cleric (War Domain)
+- Druid (Circle of the Sea)
+- Paladin (Oath of Vengeance)
+- Sorcerer
+- Warlock
+- Wizard
 aliases: ["Hold Monster"]
 ---
 # Hold Monster
 *5th-level, Enchantment*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 90 feet
-- **Components:** V, S, a straight piece of iron
+- **Components:** V, S, M (a straight piece of iron)
 - **Duration:** Concentration, up to 1 minute
 
 Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or have the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 5.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Paladin (Oath of Vengeance)](list-spells-classes-paladin-xphb-oath-of-vengeance-xphb); [Cleric (War Domain)](list-spells-classes-cleric-xphb-war-domain-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Sea)](Compendium/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Vengeance)](Compendium/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 285. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 285. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

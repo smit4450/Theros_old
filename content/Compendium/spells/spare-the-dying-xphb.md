@@ -7,23 +7,24 @@ tags:
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/feat/blessed-warrior
 - ttrpg-cli/spell/feat/druidic-warrior
-- ttrpg-cli/spell/feat/magic-initiate
+- ttrpg-cli/spell/feat/magic-initiate/druid-spells
 - ttrpg-cli/spell/level/cantrip
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
 - ttrpg-cli/spell/school/necromancy
 - ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/college-of-the-moon
 classes:
-- Cleric
+- Bard (College of Lore)
+- Bard (College of the Moon)
 - Cleric
 - Druid
-- Bard (College of Lore)
 aliases: ["Spare the Dying"]
 ---
 # Spare the Dying
 *cantrip, Necromancy*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 15 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
@@ -32,6 +33,6 @@ Choose a creature within range that has 0 [Hit Points](Compendium/rules/variant-
 
 **Cantrip Upgrade.** The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
 
-**Classes**: [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Compendium/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 318. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 318. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

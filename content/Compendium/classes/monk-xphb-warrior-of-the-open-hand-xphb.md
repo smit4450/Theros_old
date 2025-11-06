@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/monk/open-hand
-aliases: ["Warrior of the Open Hand"]
+aliases:
+- Warrior of the Open Hand
 ---
 # Warrior of the Open Hand
-*[Monk](monk-xphb.md): Monk Subclass*  
-*Source: Player's Handbook (2024) p. 107*  
+*[Monk](./monk-xphb.md): Monk Subclass*  
+*Source: Player's Handbook (2024) p. 107. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -19,26 +21,27 @@ aliases: ["Warrior of the Open Hand"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Warrior%20of%20the%20Open%20Hand%20(Level%203)'>Warrior of the Open Hand</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Warrior of the Open Hand (Level 3)' class='internal-link'>Warrior of the Open Hand</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Wholeness%20of%20Body%20(Level%206)'>Wholeness of Body</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Wholeness of Body (Level 6)' class='internal-link'>Wholeness of Body</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Fleet%20Step%20(Level%2011)'>Fleet Step</a></td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Fleet Step (Level 11)' class='internal-link'>Fleet Step</a></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Quivering%20Palm%20(Level%2017)'>Quivering Palm</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Quivering Palm (Level 17)' class='internal-link'>Quivering Palm</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -67,7 +70,7 @@ The target must succeed on a Dexterity saving throw or have the [Prone](Compendi
 
 ### Wholeness of Body (Level 6)
 
-You gain the ability to heal yourself. As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can roll your Martial Arts die. You regain a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to the number rolled plus your Wisdom modifier (minimum of 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) regained).
+You gain the ability to heal yourself. As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can roll your Martial Arts die. You regain a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to the number rolled plus your Wisdom modifier (minimum of 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) regained).
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
 

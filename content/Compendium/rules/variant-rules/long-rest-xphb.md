@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Long Rest"]
+aliases:
+- Long Rest
 ---
 # Long Rest
-*Source: Player's Handbook (2024) p. 370. Available in the Free Rules (2024)* 
+*Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 A Long Rest is a period of extended downtime—at least 8 hours—available to any creature. During a Long Rest, you sleep for at least 6 hours and perform no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.
 
@@ -14,7 +16,7 @@ During sleep, you have the [Unconscious](Compendium/rules/conditions.md#Unconsci
 
 ## Benefits of the Rest
 
-To start a Long Rest, you must have at least 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). When you finish the rest, you gain the following benefits:
+To start a Long Rest, you must have at least 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md). When you finish the rest, you gain the following benefits:
 
 - **Regain All HP.** You regain all lost [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) and all spent [Hit Point Dice](Compendium/rules/variant-rules/hit-point-dice-xphb.md). If your Hit Point maximum was reduced, it returns to normal.  
 - **Ability Scores Restored.** If any of your ability scores were reduced, they return to normal.  

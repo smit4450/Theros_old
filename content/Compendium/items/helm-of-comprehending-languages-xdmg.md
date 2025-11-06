@@ -14,4 +14,4 @@ aliases:
 
 While wearing this helm, you can cast [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md) from it.
 
-*Source: Dungeon Master's Guide (2024) p. 268. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

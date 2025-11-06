@@ -18,4 +18,4 @@ This concoction looks, smells, and tastes like a [Potion of Healing](Compendium/
 
 If you drink this potion, you take `4d6` Poison damage and must succeed on a DC 13 Constitution saving throw or have the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 hour.
 
-*Source: Dungeon Master's Guide (2024) p. 288. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

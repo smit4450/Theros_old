@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
 - ttrpg-cli/monster/legendary-group
-aliases: ["Vampire"]
+aliases:
+- Vampire
 ---
 # Vampire
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual (2024)_
 
 The region containing a vampire's lair is warped by its presence, creating the following effects:

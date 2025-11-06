@@ -14,13 +14,13 @@ aliases: ["Nycaloth"]
 # Nycaloth
 *Source: Monster Manual (2024) p. 229*  
 
-![](Compendium/bestiary/fiend/img/nycaloth.webp#right)  
+![](Compendium/books/monster-manual-2025/img/nycaloth.webp#right)  
 ## Nycaloth
 
 *Yugoloth of Strategy and Strife*
 
 - **Habitat.** Planar (Gehenna)  
-- **Treasure.** Armaments  
+- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
 
 Fiendish warmongers, nycaloths relish combat and conquest. These tremendous winged yugoloths teleport around battlefields and into the air to bewilder their foes and attack with constantly shifting, Gehenna-forged axes—mercurial weapons similar to those favored by many yugoloths.
 
@@ -29,8 +29,6 @@ Nycaloths might command groups of mezzoloths and make pacts to serve arcanaloths
 Nycaloths and other yugoloths frequently serve as mercenary forces in extraplanar conflicts that spill onto the Material Plane. Roll on or choose a result from the Yugoloth Incursions table to inspire the plans of a yugoloth war band.
 
 **Yugoloth Incursions**
-
-`dice: [](nycaloth-xmm.md#^yugoloth-incursions)`
 
 | dice: 1d4 | Yugoloth Mercenaries Seek To... |
 |-----------|---------------------------------|
@@ -48,45 +46,50 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
 "ac": !!int "18"
 "hp": !!int "152"
 "hit_dice": "16d10 + 64"
+"modifier": !!int "4"
 "stats":
-- !!int "20"
-- !!int "11"
-- !!int "19"
-- !!int "12"
-- !!int "10"
-- !!int "15"
+  - !!int "20"
+  - !!int "11"
+  - !!int "19"
+  - !!int "12"
+  - !!int "10"
+  - !!int "15"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "4"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
 "condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "blindsight 60 ft., passive Perception 14"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+  \ 14"
 "languages": "Abyssal, Infernal; telepathy 60 ft."
 "cr": "9"
 "traits":
-- "desc": "If the nycaloth dies outside Gehenna, its body dissolves into ichor, and\
-    \ it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ somewhere in Gehenna."
-  "name": "Fiendish Restoration"
-- "desc": "The nycaloth has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "If the nycaloth dies outside Gehenna, its body dissolves into ichor,\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ somewhere in Gehenna."
+    "name": "Fiendish Restoration"
+  - "desc": "The nycaloth has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The nycaloth makes two Mercurial Axe attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack: +9, reach 10 ft. or range 30/90 ft. Hit:\
-    \ 18 (2d12 + 5) Slashing damage plus 10 (3d6) Force damage. Hit or Miss:\
-    \ The axe magically returns to the nycaloth's hand immediately after a ranged\
-    \ attack."
-  "name": "Mercurial Axe"
+  - "desc": "The nycaloth makes two Mercurial Axe attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +9, reach 10 ft. or range 30/90 ft.\
+      \ *Hit:* 18 (2d12 + 5) Slashing damage plus 10 (3d6) Force damage. *Hit\
+      \ or Miss:* The axe magically returns to the nycaloth's hand immediately after\
+      \ a ranged attack."
+    "name": "Mercurial Axe"
 "bonus_actions":
-- "desc": "The nycaloth has the [Invisible](Compendium/rules/conditions.md#Invisible)\
-    \ condition for 1 minute, and it teleports up to 30 feet to an unoccupied space\
-    \ it can see. The condition ends early immediately after it deals damage."
-  "name": "Shadowy Teleport"
+  - "desc": "The nycaloth has the [Invisible](Compendium/rules/conditions.md#Invisible)\
+      \ condition for 1 minute, and it teleports up to 30 feet to an unoccupied space\
+      \ it can see. The condition ends early immediately after it deals damage."
+    "name": "Shadowy Teleport"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/fiend/token/nycaloth-xmm.webp"
 ```
 ^statblock

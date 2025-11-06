@@ -15,8 +15,8 @@ aliases:
 ![](Compendium/items/img/staff-of-the-magi.webp#right)
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
@@ -55,10 +55,10 @@ While holding the staff, you can cast one of the spells on the following table f
 
 ## Regaining Charges
 
-The staff regains `4d6 + 2` expended charges daily at dawn. If you expend the last charge, roll ``. On a 20, the staff regains `1d12 + 1` charges.
+The staff regains `4d6 + 2` expended charges daily at dawn. If you expend the last charge, roll `1d20`. On a 20, the staff regains `1d12 + 1` charges.
 
 ## Retributive Strike
 
-You can take a [Magic](Compendium/rules/actions.md#Magic) action to break the staff over your knee or against a solid surface. The staff is destroyed and releases its magic in an explosion that fills a 30-foot [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from itself. You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take Force damage equal to 16 times the number of charges in the staff. Each other creature in the area makes a DC 17 Dexterity saving throw. On a failed save, a creature takes Force damage equal to 6 times the number of charges in the staff. On a successful save, a creature takes half as much damage.
+You can take a [Magic](Compendium/rules/actions.md#Magic) action to break the staff over your knee or against a solid surface. The staff is destroyed and releases its magic in an explosion that fills a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from itself. You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take Force damage equal to 16 times the number of charges in the staff. Each other creature in the area makes a DC 17 Dexterity saving throw. On a failed save, a creature takes Force damage equal to 6 times the number of charges in the staff. On a successful save, a creature takes half as much damage.
 
-*Source: Dungeon Master's Guide (2024) p. 310*
+*Source: Dungeon Master's Guide (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

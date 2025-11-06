@@ -17,4 +17,4 @@ While wearing this cloak, you have [Advantage](Compendium/rules/variant-rules/ad
 
 While wearing the cloak in an area of [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), you can cast [Polymorph](Compendium/spells/polymorph-xphb.md) on yourself, shape-shifting into a [Bat](Compendium/bestiary/beast/bat-xmm.md). While in that form, you retain your Intelligence, Wisdom, and Charisma scores. The cloak can't be used this way again until the next dawn.
 
-*Source: Dungeon Master's Guide (2024) p. 245. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

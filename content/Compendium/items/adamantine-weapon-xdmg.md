@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Adamantine Weapon"
 - "Adamantine Arrow"
@@ -97,8 +98,8 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 ### Adamantine Battleaxe
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
@@ -108,13 +109,13 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 
 ### Adamantine Club
 
-- **Damage**: 1d4 B
+- **Damage**: 1d4 bludgeoning
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Adamantine Dagger
 
-- **Damage**: 1d4 P
+- **Damage**: 1d4 piercing
 - **Range**: 20/60
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
@@ -129,62 +130,62 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 
 ### Adamantine Flail
 
-- **Damage**: 1d8 B
+- **Damage**: 1d8 bludgeoning
 - **Weight**: 2.0 lbs.
 
 ### Adamantine Glaive
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Adamantine Greataxe
 
-- **Damage**: 1d12 S
+- **Damage**: 1d12 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Adamantine Greatclub
 
-- **Damage**: 1d8 B
+- **Damage**: 1d8 bludgeoning
 - **Properties**: [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Adamantine Greatsword
 
-- **Damage**: 2d6 S
+- **Damage**: 2d6 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Adamantine Halberd
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Adamantine Handaxe
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Range**: 20/60
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Adamantine Javelin
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 30/120
 - **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Adamantine Lance
 
-- **Damage**: 1d10 P
+- **Damage**: 1d10 piercing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach)
 - **Weight**: 6.0 lbs.
 
 ### Adamantine Light Hammer
 
-- **Damage**: 1d4 B
+- **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
@@ -192,25 +193,25 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 ### Adamantine Longsword
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Adamantine Mace
 
-- **Damage**: 1d6 B
+- **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
 
 ### Adamantine Maul
 
-- **Damage**: 2d6 B
+- **Damage**: 2d6 bludgeoning
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Adamantine Morningstar
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Weight**: 4.0 lbs.
 
 ### Adamantine Needle
@@ -219,39 +220,39 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 
 ### Adamantine Pike
 
-- **Damage**: 1d10 P
+- **Damage**: 1d10 piercing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Adamantine Quarterstaff
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Adamantine Rapier
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Adamantine Scimitar
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Adamantine Shortsword
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Adamantine Sickle
 
-- **Damage**: 1d4 S
+- **Damage**: 1d4 slashing
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
@@ -262,8 +263,8 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 ### Adamantine Spear
 
 - **Damage**:
-  - One-handed: 1d6 P
-  - Two-handed: 1d8 P
+  - One-handed: 1d6 piercing
+  - Two-handed: 1d8 piercing
 - **Range**: 20/60
 - **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
@@ -271,8 +272,8 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 ### Adamantine Trident
 
 - **Damage**:
-  - One-handed: 1d8 P
-  - Two-handed: 1d10 P
+  - One-handed: 1d8 piercing
+  - Two-handed: 1d10 piercing
 - **Range**: 20/60
 - **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
@@ -280,22 +281,22 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 ### Adamantine War Pick
 
 - **Damage**:
-  - One-handed: 1d8 P
-  - Two-handed: 1d10 P
+  - One-handed: 1d8 piercing
+  - Two-handed: 1d10 piercing
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 2.0 lbs.
 
 ### Adamantine Warhammer
 
 - **Damage**:
-  - One-handed: 1d8 B
-  - Two-handed: 1d10 B
+  - One-handed: 1d8 bludgeoning
+  - Two-handed: 1d10 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 5.0 lbs.
 
 ### Adamantine Whip
 
-- **Damage**: 1d4 S
+- **Damage**: 1d4 slashing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Reach](Compendium/rules/item-properties.md#Reach)
 - **Weight**: 3.0 lbs.
 

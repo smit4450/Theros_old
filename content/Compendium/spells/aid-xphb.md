@@ -17,32 +17,30 @@ tags:
 - ttrpg-cli/spell/subclass/oath-of-devotion
 classes:
 - Bard
+- Bard (College of Lore)
 - Cleric
-- Cleric
+- Cleric (Life Domain)
 - Druid
 - Paladin
-- Paladin
-- Ranger
-- Warlock (Celestial Patron)
-- Sorcerer (Clockwork Sorcery)
-- Bard (College of Lore)
-- Cleric (Life Domain)
 - Paladin (Oath of Devotion)
+- Ranger
+- Sorcerer (Clockwork Sorcery)
+- Warlock (Celestial Patron)
 aliases: ["Aid"]
 ---
 # Aid
 *2nd-level, Abjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
-- **Components:** V, S, a strip of white cloth
-- **Duration:** 8 hour
+- **Components:** V, S, M (a strip of white cloth)
+- **Duration:** 8 hours
 
-Choose up to three creatures within range. Each target's [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) maximum and current [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) increase by 5 for the duration.
+Choose up to three creatures within range. Each target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum and current [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) increase by 5 for the duration.
 
 **Using a Higher-Level Spell Slot.** Each target's [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) increase by 5 for each spell slot level above 2.
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin); [Ranger](list-spells-classes-ranger); [Warlock (Celestial Patron)](list-spells-classes-warlock-xphb-celestial-patron-xphb); [Sorcerer (Clockwork Sorcery)](list-spells-classes-sorcerer-xphb-clockwork-sorcery-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Cleric (Life Domain)](list-spells-classes-cleric-xphb-life-domain-xphb); [Paladin (Oath of Devotion)](list-spells-classes-paladin-xphb-oath-of-devotion-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Sorcerer (Clockwork Sorcery)](Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 239. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

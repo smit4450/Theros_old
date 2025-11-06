@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Slaad Tadpole"]
 ---
 # Slaad Tadpole
-*Source: Monster Manual (2024) p. 284, Player's Handbook (2024) p. 357*  
+*Source: Monster Manual (2024) p. 284, Player's Handbook (2024) p. 357. Available in the Free Rules (2024)*  
 
 ![](Compendium/bestiary/aberration/img/slaad-tadpole.webp#right)  
 Slaad tadpoles are ravenous, newborn slaadi. They hatch from eggs implanted into living hosts by red slaadi, but they also appear in great numbers in Limbo and other chaotic realms. Under most conditions, a slaad tadpole transforms into a blue slaad—or a green slaad if its host was able to cast spells of level 3 or higher—within `2d12` hours of hatching.
@@ -39,6 +39,7 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 > 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
 
+![](Compendium/bestiary/aberration/img/red-and-blue-slaad.webp#center)  
 ## Statblock
 
 ```statblock
@@ -49,30 +50,34 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 "ac": !!int "12"
 "hp": !!int "7"
 "hit_dice": "3d4"
+"modifier": !!int "2"
 "stats":
-- !!int "7"
-- !!int "15"
-- !!int "10"
-- !!int "3"
-- !!int "5"
-- !!int "3"
+  - !!int "7"
+  - !!int "15"
+  - !!int "10"
+  - !!int "3"
+  - !!int "5"
+  - !!int "3"
 "speed": "30 ft., burrow 10 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "darkvision 60 ft., passive Perception 7"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 7"
 "languages": "understands Slaad but can't speak"
 "cr": "1/8"
 "traits":
-- "desc": "The slaad has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "The slaad has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage."
-  "name": "Bite"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing\
+      \ damage."
+    "name": "Bite"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "Compendium/bestiary/aberration/token/slaad-tadpole-xmm.webp"
 ```
 ^statblock

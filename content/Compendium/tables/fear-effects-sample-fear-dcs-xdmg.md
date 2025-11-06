@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Fear Effects; Sample Fear DCs"]
+aliases:
+- Fear Effects; Sample Fear DCs
 ---
 # Fear Effects; Sample Fear DCs
 *Source: Dungeon Master's Guide (2024) p. 70* 

@@ -20,8 +20,4 @@ If the spell is on your spell list but of a higher level than you can normally c
 
 If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is `+5`.
 
-## Copying a Scroll into a Spellbook
-
-A Wizard spell on a Spell Scroll can be copied into a spellbook. When a cantrip is copied in this way, the copier must succeed on a DC 10 Intelligence ([Arcana](Compendium/rules/skills.md#Arcana)). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.
-
-*Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Breaking Objects"]
+aliases:
+- Breaking Objects
 ---
 # Breaking Objects
-*Source: Player's Handbook (2024) p. 362. Available in the Free Rules (2024)* 
+*Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the [Attack](Compendium/rules/actions.md#Attack) or [Utilize](Compendium/rules/actions.md#Utilize) action.
 
@@ -43,7 +45,7 @@ An object is destroyed when it has 0 Hit Points. The Object Hit Points table sug
 
 ## Damage Types and Objects
 
-Objects have [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to Poison and Psychic damage. The DM might decide that some [Damage Types](Compendium/rules/variant-rules/damage-types-xphb.md) are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have [Vulnerability](Compendium/rules/variant-rules/vulnerability-xphb.md) to Fire damage.
+Objects have [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to Poison and Psychic damage. The DM might decide that some [damage types](Compendium/rules/variant-rules/damage-types-xphb.md) are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have [Vulnerability](Compendium/rules/variant-rules/vulnerability-xphb.md) to Fire damage.
 
 ## Damage Threshold
 

@@ -11,9 +11,9 @@ statblock: inline
 aliases: ["Imp"]
 ---
 # Imp
-*Source: Monster Manual (2024) p. 177, Player's Handbook (2024) p. 352*  
+*Source: Monster Manual (2024) p. 177, Player's Handbook (2024) p. 352, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fiend/img/imp.webp#right)  
+![](Compendium/books/monster-manual-2025/img/imp.webp#right)  
 ## Imp
 
 *Devil of Pettiness and Suspicion*
@@ -38,46 +38,52 @@ Imps without masters delight in manipulating other creatures and inflating their
 "ac": !!int "13"
 "hp": !!int "21"
 "hit_dice": "6d4 + 6"
+"modifier": !!int "3"
 "stats":
-- !!int "6"
-- !!int "17"
-- !!int "13"
-- !!int "11"
-- !!int "12"
-- !!int "14"
+  - !!int "6"
+  - !!int "17"
+  - !!int "13"
+  - !!int "11"
+  - !!int "12"
+  - !!int "14"
 "speed": "20 ft., fly 40 ft."
 "skillsaves":
-  "Deception": !!int "4"
-  "Stealth": !!int "5"
-  "Insight": !!int "3"
+  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+    "desc": "+4"
+  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+    "desc": "+3"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+5"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft. (unimpeded by magical darkness), passive Perception\
-  \ 11"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft. (unimpeded\
+  \ by magical [Darkness](Compendium/rules/variant-rules/darkness-xphb.md)), passive\
+  \ Perception 11"
 "languages": "Common, Infernal"
 "cr": "1"
 "traits":
-- "desc": "The imp casts [Invisibility](Compendium/spells/invisibility-xphb.md) on\
-    \ itself, requiring no spell components and using Charisma as the spellcasting\
-    \ ability.\n\nAt will: [Invisibility](Compendium/spells/invisibility-xphb.md)"
-  "name": "Invisibility"
-- "desc": "The imp has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "The imp has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Attack: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage\
-    \ plus 7 (2d6) Poison damage."
-  "name": "Sting"
-- "desc": "The imp shape-shifts to resemble a rat ([Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-    \ 20 ft.), a raven (20 ft., Fly 60 ft.), or a spider (20 ft., Climb 20 ft.), or\
-    \ it returns to its true form. Its statistics are the same in each form, except\
-    \ for its [Speed](Compendium/rules/variant-rules/speed-xphb.md). Any equipment\
-    \ it is wearing or carrying isn't transformed."
-  "name": "Shape-Shift"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing\
+      \ damage plus 7 (2d6) Poison damage."
+    "name": "Sting"
+  - "desc": "The imp shape-shifts to resemble a rat ([Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+      \ 20 ft.), a raven (20 ft., Fly 60 ft.), or a spider (20 ft., Climb 20 ft.),\
+      \ or it returns to its true form. Its statistics are the same in each form,\
+      \ except for its [Speed](Compendium/rules/variant-rules/speed-xphb.md). Any\
+      \ equipment it is wearing or carrying isn't transformed."
+    "name": "Shape-Shift"
+  - "desc": "The imp casts [Invisibility](Compendium/spells/invisibility-xphb.md)\
+      \ on itself, requiring no spell components and using Charisma as the spellcasting\
+      \ ability.\n"
+    "name": "Invisibility"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
+  - "FRHoF"
 "image": "Compendium/bestiary/fiend/token/imp-xmm.webp"
 ```
 ^statblock

@@ -11,9 +11,9 @@ statblock: inline
 aliases: ["Homunculus"]
 ---
 # Homunculus
-*Source: Monster Manual (2024) p. 172*  
+*Source: Monster Manual (2024) p. 172. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/construct/img/homunculus.webp#right)  
+![Homunculi are as varied as...](Compendium/bestiary/construct/img/homunculus.webp#right)  
 ## Homunculus
 
 *Winged Servant Given Magical Life*
@@ -26,8 +26,6 @@ A mage can create a cat-sized, obedient assistant called a homunculus through a 
 A homunculus's appearance reflects its creator's tastes. Roll on or choose a result from the Homunculus Features table to inspire a homunculus's form.
 
 **Homunculus Features**
-
-`dice: [](homunculus-xmm.md#^homunculus-features)`
 
 | dice: 1d8 | The Homunculus Has Features That Are... |
 |-----------|-----------------------------------------|
@@ -48,37 +46,40 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
 "ac": !!int "13"
 "hp": !!int "4"
 "hit_dice": "1d4 + 2"
+"modifier": !!int "2"
 "stats":
-- !!int "4"
-- !!int "15"
-- !!int "14"
-- !!int "10"
-- !!int "10"
-- !!int "7"
+  - !!int "4"
+  - !!int "15"
+  - !!int "14"
+  - !!int "10"
+  - !!int "10"
+  - !!int "7"
 "speed": "20 ft., fly 40 ft."
 "saves":
-  "Charisma": !!int "0"
-  "Wisdom": !!int "2"
+  - "wisdom": !!int "2"
+  - "charisma": !!int "0"
 "damage_immunities": "poison"
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "0"
 "traits":
-- "desc": "While the homunculus is on the same plane of existence as its master, the\
-    \ two of them can communicate telepathically with each other."
-  "name": "Telepathic Bond"
+  - "desc": "While the homunculus is on the same plane of existence as its master,\
+      \ the two of them can communicate telepathically with each other."
+    "name": "Telepathic Bond"
 "actions":
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 1 Piercing damage, and the target\
-    \ is subjected to the following effect. Constitution Saving Throw: DC 12. Failure:\
-    \ The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition\
-    \ until the end of the homunculus's next turn. Failure by 5 or More: The target\
-    \ has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1\
-    \ minute. While [Poisoned](Compendium/rules/conditions.md#Poisoned), the target\
-    \ has the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition,\
-    \ which ends early if the target takes any damage."
-  "name": "Bite"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage, and\
+      \ the target is subjected to the following effect. *Constitution Saving Throw:*\
+      \ DC 12. *Failure:* The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ condition until the end of the homunculus's next turn. *By 5Th Failure:* The\
+      \ target has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition\
+      \ for 1 minute. While [Poisoned](Compendium/rules/conditions.md#Poisoned), the\
+      \ target has the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition,\
+      \ which ends early if the target takes any damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/construct/token/homunculus-xmm.webp"
 ```
 ^statblock

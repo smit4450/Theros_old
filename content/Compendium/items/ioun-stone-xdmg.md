@@ -40,4 +40,4 @@ The type of stone determines its rarity and effects.
 - [Ioun Stone, Strength](Compendium/items/ioun-stone-strength-xdmg.md)
 - [Ioun Stone, Sustenance](Compendium/items/ioun-stone-sustenance-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 273*
+*Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

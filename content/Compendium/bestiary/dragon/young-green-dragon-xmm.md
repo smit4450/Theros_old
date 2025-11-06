@@ -11,9 +11,9 @@ statblock: inline
 aliases: ["Young Green Dragon"]
 ---
 # Young Green Dragon
-*Source: Monster Manual (2024) p. 152*  
+*Source: Monster Manual (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/dragon/img/young-green-dragon.webp#right)  
+![](Compendium/bestiary/dragon/img/green-dragon.webp#right)  
 Young green dragons frequently control groups of ettercaps, kobolds, thieves, or other cowardly servants. These dragons do so while avoiding other evil dragons, who would sabotage them. Gradually, oppressing weaker creatures and amassing meaningless fortunes bore young green dragons, and they pursue more ambitious ways to indulge their egos.
 
 ## Green Dragons
@@ -21,7 +21,7 @@ Young green dragons frequently control groups of ettercaps, kobolds, thieves, or
 *Dragons of Deceit and Derision*
 
 - **Habitat.** Forest  
-- **Treasure.** Arcana  
+- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
 
 From forbidden forest depths, green dragons whisper evils into the world and manipulate the lives of those who listen. Elusive, conniving, and egotistical, these chromatic dragons patiently prey on the fears of shorter-lived beings, corrupting and isolating them. Green dragons might lurk amid labyrinthine wildernesses for centuries without revealing themselves; even their most devoted followers might know them only as the voice of the woodlands or a whisper in their dreams.
 
@@ -41,40 +41,45 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
 "ac": !!int "18"
 "hp": !!int "136"
 "hit_dice": "16d10 + 48"
+"modifier": !!int "4"
 "stats":
-- !!int "19"
-- !!int "12"
-- !!int "17"
-- !!int "16"
-- !!int "13"
-- !!int "15"
+  - !!int "19"
+  - !!int "12"
+  - !!int "17"
+  - !!int "16"
+  - !!int "13"
+  - !!int "15"
 "speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
+  - "dexterity": !!int "4"
+  - "wisdom": !!int "4"
 "skillsaves":
-  "Deception": !!int "5"
-  "Stealth": !!int "4"
-  "Perception": !!int "7"
+  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+    "desc": "+5"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "8"
 "traits":
-- "desc": "The dragon can breathe air and water."
-  "name": "Amphibious"
+  - "desc": "The dragon can breathe air and water."
+    "name": "Amphibious"
 "actions":
-- "desc": "The dragon makes three Rend attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 10 ft. Hit: 11 (2d6 + 4) Slashing damage\
-    \ plus 7 (2d6) Poison damage."
-  "name": "Rend"
-- "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [Cone [Area\
-    \ of Effect]](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). Failure:\
-    \ 42 (12d6) Poison damage. Success: Half damage."
-  "name": "Poison Breath (Recharge 5-6)"
+  - "desc": "The dragon makes three Rend attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 11 (2d6 + 4) Slashing\
+      \ damage plus 7 (2d6) Poison damage."
+    "name": "Rend"
+  - "desc": "*Constitution Saving Throw:* DC 14, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 42 (12d6) Poison damage. *Success:* Half damage."
+    "name": "Poison Breath (Recharge 5-6)"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/dragon/token/young-green-dragon-xmm.webp"
 ```
 ^statblock

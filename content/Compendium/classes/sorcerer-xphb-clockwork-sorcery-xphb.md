@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/sorcerer/clockwork
-aliases: ["Clockwork Sorcery"]
+aliases:
+- Clockwork Sorcery
 ---
 # Clockwork Sorcery
-*[Sorcerer](sorcerer-xphb.md): Sorcerer Subclass*  
+*[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
 *Source: Player's Handbook (2024) p. 146*  
 
 > [!tldr] Class and Feature Progression
@@ -19,10 +21,10 @@ aliases: ["Clockwork Sorcery"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Clockwork%20Sorcery%20(Level%203)'>Clockwork Sorcery</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Clockwork Sorcery (Level 3)' class='internal-link'>Clockwork Sorcery</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Bastion%20of%20Law%20(Level%206)'>Bastion of Law</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Bastion of Law (Level 6)' class='internal-link'>Bastion of Law</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -30,15 +32,16 @@ aliases: ["Clockwork Sorcery"]
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Trance%20of%20Order%20(Level%2014)'>Trance of Order</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Trance of Order (Level 14)' class='internal-link'>Trance of Order</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Clockwork%20Cavalcade%20(Level%2018)'>Clockwork Cavalcade</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Clockwork Cavalcade (Level 18)' class='internal-link'>Clockwork Cavalcade</a></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -66,8 +69,6 @@ When you reach a Sorcerer level specified in the Clockwork Spells table, you the
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.
 
 **Manifestations of Order**
-
-`dice: [](sorcerer-xphb-clockwork-sorcery-xphb.md#^manifestations-of-order)`
 
 | dice: 1d6 | Manifestation |
 |-----------|---------------|
@@ -99,16 +100,16 @@ Once you use this feature, you can't use it again until you finish a [Long Rest]
 
 ### Clockwork Cavalcade (Level 18)
 
-You momentarily summon spirits of order to expunge disorder around you. As a [Magic](Compendium/rules/actions.md#Magic) action, you summon the spirits in a 30-foot [Cube [Area of Effect]](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the [Cube [Area of Effect]](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) before vanishing. Once you use this action, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you spend 7 Sorcery Points (no action required) to restore your use of it.
+You momentarily summon spirits of order to expunge disorder around you. As a [Magic](Compendium/rules/actions.md#Magic) action, you summon the spirits in a 30-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) before vanishing. Once you use this action, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you spend 7 Sorcery Points (no action required) to restore your use of it.
 
 #### Heal
 
-The spirits restore up to 100 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), divided as you choose among any number of creatures of your choice in the [Cube [Area of Effect]](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md).
+The spirits restore up to 100 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), divided as you choose among any number of creatures of your choice in the [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md).
 
 #### Repair
 
-Any damaged objects entirely in the [Cube [Area of Effect]](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) are repaired instantly.
+Any damaged objects entirely in the [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) are repaired instantly.
 
 #### Dispel
 
-Every spell of level 6 and lower ends on creatures and objects of your choice in the [Cube [Area of Effect]](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md).
+Every spell of level 6 and lower ends on creatures and objects of your choice in the [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md).

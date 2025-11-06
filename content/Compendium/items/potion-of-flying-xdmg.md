@@ -18,4 +18,4 @@ When you drink this potion, you gain a [Fly Speed](Compendium/rules/variant-rule
 
 This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it.
 
-*Source: Dungeon Master's Guide (2024) p. 287. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 287. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Vampire Spawn"]
 ---
 # Vampire Spawn
-*Source: Monster Manual (2024) p. 315*  
+*Source: Monster Manual (2024) p. 315. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/undead/img/vampire-spawn.webp#right)  
 Vampire spawn are newly created vampires. They have yet to fully master their abilities, and many are consumed by their thirst for blood. Vampire spawn might serve more powerful vampires or pursue their own depraved agendas.
@@ -29,8 +29,6 @@ Vampires disguise their accursed, immortal natures, passing as mortals to feed o
 Undead vampires lie dormant during the day, retreating to resting places hidden from foes and the sun's searing rays. Roll on or choose a result from the Vampire Resting Places table to inspire a vampire's grim sanctuary.
 
 **Vampire Resting Places**
-
-`dice: [](vampire-spawn-xmm.md#^vampire-resting-places)`
 
 | dice: 1d6 | The Vampire's Resting Place Is... |
 |-----------|-----------------------------------|
@@ -50,6 +48,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > 
 > Darling, you are simply delicious...
 
+![A vampire familiar provide...](Compendium/bestiary/undead/img/vampires.webp#center)  
 ## Statblock
 
 ```statblock
@@ -60,57 +59,62 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 "ac": !!int "16"
 "hp": !!int "90"
 "hit_dice": "12d8 + 36"
+"modifier": !!int "3"
 "stats":
-- !!int "16"
-- !!int "16"
-- !!int "16"
-- !!int "11"
-- !!int "10"
-- !!int "12"
+  - !!int "16"
+  - !!int "16"
+  - !!int "16"
+  - !!int "11"
+  - !!int "10"
+  - !!int "12"
 "speed": "30 ft."
 "saves":
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "3"
+  - "dexterity": !!int "6"
+  - "wisdom": !!int "3"
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "3"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
 "damage_resistances": "necrotic"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 13"
 "languages": "Common plus one other language"
 "cr": "5"
 "traits":
-- "desc": "The vampire can climb difficult surfaces, including along ceilings, without\
-    \ needing to make an ability check."
-  "name": "Spider Climb"
-- "desc": "The vampire has these weaknesses:\n\n- Forbiddance. The vampire can't\
-    \ enter a residence without an invitation from an occupant.  \n- Running Water.\
-    \ The vampire takes 20 Acid damage if it ends its turn in running water.  \n-\
-    \ Stake to the Heart. The vampire is destroyed if a weapon that deals Piercing\
-    \ damage is driven into the vampire's heart while the vampire has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
-    \ condition.  \n- Sunlight. The vampire takes 20 Radiant damage if it starts\
-    \ its turn in sunlight. While in sunlight, it has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-    \ on attack rolls and ability checks.  "
-  "name": "Vampire Weakness"
+  - "desc": "The vampire can climb difficult surfaces, including along ceilings, without\
+      \ needing to make an ability check."
+    "name": "Spider Climb"
+  - "desc": "The vampire has these weaknesses:\n\n- **Forbiddance.** The vampire can't\
+      \ enter a residence without an invitation from an occupant.  \n- **Running Water.**\
+      \ The vampire takes 20 Acid damage if it ends its turn in running water.  \n\
+      - **Stake to the Heart.** The vampire is destroyed if a weapon that deals Piercing\
+      \ damage is driven into the vampire's heart while the vampire has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ condition.  \n- **Sunlight.** The vampire takes 20 Radiant damage if it starts\
+      \ its turn in sunlight. While in sunlight, it has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on attack rolls and ability checks.  "
+    "name": "Vampire Weakness"
 "actions":
-- "desc": "The vampire makes two Claw attacks and uses Bite."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +6, reach 5 ft. Hit: 8 (2d4 + 3) Slashing damage.\
-    \ If the target is a Medium or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
-    \ condition (escape DC 13) from one of two claws."
-  "name": "Claw"
-- "desc": "Constitution Saving Throw: DC 14, one creature within 5 feet that is\
-    \ willing or that has the [Grappled](Compendium/rules/conditions.md#Grappled),\
-    \ [Incapacitated](Compendium/rules/conditions.md#Incapacitated), or [Restrained](Compendium/rules/conditions.md#Restrained)\
-    \ condition. Failure: 5 (1d4 + 3) Piercing damage plus 10 (3d6) Necrotic\
-    \ damage. The target's [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ maximum decreases by an amount equal to the Necrotic damage taken, and the vampire\
-    \ regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal\
-    \ to that amount."
-  "name": "Bite"
+  - "desc": "The vampire makes two Claw attacks and uses Bite."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (2d4 + 3) Slashing\
+      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 13) from one of two claws."
+    "name": "Claw"
+  - "desc": "*Constitution Saving Throw:* DC 14, one creature within 5 feet that is\
+      \ willing or that has the [Grappled](Compendium/rules/conditions.md#Grappled),\
+      \ [Incapacitated](Compendium/rules/conditions.md#Incapacitated), or [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ condition. *Failure:* 5 (1d4 + 3) Piercing damage plus 10 (3d6) Necrotic\
+      \ damage. The target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ maximum decreases by an amount equal to the Necrotic damage taken, and the\
+      \ vampire regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ equal to that amount."
+    "name": "Bite"
 "bonus_actions":
-- "desc": "The vampire takes the Dash or Disengage action."
-  "name": "Deathless Agility"
+  - "desc": "The vampire takes the Dash or Disengage action."
+    "name": "Deathless Agility"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/undead/token/vampire-spawn-xmm.webp"
 ```
 ^statblock

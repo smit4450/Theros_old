@@ -23,4 +23,4 @@ As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can seize and st
 
 While this pale lavender ellipsoid orbits your head, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to cancel a spell of level 4 or lower cast by a creature you can see. A canceled spell has no effect, and any resources used to cast it are wasted. Once the stone has canceled 20 levels of spells, it burns out, turns dull gray, and loses its magic.
 
-*Source: Dungeon Master's Guide (2024) p. 273*
+*Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

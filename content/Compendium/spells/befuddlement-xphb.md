@@ -11,12 +11,8 @@ tags:
 - ttrpg-cli/spell/school/enchantment
 classes:
 - Bard
-- Bard
-- Druid
 - Druid
 - Warlock
-- Warlock
-- Wizard
 - Wizard
 aliases: ["Befuddlement"]
 ---
@@ -24,9 +20,9 @@ aliases: ["Befuddlement"]
 *8th-level, Enchantment*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 150 feet
-- **Components:** V, S, a key ring with no keys
+- **Components:** V, S, M (a key ring with no keys)
 - **Duration:** Instantaneous
 
 You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.
@@ -35,6 +31,6 @@ On a failed save, the target takes `10d12` Psychic damage and can't cast spells 
 
 On a successful save, the target takes half as much damage only.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 245. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

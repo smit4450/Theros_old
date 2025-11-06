@@ -11,9 +11,9 @@ statblock: inline
 aliases: ["Cultist"]
 ---
 # Cultist
-*Source: Monster Manual (2024) p. 84*  
+*Source: Monster Manual (2024) p. 84, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/cultist.webp#right)  
+![](Compendium/bestiary/humanoid/img/cultists.webp#right)  
 Cultists devote themselves to their faith's leaders and otherworldly masters. While this zeal grants cultists no magical powers, it gives them remarkable resolve in the face of threats. Cultists perform much of a cult's mundane work, which might include evangelism, criminal acts, or serving as sacrifices.
 
 ## Cultists
@@ -21,13 +21,11 @@ Cultists devote themselves to their faith's leaders and otherworldly masters. Wh
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, Relics  
+- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
 **Cultist Agendas**
-
-`dice: [](cultist-xmm.md#^cultist-agendas)`
 
 | dice: 1d6 | The Cultist Strives To... |
 |-----------|---------------------------|
@@ -44,8 +42,6 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 Cults often identify with symbols that exemplify their beliefs. Such symbols might mark objects important to the cult, as well as the dress and bodies of cultists themselves. These symbols might be broadly understandable, or they might have meaning only to cultists. Roll twice on or choose results from the Cult Symbols table to inspire a cult's icons.
 
 **Cult Symbols**
-
-`dice: [](cultist-xmm.md#^cult-symbols)`
 
 | dice: 1d10 | The Symbol Is... | Depicted As... |
 |------------|------------------|----------------|
@@ -83,27 +79,32 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "ac": !!int "12"
 "hp": !!int "9"
 "hit_dice": "2d8"
+"modifier": !!int "1"
 "stats":
-- !!int "11"
-- !!int "12"
-- !!int "10"
-- !!int "10"
-- !!int "11"
-- !!int "10"
+  - !!int "11"
+  - !!int "12"
+  - !!int "10"
+  - !!int "10"
+  - !!int "11"
+  - !!int "10"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "2"
+  - "wisdom": !!int "2"
 "skillsaves":
-  "Deception": !!int "2"
-  "Religion": !!int "2"
+  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+    "desc": "+2"
+  - "name": "[Religion](Compendium/rules/skills.md#Religion)"
+    "desc": "+2"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "1/8"
 "actions":
-- "desc": "Melee Attack: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage\
-    \ plus 1 Necrotic damage."
-  "name": "Ritual Sickle"
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 3 (1d4 + 1) Slashing\
+      \ damage plus 1 Necrotic damage."
+    "name": "Ritual Sickle"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/humanoid/token/cultist-xmm.webp"
 ```
 ^statblock

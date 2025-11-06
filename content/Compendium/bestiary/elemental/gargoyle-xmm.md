@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Gargoyle"]
 ---
 # Gargoyle
-*Source: Monster Manual (2024) p. 128*  
+*Source: Monster Manual (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/elemental/img/gargoyle.webp#right)  
 ## Gargoyle
@@ -27,8 +27,6 @@ Gargoyles are sculptures inhabited by elemental spirits. Wings and magic allow t
 Gargoyles have a variety of appearances. Roll on or choose a result from the Gargoyle Sculptures table to inspire how a gargoyle looks.
 
 **Gargoyle Sculptures**
-
-`dice: [](gargoyle-xmm.md#^gargoyle-sculptures)`
 
 | dice: 1d6 | The Gargoyle Is Sculpted to Appear... |
 |-----------|---------------------------------------|
@@ -45,8 +43,6 @@ Gargoyles have a variety of appearances. Roll on or choose a result from the Gar
 Gargoyles seek to ambush foes or creatures that trespass on their territories. With no biological needs and supernatural patience, these monsters might wait unmoving for months, revealing themselves only when conditions are perfect to attack. They tend to lurk where statuary seems commonplace or where terrain obscures the shape and color of their bodies. Roll on or choose a result from the Gargoyle Camouflage table to inspire where a gargoyle sets up an ambush.
 
 **Gargoyle Camouflage**
-
-`dice: [](gargoyle-xmm.md#^gargoyle-camouflage)`
 
 | dice: 1d8 | The Gargoyle Conceals Itself Amid... |
 |-----------|--------------------------------------|
@@ -72,32 +68,37 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
 "ac": !!int "15"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
+"modifier": !!int "2"
 "stats":
-- !!int "15"
-- !!int "11"
-- !!int "16"
-- !!int "6"
-- !!int "11"
-- !!int "7"
+  - !!int "15"
+  - !!int "11"
+  - !!int "16"
+  - !!int "6"
+  - !!int "11"
+  - !!int "7"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
 "languages": "Primordial (Terran)"
 "cr": "2"
 "traits":
-- "desc": "The gargoyle doesn't provoke an Opportunity Attack when it flies out of\
-    \ an enemy's reach."
-  "name": "Flyby"
+  - "desc": "The gargoyle doesn't provoke an Opportunity Attack when it flies out\
+      \ of an enemy's reach."
+    "name": "Flyby"
 "actions":
-- "desc": "The gargoyle makes two Claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 7 (2d4 + 2) Slashing damage."
-  "name": "Claw"
+  - "desc": "The gargoyle makes two Claw attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (2d4 + 2) Slashing\
+      \ damage."
+    "name": "Claw"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/elemental/token/gargoyle-xmm.webp"
 ```
 ^statblock

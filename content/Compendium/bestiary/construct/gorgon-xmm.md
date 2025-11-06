@@ -13,9 +13,9 @@ statblock: inline
 aliases: ["Gorgon"]
 ---
 # Gorgon
-*Source: Monster Manual (2024) p. 148*  
+*Source: Monster Manual (2024) p. 148. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/construct/img/gorgon.webp#right)  
+![](Compendium/bestiary/construct/img/gorgons.webp#right)  
 Most gorgons are iron bulls wreathed in clouds of petrifying gas. Their metal plates vary in sheen and color, from sleek silver to pitted black. The oldest gorgons might be covered in rust, but this rarely impedes their abilities. These gorgons' stomping grounds are littered with the shattered remains of [petrified](Compendium/rules/conditions.md#Petrified) foes. Many gorgons outlive their creators by centuries, misleading some to believe these creations have natural origins and territories. Most such gorgons continue to follow age-old commands, guarding sites long fallen to ruin.
 
 ## Gorgons
@@ -34,8 +34,6 @@ When magic-users create gorgons, they often enchant them to ignore those who con
 Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [petrified](Compendium/rules/conditions.md#Petrified) trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
 
 **Gorgon Command Keys**
-
-`dice: [](gorgon-xmm.md#^gorgon-command-keys)`
 
 | dice: 1d6 | Gorgon Won't Attack Those That... |
 |-----------|-----------------------------------|
@@ -61,41 +59,45 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 "ac": !!int "19"
 "hp": !!int "114"
 "hit_dice": "12d10 + 48"
+"modifier": !!int "0"
 "stats":
-- !!int "20"
-- !!int "11"
-- !!int "18"
-- !!int "2"
-- !!int "12"
-- !!int "7"
+  - !!int "20"
+  - !!int "11"
+  - !!int "18"
+  - !!int "2"
+  - !!int "12"
+  - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "7"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+7"
 "condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [petrified](Compendium/rules/conditions.md#Petrified)"
-"senses": "darkvision 60 ft., passive Perception 17"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 17"
 "languages": ""
 "cr": "5"
 "actions":
-- "desc": "Melee Attack: +8, reach 5 ft. Hit: 18 (2d12 + 5) Piercing damage.\
-    \ If the target is a Large or smaller creature and the gorgon moved 20+ feet straight\
-    \ toward it immediately before the hit, the target has the [Prone](Compendium/rules/conditions.md#Prone)\
-    \ condition."
-  "name": "Gore"
-- "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [Cone [Area\
-    \ of Effect]](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). {@actSaveFail\
-    \ 1} The target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
-    \ condition and repeats the save at the end of its next turn if it is still [Restrained](Compendium/rules/conditions.md#Restrained),\
-    \ ending the effect on itself on a success. {@actSaveFail 2} The target has the\
-    \ [Petrified](Compendium/rules/conditions.md#Petrified) condition instead of the\
-    \ [Restrained](Compendium/rules/conditions.md#Restrained) condition."
-  "name": "Petrifying Breath (Recharge 5-6)"
+  - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 18 (2d12 + 5) Piercing\
+      \ damage. If the target is a Large or smaller creature and the gorgon moved\
+      \ 20+ feet straight toward it immediately before the hit, the target has the\
+      \ [Prone](Compendium/rules/conditions.md#Prone) condition."
+    "name": "Gore"
+  - "desc": "*Constitution Saving Throw:* DC 15, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *1St Failure:* The target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ condition and repeats the save at the end of its next turn if it is still\
+      \ [Restrained](Compendium/rules/conditions.md#Restrained), ending the effect\
+      \ on itself on a success. *2Nd Failure:* The target has the [Petrified](Compendium/rules/conditions.md#Petrified)\
+      \ condition instead of the [Restrained](Compendium/rules/conditions.md#Restrained)\
+      \ condition."
+    "name": "Petrifying Breath (Recharge 5-6)"
 "bonus_actions":
-- "desc": "Dexterity Saving Throw: DC 16, one creature within 5 feet that has the\
-    \ [Prone](Compendium/rules/conditions.md#Prone) condition. Failure: 16 (2d10\
-    \ + 5) Bludgeoning damage. Success: Half damage."
-  "name": "Trample"
+  - "desc": "*Dexterity Saving Throw:* DC 16, one creature within 5 feet that has\
+      \ the [Prone](Compendium/rules/conditions.md#Prone) condition. *Failure:* 16\
+      \ (2d10 + 5) Bludgeoning damage. *Success:* Half damage."
+    "name": "Trample"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/construct/token/gorgon-xmm.webp"
 ```
 ^statblock

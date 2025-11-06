@@ -14,7 +14,7 @@ aliases:
 *Weapon*  
 
 
-- **Damage**: 6d8 N
+- **Damage**: 6d8 necrotic
 - **Range**: 120/360
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.

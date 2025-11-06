@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Shambling Mound"]
 ---
 # Shambling Mound
-*Source: Monster Manual (2024) p. 276*  
+*Source: Monster Manual (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/plant/img/shambling-mound.webp#right)  
 ## Shambling Mound
@@ -27,8 +27,6 @@ Shambling mounds—also known as "shamblers"—embody the tenacity of the wilder
 Strange circumstances might give rise to shambling mounds, transforming vegetation into hulks with rudimentary cunning. Such conditions include strikes from magical lightning, nature defending itself, or druidic curses. Roll on or choose a result from the Shambling Mound Cultivation table to inspire a shambling mound's origins and features.
 
 **Shambling Mound Cultivation**
-
-`dice: [](shambling-mound-xmm.md#^shambling-mound-cultivation)`
 
 | dice: 1d6 | The Shambling Mound Is... |
 |-----------|---------------------------|
@@ -47,47 +45,51 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
 "ac": !!int "15"
 "hp": !!int "110"
 "hit_dice": "13d10 + 39"
+"modifier": !!int "-1"
 "stats":
-- !!int "18"
-- !!int "8"
-- !!int "16"
-- !!int "5"
-- !!int "10"
-- !!int "5"
+  - !!int "18"
+  - !!int "8"
+  - !!int "16"
+  - !!int "5"
+  - !!int "10"
+  - !!int "5"
 "speed": "30 ft., swim 20 ft."
 "skillsaves":
-  "Stealth": !!int "3"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+3"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning"
 "condition_immunities": "[deafened](Compendium/rules/conditions.md#Deafened), [exhaustion](Compendium/rules/conditions.md#Exhaustion)"
-"senses": "blindsight 60 ft., passive Perception 10"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+  \ 10"
 "languages": ""
 "cr": "5"
 "traits":
-- "desc": "Whenever the shambling mound is subjected to Lightning damage, it regains\
-    \ a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ equal to the Lightning damage dealt."
-  "name": "Lightning Absorption"
+  - "desc": "Whenever the shambling mound is subjected to Lightning damage, it regains\
+      \ a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ equal to the Lightning damage dealt."
+    "name": "Lightning Absorption"
 "actions":
-- "desc": "The shambling mound makes three Charged Tendril attacks. It can replace\
-    \ one attack with a use of Engulf."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 10 ft. Hit: 7 (1d6 + 4) Bludgeoning damage\
-    \ plus 5 (2d4) Lightning damage. If the target is a Medium or smaller creature,\
-    \ the shambling mound pulls the target 5 feet straight toward itself."
-  "name": "Charged Tendril"
-- "desc": "Strength Saving Throw: DC 15, one Medium or smaller creature within 5\
-    \ feet. Failure: The target is pulled into the shambling mound's space and has\
-    \ the [Grappled](Compendium/rules/conditions.md#Grappled) condition (escape DC\
-    \ 14). Until the grapple ends, the target has the [Blinded](Compendium/rules/conditions.md#Blinded)\
-    \ and [Restrained](Compendium/rules/conditions.md#Restrained) conditions, and\
-    \ it takes 10 (3d6) Lightning damage at the start of each of its turns. When\
-    \ the shambling mound moves, the [Grappled](Compendium/rules/conditions.md#Grappled)\
-    \ target moves with it, costing it no extra movement. The shambling mound can\
-    \ have only one creature [Grappled](Compendium/rules/conditions.md#Grappled) by\
-    \ this action at a time."
-  "name": "Engulf"
+  - "desc": "The shambling mound makes three Charged Tendril attacks. It can replace\
+      \ one attack with a use of Engulf."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 7 (1d6 + 4) Bludgeoning\
+      \ damage plus 5 (2d4) Lightning damage. If the target is a Medium or smaller\
+      \ creature, the shambling mound pulls the target 5 feet straight toward itself."
+    "name": "Charged Tendril"
+  - "desc": "*Strength Saving Throw:* DC 15, one Medium or smaller creature within\
+      \ 5 feet. *Failure:* The target is pulled into the shambling mound's space and\
+      \ has the [Grappled](Compendium/rules/conditions.md#Grappled) condition (escape\
+      \ DC 14). Until the grapple ends, the target has the [Blinded](Compendium/rules/conditions.md#Blinded)\
+      \ and [Restrained](Compendium/rules/conditions.md#Restrained) conditions, and\
+      \ it takes 10 (3d6) Lightning damage at the start of each of its turns. When\
+      \ the shambling mound moves, the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ target moves with it, costing it no extra movement. The shambling mound can\
+      \ have only one creature [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ by this action at a time."
+    "name": "Engulf"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/plant/token/shambling-mound-xmm.webp"
 ```
 ^statblock

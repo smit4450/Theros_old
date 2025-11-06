@@ -18,4 +18,4 @@ When you drink this potion, you are cured of all magical contagions. In addition
 
 The clear, red liquid has tiny bubbles of light in it.
 
-*Source: Dungeon Master's Guide (2024) p. 257. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 257. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

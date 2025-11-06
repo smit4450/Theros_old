@@ -16,7 +16,7 @@ statblock: inline
 aliases: ["Wight"]
 ---
 # Wight
-*Source: Monster Manual (2024) p. 332*  
+*Source: Monster Manual (2024) p. 332. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/undead/img/wight.webp#right)  
 ## Wight
@@ -24,7 +24,7 @@ aliases: ["Wight"]
 *Life-Leeching Corpse Warrior*
 
 - **Habitat.** Desert, Planar (Shadowfell), Swamp, Underdark, Urban  
-- **Treasure.** Armaments  
+- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
 
 Wights are the withered corpses of relentless warriors whose wickedness sustains them beyond death. Unlike mere zombies, they retain the memories and evil agendas they harbored in life.
 
@@ -33,8 +33,6 @@ After dying and returning from the grave, a wight continues its villainous ways,
 Wights might return from the dead for a multitude of sinister reasons. Roll on or choose a result from the Wight Motives table to inspire why a wight plagues the living.
 
 **Wight Motives**
-
-`dice: [](wight-xmm.md#^wight-motives)`
 
 | dice: 1d8 | The Wight Returned from the Dead To... |
 |-----------|----------------------------------------|
@@ -55,47 +53,52 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
 "ac": !!int "14"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
+"modifier": !!int "4"
 "stats":
-- !!int "15"
-- !!int "14"
-- !!int "16"
-- !!int "10"
-- !!int "13"
-- !!int "15"
+  - !!int "15"
+  - !!int "14"
+  - !!int "16"
+  - !!int "10"
+  - !!int "13"
+  - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
 "condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 13"
 "languages": "Common plus one other language"
 "cr": "3"
 "traits":
-- "desc": "While in sunlight, the wight has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-    \ on ability checks and attack rolls."
-  "name": "Sunlight Sensitivity"
+  - "desc": "While in sunlight, the wight has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "The wight makes two attacks, using Necrotic Sword or Necrotic Bow in any\
-    \ combination. It can replace one attack with a use of Life Drain."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage\
-    \ plus 4 (1d8) Necrotic damage."
-  "name": "Necrotic Sword"
-- "desc": "Ranged Attack: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing\
-    \ damage plus 4 (1d8) Necrotic damage."
-  "name": "Necrotic Bow"
-- "desc": "Constitution Saving Throw: DC 13, one creature within 5 feet. Failure:\
-    \ 6 (1d8 + 2) Necrotic damage, and the target's [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ maximum decreases by an amount equal to the damage taken.\n\nA Humanoid slain\
-    \ by this attack rises 24 hours later as a [Zombie](Compendium/bestiary/undead/zombie-xmm.md)\
-    \ under the wight's control, unless the Humanoid is restored to life or its body\
-    \ is destroyed. The wight can have no more than twelve zombies under its control\
-    \ at a time."
-  "name": "Life Drain"
+  - "desc": "The wight makes two attacks, using Necrotic Sword or Necrotic Bow in\
+      \ any combination. It can replace one attack with a use of Life Drain."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Slashing\
+      \ damage plus 4 (1d8) Necrotic damage."
+    "name": "Necrotic Sword"
+  - "desc": "*Ranged Attack Roll:* +4, range 150/600 ft. *Hit:* 6 (1d8 + 2) Piercing\
+      \ damage plus 4 (1d8) Necrotic damage."
+    "name": "Necrotic Bow"
+  - "desc": "*Constitution Saving Throw:* DC 13, one creature within 5 feet. *Failure:*\
+      \ 6 (1d8 + 2) Necrotic damage, and the target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ maximum decreases by an amount equal to the damage taken.\n\nA Humanoid slain\
+      \ by this attack rises 24 hours later as a [Zombie](Compendium/bestiary/undead/zombie-xmm.md)\
+      \ under the wight's control, unless the Humanoid is restored to life or its\
+      \ body is destroyed. The wight can have no more than twelve zombies under its\
+      \ control at a time."
+    "name": "Life Drain"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/undead/token/wight-xmm.webp"
 ```
 ^statblock

@@ -17,4 +17,4 @@ This gem has 3 charges. As a [Magic](Compendium/rules/actions.md#Magic) action, 
 
 The gem regains `1d3` expended charges daily at dawn.
 
-*Source: Dungeon Master's Guide (2024) p. 264*
+*Source: Dungeon Master's Guide (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -25,8 +25,6 @@ The robe has two of each of the following patches:
 
 In addition, the robe has `4d4` other patches. The DM chooses the patches or determines them randomly by rolling on the following table.
 
-`dice: [](robe-of-useful-items-xdmg.md#^1-patch)`
-
 | dice: 1d100 | Patch |
 |-------------|-------|
 | 01-08 | Bag of 100 GP |
@@ -35,7 +33,7 @@ In addition, the robe has `4d4` other patches. The DM chooses the patches or det
 | 23-30 | 10 gems worth 100 GP each |
 | 31-44 | Wooden ladder (24 feet long) |
 | 45-51 | [Riding Horse](Compendium/bestiary/beast/riding-horse-xmm.md) with a [Riding Saddle](Compendium/items/riding-saddle-xphb.md) |
-| 52-59 | Open pit (a 10-foot [Cube [Area of Effect]](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)), which you can place on the ground within 10 feet of yourself |
+| 52-59 | Open pit (a 10-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)), which you can place on the ground within 10 feet of yourself |
 | 60-68 | 4 [Potions of Healing](Compendium/items/potion-of-healing-xdmg.md) |
 | 69-75 | [Rowboat](Compendium/items/rowboat-xphb.md) (12 feet long) |
 | 76-83 | [Spell Scroll](Compendium/items/spell-scroll-xdmg.md) containing one spell of level 1, 2, or 3 (your choice) |
@@ -44,4 +42,4 @@ In addition, the robe has `4d4` other patches. The DM chooses the patches or det
 | 97-00 | [Portable Ram](Compendium/items/portable-ram-xphb.md) |
 ^1-patch
 
-*Source: Dungeon Master's Guide (2024) p. 298*
+*Source: Dungeon Master's Guide (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

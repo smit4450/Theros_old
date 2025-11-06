@@ -13,7 +13,7 @@ statblock: inline
 aliases: ["Ettin"]
 ---
 # Ettin
-*Source: Monster Manual (2024) p. 116*  
+*Source: Monster Manual (2024) p. 116. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/giant/img/ettin.webp#right)  
 ## Ettin
@@ -32,8 +32,6 @@ Each ettin head has a distinct personality. While this makes some ettins quarrel
 Roll on or choose a result from the Ettin Interactions table to inspire how an ettin's heads are interacting when the creature is encountered.
 
 **Ettin Interactions**
-
-`dice: [](ettin-xmm.md#^ettin-interactions)`
 
 | dice: 1d8 | The Ettin's Heads Are... |
 |-----------|--------------------------|
@@ -59,34 +57,38 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 "ac": !!int "12"
 "hp": !!int "85"
 "hit_dice": "10d10 + 30"
+"modifier": !!int "-1"
 "stats":
-- !!int "21"
-- !!int "8"
-- !!int "17"
-- !!int "6"
-- !!int "10"
-- !!int "8"
+  - !!int "21"
+  - !!int "8"
+  - !!int "17"
+  - !!int "6"
+  - !!int "10"
+  - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "4"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
 "condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
   \ [deafened](Compendium/rules/conditions.md#Deafened), [frightened](Compendium/rules/conditions.md#Frightened),\
   \ [stunned](Compendium/rules/conditions.md#Stunned), [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 14"
 "languages": "Giant"
 "cr": "4"
 "actions":
-- "desc": "The ettin makes one Battleaxe attack and one Morningstar attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 14 (2d8 + 5) Slashing damage.\
-    \ If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
-    \ condition."
-  "name": "Battleaxe"
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage,\
-    \ and the target has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-    \ on the next attack roll it makes before the end of its next turn."
-  "name": "Morningstar"
+  - "desc": "The ettin makes one Battleaxe attack and one Morningstar attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (2d8 + 5) Slashing\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Battleaxe"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (2d8 + 5) Piercing\
+      \ damage, and the target has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on the next attack roll it makes before the end of its next turn."
+    "name": "Morningstar"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/giant/token/ettin-xmm.webp"
 ```
 ^statblock

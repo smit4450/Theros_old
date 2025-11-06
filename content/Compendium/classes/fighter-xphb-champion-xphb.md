@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/fighter/champion
-aliases: ["Champion"]
+aliases:
+- Champion
 ---
 # Champion
-*[Fighter](fighter-xphb.md): Fighter Subclass*  
-*Source: Player's Handbook (2024) p. 96. Available in the Free Rules (2024)*  
+*[Fighter](./fighter-xphb.md): Fighter Subclass*  
+*Source: Player's Handbook (2024) p. 96. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -19,26 +21,27 @@ aliases: ["Champion"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Champion%20(Level%203)'>Champion</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Champion (Level 3)' class='internal-link'>Champion</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Additional%20Fighting%20Style%20(Level%207)'>Additional Fighting Style</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Additional Fighting Style (Level 7)' class='internal-link'>Additional Fighting Style</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Heroic%20Warrior%20(Level%2010)'>Heroic Warrior</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Heroic Warrior (Level 10)' class='internal-link'>Heroic Warrior</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Superior%20Critical%20(Level%2015)'>Superior Critical</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Superior Critical (Level 15)' class='internal-link'>Superior Critical</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Survivor%20(Level%2018)'>Survivor</a></td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Survivor (Level 18)' class='internal-link'>Survivor</a></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -77,8 +80,8 @@ You attain the pinnacle of resilience in battle, giving you these benefits.
 
 #### Defy Death
 
-You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Death Saving Throws. Moreover, when you roll 18–20 on a [Death Saving Throw](Compendium/rules/variant-rules/death-saving-throw-xphb.md), you gain the benefit of rolling a 20 on it.
+You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on [Death Saving Throws](Compendium/rules/variant-rules/death-saving-throw-xphb.md). Moreover, when you roll 18–20 on a [Death Saving Throw](Compendium/rules/variant-rules/death-saving-throw-xphb.md), you gain the benefit of rolling a 20 on it.
 
 #### Heroic Rally
 
-At the start of each of your turns, you regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to 5 plus your Constitution modifier if you are [Bloodied](Compendium/rules/variant-rules/bloodied-xphb.md) and have at least 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).
+At the start of each of your turns, you regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to 5 plus your Constitution modifier if you are [Bloodied](Compendium/rules/conditions.md#Bloodied) and have at least 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md).

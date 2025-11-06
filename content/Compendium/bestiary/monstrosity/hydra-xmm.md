@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Hydra"]
 ---
 # Hydra
-*Source: Monster Manual (2024) p. 175*  
+*Source: Monster Manual (2024) p. 175. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/monstrosity/img/hydra.webp#right)  
 ## Hydra
@@ -30,8 +30,6 @@ While many hydras claim their own territories, wicked deities might use them to 
 
 **Hydra Lairs**
 
-`dice: [](hydra-xmm.md#^hydra-lairs)`
-
 | dice: 1d4 | The Hydra Lurks Where It Does To... |
 |-----------|-------------------------------------|
 | 1 | Ensure none claim the weapon of a fallen hero. |
@@ -47,41 +45,47 @@ While many hydras claim their own territories, wicked deities might use them to 
 "ac": !!int "15"
 "hp": !!int "184"
 "hit_dice": "16d12 + 80"
+"modifier": !!int "4"
 "stats":
-- !!int "20"
-- !!int "12"
-- !!int "20"
-- !!int "2"
-- !!int "10"
-- !!int "7"
+  - !!int "20"
+  - !!int "12"
+  - !!int "20"
+  - !!int "2"
+  - !!int "10"
+  - !!int "7"
 "speed": "40 ft., swim 40 ft."
 "skillsaves":
-  "Perception": !!int "6"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
 "condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
   \ [deafened](Compendium/rules/conditions.md#Deafened), [frightened](Compendium/rules/conditions.md#Frightened),\
   \ [stunned](Compendium/rules/conditions.md#Stunned), [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "darkvision 60 ft., passive Perception 16"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 16"
 "languages": ""
 "cr": "8"
 "traits":
-- "desc": "The hydra can hold its breath for 1 hour."
-  "name": "Hold Breath"
-- "desc": "The hydra has five heads. Whenever the hydra takes 25 damage or more on\
-    \ a single turn, one of its heads dies. The hydra dies if all its heads are dead.\
-    \ At the end of each of its turns when it has at least one living head, the hydra\
-    \ grows two heads for each of its heads that died since its last turn, unless\
-    \ it has taken Fire damage since its last turn. The hydra regains 20 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ when it grows new heads."
-  "name": "Multiple Heads"
-- "desc": "For each head the hydra has beyond one, it gets an extra [Reaction](Compendium/rules/variant-rules/reaction-xphb.md)\
-    \ that can be used only for Opportunity Attacks."
-  "name": "Reactive Heads"
+  - "desc": "The hydra can hold its breath for 1 hour."
+    "name": "Hold Breath"
+  - "desc": "The hydra has five heads. Whenever the hydra takes 25 damage or more\
+      \ on a single turn, one of its heads dies. The hydra dies if all its heads are\
+      \ dead. At the end of each of its turns when it has at least one living head,\
+      \ the hydra grows two heads for each of its heads that died since its last turn,\
+      \ unless it has taken Fire damage since its last turn. The hydra regains 20\
+      \ [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) when it grows\
+      \ new heads."
+    "name": "Multiple Heads"
+  - "desc": "For each head the hydra has beyond one, it gets an extra [Reaction](Compendium/rules/variant-rules/reaction-xphb.md)\
+      \ that can be used only for [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)."
+    "name": "Reactive Heads"
 "actions":
-- "desc": "The hydra makes as many Bite attacks as it has heads."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +8, reach 10 ft. Hit: 10 (1d10 + 5) Piercing damage."
-  "name": "Bite"
+  - "desc": "The hydra makes as many Bite attacks as it has heads."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 10 (1d10 + 5) Piercing\
+      \ damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/monstrosity/token/hydra-xmm.webp"
 ```
 ^statblock

@@ -19,4 +19,4 @@ aliases:
 - [Elemental Gem, Red Corundum](Compendium/items/elemental-gem-red-corundum-xdmg.md)
 - [Elemental Gem, Yellow Diamond](Compendium/items/elemental-gem-yellow-diamond-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 257*
+*Source: Dungeon Master's Guide (2024) p. 257. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

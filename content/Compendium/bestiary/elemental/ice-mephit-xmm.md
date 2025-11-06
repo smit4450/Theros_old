@@ -12,9 +12,9 @@ statblock: inline
 aliases: ["Ice Mephit"]
 ---
 # Ice Mephit
-*Source: Monster Manual (2024) p. 206*  
+*Source: Monster Manual (2024) p. 206. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/elemental/img/ice-mephit.webp#right)  
+![](Compendium/bestiary/elemental/img/mephits.webp#right)  
 Ice mephits have bodies made of frigid air and frozen water. They delight in freezing things and dropping ice into peoples' clothes.
 
 ## Mephits
@@ -42,43 +42,46 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "ac": !!int "11"
 "hp": !!int "21"
 "hit_dice": "6d6"
+"modifier": !!int "1"
 "stats":
-- !!int "7"
-- !!int "13"
-- !!int "10"
-- !!int "9"
-- !!int "11"
-- !!int "12"
+  - !!int "7"
+  - !!int "13"
+  - !!int "10"
+  - !!int "9"
+  - !!int "11"
+  - !!int "12"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Stealth": !!int "3"
-  "Perception": !!int "2"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+2"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+3"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "cold, poison"
 "condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 12"
 "languages": "Primordial (Aquan, Auran)"
 "cr": "1/2"
 "traits":
-- "desc": "The mephit casts [Fog Cloud](Compendium/spells/fog-cloud-xphb.md), requiring\
-    \ no spell components and using Charisma as the spellcasting ability.\n\n1/day:\
-    \ [Fog Cloud](Compendium/spells/fog-cloud-xphb.md)"
-  "name": "Fog Cloud (1/Day)"
-- "desc": "The mephit explodes when it dies. Constitution Saving Throw: DC 10, each\
-    \ creature in a 5-foot [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the mephit. Failure: 5 (2d4) Cold damage. Success: Half\
-    \ damage."
-  "name": "Death Burst"
+  - "desc": "The mephit explodes when it dies. *Constitution Saving Throw:* DC 10,\
+      \ each creature in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the mephit. *Failure:* 5 (2d4) Cold damage. *Success:*\
+      \ Half damage."
+    "name": "Death Burst"
 "actions":
-- "desc": "Melee Attack: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage\
-    \ plus 2 (1d4) Cold damage."
-  "name": "Claw"
-- "desc": "Constitution Saving Throw: DC 10, each creature in a 15-foot [Cone [Area\
-    \ of Effect]](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md). Failure:\
-    \ 7 (3d4) Cold damage. Success: Half damage."
-  "name": "Frost Breath (Recharge 6)"
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 3 (1d4 + 1) Slashing\
+      \ damage plus 2 (1d4) Cold damage."
+    "name": "Claw"
+  - "desc": "*Constitution Saving Throw:* DC 10, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 7 (3d4) Cold damage. *Success:* Half damage."
+    "name": "Frost Breath (Recharge 6)"
+  - "desc": "The mephit casts [Fog Cloud](Compendium/spells/fog-cloud-xphb.md), requiring\
+      \ no spell components and using Charisma as the spellcasting ability.\n"
+    "name": "Fog Cloud (1/Day)"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/elemental/token/ice-mephit-xmm.webp"
 ```
 ^statblock

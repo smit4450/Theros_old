@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Death Saving Throw"]
+aliases:
+- Death Saving Throw
 ---
 # Death Saving Throw
-*Source: Player's Handbook (2024) p. 365. Available in the Free Rules (2024)* 
+*Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-A [Player Character](Compendium/rules/variant-rules/player-character-xphb.md) must make a Death Saving Throw (also called a Death Save) if they start their turn with 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).
+A [player character](Compendium/rules/variant-rules/player-character-xphb.md) must make a Death Saving Throw (also called a Death Save) if they start their turn with 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).

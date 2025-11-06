@@ -13,14 +13,9 @@ tags:
 - ttrpg-cli/spell/subclass/diviner
 classes:
 - Bard
-- Bard
-- Cleric
 - Cleric
 - Sorcerer
-- Sorcerer
 - Warlock
-- Warlock
-- Wizard
 - Wizard
 - Wizard (Diviner)
 aliases: ["True Seeing"]
@@ -29,13 +24,13 @@ aliases: ["True Seeing"]
 *6th-level, Divination*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Touch
-- **Components:** V, S, mushroom powder worth 25+ GP, which the spell consumes
+- **Components:** V, S, M (mushroom powder worth 25+ GP, which the spell consumes)
 - **Duration:** 1 hour
 
 For the duration, the willing creature you touch has [Truesight](Compendium/rules/senses.md#Truesight) with a range of 120 feet.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Diviner)](list-spells-classes-wizard-xphb-diviner-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 336. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

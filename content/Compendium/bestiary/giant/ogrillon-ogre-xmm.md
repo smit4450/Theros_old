@@ -20,7 +20,7 @@ aliases: ["Ogrillon Ogre"]
 # Ogrillon Ogre
 *Source: Monster Manual (2024) p. 231*  
 
-![](Compendium/bestiary/giant/img/ogrillon-ogre.webp#right)  
+![](Compendium/bestiary/giant/img/ogres.webp#right)  
 Ogrillons arise from Humanoids cursed by foul magic or the will of wrathful deities. They appear similar to whoever they once were, but they grow to over 8 feet tall and gain ogre-like features. Ogrillons constantly seethe with supernatural anger, which they might struggle to control or purposefully vent on other creatures.
 
 ## Ogres
@@ -28,7 +28,7 @@ Ogrillons arise from Humanoids cursed by foul magic or the will of wrathful deit
 *Raging Hulks and Hoarders*
 
 - **Habitat.** Arctic, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark  
-- **Treasure.** Armaments  
+- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
 
 Ogres are selfish raiders and hulking gluttons spawned of hateful supernatural forces. From dismal ruins and bleak hinterlands, they raid vulnerable communities and ambush travelers. Ogres covet food and treasure, and they spitefully destroy art, books, clockwork devices, and other delicate or lovingly made things. Occasionally they kidnap victims to eat later or, more rarely, performers who catch their interest.
 
@@ -43,24 +43,28 @@ Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Va
 "ac": !!int "12"
 "hp": !!int "52"
 "hit_dice": "7d10 + 14"
+"modifier": !!int "0"
 "stats":
-- !!int "17"
-- !!int "10"
-- !!int "14"
-- !!int "7"
-- !!int "9"
-- !!int "10"
+  - !!int "17"
+  - !!int "10"
+  - !!int "14"
+  - !!int "7"
+  - !!int "9"
+  - !!int "10"
 "speed": "30 ft."
-"senses": "darkvision 60 ft., passive Perception 9"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 9"
 "languages": "Common, Giant"
 "cr": "1"
 "actions":
-- "desc": "Melee Attack: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage."
-  "name": "Battleaxe"
-- "desc": "Melee or Ranged Attack: +5, reach 5 ft. or range 30/120 ft. Hit:\
-    \ 6 (1d6 + 3) Piercing damage."
-  "name": "Javelin"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Slashing\
+      \ damage."
+    "name": "Battleaxe"
+  - "desc": "*Melee  or Ranged Attack Roll:* +5, reach 5 ft. or range 30/120 ft.\
+      \ *Hit:* 6 (1d6 + 3) Piercing damage."
+    "name": "Javelin"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/giant/token/ogrillon-ogre-xmm.webp"
 ```
 ^statblock

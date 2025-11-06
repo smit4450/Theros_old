@@ -1,14 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
 - ttrpg-cli/monster/legendary-group
-aliases: ["Shadow Dragon"]
+aliases:
+- Shadow Dragon
 ---
 # Shadow Dragon
 
-## Regional effects
+## Regional Effects
 _Source: Monster Manual (2024)_
 
 The region around a shadow dragon's lair is twisted by its presence, creating the following effects:

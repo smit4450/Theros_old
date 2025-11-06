@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Random Magic Items - Relics"]
+aliases:
+- Random Magic Items - Relics
 ---
 # Random Magic Items - Relics
 *Source: Dungeon Master's Guide (2024) p. 330* 
 
 **Relics - Common**
-
-`dice: [](random-magic-items-relics.md#^relics-common)`
 
 | dice: 1d100 | Item |
 |-------------|------|
@@ -26,8 +26,6 @@ aliases: ["Random Magic Items - Relics"]
 ^relics-common
 
 **Relics - Uncommon**
-
-`dice: [](random-magic-items-relics.md#^relics-uncommon)`
 
 | dice: 1d100 | Item |
 |-------------|------|
@@ -51,8 +49,6 @@ aliases: ["Random Magic Items - Relics"]
 ^relics-uncommon
 
 **Relics - Rare**
-
-`dice: [](random-magic-items-relics.md#^relics-rare)`
 
 | dice: 1d100 | Item |
 |-------------|------|
@@ -90,8 +86,6 @@ aliases: ["Random Magic Items - Relics"]
 
 **Relics - Very Rare**
 
-`dice: [](random-magic-items-relics.md#^relics-very-rare)`
-
 | dice: 1d100 | Item |
 |-------------|------|
 | 01–05 | [Armor, +2](Compendium/items/2-armor-xdmg.md) |
@@ -115,8 +109,6 @@ aliases: ["Random Magic Items - Relics"]
 ^relics-very-rare
 
 **Relics - Legendary**
-
-`dice: [](random-magic-items-relics.md#^relics-legendary)`
 
 | dice: 1d100 | Item |
 |-------------|------|

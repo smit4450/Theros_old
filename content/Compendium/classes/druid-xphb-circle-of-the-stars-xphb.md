@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/druid/stars
-aliases: ["Circle of the Stars"]
+aliases:
+- Circle of the Stars
 ---
 # Circle of the Stars
-*[Druid](druid-xphb.md): Druid Subclass*  
+*[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Player's Handbook (2024) p. 88*  
 
 > [!tldr] Class and Feature Progression
@@ -19,18 +21,18 @@ aliases: ["Circle of the Stars"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Circle%20of%20the%20Stars%20(Level%203)'>Circle of the Stars</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Circle of the Stars (Level 3)' class='internal-link'>Circle of the Stars</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Cosmic%20Omen%20(Level%206)'>Cosmic Omen</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Cosmic Omen (Level 6)' class='internal-link'>Cosmic Omen</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Twinkling%20Constellations%20(Level%2010)'>Twinkling Constellations</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Twinkling Constellations (Level 10)' class='internal-link'>Twinkling Constellations</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Full%20of%20Stars%20(Level%2014)'>Full of Stars</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Full of Stars (Level 14)' class='internal-link'>Full of Stars</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -38,7 +40,8 @@ aliases: ["Circle of the Stars"]
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -55,11 +58,9 @@ You've created a star chart as part of your heavenly studies. It is a Tiny objec
 
 While holding the map, you have the [Guidance](Compendium/spells/guidance-xphb.md) and [Guiding Bolt](Compendium/spells/guiding-bolt-xphb.md) spells prepared, and you can cast [Guiding Bolt](Compendium/spells/guiding-bolt-xphb.md) without expending a spell slot. You can cast it in that way a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
 
-If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), and it destroys the previous map.
+If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), and it destroys the previous map.
 
 **Star Map**
-
-`dice: [](druid-xphb-circle-of-the-stars-xphb.md#^star-map)`
 
 | dice: 1d6 | Map Form |
 |-----------|----------|

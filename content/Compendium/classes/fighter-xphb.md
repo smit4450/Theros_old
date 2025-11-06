@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/class/fighter
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Fighter"]
+aliases:
+- Fighter
 ---
 # Fighter
-*Source: Player's Handbook (2024) p. 90. Available in the Free Rules (2024)*  
+*Source: Player's Handbook (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -16,28 +18,29 @@ aliases: ["Fighter"]
 > <tr><th colspan='5'></th></tr>
 > <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Second Wind</th><th class="value">Weapon Mastery</th></tr>
 > </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Fighting%20Style%20(Level%201)'>Fighting Style</a>, <a href='#Second%20Wind%20(Level%201)'>Second Wind</a>, <a href='#Weapon%20Mastery%20(Level%201)'>Weapon Mastery</a></td><td class="value">2</td><td class="value">3</td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Action%20Surge%20(Level%202)'>Action Surge</a>, <a href='#Tactical%20Mind%20(Level%202)'>Tactical Mind</a></td><td class="value">2</td><td class="value">3</td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Fighter%20Subclass%20(Level%203)'>Fighter Subclass</a></td><td class="value">2</td><td class="value">3</td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%204)'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra%20Attack%20(Level%205)'>Extra Attack</a>, <a href='#Tactical%20Shift%20(Level%205)'>Tactical Shift</a></td><td class="value">3</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%206)'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Subclass%20Feature%20(Level%207)'>Subclass Feature</a></td><td class="value">3</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%208)'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Indomitable%20(Level%209)'>Indomitable</a>, <a href='#Tactical%20Master%20(Level%209)'>Tactical Master</a></td><td class="value">3</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Subclass%20Feature%20(Level%2010)'>Subclass Feature</a></td><td class="value">4</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Two%20Extra%20Attacks%20(Level%2011)'>Two Extra Attacks</a></td><td class="value">4</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2012)'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Indomitable%20(Level%2013)'>Indomitable</a>, <a href='#Studied%20Attacks%20(Level%2013)'>Studied Attacks</a></td><td class="value">4</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2014)'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Subclass%20Feature%20(Level%2015)'>Subclass Feature</a></td><td class="value">4</td><td class="value">5</td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability%20Score%20Improvement%20(Level%2016)'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">6</td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Action%20Surge%20(Level%2017)'>Action Surge</a>, <a href='#Indomitable%20(Level%2017)'>Indomitable</a></td><td class="value">4</td><td class="value">6</td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Subclass%20Feature%20(Level%2018)'>Subclass Feature</a></td><td class="value">4</td><td class="value">6</td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Epic%20Boon%20(Level%2019)'>Epic Boon</a></td><td class="value">4</td><td class="value">6</td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Three%20Extra%20Attacks%20(Level%2020)'>Three Extra Attacks</a></td><td class="value">4</td><td class="value">6</td></tr>
+> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Fighting Style (Level 1)' class='internal-link'>Fighting Style</a>, <a href='#Second Wind (Level 1)' class='internal-link'>Second Wind</a>, <a href='#Weapon Mastery (Level 1)' class='internal-link'>Weapon Mastery</a></td><td class="value">2</td><td class="value">3</td></tr>
+> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Action Surge (Level 2)' class='internal-link'>Action Surge</a>, <a href='#Tactical Mind (Level 2)' class='internal-link'>Tactical Mind</a></td><td class="value">2</td><td class="value">3</td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Fighter Subclass (Level 3)' class='internal-link'>Fighter Subclass</a></td><td class="value">2</td><td class="value">3</td></tr>
+> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra Attack (Level 5)' class='internal-link'>Extra Attack</a>, <a href='#Tactical Shift (Level 5)' class='internal-link'>Tactical Shift</a></td><td class="value">3</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 6)' class='internal-link'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Subclass Feature (Level 7)' class='internal-link'>Subclass Feature</a></td><td class="value">3</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Indomitable (Level 9)' class='internal-link'>Indomitable</a>, <a href='#Tactical Master (Level 9)' class='internal-link'>Tactical Master</a></td><td class="value">3</td><td class="value">4</td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Subclass Feature (Level 10)' class='internal-link'>Subclass Feature</a></td><td class="value">4</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Two Extra Attacks (Level 11)' class='internal-link'>Two Extra Attacks</a></td><td class="value">4</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Indomitable (Level 13)' class='internal-link'>Indomitable</a>, <a href='#Studied Attacks (Level 13)' class='internal-link'>Studied Attacks</a></td><td class="value">4</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 14)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Subclass Feature (Level 15)' class='internal-link'>Subclass Feature</a></td><td class="value">4</td><td class="value">5</td></tr>
+> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">6</td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Action Surge (Level 17)' class='internal-link'>Action Surge</a>, <a href='#Indomitable (Level 17)' class='internal-link'>Indomitable</a></td><td class="value">4</td><td class="value">6</td></tr>
+> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Subclass Feature (Level 18)' class='internal-link'>Subclass Feature</a></td><td class="value">4</td><td class="value">6</td></tr>
+> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Epic Boon (Level 19)' class='internal-link'>Epic Boon</a></td><td class="value">4</td><td class="value">6</td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Three Extra Attacks (Level 20)' class='internal-link'>Three Extra Attacks</a></td><td class="value">4</td><td class="value">6</td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 ## Hit Points
 
@@ -83,15 +86,15 @@ When you reach certain Fighter levels, you gain more uses of this feature, as sh
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [weapon mastery properties](Compendium/rules/variant-rules/weapon-mastery-properties-xphb.md) of three kinds of Simple or Martial weapons of your choice. Whenever you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the [mastery properties](Compendium/rules/variant-rules/weapon-mastery-properties-xphb.md) of three kinds of Simple or Martial weapons of your choice. Whenever you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you can practice weapon drills and change one of those weapon choices.
 
-When you reach certain Fighter levels, you gain the ability to use the [weapon mastery properties](Compendium/rules/variant-rules/weapon-mastery-properties-xphb.md) of more kinds of weapons, as shown in the [Weapon](Compendium/rules/variant-rules/weapon-xphb.md) Mastery column of the Fighter Features table.
+When you reach certain Fighter levels, you gain the ability to use the [mastery properties](Compendium/rules/variant-rules/weapon-mastery-properties-xphb.md) of more kinds of weapons, as shown in the [Weapon](Compendium/rules/variant-rules/weapon-xphb.md) Mastery column of the Fighter Features table.
 
 ### Action Surge (Level 2)
 
 You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the [Magic](Compendium/rules/actions.md#Magic) action.
 
-Once you use this feature, you can't do so again until you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). Starting at level 17, you can use it twice before a rest but only once on a turn.
+Once you use this feature, you can't do so again until you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). Starting at level 17, you can use it twice before a rest but only once on a turn.
 
 ### Tactical Mind (Level 2)
 
@@ -173,7 +176,7 @@ You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvem
 
 You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the [Magic](Compendium/rules/actions.md#Magic) action.
 
-Once you use this feature, you can't do so again until you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). Starting at level 17, you can use it twice before a rest but only once on a turn.
+Once you use this feature, you can't do so again until you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). Starting at level 17, you can use it twice before a rest but only once on a turn.
 
 ### Indomitable (Level 17)
 

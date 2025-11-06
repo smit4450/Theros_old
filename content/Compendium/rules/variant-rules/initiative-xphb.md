@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Initiative"]
+aliases:
+- Initiative
 ---
 # Initiative
-*Source: Player's Handbook (2024) p. 369. Available in the Free Rules (2024)* 
+*Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 Initiative determines the order of turns during combat. The combat rules in "chapter 1" explain how to roll Initiative.
 

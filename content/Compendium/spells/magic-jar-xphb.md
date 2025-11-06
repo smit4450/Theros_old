@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Wizard
-- Wizard
 aliases: ["Magic Jar"]
 ---
 # Magic Jar
@@ -19,7 +18,7 @@ aliases: ["Magic Jar"]
 
 - **Casting time:** 1 minute
 - **Range:** Self
-- **Components:** V, S, a gem, crystal, or reliquary worth 500+ GP
+- **Components:** V, S, M (a gem, crystal, or reliquary worth 500+ GP)
 - **Duration:** Until dispelled
 
 Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's Material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or take Reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a Humanoid's body.
@@ -36,6 +35,6 @@ If the container is destroyed or the spell ends, your soul returns to your body.
 
 When the spell ends, the container is destroyed.
 
-**Classes**: [Bard](list-spells-classes-bard); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 294. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

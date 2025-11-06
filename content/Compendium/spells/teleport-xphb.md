@@ -10,10 +10,7 @@ tags:
 - ttrpg-cli/spell/school/conjuration
 classes:
 - Bard
-- Bard
 - Sorcerer
-- Sorcerer
-- Wizard
 - Wizard
 aliases: ["Teleport"]
 ---
@@ -21,7 +18,7 @@ aliases: ["Teleport"]
 *7th-level, Conjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 10 feet
 - **Components:** V
 - **Duration:** Instantaneous
@@ -71,6 +68,6 @@ You and your group (or the target object) appear where you intended.
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 331. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -20,7 +20,7 @@ aliases: ["Goristro"]
 *Demon of Disaster*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** Armaments  
+- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
 
 Terrifying in scale and overwhelming power, goristros are giant demons capable of bringing cities to ruin. These demons embody senseless anarchy and nihilistic destruction, and they take special offense at creatures or structures that rival them in size. Castles, towers, giants, and beasts of war are all common victims of these monsters' wrath.
 
@@ -39,54 +39,59 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 "ac": !!int "19"
 "hp": !!int "310"
 "hit_dice": "23d12 + 161"
+"modifier": !!int "6"
 "stats":
-- !!int "25"
-- !!int "11"
-- !!int "25"
-- !!int "6"
-- !!int "13"
-- !!int "14"
+  - !!int "25"
+  - !!int "11"
+  - !!int "25"
+  - !!int "6"
+  - !!int "13"
+  - !!int "14"
 "speed": "50 ft."
 "saves":
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "7"
-  "Strength": !!int "13"
-  "Constitution": !!int "13"
+  - "strength": !!int "13"
+  - "dexterity": !!int "6"
+  - "constitution": !!int "13"
+  - "wisdom": !!int "7"
 "skillsaves":
-  "Perception": !!int "7"
-  "Survival": !!int "7"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Survival](Compendium/rules/skills.md#Survival)"
+    "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft., passive Perception 17"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 17"
 "languages": "Abyssal"
 "cr": "17"
 "traits":
-- "desc": "If the goristro dies outside the Abyss, its body dissolves into ichor,\
-    \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ somewhere in the Abyss."
-  "name": "Demonic Restoration"
-- "desc": "The goristro has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
-- "desc": "The goristro deals double damage to objects and structures."
-  "name": "Siege Monster"
+  - "desc": "If the goristro dies outside the Abyss, its body dissolves into ichor,\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ somewhere in the Abyss."
+    "name": "Demonic Restoration"
+  - "desc": "The goristro has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The goristro deals double damage to objects and structures."
+    "name": "Siege Monster"
 "actions":
-- "desc": "The goristro makes one Brutal Gore attack and two Slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +13, reach 10 ft. Hit: 40 (6d10 + 7) Piercing damage.\
-    \ If the target is a Huge or smaller creature, it is pushed up to 20 feet straight\
-    \ away from the goristro and has the [Prone](Compendium/rules/conditions.md#Prone)\
-    \ condition."
-  "name": "Brutal Gore"
-- "desc": "Melee Attack: +13, reach 10 ft. Hit: 29 (4d10 + 7) Bludgeoning\
-    \ damage."
-  "name": "Slam"
+  - "desc": "The goristro makes one Brutal Gore attack and two Slam attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +13, reach 10 ft. *Hit:* 40 (6d10 + 7) Piercing\
+      \ damage. If the target is a Huge or smaller creature, it is pushed up to 20\
+      \ feet straight away from the goristro and has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Brutal Gore"
+  - "desc": "*Melee Attack Roll:* +13, reach 10 ft. *Hit:* 29 (4d10 + 7) Bludgeoning\
+      \ damage."
+    "name": "Slam"
 "bonus_actions":
-- "desc": "The goristro moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-    \ straight toward an enemy it can see."
-  "name": "Charge"
+  - "desc": "The goristro moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+      \ straight toward an enemy it can see."
+    "name": "Charge"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/fiend/token/goristro-xmm.webp"
 ```
 ^statblock

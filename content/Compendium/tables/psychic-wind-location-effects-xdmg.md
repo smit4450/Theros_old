@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Psychic Wind Location Effects"]
+aliases:
+- Psychic Wind Location Effects
 ---
 # Psychic Wind Location Effects
 *Source: Dungeon Master's Guide (2024) p. 185* 
 
 **Psychic Wind Location Effects**
-
-`dice: [](psychic-wind-location-effects-xdmg.md#^psychic-wind-location-effects)`
 
 | dice: 1d20 | Location Effect |
 |------------|-----------------|

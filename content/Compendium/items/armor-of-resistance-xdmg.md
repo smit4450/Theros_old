@@ -5,6 +5,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Armor of Resistance"
 ---
@@ -14,8 +15,6 @@ aliases:
 
 
 You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to one type of damage while you wear this armor. The DM chooses the type or determines it randomly by rolling on the following table.
-
-`dice: [](armor-of-resistance-xdmg.md#^damage-type)`
 
 | dice: d10 | Damage Type |
 |-----------|-------------|
@@ -44,4 +43,4 @@ You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to one 
 - [Armor of Radiant Resistance](Compendium/items/armor-of-radiant-resistance-xdmg.md)
 - [Armor of Thunder Resistance](Compendium/items/armor-of-thunder-resistance-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 231. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

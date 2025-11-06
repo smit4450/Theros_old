@@ -12,6 +12,7 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Holy Avenger"
 - "Holy Avenger Antimatter Rifle"
@@ -75,7 +76,7 @@ aliases:
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. When you hit a Fiend or an Undead with it, that creature takes an extra `2d10` Radiant damage.
 
-While you hold the drawn weapon, it creates a 10-foot [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you. You and all creatures [Friendly [Attitude]](Compendium/rules/variant-rules/friendly-attitude-xphb.md) to you in the [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects. If you have 17 or more levels in the Paladin class, the size of the [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) increases to 30 feet.
+While you hold the drawn weapon, it creates a 10-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you. You and all creatures [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md) to you in the [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects. If you have 17 or more levels in the Paladin class, the size of the [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) increases to 30 feet.
 
 **Variants**:
 - [Holy Avenger Antimatter Rifle](#Holy%20Avenger%20Antimatter%20Rifle)
@@ -134,14 +135,14 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation [Area of Effect
 
 ### Holy Avenger Antimatter Rifle
 
-- **Damage**: 6d8 N
+- **Damage**: 6d8 necrotic
 - **Range**: 120/360
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Holy Avenger Automatic Rifle
 
-- **Damage**: 2d8 P
+- **Damage**: 2d8 piercing
 - **Range**: 80/240
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Burst Fire](Compendium/rules/item-properties.md#Burst%20Fire), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
@@ -149,171 +150,171 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation [Area of Effect
 ### Holy Avenger Battleaxe
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Holy Avenger Blowgun
 
-- **Damage**: 1 P
+- **Damage**: 1 piercing
 - **Range**: 25/100
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Loading](Compendium/rules/item-properties.md#Loading)
 - **Weight**: 1.0 lbs.
 
 ### Holy Avenger Club
 
-- **Damage**: 1d4 B
+- **Damage**: 1d4 bludgeoning
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Dagger
 
-- **Damage**: 1d4 P
+- **Damage**: 1d4 piercing
 - **Range**: 20/60
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### Holy Avenger Dart
 
-- **Damage**: 1d4 P
+- **Damage**: 1d4 piercing
 - **Range**: 20/60
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Thrown](Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 0.25 lbs.
 
 ### Holy Avenger Double-Bladed Scimitar
 
-- **Damage**: 2d4 S
+- **Damage**: 2d4 slashing
 - **Properties**: [Two-Handed](Compendium/rules/item-properties.md#Two-Handed), special
 - **Weight**: 6.0 lbs.
 
 ### Holy Avenger Flail
 
-- **Damage**: 1d8 B
+- **Damage**: 1d8 bludgeoning
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Glaive
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Holy Avenger Greataxe
 
-- **Damage**: 1d12 S
+- **Damage**: 1d12 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Holy Avenger Greatclub
 
-- **Damage**: 1d8 B
+- **Damage**: 1d8 bludgeoning
 - **Properties**: [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Holy Avenger Greatsword
 
-- **Damage**: 2d6 S
+- **Damage**: 2d6 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Holy Avenger Halberd
 
-- **Damage**: 1d10 S
+- **Damage**: 1d10 slashing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Holy Avenger Hand Crossbow
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 30/120
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Light](Compendium/rules/item-properties.md#Light), [Loading](Compendium/rules/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Handaxe
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Range**: 20/60
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Heavy Crossbow
 
-- **Damage**: 1d10 P
+- **Damage**: 1d10 piercing
 - **Range**: 100/400
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Heavy](Compendium/rules/item-properties.md#Heavy), [Loading](Compendium/rules/item-properties.md#Loading), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Holy Avenger Hooked Shortspear
 
-- **Damage**: 1d4 P
+- **Damage**: 1d4 piercing
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Hoopak
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 40/160
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Finesse](Compendium/rules/item-properties.md#Finesse), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed), special
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Hunting Rifle
 
-- **Damage**: 2d10 P
+- **Damage**: 2d10 piercing
 - **Range**: 80/240
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Holy Avenger Javelin
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 30/120
 - **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Lance
 
-- **Damage**: 1d10 P
+- **Damage**: 1d10 piercing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach)
 - **Weight**: 6.0 lbs.
 
 ### Holy Avenger Laser Pistol
 
-- **Damage**: 3d6 R
+- **Damage**: 3d6 radiant
 - **Range**: 40/120
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Laser Rifle
 
-- **Damage**: 3d8 R
+- **Damage**: 3d8 radiant
 - **Range**: 100/300
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Holy Avenger Light Crossbow
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Range**: 80/320
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Loading](Compendium/rules/item-properties.md#Loading), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### Holy Avenger Light Hammer
 
-- **Damage**: 1d4 B
+- **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Light Repeating Crossbow
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Range**: 40/160
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### Holy Avenger Longbow
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Range**: 150/600
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
@@ -321,43 +322,43 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation [Area of Effect
 ### Holy Avenger Longsword
 
 - **Damage**:
-  - One-handed: 1d8 S
-  - Two-handed: 1d10 S
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Mace
 
-- **Damage**: 1d6 B
+- **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
 
 ### Holy Avenger Maul
 
-- **Damage**: 2d6 B
+- **Damage**: 2d6 bludgeoning
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Holy Avenger Morningstar
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Weight**: 4.0 lbs.
 
 ### Holy Avenger Musket
 
-- **Damage**: 1d12 P
+- **Damage**: 1d12 piercing
 - **Range**: 40/120
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Loading](Compendium/rules/item-properties.md#Loading), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Holy Avenger Pike
 
-- **Damage**: 1d10 P
+- **Damage**: 1d10 piercing
 - **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Holy Avenger Pistol
 
-- **Damage**: 1d10 P
+- **Damage**: 1d10 piercing
 - **Range**: 30/90
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Loading](Compendium/rules/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
@@ -365,74 +366,74 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation [Area of Effect
 ### Holy Avenger Quarterstaff
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Holy Avenger Rapier
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Revolver
 
-- **Damage**: 2d8 P
+- **Damage**: 2d8 piercing
 - **Range**: 40/120
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Scimitar
 
-- **Damage**: 1d6 S
+- **Damage**: 1d6 slashing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Semiautomatic Pistol
 
-- **Damage**: 2d6 P
+- **Damage**: 2d6 piercing
 - **Range**: 50/150
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Shortbow
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Range**: 80/320
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Shortsword
 
-- **Damage**: 1d6 P
+- **Damage**: 1d6 piercing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Shotgun
 
-- **Damage**: 2d8 P
+- **Damage**: 2d8 piercing
 - **Range**: 30/90
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Holy Avenger Sickle
 
-- **Damage**: 1d4 S
+- **Damage**: 1d4 slashing
 - **Properties**: [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Sling
 
-- **Damage**: 1d4 B
+- **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition)
 
 ### Holy Avenger Spear
 
 - **Damage**:
-  - One-handed: 1d6 P
-  - Two-handed: 1d8 P
+  - One-handed: 1d6 piercing
+  - Two-handed: 1d8 piercing
 - **Range**: 20/60
 - **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
@@ -440,16 +441,16 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation [Area of Effect
 ### Holy Avenger Staff
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Holy Avenger Trident
 
 - **Damage**:
-  - One-handed: 1d8 P
-  - Two-handed: 1d10 P
+  - One-handed: 1d8 piercing
+  - Two-handed: 1d10 piercing
 - **Range**: 20/60
 - **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
@@ -457,39 +458,39 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation [Area of Effect
 ### Holy Avenger War Pick
 
 - **Damage**:
-  - One-handed: 1d8 P
-  - Two-handed: 1d10 P
+  - One-handed: 1d8 piercing
+  - Two-handed: 1d10 piercing
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Warhammer
 
 - **Damage**:
-  - One-handed: 1d8 B
-  - Two-handed: 1d10 B
+  - One-handed: 1d8 bludgeoning
+  - Two-handed: 1d10 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 5.0 lbs.
 
 ### Holy Avenger Whip
 
-- **Damage**: 1d4 S
+- **Damage**: 1d4 slashing
 - **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Reach](Compendium/rules/item-properties.md#Reach)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Wooden Staff
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Holy Avenger Yklwa
 
-- **Damage**: 1d8 P
+- **Damage**: 1d8 piercing
 - **Range**: 10/30
 - **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 269*
+*Source: Dungeon Master's Guide (2024) p. 269. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

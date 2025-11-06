@@ -11,9 +11,9 @@ statblock: inline
 aliases: ["Spy"]
 ---
 # Spy
-*Source: Monster Manual (2024) p. 295*  
+*Source: Monster Manual (2024) p. 295, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/spy.webp#right)  
+![](Compendium/bestiary/humanoid/img/spies.webp#right)  
 Spies use charm and deception to veil their true intentions. If forced into combat, they seek to end such conflicts quietly and decisively.
 
 ## Spies
@@ -21,13 +21,11 @@ Spies use charm and deception to veil their true intentions. If forced into comb
 *Infiltrators and Informants*
 
 - **Habitat.** Any  
-- **Treasure.** Implements, Individual  
+- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
 
 Spies gather information and disseminate lies, manipulating people to gain the results the spies' patrons desire. They're trained to manipulate, infiltrate, and—when necessary—escape in a hurry. Many adopt disguises, aliases, or code names to maintain anonymity. Roll on or choose a result from the Spy Personas table to inspire a spy's disguise.
 
 **Spy Personas**
-
-`dice: [](spy-xmm.md#^spy-personas)`
 
 | dice: 1d4 | The Spy Disguises Themself As... |
 |-----------|----------------------------------|
@@ -46,35 +44,44 @@ Spies gather information and disseminate lies, manipulating people to gain the r
 "ac": !!int "12"
 "hp": !!int "27"
 "hit_dice": "6d8"
+"modifier": !!int "4"
 "stats":
-- !!int "10"
-- !!int "15"
-- !!int "10"
-- !!int "12"
-- !!int "14"
-- !!int "16"
+  - !!int "10"
+  - !!int "15"
+  - !!int "10"
+  - !!int "12"
+  - !!int "14"
+  - !!int "16"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Sleight of Hand": !!int "4"
-  "Deception": !!int "5"
-  "Stealth": !!int "6"
-  "Investigation": !!int "5"
-  "Insight": !!int "4"
-  "Perception": !!int "6"
+  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+    "desc": "+5"
+  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+    "desc": "+4"
+  - "name": "[Investigation](Compendium/rules/skills.md#Investigation)"
+    "desc": "+5"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)"
+    "desc": "+4"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "Common plus one other language"
 "cr": "1"
 "actions":
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage\
-    \ plus 7 (2d6) Poison damage."
-  "name": "Shortsword"
-- "desc": "Ranged Attack: +4, range 30/120 ft. Hit: 5 (1d6 + 2) Piercing damage\
-    \ plus 7 (2d6) Poison damage."
-  "name": "Hand Crossbow"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing\
+      \ damage plus 7 (2d6) Poison damage."
+    "name": "Shortsword"
+  - "desc": "*Ranged Attack Roll:* +4, range 30/120 ft. *Hit:* 5 (1d6 + 2) Piercing\
+      \ damage plus 7 (2d6) Poison damage."
+    "name": "Hand Crossbow"
 "bonus_actions":
-- "desc": "The spy takes the Dash, Disengage, or Hide action."
-  "name": "Cunning Action"
+  - "desc": "The spy takes the Dash, Disengage, or Hide action."
+    "name": "Cunning Action"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/humanoid/token/spy-xmm.webp"
 ```
 ^statblock

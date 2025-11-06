@@ -16,4 +16,4 @@ You can take a [Utilize](Compendium/rules/actions.md#Utilize) action to place th
 
 You and any creature you designate when you use the shackles can take a [Utilize](Compendium/rules/actions.md#Utilize) action to remove them. Once every 30 days, the bound creature can make a DC 30 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check. On a successful check, the creature breaks free and destroys the shackles.
 
-*Source: Dungeon Master's Guide (2024) p. 254*
+*Source: Dungeon Master's Guide (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

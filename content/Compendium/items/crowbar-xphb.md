@@ -17,4 +17,4 @@ aliases:
 
 Using a Crowbar gives you [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Strength checks where the Crowbar's leverage can be applied.
 
-*Source: Player's Handbook (2024) p. 225. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

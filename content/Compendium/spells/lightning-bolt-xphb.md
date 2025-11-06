@@ -9,22 +9,20 @@ tags:
 - ttrpg-cli/spell/level/3rd-level
 - ttrpg-cli/spell/school/evocation
 - ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/circle-of-the-land
+- ttrpg-cli/spell/subclass/circle-of-the-land/temperate-land
 - ttrpg-cli/spell/subclass/circle-of-the-sea
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/evoker
 classes:
 - Bard
-- Sorcerer
-- Sorcerer
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
-- Druid (Circle of the Land)
-- Druid (Circle of the Sea)
 - Bard (College of Lore)
+- Druid (Circle of the Land, Temperate Land)
+- Druid (Circle of the Sea)
 - Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Wizard
 - Wizard (Evoker)
 aliases: ["Lightning Bolt"]
 ---
@@ -32,15 +30,15 @@ aliases: ["Lightning Bolt"]
 *3rd-level, Evocation*  
 
 
-- **Casting time:** 1 action
-- **Range:** Self
-- **Components:** V, S, a bit of fur and a crystal rod
+- **Casting time:** 1 Action
+- **Range:** Self (100-foot Line)
+- **Components:** V, S, M (a bit of fur and a crystal rod)
 - **Duration:** Instantaneous
 
-A stroke of lightning forming a 100-foot-long, 5-foot-wide Line blasts out from you in a direction you choose. Each creature in the Line makes a Dexterity saving throw, taking `8d6` Lightning damage on a failed save or half as much damage on a successful one.
+A stroke of lightning forming a 100-foot-long, 5-foot-wide [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md) blasts out from you in a direction you choose. Each creature in the [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md) makes a Dexterity saving throw, taking `8d6` Lightning damage on a failed save or half as much damage on a successful one.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 3.
 
-**Classes**: [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Druid (Circle of the Land)](list-spells-classes-druid-xphb-circle-of-the-land-xphb); [Druid (Circle of the Sea)](list-spells-classes-druid-xphb-circle-of-the-sea-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb); [Wizard (Evoker)](list-spells-classes-wizard-xphb-evoker-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Temperate Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Sea)](Compendium/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 292. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

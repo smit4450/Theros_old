@@ -11,8 +11,6 @@ tags:
 classes:
 - Bard
 - Cleric
-- Cleric
-- Druid
 - Druid
 aliases: ["Heal"]
 ---
@@ -20,7 +18,7 @@ aliases: ["Heal"]
 *6th-level, Abjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Instantaneous
@@ -29,6 +27,6 @@ Choose a creature that you can see within range. Positive energy washes through 
 
 **Using a Higher-Level Spell Slot.** The healing increases by `10` for each spell slot level above 6.
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 284. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

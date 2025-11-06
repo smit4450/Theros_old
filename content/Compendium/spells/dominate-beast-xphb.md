@@ -13,9 +13,7 @@ tags:
 classes:
 - Bard
 - Druid
-- Druid
 - Ranger
-- Sorcerer
 - Sorcerer
 - Warlock (Archfey Patron)
 aliases: ["Dominate Beast"]
@@ -24,7 +22,7 @@ aliases: ["Dominate Beast"]
 *4th-level, Enchantment*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -37,6 +35,6 @@ You can command the target to take a [Reaction](Compendium/rules/variant-rules/r
 
 **Using a Higher-Level Spell Slot.** Your [Concentration](Compendium/rules/conditions.md#Concentration) can last longer with a spell slot of level 5 (up to 10 minutes), 6 (up to 1 hour), or 7+ (up to 8 hours).
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Ranger](list-spells-classes-ranger); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Warlock (Archfey Patron)](list-spells-classes-warlock-xphb-archfey-patron-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (Archfey Patron)](Compendium/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 265. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

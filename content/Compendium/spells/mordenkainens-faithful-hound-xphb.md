@@ -11,20 +11,19 @@ tags:
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
 - Bard
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
 - Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Wizard
 aliases: ["Mordenkainen's Faithful Hound"]
 ---
 # Mordenkainen's Faithful Hound
 *4th-level, Conjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
-- **Components:** V, S, a silver whistle
-- **Duration:** 8 hour
+- **Components:** V, S, M (a silver whistle)
+- **Duration:** 8 hours
 
 You conjure a phantom watchdog in an unoccupied space that you can see within range. The hound remains for the duration or until the two of you are more than 300 feet apart from each other.
 
@@ -34,6 +33,6 @@ At the start of each of your turns, the hound attempts to bite one enemy within 
 
 On your later turns, you can take a [Magic](Compendium/rules/actions.md#Magic) action to move the hound up to 30 feet.
 
-**Classes**: [Bard](list-spells-classes-bard); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 300. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Faithful Hound") and the Free Rules (2024)*

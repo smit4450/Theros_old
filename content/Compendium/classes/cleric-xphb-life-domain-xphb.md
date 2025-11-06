@@ -1,15 +1,17 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/domain/life
 - ttrpg-cli/subclass/cleric/life
-aliases: ["Life Domain"]
+aliases:
+- Life Domain
 ---
 # Life Domain
-*[Cleric](cleric-xphb.md): Cleric Subclass*  
-*Source: Player's Handbook (2024) p. 73. Available in the Free Rules (2024)*  
+*[Cleric](./cleric-xphb.md): Cleric Subclass*  
+*Source: Player's Handbook (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -20,10 +22,10 @@ aliases: ["Life Domain"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Life%20Domain%20(Level%203)'>Life Domain</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Life Domain (Level 3)' class='internal-link'>Life Domain</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Blessed%20Healer%20(Level%206)'>Blessed Healer</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Blessed Healer (Level 6)' class='internal-link'>Blessed Healer</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -34,12 +36,13 @@ aliases: ["Life Domain"]
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Supreme%20Healing%20(Level%2017)'>Supreme Healing</a></td></tr>
+> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Supreme Healing (Level 17)' class='internal-link'>Supreme Healing</a></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -72,7 +75,7 @@ When a spell you cast with a spell slot restores [Hit Points](Compendium/rules/v
 
 ### Preserve Life (Level 3)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you present your [Holy Symbol](Compendium/items/holy-symbol-xphb.md) and expend a use of your Channel Divinity to evoke healing energy that can restore a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to five times your Cleric level. Choose [Bloodied](Compendium/rules/variant-rules/bloodied-xphb.md) creatures within 30 feet of yourself (which can include you), and divide those [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) among them. This feature can restore a creature to no more than half its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) maximum.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you present your [Holy Symbol](Compendium/items/holy-symbol-xphb.md) and expend a use of your Channel Divinity to evoke healing energy that can restore a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to five times your Cleric level. Choose [Bloodied](Compendium/rules/conditions.md#Bloodied) creatures within 30 feet of yourself (which can include you), and divide those [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) among them. This feature can restore a creature to no more than half its [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum.
 
 ### Blessed Healer (Level 6)
 

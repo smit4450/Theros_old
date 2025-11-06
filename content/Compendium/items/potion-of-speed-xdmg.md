@@ -18,4 +18,4 @@ When you drink this potion, you gain the effect of the [Haste](Compendium/spells
 
 This potion's yellow fluid is streaked with black and swirls on its own.
 
-*Source: Dungeon Master's Guide (2024) p. 289. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

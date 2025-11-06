@@ -14,9 +14,9 @@ statblock: inline
 aliases: ["Earth Elemental"]
 ---
 # Earth Elemental
-*Source: Monster Manual (2024) p. 108*  
+*Source: Monster Manual (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/elemental/img/earth-elemental.webp#right)  
+![](Compendium/books/monster-manual-2025/img/earth-elemental.webp#right)  
 ## Earth Elemental
 
 *Primal Spirit of Soil and Stone*
@@ -29,8 +29,6 @@ Primal spirits from the Elemental Plane of Earth merge with rocks and minerals t
 Earth elementals are typically made of more than dirt. While an elemental's composition doesn't change its statistics or have monetary value, it makes each elemental distinct. Roll on or choose a result from the Earth Elemental Compositions table to inspire an earth elemental's features.
 
 **Earth Elemental Compositions**
-
-`dice: [](earth-elemental-xmm.md#^earth-elemental-compositions)`
 
 | dice: 1d8 | The Earth Elemental's Body Features... |
 |-----------|----------------------------------------|
@@ -56,38 +54,42 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 "ac": !!int "17"
 "hp": !!int "147"
 "hit_dice": "14d10 + 70"
+"modifier": !!int "-1"
 "stats":
-- !!int "20"
-- !!int "8"
-- !!int "20"
-- !!int "5"
-- !!int "10"
-- !!int "5"
+  - !!int "20"
+  - !!int "8"
+  - !!int "20"
+  - !!int "5"
+  - !!int "10"
+  - !!int "5"
 "speed": "30 ft., burrow 30 ft."
 "damage_vulnerabilities": "thunder"
 "damage_immunities": "poison"
 "condition_immunities": "[exhaustion](Compendium/rules/conditions.md#Exhaustion),\
   \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned), [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., Tremorsense\
+  \ 60 ft., passive Perception 10"
 "languages": "Primordial (Terran)"
 "cr": "5"
 "traits":
-- "desc": "The elemental can burrow through nonmagical, unworked earth and stone.\
-    \ While doing so, the elemental doesn't disturb the material it moves through."
-  "name": "Earth Glide"
-- "desc": "The elemental deals double damage to objects and structures."
-  "name": "Siege Monster"
+  - "desc": "The elemental can burrow through nonmagical, unworked earth and stone.\
+      \ While doing so, the elemental doesn't disturb the material it moves through."
+    "name": "Earth Glide"
+  - "desc": "The elemental deals double damage to objects and structures."
+    "name": "Siege Monster"
 "actions":
-- "desc": "The elemental makes two attacks, using Slam or Rock Launch in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +8, reach 10 ft. Hit: 14 (2d8 + 5) Bludgeoning damage."
-  "name": "Slam"
-- "desc": "Ranged Attack: +8, range 60 ft. Hit: 8 (1d6 + 5) Bludgeoning damage.\
-    \ If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
-    \ condition."
-  "name": "Rock Launch"
+  - "desc": "The elemental makes two attacks, using Slam or Rock Launch in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 14 (2d8 + 5) Bludgeoning\
+      \ damage."
+    "name": "Slam"
+  - "desc": "*Ranged Attack Roll:* +8, range 60 ft. *Hit:* 8 (1d6 + 5) Bludgeoning\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Rock Launch"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/elemental/token/earth-elemental-xmm.webp"
 ```
 ^statblock

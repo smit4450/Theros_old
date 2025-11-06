@@ -49,51 +49,56 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 "ac": !!int "18"
 "hp": !!int "150"
 "hit_dice": "20d8 + 60"
+"modifier": !!int "7"
 "stats":
-- !!int "19"
-- !!int "17"
-- !!int "16"
-- !!int "13"
-- !!int "8"
-- !!int "18"
+  - !!int "19"
+  - !!int "17"
+  - !!int "16"
+  - !!int "13"
+  - !!int "8"
+  - !!int "18"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "7"
-  "Arcana": !!int "5"
+  - "name": "[Arcana](Compendium/rules/skills.md#Arcana)"
+    "desc": "+5"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+7"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 17"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., [Darkvision](Compendium/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 17"
 "languages": "Common, Slaad; telepathy 60 ft."
 "cr": "9"
 "traits":
-- "desc": "The slaad casts one of the following spells, requiring no Material components\
-    \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt will:\
-    \ [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md),\
-    \ [Invisibility](Compendium/spells/invisibility-xphb.md) (self only), [Mage Hand](Compendium/spells/mage-hand-xphb.md),\
-    \ [Major Image](Compendium/spells/major-image-xphb.md)\n\n1/day each: [Cloudkill](Compendium/spells/cloudkill-xphb.md),\
-    \ [Fly](Compendium/spells/fly-xphb.md), [Plane Shift](Compendium/spells/plane-shift-xphb.md)\
-    \ (self only), [Tongues](Compendium/spells/tongues-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The slaad has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
-- "desc": "The slaad regains 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ at the start of each of its turns if it has at least 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
-  "name": "Regeneration"
+  - "desc": "The slaad has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The slaad regains 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ at the start of each of its turns if it has at least 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)."
+    "name": "Regeneration"
 "actions":
-- "desc": "The slaad makes two Chaos Claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +8, reach 10 ft. Hit: 9 (1d10 + 4) Slashing damage\
-    \ plus 11 (2d10) Necrotic damage. Until the start of the slaad's next turn,\
-    \ the target has a condition determined by rolling 1d4: on a 1, [Charmed](Compendium/rules/conditions.md#Charmed);\
-    \ on a 2, [Frightened](Compendium/rules/conditions.md#Frightened); on a 3, [Poisoned](Compendium/rules/conditions.md#Poisoned);\
-    \ or on a 4, [Incapacitated](Compendium/rules/conditions.md#Incapacitated)."
-  "name": "Chaos Claw"
+  - "desc": "The slaad makes two Chaos Claw attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 9 (1d10 + 4) Slashing\
+      \ damage plus 11 (2d10) Necrotic damage. Until the start of the slaad's next\
+      \ turn, the target has a condition determined by rolling 1d4: on a 1, [Charmed](Compendium/rules/conditions.md#Charmed);\
+      \ on a 2, [Frightened](Compendium/rules/conditions.md#Frightened); on a 3, [Poisoned](Compendium/rules/conditions.md#Poisoned);\
+      \ or on a 4, [Incapacitated](Compendium/rules/conditions.md#Incapacitated)."
+    "name": "Chaos Claw"
+  - "desc": "The slaad casts one of the following spells, requiring no Material components\
+      \ and using Charisma as the spellcasting ability (spell save DC 16):\n\n**At\
+      \ will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md),\
+      \ [Invisibility](Compendium/spells/invisibility-xphb.md) (self only), [Mage\
+      \ Hand](Compendium/spells/mage-hand-xphb.md), [Major Image](Compendium/spells/major-image-xphb.md)\n\
+      \n**1/day each:** [Cloudkill](Compendium/spells/cloudkill-xphb.md), [Fly](Compendium/spells/fly-xphb.md),\
+      \ [Plane Shift](Compendium/spells/plane-shift-xphb.md) (self only), [Tongues](Compendium/spells/tongues-xphb.md)"
+    "name": "Spellcasting"
 "bonus_actions":
-- "desc": "The slaad shape-shifts into a Small or Medium Humanoid, or it returns to\
-    \ its true form. Other than its size, its game statistics are the same in each\
-    \ form. Any equipment it is wearing or carrying isn't transformed."
-  "name": "Shape-Shift"
+  - "desc": "The slaad shape-shifts into a Small or Medium Humanoid, or it returns\
+      \ to its true form. Other than its size, its game statistics are the same in\
+      \ each form. Any equipment it is wearing or carrying isn't transformed."
+    "name": "Shape-Shift"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/aberration/token/gray-slaad-xmm.webp"
 ```
 ^statblock

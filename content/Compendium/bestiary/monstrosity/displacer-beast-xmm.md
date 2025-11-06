@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Displacer Beast"]
 ---
 # Displacer Beast
-*Source: Monster Manual (2024) p. 98*  
+*Source: Monster Manual (2024) p. 98, FRHoF*  
 
 ![](Compendium/bestiary/monstrosity/img/displacer-beast.webp#right)  
 ## Displacer Beast
@@ -39,38 +39,44 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
 "ac": !!int "13"
 "hp": !!int "76"
 "hit_dice": "9d10 + 27"
+"modifier": !!int "4"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "6"
-- !!int "12"
-- !!int "8"
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "6"
+  - !!int "12"
+  - !!int "8"
 "speed": "40 ft."
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 11"
 "languages": "understands Sylvan but can't speak"
 "cr": "3"
 "traits":
-- "desc": "If the displacer beast is subjected to an effect that allows it to make\
-    \ a saving throw to take only half damage, it instead takes no damage if it succeeds\
-    \ on the save and half damage if it fails. It can't use this trait if it has the\
-    \ [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition."
-  "name": "Avoidance"
-- "desc": "Attack rolls against the displacer beast have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md),\
-    \ since it projects an illusion that makes it appear to be near its actual location.\
-    \ This trait is suppressed while the displacer beast has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
-    \ condition."
-  "name": "Displacement"
+  - "desc": "If the displacer beast is subjected to an effect that allows it to make\
+      \ a saving throw to take only half damage, it instead takes no damage if it\
+      \ succeeds on the save and half damage if it fails. It can't use this trait\
+      \ if it has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Avoidance"
+  - "desc": "Attack rolls against the displacer beast have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md),\
+      \ since it projects an illusion that makes it appear to be near its actual location.\
+      \ This trait is suppressed while the displacer beast has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Displacement"
 "actions":
-- "desc": "The displacer beast makes one Rend attack and one Tentacle attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +6, reach 5 feet. Hit: 9 (1d10 + 4) Slashing damage.\
-    \ If target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
-    \ condition."
-  "name": "Rend"
-- "desc": "Melee Attack: +6, reach 10 feet. Hit: 11 (2d6 + 4) Piercing damage."
-  "name": "Tentacle"
+  - "desc": "The displacer beast makes one Rend attack and one Tentacle attack."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 feet. *Hit:* 9 (1d10 + 4) Slashing\
+      \ damage. If target is a Large or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
+      \ condition."
+    "name": "Rend"
+  - "desc": "*Melee Attack Roll:* +6, reach 10 feet. *Hit:* 11 (2d6 + 4) Piercing\
+      \ damage."
+    "name": "Tentacle"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/monstrosity/token/displacer-beast-xmm.webp"
 ```
 ^statblock

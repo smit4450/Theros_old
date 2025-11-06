@@ -11,26 +11,24 @@ tags:
 - ttrpg-cli/spell/subclass/college-of-lore
 classes:
 - Bard
-- Druid
-- Druid
-- Ranger
-- Ranger
 - Bard (College of Lore)
+- Druid
+- Ranger
 aliases: ["Spike Growth"]
 ---
 # Spike Growth
 *2nd-level, Transmutation*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 150 feet
-- **Components:** V, S, seven thorns
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (seven thorns)
+- **Duration:** Concentration, up to 10 minutes
 
-The ground in a 20-foot-radius Sphere centered on a point within range sprouts hard spikes and thorns. The area becomes [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md) for the duration. When a creature moves into or within the area, it takes `2d4` Piercing damage for every 5 feet it travels.
+The ground in a 20-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point within range sprouts hard spikes and thorns. The area becomes [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md) for the duration. When a creature moves into or within the area, it takes `2d4` Piercing damage for every 5 feet it travels.
 
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area when the spell is cast must take a [Search](Compendium/rules/actions.md#Search) action and succeed on a Wisdom ([Perception](Compendium/rules/skills.md#Perception) or [Survival](Compendium/rules/skills.md#Survival)) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Ranger](list-spells-classes-ranger); [Ranger](list-spells-classes-ranger); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 318. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-deity
+cssclasses:
+- json5e-deity
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/deity/greyhawk
-aliases: ["Erythnul"]
+aliases: 
+- Erythnul
 ---
 # Erythnul
 *Source: Dungeon Master's Guide (2024) p. 148* 

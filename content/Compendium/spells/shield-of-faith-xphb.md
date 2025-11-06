@@ -6,34 +6,33 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/magic-initiate
+- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
 - ttrpg-cli/spell/level/1st-level
+- ttrpg-cli/spell/reward/purphoross-devotee
 - ttrpg-cli/spell/school/abjuration
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/oath-of-devotion
 - ttrpg-cli/spell/subclass/war-domain
 classes:
 - Bard
-- Cleric
-- Cleric
-- Paladin
-- Paladin
 - Bard (College of Lore)
-- Paladin (Oath of Devotion)
+- Cleric
 - Cleric (War Domain)
+- Paladin
+- Paladin (Oath of Devotion)
 aliases: ["Shield of Faith"]
 ---
 # Shield of Faith
 *1st-level, Abjuration*  
 
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** 60 feet
-- **Components:** V, S, a prayer scroll
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a prayer scroll)
+- **Duration:** Concentration, up to 10 minutes
 
 A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Paladin](list-spells-classes-paladin); [Paladin](list-spells-classes-paladin); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Paladin (Oath of Devotion)](list-spells-classes-paladin-xphb-oath-of-devotion-xphb); [Cleric (War Domain)](list-spells-classes-cleric-xphb-war-domain-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](Compendium/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 316. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

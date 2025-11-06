@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases: ["Monster Lists"]
+aliases:
+- Monster Lists
 ---
 # Monster Lists
 *Source: Monster Manual (2025), p. 374* 
@@ -620,7 +622,7 @@ The following lists present stat blocks that share descriptive tags or that are 
 -     - [Blob of Annihilation](Compendium/bestiary/ooze/blob-of-annihilation-xmm.md)    
         - [Colossus](Compendium/bestiary/construct/colossus-xmm.md)    
         - [Elemental Cataclysm](Compendium/bestiary/elemental/elemental-cataclysm-xmm.md)    
-        - Empyreans (all) ([Empyrean](Compendium/bestiary//empyrean-xmm.md), [Empyrean Iota](Compendium/bestiary//empyrean-iota-xmm.md))    
+        - Empyreans (all) ([Empyrean](Compendium/bestiary/miscellaneous/empyrean-xmm.md), [Empyrean Iota](Compendium/bestiary/miscellaneous/empyrean-iota-xmm.md))    
         - [Kraken](Compendium/bestiary/monstrosity/kraken-xmm.md)    
         - [Tarrasque](Compendium/bestiary/monstrosity/tarrasque-xmm.md)    
 -     - [Arcanaloth](Compendium/bestiary/fiend/arcanaloth-xmm.md)    
@@ -774,7 +776,7 @@ The following list organizes the monster stat blocks in this book by [Challenge 
         - [Death Dog](Compendium/bestiary/monstrosity/death-dog-xmm.md)    
         - [Dire Wolf](Compendium/bestiary/beast/dire-wolf-xmm.md)    
         - [Dryad](Compendium/bestiary/fey/dryad-xmm.md)    
-        - [Empyrean Iota](Compendium/bestiary//empyrean-iota-xmm.md)    
+        - [Empyrean Iota](Compendium/bestiary/miscellaneous/empyrean-iota-xmm.md)    
         - [Faerie Dragon Youth](Compendium/bestiary/dragon/faerie-dragon-youth-xmm.md)    
         - [Ghoul](Compendium/bestiary/undead/ghoul-xmm.md)    
         - [Giant Eagle](Compendium/bestiary/celestial/giant-eagle-xmm.md)    
@@ -1129,7 +1131,7 @@ The following list organizes the monster stat blocks in this book by [Challenge 
 -     - [Ancient Blue Dragon](Compendium/bestiary/dragon/ancient-blue-dragon-xmm.md)    
         - [Ancient Silver Dragon](Compendium/bestiary/dragon/ancient-silver-dragon-xmm.md)    
         - [Blob of Annihilation](Compendium/bestiary/ooze/blob-of-annihilation-xmm.md)    
-        - [Empyrean](Compendium/bestiary//empyrean-xmm.md)    
+        - [Empyrean](Compendium/bestiary/miscellaneous/empyrean-xmm.md)    
         - [Kraken](Compendium/bestiary/monstrosity/kraken-xmm.md)    
 -     - [Ancient Gold Dragon](Compendium/bestiary/dragon/ancient-gold-dragon-xmm.md)    
         - [Ancient Red Dragon](Compendium/bestiary/dragon/ancient-red-dragon-xmm.md)    

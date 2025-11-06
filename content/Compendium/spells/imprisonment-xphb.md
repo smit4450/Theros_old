@@ -12,8 +12,6 @@ tags:
 classes:
 - Bard
 - Warlock
-- Warlock
-- Wizard
 - Wizard
 - Wizard (Abjurer)
 aliases: ["Imprisonment"]
@@ -24,7 +22,7 @@ aliases: ["Imprisonment"]
 
 - **Casting time:** 1 minute
 - **Range:** 30 feet
-- **Components:** V, S, a statuette of the target worth 5,000+ GP
+- **Components:** V, S, M (a statuette of the target worth 5,000+ GP)
 - **Duration:** Until dispelled
 
 You create a magical restraint to hold a creature that you can see within range. The target must make a Wisdom saving throw. On a successful save, the target is unaffected, and it is immune to this spell for the next 24 hours. On a failed save, the target is imprisoned. While imprisoned, the target doesn't need to breathe, eat, or drink, and it doesn't age. Divination spells can't locate or perceive the imprisoned target, and the target can't teleport.
@@ -45,6 +43,6 @@ A [Dispel Magic](Compendium/spells/dispel-magic-xphb.md) spell can end the spell
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Warlock](list-spells-classes-warlock); [Warlock](list-spells-classes-warlock); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Abjurer)](list-spells-classes-wizard-xphb-abjurer-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 288. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

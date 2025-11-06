@@ -13,9 +13,9 @@ statblock: inline
 aliases: ["Hippogriff"]
 ---
 # Hippogriff
-*Source: Monster Manual (2024) p. 169*  
+*Source: Monster Manual (2024) p. 169. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/hippogriff.webp#right)  
+![](Compendium/books/monster-manual-2025/img/hippogriff.webp#right)  
 ## Hippogriff
 
 *World-Traveling Hunter and Steed*
@@ -28,8 +28,6 @@ Part hunting bird, part horse, hippogriffs are majestic creatures that hunt oppo
 Hippogriff migrations might take months or years, and sages frequently predict their routes. Roll on or choose a result from the Hippogriff Destination table to inspire where a hippogriff might be en route to.
 
 **Hippogriff Destination**
-
-`dice: [](hippogriff-xmm.md#^hippogriff-destination)`
 
 | dice: 1d6 | The Hippogriff Is Traveling to A... |
 |-----------|-------------------------------------|
@@ -48,29 +46,33 @@ Hippogriff migrations might take months or years, and sages frequently predict t
 "ac": !!int "11"
 "hp": !!int "26"
 "hit_dice": "4d10 + 4"
+"modifier": !!int "1"
 "stats":
-- !!int "17"
-- !!int "13"
-- !!int "13"
-- !!int "2"
-- !!int "12"
-- !!int "8"
+  - !!int "17"
+  - !!int "13"
+  - !!int "13"
+  - !!int "2"
+  - !!int "12"
+  - !!int "8"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  "Perception": !!int "5"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
 "senses": "passive Perception 15"
 "languages": ""
 "cr": "1"
 "traits":
-- "desc": "The hippogriff doesn't provoke an Opportunity Attack when it flies out\
-    \ of an enemy's reach."
-  "name": "Flyby"
+  - "desc": "The hippogriff doesn't provoke an Opportunity Attack when it flies out\
+      \ of an enemy's reach."
+    "name": "Flyby"
 "actions":
-- "desc": "The hippogriff makes two Rend attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage."
-  "name": "Rend"
+  - "desc": "The hippogriff makes two Rend attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Slashing\
+      \ damage."
+    "name": "Rend"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/monstrosity/token/hippogriff-xmm.webp"
 ```
 ^statblock

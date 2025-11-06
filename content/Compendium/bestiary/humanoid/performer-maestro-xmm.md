@@ -13,7 +13,7 @@ aliases: ["Performer Maestro"]
 # Performer Maestro
 *Source: Monster Manual (2024) p. 237*  
 
-![](Compendium/bestiary/humanoid/img/performer-maestro.webp#right)  
+![](Compendium/bestiary/humanoid/img/performers.webp#right)  
 Maestros are headlining performers who enjoy considerable renown. They might be theaters' marquee actors, astonishing daredevils, or jesters experienced at entertaining fickle royals. Some share their techniques with apprentices, while others jealously guard their secrets.
 
 ## Performers
@@ -21,7 +21,7 @@ Maestros are headlining performers who enjoy considerable renown. They might be 
 *Artists and Entertainers*
 
 - **Habitat.** Any  
-- **Treasure.** Implements, Individual  
+- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
 
 From royal courts to village squares, skilled entertainers hone their talents and delight audiences. Some travel far, sharing tales and demonstrating mysterious arts. Others serve in the courts and theaters of great nations, cultivating celebrity and navigating the whims of patrons. Many hone professional secrets and magical flourishes, striving to make their performances truly unforgettable.
 
@@ -101,46 +101,51 @@ Wrestler
 "ac": !!int "18"
 "hp": !!int "110"
 "hit_dice": "17d8 + 34"
+"modifier": !!int "7"
 "stats":
-- !!int "12"
-- !!int "18"
-- !!int "14"
-- !!int "13"
-- !!int "14"
-- !!int "19"
+  - !!int "12"
+  - !!int "18"
+  - !!int "14"
+  - !!int "13"
+  - !!int "14"
+  - !!int "19"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Dexterity": !!int "7"
+  - "dexterity": !!int "7"
+  - "charisma": !!int "7"
 "skillsaves":
-  "Athletics": !!int "4"
-  "Stealth": !!int "7"
-  "Perception": !!int "5"
-  "Performance": !!int "10"
-  "Acrobatics": !!int "10"
+  - "name": "[Acrobatics](Compendium/rules/skills.md#Acrobatics)"
+    "desc": "+10"
+  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+    "desc": "+4"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Performance](Compendium/rules/skills.md#Performance)"
+    "desc": "+10"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+7"
 "senses": "passive Perception 15"
 "languages": "Common plus one other language"
 "cr": "6"
-"traits":
-- "desc": "The performer casts one of the following spells, requiring no Material\
-    \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
-    \nAt will: [Minor Illusion](Compendium/spells/minor-illusion-xphb.md), [Prestidigitation](Compendium/spells/prestidigitation-xphb.md)\n\
-    \n1/day: [Tasha's Hideous Laughter](Compendium/spells/tashas-hideous-laughter-xphb.md)\
-    \ (level 3 version)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "The performer makes three Rapier attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +7, reach 5 ft. Hit: 8 (1d8 + 4) Piercing damage\
-    \ plus 7 (2d6) Psychic damage."
-  "name": "Rapier"
-- "desc": "Wisdom Saving Throw: DC 15, each creature in a 20-foot-radius [Sphere\
-    \ [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
-    \ centered on a point within 120 feet. Failure: 20 (3d10 + 4) Psychic damage,\
-    \ and the target has the [Charmed](Compendium/rules/conditions.md#Charmed) condition\
-    \ until the end of the performer's next turn. Success: Half damage only."
-  "name": "Beguiling Song"
+  - "desc": "The performer makes three Rapier attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 8 (1d8 + 4) Piercing\
+      \ damage plus 7 (2d6) Psychic damage."
+    "name": "Rapier"
+  - "desc": "*Wisdom Saving Throw:* DC 15, each creature in a 20-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ centered on a point within 120 feet. *Failure:* 20 (3d10 + 4) Psychic damage,\
+      \ and the target has the [Charmed](Compendium/rules/conditions.md#Charmed) condition\
+      \ until the end of the performer's next turn. *Success:* Half damage only."
+    "name": "Beguiling Song"
+  - "desc": "The performer casts one of the following spells, requiring no Material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
+      \n**At will:** [Minor Illusion](Compendium/spells/minor-illusion-xphb.md), [Prestidigitation](Compendium/spells/prestidigitation-xphb.md)\n\
+      \n**1/day:** [Tasha's Hideous Laughter](Compendium/spells/tashas-hideous-laughter-xphb.md)\
+      \ (level 3 version)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/humanoid/token/performer-maestro-xmm.webp"
 ```
 ^statblock

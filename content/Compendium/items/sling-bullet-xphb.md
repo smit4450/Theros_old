@@ -18,4 +18,4 @@ Sling bullets are used with a weapon that has the ammunition property to make a 
 
 Sling Bullets are typically stored in a [Pouch](Compendium/items/pouch-xphb.md) (bought separately).
 
-*Source: Player's Handbook (2024) p. 222*
+*Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

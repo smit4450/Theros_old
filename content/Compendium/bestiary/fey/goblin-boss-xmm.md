@@ -17,9 +17,9 @@ statblock: inline
 aliases: ["Goblin Boss"]
 ---
 # Goblin Boss
-*Source: Monster Manual (2024) p. 143*  
+*Source: Monster Manual (2024) p. 143. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fey/img/goblin-boss.webp#right)  
+![A goblin boss, a goblin he...](Compendium/bestiary/fey/img/goblins.webp#right)  
 Goblin bosses are often the most imaginative, disruptive, or forceful goblins. Through a combination of luck, cowardice, and callousness, these leaders avoid harm at the expense of their followers.
 
 ## Goblins
@@ -27,7 +27,7 @@ Goblin bosses are often the most imaginative, disruptive, or forceful goblins. T
 *Wild Tricksters and Troublemakers*
 
 - **Habitat.** Forest, Grassland, Hill, Planar (Acheron), Planar (Feywild), Underdark  
-- **Treasure.** Implements, Individual  
+- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
 
 Goblins are Feywild embodiments of recklessness and ruin. They delight in wreckage—the louder, the more energetic, and the more convoluted, the better. Goblin raids are often as much opportunities to enjoy setting fires and tormenting livestock as they are parts of more disruptive plots.
 
@@ -50,38 +50,42 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 "ac": !!int "17"
 "hp": !!int "21"
 "hit_dice": "6d6"
+"modifier": !!int "2"
 "stats":
-- !!int "10"
-- !!int "15"
-- !!int "10"
-- !!int "10"
-- !!int "8"
-- !!int "10"
+  - !!int "10"
+  - !!int "15"
+  - !!int "10"
+  - !!int "10"
+  - !!int "8"
+  - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "6"
-"senses": "darkvision 60 ft., passive Perception 9"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 9"
 "languages": "Common, Goblin"
 "cr": "1"
 "actions":
-- "desc": "The goblin makes two attacks, using Scimitar or Shortbow in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage,\
-    \ plus 2 (1d4) Slashing damage if the attack roll had [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)."
-  "name": "Scimitar"
-- "desc": "Ranged Attack: +4, range 80/320 ft. Hit: 5 (1d6 + 2) Piercing damage,\
-    \ plus 2 (1d4) Piercing damage if the attack roll had [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)."
-  "name": "Shortbow"
+  - "desc": "The goblin makes two attacks, using Scimitar or Shortbow in any combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Slashing\
+      \ damage, plus 2 (1d4) Slashing damage if the attack roll had [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)."
+    "name": "Scimitar"
+  - "desc": "*Ranged Attack Roll:* +4, range 80/320 ft. *Hit:* 5 (1d6 + 2) Piercing\
+      \ damage, plus 2 (1d4) Piercing damage if the attack roll had [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)."
+    "name": "Shortbow"
 "bonus_actions":
-- "desc": "The goblin takes the Disengage or Hide action."
-  "name": "Nimble Escape"
+  - "desc": "The goblin takes the Disengage or Hide action."
+    "name": "Nimble Escape"
 "reactions":
-- "desc": "Trigger: A creature the goblin can see makes an attack roll against it.\
-    \ Response: The goblin chooses a Small or Medium ally within 5 feet of itself.\
-    \ The goblin and that ally swap places, and the ally becomes the target of the\
-    \ attack instead."
-  "name": "Redirect Attack"
+  - "desc": "Trigger: A creature the goblin can see makes an attack roll against it.\
+      \ _Response:_ The goblin chooses a Small or Medium ally within 5 feet of itself.\
+      \ The goblin and that ally swap places, and the ally becomes the target of the\
+      \ attack instead."
+    "name": "Redirect Attack"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/fey/token/goblin-boss-xmm.webp"
 ```
 ^statblock

@@ -13,9 +13,9 @@ statblock: inline
 aliases: ["Will-o'-Wisp"]
 ---
 # Will-o'-Wisp
-*Source: Monster Manual (2024) p. 333*  
+*Source: Monster Manual (2024) p. 333, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/undead/img/will-o-wisp.webp#right)  
+![](Compendium/books/monster-manual-2025/img/will-o-wisp.webp#right)  
 ## Will-o'-Wisp
 
 *Guide on the Path to Doom*
@@ -28,8 +28,6 @@ From a distance, will-o'-wisps look like lanterns bobbing in the dark. Through t
 Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a will-o'-wisp imperils its victims.
 
 **Will-o'-Wisp Ambushes**
-
-`dice: [](will-o-wisp-xmm.md#^will-o-wisp-ambushes)`
 
 | dice: 1d6 | The Will-o'-Wisp Tempts Victims Into... |
 |-----------|-----------------------------------------|
@@ -48,13 +46,14 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
 "ac": !!int "19"
 "hp": !!int "27"
 "hit_dice": "11d4"
+"modifier": !!int "9"
 "stats":
-- !!int "1"
-- !!int "28"
-- !!int "10"
-- !!int "13"
-- !!int "14"
-- !!int "11"
+  - !!int "1"
+  - !!int "28"
+  - !!int "10"
+  - !!int "13"
+  - !!int "14"
+  - !!int "11"
 "speed": "5 ft., fly 50 ft. (hover)"
 "damage_resistances": "acid, bludgeoning, cold, fire, necrotic, piercing, slashing"
 "damage_immunities": "lightning, poison"
@@ -63,34 +62,38 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
   \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
   \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained),\
   \ [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "darkvision 120 ft., passive Perception 12"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 120 ft., passive Perception\
+  \ 12"
 "languages": "Common plus one other language"
 "cr": "2"
 "traits":
-- "desc": "The wisp can't wear or carry anything."
-  "name": "Ephemeral"
-- "desc": "The wisp sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
-    \ in a 20-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-    \ for an additional 20 feet."
-  "name": "Illumination"
-- "desc": "The wisp can move through other creatures and objects as if they were [Difficult\
-    \ Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md). It takes\
-    \ 5 (1d10) Force damage if it ends its turn inside an object."
-  "name": "Incorporeal Movement"
+  - "desc": "The wisp can't wear or carry anything."
+    "name": "Ephemeral"
+  - "desc": "The wisp sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
+      \ in a 20-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
+      \ for an additional 20 feet."
+    "name": "Illumination"
+  - "desc": "The wisp can move through other creatures and objects as if they were\
+      \ [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
+      \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
+    "name": "Incorporeal Movement"
 "actions":
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 11 (2d8 + 2) Lightning damage."
-  "name": "Shock"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 11 (2d8 + 2) Lightning\
+      \ damage."
+    "name": "Shock"
 "bonus_actions":
-- "desc": "Constitution Saving Throw: DC 10, one living creature the wisp can see\
-    \ within 5 feet that has 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).\
-    \ Failure: The target dies, and the wisp regains 10 (3d6) [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
-  "name": "Consume Life"
-- "desc": "The wisp and its light have the [Invisible](Compendium/rules/conditions.md#Invisible)\
-    \ condition until the wisp's [Concentration](Compendium/rules/conditions.md#Concentration)\
-    \ ends on this effect, which ends early immediately after the wisp makes an attack\
-    \ roll or uses Consume Life."
-  "name": "Vanish"
+  - "desc": "*Constitution Saving Throw:* DC 10, one living creature the wisp can\
+      \ see within 5 feet that has 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).\
+      \ *Failure:* The target dies, and the wisp regains 10 (3d6) [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+    "name": "Consume Life"
+  - "desc": "The wisp and its light have the [Invisible](Compendium/rules/conditions.md#Invisible)\
+      \ condition until the wisp's [Concentration](Compendium/rules/conditions.md#Concentration)\
+      \ ends on this effect, which ends early immediately after the wisp makes an\
+      \ attack roll or uses Consume Life."
+    "name": "Vanish"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/undead/token/will-o-wisp-xmm.webp"
 ```
 ^statblock

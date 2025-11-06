@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/feat/telepathic
 - ttrpg-cli/spell/level/2nd-level
+- ttrpg-cli/spell/reward/kruphixs-votary
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/aberrant-sorcery
 - ttrpg-cli/spell/subclass/arcane-trickster
@@ -15,28 +16,27 @@ tags:
 - ttrpg-cli/spell/subclass/diviner
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/great-old-one-patron
+- ttrpg-cli/spell/subclass/knowledge-domain
 classes:
 - Bard
-- Bard
-- Sorcerer
-- Sorcerer
-- Wizard
-- Wizard
-- Sorcerer (Aberrant Sorcery)
-- Rogue (Arcane Trickster)
 - Bard (College of Lore)
-- Wizard (Diviner)
+- Cleric (Knowledge Domain)
 - Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Sorcerer (Aberrant Sorcery)
 - Warlock (Great Old One Patron)
+- Wizard
+- Wizard (Diviner)
 aliases: ["Detect Thoughts"]
 ---
 # Detect Thoughts
 *2nd-level, Divination*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
-- **Components:** V, S, 1 Copper Piece
+- **Components:** V, S, M (1 Copper Piece)
 - **Duration:** Concentration, up to 1 minute
 
 You activate one of the effects below. Until the spell ends, you can activate either effect as a [Magic](Compendium/rules/actions.md#Magic) action on your later turns.
@@ -55,6 +55,6 @@ As a [Magic](Compendium/rules/actions.md#Magic) action on your next turn, you ca
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Sorcerer (Aberrant Sorcery)](list-spells-classes-sorcerer-xphb-aberrant-sorcery-xphb); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Wizard (Diviner)](list-spells-classes-wizard-xphb-diviner-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb); [Warlock (Great Old One Patron)](list-spells-classes-warlock-xphb-great-old-one-patron-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Aberrant Sorcery)](Compendium/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (Great Old One Patron)](Compendium/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 262. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

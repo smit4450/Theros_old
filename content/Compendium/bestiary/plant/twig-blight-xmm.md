@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Twig Blight"]
 ---
 # Twig Blight
-*Source: Monster Manual (2024) p. 43*  
+*Source: Monster Manual (2024) p. 43, FRHoF*  
 
 ![](Compendium/bestiary/plant/img/twig-blight.webp#right)  
 Resembling bundles of sticks or dead brush, twig blights easily blend in among deadwood, flotsam, and the wood piles common in many rural settings. Groups of them are often found near river crossings, forgotten wells, or natural campsites, where they ambush those who let down their guard.
@@ -39,31 +39,37 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 "ac": !!int "14"
 "hp": !!int "7"
 "hit_dice": "2d6"
+"modifier": !!int "2"
 "stats":
-- !!int "6"
-- !!int "14"
-- !!int "11"
-- !!int "4"
-- !!int "8"
-- !!int "3"
+  - !!int "6"
+  - !!int "14"
+  - !!int "11"
+  - !!int "4"
+  - !!int "8"
+  - !!int "3"
 "speed": "20 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+4"
 "damage_vulnerabilities": "fire"
 "condition_immunities": "[deafened](Compendium/rules/conditions.md#Deafened)"
-"senses": "blindsight 60 ft., passive Perception 9"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+  \ 9"
 "languages": "understands Common but can't speak"
 "cr": "1/8"
 "traits":
-- "desc": "The blight has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ on an attack roll against a creature if at least one of the blight's allies\
-    \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
-    \ condition."
-  "name": "Pack Tactics"
+  - "desc": "The blight has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ on an attack roll against a creature if at least one of the blight's allies\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage."
-  "name": "Claw"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Slashing\
+      \ damage."
+    "name": "Claw"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/plant/token/twig-blight-xmm.webp"
 ```
 ^statblock

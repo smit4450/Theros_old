@@ -12,7 +12,7 @@ statblock: inline
 aliases: ["Doppelganger"]
 ---
 # Doppelganger
-*Source: Monster Manual (2024) p. 100*  
+*Source: Monster Manual (2024) p. 100, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/monstrosity/img/doppelganger.webp#right)  
 ## Doppelganger
@@ -27,8 +27,6 @@ Doppelgangers are supernatural beings with the ability to shape-shift into any h
 A doppelganger's agenda might relate to its mysterious magical origins or to more mercenary goals. Roll on or choose a result from the Doppelganger Deceptions table to inspire a doppelganger's plot.
 
 **Doppelganger Deceptions**
-
-`dice: [](doppelganger-xmm.md#^doppelganger-deceptions)`
 
 | dice: 1d6 | The Doppelganger Schemes To... |
 |-----------|--------------------------------|
@@ -52,46 +50,51 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
 "ac": !!int "14"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
+"modifier": !!int "4"
 "stats":
-- !!int "11"
-- !!int "18"
-- !!int "14"
-- !!int "11"
-- !!int "12"
-- !!int "14"
+  - !!int "11"
+  - !!int "18"
+  - !!int "14"
+  - !!int "11"
+  - !!int "12"
+  - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "6"
-  "Insight": !!int "3"
+  - "name": "[Deception](Compendium/rules/skills.md#Deception)"
+    "desc": "+6"
+  - "name": "[Insight](Compendium/rules/skills.md#Insight)"
+    "desc": "+3"
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed)"
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 11"
 "languages": "Common plus three other languages"
 "cr": "3"
-"traits":
-- "desc": "The doppelganger casts [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md),\
-    \ requiring no spell components and using Charisma as the spellcasting ability\
-    \ (spell save DC 12).\n\nAt will: [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md)"
-  "name": "Read Thoughts"
 "actions":
-- "desc": "The doppelganger makes two Slam attacks and uses Unsettling Visage if available."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +6 (with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-    \ during the first round of each combat), reach 5 ft. Hit: 11 (2d6 + 4) Bludgeoning\
-    \ damage."
-  "name": "Slam"
-- "desc": "Wisdom Saving Throw: DC 12, each creature in a 15-foot [Emanation [Area\
-    \ of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the doppelganger that can see the doppelganger. Failure:\
-    \ The target has the [Frightened](Compendium/rules/conditions.md#Frightened) condition\
-    \ and repeats the save at the end of each of its turns, ending the effect on itself\
-    \ on a success. After 1 minute, it succeeds automatically."
-  "name": "Unsettling Visage (Recharge 6)"
+  - "desc": "The doppelganger makes two Slam attacks and uses Unsettling Visage if\
+      \ available."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +6 (with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ during the first round of each combat), reach 5 ft. *Hit:* 11 (2d6 + 4)\
+      \ Bludgeoning damage."
+    "name": "Slam"
+  - "desc": "*Wisdom Saving Throw:* DC 12, each creature in a 15-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the doppelganger that can see the doppelganger. *Failure:*\
+      \ The target has the [Frightened](Compendium/rules/conditions.md#Frightened)\
+      \ condition and repeats the save at the end of each of its turns, ending the\
+      \ effect on itself on a success. After 1 minute, it succeeds automatically."
+    "name": "Unsettling Visage (Recharge 6)"
+  - "desc": "The doppelganger casts [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md),\
+      \ requiring no spell components and using Charisma as the spellcasting ability\
+      \ (spell save DC 12).\n"
+    "name": "Read Thoughts"
 "bonus_actions":
-- "desc": "The doppelganger shape-shifts into a Medium or Small Humanoid, or it returns\
-    \ to its true form. Its game statistics, other than its size, are the same in\
-    \ each form. Any equipment it is wearing or carrying isn't transformed."
-  "name": "Shape-Shift"
+  - "desc": "The doppelganger shape-shifts into a Medium or Small Humanoid, or it\
+      \ returns to its true form. Its game statistics, other than its size, are the\
+      \ same in each form. Any equipment it is wearing or carrying isn't transformed."
+    "name": "Shape-Shift"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/monstrosity/token/doppelganger-xmm.webp"
 ```
 ^statblock

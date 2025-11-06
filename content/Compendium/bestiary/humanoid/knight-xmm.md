@@ -11,9 +11,9 @@ statblock: inline
 aliases: ["Knight"]
 ---
 # Knight
-*Source: Monster Manual (2024) p. 184*  
+*Source: Monster Manual (2024) p. 184, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/knight.webp#right)  
+![](Compendium/bestiary/humanoid/img/knights.webp#right)  
 Knights frequently lead troops in combat or work in units that dominate the battlefield. They're often attended by squires, who might be less skilled soldiers or commoners.
 
 ## Knights
@@ -21,7 +21,7 @@ Knights frequently lead troops in combat or work in units that dominate the batt
 *Battle Masters and Heroic Wanderers*
 
 - **Habitat.** Any  
-- **Treasure.** Armaments, Individual  
+- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
 
 Knights are skilled warriors trained for war and tested in battle. Many serve the rulers of a realm, a religion, or an order devoted to a cause.
 ## Statblock
@@ -34,37 +34,40 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
 "ac": !!int "18"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
+"modifier": !!int "0"
 "stats":
-- !!int "16"
-- !!int "11"
-- !!int "14"
-- !!int "11"
-- !!int "11"
-- !!int "15"
+  - !!int "16"
+  - !!int "11"
+  - !!int "14"
+  - !!int "11"
+  - !!int "11"
+  - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "2"
-  "Constitution": !!int "4"
+  - "constitution": !!int "4"
+  - "wisdom": !!int "2"
 "condition_immunities": "[frightened](Compendium/rules/conditions.md#Frightened)"
 "senses": "passive Perception 10"
 "languages": "Common plus one other language"
 "cr": "3"
 "actions":
-- "desc": "The knight makes two attacks, using Greatsword or Heavy Crossbow in any\
-    \ combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage\
-    \ plus 4 (1d8) Radiant damage."
-  "name": "Greatsword"
-- "desc": "Ranged Attack: +2, range 100/400 ft. Hit: 11 (2d10) Piercing damage\
-    \ plus 4 (1d8) Radiant damage."
-  "name": "Heavy Crossbow"
+  - "desc": "The knight makes two attacks, using Greatsword or Heavy Crossbow in any\
+      \ combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing\
+      \ damage plus 4 (1d8) Radiant damage."
+    "name": "Greatsword"
+  - "desc": "*Ranged Attack Roll:* +2, range 100/400 ft. *Hit:* 11 (2d10) Piercing\
+      \ damage plus 4 (1d8) Radiant damage."
+    "name": "Heavy Crossbow"
 "reactions":
-- "desc": "Trigger: The knight is hit by a melee attack roll while holding a weapon.\
-    \ Response: The knight adds 2 to its AC against that attack, possibly causing\
-    \ it to miss."
-  "name": "Parry"
+  - "desc": "Trigger: The knight is hit by a melee attack roll while holding a weapon.\
+      \ _Response:_ The knight adds 2 to its AC against that attack, possibly causing\
+      \ it to miss."
+    "name": "Parry"
 "source":
-- "XMM"
+  - "XMM"
+  - "FRHoF"
+"image": "Compendium/bestiary/humanoid/token/knight-xmm.webp"
 ```
 ^statblock

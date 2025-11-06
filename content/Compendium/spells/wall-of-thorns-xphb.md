@@ -10,17 +10,16 @@ tags:
 classes:
 - Bard
 - Druid
-- Druid
 aliases: ["Wall of Thorns"]
 ---
 # Wall of Thorns
 *6th-level, Conjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 120 feet
-- **Components:** V, S, a handful of thorns
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a handful of thorns)
+- **Duration:** Concentration, up to 10 minutes
 
 You create a wall of tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 60 feet long, 10 feet high, and 5 feet thick or a circle that has a 20-foot diameter and is up to 20 feet high and 5 feet thick. The wall blocks line of sight.
 
@@ -30,6 +29,6 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 **Using a Higher-Level Spell Slot.** Both types of damage increase by `1d8` for each spell slot level above 6.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 339. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 339. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

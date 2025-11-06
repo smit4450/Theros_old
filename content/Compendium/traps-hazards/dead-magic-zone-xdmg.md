@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-hazard
+cssclasses:
+- json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/env
-aliases: ["Dead Magic Zone"]
+aliases:
+- Dead Magic Zone
 ---
 # Dead Magic Zone
 *Environmental Hazard*  

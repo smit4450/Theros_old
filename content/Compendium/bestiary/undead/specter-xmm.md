@@ -12,9 +12,9 @@ statblock: inline
 aliases: ["Specter"]
 ---
 # Specter
-*Source: Monster Manual (2024) p. 290*  
+*Source: Monster Manual (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/undead/img/specter.webp#right)  
+![](Compendium/books/monster-manual-2025/img/specter.webp#right)  
 ## Specter
 
 *Spirit of Wrath and Servant of Death*
@@ -27,8 +27,6 @@ Specters are bodiless, life-devouring spirits drawn to darkness and negative emo
 Specters seek creatures and locations that exude evil and feed on the suffering they inspire. Roll on or choose a result from the Specter Haunts table to inspire where a specter lurks.
 
 **Specter Haunts**
-
-`dice: [](specter-xmm.md#^specter-haunts)`
 
 | dice: 1d8 | The Specter Lurks Near... |
 |-----------|---------------------------|
@@ -49,13 +47,14 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
 "ac": !!int "12"
 "hp": !!int "22"
 "hit_dice": "5d8"
+"modifier": !!int "2"
 "stats":
-- !!int "1"
-- !!int "14"
-- !!int "11"
-- !!int "10"
-- !!int "10"
-- !!int "11"
+  - !!int "1"
+  - !!int "14"
+  - !!int "11"
+  - !!int "10"
+  - !!int "10"
+  - !!int "11"
 "speed": "30 ft., fly 50 ft. (hover)"
 "damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
   \ thunder"
@@ -65,23 +64,25 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
   \ [petrified](Compendium/rules/conditions.md#Petrified), [poisoned](Compendium/rules/conditions.md#Poisoned),\
   \ [prone](Compendium/rules/conditions.md#Prone), [restrained](Compendium/rules/conditions.md#Restrained),\
   \ [unconscious](Compendium/rules/conditions.md#Unconscious)"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "1"
 "traits":
-- "desc": "The specter can move through other creatures and objects as if they were\
-    \ [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
-    \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
-  "name": "Incorporeal Movement"
-- "desc": "While in sunlight, the specter has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-    \ on ability checks and attack rolls."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The specter can move through other creatures and objects as if they were\
+      \ [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
+      \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
+    "name": "Incorporeal Movement"
+  - "desc": "While in sunlight, the specter has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 7 (2d6) Necrotic damage. If\
-    \ the target is a creature, its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ maximum decreases by an amount equal to the damage taken."
-  "name": "Life Drain"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (2d6) Necrotic damage.\
+      \ If the target is a creature, its [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ maximum decreases by an amount equal to the damage taken."
+    "name": "Life Drain"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/undead/token/specter-xmm.webp"
 ```
 ^statblock

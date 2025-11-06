@@ -16,6 +16,6 @@ This 60-foot length of rope can hold up to 3,000 pounds. While holding one end o
 
 If you tell the rope to knot, large knots appear at 1-foot intervals along the rope. While knotted, the rope shortens to a 50-foot length and grants [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on ability checks made to climb using the rope.
 
-The rope has AC 20, HP 20, and [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to Poison and Psychic damage. It regains 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) every 5 minutes as long as it has at least 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). If the rope drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it is destroyed.
+The rope has AC 20, HP 20, and [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to Poison and Psychic damage. It regains 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) every 5 minutes as long as it has at least 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md). If the rope drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), it is destroyed.
 
-*Source: Dungeon Master's Guide (2024) p. 301. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

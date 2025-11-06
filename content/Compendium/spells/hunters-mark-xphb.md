@@ -6,19 +6,19 @@ tags:
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/feat/fey-touched
 - ttrpg-cli/spell/level/1st-level
+- ttrpg-cli/spell/reward/nyleas-devotee
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/oath-of-vengeance
 classes:
-- Ranger
-- Ranger
 - Paladin (Oath of Vengeance)
+- Ranger
 aliases: ["Hunter's Mark"]
 ---
 # Hunter's Mark
 *1st-level, Divination*  
 
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** 90 feet
 - **Components:** V
 - **Duration:** Concentration, up to 1 hour
@@ -29,6 +29,6 @@ If the target drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-
 
 **Using a Higher-Level Spell Slot.** Your [Concentration](Compendium/rules/conditions.md#Concentration) can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).
 
-**Classes**: [Ranger](list-spells-classes-ranger); [Ranger](list-spells-classes-ranger); [Paladin (Oath of Vengeance)](list-spells-classes-paladin-xphb-oath-of-vengeance-xphb)
+**Classes**: [Paladin (Oath of Vengeance)](Compendium/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 287. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 287. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Chapter 2: Running the Game"]
+aliases:
+- Chapter 2: Running the Game
 ---
 # Chapter 2: Running the Game
 *Source: Dungeon Master's Guide (2024), p. 21* 
@@ -203,7 +205,7 @@ If not everyone can make it to a scheduled session, that can also be an opportun
 
 ### Variety Series
 
-Some groups don't want a long campaign with sweeping plotlines; they prefer short, unconnected adventures. With that style of game, different players might take turns as DM for one to three sessions at a time, with each adventure standing as a self-contained story.
+Some groups don't want a long campaign with sweeping plot lines; they prefer short, unconnected adventures. With that style of game, different players might take turns as DM for one to three sessions at a time, with each adventure standing as a self-contained story.
 
 ### Concurrent Campaigns
 
@@ -211,7 +213,7 @@ You and the other DMs in your group can take turns running adventures for a few 
 
 ### Shared World
 
-Some groups take a large, established campaign setting and divide it up geographically so different DMs can run separate campaigns in the same setting. In theory, characters can travel from one DM's region of the world to another's, creating continuity in the campaign even as characters might be involved in several plotlines.
+Some groups take a large, established campaign setting and divide it up geographically so different DMs can run separate campaigns in the same setting. In theory, characters can travel from one DM's region of the world to another's, creating continuity in the campaign even as characters might be involved in several plot lines.
 
 Rather than dividing a campaign geographically, you and the other DMs in your group could divide it thematically. Using the setting in "chapter 5" of this book as an example, each DM could focus their campaign on one of the three overarching conflicts of that setting. This approach allows the same group of adventurers to sink their teeth into all three overarching conflicts while ensuring that each storyline feels distinct.
 
@@ -492,13 +494,13 @@ If a couple of players are doing most of the talking in a social interaction, ta
 Consider the following additional possibilities to give characters whose Charisma is not their strong suit a chance to shine:
 
 - **Strength.** An NPC won't talk to the characters until one of them agrees to an arm-wrestling match. Or a strong character needs to bodily prevent the NPC from running away.  
-- **Dexterity.** An NPC is [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md) toward intruders, so the characters must talk from hiding. Or the social interaction provides a distraction that allows a character to get close enough to the NPC to steal something from the NPC's pockets.  
+- **Dexterity.** An NPC is [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) toward intruders, so the characters must talk from hiding. Or the social interaction provides a distraction that allows a character to get close enough to the NPC to steal something from the NPC's pockets.  
 - **Intelligence.** An NPC's speech is so full of obscure references to a particular area of knowledge that the characters can't use the information they receive until they interpret those obscure facts. Or the NPC refuses to give a direct answer, speaking only in vague hints that the characters must piece together to get the information they seek.  
 - **Wisdom.** An NPC is hiding something important, and the characters must read the NPC's nonverbal cues to understand what's true and what's deception. Or key information is concealed in details around the room where the interaction takes place, which a perceptive character might notice.  
 
 ### Attitude
 
-Each creature controlled by the DM has one of the following attitudes toward the adventurers: [Friendly [Attitude]](Compendium/rules/variant-rules/friendly-attitude-xphb.md), [Indifferent [Attitude]](Compendium/rules/variant-rules/indifferent-attitude-xphb.md), or [Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md). The ""Monster Behavior"" section in "chapter 4" offers guidance to help you determine a creature's initial attitude.
+Each creature controlled by the DM has one of the following attitudes toward the adventurers: [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md), [Indifferent](Compendium/rules/variant-rules/indifferent-attitude-xphb.md), or [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md). The ""Monster Behavior"" section in "chapter 4" offers guidance to help you determine a creature's initial attitude.
 
 Characters can shift a creature's attitude by their words or actions. For example, buying drinks for an Indifferent group of miners might shift their attitude to Friendly. When a shift occurs, describe it to your players. For example, the miners might display their newfound friendliness by imparting some useful information, offering to repay the kind gesture at a future date, or challenging the characters to a friendly drinking contest.
 
@@ -641,7 +643,7 @@ For each stage of the journey, follow these steps in order:
 - **Step 3: Track Food and Water Consumption**. Each creature in the party expends the appropriate amount of food and water for the length of the stage. If the party lacks enough food or water, the characters risk [dehydration](Compendium/traps-hazards/dehydration-xphb.md) and [malnutrition](Compendium/traps-hazards/malnutrition-xphb.md).  
 - **Step 4: Track Progress**. Track the party's progress at the end of the stage. You might mark their position on a map of the region and note the elapsed time on the Travel Planner.  
 
-Depending on how you planned the stages, the end of a stage might mean the characters arrive at a landmark, a waystation, or an adventure location, whether or not it's their final destination.
+Depending on how you planned the stages, the end of a stage might mean the characters arrive at a landmark, a way station, or an adventure location, whether or not it's their final destination.
 
 > [!note] Journeys without Destinations
 > 
@@ -659,7 +661,7 @@ Depending on how you planned the stages, the end of a stage might mean the chara
 
 #### Weather
 
-During each stage of the characters' journey, you can determine what the weather is like by rolling on the Weather table, adjusting for the terrain and season as appropriate. Roll `` three times to determine the temperature, the wind, and the precipitation.
+During each stage of the characters' journey, you can determine what the weather is like by rolling on the Weather table, adjusting for the terrain and season as appropriate. Roll `1d20` three times to determine the temperature, the wind, and the precipitation.
 
 Weather has no significant game effect most of the time, but see ""Environmental Effects"" in "chapter 3" for the effects of extreme weather. Adding weather details to your descriptions of the characters' journey can make it more memorable.
 
@@ -777,7 +779,7 @@ The Search DC column of the "Travel Terrain" table suggests DCs for Wisdom ([Per
 
 A specific instance of searching on a journey is when adventurers choose their path by following the tracks of other creatures. To track, one or more trackers must succeed on a Wisdom ([Survival](Compendium/rules/skills.md#Survival)) check. You might require trackers to make a new check in any of the following circumstances:
 
-- **Resting.** The trackers resume tracking after finishing a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).  
+- **Resting.** The trackers resume tracking after finishing a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).  
 - **Shifting Weather or Terrain.** The weather or terrain changes in a way that makes tracking harder.  
 - **Terrain Obstacle.** The trail crosses a river or similar obstacle that allows no tracks.  
 
@@ -946,14 +948,14 @@ As the characters fight monsters, you can reveal information to help the players
 > 
 > As discussed in the "Player's Handbook", [Heroic Inspiration](Compendium/rules/variant-rules/heroic-inspiration-xphb.md) is a reward you can give to characters when their players make the game more fun, exciting, and memorable for everyone at the table. Any player who makes the whole table erupt in laughter, cheers, or howls of surprise probably deserves Heroic Inspiration.
 > 
-> You can also use Heroic Inspiration to reward roleplaying, immersion in the game, and heroism. Use it to incentivize the kind of behavior you want to see in your game, such as acting in character, taking risks, thinking strategically, cooperating well, or embracing the tropes of a particular genre. Make sure your use of Heroic Inspiration is aligned with the expectations you set out at the start of your game (see ""Ensuring Fun for All"" in "chapter 1").
+> You can also use [Heroic Inspiration](Compendium/rules/variant-rules/heroic-inspiration-xphb.md) to reward roleplaying, immersion in the game, and heroism. Use it to incentivize the kind of behavior you want to see in your game, such as acting in character, taking risks, thinking strategically, cooperating well, or embracing the tropes of a particular genre. Make sure your use of [Heroic Inspiration](Compendium/rules/variant-rules/heroic-inspiration-xphb.md) is aligned with the expectations you set out at the start of your game (see ""Ensuring Fun for All"" in "chapter 1").
 ^awarding-heroic-inspiration
 
 ![A dragon's arrival makes a...](Compendium/books/dungeon-masters-guide-2024/img/020-01-016-dragon-arrives.webp#center "A dragon's arrival makes a simple fight against zombies much more interesting")
 
 #### Loss of Hit Points
 
-You can give players a sense of how well they're doing against a creature by describing, in narrative terms, how hurt the creature is. For example, if the creature is [Bloodied](Compendium/rules/variant-rules/bloodied-xphb.md), you might say the creature has visible wounds and appears beaten down. Such information gives the players a sense of progress and might spur them to press the attack. On the other hand, if the characters aren't damaging the creature much, let the players know the creature doesn't look hurt. That might encourage the players to change their plan.
+You can give players a sense of how well they're doing against a creature by describing, in narrative terms, how hurt the creature is. For example, if the creature is [Bloodied](Compendium/rules/conditions.md#Bloodied), you might say the creature has visible wounds and appears beaten down. Such information gives the players a sense of progress and might spur them to press the attack. On the other hand, if the characters aren't damaging the creature much, let the players know the creature doesn't look hurt. That might encourage the players to change their plan.
 
 #### Abilities, Strengths, and Weaknesses
 
@@ -1001,7 +1003,7 @@ Consider changing a battle's terrain to introduce a new element and give combata
 
 #### Change the Monster
 
-You can transform one monster into another to keep a fight interesting. Maybe a [worg](Compendium/bestiary/fey/worg-xmm.md) splits open, and a [gibbering mouther](Compendium/bestiary/aberration/gibbering-mouther-xmm.md) spills out to take its place. Or a cultist is consumed in a pillar of infernal flame, and a devil erupts from the ashes. You can also alter a monster's stat block in subtle ways in the middle of combat; for example, you might decide that a monster flies into a frenzy when it's [Bloodied](Compendium/rules/variant-rules/bloodied-xphb.md), giving it [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on its attack rolls—and giving the characters Advantage on their attack rolls against it as well, speeding the fight to an end.
+You can transform one monster into another to keep a fight interesting. Maybe a [worg](Compendium/bestiary/fey/worg-xmm.md) splits open, and a [gibbering mouther](Compendium/bestiary/aberration/gibbering-mouther-xmm.md) spills out to take its place. Or a cultist is consumed in a pillar of infernal flame, and a devil erupts from the ashes. You can also alter a monster's stat block in subtle ways in the middle of combat; for example, you might decide that a monster flies into a frenzy when it's [Bloodied](Compendium/rules/conditions.md#Bloodied), giving it [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on its attack rolls—and giving the characters Advantage on their attack rolls against it as well, speeding the fight to an end.
 
 ### Adjusting Difficulty
 
@@ -1015,7 +1017,7 @@ If you can't decide whether a creature is willing to fight, have it make a DC 10
 
 When creatures that are already engaged in battle realize they're likely to lose, they usually try to exit that battle. A monster is likely to flee if either of the following is true:
 
-- The monster starts its turn [Bloodied](Compendium/rules/variant-rules/bloodied-xphb.md) and more than half its allies are dead or have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, while no one is dead or Incapacitated on the other side.  
+- The monster starts its turn [Bloodied](Compendium/rules/conditions.md#Bloodied) and more than half its allies are dead or have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, while no one is dead or Incapacitated on the other side.  
 - The monster starts its turn Bloodied and has the [Frightened](Compendium/rules/conditions.md#Frightened) condition.  
 
 In those circumstances, you can decide the monster flees, or you can have it make a DC 10 Wisdom saving throw and flee or parley on a failed save. In general, if it is obvious to you that a creature is going to lose, assume it's obvious to that creature as well.

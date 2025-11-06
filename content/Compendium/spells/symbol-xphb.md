@@ -12,11 +12,8 @@ tags:
 - ttrpg-cli/spell/subclass/abjurer
 classes:
 - Bard
-- Bard
-- Cleric
 - Cleric
 - Druid
-- Wizard
 - Wizard
 - Wizard (Abjurer)
 aliases: ["Symbol"]
@@ -27,7 +24,7 @@ aliases: ["Symbol"]
 
 - **Casting time:** 1 minute
 - **Range:** Touch
-- **Components:** V, S, powdered diamond worth 1,000+ GP, which the spell consumes
+- **Components:** V, S, M (powdered diamond worth 1,000+ GP, which the spell consumes)
 - **Duration:** Until dispelled or triggered
 
 You inscribe a harmful glyph either on a surface (such as a section of floor or wall) or within an object that can be closed (such as a book or chest). The glyph can cover an area no larger than 10 feet in diameter. If you choose an object, it must remain in place; if it is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
@@ -42,7 +39,7 @@ You decide what triggers the glyph when you cast the spell. For glyphs inscribed
 
 You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.
 
-Once triggered, the glyph glows, filling a 60-foot-radius Sphere with [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for 10 minutes, after which time the spell ends. Each creature in the Sphere when the glyph activates is targeted by its effect, as is a creature that enters the Sphere for the first time on a turn or ends its turn there. A creature is targeted only once per turn.
+Once triggered, the glyph glows, filling a 60-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) with [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for 10 minutes, after which time the spell ends. Each creature in the [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) when the glyph activates is targeted by its effect, as is a creature that enters the [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) for the first time on a turn or ends its turn there. A creature is targeted only once per turn.
 
 ## Death
 
@@ -70,6 +67,6 @@ Each target must succeed on a Wisdom saving throw or have the [Stunned](Compendi
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Druid](list-spells-classes-druid); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Wizard (Abjurer)](list-spells-classes-wizard-xphb-abjurer-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 329. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

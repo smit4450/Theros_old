@@ -15,9 +15,9 @@ statblock: inline
 aliases: ["Pegasus"]
 ---
 # Pegasus
-*Source: Monster Manual (2024) p. 235*  
+*Source: Monster Manual (2024) p. 235. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/celestial/img/pegasus.webp#right)  
+![](Compendium/books/monster-manual-2025/img/pegasus.webp#right)  
 ## Pegasus
 
 *Elusive Winged Steed*
@@ -30,8 +30,6 @@ Winged, sapient horses of noble bearing, pegasi are as majestic as they are elus
 Pegasi are hunted by servants of evil, leading many of these winged steeds to flee strangers on sight. Roll on or choose a result from the Pegasus Offerings table to inspire how one might show their good intentions to a wary pegasus.
 
 **Pegasus Offerings**
-
-`dice: [](pegasus-xmm.md#^pegasus-offerings)`
 
 | dice: 1d4 | A Pegasus Won't Flee Someone... |
 |-----------|---------------------------------|
@@ -53,29 +51,32 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
 "ac": !!int "12"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "10"
-- !!int "15"
-- !!int "13"
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "10"
+  - !!int "15"
+  - !!int "13"
 "speed": "60 ft., fly 90 ft."
 "saves":
-  "Charisma": !!int "3"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "5"
+  - "dexterity": !!int "4"
+  - "constitution": !!int "5"
+  - "wisdom": !!int "4"
+  - "charisma": !!int "3"
 "skillsaves":
-  "Perception": !!int "6"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "understands Celestial, Common, Elvish, and Sylvan but can't speak"
 "cr": "2"
 "actions":
-- "desc": "Melee Attack: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage\
-    \ plus 5 (2d4) Radiant damage."
-  "name": "Hooves"
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 7 (1d6 + 4) Bludgeoning\
+      \ damage plus 5 (2d4) Radiant damage."
+    "name": "Hooves"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/celestial/token/pegasus-xmm.webp"
 ```
 ^statblock

@@ -7,7 +7,7 @@ tags:
 aliases: ["Dwarf"]
 ---
 # Dwarf
-*Source: Player's Handbook (2024) p. 188. Available in the Free Rules (2024)*  
+*Source: Player's Handbook (2024) p. 188. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![](Compendium/races/img/dwarf.webp#right)
 
 - **Ability Scores**: None
@@ -27,13 +27,13 @@ You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Pois
 
 ### Dwarven Toughness
 
-Your [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) maximum increases by 1, and it increases by 1 again whenever you gain a level.
+Your [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum increases by 1, and it increases by 1 again whenever you gain a level.
 
 ### Stonecunning
 
 As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you gain [Tremorsense](Compendium/rules/senses.md#Tremorsense) with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this [Tremorsense](Compendium/rules/senses.md#Tremorsense). The stone can be natural or worked.
 
-You can use this [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) a number of times equal to your [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You can use this [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) a number of times equal to your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
 
 ## Description
 

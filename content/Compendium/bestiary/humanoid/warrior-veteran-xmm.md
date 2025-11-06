@@ -11,9 +11,9 @@ statblock: inline
 aliases: ["Warrior Veteran"]
 ---
 # Warrior Veteran
-*Source: Monster Manual (2024) p. 320*  
+*Source: Monster Manual (2024) p. 320. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/warrior-veteran.webp#right)  
+![An aasimar commander leads...](Compendium/bestiary/humanoid/img/warriors.webp#right)  
 Warrior veterans have participated in numerous battles and can hold their own against lesser rivals and monsters.
 
 ## Warriors
@@ -21,15 +21,13 @@ Warrior veterans have participated in numerous battles and can hold their own ag
 *Soldiers and Scrappers*
 
 - **Habitat.** Any  
-- **Treasure.** Armaments  
+- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
 
 Warriors are professionals who make a living through their prowess in battle. They might be skilled in using a variety of tactics or trained to take advantage of unusual battlefields. Warriors often work together, whether in armies or in teams with deliberate goals.
 
 Roll on or choose a result from the Warrior Roles table to inspire the creation of different sorts of warriors.
 
 **Warrior Roles**
-
-`dice: [](warrior-veteran-xmm.md#^warrior-roles)`
 
 | dice: 1d10 | The Warrior Is... |
 |------------|-------------------|
@@ -59,34 +57,39 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 "ac": !!int "17"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
+"modifier": !!int "3"
 "stats":
-- !!int "16"
-- !!int "13"
-- !!int "14"
-- !!int "10"
-- !!int "11"
-- !!int "10"
+  - !!int "16"
+  - !!int "13"
+  - !!int "14"
+  - !!int "10"
+  - !!int "11"
+  - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  "Athletics": !!int "5"
-  "Perception": !!int "2"
+  - "name": "[Athletics](Compendium/rules/skills.md#Athletics)"
+    "desc": "+5"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "3"
 "actions":
-- "desc": "The warrior makes two Greatsword or Heavy Crossbow attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage."
-  "name": "Greatsword"
-- "desc": "Ranged Attack: +3, range 100/400 ft. Hit: 12 (2d10 + 1) Piercing\
-    \ damage."
-  "name": "Heavy Crossbow"
+  - "desc": "The warrior makes two Greatsword or Heavy Crossbow attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing\
+      \ damage."
+    "name": "Greatsword"
+  - "desc": "*Ranged Attack Roll:* +3, range 100/400 ft. *Hit:* 12 (2d10 + 1)\
+      \ Piercing damage."
+    "name": "Heavy Crossbow"
 "reactions":
-- "desc": "Trigger: The warrior is hit by a melee attack roll while holding a weapon.\
-    \ Response: The warrior adds 2 to its AC against that attack, possibly causing\
-    \ it to miss."
-  "name": "Parry"
+  - "desc": "Trigger: The warrior is hit by a melee attack roll while holding a weapon.\
+      \ _Response:_ The warrior adds 2 to its AC against that attack, possibly causing\
+      \ it to miss."
+    "name": "Parry"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/humanoid/token/warrior-veteran-xmm.webp"
 ```
 ^statblock

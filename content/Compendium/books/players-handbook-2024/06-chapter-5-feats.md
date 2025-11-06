@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Chapter 5: Feats"]
+aliases:
+- Chapter 5: Feats
 ---
 # Chapter 5: Feats
 *Source: Player's Handbook (2024), p. 199* 

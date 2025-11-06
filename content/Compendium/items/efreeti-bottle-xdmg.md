@@ -16,8 +16,6 @@ When you take a [Magic](Compendium/rules/actions.md#Magic) action to remove the 
 
 The first time the bottle is opened, the DM rolls on the following table to determine what happens.
 
-`dice: [](efreeti-bottle-xdmg.md#^1-effect)`
-
 | dice: 1d10 | Effect |
 |------------|--------|
 | 1 | The [efreeti](Compendium/bestiary/elemental/efreeti-xmm.md) attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic. |
@@ -25,4 +23,4 @@ The first time the bottle is opened, the DM rolls on the following table to dete
 | 10 | The [efreeti](Compendium/bestiary/elemental/efreeti-xmm.md) understands your languages and can cast [Wish](Compendium/spells/wish-xphb.md) once for you. It disappears when it grants the wish or after 1 hour, and the bottle loses its magic. |
 ^1-effect
 
-*Source: Dungeon Master's Guide (2024) p. 256*
+*Source: Dungeon Master's Guide (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

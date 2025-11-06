@@ -14,9 +14,15 @@ statblock: inline
 aliases: ["Giant Eagle"]
 ---
 # Giant Eagle
-*Source: Monster Manual (2024) p. 356*  
+*Source: Monster Manual (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/celestial/img/giant-eagle.webp#center)  
+![](Compendium/bestiary/celestial/img/eagle.webp#right)  
+## Animals
+
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
+![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
+![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
 ```statblock
 "name": "Giant Eagle (XMM)"
 "size": "Large"
@@ -25,28 +31,31 @@ aliases: ["Giant Eagle"]
 "ac": !!int "13"
 "hp": !!int "26"
 "hit_dice": "4d10 + 4"
+"modifier": !!int "3"
 "stats":
-- !!int "16"
-- !!int "17"
-- !!int "13"
-- !!int "8"
-- !!int "14"
-- !!int "10"
+  - !!int "16"
+  - !!int "17"
+  - !!int "13"
+  - !!int "8"
+  - !!int "14"
+  - !!int "10"
 "speed": "10 ft., fly 80 ft."
 "skillsaves":
-  "Perception": !!int "6"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+6"
 "damage_resistances": "necrotic, radiant"
 "senses": "passive Perception 16"
 "languages": "Celestial; understands Common and Primordial (Auran) but can't speak\
   \ them"
 "cr": "1"
 "actions":
-- "desc": "The eagle makes two Rend attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage\
-    \ plus 3 (1d6) Radiant damage."
-  "name": "Rend"
+  - "desc": "The eagle makes two Rend attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Slashing\
+      \ damage plus 3 (1d6) Radiant damage."
+    "name": "Rend"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/celestial/token/giant-eagle-xmm.webp"
 ```
 ^statblock

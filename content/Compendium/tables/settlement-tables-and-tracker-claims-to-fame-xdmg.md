@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Settlement Tables and Tracker; Claims to Fame"]
+aliases:
+- Settlement Tables and Tracker; Claims to Fame
 ---
 # Settlement Tables and Tracker; Claims to Fame
 *Source: Dungeon Master's Guide (2024) p. 93* 
 
 **Claims to Fame**
-
-`dice: [](settlement-tables-and-tracker-claims-to-fame-xdmg.md#^claims-to-fame)`
 
 | dice: 1d20 | Claim to Fame |
 |------------|---------------|

@@ -16,4 +16,4 @@ These horseshoes come in a set of four. As a [Magic](Compendium/rules/actions.md
 
 While all four horseshoes are attached to the same creature, its [Speed](Compendium/rules/variant-rules/speed-xphb.md) is increased by 30 feet.
 
-*Source: Dungeon Master's Guide (2024) p. 270*
+*Source: Dungeon Master's Guide (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

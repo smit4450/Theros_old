@@ -11,7 +11,7 @@ statblock: inline
 aliases: ["Druid"]
 ---
 # Druid
-*Source: Monster Manual (2024) p. 106*  
+*Source: Monster Manual (2024) p. 106. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ![](Compendium/bestiary/humanoid/img/druid.webp#right)  
 ## Druid
@@ -19,13 +19,11 @@ aliases: ["Druid"]
 *Steward and Sage of Nature*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, Relics  
+- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
 
 Druids use primal magic, traditional teachings, and bonds with animals and eldritch beings to guard the natural world and heal its ills. These magic-users might be recluses devoted to a particular land, or they might be part of a mystic organization. Roll on or choose a result from the Druidic Traditions table to inspire a druid's magical practices.
 
 **Druid Traditions**
-
-`dice: [](druid-xmm.md#^druid-traditions)`
 
 | dice: 1d6 | The Druid Is... |
 |-----------|-----------------|
@@ -44,38 +42,43 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
 "ac": !!int "13"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
+"modifier": !!int "1"
 "stats":
-- !!int "10"
-- !!int "12"
-- !!int "13"
-- !!int "12"
-- !!int "16"
-- !!int "11"
+  - !!int "10"
+  - !!int "12"
+  - !!int "13"
+  - !!int "12"
+  - !!int "16"
+  - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Medicine": !!int "5"
-  "Nature": !!int "3"
-  "Perception": !!int "5"
+  - "name": "[Medicine](Compendium/rules/skills.md#Medicine)"
+    "desc": "+5"
+  - "name": "[Nature](Compendium/rules/skills.md#Nature)"
+    "desc": "+3"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "Common, Druidic, Sylvan"
 "cr": "2"
-"traits":
-- "desc": "The druid casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 13):\n\nAt will: [Druidcraft](Compendium/spells/druidcraft-xphb.md),\
-    \ [Speak with Animals](Compendium/spells/speak-with-animals-xphb.md)\n\n1/day\
-    \ each: [Animal Messenger](Compendium/spells/animal-messenger-xphb.md), [Longstrider](Compendium/spells/longstrider-xphb.md),\
-    \ [Moonbeam](Compendium/spells/moonbeam-xphb.md)\n\n2/day each: [Entangle](Compendium/spells/entangle-xphb.md),\
-    \ [Thunderwave](Compendium/spells/thunderwave-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "The druid makes two attacks, using Vine Staff or Verdant Wisp in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage\
-    \ plus 2 (1d4) Poison damage."
-  "name": "Vine Staff"
-- "desc": "Ranged Attack: +5, range 90 ft. Hit: 10 (3d6) Radiant damage."
-  "name": "Verdant Wisp"
+  - "desc": "The druid makes two attacks, using Vine Staff or Verdant Wisp in any\
+      \ combination."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning\
+      \ damage plus 2 (1d4) Poison damage."
+    "name": "Vine Staff"
+  - "desc": "*Ranged Attack Roll:* +5, range 90 ft. *Hit:* 10 (3d6) Radiant damage."
+    "name": "Verdant Wisp"
+  - "desc": "The druid casts one of the following spells, using Wisdom as the spellcasting\
+      \ ability (spell save DC 13):\n\n**At will:** [Druidcraft](Compendium/spells/druidcraft-xphb.md),\
+      \ [Speak with Animals](Compendium/spells/speak-with-animals-xphb.md)\n\n**2/day\
+      \ each:** [Entangle](Compendium/spells/entangle-xphb.md), [Thunderwave](Compendium/spells/thunderwave-xphb.md)\n\
+      \n**1/day each:** [Animal Messenger](Compendium/spells/animal-messenger-xphb.md),\
+      \ [Longstrider](Compendium/spells/longstrider-xphb.md), [Moonbeam](Compendium/spells/moonbeam-xphb.md)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/humanoid/token/druid-xmm.webp"
 ```
 ^statblock

@@ -17,9 +17,9 @@ statblock: inline
 aliases: ["Goblin Warrior"]
 ---
 # Goblin Warrior
-*Source: Monster Manual (2024) p. 142*  
+*Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/fey/img/goblin-warrior.webp#right)  
+![A goblin boss, a goblin he...](Compendium/bestiary/fey/img/goblins.webp#right)  
 Goblin warriors excel at causing mischief. Those in service to Maglubiyet have greater discipline and are likely to withdraw to set up ambushes.
 
 ## Goblins
@@ -27,7 +27,7 @@ Goblin warriors excel at causing mischief. Those in service to Maglubiyet have g
 *Wild Tricksters and Troublemakers*
 
 - **Habitat.** Forest, Grassland, Hill, Planar (Acheron), Planar (Feywild), Underdark  
-- **Treasure.** Implements, Individual  
+- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
 
 Goblins are Feywild embodiments of recklessness and ruin. They delight in wreckage—the louder, the more energetic, and the more convoluted, the better. Goblin raids are often as much opportunities to enjoy setting fires and tormenting livestock as they are parts of more disruptive plots.
 
@@ -50,30 +50,34 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 "ac": !!int "15"
 "hp": !!int "10"
 "hit_dice": "3d6"
+"modifier": !!int "2"
 "stats":
-- !!int "8"
-- !!int "15"
-- !!int "10"
-- !!int "10"
-- !!int "8"
-- !!int "8"
+  - !!int "8"
+  - !!int "15"
+  - !!int "10"
+  - !!int "10"
+  - !!int "8"
+  - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "6"
-"senses": "darkvision 60 ft., passive Perception 9"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+6"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 9"
 "languages": "Common, Goblin"
 "cr": "1/4"
 "actions":
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage,\
-    \ plus 2 (1d4) Slashing damage if the attack roll had [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)."
-  "name": "Scimitar"
-- "desc": "Ranged Attack: +4, range 80/320 ft. Hit: 5 (1d6 + 2) Piercing damage,\
-    \ plus 2 (1d4) Piercing damage if the attack roll had [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)."
-  "name": "Shortbow"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Slashing\
+      \ damage, plus 2 (1d4) Slashing damage if the attack roll had [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)."
+    "name": "Scimitar"
+  - "desc": "*Ranged Attack Roll:* +4, range 80/320 ft. *Hit:* 5 (1d6 + 2) Piercing\
+      \ damage, plus 2 (1d4) Piercing damage if the attack roll had [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)."
+    "name": "Shortbow"
 "bonus_actions":
-- "desc": "The goblin takes the Disengage or Hide action."
-  "name": "Nimble Escape"
+  - "desc": "The goblin takes the Disengage or Hide action."
+    "name": "Nimble Escape"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/fey/token/goblin-warrior-xmm.webp"
 ```
 ^statblock

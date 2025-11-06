@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Typical Difficulty Classes"]
+aliases:
+- Typical Difficulty Classes
 ---
 # Typical Difficulty Classes
-*Source: Player's Handbook (2024) p. 11* 
+*Source: Player's Handbook (2024) p. 11. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 **Typical Difficulty Classes**
 

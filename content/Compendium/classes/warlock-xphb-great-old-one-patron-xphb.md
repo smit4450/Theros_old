@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/warlock/great-old-one
-aliases: ["Great Old One Patron"]
+aliases:
+- Great Old One Patron
 ---
 # Great Old One Patron
-*[Warlock](warlock-xphb.md): Warlock Subclass*  
+*[Warlock](./warlock-xphb.md): Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 162*  
 
 > [!tldr] Class and Feature Progression
@@ -19,18 +21,18 @@ aliases: ["Great Old One Patron"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Great%20Old%20One%20Patron%20(Level%203)'>Great Old One Patron</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Great Old One Patron (Level 3)' class='internal-link'>Great Old One Patron</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Clairvoyant%20Combatant%20(Level%206)'>Clairvoyant Combatant</a></td></tr>
+> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Clairvoyant Combatant (Level 6)' class='internal-link'>Clairvoyant Combatant</a></td></tr>
 > <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Eldritch%20Hex%20(Level%2010)'>Eldritch Hex</a>, <a href='#Thought%20Shield%20(Level%2010)'>Thought Shield</a></td></tr>
+> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Eldritch Hex (Level 10)' class='internal-link'>Eldritch Hex</a>, <a href='#Thought Shield (Level 10)' class='internal-link'>Thought Shield</a></td></tr>
 > <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Create%20Thrall%20(Level%2014)'>Create Thrall</a></td></tr>
+> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Create Thrall (Level 14)' class='internal-link'>Create Thrall</a></td></tr>
 > <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
@@ -38,7 +40,8 @@ aliases: ["Great Old One Patron"]
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -71,13 +74,13 @@ The telepathic connection lasts for a number of minutes equal to your Warlock le
 
 ### Psychic Spells (Level 3)
 
-When you cast a Warlock spell that deals damage, you can change its damage type to Psychic. In addition, when you cast a Warlock spell that is an Enchantment or [Illusions](Compendium/rules/variant-rules/illusions-xphb.md), you can do so without Verbal or Somatic components.
+When you cast a Warlock spell that deals damage, you can change its damage type to Psychic. In addition, when you cast a Warlock spell that is an Enchantment or [Illusion](Compendium/rules/variant-rules/illusions-xphb.md), you can do so without Verbal or Somatic components.
 
 ### Clairvoyant Combatant (Level 6)
 
 When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls against you, and you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls against that creature for the duration of the bond.
 
-Once you use this feature, you can't use it again until you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you expend a Pact [Magic](Compendium/rules/actions.md#Magic) spell slot (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you expend a Pact [Magic](Compendium/rules/actions.md#Magic) spell slot (no action required) to restore your use of it.
 
 ### Eldritch Hex (Level 10)
 

@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Chapter 6: Cosmology"]
+aliases:
+- Chapter 6: Cosmology
 ---
 # Chapter 6: Cosmology
 *Source: Dungeon Master's Guide (2024), p. 173* 
@@ -91,7 +93,7 @@ Most portals from elsewhere reach the first layer of a multilayered plane. This 
 
 The Outer Planes are realms of thought and morality more than merely physical reality, and they can affect visitors on a deeply personal level as well as a physical one.
 
-At your discretion, a creature that spends a long time on an Outer Plane that is not its home plan can begin to take on aspects of that plane's ethos. Visitors to the Upper Planes might feel strange urges to perform deeds of kindness or compassion, while visitors to the Lower Planes might find themselves drawn to acts of cruelty or betrayal. Those who spend time on Mechanus and other lawful planes might feel their ties of loyalty to each other growing stronger, while those who visit Limbo and other chaotic planes might become temporarily more independent or self-absorbed. These tendencies are best handled as DM suggestions and then roleplayed by the players, but you might award Heroic Inspiration to characters who bring these characteristics to life in their characters.
+At your discretion, a creature that spends a long time on an Outer Plane that is not its home plan can begin to take on aspects of that plane's ethos. Visitors to the Upper Planes might feel strange urges to perform deeds of kindness or compassion, while visitors to the Lower Planes might find themselves drawn to acts of cruelty or betrayal. Those who spend time on Mechanus and other lawful planes might feel their ties of loyalty to each other growing stronger, while those who visit Limbo and other chaotic planes might become temporarily more independent or self-absorbed. These tendencies are best handled as DM suggestions and then roleplayed by the players, but you might award [Heroic Inspiration](Compendium/rules/variant-rules/heroic-inspiration-xphb.md) to characters who bring these characteristics to life in their characters.
 
 ##### Planar Dissonance
 
@@ -220,7 +222,7 @@ The demon lord Graz'zt embodies manipulation and cruelty, tempting mortals with 
 
 Lolth is the Demon Queen of Spiders, whose schemes entangle entire civilizations on worlds across the multiverse. Of all demon lords, she might have the most active interest in the worlds of the Material Plane and in the cultists who do her bidding on those worlds, but her interest lies only in domination.
 
-Lolth's layer is an immense network of thick, magical webbing that forms passageways and cocoonlike chambers. Structures, ships, and other objects are caught in the webbing. The webs conceal random portals that snare objects from demiplanes and Material Plane worlds that figure into the schemes of the Spider Queen. Lolth's servants also build dungeons amid the webbing, trapping and hunting Lolth's hated enemies within crisscrossing corridors of web-mortared stone. Far beneath these dungeons lie the bottomless Demonweb Pits where the Spider Queen dwells with her most loyal servants—yochlol demons created to serve her that outrank mightier demons while in the Spider Queen's realm.
+Lolth's layer is an immense network of thick, magical webbing that forms passageways and cocoon-like chambers. Structures, ships, and other objects are caught in the webbing. The webs conceal random portals that snare objects from demiplanes and Material Plane worlds that figure into the schemes of the Spider Queen. Lolth's servants also build dungeons amid the webbing, trapping and hunting Lolth's hated enemies within crisscrossing corridors of web-mortared stone. Far beneath these dungeons lie the bottomless Demonweb Pits where the Spider Queen dwells with her most loyal servants—yochlol demons created to serve her that outrank mightier demons while in the Spider Queen's realm.
 
 #### Layer 88: The Gaping Maw
 
@@ -602,7 +604,7 @@ Traveling through the Deep Ethereal is unlike physical travel. Distance is meani
 
 #### Ether Cyclones
 
-An ether cyclone is a serpentine column that spins through the plane. The cyclone appears abruptly, distorting and uprooting everything in its path and carrying the debris for miles. Travelers with a [Passive Perception](Compendium/rules/variant-rules/passive-perception-xphb.md) score of 15 or higher receive 1 minute of warning: a deep thrum in the ethereal matter. Travelers who can't reach a curtain or portal leading elsewhere suffer the cyclone's effect. Roll `` and consult the Ether Cyclone table to determine the effect on all creatures in the vicinity.
+An ether cyclone is a serpentine column that spins through the plane. The cyclone appears abruptly, distorting and uprooting everything in its path and carrying the debris for miles. Travelers with a [Passive Perception](Compendium/rules/variant-rules/passive-perception-xphb.md) score of 15 or higher receive 1 minute of warning: a deep thrum in the ethereal matter. Travelers who can't reach a curtain or portal leading elsewhere suffer the cyclone's effect. Roll `1d20` and consult the Ether Cyclone table to determine the effect on all creatures in the vicinity.
 
 ![Ether Cyclones; Ether Cyclone](Compendium/tables/ether-cyclones-ether-cyclone-xdmg.md)
 
@@ -748,7 +750,7 @@ As a [Magic](Compendium/rules/actions.md#Magic) action, a creature in Limbo can 
 
 A creature can also take a [Magic](Compendium/rules/actions.md#Magic) action to make an Intelligence check to alter a nonmagical object within 30 feet of itself that isn't being worn or carried. The DC is based on the object's size: DC 10 for Tiny, DC 15 for Small, DC 20 for Medium, and DC 25 for Large or larger. On a successful check, the creature changes the object into another nonliving form of the same size, such as turning a boulder into a ball of fire.
 
-Finally, a creature in Limbo can take a [Magic](Compendium/rules/actions.md#Magic) action to make a DC 20 Intelligence check to stabilize an area within a 30-foot-radius [Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point it can see on the plane. On a successful check, the creature prevents the area from being altered by the plane for 24 hours or until the creature takes this Magic action again.
+Finally, a creature in Limbo can take a [Magic](Compendium/rules/actions.md#Magic) action to make a DC 20 Intelligence check to stabilize an area within a 30-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point it can see on the plane. On a successful check, the creature prevents the area from being altered by the plane for 24 hours or until the creature takes this Magic action again.
 
 #### Limbo Adventures
 
@@ -997,7 +999,7 @@ A jagged spike somewhere in Cocytus, called Howler's Crag, is rumored to have a 
 
 ### Para-elemental Planes
 
-The regions where the Elemental Planes collide and their elemental substances overlap are called Paraelemental Planes.
+The regions where the Elemental Planes collide and their elemental substances overlap are called Para-elemental Planes.
 
 #### Plane of Ash
 
@@ -1051,7 +1053,7 @@ Shadow crossings are locations where the veil between the Material Plane and the
 
 #### Domains of Dread
 
-In a far-flung corner of the Shadowfell drifts a hidden expanse of roiling mist and vague semireality. At this eerie edge of the multiverse, mysterious entities known as the Dark Powers collect the most wicked beings from across ages and worlds within inescapable, mist-shrouded demiplanes. In these shadowy prisons, the villainous beings become Darklords, able to exercise great power but confined to realms that twist their desires, capturing them in cycles of dread and despair.
+In a far-flung corner of the Shadowfell drifts a hidden expanse of roiling mist and vague semi-reality. At this eerie edge of the multiverse, mysterious entities known as the Dark Powers collect the most wicked beings from across ages and worlds within inescapable, mist-shrouded demiplanes. In these shadowy prisons, the villainous beings become Darklords, able to exercise great power but confined to realms that twist their desires, capturing them in cycles of dread and despair.
 
 Mists surround each of the Domains of Dread, making it difficult to leave one domain and even harder to find a path to another. The Mists rise and fall at the whim of the Dark Powers, and they can even slip across the planes to drag people unwittingly into the dread domains. Those who live in these domains ascribe all sorts of sinister stories to the Mists—any supernatural happening, inexplicable disappearance, or malicious force can be blamed on the Mists.
 
@@ -1101,7 +1103,7 @@ At the center of the Outlands, like the axle of a great wheel, is the Spire, a n
 
 Sigil is a trader's paradise. Goods and information come here from across the planes. The city sustains a brisk trade in information about the planes, particularly the commands or items required for the operation of particular portals.
 
-The city is the domain of the inscrutable Lady of Pain, a being whose purpose and goals are unknown to even the sages of her city. She appears almost human, although she most definitely isn't. She wears ornate robes that shroud her body, and a mantle of blades coated in blue-green verdigris surrounds her masklike face. No one is certain who or what exactly the Lady of Pain is, but it's widely accepted she's a being on par with deities. Is Sigil her prison? Is she the fallen creator of the multiverse? No one knows—or if they do, they aren't telling.
+The city is the domain of the inscrutable Lady of Pain, a being whose purpose and goals are unknown to even the sages of her city. She appears almost human, although she most definitely isn't. She wears ornate robes that shroud her body, and a mantle of blades coated in blue-green verdigris surrounds her mask-like face. No one is certain who or what exactly the Lady of Pain is, but it's widely accepted she's a being on par with deities. Is Sigil her prison? Is she the fallen creator of the multiverse? No one knows—or if they do, they aren't telling.
 
 "Planescape: Adventures in the Multiverse" includes extensive information on "Sigil".
 

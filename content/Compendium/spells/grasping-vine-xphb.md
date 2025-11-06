@@ -11,8 +11,6 @@ tags:
 classes:
 - Bard
 - Druid
-- Druid
-- Ranger
 - Ranger
 aliases: ["Grasping Vine"]
 ---
@@ -20,7 +18,7 @@ aliases: ["Grasping Vine"]
 *4th-level, Conjuration*  
 
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -33,6 +31,6 @@ As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) on your
 
 **Using a Higher-Level Spell Slot.** The number of creatures the vine can grapple increases by one for each spell slot level above 4.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid); [Ranger](list-spells-classes-ranger); [Ranger](list-spells-classes-ranger)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 280*

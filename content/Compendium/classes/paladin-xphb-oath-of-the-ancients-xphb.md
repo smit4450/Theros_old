@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+- json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/paladin/ancients
-aliases: ["Oath of the Ancients"]
+aliases:
+- Oath of the Ancients
 ---
 # Oath of the Ancients
-*[Paladin](paladin-xphb.md): Paladin Subclass*  
+*[Paladin](./paladin-xphb.md): Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 115*  
 
 > [!tldr] Class and Feature Progression
@@ -19,11 +21,11 @@ aliases: ["Oath of the Ancients"]
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oath%20of%20the%20Ancients%20(Level%203)'>Oath of the Ancients</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oath of the Ancients (Level 3)' class='internal-link'>Oath of the Ancients</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Aura%20of%20Warding%20(Level%207)'>Aura of Warding</a></td></tr>
+> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Aura of Warding (Level 7)' class='internal-link'>Aura of Warding</a></td></tr>
 > <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
@@ -31,14 +33,15 @@ aliases: ["Oath of the Ancients"]
 > <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Undying%20Sentinel%20(Level%2015)'>Undying Sentinel</a></td></tr>
+> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Undying Sentinel (Level 15)' class='internal-link'>Undying Sentinel</a></td></tr>
 > <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Elder%20Champion%20(Level%2020)'>Elder Champion</a></td></tr>
+> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Elder Champion (Level 20)' class='internal-link'>Elder Champion</a></td></tr>
 > </tbody></table>
-^class-progession
+
+^class-progression
 
 
 ## Class Features
@@ -80,7 +83,7 @@ Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting 
 
 ### Undying Sentinel (Level 15)
 
-When you are reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) and not killed outright, you can drop to 1 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) instead, and you regain a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to three times your Paladin level. Once you use this feature, you can't do so again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+When you are reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) and not killed outright, you can drop to 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) instead, and you regain a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to three times your Paladin level. Once you use this feature, you can't do so again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
 
 Additionally, you can't be aged magically, and you cease visibly aging.
 

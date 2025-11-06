@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases: ["Credits"]
+aliases:
+- Credits
 ---
 # Credits
 *Source: Monster Manual (2025), p. 2* 
@@ -16,9 +18,9 @@ aliases: ["Credits"]
 - **Art Directors.** Fury Galluzzi (lead), Bree Heiss, Josh Herman, Kate Irwin, Emi Tanji  
 - **Graphic Designers.** Trystan Falcone (lead), Matt Cole, Trish Yochum  
 - **Cover Illustrators.** Tyler Jacobson, Olena Richards  
-- **Interior Illustrators.** Hazem Ameen, Joy Ang, Carlo Arellano, Daren Bader, Cristi Balanescu, Helge C. Balzer, Luca Bancone, Mark Behm, Eric Belisle, Steven Belledin, Olivier Bernard, Alex Brock, Michael Broussard, Kai Carpenter, Domenico Cava, Sidharth Chaturvedi, Yongjae Choi, Chris Cold, Daarken, Kent Davis, Nikki Dawes, Axel Defois, Julie Dillon, Simon Dominic, Jesper Ejsing, Aurore Folny, Fury Galluzzi, John Patrick Gañas, Caroline Gariba, Justin Gerard, Michele Giorgi, IIse Gort, Lars Grant-West, John Grello, Johan Grenier, Nils Hamm, Patrik Hell, Suzanne Helmigh, Rowan Holloway, Alexandre Honoré, Bjorn Hurri, Izzy, Dario Jelusic, Mathias Kollros, Yigit Koroglu, Vance Kovacs, Jonathan Kuo, Andrey Kuzinskiy, Katerina Ladon, Titus Lunter, Richard Luong, Valera Lutfullina, Warren Mahy, Slawomir Maniak, Antonio José Manzanedo, Andrew Mar, Lorenzo Mastroianni, Viko Menezes, Robson Michel, Aaron Miller, Maxime Minard, Caio Monteiro, Riccardo Moscatello, Martin Mottet, Jodie Muir, Sean Murray, Hinchel Or, David Auden Nash, Nestor Ossandon Leal, Alexander Ostrowski, Alejandro Pacheco, Vicki Pangestu, Anna Pavleeva, Borja Pindado, Pindurski, Andrea Piparo, Anna Podedworna, Polar Engine, April Prime, Arash Radkia, Chris Rahn, Jason Rainville, Joshua Raphael, Adam Rex, Aaron J. Riley, Cyprien Rousson, Bram Sels, Cynthia Sheppard, Bryan Sola, Annie Stegg, Matt Stewart, Alex Stone, Crystal Sully, Taras Susak, John Tedrick, Viktor Titov, Brian Valenzuela, Brian Valeza, Svetlin Velinov, Kev Walker, Ben Wootten, Zuzanna Wuzyk, Mark Zug  
+- **Interior Illustrators.** Hazem Ameen, Joy Ang, Carlo Arellano, Daren Bader, Cristi Balanescu, Helge C. Balzer, Luca Bancone, Mark Behm, Eric Belisle, Steven Belledin, Olivier Bernard, Alex Brock, Michael Broussard, Kai Carpenter, Domenico Cava, Sidharth Chaturvedi, Yongjae Choi, Chris Cold, Daarken, Kent Davis, Nikki Dawes, Axel Defois, Julie Dillon, Simon Dominic, Jesper Ejsing, Aurore Folny, Fury Galluzzi, John Patrick Gañas, Caroline Gariba, Justin Gerard, Michele Giorgi, IIse Gort, Lars Grant-West, John Grello, Johan Grenier, Nils Hamm, Patrik Hell, Suzanne Helmigh, Rowan Holloway, Alexandre Honoré, Bjorn Hurri, Izzy, Dario Jelusic, Mathias Kollros, Yigit Koroglu, Vance Kovacs, Jonathan Kuo, Andrey Kuzinskiy, Katerina Ladon, Titus Lunter, Richard Luong, Valera Lutfullina, Warren Mahy, Slawomir Maniak, Antonio José Manzanedo, Andrew Mar, Lorenzo Mastroianni, Viko Menezes, Robson Michel, Aaron Miller, Maxime Minard, Caio Monteiro, Riccardo Moscatello, Martin Mottet, Jodie Muir, Sean Murray, Hinchel Or, David Auden Nash, Nestor Ossandón Leal, Alexander Ostrowski, Alejandro Pacheco, Vicki Pangestu, Anna Pavleeva, Borja Pindado, Pindurski, Andrea Piparo, Anna Podedworna, Polar Engine, April Prime, Arash Radkia, Chris Rahn, Jason Rainville, Joshua Raphael, Adam Rex, Aaron J. Riley, Cyprien Rousson, Bram Sels, Cynthia Sheppard, Bryan Sola, Annie Stegg, Matt Stewart, Alex Stone, Crystal Sully, Taras Susak, John Tedrick, Viktor Titov, Brian Valenzuela, Brian Valeza, Svetlin Velinov, Kev Walker, Ben Wootten, Zuzanna Wužyk, Mark Zug  
 - **Concept Art Director.** Josh Herman  
-- **Concept Artists.** Carlo Arrelano, Andrew Baker, Michael Broussard, John Grello, Jax Jacson, Alex Konstad, Katerina Ladon, Simon Lee, Antonio Manzanedo, Matt Millard, Aaron Miller, Sean Murray, Stephen Oakley, Alexander Ostrowski, Anna Podedworna, Noor Rahman, Jason Rainville, Chase Stone, Crystal Sully, Justin Sweet, John Tedrick, Campbell White, Bryan Wynia  
+- **Concept Artists.** Carlo Arellano, Andrew Baker, Michael Broussard, John Grello, Jax Jacson, Alex Konstad, Katerina Ladon, Simon Lee, Antonio Manzanedo, Matt Millard, Aaron Miller, Sean Murray, Stephen Oakley, Alexander Ostrowski, Anna Podedworna, Noor Rahman, Jason Rainville, Chase Stone, Crystal Sully, Justin Sweet, John Tedrick, Campbell White, Bryan Wynia  
 - **Consultants.** Basheer Gouse, Pam Punzalan, Jonathan Tomhave  
 - **Additional Consultation.** Jay Jani, Ray Winninger  
 - **Producers.** Dan Tovar (lead), Bill Benham, Siera Bruggeman, Robert Hawkey  

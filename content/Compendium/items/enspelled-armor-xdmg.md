@@ -5,11 +5,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/varies
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Enspelled Armor"
 ---
 # Enspelled Armor
-*(requires attunement)*  
+*(Requires attunement)*  
 
 
 

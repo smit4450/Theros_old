@@ -14,7 +14,7 @@ aliases:
 *Weapon*  
 
 
-- **Damage**: 3d6 R
+- **Damage**: 3d6 radiant
 - **Range**: 40/120
 - **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Reload](Compendium/rules/item-properties.md#Reload)
 - **Weight**: 2.0 lbs.

@@ -15,8 +15,6 @@ aliases:
 
 This tome contains information and incantations necessary to make a particular type of golem. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a manual of golems and attempts to read it takes `6d6` psychic damage.
 
-`dice: [](manual-of-golems-xdmg.md#^golem-time-cost)`
-
 | dice: d20 | Golem | Time | Cost |
 |-----------|-------|------|------|
 | 1-5 | [Manual of Clay Golems](Compendium/items/manual-of-clay-golems-xdmg.md) | 30 days | 65,000 GP |
@@ -36,4 +34,4 @@ Once you finish creating the golem, the book is consumed in eldritch flames. The
 - [Manual of Iron Golems](Compendium/items/manual-of-iron-golems-xdmg.md)
 - [Manual of Stone Golems](Compendium/items/manual-of-stone-golems-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 277. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

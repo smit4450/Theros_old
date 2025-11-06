@@ -11,9 +11,8 @@ tags:
 - ttrpg-cli/spell/subclass/war-domain
 classes:
 - Bard
-- Cleric
-- Cleric
 - Bard (College of Lore)
+- Cleric
 - Cleric (War Domain)
 aliases: ["Spiritual Weapon"]
 ---
@@ -21,7 +20,7 @@ aliases: ["Spiritual Weapon"]
 *2nd-level, Evocation*  
 ![](Compendium/spells/img/spiritual-weapon.webp#right)
 
-- **Casting time:** 1 bonus
+- **Casting time:** 1 Bonus Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
@@ -32,6 +31,6 @@ As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) on your
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for every slot level above 2.
 
-**Classes**: [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Cleric (War Domain)](list-spells-classes-cleric-xphb-war-domain-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md)
 
-*Source: Player's Handbook (2024) p. 318. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

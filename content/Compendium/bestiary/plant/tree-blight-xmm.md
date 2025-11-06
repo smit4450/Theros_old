@@ -13,7 +13,7 @@ aliases: ["Tree Blight"]
 # Tree Blight
 *Source: Monster Manual (2024) p. 44*  
 
-![](Compendium/bestiary/plant/img/tree-blight.webp#right)  
+![](Compendium/bestiary/plant/img/vine-needle-and-tree-blights.webp#right)  
 Tree blights look like ancient, dead trees with gnarled limbs and splintered hollows. Imbued with bloodlust, these blights feed on the living. Evidence of their past meals is often tangled amid their branches and roots. Tree blights cooperate with other blights, but they attack other tree-shaped beings they encounter, such as awakened trees and treants.
 
 ## Blights
@@ -39,34 +39,40 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 "ac": !!int "15"
 "hp": !!int "115"
 "hit_dice": "10d12 + 50"
+"modifier": !!int "3"
 "stats":
-- !!int "23"
-- !!int "10"
-- !!int "20"
-- !!int "6"
-- !!int "10"
-- !!int "3"
+  - !!int "23"
+  - !!int "10"
+  - !!int "20"
+  - !!int "6"
+  - !!int "10"
+  - !!int "3"
 "speed": "30 ft."
 "condition_immunities": "[deafened](Compendium/rules/conditions.md#Deafened)"
-"senses": "blindsight 60 ft., passive Perception 10"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+  \ 10"
 "languages": "understands Common and Druidic but can't speak"
 "cr": "7"
 "actions":
-- "desc": "The blight makes two Branch attacks and uses Grasping Root."
-  "name": "Multiattack"
-- "desc": "Melee Attack: +9, reach 15 ft. Hit: 16 (3d6 + 6) Bludgeoning damage."
-  "name": "Branch"
-- "desc": "Strength Saving Throw: DC 17, one Large or smaller creature the blight\
-    \ can see within 15 feet. Failure: The target is pulled up to 10 feet straight\
-    \ toward the blight and has the [Grappled](Compendium/rules/conditions.md#Grappled)\
-    \ condition (escape DC 16) from one of six roots. Until the grapple ends, the\
-    \ target takes 13 (2d6 + 6) Bludgeoning damage at the start of each of its turns."
-  "name": "Grasping Root"
+  - "desc": "The blight makes two Branch attacks and uses Grasping Root."
+    "name": "Multiattack"
+  - "desc": "*Melee Attack Roll:* +9, reach 15 ft. *Hit:* 16 (3d6 + 6) Bludgeoning\
+      \ damage."
+    "name": "Branch"
+  - "desc": "*Strength Saving Throw:* DC 17, one Large or smaller creature the blight\
+      \ can see within 15 feet. *Failure:* The target is pulled up to 10 feet straight\
+      \ toward the blight and has the [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ condition (escape DC 16) from one of six roots. Until the grapple ends, the\
+      \ target takes 13 (2d6 + 6) Bludgeoning damage at the start of each of its\
+      \ turns."
+    "name": "Grasping Root"
 "bonus_actions":
-- "desc": "Dexterity Saving Throw: DC 17, one creature [Grappled](Compendium/rules/conditions.md#Grappled)\
-    \ by the blight. Failure: 19 (3d8 + 6) Piercing damage. Success: Half damage."
-  "name": "Gnash"
+  - "desc": "*Dexterity Saving Throw:* DC 17, one creature [Grappled](Compendium/rules/conditions.md#Grappled)\
+      \ by the blight. *Failure:* 19 (3d8 + 6) Piercing damage. *Success:* Half\
+      \ damage."
+    "name": "Gnash"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/plant/token/tree-blight-xmm.webp"
 ```
 ^statblock

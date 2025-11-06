@@ -5,11 +5,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
+- ttrpg-cli/item/wondrous/rod
 aliases: 
 - "+1 Rod of the Pact Keeper"
 ---
 # +1 Rod of the Pact Keeper
-*Uncommon (requires attunement by a warlock)*  
+*Rod, uncommon (requires attunement by a warlock)*  
 
 
 - **Weight**: 2.0 lbs.

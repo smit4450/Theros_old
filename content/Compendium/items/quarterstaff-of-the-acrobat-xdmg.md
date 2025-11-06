@@ -15,8 +15,8 @@ aliases:
 ![](Compendium/items/img/quarterstaff-of-the-acrobat.webp#right)
 
 - **Damage**:
-  - One-handed: 1d6 B
-  - Two-handed: 1d8 B
+  - One-handed: 1d6 bludgeoning
+  - Two-handed: 1d8 bludgeoning
 - **Range**: 30/120
 - **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
@@ -35,10 +35,10 @@ While holding this weapon, you have [Advantage](Compendium/rules/variant-rules/a
 
 ## Attack Deflection (Quarterstaff Form Only)
 
-When you are hit by an attack while holding the weapon, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to twirl the weapon around you, gaining a +5 bonus to your [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) against the triggering attack, potentially causing the attack to miss you. You can't use this property again until you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+When you are hit by an attack while holding the weapon, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to twirl the weapon around you, gaining a +5 bonus to your [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) against the triggering attack, potentially causing the attack to miss you. You can't use this property again until you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
 
 ## Ranged Weapon (Quarterstaff Form Only)
 
 This weapon has [Thrown](Compendium/rules/item-properties.md#Thrown) with a normal range of 30 feet and a long range of 120 feet. Immediately after you make a ranged attack with the weapon, it flies back to your hand.
 
-*Source: Dungeon Master's Guide (2024) p. 291. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 291. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

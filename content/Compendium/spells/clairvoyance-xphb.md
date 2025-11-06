@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/3rd-level
+- ttrpg-cli/spell/reward/klothyss-votary
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/college-of-lore
@@ -16,28 +17,24 @@ tags:
 - ttrpg-cli/spell/subclass/great-old-one-patron
 classes:
 - Bard
-- Bard
-- Cleric
-- Cleric
-- Sorcerer
-- Sorcerer
-- Wizard
-- Wizard
-- Rogue (Arcane Trickster)
 - Bard (College of Lore)
-- Wizard (Diviner)
+- Cleric
 - Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Sorcerer
 - Warlock (Great Old One Patron)
+- Wizard
+- Wizard (Diviner)
 aliases: ["Clairvoyance"]
 ---
 # Clairvoyance
 *3rd-level, Divination*  
 
 
-- **Casting time:** 10 minute
+- **Casting time:** 10 minutes
 - **Range:** 1 miles
-- **Components:** V, S, a focus worth 100+ GP, either a jeweled horn for hearing or a glass eye for seeing
-- **Duration:** Concentration, up to 10 minute
+- **Components:** V, S, M (a focus worth 100+ GP, either a jeweled horn for hearing or a glass eye for seeing)
+- **Duration:** Concentration, up to 10 minutes
 
 You create an [Invisible](Compendium/rules/conditions.md#Invisible) sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The intangible, invulnerable sensor remains in place for the duration.
 
@@ -45,6 +42,6 @@ When you cast the spell, choose seeing or hearing. You can use the chosen sense 
 
 A creature that sees the sensor (such as a creature benefiting from [See Invisibility](Compendium/spells/see-invisibility-xphb.md) or [Truesight](Compendium/rules/senses.md#Truesight)) sees a luminous orb about the size of your fist.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Cleric](list-spells-classes-cleric); [Cleric](list-spells-classes-cleric); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Rogue (Arcane Trickster)](list-spells-classes-rogue-xphb-arcane-trickster-xphb); [Bard (College of Lore)](list-spells-classes-bard-xphb-college-of-lore-xphb); [Wizard (Diviner)](list-spells-classes-wizard-xphb-diviner-xphb); [Fighter (Eldritch Knight)](list-spells-classes-fighter-xphb-eldritch-knight-xphb); [Warlock (Great Old One Patron)](list-spells-classes-warlock-xphb-great-old-one-patron-xphb)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (Great Old One Patron)](Compendium/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 250. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

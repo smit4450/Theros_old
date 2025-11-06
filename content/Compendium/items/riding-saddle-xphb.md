@@ -17,4 +17,4 @@ aliases:
 
 A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle.
 
-*Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

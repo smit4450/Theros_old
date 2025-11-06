@@ -7,7 +7,7 @@ tags:
 aliases: ["Goliath"]
 ---
 # Goliath
-*Source: Player's Handbook (2024) p. 192*  
+*Source: Player's Handbook (2024) p. 192. Available in the Free Rules (2024)*  
 ![](Compendium/races/img/goliath.webp#right)
 
 - **Ability Scores**: None
@@ -19,7 +19,7 @@ aliases: ["Goliath"]
 
 ### Giant Ancestry
 
-You are descended from Giants. Choose one of the following benefits—a supernatural boon from your ancestry; you can use the chosen benefit a number of times equal to your [Proficiency](Compendium/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md):
+You are descended from Giants. Choose one of the following benefits—a supernatural boon from your ancestry; you can use the chosen benefit a number of times equal to your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md):
 
 - **Cloud's Jaunt (Cloud Giant).** As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you magically teleport up to 30 feet to an unoccupied space you can see.  
 - **Fire's Burn (Fire Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal `1d10` Fire damage to that target.  

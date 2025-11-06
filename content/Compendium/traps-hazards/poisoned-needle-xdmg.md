@@ -1,10 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-hazard
+cssclasses:
+- json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/trp
-aliases: ["Poisoned Needle"]
+aliases:
+- Poisoned Needle
 ---
 # Poisoned Needle
 *Generic Hazard*  
@@ -30,4 +32,4 @@ You can scale the trap for higher levels by increasing the damage and the save D
 | 17–20 | 55 (`10d10`) | 17 |
 ^levels-poison-damage-save-dc
 
-*Source: Dungeon Master's Guide (2024) p. 102*
+*Source: Dungeon Master's Guide (2024) p. 102. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

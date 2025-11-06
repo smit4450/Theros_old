@@ -13,23 +13,21 @@ tags:
 - ttrpg-cli/spell/subclass/psi-warrior
 classes:
 - Bard
+- Fighter (Psi Warrior)
 - Sorcerer
-- Sorcerer
-- Wizard
-- Wizard
 - Sorcerer (Aberrant Sorcery)
 - Warlock (Great Old One Patron)
-- Fighter (Psi Warrior)
+- Wizard
 aliases: ["Telekinesis"]
 ---
 # Telekinesis
 *5th-level, Transmutation*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
-- **Duration:** Concentration, up to 10 minute
+- **Duration:** Concentration, up to 10 minutes
 
 You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell and as a [Magic](Compendium/rules/actions.md#Magic) action on your later turns before the spell ends, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.
 
@@ -47,6 +45,6 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ## Summary
 
-**Classes**: [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Sorcerer (Aberrant Sorcery)](list-spells-classes-sorcerer-xphb-aberrant-sorcery-xphb); [Warlock (Great Old One Patron)](list-spells-classes-warlock-xphb-great-old-one-patron-xphb); [Fighter (Psi Warrior)](list-spells-classes-fighter-xphb-psi-warrior-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Psi Warrior)](Compendium/lists/list-spells-classes-psi-warrior-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Aberrant Sorcery)](Compendium/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (Great Old One Patron)](Compendium/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 331. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

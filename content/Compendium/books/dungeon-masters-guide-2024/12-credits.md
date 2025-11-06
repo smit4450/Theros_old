@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Credits"]
+aliases:
+- Credits
 ---
 # Credits
 *Source: Dungeon Master's Guide (2024)* 
@@ -16,7 +18,7 @@ aliases: ["Credits"]
         - **Art Directors.** Kate Irwin (lead), Josh Herman    
         - **Graphic Designers.** Trish Yochum (lead), Matt Cole    
         - **Cover Illustrators.** Tyler Jacobson, Simen Meyer, Olena Richards    
-        - **Interior Illustrators.** Helder Almeida, Joy Ang, David Astruga, Alfven Ato, Tom Babbey, Helge C. Balzer, Luca Bancone, Mark Behm, Eric Belisle, Olivier Bernard, Zoltan Boros, Bruce Brenneise, Aleksi Briclot, Ekaterina Burmak, Filip Burburan, Paul Scott Canavan, Dawn Carlos, Clint Cearley, Diana Cearley, Sidharth Chaturvedi, David René Christensen, Conceptopolis, Harry Conway, CoupleOfKooks, Daarken, Kent Davis, Nikki Dawes, Axel Defois, Alex Diaz, Simon Dominic, Olga Drebas, Wayne England, Aurore Folny, Jessica Fong, Vallez Gax, Justyna Gil, Ilse Gort, Alexandre Honoré, Ralph Horsley, Jason Juta, Sam Keiser, Julian Kok, Katerina Ladon, Abigail Larson, Olly Lawson, Linda Lithen, Titus Lunter, Andrew Mar, Raluca Marinescu, Viko Menezes, Brynn Metheney, Robson Michel, Calder Moore, Martin Mottet, Jodie Muir, Scott Murphy, David Auden Nash, Irina Nordsol, William O'Connor, Robin Olausson, Claudio Pozas, Livia Prima, April Prime, Noor Rahman, Chris Rallis, Chris Seaman, Andrea Sipl, Craig J Spearing, Chase Stone, Joel Thomas, Beth Trott, Brian Valeza, Randy Vargas, Richard Whitters, Kieran Yanner, Zuzanna Wuzyk    
+        - **Interior Illustrators.** Helder Almeida, Joy Ang, David Astruga, Alfven Ato, Tom Babbey, Helge C. Balzer, Luca Bancone, Mark Behm, Eric Belisle, Olivier Bernard, Zoltan Boros, Bruce Brenneise, Aleksi Briclot, Ekaterina Burmak, Filip Burburan, Paul Scott Canavan, Dawn Carlos, Clint Cearley, Diana Cearley, Sidharth Chaturvedi, David René Christensen, Conceptopolis, Harry Conway, CoupleOfKooks, Daarken, Kent Davis, Nikki Dawes, Axel Defois, Alex Diaz, Simon Dominic, Olga Drebas, Wayne England, Aurore Folny, Jessica Fong, Vallez Gax, Justyna Gil, Ilse Gort, Alexandre Honoré, Ralph Horsley, Jason Juta, Sam Keiser, Julian Kok, Katerina Ladon, Abigail Larson, Olly Lawson, Linda Lithen, Titus Lunter, Andrew Mar, Raluca Marinescu, Viko Menezes, Brynn Metheney, Robson Michel, Calder Moore, Martin Mottet, Jodie Muir, Scott Murphy, David Auden Nash, Irina Nordsol, William O'Connor, Robin Olausson, Claudio Pozas, Livia Prima, April Prime, Noor Rahman, Chris Rallis, Chris Seaman, Andrea Sipl, Craig J Spearing, Chase Stone, Joel Thomas, Beth Trott, Brian Valeza, Randy Vargas, Richard Whitters, Kieran Yanner, Zuzanna Wužyk    
         - **Cartographers.** Francesca Baerald, Dyson Logos, Mike Schley    
         - **Concept Art Director.** Josh Herman    
         - **Concept Artists.** Even Amundsen, Carlo Arellano, Michael Broussard, John Grello, Tyler Jacobson, 9B Collective, Noor Rahman    

@@ -18,4 +18,4 @@ One vial of this oil can coat one Melee weapon or twenty pieces of ammunition, b
 
 This clear, gelatinous oil sparkles with tiny, ultrathin silver shards.
 
-*Source: Dungeon Master's Guide (2024) p. 282*
+*Source: Dungeon Master's Guide (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

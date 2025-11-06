@@ -10,17 +10,16 @@ tags:
 classes:
 - Bard
 - Druid
-- Druid
 aliases: ["Giant Insect"]
 ---
 # Giant Insect
 *4th-level, Conjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V, S
-- **Duration:** Concentration, up to 10 minute
+- **Duration:** Concentration, up to 10 minutes
 
 You summon a giant centipede, spider, or wasp (chosen when you cast the spell). It manifests in an unoccupied space you can see within range and uses the [Giant Insect](Compendium/bestiary/beast/giant-insect-xphb.md) stat block. The form you choose determines certain details in its stat block. The creature disappears when it drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) or when the spell ends.
 
@@ -28,6 +27,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [Bard](list-spells-classes-bard); [Druid](list-spells-classes-druid); [Druid](list-spells-classes-druid)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 279. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

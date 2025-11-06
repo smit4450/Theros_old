@@ -13,13 +13,10 @@ tags:
 - ttrpg-cli/spell/subclass/illusionist
 classes:
 - Bard
-- Bard
-- Sorcerer
-- Sorcerer
-- Wizard
-- Wizard
-- Warlock (Archfey Patron)
 - Ranger (Gloom Stalker)
+- Sorcerer
+- Warlock (Archfey Patron)
+- Wizard
 - Wizard (Illusionist)
 aliases: ["Seeming"]
 ---
@@ -27,10 +24,10 @@ aliases: ["Seeming"]
 *5th-level, Illusion*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** V, S
-- **Duration:** 8 hour
+- **Duration:** 8 hours
 
 You give an illusory appearance to each creature of your choice that you can see within range. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell.
 
@@ -40,6 +37,6 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 A creature that takes the [Study](Compendium/rules/actions.md#Study) action to examine a target can make an Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [Bard](list-spells-classes-bard); [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard); [Warlock (Archfey Patron)](list-spells-classes-warlock-xphb-archfey-patron-xphb); [Ranger (Gloom Stalker)](list-spells-classes-ranger-xphb-gloom-stalker-xphb); [Wizard (Illusionist)](list-spells-classes-wizard-xphb-illusionist-xphb)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Ranger (Gloom Stalker)](Compendium/lists/list-spells-classes-gloom-stalker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (Archfey Patron)](Compendium/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 314. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

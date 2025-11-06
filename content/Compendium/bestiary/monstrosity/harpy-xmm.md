@@ -14,9 +14,9 @@ statblock: inline
 aliases: ["Harpy"]
 ---
 # Harpy
-*Source: Monster Manual (2024) p. 164*  
+*Source: Monster Manual (2024) p. 164. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/monstrosity/img/harpy.webp#right)  
+![](Compendium/books/monster-manual-2025/img/harpy.webp#right)  
 ## Harpy
 
 *Winged Voice of Doom*
@@ -37,36 +37,39 @@ Every harpy sings a distinct song. While some songs are said to be heartbreaking
 "ac": !!int "11"
 "hp": !!int "38"
 "hit_dice": "7d8 + 7"
+"modifier": !!int "1"
 "stats":
-- !!int "12"
-- !!int "13"
-- !!int "12"
-- !!int "7"
-- !!int "10"
-- !!int "13"
+  - !!int "12"
+  - !!int "13"
+  - !!int "12"
+  - !!int "7"
+  - !!int "10"
+  - !!int "13"
 "speed": "20 ft., fly 40 ft."
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "1"
 "actions":
-- "desc": "Melee Attack: +3, reach 5 ft. Hit: 6 (2d4 + 1) Slashing damage."
-  "name": "Claw"
-- "desc": "The harpy sings a magical melody, which lasts until the harpy's [Concentration](Compendium/rules/conditions.md#Concentration)\
-    \ ends on it. Wisdom Saving Throw: DC 11, each Humanoid and Giant in a 300-foot\
-    \ [Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the harpy when the song starts. Failure: The target has the\
-    \ [Charmed](Compendium/rules/conditions.md#Charmed) condition until the song ends\
-    \ and repeats the save at the end of each of its turns. While [Charmed](Compendium/rules/conditions.md#Charmed),\
-    \ the target has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
-    \ condition and ignores the Luring Song of other harpies. If the target is more\
-    \ than 5 feet from the harpy, the target moves on its turn toward the harpy by\
-    \ the most direct route, trying to get within 5 feet of the harpy. It doesn't\
-    \ avoid Opportunity Attacks; however, before moving into damaging terrain (such\
-    \ as lava or a pit) and whenever it takes damage from a source other than the\
-    \ harpy, the target repeats the save. Success: The target is immune to this\
-    \ harpy's Luring Song for 24 hours."
-  "name": "Luring Song"
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 6 (2d4 + 1) Slashing\
+      \ damage."
+    "name": "Claw"
+  - "desc": "The harpy sings a magical melody, which lasts until the harpy's [Concentration](Compendium/rules/conditions.md#Concentration)\
+      \ ends on it. *Wisdom Saving Throw:* DC 11, each Humanoid and Giant in a 300-foot\
+      \ [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the harpy when the song starts. *Failure:* The target has\
+      \ the [Charmed](Compendium/rules/conditions.md#Charmed) condition until the\
+      \ song ends and repeats the save at the end of each of its turns. While [Charmed](Compendium/rules/conditions.md#Charmed),\
+      \ the target has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
+      \ condition and ignores the Luring Song of other harpies. If the target is more\
+      \ than 5 feet from the harpy, the target moves on its turn toward the harpy\
+      \ by the most direct route, trying to get within 5 feet of the harpy. It doesn't\
+      \ avoid [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack);\
+      \ however, before moving into damaging terrain (such as lava or a pit) and whenever\
+      \ it takes damage from a source other than the harpy, the target repeats the\
+      \ save. *Success:* The target is immune to this harpy's Luring Song for 24 hours."
+    "name": "Luring Song"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/monstrosity/token/harpy-xmm.webp"
 ```
 ^statblock

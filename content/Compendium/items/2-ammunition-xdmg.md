@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/gear/ammunition
 - ttrpg-cli/item/gear/ammunition-firearm
 - ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "+2 Ammunition"
 - "+2 Arrow"
@@ -22,6 +23,9 @@ aliases:
 
 
 You have a +2 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
+
+This ammunition is typically found or sold in quantities of ten or twenty pieces. Ten pieces of this ammunition are equivalent in value to a potion of the same rarity > [!note]
+> ([2,000 GP](Compendium/tables/magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg.md)).
 
 **Variants**:
 - [+2 Arrow](#+2%20Arrow)
@@ -56,4 +60,4 @@ You have a +2 bonus to attack and damage rolls made with this piece of magic amm
 - **Weight**: 0.075 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 228. Available in the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

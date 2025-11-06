@@ -11,8 +11,6 @@ tags:
 classes:
 - Bard
 - Sorcerer
-- Sorcerer
-- Wizard
 - Wizard
 aliases: ["Wish"]
 ---
@@ -20,7 +18,7 @@ aliases: ["Wish"]
 *9th-level, Conjuration*  
 
 
-- **Casting time:** 1 action
+- **Casting time:** 1 Action
 - **Range:** Self
 - **Components:** V
 - **Duration:** Instantaneous
@@ -41,6 +39,6 @@ Alternatively, you can create one of the following effects of your choice:
 
 The stress of casting Wish to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you take `1d10` Necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength score becomes 3 for `2d4` days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a  chance that you are unable to cast [Wish](Compendium/spells/wish-xphb.md) ever again if you suffer this stress.
 
-**Classes**: [Bard](list-spells-classes-bard); [Sorcerer](list-spells-classes-sorcerer); [Sorcerer](list-spells-classes-sorcerer); [Wizard](list-spells-classes-wizard); [Wizard](list-spells-classes-wizard)
+**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 341. Available in the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

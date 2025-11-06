@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Arcana - Legendary"]
+aliases:
+- Arcana - Legendary
 ---
 # Arcana - Legendary
 *Source: Dungeon Master's Guide (2024) p. 326* 
 
 **Arcana - Legendary**
-
-`dice: [](arcana-legendary-xdmg.md#^arcana-legendary)`
 
 | dice: 1d100 | Item |
 |-------------|------|

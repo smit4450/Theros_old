@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Chapter 6: Equipment"]
+aliases:
+- Chapter 6: Equipment
 ---
 # Chapter 6: Equipment
 *Source: Player's Handbook (2024), p. 213* 
@@ -202,102 +204,119 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 #### Alchemist's Supplies (50 GP)
 
 - **Ability.** Intelligence  
+- **Weight.** 8 lb.  
 - **Utilize.** Identify a substance (DC 15), or start a fire (DC 15)  
 - **Craft.** [Acid](Compendium/items/acid-xphb.md), [Alchemist's Fire](Compendium/items/alchemists-fire-xphb.md), [Component Pouch](Compendium/items/component-pouch-xphb.md), [Oil](Compendium/items/oil-xphb.md), [Paper](Compendium/items/paper-xphb.md), [Perfume](Compendium/items/perfume-xphb.md)  
 
 #### Brewer's Supplies (20 GP)
 
 - **Ability.** Intelligence  
+- **Weight.** 9 lb.  
 - **Utilize.** Detect poisoned drink (DC 15), or identify alcohol (DC 10)  
 - **Craft.** [Antitoxin](Compendium/items/antitoxin-xphb.md)  
 
 #### Calligrapher's Supplies (10 GP)
 
 - **Ability.** Dexterity  
+- **Weight.** 5 lb.  
 - **Utilize.** Write text with impressive flourishes that guard against forgery (DC 15)  
 - **Craft.** [Ink](Compendium/items/ink-xphb.md), [Spell Scroll](Compendium/items/spell-scroll-xdmg.md)  
 
 #### Carpenter's Tools (8 GP)
 
 - **Ability.** Strength  
+- **Weight.** 6 lb.  
 - **Utilize.** Seal or pry open a door or container (DC 20)  
 - **Craft.** [Club](Compendium/items/club-xphb.md), [Greatclub](Compendium/items/greatclub-xphb.md), [Quarterstaff](Compendium/items/quarterstaff-xphb.md), [Barrel](Compendium/items/barrel-xphb.md), [Chest](Compendium/items/chest-xphb.md), [Ladder](Compendium/items/ladder-xphb.md), [Pole](Compendium/items/pole-xphb.md), [Portable Ram](Compendium/items/portable-ram-xphb.md), [Torch](Compendium/items/torch-xphb.md)  
 
 #### Cartographer's Tools (15 GP)
 
 - **Ability.** Wisdom  
+- **Weight.** 6 lb.  
 - **Utilize.** Draft a map of a small area (DC 15)  
 - **Craft.** [Map](Compendium/items/map-xphb.md)  
 
 #### Cobbler's Tools (5 GP)
 
 - **Ability.** Dexterity  
+- **Weight.** 5 lb.  
 - **Utilize.** Modify footwear to give [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the wearer's next Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check (DC 10)  
 - **Craft.** [Climber's Kit](Compendium/items/climbers-kit-xphb.md)  
 
 #### Cook's Utensils (1 GP)
 
 - **Ability.** Wisdom  
+- **Weight.** 8 lb.  
 - **Utilize.** Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15)  
 - **Craft.** [Rations](Compendium/items/rations-xphb.md)  
 
 #### Glassblower's Tools (30 GP)
 
 - **Ability.** Intelligence  
+- **Weight.** 5 lb.  
 - **Utilize.** Discern what a glass object held in the past 24 hours (DC 15)  
 - **Craft.** [Glass Bottle](Compendium/items/glass-bottle-xphb.md), [Magnifying Glass](Compendium/items/magnifying-glass-xphb.md), [Spyglass](Compendium/items/spyglass-xphb.md), [Vial](Compendium/items/vial-xphb.md)  
 
 #### Jeweler's Tools (25 GP)
 
 - **Ability.** Intelligence  
+- **Weight.** 2 lb.  
 - **Utilize.** Discern a gem's value (DC 15)  
 - **Craft.** [Arcane Focus](Compendium/items/arcane-focus-xphb.md), [Holy Symbol](Compendium/items/holy-symbol-xphb.md)  
 
 #### Leatherworker's Tools (5 GP)
 
 - **Ability.** Dexterity  
+- **Weight.** 5 lb.  
 - **Utilize.** Add a design to a leather item (DC 10)  
 - **Craft.** [Sling](Compendium/items/sling-xphb.md), [Whip](Compendium/items/whip-xphb.md), [Hide Armor](Compendium/items/hide-armor-xphb.md), [Leather Armor](Compendium/items/leather-armor-xphb.md), [Studded Leather Armor](Compendium/items/studded-leather-armor-xphb.md), [Backpack](Compendium/items/backpack-xphb.md), [Crossbow Bolt Case](Compendium/items/crossbow-bolt-case-xphb.md), [Map or Scroll Case](Compendium/items/map-or-scroll-case-xphb.md), [Parchment](Compendium/items/parchment-xphb.md), [Pouch](Compendium/items/pouch-xphb.md), [Quiver](Compendium/items/quiver-xphb.md), [Waterskin](Compendium/items/waterskin-xphb.md)  
 
 #### Mason's Tools (10 GP)
 
 - **Ability.** Strength  
+- **Weight.** 8 lb.  
 - **Utilize.** Chisel a symbol or hole in stone (DC 10)  
 - **Craft.** [Block and Tackle](Compendium/items/block-and-tackle-xphb.md)  
 
 #### Painter's Supplies (10 GP)
 
 - **Ability.** Wisdom  
+- **Weight.** 5 lb.  
 - **Utilize.** Paint a recognizable image of something you've seen (DC 10)  
 - **Craft.** [Druidic Focus](Compendium/items/druidic-focus-xphb.md), [Holy Symbol](Compendium/items/holy-symbol-xphb.md)  
 
 #### Potter's Tools (10 GP)
 
 - **Ability.** Intelligence  
+- **Weight.** 3 lb.  
 - **Utilize.** Discern what a ceramic object held in the past 24 hours (DC 15)  
 - **Craft.** [Jug](Compendium/items/jug-xphb.md), [Lamp](Compendium/items/lamp-xphb.md)  
 
 #### Smith's Tools (20 GP)
 
 - **Ability.** Strength  
+- **Weight.** 8 lb.  
 - **Utilize.** Pry open a door or container (DC 20)  
 - **Craft.** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, [Ball Bearings](Compendium/items/ball-bearings-xphb.md), [Bucket](Compendium/items/bucket-xphb.md), [Caltrops](Compendium/items/caltrops-xphb.md), [Chain](Compendium/items/chain-xphb.md), [Crowbar](Compendium/items/crowbar-xphb.md), [Firearm Bullets](Compendium/items/firearm-bullets-10-xphb.md), [Grappling Hook](Compendium/items/grappling-hook-xphb.md), [Iron Pot](Compendium/items/iron-pot-xphb.md), [Iron Spikes](Compendium/items/iron-spikes-xphb.md), [Sling Bullets](Compendium/items/sling-bullet-xphb.md)  
 
 #### Tinker's Tools (50 GP)
 
 - **Ability.** Dexterity  
+- **Weight.** 10 lb.  
 - **Utilize.** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)  
 - **Craft.** [Musket](Compendium/items/musket-xphb.md), [Pistol](Compendium/items/pistol-xphb.md), [Bell](Compendium/items/bell-xphb.md), [Bullseye Lantern](Compendium/items/bullseye-lantern-xphb.md), [Flask](Compendium/items/flask-xphb.md), [Hooded Lantern](Compendium/items/hooded-lantern-xphb.md), [Hunter's Trap](Compendium/items/hunting-trap-xphb.md), [Lock](Compendium/items/lock-xphb.md), [Manacles](Compendium/items/manacles-xphb.md), [Mirror](Compendium/items/mirror-xphb.md), [Shovel](Compendium/items/shovel-xphb.md), [Signal Whistle](Compendium/items/signal-whistle-xphb.md), [Tinderbox](Compendium/items/tinderbox-xphb.md)  
 
 #### Weaver's Tools (1 GP)
 
 - **Ability.** Dexterity  
+- **Weight.** 5 lb.  
 - **Utilize.** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)  
 - **Craft.** [Padded Armor](Compendium/items/padded-armor-xphb.md), [Basket](Compendium/items/basket-xphb.md), [Bedroll](Compendium/items/bedroll-xphb.md), [Blanket](Compendium/items/blanket-xphb.md), [Fine Clothes](Compendium/items/fine-clothes-xphb.md), [Net](Compendium/items/net-xphb.md), [Robe](Compendium/items/robe-xphb.md), [Rope](Compendium/items/rope-xphb.md), [Sack](Compendium/items/sack-xphb.md), [String](Compendium/items/string-xphb.md), [Tent](Compendium/items/tent-xphb.md), [Traveler's Clothes](Compendium/items/travelers-clothes-xphb.md)  
 
 #### Woodcarver's Tools (1 GP)
 
 - **Ability.** Dexterity  
+- **Weight.** 5 lb.  
 - **Utilize.** Carve a pattern in wood (DC 10)  
 - **Craft.** [Club](Compendium/items/club-xphb.md), [Greatclub](Compendium/items/greatclub-xphb.md), [Quarterstaff](Compendium/items/quarterstaff-xphb.md), Ranged weapons (except Pistol, Musket, and Sling), [Arcane Focus](Compendium/items/arcane-focus-xphb.md), [Arrows](Compendium/items/arrows-20-xphb.md), [Bolts](Compendium/items/bolts-20-xphb.md), [Druidic Focus](Compendium/items/druidic-focus-xphb.md), [Ink Pen](Compendium/items/ink-pen-xphb.md), [Needles](Compendium/items/needles-50-xphb.md)  
 
@@ -308,46 +327,54 @@ These tools support adventure and other pursuits.
 #### Disguise Kit (25 GP)
 
 - **Ability.** Charisma  
+- **Weight.** 3 lb.  
 - **Utilize.** Apply makeup (DC 10)  
 - **Craft.** [Costume](Compendium/items/costume-xphb.md)  
 
 #### Forgery Kit (15 GP)
 
 - **Ability.** Dexterity  
+- **Weight.** 5 lb.  
 - **Utilize.** Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)  
 
 #### Gaming Set (Varies)
 
 - **Ability.** Wisdom  
+- **Weight.** —  
 - **Utilize.** Discern whether someone is cheating (DC 10), or win the game (DC 20)  
 - **Variants.** [Dice](Compendium/items/dice-set-xphb.md) (1 SP), [dragonchess](Compendium/items/dragonchess-set-xphb.md) (1 GP), [playing cards](Compendium/items/playing-cards-xphb.md) (5 SP), [three-dragon ante](Compendium/items/three-dragon-ante-set-xphb.md) (1 GP)  
 
 #### Herbalism Kit (5 GP)
 
 - **Ability.** Intelligence  
+- **Weight.** 3 lb.  
 - **Utilize.** Identify a plant (DC 10)  
 - **Craft.** [Antitoxin](Compendium/items/antitoxin-xphb.md), [Candle](Compendium/items/candle-xphb.md), [Healer's Kit](Compendium/items/healers-kit-xphb.md), [Potion of Healing](Compendium/items/potion-of-healing-xdmg.md)  
 
 #### Musical Instrument (Varies)
 
 - **Ability.** Charisma  
+- **Weight.** Varies  
 - **Utilize.** Play a known tune (DC 10), or improvise a song (DC 15)  
 - **Variants.** [Bagpipes](Compendium/items/bagpipes-xphb.md) (30 GP, 6 lb.), [drum](Compendium/items/drum-xphb.md) (6 GP, 3 lb.), [dulcimer](Compendium/items/dulcimer-xphb.md) (25 GP, 10 lb.), [flute](Compendium/items/flute-xphb.md) (2 GP, 1 lb.), horn (3 GP, 2 lb.), [lute](Compendium/items/lute-xphb.md) (35 GP, 2 lb.), [lyre](Compendium/items/lyre-xphb.md) (30 GP, 2 lb.), [pan flute](Compendium/items/pan-flute-xphb.md) (12 GP, 2 lb.), [shawm](Compendium/items/shawm-xphb.md) (2 GP, 1 lb.), [viol](Compendium/items/viol-xphb.md) (30 GP, 1 lb.)  
 
 #### Navigator's Tools (25 GP)
 
 - **Ability.** Wisdom  
+- **Weight.** 2 lb.  
 - **Utilize.** Plot a course (DC 10), or determine position by stargazing (DC 15)  
 
 #### Poisoner's Kit (50 GP)
 
 - **Ability.** Intelligence  
+- **Weight.** 2 lb.  
 - **Utilize.** Detect a poisoned object (DC 10)  
 - **Craft.** [Basic Poison](Compendium/items/basic-poison-xphb.md)  
 
 #### Thieves' Tools (25 GP)
 
 - **Ability.** Dexterity  
+- **Weight.** 1 lb.  
 - **Utilize.** Pick a lock (DC 15), or disarm a trap (DC 15)  
 
 ## Adventuring Gear
@@ -550,7 +577,7 @@ A Lamp burns [Oil](Compendium/items/oil-xphb.md) as fuel to cast [Bright Light](
 
 ### Lantern, Bullseye (10 GP)
 
-A Bullseye Lantern burns [Oil](Compendium/items/oil-xphb.md) as fuel to cast [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) in a 60-foot [Cone [Area of Effect]](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md) and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 60 feet.
+A Bullseye Lantern burns [Oil](Compendium/items/oil-xphb.md) as fuel to cast [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) in a 60-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md) and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 60 feet.
 
 ![Lamp and Net](Compendium/books/players-handbook-2024/img/178-07-004-lamp-net.webp#center)
 
@@ -612,7 +639,7 @@ One sheet of Parchment can hold about 250 handwritten words.
 
 ### Perfume (5 GP)
 
-Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) checks made to influence an [Indifferent [Attitude]](Compendium/rules/variant-rules/indifferent-attitude-xphb.md) Humanoid within 5 feet of yourself.
+Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) checks made to influence an [Indifferent](Compendium/rules/variant-rules/indifferent-attitude-xphb.md) Humanoid within 5 feet of yourself.
 
 ### Poison, Basic (100 GP)
 
@@ -620,7 +647,7 @@ As a Bonus Action, you can use a vial of Basic Poison to coat one weapon or up t
 
 ### Pole (5 CP)
 
-A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check as part of a [High Jump](Compendium/rules/variant-rules/high-jump-xphb.md) or [Long Jump](Compendium/rules/variant-rules/long-jump-xphb.md), you can use the Pole to vault, giving yourself [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the check.
+A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check as part of a [High](Compendium/rules/variant-rules/high-jump-xphb.md) or [Long Jump](Compendium/rules/variant-rules/long-jump-xphb.md), you can use the Pole to vault, giving yourself [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the check.
 
 ### Pot, Iron (2 GP)
 

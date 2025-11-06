@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Rules Glossary"]
+aliases:
+- Rules Glossary
 ---
 # Rules Glossary
 *Source: Player's Handbook (2024), p. 360* 
@@ -74,8 +76,8 @@ Here are definitions of various rules.
 > [!embed-sense]- Blindsight
 > ![Blindsight](Compendium/rules/senses.md#Blindsight)
 
-> [!embed-variantrule]- Bloodied
-> ![Bloodied](Compendium/rules/variant-rules/bloodied-xphb.md)
+> [!embed-status]- Bloodied
+> ![Bloodied](Compendium/rules/conditions.md#Bloodied)
 
 > [!embed-variantrule]- Bonus Action
 > ![Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md)
@@ -123,7 +125,7 @@ Here are definitions of various rules.
 > ![Condition](Compendium/rules/variant-rules/condition-xphb.md)
 
 > [!embed-variantrule]- Cone [Area of Effect]
-> ![Cone [Area of Effect]](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md)
+> ![Cone ](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md)
 
 > [!embed-variantrule]- Cover
 > ![Cover](Compendium/rules/variant-rules/cover-xphb.md)
@@ -141,13 +143,13 @@ Here are definitions of various rules.
 > ![Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md)
 
 > [!embed-variantrule]- Cube [Area of Effect]
-> ![Cube [Area of Effect]](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)
+> ![Cube ](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)
 
 > [!embed-variantrule]- Curses
 > ![Curses](Compendium/rules/variant-rules/curses-xphb.md)
 
 > [!embed-variantrule]- Cylinder [Area of Effect]
-> ![Cylinder [Area of Effect]](Compendium/rules/variant-rules/cylinder-area-of-effect-xphb.md)
+> ![Cylinder ](Compendium/rules/variant-rules/cylinder-area-of-effect-xphb.md)
 
 > [!embed-variantrule]- D20 Test
 > ![D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md)
@@ -204,7 +206,7 @@ Here are definitions of various rules.
 > ![Dodge](Compendium/rules/actions.md#Dodge)
 
 > [!embed-variantrule]- Emanation [Area of Effect]
-> ![Emanation [Area of Effect]](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)
+> ![Emanation ](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)
 
 > [!embed-variantrule]- Encounter
 > ![Encounter](Compendium/rules/variant-rules/encounter-xphb.md)
@@ -231,7 +233,7 @@ Here are definitions of various rules.
 > ![Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md)
 
 > [!embed-variantrule]- Friendly [Attitude]
-> ![Friendly [Attitude]](Compendium/rules/variant-rules/friendly-attitude-xphb.md)
+> ![Friendly ](Compendium/rules/variant-rules/friendly-attitude-xphb.md)
 
 > [!embed-condition]- Frightened
 > ![Frightened](Compendium/rules/conditions.md#Frightened)
@@ -270,7 +272,7 @@ Here are definitions of various rules.
 > ![Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)
 
 > [!embed-variantrule]- Hostile [Attitude]
-> ![Hostile [Attitude]](Compendium/rules/variant-rules/hostile-attitude-xphb.md)
+> ![Hostile ](Compendium/rules/variant-rules/hostile-attitude-xphb.md)
 
 > [!embed-variantrule]- Hover
 > ![Hover](Compendium/rules/variant-rules/hover-xphb.md)
@@ -288,7 +290,7 @@ Here are definitions of various rules.
 > ![Incapacitated](Compendium/rules/conditions.md#Incapacitated)
 
 > [!embed-variantrule]- Indifferent [Attitude]
-> ![Indifferent [Attitude]](Compendium/rules/variant-rules/indifferent-attitude-xphb.md)
+> ![Indifferent ](Compendium/rules/variant-rules/indifferent-attitude-xphb.md)
 
 > [!embed-action]- Influence
 > ![Influence](Compendium/rules/actions.md#Influence)
@@ -309,7 +311,7 @@ Here are definitions of various rules.
 > ![Lightly Obscured](Compendium/rules/variant-rules/lightly-obscured-xphb.md)
 
 > [!embed-variantrule]- Line [Area of Effect]
-> ![Line [Area of Effect]](Compendium/rules/variant-rules/line-area-of-effect-xphb.md)
+> ![Line ](Compendium/rules/variant-rules/line-area-of-effect-xphb.md)
 
 > [!embed-variantrule]- Long Jump
 > ![Long Jump](Compendium/rules/variant-rules/long-jump-xphb.md)
@@ -423,7 +425,7 @@ Here are definitions of various rules.
 > ![Spellcasting Focus](Compendium/rules/variant-rules/spellcasting-focus-xphb.md)
 
 > [!embed-variantrule]- Sphere [Area of Effect]
-> ![Sphere [Area of Effect]](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)
+> ![Sphere ](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)
 
 > [!embed-variantrule]- Stable
 > ![Stable](Compendium/rules/variant-rules/stable-xphb.md)

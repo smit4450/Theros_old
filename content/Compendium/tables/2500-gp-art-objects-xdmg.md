@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["2,500 GP Art Objects"]
+aliases:
+- 2,500 GP Art Objects
 ---
 # 2,500 GP Art Objects
 *Source: Dungeon Master's Guide (2024) p. 215* 
 
 **2,500 GP Art Objects**
-
-`dice: [](2500-gp-art-objects-xdmg.md#^2500-gp-art-objects)`
 
 | dice: 1d10 | Object |
 |------------|--------|

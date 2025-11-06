@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Nonplayer Character"]
+aliases:
+- Nonplayer Character
 ---
 # Nonplayer Character
-*Source: Player's Handbook (2024) p. 371. Available in the Free Rules (2024)* 
+*Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-A nonplayer character (NPC) is a [Monster](Compendium/rules/variant-rules/monster-xphb.md) that has a personal name and a distinct personality.
+A nonplayer character (NPC) is a [monster](Compendium/rules/variant-rules/monster-xphb.md) that has a personal name and a distinct personality.

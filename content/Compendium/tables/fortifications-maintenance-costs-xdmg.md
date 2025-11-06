@@ -1,9 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Fortifications; Maintenance Costs"]
+aliases:
+- Fortifications; Maintenance Costs
 ---
 # Fortifications; Maintenance Costs
 *Source: Dungeon Master's Guide (2024) p. 80* 

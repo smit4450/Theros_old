@@ -11,10 +11,10 @@ statblock: inline
 aliases: ["Shrieker Fungus"]
 ---
 # Shrieker Fungus
-*Source: Monster Manual (2024) p. 125*  
+*Source: Monster Manual (2024) p. 125. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/plant/img/shrieker-fungus.webp#right)  
-If exposed to light or otherwise disturbed, mushroomlike shriekers emit a high-pitched noise that gives them their name. This wailing might alert other creatures or attract predators.
+![](Compendium/bestiary/plant/img/fungi.webp#right)  
+If exposed to light or otherwise disturbed, mushroom-like shriekers emit a high-pitched noise that gives them their name. This wailing might alert other creatures or attract predators.
 
 ## Fungi
 
@@ -34,25 +34,28 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 "ac": !!int "5"
 "hp": !!int "13"
 "hit_dice": "3d8"
+"modifier": !!int "-5"
 "stats":
-- !!int "1"
-- !!int "1"
-- !!int "10"
-- !!int "1"
-- !!int "3"
-- !!int "1"
+  - !!int "1"
+  - !!int "1"
+  - !!int "10"
+  - !!int "1"
+  - !!int "3"
+  - !!int "1"
 "speed": "5 ft."
 "condition_immunities": "[blinded](Compendium/rules/conditions.md#Blinded), [charmed](Compendium/rules/conditions.md#Charmed),\
   \ [deafened](Compendium/rules/conditions.md#Deafened), [frightened](Compendium/rules/conditions.md#Frightened)"
-"senses": "blindsight 30 ft., passive Perception 6"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 30 ft., passive Perception\
+  \ 6"
 "languages": ""
 "cr": "0"
 "reactions":
-- "desc": "Trigger: A creature or a source of [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
-    \ moves within 30 feet of the shrieker. Response: The shrieker emits a shriek\
-    \ audible within 300 feet of itself for 1 minute or until the shrieker dies."
-  "name": "Shriek"
+  - "desc": "Trigger: A creature or a source of [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
+      \ moves within 30 feet of the shrieker. _Response:_ The shrieker emits a shriek\
+      \ audible within 300 feet of itself for 1 minute or until the shrieker dies."
+    "name": "Shriek"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/plant/token/shrieker-fungus-xmm.webp"
 ```
 ^statblock

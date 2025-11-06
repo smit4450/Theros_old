@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Settlement Tables and Tracker; Tavern Names"]
+aliases:
+- Settlement Tables and Tracker; Tavern Names
 ---
 # Settlement Tables and Tracker; Tavern Names
 *Source: Dungeon Master's Guide (2024) p. 93* 
 
 **Tavern Names**
-
-`dice: [](settlement-tables-and-tracker-tavern-names-xdmg.md#^tavern-names)`
 
 | dice: 1d20 | First Part | Second Part |
 |------------|------------|-------------|

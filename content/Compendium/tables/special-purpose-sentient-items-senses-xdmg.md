@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Special Purpose; Sentient Item's Senses"]
+aliases:
+- Special Purpose; Sentient Item's Senses
 ---
 # Special Purpose; Sentient Item's Senses
 *Source: Dungeon Master's Guide (2024) p. 226* 
 
 **Sentient Item's Senses**
-
-`dice: [](special-purpose-sentient-items-senses-xdmg.md#^sentient-items-senses)`
 
 | dice: 1d4 | Senses |
 |-----------|--------|

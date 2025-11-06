@@ -11,9 +11,9 @@ statblock: inline
 aliases: ["Animated Flying Sword"]
 ---
 # Animated Flying Sword
-*Source: Monster Manual (2024) p. 17*  
+*Source: Monster Manual (2024) p. 17. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/construct/img/animated-flying-sword.webp#right)  
+![](Compendium/bestiary/construct/img/animated-objects.webp#right)  
 Animated flying swords move as if wielded by unseen warriors. Whether an animated blade is newly forged or a constellation of broken fragments, the object behaves the same. Other weapons from the "Player's Handbook" can also be animated and use game statistics similar to those here.
 
 ## Animated Objects
@@ -32,8 +32,6 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 > Lyin' next to the chest were the bones of Cap'n Scornblade himself, still clutchin' his rusty sword. Imagine my surprise when the blade flew from his bony grasp! Still got the scar.
 
 **Animated Object Catalysts**
-
-`dice: [](animated-flying-sword-xmm.md#^animated-object-catalysts)`
 
 | dice: 1d10 | The Object Was Animated By... |
 |------------|-------------------------------|
@@ -58,28 +56,32 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 "ac": !!int "17"
 "hp": !!int "14"
 "hit_dice": "4d6"
+"modifier": !!int "4"
 "stats":
-- !!int "12"
-- !!int "15"
-- !!int "11"
-- !!int "1"
-- !!int "5"
-- !!int "1"
+  - !!int "12"
+  - !!int "15"
+  - !!int "11"
+  - !!int "1"
+  - !!int "5"
+  - !!int "1"
 "speed": "5 ft., fly 50 ft. (hover)"
 "saves":
-  "Dexterity": !!int "4"
+  - "dexterity": !!int "4"
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed), [deafened](Compendium/rules/conditions.md#Deafened),\
   \ [exhaustion](Compendium/rules/conditions.md#Exhaustion), [frightened](Compendium/rules/conditions.md#Frightened),\
   \ [paralyzed](Compendium/rules/conditions.md#Paralyzed), [petrified](Compendium/rules/conditions.md#Petrified),\
   \ [poisoned](Compendium/rules/conditions.md#Poisoned)"
-"senses": "blindsight 60 ft., passive Perception 7"
+"senses": "[Blindsight](Compendium/rules/senses.md#Blindsight) 60 ft., passive Perception\
+  \ 7"
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "Melee Attack: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage."
-  "name": "Slash"
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Slashing\
+      \ damage."
+    "name": "Slash"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/construct/token/animated-flying-sword-xmm.webp"
 ```
 ^statblock

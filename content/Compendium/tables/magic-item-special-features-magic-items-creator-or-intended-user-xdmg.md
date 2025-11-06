@@ -1,16 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses:
+- json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Magic Item Special Features; Magic Item's Creator or Intended User"]
+aliases:
+- Magic Item Special Features; Magic Item's Creator or Intended User
 ---
 # Magic Item Special Features; Magic Item's Creator or Intended User
 *Source: Dungeon Master's Guide (2024) p. 222* 
 
 **Magic Item's Creator or Intended User**
-
-`dice: [](magic-item-special-features-magic-items-creator-or-intended-user-xdmg.md#^magic-items-creator-or-intended-user)`
 
 | dice: 1d20 | Creator or Intended User |
 |------------|--------------------------|

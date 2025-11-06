@@ -12,9 +12,9 @@ statblock: inline
 aliases: ["Vampire Familiar"]
 ---
 # Vampire Familiar
-*Source: Monster Manual (2024) p. 314*  
+*Source: Monster Manual (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
-![](Compendium/bestiary/humanoid/img/vampire-familiar.webp#right)  
+![A vampire familiar provide...](Compendium/bestiary/undead/img/vampires.webp#right)  
 Vampire familiars are living people who serve vampires, either willingly or due to coercion by their deathless masters. They channel deathly energy through their weapons, incapacitating unsuspecting targets and leaving their victims as helpless prey for their vampire masters.
 
 Many vampire familiars aspire to eventually become vampires, while others are magically charmed or serve as part of some terrible bargain. In each case, these vampire servants show signs of their vampiric corruption, such as corpse-like complexions, uncanny reflexes, and evidence of their masters' repeated feedings. A vampire familiar loses its supernatural abilities and returns to its original Humanoid state if its vampire master is destroyed.
@@ -31,8 +31,6 @@ Vampires disguise their accursed, immortal natures, passing as mortals to feed o
 Undead vampires lie dormant during the day, retreating to resting places hidden from foes and the sun's searing rays. Roll on or choose a result from the Vampire Resting Places table to inspire a vampire's grim sanctuary.
 
 **Vampire Resting Places**
-
-`dice: [](vampire-familiar-xmm.md#^vampire-resting-places)`
 
 | dice: 1d6 | The Vampire's Resting Place Is... |
 |-----------|-----------------------------------|
@@ -62,48 +60,54 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 "ac": !!int "15"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
+"modifier": !!int "5"
 "stats":
-- !!int "17"
-- !!int "16"
-- !!int "15"
-- !!int "10"
-- !!int "10"
-- !!int "14"
+  - !!int "17"
+  - !!int "16"
+  - !!int "15"
+  - !!int "10"
+  - !!int "10"
+  - !!int "14"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "2"
+  - "dexterity": !!int "5"
+  - "wisdom": !!int "2"
 "skillsaves":
-  "Stealth": !!int "7"
-  "Perception": !!int "4"
-  "Persuasion": !!int "4"
+  - "name": "[Perception](Compendium/rules/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
+    "desc": "+4"
+  - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
+    "desc": "+7"
 "damage_resistances": "necrotic"
 "condition_immunities": "[charmed](Compendium/rules/conditions.md#Charmed) (except\
   \ from its vampire master)"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[Darkvision](Compendium/rules/senses.md#Darkvision) 60 ft., passive Perception\
+  \ 14"
 "languages": "Common plus one other language"
 "cr": "3"
 "traits":
-- "desc": "While the familiar and its vampire master are on the same plane of existence,\
-    \ the vampire can communicate with the familiar telepathically, and the vampire\
-    \ can perceive through the familiar's senses."
-  "name": "Vampiric Connection"
+  - "desc": "While the familiar and its vampire master are on the same plane of existence,\
+      \ the vampire can communicate with the familiar telepathically, and the vampire\
+      \ can perceive through the familiar's senses."
+    "name": "Vampiric Connection"
 "actions":
-- "desc": "The familiar makes two Umbral Dagger attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack: +5, reach 5 ft. or range 20/60 ft. Hit: 5\
-    \ (1d4 + 3) Piercing damage plus 7 (3d4) Necrotic damage. If the target is\
-    \ reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-    \ by this attack, the target becomes [Stable](Compendium/rules/variant-rules/stable-xphb.md)\
-    \ but has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for\
-    \ 1 hour. While it has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-    \ condition, the target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed)\
-    \ condition."
-  "name": "Umbral Dagger"
+  - "desc": "The familiar makes two Umbral Dagger attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft.\
+      \ *Hit:* 5 (1d4 + 3) Piercing damage plus 7 (3d4) Necrotic damage. If the\
+      \ target is reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ by this attack, the target becomes [Stable](Compendium/rules/variant-rules/stable-xphb.md)\
+      \ but has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition\
+      \ for 1 hour. While it has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
+      \ condition, the target has the [Paralyzed](Compendium/rules/conditions.md#Paralyzed)\
+      \ condition."
+    "name": "Umbral Dagger"
 "bonus_actions":
-- "desc": "The familiar takes the Dash or Disengage action."
-  "name": "Deathless Agility"
+  - "desc": "The familiar takes the Dash or Disengage action."
+    "name": "Deathless Agility"
 "source":
-- "XMM"
+  - "XMM"
+"image": "Compendium/bestiary/humanoid/token/vampire-familiar-xmm.webp"
 ```
 ^statblock
