@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "918ee7fbd5871608",
+        "id": "01c57e12edab607c",
         "type": "tabs",
         "children": [
           {
-            "id": "06e95d494235876f",
+            "id": "f321ae042c09eb6d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -237,8 +237,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b74a3a1f4b57ccef",
+  "active": "f321ae042c09eb6d",
   "lastOpenFiles": [
+    "Ideas.md",
+    "Locations.md",
+    "Characters.md",
     "index.md",
     "Assets/WorldAxis.jpg",
     "Assets/underdark.jpg",
@@ -270,8 +273,6 @@
     "World Codex 1/Misc/Dragon Names.md",
     "World Codex 1/History of the world/The Founding Era.md",
     "World Codex 1/History of the world/Timeline.md",
-    "World Codex 1/History of the world/The Cataclysmic Era.md",
-    "World Codex 1/History of the world/The Conjunction Era.md",
     "World Codex 1/Species",
     "World Codex 1/Individuals",
     "World Codex 1/Misc",
