@@ -11,10 +11,14 @@
             "id": "f321ae042c09eb6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -239,10 +243,10 @@
   },
   "active": "f321ae042c09eb6d",
   "lastOpenFiles": [
-    "Ideas.md",
     "Locations.md",
-    "Characters.md",
     "index.md",
+    "Ideas.md",
+    "Characters.md",
     "Assets/WorldAxis.jpg",
     "Assets/underdark.jpg",
     "Assets/Giant_runes.jpg",
