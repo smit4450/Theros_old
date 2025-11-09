@@ -46,18 +46,18 @@ Welcome to the Mythic Odysseys of Theros campaign hub, using the 2024 edition of
 - [Friends and Foes](Compendium/books/mythic-odysseys-of-theros/7-friends-and-foes.md) — allies, rivals, and mythic monsters with story hooks.
 
 ### Gods of Theros
-- [Heliod](Compendium/deities/theros-heliod-mot.md)
-- [Iroas](Compendium/deities/theros-iroas-mot.md)
-- [Karametra](Compendium/deities/theros-karametra-mot.md).
-- [Erebos](Compendium/deities/theros-erebos-mot.md)
-- [Phenax](Compendium/deities/theros-phenax-mot.md)
-- [Pharika](Compendium/deities/theros-pharika-mot.md).
-- [Nylea](Compendium/deities/theros-nylea-mot.md)
-- [Purphoros](Compendium/deities/theros-purphoros-mot.md)
-- [Klothys](Compendium/deities/theros-klothys-mot.md).
-- [Thassa](Compendium/deities/theros-thassa-mot.md)
-- [Athreos](Compendium/deities/theros-athreos-mot.md)
-- [Kruphix](Compendium/deities/theros-kruphix-mot.md).
+- [Heliod](Heliod.md)
+- [Iroas](Iroas.md)
+- [Karametra](Karametra.md).
+- [Erebos](Erebos.md)
+- [Phenax](Phenax.md)
+- [Pharika](Pharika.md).
+- [Nylea](Nylea.md)
+- [Purphoros](Purphoros.md)
+- [Klothys](Klothys.md).
+- [Thassa](theros-thassa-mot.md)
+- [Athreos](Athreos.md)
+- [Kruphix](Kruphix.md).
 
 ### Regions & Story Hooks
 - [Theros Travel Atlas](Compendium/books/mythic-odysseys-of-theros/4-realms-of-gods-and-mortals.md#polis-profiles) — Akros, Meletis, and Setessa at a glance.
