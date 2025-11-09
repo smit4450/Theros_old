@@ -1,30 +1,87 @@
 Bastions:
-* [[amethyst-dragon-den-frhof|Amethyst Dragon Den]] -> Triton?
-* [[cult-of-the-dragon-archive-frhof|Cult of the Dragon Archive]] -> idk
-* [[emerald-enclave-grove-frhof|Emerald Enclave Grove]] -> Nissa/Setessa/etc
-* [[harper-hideout-frhof|Harper Hideout]] -> idk
-* [[lords-alliance-noble-residence-frhof|Lords' Alliance Noble Residence]] -> idk
-* [[order-of-the-gauntlet-tournament-field-frhof|Order of the Gauntlet Tournament Field]] -> idk
-* [[red-wizard-necropolis-frhof|Red Wizard Necropolis]] -> idk
-* [[zhentarim-travel-station-frhof|Zhentarim Travel Station]] -> Phenax
+* [[red-wizard-necropolis-frhof|Red Wizard Necropolis]] -> Erebos or Returned?
 
 Backgrounds:
-* [[chondathan-freebooter-frhof|Chondathan Freebooter]] -> idk
+* [[chondathan-freebooter-frhof|Chondathan Freebooter]] -> Akros?
 * [[dead-magic-dweller-frhof|Dead Magic Dweller]] -> idk
-* [[dragon-cultist-frhof|Dragon Cultist]] -> idk
-* [[emerald-enclave-grove-frhof|Emerald Enclave Grove]] -> idk
 * [[flaming-fist-mercenary-frhof|Flaming Fist Mercenary]] -> idk
-* [[genie-touched-frhof|Genie Touched]] -> idk
-* [[harper-frhof|Harper]] -> idk
-* [[ice-fisher-frhof|Ice Fisher]] -> idk
-* [[knight-of-the-gauntlet-frhof|Knight of the Gauntlet]] -> idk
-* [[lords-alliance-vassal-frhof|Lords' Alliance Vassal]] -> idk
-* [[moonwell-pilgrim-frhof|Moonwell Pilgrim]] -> idk
 * [[mulhorandi-tomb-raider-frhof|Mulhorandi Tomb Raider]] -> idk
-* [[mythalkeeper-frhof|Mythalkeeper]] -> idk
+* [[rashemi-wanderer-frhof|Rashemi Wanderer]] -> Phoberos?
+
+Feats:
+* [[orders-resilience-frhof|Order's Resilience]] -> fine
+* [[street-justice-frhof|Street Justice]] -> fine
+
+Subclasses:
+* [[cleric-xphb-knowledge-domain-frhof|Knowledge Domain]] -> change list of gods
+* [[fighter-xphb-banneret-frhof|Banneret]] -> Hoplite?
+* [[rogue-xphb-scion-of-the-three-frhof|Scion of the Three]] -> Change lore to Erebos, Phenax, etc?
+* [[wizard-xphb-bladesinger-frhof|Bladesinger]] -> adjust lore
+
+#### By topic:
+
+Spellfire:
+* [[sorcerer-xphb-spellfire-sorcery-frhof|Spellfire Sorcery]]
+* [[spellfire-adept-frhof|Spellfire Adept]]
+* [[spellfire-initiate-frhof|Spellfire Initiate]]
+
+Zhentarim:
+* [[zhentarim-ruffian-frhof|Zhentarim Ruffian]]
+* [[zhentarim-tactics-frhof|Zhentarim Tactics]]
+* [[zhentarim-mercenary-frhof|Zhentarim Mercenary]]
+* [[zhentarim-travel-station-frhof|Zhentarim Travel Station]] -> Phenax
+* [[shadowmasters-exile-frhof|Shadowmasters Exile]]
+
+Purple/amethyst dragon:
+* [[purple-dragon-commandant-frhof|Purple Dragon Commandant]]
+* [[purple-dragon-rook-frhof|Purple Dragon Rook]]
 * [[purple-dragon-squire-frhof|Purple Dragon Squire]] -> idk
-* [[rashemi-wanderer-frhof|Rashemi Wanderer]] -> idk
-* [[shadowmasters-exile-frhof|Shadowmasters Exile]] -> idk
-* [[spellfire-initiate-frhof|Spellfire Initiate]] -> idk
-* [[zhentarim-mercenary-frhof|Zhentarim Mercenary]] -> idk
+* [[amethyst-dragon-den-frhof|Amethyst Dragon Den]] -> Triton?
+
+Dragon/ Cult of the Dragon:
+* [[cult-of-the-dragon-initiate-frhof|Cult of the Dragon Initiate]]
+* [[dragonscarred-frhof|Dragonscarred]]
+* [[dragon-cultist-frhof|Dragon Cultist]] -> idk
+* [[cult-of-the-dragon-archive-frhof|Cult of the Dragon Archive]] -> idk
+
+Emerald Enclave:
+* [[emerald-enclave-fledgling-frhof|Emerald Enclave Fledgling]]
+* [[enclave-magic-frhof|Enclave Magic]]
+* [[emerald-enclave-grove-frhof|Emerald Enclave Grove]] -> idk
+* [[emerald-enclave-grove-frhof|Emerald Enclave Grove]] -> Nissa/Setessa/etc
+
+Harper:
+* [[harper-agent-frhof|Harper Agent]]
+* [[harper-teamwork-frhof|Harper Teamwork]]
+* [[harper-frhof|Harper]] -> idk
+* [[harper-hideout-frhof|Harper Hideout]] -> idk
+
+Genies:
+* [[paladin-xphb-oath-of-the-noble-genies-frhof|Oath of the Noble Genies]]
+* [[genie-magic-frhof|Genie Magic]]
+* [[genie-touched-frhof|Genie Touched]] -> idk
+
+Lords Alliance:
+* [[lords-alliance-noble-residence-frhof|Lords' Alliance Noble Residence]] -> idk
+* [[lordly-resolve-frhof|Lordly Resolve]]
+* [[lords-alliance-agent-frhof|Lords' Alliance Agent]]
+* [[lords-alliance-vassal-frhof|Lords' Alliance Vassal]] -> idk
+
+Mythal:
+* [[mythal-touched-frhof|Mythal Touched]]
+* [[mythalkeeper-frhof|Mythalkeeper]] -> idk
+
+Gauntlet:
+* [[tyro-of-the-gauntlet-frhof|Tyro of the Gauntlet]]
+* [[knight-of-the-gauntlet-frhof|Knight of the Gauntlet]] -> idk
+* [[order-of-the-gauntlet-tournament-field-frhof|Order of the Gauntlet Tournament Field]] -> idk
+
+Winter:
+* [[ranger-xphb-winter-walker-frhof|Winter Walker]]
+* [[ice-fisher-frhof|Ice Fisher]] -> idk
+
+Fey/Moonshae:
+* [[bard-xphb-college-of-the-moon-frhof|College of the Moon]]
+* [[fairy-trickster-frhof|Fairy Trickster]]
+* [[moonwell-pilgrim-frhof|Moonwell Pilgrim]] -> idk
 
