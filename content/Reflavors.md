@@ -18,6 +18,19 @@ Subclasses:
 * [[rogue-xphb-scion-of-the-three-frhof|Scion of the Three]] -> Change lore to Erebos, Phenax, etc?
 * [[wizard-xphb-bladesinger-frhof|Bladesinger]] -> adjust lore
 
+* [[barbarian-xphb-path-of-the-world-tree-xphb|Path of the World Tree]] 
+* [[bard-xphb-college-of-glamour-xphb|College of Glamour]] Feywild -> Sylvan
+* [[monk-xphb-warrior-of-shadow-xphb|Warrior of Shadow]] Shadowfell -> Underworld
+* [[ranger-xphb-fey-wanderer-xphb|Fey Wanderer]] Feywild -> Sylvan
+* [[ranger-xphb-gloom-stalker-xphb|Gloom Stalker]] Shadowfell -> Underworld
+* [[sorcerer-xphb-aberrant-sorcery-xphb|Aberrant Sorcery]] 
+* [[sorcerer-xphb-clockwork-sorcery-xphb|Clockwork Sorcery]] -> Anvilwrought
+* [[sorcerer-xphb-wild-magic-sorcery-xphb|Wild Magic Sorcery]] 
+* [[warlock-xphb-archfey-patron-xphb|Archfey Patron]] Fey -> Sylvan
+* [[warlock-xphb-fiend-patron-xphb|Fiend Patron]] -> Underworld
+* [[warlock-xphb-celestial-patron-xphb|Celestial Patron]] -> Pantheon
+* [[warlock-xphb-great-old-one-patron-xphb|Great Old One Patron]] -> Titan?
+
 #### By topic:
 
 Spellfire:

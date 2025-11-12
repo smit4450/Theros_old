@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/books/mythic-odysseys-of-theros/4-realms-of-gods-and-mortals.md",
+                "file": "Reflavors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-realms-of-gods-and-mortals"
+              "title": "Reflavors"
             }
           },
           {
@@ -27,16 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflavors.md",
-                "mode": "source",
+                "file": "Compendium/classes/barbarian-xphb-path-of-the-world-tree-xphb.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reflavors"
+              "title": "barbarian-xphb-path-of-the-world-tree-xphb"
+            }
+          },
+          {
+            "id": "7df6818176e15291",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,34 +266,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "de9a650c5ffdaf98",
+  "active": "7df6818176e15291",
   "lastOpenFiles": [
-    "Compendium/bastions/red-wizard-necropolis-frhof.md",
+    "Compendium/classes/barbarian-xphb-path-of-the-world-tree-xphb.md",
+    "Compendium/classes/barbarian-xphb-path-of-the-wild-heart-xphb.md",
+    "Compendium/classes/sorcerer-xphb-wild-magic-sorcery-xphb.md",
     "Reflavors.md",
-    "Compendium/backgrounds/dead-magic-dweller-frhof.md",
-    "Compendium/backgrounds/flaming-fist-mercenary-frhof.md",
-    "Compendium/books/mythic-odysseys-of-theros/4-realms-of-gods-and-mortals.md",
-    "Compendium/classes/bard-xphb-college-of-the-moon-frhof.md",
-    "Compendium/backgrounds/rashemi-wanderer-frhof.md",
-    "Compendium/backgrounds/mulhorandi-tomb-raider-frhof.md",
-    "Compendium/backgrounds/shadowmasters-exile-frhof.md",
-    "Compendium/classes/wizard-xphb-bladesinger-frhof.md",
+    "Compendium/classes/warlock-xphb-great-old-one-patron-xphb.md",
+    "Compendium/classes/warlock-xphb-fiend-patron-xphb.md",
+    "Compendium/classes/warlock-xphb-celestial-patron-xphb.md",
+    "Compendium/classes/wizard-xphb-illusionist-xphb.md",
+    "Compendium/classes/wizard-xphb-evoker-xphb.md",
+    "Compendium/classes/wizard-xphb-diviner-xphb.md",
+    "Compendium/classes/wizard-xphb-abjurer-xphb.md",
+    "Compendium/classes/warlock-xphb-archfey-patron-xphb.md",
+    "Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md",
+    "Compendium/classes/sorcerer-xphb-draconic-sorcery-xphb.md",
+    "Compendium/classes/sorcerer-xphb-clockwork-sorcery-xphb.md",
+    "Compendium/classes/sorcerer-xphb-aberrant-sorcery-xphb.md",
+    "Compendium/classes/rogue-xphb-soulknife-xphb.md",
     "Compendium/classes/rogue-xphb-scion-of-the-three-frhof.md",
-    "Compendium/classes/fighter-xphb-banneret-frhof.md",
-    "Compendium/classes/cleric-xphb-knowledge-domain-frhof.md",
-    "Compendium/feats/street-justice-frhof.md",
-    "Compendium/feats/orders-resilience-frhof.md",
-    "Compendium/backgrounds/moonwell-pilgrim-frhof.md",
-    "Compendium/feats/fairy-trickster-frhof.md",
-    "Compendium/feats/enclave-magic-frhof.md",
-    "Compendium/feats/emerald-enclave-fledgling-frhof.md",
-    "Compendium/feats/dragonscarred-frhof.md",
-    "Compendium/feats/cult-of-the-dragon-initiate-frhof.md",
-    "Compendium/feats/boon-of-the-furious-storm-frhof.md",
-    "Compendium/feats/boon-of-poison-mastery-frhof.md",
-    "Compendium/feats/boon-of-fortunes-favor-frhof.md",
-    "Compendium/feats/boon-of-truesight-xphb.md",
-    "Compendium/feats/cold-caster-frhof.md",
+    "Compendium/classes/rogue-xphb-assassin-xphb.md",
+    "Compendium/classes/rogue-xphb-arcane-trickster-xphb.md",
+    "Compendium/classes/ranger-xphb-hunter-xphb.md",
+    "Compendium/classes/ranger-xphb-gloom-stalker-xphb.md",
+    "Compendium/classes/ranger-xphb-fey-wanderer-xphb.md",
+    "Compendium/classes/ranger-xphb-beast-master-xphb.md",
+    "Compendium/classes/paladin-xphb-oath-of-vengeance-xphb.md",
+    "Compendium/classes/paladin-xphb-oath-of-the-noble-genies-frhof.md",
     "Assets/born-of-the-gods/Brimaz King of Oreskos.png",
     "Assets/born-of-the-gods/Black Oak of Odunos.png",
     "Assets/born-of-the-gods/Bile Blight.png",
