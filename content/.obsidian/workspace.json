@@ -27,26 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/classes/barbarian-xphb-path-of-the-world-tree-xphb.md",
+                "file": "Compendium/classes/druid-xphb-circle-of-the-stars-xphb.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "barbarian-xphb-path-of-the-world-tree-xphb"
-            }
-          },
-          {
-            "id": "7df6818176e15291",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "druid-xphb-circle-of-the-stars-xphb"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,12 +255,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7df6818176e15291",
+  "active": "3cede2984ebfbd28",
   "lastOpenFiles": [
+    "Compendium/classes/druid-xphb-circle-of-the-stars-xphb.md",
     "Compendium/classes/barbarian-xphb-path-of-the-world-tree-xphb.md",
+    "Reflavors.md",
     "Compendium/classes/barbarian-xphb-path-of-the-wild-heart-xphb.md",
     "Compendium/classes/sorcerer-xphb-wild-magic-sorcery-xphb.md",
-    "Reflavors.md",
     "Compendium/classes/warlock-xphb-great-old-one-patron-xphb.md",
     "Compendium/classes/warlock-xphb-fiend-patron-xphb.md",
     "Compendium/classes/warlock-xphb-celestial-patron-xphb.md",
@@ -293,7 +283,6 @@
     "Compendium/classes/ranger-xphb-fey-wanderer-xphb.md",
     "Compendium/classes/ranger-xphb-beast-master-xphb.md",
     "Compendium/classes/paladin-xphb-oath-of-vengeance-xphb.md",
-    "Compendium/classes/paladin-xphb-oath-of-the-noble-genies-frhof.md",
     "Assets/born-of-the-gods/Brimaz King of Oreskos.png",
     "Assets/born-of-the-gods/Black Oak of Odunos.png",
     "Assets/born-of-the-gods/Bile Blight.png",
