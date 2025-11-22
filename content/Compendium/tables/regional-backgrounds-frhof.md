@@ -14,8 +14,8 @@ aliases:
 
 | Background | Region |
 |------------|--------|
-| [Chondathan Freebooter](Compendium/backgrounds/chondathan-freebooter-frhof.md) | Vilhon Reach |
-| [Dead Magic Dweller](Compendium/backgrounds/dead-magic-dweller-frhof.md) | Anauroch |
+| [Chondathan Freebooter](Akroan%20Deserter.md) | Vilhon Reach |
+| [Dead Magic Dweller](Ashlands%20Dweller.md) | Anauroch |
 | [Flaming Fist Mercenary](Compendium/backgrounds/flaming-fist-mercenary-frhof.md) | Sword Coast |
 | [Genie Touched](Compendium/backgrounds/genie-touched-frhof.md) | Lands of Intrigue |
 | [Ice Fisher](Compendium/backgrounds/ice-fisher-frhof.md) | The North |

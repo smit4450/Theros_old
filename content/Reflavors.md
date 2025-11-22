@@ -1,9 +1,9 @@
 Bastions:
-* [[red-wizard-necropolis-frhof|Red Wizard Necropolis]] -> Erebos or Returned?
+* [[Necropoikos|Red Wizard Necropolis]] -> [[Necropoikos]]
 
 Backgrounds:
-* [[chondathan-freebooter-frhof|Chondathan Freebooter]] -> Akros?
-* [[dead-magic-dweller-frhof|Dead Magic Dweller]] -> idk
+* [[Akroan Deserter|Chondathan Freebooter]] -> [[Akroan Deserter]]
+* [[Ashlands Dweller|Dead Magic Dweller]] -> [[Ashlands Dweller]]
 * [[flaming-fist-mercenary-frhof|Flaming Fist Mercenary]] -> idk
 * [[mulhorandi-tomb-raider-frhof|Mulhorandi Tomb Raider]] -> idk
 * [[rashemi-wanderer-frhof|Rashemi Wanderer]] -> Phoberos?

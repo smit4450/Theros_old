@@ -27,7 +27,7 @@ This chapter presents eight new subclasses that are particularly appropriate for
 
 This section presents eighteen new backgrounds for characters from Faerûn. These backgrounds are presented in alphabetical order.
 
-Ten of these new backgrounds correspond to regions of the Forgotten Realms described in "chapter 2"; these backgrounds are listed in the "Regional Backgrounds" table. Not every character from a given region needs to take a given background. For example, not all residents of Mulhorand are tomb raiders. Conversely, you might find a given background a good fit for your character even if the character isn't from the designated region. For example, the [Chondathan Freebooter](Compendium/backgrounds/chondathan-freebooter-frhof.md) background is a good fit for many pirate characters from any region.
+Ten of these new backgrounds correspond to regions of the Forgotten Realms described in "chapter 2"; these backgrounds are listed in the "Regional Backgrounds" table. Not every character from a given region needs to take a given background. For example, not all residents of Mulhorand are tomb raiders. Conversely, you might find a given background a good fit for your character even if the character isn't from the designated region. For example, the [Chondathan Freebooter](Akroan%20Deserter.md) background is a good fit for many pirate characters from any region.
 
 Seven of these backgrounds are related to factions described in "chapter 6"; these backgrounds are listed in the "Faction Backgrounds" table. These backgrounds describe the training associated with a faction but aren't required for affiliation or membership with that faction.
 

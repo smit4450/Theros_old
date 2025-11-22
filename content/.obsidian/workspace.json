@@ -8,7 +8,84 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3cede2984ebfbd28",
+            "id": "de9a650c5ffdaf98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/classes/druid-xphb-circle-of-the-stars-xphb.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "druid-xphb-circle-of-the-stars-xphb"
+            }
+          },
+          {
+            "id": "b0b6254dcf5f6bc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/bastions/Necropoikos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Necropoikos"
+            }
+          },
+          {
+            "id": "86438600128fe802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/backgrounds/Akroan Deserter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Akroan Deserter"
+            }
+          },
+          {
+            "id": "ef7cad9336b84668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/backgrounds/Ashlands Dweller.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ashlands Dweller"
+            }
+          },
+          {
+            "id": "d10afa0920071474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/backgrounds/flaming-fist-mercenary-frhof.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "flaming-fist-mercenary-frhof"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "fd7a7221fbb2a2c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b72bf28259a0fb08",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,20 +99,45 @@
             }
           },
           {
-            "id": "de9a650c5ffdaf98",
+            "id": "4d7e7beedbcf9da0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/classes/druid-xphb-circle-of-the-stars-xphb.md",
-                "mode": "preview",
+                "file": "Compendium/books/mythic-odysseys-of-theros/4-realms-of-gods-and-mortals.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "druid-xphb-circle-of-the-stars-xphb"
+              "title": "4-realms-of-gods-and-mortals"
+            }
+          },
+          {
+            "id": "b4f1f633af9fc913",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/theros_map.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "theros_map"
+            }
+          },
+          {
+            "id": "aaa66da0f6df65f0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/theros_map_2.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "theros_map_2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,11 +357,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3cede2984ebfbd28",
+  "active": "d10afa0920071474",
   "lastOpenFiles": [
+    "Reflavors.md",
+    "Compendium/backgrounds/Ashlands Dweller.md",
+    "Compendium/books/mythic-odysseys-of-theros/4-realms-of-gods-and-mortals.md",
+    "Assets/Maps/theros_map.jpg",
+    "Assets/Maps/theros_map_2.jpg",
+    "Assets/Maps/Underworld.png",
+    "Assets/Maps/meletis_map_2.jpg",
+    "Assets/Maps/meletis_map.png",
+    "Assets/Maps",
+    "Compendium/books/mythic-odysseys-of-theros/1-welcome-to-theros.md",
+    "Compendium/backgrounds/Akroan Deserter.md",
+    "Compendium/bastions/Necropoikos.md",
     "Compendium/classes/druid-xphb-circle-of-the-stars-xphb.md",
     "Compendium/classes/barbarian-xphb-path-of-the-world-tree-xphb.md",
-    "Reflavors.md",
     "Compendium/classes/barbarian-xphb-path-of-the-wild-heart-xphb.md",
     "Compendium/classes/sorcerer-xphb-wild-magic-sorcery-xphb.md",
     "Compendium/classes/warlock-xphb-great-old-one-patron-xphb.md",
@@ -277,22 +390,11 @@
     "Compendium/classes/rogue-xphb-soulknife-xphb.md",
     "Compendium/classes/rogue-xphb-scion-of-the-three-frhof.md",
     "Compendium/classes/rogue-xphb-assassin-xphb.md",
-    "Compendium/classes/rogue-xphb-arcane-trickster-xphb.md",
-    "Compendium/classes/ranger-xphb-hunter-xphb.md",
-    "Compendium/classes/ranger-xphb-gloom-stalker-xphb.md",
-    "Compendium/classes/ranger-xphb-fey-wanderer-xphb.md",
-    "Compendium/classes/ranger-xphb-beast-master-xphb.md",
-    "Compendium/classes/paladin-xphb-oath-of-vengeance-xphb.md",
     "Assets/born-of-the-gods/Brimaz King of Oreskos.png",
     "Assets/born-of-the-gods/Black Oak of Odunos.png",
     "Assets/born-of-the-gods/Bile Blight.png",
     "Assets/born-of-the-gods/Astral Cornucopia.png",
     "Assets/born-of-the-gods/Ashioks Adept.png",
-    "Assets/born-of-the-gods/Archetype of Imagination.png",
-    "Assets/born-of-the-gods/Archetype of Finality.png",
-    "Assets/born-of-the-gods/Archetype of Endurance.png",
-    "Assets/born-of-the-gods/Archetype of Courage.png",
-    "Assets/born-of-the-gods/Archetype of Aggression.png",
     "World Codex 1/Species",
     "World Codex 1/Individuals",
     "World Codex 1/Misc",
@@ -303,7 +405,6 @@
     "World Codex 1",
     "DM Notes/Diagram.canvas",
     "DM Notes/Planes.canvas",
-    "Assets/ppt9BE.tmp",
-    "Assets/God Symbols"
+    "Assets/ppt9BE.tmp"
   ]
 }

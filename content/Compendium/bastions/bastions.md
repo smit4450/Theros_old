@@ -32,7 +32,7 @@ cssclasses:
 - [Order of the Gauntlet Tournament Field](./order-of-the-gauntlet-tournament-field-frhof.md)
 - [Parlor](./parlor.md)
 - [Pub](./pub.md)
-- [Red Wizard Necropolis](./red-wizard-necropolis-frhof.md)
+- [Red Wizard Necropolis](Necropoikos.md)
 - [Reliquary](./reliquary.md)
 - [Sacristy](./sacristy.md)
 - [Sanctuary](./sanctuary.md)
