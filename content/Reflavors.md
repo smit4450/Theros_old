@@ -4,18 +4,18 @@ Bastions:
 Backgrounds:
 * [[Akroan Deserter|Chondathan Freebooter]] -> [[Akroan Deserter]]
 * [[Ashlands Dweller|Dead Magic Dweller]] -> [[Ashlands Dweller]]
-* [[flaming-fist-mercenary-frhof|Flaming Fist Mercenary]] -> idk
-* [[mulhorandi-tomb-raider-frhof|Mulhorandi Tomb Raider]] -> idk
-* [[rashemi-wanderer-frhof|Rashemi Wanderer]] -> Phoberos?
+* [[Akroan Lukros|Flaming Fist Mercenary]] -> [[Akroan Lukros]]
+* [[Oreskos Swiftclaw|Mulhorandi Tomb Raider]] -> [[Oreskos Swiftclaw]]
+* [[Setessan Peregrine|Rashemi Wanderer]] -> [[Setessan Peregrine]]
 
 Feats:
 * [[orders-resilience-frhof|Order's Resilience]] -> fine
 * [[street-justice-frhof|Street Justice]] -> fine
 
 Subclasses:
-* [[cleric-xphb-knowledge-domain-frhof|Knowledge Domain]] -> change list of gods
-* [[fighter-xphb-banneret-frhof|Banneret]] -> Hoplite?
-* [[rogue-xphb-scion-of-the-three-frhof|Scion of the Three]] -> Change lore to Erebos, Phenax, etc?
+* [[cleric-xphb-knowledge-domain-frhof|Knowledge Domain]] -> changed list of gods
+* [[Phalanx Captain|Banneret]] -> [[Phalanx Captain]]
+* [[Agent of Death|Scion of the Three]] -> [[Agent of Death]]
 * [[wizard-xphb-bladesinger-frhof|Bladesinger]] -> adjust lore
 
 * [[barbarian-xphb-path-of-the-world-tree-xphb|Path of the World Tree]] -> Nyx? Nykthos? Klothys/Kruphix?

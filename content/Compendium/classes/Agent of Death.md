@@ -8,7 +8,7 @@ tags:
 aliases:
 - Scion of the Three
 ---
-# Scion of the Three
+# Agent of Death
 *[Rogue](./rogue-xphb.md): Rogue Subclass*  
 *Source: FRHoF*  
 
@@ -21,7 +21,7 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Scion of the Three (Level 3)' class='internal-link'>Scion of the Three</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Agent of Death (Level 3)' class='internal-link'>Agent of Death</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
@@ -46,13 +46,13 @@ aliases:
 
 ## Class Features
 
-### Scion of the Three (Level 3)
+### Agent of Death (Level 3)
 
 *Become a Gruesome Agent of Malice*
 
-A Scion of the Three draws power from a group of malevolent gods known as the Dead Three: [Bane](Compendium/deities/faerunian-bane-frhof.md), deity of tyranny; [Bhaal](Compendium/deities/faerunian-bhaal-frhof.md), deity of violence and murder; and [Myrkul](Compendium/deities/faerunian-myrkul-frhof.md), deity of death. While some Rogues of this subclass pledge themselves ardently to those three macabre gods, others find themselves thrust on this path by a curse. Either way, a scion's power manifests as various occult gifts, as well as an uncanny talent for striking and terrifying foes.
+An Agent of Death draws power from three malevolent gods: [[Phenax]], deity of deception; [[Mogis]], deity of violence and murder; and [[Erebos]], deity of death. While some Rogues of this subclass pledge themselves ardently to those three macabre gods, others find themselves thrust on this path by a curse. Either way, an agent's power manifests as various occult gifts, as well as an uncanny talent for striking and terrifying foes.
 
-Scions of the Three are most common in Baldur's Gate, where the Dead Three have long competed for influence over mortal hearts. Underground cults to [Bane](Compendium/deities/faerunian-bane-frhof.md), [Bhaal](Compendium/deities/faerunian-bhaal-frhof.md), and [Myrkul](Compendium/deities/faerunian-myrkul-frhof.md) often count Scions of the Three among their most useful agents. Outside Baldur's Gate, secular thieves' guilds such as the Shadow Thieves of Amn or Xanathar's guild in Waterdeep might cautiously call on a Scion of the Three to undertake an especially violent contract.
+Underground cults to [[Phenax]], [[Mogis]], and [[Erebos]] often count Agents of Death among their most useful agents. Secular thieves' guilds might cautiously call on an Agent of Death to undertake an especially violent contract.
 
 ### Bloodthirst (Level 3)
 
@@ -60,13 +60,13 @@ When an enemy you can see within 30 feet of yourself takes damage and is [Bloodi
 
 ### Dread Allegiance (Level 3)
 
-Choose one of the Dead Three: [Bane](Compendium/deities/faerunian-bane-frhof.md), [Bhaal](Compendium/deities/faerunian-bhaal-frhof.md), or [Myrkul](Compendium/deities/faerunian-myrkul-frhof.md). You gain [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to one type of damage and the ability to cast a cantrip, as detailed in the table below; Intelligence is your spellcasting ability for this cantrip. When you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you can change your choice.
+Choose one of the gods of death: [[Phenax]], [[Mogis]], or [[Erebos]]. You gain [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to one type of damage and the ability to cast a cantrip, as detailed in the table below; Intelligence is your spellcasting ability for this cantrip. When you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you can change your choice.
 
-| God | Damage Resistance | Cantrip |
-|-----|-------------------|---------|
-| [Bane](Compendium/deities/faerunian-bane-frhof.md) | Psychic | [Minor Illusion](Compendium/spells/minor-illusion-xphb.md) |
-| [Bhaal](Compendium/deities/faerunian-bhaal-frhof.md) | Poison | [Blade Ward](Compendium/spells/blade-ward-xphb.md) |
-| [Myrkul](Compendium/deities/faerunian-myrkul-frhof.md) | Necrotic | [Chill Touch](Compendium/spells/chill-touch-xphb.md) |
+| God        | Damage Resistance | Cantrip                                                    |
+| ---------- | ----------------- | ---------------------------------------------------------- |
+| [[Phenax]] | Psychic           | [Minor Illusion](Compendium/spells/minor-illusion-xphb.md) |
+| [[Mogis]]  | Poison            | [Blade Ward](Compendium/spells/blade-ward-xphb.md)         |
+| [[Erebos]] | Necrotic          | [Chill Touch](Compendium/spells/chill-touch-xphb.md)       |
 ^god-damage-resistance-cantrip
 
 ### Strike Fear (Level 9)
@@ -82,7 +82,7 @@ The [Frightened](Compendium/rules/conditions.md#Frightened) target repeats the s
 
 ### Aura of Malevolence (Level 13)
 
-You radiate malignant power associated with one of the Dead Three. When you use [Bloodthirst](Compendium/classes/rogue-xphb-scion-of-the-three-frhof.md#Bloodthirst%20(Level%203)) and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) granted by your choice in the Dread Allegiance feature. [Damage](Compendium/rules/variant-rules/damage-xphb.md) dealt by this feature ignores [Resistance](Compendium/rules/variant-rules/resistance-xphb.md).
+You radiate malignant power associated with one of the gods of death. When you use [Bloodthirst](Agent%20of%20Death.md#Bloodthirst%20(Level%203)) and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) granted by your choice in the Dread Allegiance feature. [Damage](Compendium/rules/variant-rules/damage-xphb.md) dealt by this feature ignores [Resistance](Compendium/rules/variant-rules/resistance-xphb.md).
 
 ### Dread Incarnate (Level 17)
 
@@ -91,7 +91,7 @@ You gain the following benefits.
 #### Cutthroat
 _Source: FRHoF_
 
-You regain one expended use of [Bloodthirst](Compendium/classes/rogue-xphb-scion-of-the-three-frhof.md#Bloodthirst%20(Level%203)) when you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md).
+You regain one expended use of [Bloodthirst](Agent%20of%20Death.md#Bloodthirst%20(Level%203)) when you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md).
 
 #### Murderous Intent
 _Source: FRHoF_

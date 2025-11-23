@@ -8,7 +8,7 @@ tags:
 aliases:
 - Banneret
 ---
-# Banneret
+# Phalanx Captain
 *[Fighter](./fighter-xphb.md): Fighter Subclass*  
 *Source: FRHoF*  
 
@@ -21,7 +21,7 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Banneret (Level 3)' class='internal-link'>Banneret</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Phalanx Captain (Level 3)' class='internal-link'>Phalanx Captain</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
@@ -46,17 +46,17 @@ aliases:
 
 ## Class Features
 
-### Banneret (Level 3)
+### Phalanx Captain (Level 3)
 
-*Rally Fellow Heroes with Inspiring Leadership*
+*Forge Cohesion and Valor Amid the Clash*
 
-Bannerets are paragons of valor and leadership who protect the innocent and rally fellow adventurers to the causes of justice and freedom. Many are knights serving in Cormyr, the Silver Marches, Damara, Chessenta, or other lands across Faerûn. They wander the realms as knights errant, taking the fight against evil beyond their kingdom's borders.
+Phalanx Captains are exemplars of disciplined courage whose presence binds warriors into an unbreakable wall. They arise from the training grounds, arenas, and embattled frontiers where coordinated resolve turns aside chaos and predation. Whether sworn to a proud polis or wandering as an oath-bearing tactician, they carry the traditions of formation fighting into every perilous expedition.
 
-A Banneret relies on judgment, bravery, and fidelity to the code of chivalry to guide them in defeating evildoers. A lone Banneret is a skilled warrior, but when leading a band of allies one of these warriors can transform even a poorly equipped militia into a ferocious war band.
+A Phalanx Captain relies on practiced judgment, steady bravery, and the shared rhythm of shield and spear to overcome threats. Alone they are a formidable combatant; leading companions they transform untested fighters and diverse adventurers into a synchronized, relentless advance.
 
-### Knightly Envoy (Level 3)
+### Polis Envoy (Level 3)
 
-You know how to conduct yourself with grace as a noble ambassador. You gain the following benefits.
+You carry the bearing and rhetorical grace of a recognized civic representative or martial herald. You gain the following benefits.
 
 #### Comprehension
 

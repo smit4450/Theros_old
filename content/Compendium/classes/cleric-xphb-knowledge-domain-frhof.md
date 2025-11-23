@@ -53,7 +53,7 @@ aliases:
 
 The Knowledge Domain values learning and understanding above all. Clerics who tap into this domain study esoteric lore, collect old tomes, delve into secret places, and examine the processes of the mind. To them, knowledge is more valuable than material wealth, and learning is an act of worship. Libraries, universities, and other educational institutions also draw on the power of the Knowledge Domain.
 
-Gods of knowledge vary from masters of arcane magic to patrons of craft and invention. In Faerûn, Clerics of the Knowledge Domain worship deities of learning and ingenuity such as [Oghma](Compendium/deities/faerunian-oghma-frhof.md) and [Gond](Compendium/deities/faerunian-gond-frhof.md), among many others.
+Gods of knowledge vary from masters of arcane magic to patrons of craft and invention. In Theros, Clerics of the Knowledge Domain worship deities of learning and ingenuity such as [[Ephara]], [[Keranos]], [[Pharika]], and [[Purphoros]], among others.
 
 ### Blessings of Knowledge (Level 3)
 

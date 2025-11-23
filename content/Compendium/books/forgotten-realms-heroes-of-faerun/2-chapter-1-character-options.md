@@ -16,10 +16,10 @@ This chapter presents eight new subclasses that are particularly appropriate for
 
 [College of the Moon](Compendium/classes/bard-xphb-college-of-the-moon-frhof.md): A Bard trained by druids of the Moonshae Isles, with a special connection to local folktales and mysterious shrines called moonwells  
 [Knowledge Domain](Compendium/classes/cleric-xphb-knowledge-domain-frhof.md): A Cleric of [Gond](Compendium/deities/faerunian-gond-frhof.md), [Mystra](Compendium/deities/faerunian-mystra-frhof.md), [Oghma](Compendium/deities/faerunian-oghma-frhof.md), [Selûne](Compendium/deities/faerunian-selune-frhof.md), or another deity who values knowledge, craft, or secrets  
-[Banneret](Compendium/classes/fighter-xphb-banneret-frhof.md): A Fighter who leads others into battle  
+[Banneret](Phalanx%20Captain.md): A Fighter who leads others into battle  
 [Oath of the Noble Genies](Compendium/classes/paladin-xphb-oath-of-the-noble-genies-frhof.md): A Paladin empowered by the elemental magic of the genies of Calimshan  
 [Winter Walker](Compendium/classes/ranger-xphb-winter-walker-frhof.md): A Ranger of the North, wielding magic of cold and ice  
-[Scion of the Three](Compendium/classes/rogue-xphb-scion-of-the-three-frhof.md): A Rogue who taps into the deadly power of three evil gods—[Bane](Compendium/deities/faerunian-bane-frhof.md), [Bhaal](Compendium/deities/faerunian-bhaal-frhof.md), and [Myrkul](Compendium/deities/faerunian-myrkul-frhof.md)  
+[Scion of the Three](Agent%20of%20Death.md): A Rogue who taps into the deadly power of three evil gods—[Bane](Compendium/deities/faerunian-bane-frhof.md), [Bhaal](Compendium/deities/faerunian-bhaal-frhof.md), and [Myrkul](Compendium/deities/faerunian-myrkul-frhof.md)  
 [Spellfire Sorcery](Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md): A Sorcerer born with the ability to manipulate spellfire  
 [Bladesinger](Compendium/classes/wizard-xphb-bladesinger-frhof.md): A Wizard who has mastered an ancient elven technique of magical combat  
 
