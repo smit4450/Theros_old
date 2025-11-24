@@ -22,7 +22,7 @@ Storm with Rage, and wade into hand-to-hand combat. Then follow the Path of the.
 
 - [Path of the Berserker](Compendium/classes/barbarian-xphb-path-of-the-berserker-xphb.md) to unleash raw violence.  
 - [Path of the Wild Heart](Compendium/classes/barbarian-xphb-path-of-the-wild-heart-xphb.md) to manifest kinship with animals.  
-- [Path of the World Tree](Compendium/classes/barbarian-xphb-path-of-the-world-tree-xphb.md) to tap into cosmic vitality.  
+- [Path of the World Tree](Path%20of%20Nykthos.md) to tap into cosmic vitality.  
 - [Path of the Zealot](Compendium/classes/barbarian-xphb-path-of-the-zealot-xphb.md) to rage in union with a god.  
 
 ![](Compendium/books/players-handbook-2024/img/027-03-003-bard-symbol.webp#center)

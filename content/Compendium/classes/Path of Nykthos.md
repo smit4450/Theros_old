@@ -8,7 +8,7 @@ tags:
 aliases:
 - Path of the World Tree
 ---
-# Path of the World Tree
+# Path of Nykthos
 *[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 56*  
 
@@ -46,7 +46,7 @@ aliases:
 
 ## Class Features
 
-### Path of the World Tree (Level 3)
+### Path of Nykthos (Level 3)
 
 *Trace the Roots and Branches of the Multiverse*
 

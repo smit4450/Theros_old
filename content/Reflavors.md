@@ -16,9 +16,10 @@ Subclasses:
 * [[cleric-xphb-knowledge-domain-frhof|Knowledge Domain]] -> changed list of gods
 * [[Phalanx Captain|Banneret]] -> [[Phalanx Captain]]
 * [[Agent of Death|Scion of the Three]] -> [[Agent of Death]]
-* [[wizard-xphb-bladesinger-frhof|Bladesinger]] -> adjust lore
+* [[Bladesinger|Bladesinger]] -> Elven to Meletian
 
-* [[barbarian-xphb-path-of-the-world-tree-xphb|Path of the World Tree]] -> Nyx? Nykthos? Klothys/Kruphix?
+* *[[Path of Nykthos|Path of the World Tree]] -> [[Path of Nykthos]]*
+
 * [[bard-xphb-college-of-glamour-xphb|College of Glamour]] Feywild -> Sylvan
 * [[monk-xphb-warrior-of-shadow-xphb|Warrior of Shadow]] Shadowfell -> Underworld
 * [[ranger-xphb-fey-wanderer-xphb|Fey Wanderer]] Feywild -> Sylvan

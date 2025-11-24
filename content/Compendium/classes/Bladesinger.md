@@ -52,11 +52,11 @@ aliases:
 
 Bladesingers master a tradition of wizardry that incorporates swordplay and dance. In combat, a Bladesinger uses intricate, elegant maneuvers that fend off harm and allow the Bladesinger to channel magic into devastating attacks and a cunning defense. Many who have observed a Bladesinger at work remember the display as one of the more beautiful experiences in their life—a glorious dance accompanied by a singing blade.
 
-Bladesinging is associated with the ancient elven societies that first mastered the art and coined the term. Even today, most Bladesingers still hail from old elven realms, such as Myth Drannor, or from non-elven societies that share land and history with elves, such as the Silver Marches. Wherever they hail from, Bladesingers take their talents all across the Realms to help common people and perform heroic deeds. Most communities greet the arrival of a Bladesinger as a good omen.
+Bladesinging is most often associated with Meletis, the polis renowned for philosophy, learning, and devotion to the gods. In Meletis, magical training and martial discipline are united in the halls of its academies, where arcane techniques are studied alongside tactical combat. The Bladesong here is a disciplined art, seen as dance and spell—a fluid marriage of Meletian logic and mystical rhyme. It is not just a fighting style, but a symbol of the pursuit of perfection, both in body and mind. Wherever they hail from, Bladesingers take their talents all across the Realms to help common people and perform heroic deeds. Most communities greet the arrival of a Bladesinger as a good omen.
 
 ### Bladesong (Level 3)
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you invoke an elven magic called the Bladesong, provided you aren't wearing armor or using a Shield.
+As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you invoke a magic called the Bladesong, provided you aren't wearing armor or using a Shield.
 
 The Bladesong lasts for 1 minute and ends early if you have the Incapacitated condition, if you don armor or a Shield, or if you use two hands to make an attack with a weapon. You can dismiss the Bladesong at any time (no action required).
 

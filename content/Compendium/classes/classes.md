@@ -8,7 +8,7 @@ cssclasses:
 
 - [Barbarian: Path of the Berserker](./barbarian-xphb-path-of-the-berserker-xphb.md)
 - [Barbarian: Path of the Wild Heart](./barbarian-xphb-path-of-the-wild-heart-xphb.md)
-- [Barbarian: Path of the World Tree](./barbarian-xphb-path-of-the-world-tree-xphb.md)
+- [Barbarian: Path of the World Tree](Path%20of%20Nykthos.md)
 - [Barbarian: Path of the Zealot](./barbarian-xphb-path-of-the-zealot-xphb.md)
 - [Barbarian](./barbarian-xphb.md)
 - [Bard: College of Dance](./bard-xphb-college-of-dance-xphb.md)
@@ -70,7 +70,7 @@ cssclasses:
 - [Warlock: Great Old One Patron](./warlock-xphb-great-old-one-patron-xphb.md)
 - [Warlock](./warlock-xphb.md)
 - [Wizard: Abjurer](./wizard-xphb-abjurer-xphb.md)
-- [Wizard: Bladesinger](./wizard-xphb-bladesinger-frhof.md)
+- [Wizard: Bladesinger](Bladesinger.md)
 - [Wizard: Diviner](./wizard-xphb-diviner-xphb.md)
 - [Wizard: Evoker](./wizard-xphb-evoker-xphb.md)
 - [Wizard: Illusionist](./wizard-xphb-illusionist-xphb.md)

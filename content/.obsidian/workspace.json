@@ -4,158 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e2b786a035ef0f0c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "de9a650c5ffdaf98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/classes/druid-xphb-circle-of-the-stars-xphb.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "druid-xphb-circle-of-the-stars-xphb"
-            }
-          },
-          {
-            "id": "b0b6254dcf5f6bc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/bastions/Necropoikos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Necropoikos"
-            }
-          },
-          {
-            "id": "86438600128fe802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/backgrounds/Akroan Deserter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Akroan Deserter"
-            }
-          },
-          {
-            "id": "ef7cad9336b84668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/backgrounds/Ashlands Dweller.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ashlands Dweller"
-            }
-          },
-          {
-            "id": "d10afa0920071474",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/backgrounds/Akroan Lukros.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Akroan Lukros"
-            }
-          },
-          {
-            "id": "80ca13493d8b6ff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/backgrounds/Oreskos Swiftclaw.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Oreskos Swiftclaw"
-            }
-          },
-          {
-            "id": "5e494874bd118be4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/classes/cleric-xphb-knowledge-domain-frhof.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cleric-xphb-knowledge-domain-frhof"
-            }
-          },
-          {
-            "id": "9e7cd02d3967107c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/backgrounds/Setessan Peregrine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Setessan Peregrine"
-            }
-          },
-          {
-            "id": "bf7303bbf3eb50d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/classes/Phalanx Captain.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phalanx Captain"
-            }
-          },
-          {
-            "id": "a947a02a9d304000",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/classes/Agent of Death.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Agent of Death"
-            }
-          }
-        ],
-        "currentTab": 9
-      },
-      {
         "id": "fd7a7221fbb2a2c4",
         "type": "tabs",
         "children": [
           {
-            "id": "b72bf28259a0fb08",
+            "id": "fe00bf852ad72ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/classes/Path of Nykthos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Path of Nykthos"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6b93fefb03efacd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94a36893ef75c69d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,29 +56,17 @@
             }
           },
           {
-            "id": "b4f1f633af9fc913",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/theros_map.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "theros_map"
-            }
-          },
-          {
-            "id": "4b3ec0f234d9b376",
+            "id": "6b3e199f87b00288",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/deities/Phenax.md",
+                "file": "Compendium/books/mythic-odysseys-of-theros/5-creating-theros-adventures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phenax"
+              "title": "5-creating-theros-adventures"
             }
           }
         ]
@@ -428,40 +289,40 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b72bf28259a0fb08",
+  "active": "94a36893ef75c69d",
   "lastOpenFiles": [
-    "Compendium/classes/Agent of Death.md",
-    "Compendium/deities/Phenax.md",
-    "Compendium/deities/Pharika.md",
-    "Compendium/deities/Purphoros.md",
+    "Compendium/classes/Path of Nykthos.md",
     "Reflavors.md",
     "Compendium/books/mythic-odysseys-of-theros/4-realms-of-gods-and-mortals.md",
-    "Compendium/classes/cleric-xphb-knowledge-domain-frhof.md",
+    "Compendium/books/mythic-odysseys-of-theros/5-creating-theros-adventures.md",
+    "Compendium/books/mythic-odysseys-of-theros/3-gods-of-theros.md",
+    "Compendium/classes/Bladesinger.md",
+    "Compendium/classes/Agent of Death.md",
     "Compendium/classes/Phalanx Captain.md",
     "Compendium/backgrounds/Setessan Peregrine.md",
-    "Compendium/bestiary/humanoid/meletian-hoplite-mot.md",
+    "Compendium/classes/cleric-xphb-knowledge-domain-frhof.md",
     "Compendium/backgrounds/Oreskos Swiftclaw.md",
-    "Assets/Maps/theros_map.jpg",
     "Compendium/backgrounds/Akroan Lukros.md",
     "Compendium/backgrounds/Ashlands Dweller.md",
+    "Compendium/backgrounds/Akroan Deserter.md",
+    "Compendium/bastions/Necropoikos.md",
+    "Compendium/classes/druid-xphb-circle-of-the-stars-xphb.md",
+    "Compendium/deities/Phenax.md",
+    "Assets/Maps/theros_map.jpg",
+    "Compendium/deities/Pharika.md",
+    "Compendium/deities/Purphoros.md",
+    "Compendium/bestiary/humanoid/meletian-hoplite-mot.md",
     "Assets/Maps/theros_map_2.jpg",
     "Assets/Maps/Underworld.png",
     "Assets/Maps/meletis_map_2.jpg",
     "Assets/Maps/meletis_map.png",
     "Assets/Maps",
     "Compendium/books/mythic-odysseys-of-theros/1-welcome-to-theros.md",
-    "Compendium/backgrounds/Akroan Deserter.md",
-    "Compendium/bastions/Necropoikos.md",
-    "Compendium/classes/druid-xphb-circle-of-the-stars-xphb.md",
-    "Compendium/classes/barbarian-xphb-path-of-the-world-tree-xphb.md",
     "Compendium/classes/barbarian-xphb-path-of-the-wild-heart-xphb.md",
     "Compendium/classes/sorcerer-xphb-wild-magic-sorcery-xphb.md",
     "Compendium/classes/warlock-xphb-great-old-one-patron-xphb.md",
     "Compendium/classes/warlock-xphb-fiend-patron-xphb.md",
     "Compendium/classes/warlock-xphb-celestial-patron-xphb.md",
-    "Compendium/classes/wizard-xphb-illusionist-xphb.md",
-    "Compendium/classes/wizard-xphb-evoker-xphb.md",
-    "Compendium/classes/wizard-xphb-diviner-xphb.md",
     "Assets/born-of-the-gods/Brimaz King of Oreskos.png",
     "Assets/born-of-the-gods/Black Oak of Odunos.png",
     "Assets/born-of-the-gods/Bile Blight.png",

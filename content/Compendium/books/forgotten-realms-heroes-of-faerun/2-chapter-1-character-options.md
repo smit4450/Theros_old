@@ -21,7 +21,7 @@ This chapter presents eight new subclasses that are particularly appropriate for
 [Winter Walker](Compendium/classes/ranger-xphb-winter-walker-frhof.md): A Ranger of the North, wielding magic of cold and ice  
 [Scion of the Three](Agent%20of%20Death.md): A Rogue who taps into the deadly power of three evil gods—[Bane](Compendium/deities/faerunian-bane-frhof.md), [Bhaal](Compendium/deities/faerunian-bhaal-frhof.md), and [Myrkul](Compendium/deities/faerunian-myrkul-frhof.md)  
 [Spellfire Sorcery](Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md): A Sorcerer born with the ability to manipulate spellfire  
-[Bladesinger](Compendium/classes/wizard-xphb-bladesinger-frhof.md): A Wizard who has mastered an ancient elven technique of magical combat  
+[Bladesinger](Bladesinger.md): A Wizard who has mastered an ancient elven technique of magical combat  
 
 ## Backgrounds
 
