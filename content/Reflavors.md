@@ -17,17 +17,17 @@ Subclasses:
 * [[Phalanx Captain|Banneret]] -> [[Phalanx Captain]]
 * [[Agent of Death|Scion of the Three]] -> [[Agent of Death]]
 * [[Bladesinger|Bladesinger]] -> Elven to Meletian
+* [[Path of the Nykthos|Path of the World Tree]] -> [[Path of the Nykthos]]
+* [[College of Glamour|College of Glamour]] Feywild -> Sylvan
+* [[Warrior of Shadow|Warrior of Shadow]] Shadowfell -> Underworld
+* [[Fey Wanderer|Fey Wanderer]]
+* [[Gloom Stalker|Gloom Stalker]] Shadowfell -> Underworld
+* [[Aberrant Sorcery|Aberrant Sorcery]] -> removed out of world references
+* [[Anvilwrought Sorcery|Clockwork Sorcery]] -> [[Anvilwrought Sorcery]]
+* [[Wild Magic Sorcery|Wild Magic Sorcery]]
 
-* *[[Path of Nykthos|Path of the World Tree]] -> [[Path of Nykthos]]*
-
-* [[bard-xphb-college-of-glamour-xphb|College of Glamour]] Feywild -> Sylvan
-* [[monk-xphb-warrior-of-shadow-xphb|Warrior of Shadow]] Shadowfell -> Underworld
-* [[ranger-xphb-fey-wanderer-xphb|Fey Wanderer]] Feywild -> Sylvan
-* [[ranger-xphb-gloom-stalker-xphb|Gloom Stalker]] Shadowfell -> Underworld
-* [[sorcerer-xphb-aberrant-sorcery-xphb|Aberrant Sorcery]] 
-* [[sorcerer-xphb-clockwork-sorcery-xphb|Clockwork Sorcery]] -> Anvilwrought
-* [[sorcerer-xphb-wild-magic-sorcery-xphb|Wild Magic Sorcery]] -> Sylvan?
 * [[warlock-xphb-archfey-patron-xphb|Archfey Patron]] Fey -> Sylvan
+
 * [[warlock-xphb-fiend-patron-xphb|Fiend Patron]] -> Underworld
 * [[warlock-xphb-celestial-patron-xphb|Celestial Patron]] -> Pantheon
 * [[warlock-xphb-great-old-one-patron-xphb|Great Old One Patron]] -> Titan?
@@ -100,3 +100,8 @@ Fey/Moonshae:
 * [[fairy-trickster-frhof|Fairy Trickster]]
 * [[moonwell-pilgrim-frhof|Moonwell Pilgrim]] -> idk
 
+
+
+## Nymphs
+
+Divine servants that inhabit unspoiled corners of the world, nymphs protect places of natural power and infuse their surroundings with the magic of Nyx. Some are benevolent and aid those who live off the land, while others embody violent aspects of nature. In either case, nymphs generally avoid other sapient creatures, preferring to mind the cycles of nature, the daily interplay of wild animals, or other cosmic forces. Occasionally, though, groups of the same kind of nymphs congregate in a place of natural power or beauty. In times of special need, deities tied to facets of nature might employ nymphs as messengers, guardians, or scouts.

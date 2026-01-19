@@ -22,7 +22,7 @@ Storm with Rage, and wade into hand-to-hand combat. Then follow the Path of the.
 
 - [Path of the Berserker](Compendium/classes/barbarian-xphb-path-of-the-berserker-xphb.md) to unleash raw violence.  
 - [Path of the Wild Heart](Compendium/classes/barbarian-xphb-path-of-the-wild-heart-xphb.md) to manifest kinship with animals.  
-- [Path of the World Tree](Path%20of%20Nykthos.md) to tap into cosmic vitality.  
+- [Path of the World Tree](Path%20of%20the%20Nykthos.md) to tap into cosmic vitality.  
 - [Path of the Zealot](Compendium/classes/barbarian-xphb-path-of-the-zealot-xphb.md) to rage in union with a god.  
 
 ![](Compendium/books/players-handbook-2024/img/027-03-003-bard-symbol.webp#center)
@@ -32,7 +32,7 @@ Storm with Rage, and wade into hand-to-hand combat. Then follow the Path of the.
 Perform spells that inspire and heal allies or beguile foes. Then join the College of...
 
 - [College of Dance](Compendium/classes/bard-xphb-college-of-dance-xphb.md) to harness agility in battle.  
-- [College of Glamour](Compendium/classes/bard-xphb-college-of-glamour-xphb.md) to weave beguiling Feywild magic.  
+- [College of Glamour](College%20of%20Glamour.md) to weave beguiling Feywild magic.  
 - [College of Lore](Compendium/classes/bard-xphb-college-of-lore-xphb.md) to collect knowledge and magical secrets.  
 - [College of Valor](Compendium/classes/bard-xphb-college-of-valor-xphb.md) to wield weapons with spells.  
 
@@ -76,7 +76,7 @@ Master all weapons and armor. Then embody the...
 Dart in and out of melee while striking fast and hard. Then become a Warrior of...
 
 - [Warrior of Mercy](Compendium/classes/monk-xphb-warrior-of-mercy-xphb.md) to heal or harm with a touch.  
-- [Warrior of Shadow](Compendium/classes/monk-xphb-warrior-of-shadow-xphb.md) to employ shadows for subterfuge.  
+- [Warrior of Shadow](Warrior%20of%20Shadow.md) to employ shadows for subterfuge.  
 - [Warrior of the Elements](Compendium/classes/monk-xphb-warrior-of-the-elements-xphb.md) to wield elemental power.  
 - [Warrior of the Open Hand](Compendium/classes/monk-xphb-warrior-of-the-open-hand-xphb.md) to master unarmed combat.  
 
@@ -98,8 +98,8 @@ Smite foes and shield allies with divine and martial might. Then swear the Oath 
 Weave together martial prowess, nature magic, and survival skills. Then embody the...
 
 - [Beast Master](Compendium/classes/ranger-xphb-beast-master-xphb.md) to bond with a primal beast.  
-- [Fey Wanderer](Compendium/classes/ranger-xphb-fey-wanderer-xphb.md) to manifest fey mirth and fury.  
-- [Gloom Stalker](Compendium/classes/ranger-xphb-gloom-stalker-xphb.md) to hunt foes that lurk in darkness.  
+- [Fey Wanderer](Fey%20Wanderer.md) to manifest fey mirth and fury.  
+- [Gloom Stalker](Gloom%20Stalker.md) to hunt foes that lurk in darkness.  
 - [Hunter](Compendium/classes/ranger-xphb-hunter-xphb.md) to protect nature with martial versatility.  
 
 ![](Compendium/books/players-handbook-2024/img/034-03-010-rogue-symbol.webp#center)
@@ -119,10 +119,10 @@ Launch deadly Sneak Attacks while avoiding harm through stealth. Then embody the
 
 Wield magic innate to your being, shaping the power to your will. Then channel...
 
-- [Aberrant Sorcery](Compendium/classes/sorcerer-xphb-aberrant-sorcery-xphb.md) to use strange psionic magic.  
-- [Clockwork Sorcery](Compendium/classes/sorcerer-xphb-clockwork-sorcery-xphb.md) to harness cosmic forces of order.  
+- [Aberrant Sorcery](Aberrant%20Sorcery.md) to use strange psionic magic.  
+- [Clockwork Sorcery](Anvilwrought%20Sorcery.md) to harness cosmic forces of order.  
 - [Draconic Sorcery](Compendium/classes/sorcerer-xphb-draconic-sorcery-xphb.md) to breathe the magic of dragons.  
-- [Wild Magic Sorcery](Compendium/classes/sorcerer-xphb-wild-magic-sorcery-xphb.md) to unleash chaos magic.  
+- [Wild Magic Sorcery](Wild%20Magic%20Sorcery.md) to unleash chaos magic.  
 
 ![](Compendium/books/players-handbook-2024/img/036-03-012-warlock-symbol.webp#center)
 

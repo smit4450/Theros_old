@@ -60,6 +60,8 @@ The human polis of Akros maintains an outpost in the Katachthon Mountains to kee
 
 Similarly, cyclopes who prey on sheep learn never to eat the shepherd. Like the pit of a fruit, a discarded shepherd will eventually "grow" a new flock to feed the cyclopes.
 
+[[cyclops-sentry-xmm|Cyclops Sentry]], [[cyclops-oracle-xmm|Cyclops Oracle]]
+
 ![Cyclopes would rather stea...](Compendium/books/mythic-odysseys-of-theros/img/150-06-02.webp#center "Cyclopes would rather steal the bounty of smaller beings than toil themselves")
 
 ### Dragon
@@ -68,11 +70,11 @@ The dragons of Theros are barely capable of speech and sow destruction either in
 
 #### Blue Dragons
 
-Blue dragons live along the ocean shore in cliffside caves, from where they scan the waves for prey that swims or flies into their territory. Many experienced sea captains know the blue dragon lairs along the coastlines they ply and chart routes to avoid draconic scrutiny.
+[[blue-dragon-xmm|Blue Dragons]] live along the ocean shore in cliffside caves, from where they scan the waves for prey that swims or flies into their territory. Many experienced sea captains know the blue dragon lairs along the coastlines they ply and chart routes to avoid draconic scrutiny.
 
 #### Red Dragons
 
-Red dragons soar over mountain slopes and lowland valleys, feasting on cattle and those who tend herds. They often lair in dangerous mountain caves or volcanoes. Akroans revere red dragons and employ their images in the design of their armor, believing that the creatures embody the drive for power and dominion. Akroans sometimes settle near a red dragon's lair, forging tenuous alliances by making sacrifices of cattle or prisoners to gain its favor and protection.
+[[red-dragon-xmm|Red Dragons]] soar over mountain slopes and lowland valleys, feasting on cattle and those who tend herds. They often lair in dangerous mountain caves or volcanoes. Akroans revere red dragons and employ their images in the design of their armor, believing that the creatures embody the drive for power and dominion. Akroans sometimes settle near a red dragon's lair, forging tenuous alliances by making sacrifices of cattle or prisoners to gain its favor and protection.
 
 #### Immortal Perspective
 
@@ -80,7 +82,7 @@ Despite their arrogance and viciousness, dragons are long-lived and perceptive. 
 
 ### Kraken
 
-Krakens number among the most terrifying denizens of the sea, their wrath capable of ruining entire poleis. Under normal circumstances, each kraken is bound by a sea lock, a magical effect that restricts its travel. The area encompassed by the lock is large enough to enable the kraken to feed but prevents these near-immortal beings from raiding densely populated regions. Some stories claim that a seaquake or other natural disaster might break a sea lock and free the kraken to rage as it pleases. Other tales, though, suggest that sea locks emanate from ancient coral weapons buried in the ocean depths and that keep a kraken tied within a few hundred miles.
+[[Compendium/bestiary/monstrosity/kraken-xmm|Krakens]] number among the most terrifying denizens of the sea, their wrath capable of ruining entire poleis. Under normal circumstances, each kraken is bound by a sea lock, a magical effect that restricts its travel. The area encompassed by the lock is large enough to enable the kraken to feed but prevents these near-immortal beings from raiding densely populated regions. Some stories claim that a seaquake or other natural disaster might break a sea lock and free the kraken to rage as it pleases. Other tales, though, suggest that sea locks emanate from ancient coral weapons buried in the ocean depths and that keep a kraken tied within a few hundred miles. 
 
 #### Nadir Krakens
 
@@ -90,7 +92,7 @@ The largest and most devastating krakens, nadir krakens, dwell in the deepest oc
 
 ### Lamia
 
-When rage and despair at the gods' misdeeds consume a mortal mind, lamia comes into being. Most lamias in Theros are Nyxborn (described earlier in this "chapter"), owing their existence to their own twisted imagination, which has changed their physical nature to reflect their internal self. Lamias have wildly varying physical forms, ranging from a feline shape similar to the lamia in the "Monster Manual" to a more serpentine form similar to a yuan-ti. In each case, the lamia's body reflects the creature's corrupted instincts and predatory nature.
+When rage and despair at the gods' misdeeds consume a mortal mind, [[lamia-xmm|Lamia]] comes into being. Most lamias in Theros are Nyxborn (described earlier in this "chapter"), owing their existence to their own twisted imagination, which has changed their physical nature to reflect their internal self. Lamias have wildly varying physical forms, ranging from a feline shape similar to the lamia in the "Monster Manual" to a more serpentine form similar to a yuan-ti. In each case, the lamia's body reflects the creature's corrupted instincts and predatory nature.
 
 ### Medusa
 
@@ -106,7 +108,7 @@ The medusas of Theros differ from those in the "Monster Manual" in that they hav
 
 ### Night Hag
 
-Night hags on Theros appear as leathery-faced crones that hold their single eye within their withered lips as they stare with eyeless sockets. They usually build their huts in the Underworld, particularly around the towering pillars of basalt and granite within the Mire of Punishment (see "chapter 3"). There, amid the lamentations of those who have offended the gods, night hags inhale the smoke of toxic balefires. They follow the visions the smoke invokes to the dreams of vulnerable mortals where they sow the seeds of folly.
+[[night-hag-xmm|Night Hags]] on Theros appear as leathery-faced crones that hold their single eye within their withered lips as they stare with eyeless sockets. They usually build their huts in the Underworld, particularly around the towering pillars of basalt and granite within the Mire of Punishment (see "chapter 3"). There, amid the lamentations of those who have offended the gods, night hags inhale the smoke of toxic balefires. They follow the visions the smoke invokes to the dreams of vulnerable mortals where they sow the seeds of folly.
 
 A night hag senses the world around her with sensitive fingers, keen hearing, and the single eye she typically holds in her mouth. When a night hag uses her powers to transform, her eye often becomes a bauble or piece of jewelry she keeps close at all times.
 
@@ -115,6 +117,8 @@ A night hag senses the world around her with sensitive fingers, keen hearing, an
 ### Sphinx
 
 Sphinxes typically dwell in island sanctums, especially in the far reaches of the Dakra Isles. Many develop schools of philosophy or academic methods that they share with students they deem worthy, their ideas remarkable enough to seem akin to magic. Their age and wisdom also often allows them to predict what's to come as effectively as any oracle.
+
+[[sphinx-of-lore-xmm|Sphinx of Lore]], [[sphinx-of-valor-xmm|Sphinx of Valor]], [[sphinx-of-wonder-xmm|Sphinx of Wonder]], [[sphinx-of-secrets-xmm|Sphinx of Secrets]]
 
 #### Riddles of the Sphinx
 
@@ -134,7 +138,7 @@ Throughout history, the wise and ancient androsphinx Medomai has appeared in Mel
 
 ### Unicorn
 
-Unicorns on Theros are closely tied to the mysteries of Nyx. They often appear in the dreams of those doing the work of goodly gods. In such dreams, they might guide the weary to solace, the forlorn to joy, and the heroic to their destiny. In the waking world, they often provide the same aid, sometimes appearing to step from dreams into reality. Those who follow unicorns might find the treasures of lost heroes, hallowed ruins, or grand omens from the gods.
+[[Compendium/bestiary/celestial/unicorn-xmm|Unicorns]] on Theros are closely tied to the mysteries of Nyx. They often appear in the dreams of those doing the work of goodly gods. In such dreams, they might guide the weary to solace, the forlorn to joy, and the heroic to their destiny. In the waking world, they often provide the same aid, sometimes appearing to step from dreams into reality. Those who follow unicorns might find the treasures of lost heroes, hallowed ruins, or grand omens from the gods.
 
 ## Bestiary
 

@@ -1611,7 +1611,7 @@ When characters leave the island after spending at least 1 day there, they might
 
 ##### Wild Magic Island
 
-Whenever a spell is cast on the island, the caster must roll on the Wild Magic Surge table from [chapter 3](Compendium/classes/sorcerer-xphb-wild-magic-sorcery-xphb.md) of the "Player's Handbook".
+Whenever a spell is cast on the island, the caster must roll on the Wild Magic Surge table from [chapter 3](Wild%20Magic%20Sorcery.md) of the "Player's Handbook".
 
 ### Underwater Adventures
 
