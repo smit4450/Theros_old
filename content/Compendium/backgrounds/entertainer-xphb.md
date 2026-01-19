@@ -11,7 +11,7 @@ aliases: ["Entertainer"]
 ![](Compendium/backgrounds/img/entertainer.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Charisma  
-- **Feat.** [Musician](Compendium/feats/musician-xphb.md)  
+- **Feat.** [Musician](Musician.md)  
 - **Skill Proficiencies.** [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Performance](Compendium/rules/skills.md#Performance)  
 - **Tool Proficiency.** Choose one kind of [Musical Instrument](Compendium/items/musical-instrument-xphb.md)  
 - **Equipment.** Choose A or B: (A) [Musical Instrument](Compendium/items/musical-instrument-xphb.md) (same as above), [2 Costumes](Compendium/items/costume-xphb.md), [Mirror](Compendium/items/mirror-xphb.md), [Perfume](Compendium/items/perfume-xphb.md), [Traveler's Clothes](Compendium/items/travelers-clothes-xphb.md), 11 GP; or (B) 50 GP  

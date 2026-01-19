@@ -11,7 +11,7 @@ aliases: ["Scribe"]
 ![](Compendium/backgrounds/img/scribe.webp#right)
 
 - **Ability Scores.** Dexterity, Intelligence, Wisdom  
-- **Feat.** [Skilled](Compendium/feats/skilled-xphb.md)  
+- **Feat.** [Skilled](Skilled.md)  
 - **Skill Proficiencies.** [Investigation](Compendium/rules/skills.md#Investigation), [Perception](Compendium/rules/skills.md#Perception)  
 - **Tool Proficiency.** [Calligrapher's Supplies](Compendium/items/calligraphers-supplies-xphb.md)  
 - **Equipment.** Choose A or B: (A) [Calligrapher's Supplies](Compendium/items/calligraphers-supplies-xphb.md), [Fine Clothes](Compendium/items/fine-clothes-xphb.md), [Lamp](Compendium/items/lamp-xphb.md), [Oil](Compendium/items/oil-xphb.md) (3 flasks), [Parchment](Compendium/items/parchment-xphb.md) (12 sheets), 23 GP; or (B) 50 GP  

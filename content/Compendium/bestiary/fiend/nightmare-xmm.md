@@ -22,7 +22,7 @@ aliases: ["Nightmare"]
 - **Habitat.** Planar (Lower Planes)  
 - **Treasure.** None  
 
-Nightmares resemble horses with flaming manes, burning hooves, and smoldering eyes. They terrorize weaker creatures and often ally with denizens of the Lower Planes in committing evil acts. These supernatural horses can innately travel between the Ethereal Plane and the Material Plane, and many know the locations of portals to the Lower Planes, the Shadowfell, and other sinister realms.
+Nightmares resemble horses with flaming manes, burning hooves, and smoldering eyes. They terrorize weaker creatures and often ally with denizens of the Underworld in committing evil acts. These supernatural horses can innately travel between the Underworld and the Material Plane, and many know the locations of portals to the Lower Plane.
 
 Nightmares' speed, resilience, and ability to gallop between planes of existence make them steeds coveted by evildoers. Roll on or choose a result from the Nightmare Riders table to inspire what might employ a nightmare steed.
 

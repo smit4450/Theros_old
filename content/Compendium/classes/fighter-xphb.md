@@ -72,7 +72,7 @@ Fighters master various weapon techniques, and a well-equipped Fighter always ha
 
 ### Fighting Style (Level 1)
 
-You have honed your martial prowess and gain a Fighting Style feat of your choice. [Defense](Compendium/feats/defense-xphb.md) is recommended.
+You have honed your martial prowess and gain a Fighting Style feat of your choice. [Defense](Defense.md) is recommended.
 
 Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
 
@@ -106,7 +106,7 @@ You gain a Fighter subclass of your choice. A subclass is a specialization that 
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
 
 ### Extra Attack (Level 5)
 
@@ -118,7 +118,7 @@ Whenever you activate your Second Wind with a [Bonus Action](Compendium/rules/va
 
 ### Ability Score Improvement (Level 6)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 7)
 
@@ -126,7 +126,7 @@ You gain a feature from your Fighter Subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Indomitable (Level 9)
 
@@ -148,7 +148,7 @@ You can attack three times instead of once whenever you take the [Attack](Compen
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Indomitable (Level 13)
 
@@ -162,7 +162,7 @@ You study your opponents and learn from each attack you make. If you make an att
 
 ### Ability Score Improvement (Level 14)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 15)
 
@@ -170,7 +170,7 @@ You gain a feature from your Fighter Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Action Surge (Level 17)
 
@@ -190,7 +190,7 @@ You gain a feature from your Fighter Subclass.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Combat Prowess](Compendium/feats/boon-of-combat-prowess-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Combat Prowess](Boon%20of%20Combat%20Prowess.md) is recommended.
 
 ### Three Extra Attacks (Level 20)
 

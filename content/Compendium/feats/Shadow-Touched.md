@@ -13,7 +13,7 @@ aliases:
 
 **Prerequisite**: 4th
 
-Your exposure to the Shadowfell's magic grants you the following benefits.
+Your exposure to the  Underworld's magic grants you the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 

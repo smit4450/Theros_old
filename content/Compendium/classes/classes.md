@@ -61,7 +61,7 @@ cssclasses:
 - [Sorcerer: Aberrant Sorcery](Aberrant%20Sorcery.md)
 - [Sorcerer: Clockwork Sorcery](Anvilwrought%20Sorcery.md)
 - [Sorcerer: Draconic Sorcery](./sorcerer-xphb-draconic-sorcery-xphb.md)
-- [Sorcerer: Spellfire Sorcery](./sorcerer-xphb-spellfire-sorcery-frhof.md)
+- [Sorcerer: Spellfire Sorcery](Spellfire%20Sorcery.md)
 - [Sorcerer: Wild Magic Sorcery](Wild%20Magic%20Sorcery.md)
 - [Sorcerer](./sorcerer-xphb.md)
 - [Warlock: Archfey Patron](Archfey%20Patron.md)

@@ -8,7 +8,7 @@ tags:
 aliases:
 - Purple Dragon Commandant
 ---
-# Purple Dragon Commandant
+# Commandant
 *Source: FRHoF p. 40*  
 
 **Prerequisite**: 4th or Proficiency with martial weapons

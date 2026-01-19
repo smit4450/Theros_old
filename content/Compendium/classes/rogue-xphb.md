@@ -112,7 +112,7 @@ As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you gi
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
 
 ### Cunning Strike (Level 5)
 
@@ -152,7 +152,7 @@ Whenever you make an ability check that uses one of your skill or tool proficien
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 9)
 
@@ -160,7 +160,7 @@ You gain a feature from your Rogue Subclass.
 
 ### Ability Score Improvement (Level 10)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Improved Cunning Strike (Level 11)
 
@@ -168,7 +168,7 @@ You can use up to two Cunning Strike effects when you deal Sneak Attack damage, 
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 13)
 
@@ -196,7 +196,7 @@ Your cunning mind is exceptionally difficult to control. You gain proficiency in
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 17)
 
@@ -208,7 +208,7 @@ You're so evasive that attackers rarely gain the upper hand against you. No atta
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of the Night Spirit](Compendium/feats/boon-of-the-night-spirit-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of the Night Spirit](Boon%20of%20the%20Night%20Spirit.md) is recommended.
 
 ### Stroke of Luck (Level 20)
 

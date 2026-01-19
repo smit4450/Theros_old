@@ -143,7 +143,7 @@ You gain a Cleric subclass of your choice. A subclass is a specialization that g
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
 
 ### Sear Undead (Level 5)
 
@@ -167,7 +167,7 @@ Add your Wisdom modifier to the damage you deal with any Cleric cantrip.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Divine Intervention (Level 10)
 
@@ -175,7 +175,7 @@ You can call on your deity or pantheon to intervene on your behalf. As a [Magic]
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Improved Blessed Strikes (Level 14)
 
@@ -191,7 +191,7 @@ When you cast a Cleric cantrip and deal damage to a creature with it, you can gi
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 17)
 
@@ -199,7 +199,7 @@ You gain a feature from your Cleric Subclass.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Fate](Compendium/feats/boon-of-fate-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Fate](Boon%20of%20Fate.md) is recommended.
 
 ### Greater Divine Intervention (Level 20)
 

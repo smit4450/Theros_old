@@ -21,12 +21,12 @@ aliases: ["Shadow"]
 
 *Disembodied, Life-Drinking Shade*
 
-- **Habitat.** Planar (Shadowfell), Underdark, Urban  
+- **Habitat.** Planar (Underworld), Urban  
 - **Treasure.** None  
 
 Shadows are incorporeal Undead that feed on life. They resent the living for possessing the potential and vitality lost to them.
 
-Shadows lurk in dark, lonely places, typically sites that were meaningful to them in life or cursed places with ties to death, sinister magic, or the Shadowfell. Their victims rise as new shadows and prey on the living.
+Shadows lurk in dark, lonely places, typically sites that were meaningful to them in life or cursed places with ties to death, sinister magic, or the Underworld. Their victims rise as new shadows and prey on the living.
 
 Shadows might resemble the silhouettes of who they were in life or take on more menacing forms. Roll on or choose a result from the Shadow Shapes table to inspire a shadow's form and haunting.
 

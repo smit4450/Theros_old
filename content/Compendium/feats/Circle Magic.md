@@ -8,7 +8,7 @@ tags:
 aliases:
 - Enclave Magic
 ---
-# Enclave Magic
+# Circle Magic
 *Source: FRHoF p. 39*  
 
 **Prerequisite**: 4th

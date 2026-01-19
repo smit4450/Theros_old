@@ -137,7 +137,7 @@ You gain a Warlock subclass of your choice. A subclass is a specialization that 
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
 ### Subclass Feature (Level 6)
 
@@ -145,7 +145,7 @@ You gain a feature from your Warlock subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
 
 ### Contact Patron (Level 9)
 
@@ -169,7 +169,7 @@ Whenever you gain a Warlock level, you can replace one of your arcanum spells wi
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
 
 ### Mystic Arcanum (Level 13)
 
@@ -185,7 +185,7 @@ You gain a level 8 Warlock Spell of your choice.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
 
 ### Mystic Arcanum (Level 17)
 
@@ -193,7 +193,7 @@ You gain a level 9 Warlock Spell of your choice.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Fate](Compendium/feats/boon-of-fate-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Fate](Boon%20of%20Fate.md) is recommended.
 
 ### Eldritch Master (Level 20)
 

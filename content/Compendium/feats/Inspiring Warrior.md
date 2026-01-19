@@ -8,7 +8,7 @@ tags:
 aliases:
 - Lords' Alliance Agent
 ---
-# Lords' Alliance Agent
+# Inspiring Warrior
 *Source: FRHoF p. 38*  
 
 You gain the following benefits.

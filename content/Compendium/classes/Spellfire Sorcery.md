@@ -52,7 +52,7 @@ aliases:
 
 Your innate power stems from the source of magic itself: the Weave. This connection manifests as a rare ability known as spellfire, and you surge with radiant bursts of this raw magic. Your talent with spellfire allows you to heal allies, sear enemies, and absorb powerful spells.
 
-Wielders of spellfire tend to have a penchant for wandering. Many travel between cosmopolitan settlements, such as those along the Sword Coast, and wield their magic in service of the common good. Others realize their own strange powers by roaming equally strange lands, from the magic-blasted wastes of the desert of Anauroch to the god-touched wilds of the Old Empires. Wherever they go in the Realms, spellfire Sorcerers are courted by factions with interests in the arcane arts, such as the Harpers, Cult of the Dragon, and Red Wizards.
+Wielders of spellfire tend to have a penchant for wandering. Many travel between the poleis, and wield their magic in service of the common good. Others realize their own strange powers by roaming equally strange lands, from the Dakra Isles to the Nessian Wood. Wherever they go in the world, spellfire Sorcerers are courted by factions with interests in the arcane arts, such as the scholars of Meletis or agents of Keranos.
 
 ### Spellfire Burst (Level 3)
 
@@ -86,7 +86,7 @@ Additionally, whenever a target fails the saving throw against a [Counterspell](
 
 ### Honed Spellfire (Level 14)
 
-Your [Spellfire Burst](Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md#Spellfire%20Burst%20(Level%203)) improves. You add your [Sorcerer](Compendium/classes/sorcerer-xphb.md) level to the [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) gained from [Bolstering Flames](Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md#Bolstering%20Flames%20(Level%203)), and the damage of [Radiant Fire](Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md#Radiant%20Fire%20(Level%203)) increases to `1d8`.
+Your [Spellfire Burst](Spellfire%20Sorcery.md#Spellfire%20Burst%20(Level%203)) improves. You add your [Sorcerer](Compendium/classes/sorcerer-xphb.md) level to the [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) gained from [Bolstering Flames](Spellfire%20Sorcery.md#Bolstering%20Flames%20(Level%203)), and the damage of [Radiant Fire](Spellfire%20Sorcery.md#Radiant%20Fire%20(Level%203)) increases to `1d8`.
 
 ### Crown of Spellfire (Level 18)
 

@@ -20,7 +20,7 @@ This chapter presents eight new subclasses that are particularly appropriate for
 [Oath of the Noble Genies](Compendium/classes/paladin-xphb-oath-of-the-noble-genies-frhof.md): A Paladin empowered by the elemental magic of the genies of Calimshan  
 [Winter Walker](Compendium/classes/ranger-xphb-winter-walker-frhof.md): A Ranger of the North, wielding magic of cold and ice  
 [Scion of the Three](Agent%20of%20Death.md): A Rogue who taps into the deadly power of three evil godsâ€”[Bane](Compendium/deities/faerunian-bane-frhof.md), [Bhaal](Compendium/deities/faerunian-bhaal-frhof.md), and [Myrkul](Compendium/deities/faerunian-myrkul-frhof.md)  
-[Spellfire Sorcery](Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md): A Sorcerer born with the ability to manipulate spellfire  
+[Spellfire Sorcery](Spellfire%20Sorcery.md): A Sorcerer born with the ability to manipulate spellfire  
 [Bladesinger](Bladesinger.md): A Wizard who has mastered an ancient elven technique of magical combat  
 
 ## Backgrounds
@@ -31,7 +31,7 @@ Ten of these new backgrounds correspond to regions of the Forgotten Realms descr
 
 Seven of these backgrounds are related to factions described in "chapter 6"; these backgrounds are listed in the "Faction Backgrounds" table. These backgrounds describe the training associated with a faction but aren't required for affiliation or membership with that faction.
 
-Finally, the [Spellfire Initiate](Compendium/backgrounds/spellfire-initiate-frhof.md) background represents characters born with the ability to manipulate spellfire, which is described in "chapter 5". This background, along with the related feats later in this chapter, can represent a character of any class with a talent for spellfire. Sorcerer characters with this background might also choose the [Spellfire Sorcery](Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md) subclass presented earlier in this chapter.
+Finally, the [Spellfire Initiate](Spellfire%20Initiate.md) background represents characters born with the ability to manipulate spellfire, which is described in "chapter 5". This background, along with the related feats later in this chapter, can represent a character of any class with a talent for spellfire. Sorcerer characters with this background might also choose the [Spellfire Sorcery](Spellfire%20Sorcery.md) subclass presented earlier in this chapter.
 
 ![Regional Backgrounds](Compendium/tables/regional-backgrounds-frhof.md)
 
@@ -45,40 +45,40 @@ This section's feats are organized by categoryâ€”Origin, General, or Epic Boonâ€
 
 | Feat | Category |
 |------|----------|
-| [Boon of Bloodshed](Compendium/feats/boon-of-bloodshed-frhof.md) | Epic Boon |
-| [Boon of Bountiful Health](Compendium/feats/boon-of-bountiful-health-frhof.md) | Epic Boon |
-| [Boon of Communication](Compendium/feats/boon-of-communication-frhof.md) | Epic Boon |
-| [Boon of Desperate Resilience](Compendium/feats/boon-of-desperate-resilience-frhof.md) | Epic Boon |
-| [Boon of Exquisite Radiance](Compendium/feats/boon-of-exquisite-radiance-frhof.md) | Epic Boon |
-| [Boon of Fluid Forms](Compendium/feats/boon-of-fluid-forms-frhof.md) | Epic Boon |
-| [Boon of Fortune's Favor](Compendium/feats/boon-of-fortunes-favor-frhof.md) | Epic Boon |
-| [Boon of Poison Mastery](Compendium/feats/boon-of-poison-mastery-frhof.md) | Epic Boon |
-| [Boon of Revelry](Compendium/feats/boon-of-revelry-frhof.md) | Epic Boon |
-| [Boon of Terror](Compendium/feats/boon-of-terror-frhof.md) | Epic Boon |
-| [Boon of the Bright Sun](Compendium/feats/boon-of-the-bright-sun-frhof.md) | Epic Boon |
-| [Boon of the Furious Storm](Compendium/feats/boon-of-the-furious-storm-frhof.md) | Epic Boon |
-| [Boon of the Soul Drinker](Compendium/feats/boon-of-the-soul-drinker-frhof.md) | Epic Boon |
-| [Cold Caster](Compendium/feats/cold-caster-frhof.md) | General |
+| [Boon of Bloodshed](Boon%20of%20Bloodshed.md) | Epic Boon |
+| [Boon of Bountiful Health](Boon%20of%20Bountiful%20Health.md) | Epic Boon |
+| [Boon of Communication](Boon%20of%20Communication.md) | Epic Boon |
+| [Boon of Desperate Resilience](Boon%20of%20Desperate%20Resilience.md) | Epic Boon |
+| [Boon of Exquisite Radiance](Boon%20of%20Exquisite%20Radiance.md) | Epic Boon |
+| [Boon of Fluid Forms](Boon%20of%20Fluid%20Forms.md) | Epic Boon |
+| [Boon of Fortune's Favor](Boon%20of%20Fortune's%20Favor.md) | Epic Boon |
+| [Boon of Poison Mastery](Boon%20of%20Poison%20Mastery.md) | Epic Boon |
+| [Boon of Revelry](Boon%20of%20Revelry.md) | Epic Boon |
+| [Boon of Terror](Boon%20of%20Terror.md) | Epic Boon |
+| [Boon of the Bright Sun](Boon%20of%20the%20Bright%20Sun.md) | Epic Boon |
+| [Boon of the Furious Storm](Boon%20of%20the%20Furious%20Storm.md) | Epic Boon |
+| [Boon of the Soul Drinker](Boon%20of%20the%20Soul%20Drinker.md) | Epic Boon |
+| [Cold Caster](Cold%20Caster.md) | General |
 | [Cult of the Dragon Initiate](Compendium/feats/cult-of-the-dragon-initiate-frhof.md) | Origin |
 | [Dragonscarred](Compendium/feats/dragonscarred-frhof.md) | General |
-| [Emerald Enclave Fledgling](Compendium/feats/emerald-enclave-fledgling-frhof.md) | Origin |
-| [Enclave Magic](Compendium/feats/enclave-magic-frhof.md) | General |
-| [Fairy Trickster](Compendium/feats/fairy-trickster-frhof.md) | General |
+| [Emerald Enclave Fledgling](Druid%20Fledgling.md) | Origin |
+| [Enclave Magic](Circle%20Magic.md) | General |
+| [Fairy Trickster](Fey%20Trickster.md) | General |
 | [Genie Magic](Compendium/feats/genie-magic-frhof.md) | General |
 | [Harper Agent](Compendium/feats/harper-agent-frhof.md) | Origin |
-| [Harper Teamwork](Compendium/feats/harper-teamwork-frhof.md) | General |
-| [Lordly Resolve](Compendium/feats/lordly-resolve-frhof.md) | General |
-| [Lords' Alliance Agent](Compendium/feats/lords-alliance-agent-frhof.md) | Origin |
-| [Mythal Touched](Compendium/feats/mythal-touched-frhof.md) | General |
-| [Order's Resilience](Compendium/feats/orders-resilience-frhof.md) | General |
-| [Purple Dragon Commandant](Compendium/feats/purple-dragon-commandant-frhof.md) | General |
-| [Purple Dragon Rook](Compendium/feats/purple-dragon-rook-frhof.md) | Origin |
-| [Spellfire Adept](Compendium/feats/spellfire-adept-frhof.md) | General |
-| [Spellfire Spark](Compendium/feats/spellfire-spark-frhof.md) | Origin |
-| [Street Justice](Compendium/feats/street-justice-frhof.md) | General |
-| [Tyro of the Gauntlet](Compendium/feats/tyro-of-the-gauntlet-frhof.md) | Origin |
-| [Zhentarim Ruffian](Compendium/feats/zhentarim-ruffian-frhof.md) | Origin |
-| [Zhentarim Tactics](Compendium/feats/zhentarim-tactics-frhof.md) | General |
+| [Harper Teamwork](Teamwork.md) | General |
+| [Lordly Resolve](Phalanx%20Captain's%20Resolve.md) | General |
+| [Lords' Alliance Agent](Inspiring%20Warrior.md) | Origin |
+| [Mythal Touched](Hieromancer%20Initiate.md) | General |
+| [Order's Resilience](Order's%20Resilience.md) | General |
+| [Purple Dragon Commandant](Commandant.md) | General |
+| [Purple Dragon Rook](Vanguard.md) | Origin |
+| [Spellfire Adept](Spellfire%20Adept.md) | General |
+| [Spellfire Spark](Spellfire%20Spark.md) | Origin |
+| [Street Justice](Street%20Justice.md) | General |
+| [Tyro of the Gauntlet](Stand%20Firm.md) | Origin |
+| [Zhentarim Ruffian](Ruffian.md) | Origin |
+| [Zhentarim Tactics](Dirty%20Tactics.md) | General |
 ^feat-list
 
 ## Origin Feats
@@ -86,46 +86,46 @@ This section's feats are organized by categoryâ€”Origin, General, or Epic Boonâ€
 These feats are in the Origin category.
 
 - [Cult of the Dragon Initiate](Compendium/feats/cult-of-the-dragon-initiate-frhof.md)  
-- [Emerald Enclave Fledgling](Compendium/feats/emerald-enclave-fledgling-frhof.md)  
+- [Emerald Enclave Fledgling](Druid%20Fledgling.md)  
 - [Harper Agent](Compendium/feats/harper-agent-frhof.md)  
-- [Lords' Alliance Agent](Compendium/feats/lords-alliance-agent-frhof.md)  
-- [Purple Dragon Rook](Compendium/feats/purple-dragon-rook-frhof.md)  
-- [Spellfire Spark](Compendium/feats/spellfire-spark-frhof.md)  
-- [Tyro of the Gauntlet](Compendium/feats/tyro-of-the-gauntlet-frhof.md)  
-- [Zhentarim Ruffian](Compendium/feats/zhentarim-ruffian-frhof.md)  
+- [Lords' Alliance Agent](Inspiring%20Warrior.md)  
+- [Purple Dragon Rook](Vanguard.md)  
+- [Spellfire Spark](Spellfire%20Spark.md)  
+- [Tyro of the Gauntlet](Stand%20Firm.md)  
+- [Zhentarim Ruffian](Ruffian.md)  
 
 ## General Feats
 
 These feats are in the General category.
 
-- [Cold Caster](Compendium/feats/cold-caster-frhof.md)  
+- [Cold Caster](Cold%20Caster.md)  
 - [Dragonscarred](Compendium/feats/dragonscarred-frhof.md)  
-- [Enclave Magic](Compendium/feats/enclave-magic-frhof.md)  
-- [Fairy Trickster](Compendium/feats/fairy-trickster-frhof.md)  
+- [Enclave Magic](Circle%20Magic.md)  
+- [Fairy Trickster](Fey%20Trickster.md)  
 - [Genie Magic](Compendium/feats/genie-magic-frhof.md)  
-- [Harper Teamwork](Compendium/feats/harper-teamwork-frhof.md)  
-- [Lordly Resolve](Compendium/feats/lordly-resolve-frhof.md)  
-- [Mythal Touched](Compendium/feats/mythal-touched-frhof.md)  
-- [Order's Resilience](Compendium/feats/orders-resilience-frhof.md)  
-- [Purple Dragon Commandant](Compendium/feats/purple-dragon-commandant-frhof.md)  
-- [Spellfire Adept](Compendium/feats/spellfire-adept-frhof.md)  
-- [Street Justice](Compendium/feats/street-justice-frhof.md)  
-- [Zhentarim Tactics](Compendium/feats/zhentarim-tactics-frhof.md)  
+- [Harper Teamwork](Teamwork.md)  
+- [Lordly Resolve](Phalanx%20Captain's%20Resolve.md)  
+- [Mythal Touched](Hieromancer%20Initiate.md)  
+- [Order's Resilience](Order's%20Resilience.md)  
+- [Purple Dragon Commandant](Commandant.md)  
+- [Spellfire Adept](Spellfire%20Adept.md)  
+- [Street Justice](Street%20Justice.md)  
+- [Zhentarim Tactics](Dirty%20Tactics.md)  
 
 ## Epic Boon Feats
 
 These are feats in the Epic Boon category.
 
-- [Boon of Bloodshed](Compendium/feats/boon-of-bloodshed-frhof.md)  
-- [Boon of Bountiful Health](Compendium/feats/boon-of-bountiful-health-frhof.md)  
-- [Boon of Communication](Compendium/feats/boon-of-communication-frhof.md)  
-- [Boon of Desperate Resilience](Compendium/feats/boon-of-desperate-resilience-frhof.md)  
-- [Boon of Exquisite Radiance](Compendium/feats/boon-of-exquisite-radiance-frhof.md)  
-- [Boon of Fluid Forms](Compendium/feats/boon-of-fluid-forms-frhof.md)  
-- [Boon of Fortune's Favor](Compendium/feats/boon-of-fortunes-favor-frhof.md)  
-- [Boon of Poison Mastery](Compendium/feats/boon-of-poison-mastery-frhof.md)  
-- [Boon of Revelry](Compendium/feats/boon-of-revelry-frhof.md)  
-- [Boon of Terror](Compendium/feats/boon-of-terror-frhof.md)  
-- [Boon of the Bright Sun](Compendium/feats/boon-of-the-bright-sun-frhof.md)  
-- [Boon of the Furious Storm](Compendium/feats/boon-of-the-furious-storm-frhof.md)  
-- [Boon of the Soul Drinker](Compendium/feats/boon-of-the-soul-drinker-frhof.md)
+- [Boon of Bloodshed](Boon%20of%20Bloodshed.md)  
+- [Boon of Bountiful Health](Boon%20of%20Bountiful%20Health.md)  
+- [Boon of Communication](Boon%20of%20Communication.md)  
+- [Boon of Desperate Resilience](Boon%20of%20Desperate%20Resilience.md)  
+- [Boon of Exquisite Radiance](Boon%20of%20Exquisite%20Radiance.md)  
+- [Boon of Fluid Forms](Boon%20of%20Fluid%20Forms.md)  
+- [Boon of Fortune's Favor](Boon%20of%20Fortune's%20Favor.md)  
+- [Boon of Poison Mastery](Boon%20of%20Poison%20Mastery.md)  
+- [Boon of Revelry](Boon%20of%20Revelry.md)  
+- [Boon of Terror](Boon%20of%20Terror.md)  
+- [Boon of the Bright Sun](Boon%20of%20the%20Bright%20Sun.md)  
+- [Boon of the Furious Storm](Boon%20of%20the%20Furious%20Storm.md)  
+- [Boon of the Soul Drinker](Boon%20of%20the%20Soul%20Drinker.md)

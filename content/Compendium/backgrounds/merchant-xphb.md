@@ -11,7 +11,7 @@ aliases: ["Merchant"]
 ![](Compendium/backgrounds/img/merchant.webp#right)
 
 - **Ability Scores.** Constitution, Intelligence, Charisma  
-- **Feat.** [Lucky](Compendium/feats/lucky-xphb.md)  
+- **Feat.** [Lucky](Lucky.md)  
 - **Skill Proficiencies.** [Animal Handling](Compendium/rules/skills.md#Animal%20Handling), [Persuasion](Compendium/rules/skills.md#Persuasion)  
 - **Tool Proficiency.** [Navigator's Tools](Compendium/items/navigators-tools-xphb.md)  
 - **Equipment.** Choose A or B: (A) [Navigator's Tools](Compendium/items/navigators-tools-xphb.md), [2 Pouches](Compendium/items/pouch-xphb.md), [Traveler's Clothes](Compendium/items/travelers-clothes-xphb.md), 22 GP; or (B) 50 GP  

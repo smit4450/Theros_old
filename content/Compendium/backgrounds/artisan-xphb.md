@@ -11,7 +11,7 @@ aliases: ["Artisan"]
 ![](Compendium/backgrounds/img/artisan.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Intelligence  
-- **Feat.** [Crafter](Compendium/feats/crafter-xphb.md)  
+- **Feat.** [Crafter](Crafter.md)  
 - **Skill Proficiencies.** [Investigation](Compendium/rules/skills.md#Investigation), [Persuasion](Compendium/rules/skills.md#Persuasion)  
 - **Tool Proficiency.** Choose one kind of [Artisan's Tools](Compendium/items/artisans-tools-xphb.md)  
 - **Equipment.** Choose A or B: (A) [Artisan's Tools](Compendium/items/artisans-tools-xphb.md) (same as above), 2 [Pouches](Compendium/items/pouch-xphb.md), [Traveler's Clothes](Compendium/items/travelers-clothes-xphb.md), 32 GP; or (B) 50 GP  

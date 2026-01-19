@@ -11,7 +11,7 @@ aliases: ["Hermit"]
 ![](Compendium/backgrounds/img/hermit.webp#right)
 
 - **Ability Scores.** Constitution, Wisdom, Charisma  
-- **Feat.** [Healer](Compendium/feats/healer-xphb.md)  
+- **Feat.** [Healer](Healer.md)  
 - **Skill Proficiencies.** [Medicine](Compendium/rules/skills.md#Medicine), [Religion](Compendium/rules/skills.md#Religion)  
 - **Tool Proficiency.** [Herbalism Kit](Compendium/items/herbalism-kit-xphb.md)  
 - **Equipment.** Choose A or B: (A) [Quarterstaff](Compendium/items/quarterstaff-xphb.md), [Herbalism Kit](Compendium/items/herbalism-kit-xphb.md), [Bedroll](Compendium/items/bedroll-xphb.md), [Book](Compendium/items/book-xphb.md) (philosophy), [Lamp](Compendium/items/lamp-xphb.md), [Oil](Compendium/items/oil-xphb.md) (3 flasks), [Traveler's Clothes](Compendium/items/travelers-clothes-xphb.md), 16 GP; or (B) 50 GP  

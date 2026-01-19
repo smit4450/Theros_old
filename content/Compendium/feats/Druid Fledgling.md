@@ -8,7 +8,7 @@ tags:
 aliases:
 - Emerald Enclave Fledgling
 ---
-# Emerald Enclave Fledgling
+# Druid Fledgling
 *Source: FRHoF p. 37*  
 
 You gain the following benefits.

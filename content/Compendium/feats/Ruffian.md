@@ -8,7 +8,7 @@ tags:
 aliases:
 - Zhentarim Ruffian
 ---
-# Zhentarim Ruffian
+# Ruffian
 *Source: FRHoF p. 38*  
 
 You gain the following benefits.

@@ -11,7 +11,7 @@ aliases: ["Charlatan"]
 ![](Compendium/backgrounds/img/charlatan.webp#right)
 
 - **Ability Scores.** Dexterity, Constitution, Charisma  
-- **Feat.** [Skilled](Compendium/feats/skilled-xphb.md)  
+- **Feat.** [Skilled](Skilled.md)  
 - **Skill Proficiencies.** [Deception](Compendium/rules/skills.md#Deception), [Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)  
 - **Tool Proficiency.** [Forgery Kit](Compendium/items/forgery-kit-xphb.md)  
 - **Equipment.** Choose A or B: (A) [Forgery Kit](Compendium/items/forgery-kit-xphb.md), [Costume](Compendium/items/costume-xphb.md), [Fine Clothes](Compendium/items/fine-clothes-xphb.md), 15 GP; or (B) 50 GP  

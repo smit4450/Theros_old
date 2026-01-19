@@ -149,7 +149,7 @@ You gain a Paladin subclass of your choice. A subclass is a specialization that 
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
 
 ### Extra Attack (Level 5)
 
@@ -175,7 +175,7 @@ You gain a feature from your Paladin Subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
 
 ### Abjure Foes (Level 9)
 
@@ -191,7 +191,7 @@ Your strikes now carry supernatural power. When you hit a target with an attack 
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
 
 ### Restoring Touch (Level 14)
 
@@ -203,7 +203,7 @@ You gain a feature from your Paladin Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
 
 ### Aura Expansion (Level 18)
 
@@ -211,7 +211,7 @@ Your Aura of Protection is now a 30-foot [Emanation](Compendium/rules/variant-ru
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Truesight](Compendium/feats/boon-of-truesight-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Truesight](Boon%20of%20Truesight.md) is recommended.
 
 ### Subclass Feature (Level 20)
 

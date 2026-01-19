@@ -31,7 +31,7 @@ As a [Magic](Compendium/rules/actions.md#Magic) action, you touch a creature tha
 
 ## Dismissal
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you target one creature you can see within 5 feet of you that has one of the creature types above. The target must succeed on a Charisma saving throw or be sent back to its home plane if it isn't there already. If they aren't on their home plane, Undead are sent to the Shadowfell, and Fey are sent to the Feywild.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you target one creature you can see within 5 feet of you that has one of the creature types above. The target must succeed on a Charisma saving throw or be sent back to its home plane if it isn't there already. If they aren't on their home plane, Undead are sent to the Underworld, and Fey are sent to their place of origin.
 
 ## Summary
 

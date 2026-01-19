@@ -38,6 +38,6 @@ cssclasses:
 - [Scribe](./scribe-xphb.md)
 - [Shadowmasters Exile](./shadowmasters-exile-frhof.md)
 - [Soldier](./soldier-xphb.md)
-- [Spellfire Initiate](./spellfire-initiate-frhof.md)
+- [Spellfire Initiate](Spellfire%20Initiate.md)
 - [Wayfarer](./wayfarer-xphb.md)
 - [Zhentarim Mercenary](./zhentarim-mercenary-frhof.md)

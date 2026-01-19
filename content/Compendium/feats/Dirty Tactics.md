@@ -8,7 +8,7 @@ tags:
 aliases:
 - Zhentarim Tactics
 ---
-# Zhentarim Tactics
+# Dirty Tactics
 *Source: FRHoF p. 41*  
 
 **Prerequisite**: 4th

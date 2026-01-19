@@ -2042,28 +2042,6 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
 > [!embed-monster]- Deva
 > ![Deva](Compendium/bestiary/celestial/deva-xmm.md#^statblock)
 
-### Displacer Beast
-
-**Displacer Beast.** *Deceptive Feline Stalker*
-
-- **Habitat.** Forest  
-- **Treasure.** None  
-
-A displacer beast resembles a gaunt, six-legged panther with a barbed tentacle sprouting from each of its shoulders. This predator uses innate magic to displace light so it appears to be several feet away from its actual location.
-
-Displacer beasts hunt not just to feed but because they enjoy killing. Once displacer beasts begin stalking prey, they can't be deterred until either they or their quarry is slain. While displacer beasts commonly inhabit dense forests, they might pursue travelers across great distances and even into cities or dungeons. More cunning than mere animals, these predators might set ambushes or lie hidden for days to bring down their prey.
-
-Displacer beasts sometimes pursue prey through portals to other planes of existence. As a result, these predators can be found across the multiverse, particularly on the worlds of the Material Plane, in the Shadowfell, and in the Feywild. These restless hunters can destroy a land's natural balance and drive other creatures to extinction. As a result, many druid circles and Fey view displacer beasts as deadly threats.
-
-> [!quote] A quote from Jen-Ahb, Naturalist and Displacer Beast Survivor  
-> 
-> The murderous fury of a displacer beast is fit only for nightmares, of which I've been haunted since narrowly escaping one's ambush. I'm certain that beast stalks me still.
-
-![](Compendium/books/monster-manual-2025/img/104-04-008-displacer-beasts.webp#center)
-
-> [!embed-monster]- Displacer Beast
-> ![Displacer Beast](Compendium/bestiary/monstrosity/displacer-beast-xmm.md#^statblock)
-
 ### Djinni
 
 **Djinni.** *Genie of the Air*
@@ -3879,22 +3857,6 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
 > ![Jackalwere](Compendium/bestiary/fiend/jackalwere-xmm.md#^statblock)
 
 ## Monsters (K)
-
-### Kenku
-
-**Kenku.** *Flightless, Noise-Mimicking Avian*
-
-- **Habitat.** Forest, Planar (Shadowfell), Urban  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
-
-Kenku are birdlike folk who once soared the skies and sang enchanted songs, but a curse stole their wings and transformed their voices. Now kenku slip through the shadows of cities and the Shadowfell, trying to recover what they've lost. To some, this means seeking an end to their curse; others search for magic or contraptions to enable them to fly and sing again.
-
-The curse affecting kenku allows them to vocally communicate only by mimicking sounds they've heard. Kenku can supernaturally re-create vast varieties of noises, from crying babies to running water and short phrases in others' voices. Cunning kenku use their mimicry to deceive foes, lure creatures into ambushes, and signal to allies.
-
-> [!embed-monster]- Kenku
-> ![Kenku](Compendium/bestiary/monstrosity/kenku-xmm.md#^statblock)
-
-![](Compendium/books/monster-manual-2025/img/179-11-001-kenku.webp#center)
 
 ### Knights
 

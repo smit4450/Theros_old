@@ -133,7 +133,7 @@ You gain a Ranger subclass of your choice. A subclass is a specialization that g
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 
 ### Extra Attack (Level 5)
 
@@ -149,7 +149,7 @@ You gain a feature from your Ranger Subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Expertise (Level 9)
 
@@ -173,7 +173,7 @@ You gain a feature from your Ranger Subclass.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Relentless Hunter (Level 13)
 
@@ -191,7 +191,7 @@ You gain a feature from your Ranger Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Precise Hunter (Level 17)
 
@@ -203,7 +203,7 @@ Your connection to the forces of nature grants you [Blindsight](Compendium/rules
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Dimensional Travel](Compendium/feats/boon-of-dimensional-travel-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Dimensional Travel](Boon%20of%20Dimensional%20Travel.md) is recommended.
 
 ### Foe Slayer (Level 20)
 

@@ -8,7 +8,7 @@ tags:
 aliases:
 - Harper Teamwork
 ---
-# Harper Teamwork
+# Teamwork
 *Source: FRHoF p. 39*  
 
 **Prerequisite**: 4th

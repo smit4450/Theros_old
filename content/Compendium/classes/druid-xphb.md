@@ -174,7 +174,7 @@ You gain a Druid subclass of your choice. A subclass is a specialization that gr
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
 ### Wild Resurgence (Level 5)
 
@@ -200,7 +200,7 @@ Once on each of your turns when you hit a creature with an attack roll using a w
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 10)
 
@@ -208,7 +208,7 @@ You gain a feature from your Druid Subclass.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 14)
 
@@ -228,7 +228,7 @@ The extra damage of your Primal Strike increases to `2d8`.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
 
 ### Beast Spells (Level 18)
 
@@ -236,7 +236,7 @@ While using Wild Shape, you can cast spells in Beast form, except for any spell 
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Dimensional Travel](Compendium/feats/boon-of-dimensional-travel-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Dimensional Travel](Boon%20of%20Dimensional%20Travel.md) is recommended.
 
 ### Archdruid (Level 20)
 

@@ -11,7 +11,7 @@ aliases: ["Wayfarer"]
 ![](Compendium/backgrounds/img/wayfarer.webp#right)
 
 - **Ability Scores.** Dexterity, Wisdom, Charisma  
-- **Feat.** [Lucky](Compendium/feats/lucky-xphb.md)  
+- **Feat.** [Lucky](Lucky.md)  
 - **Skill Proficiencies.** [Insight](Compendium/rules/skills.md#Insight), [Stealth](Compendium/rules/skills.md#Stealth)  
 - **Tool Proficiency.** [Thieves' Tools](Compendium/items/thieves-tools-xphb.md)  
 - **Equipment.** Choose A or B: (A) [2 Daggers](Compendium/items/dagger-xphb.md), [Thieves' Tools](Compendium/items/thieves-tools-xphb.md), [Gaming Set](Compendium/items/gaming-set-xphb.md) (any), [Bedroll](Compendium/items/bedroll-xphb.md), [2 Pouches](Compendium/items/pouch-xphb.md), [Traveler's Clothes](Compendium/items/travelers-clothes-xphb.md), 16 GP; or (B) 50 GP  

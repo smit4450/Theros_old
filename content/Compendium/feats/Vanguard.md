@@ -8,7 +8,7 @@ tags:
 aliases:
 - Purple Dragon Rook
 ---
-# Purple Dragon Rook
+# Vanguard
 *Source: FRHoF p. 38*  
 
 You gain the following benefits.

@@ -8,18 +8,18 @@ tags:
 aliases:
 - Mythal Touched
 ---
-# Mythal Touched
+# Hieromancer Initiate
 *Source: FRHoF p. 40*  
 
 **Prerequisite**: 4th
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 
-**Mythal Ward.** If a spell attack hits you or you fail a saving throw against a spell, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to roll on the Mythal-Touched [Magic](Compendium/rules/actions.md#Magic) table to create a magical effect. If an effect requires a saving throw, the DC equals 8 plus the modifier of the ability increased by this feat and your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md).
+**Ward.** If a spell attack hits you or you fail a saving throw against a spell, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to roll on the Hieromancer Initiate [Magic](Compendium/rules/actions.md#Magic) table to create a magical effect. If an effect requires a saving throw, the DC equals 8 plus the modifier of the ability increased by this feat and your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md).
 
 You can use this benefit a number of times equal to your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
 
-**Mythal-Touched Magic**
+**Hieromancer Initiate Magic**
 
 | dice: 1d20 | Effect |
 |------------|--------|

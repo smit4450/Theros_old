@@ -8,7 +8,7 @@ tags:
 aliases:
 - Tyro of the Gauntlet
 ---
-# Tyro of the Gauntlet
+# Stand Firm
 *Source: FRHoF p. 38*  
 
 You gain the following benefits.

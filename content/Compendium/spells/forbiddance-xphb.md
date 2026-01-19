@@ -22,7 +22,7 @@ aliases: ["Forbiddance"]
 - **Components:** V, S, M (ruby dust worth 1,000+ GP)
 - **Duration:** 1 day
 
-You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the [Gate](Compendium/spells/gate-xphb.md) spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal Plane, the Feywild, the Shadowfell, or the [Plane Shift](Compendium/spells/plane-shift-xphb.md) spell.
+You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the [Gate](Compendium/spells/gate-xphb.md) spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the [Plane Shift](Compendium/spells/plane-shift-xphb.md) spell.
 
 In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: Aberrations, Celestials, Elementals, Fey, Fiends, and Undead. When a creature of a chosen type enters the spell's area for the first time on a turn or ends its turn there, the creature takes `5d10` Radiant or Necrotic damage (your choice when you cast this spell).
 

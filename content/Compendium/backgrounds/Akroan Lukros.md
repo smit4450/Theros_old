@@ -11,7 +11,7 @@ aliases: ["Flaming Fist Mercenary"]
 ![](Compendium/backgrounds/img/flaming-fist-mercenary.webp#right)
 
 - **Ability Scores.** Strength, Constitution, Charisma  
-- **Feat.** [Tough](Compendium/feats/tough-xphb.md)  
+- **Feat.** [Tough](Tough.md)  
 - **Skill Proficiencies.** [Intimidation](Compendium/rules/skills.md#Intimidation) and [Perception](Compendium/rules/skills.md#Perception)  
 - **Tool Proficiencies.** [Smith's Tools](Compendium/items/smiths-tools-xphb.md)  
 - **Equipment.** Choose A or B: (A) [Mace](Compendium/items/mace-xphb.md), [Smith's Tools](Compendium/items/smiths-tools-xphb.md), [Fine Clothes](Compendium/items/fine-clothes-xphb.md), [Manacles](Compendium/items/manacles-xphb.md), [Portable Ram](Compendium/items/portable-ram-xphb.md), 4 GP; or (B) 50 GP  

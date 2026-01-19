@@ -136,7 +136,7 @@ In addition, while your Rage is active, you can channel primal power when you at
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 
 ### Extra Attack (Level 5)
 
@@ -160,7 +160,7 @@ As part of the [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.m
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Brutal Strike (Level 9)
 
@@ -186,7 +186,7 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Improved Brutal Strike (Level 13)
 
@@ -212,7 +212,7 @@ In addition, your Rage is so fierce that it now lasts for 10 minutes without you
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Compendium/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
 
 ### Improved Brutal Strike (Level 17)
 
@@ -224,7 +224,7 @@ If your total for a Strength check or Strength saving throw is less than your St
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Irresistible Offense](Compendium/feats/boon-of-irresistible-offense-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Irresistible Offense](Boon%20of%20Irresistible%20Offense.md) is recommended.
 
 ### Primal Champion (Level 20)
 

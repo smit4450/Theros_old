@@ -75,18 +75,18 @@ These supernatural gifts are intended for starting characters, but some might be
 > 
 > If your campaign uses the optional feat rules from "chapter 6" of the "Player's Handbook", your Dungeon Master might allow you to take a feat as a variant supernatural gift. You gain one feat of your choice. This list suggests twelve feats from the "Player's Handbook", but you can choose any feat your DM allows:
 > 
-> - A snake emerged from my mouth before I took my first breath—an omen of my gift for deception. ([Actor](Compendium/feats/actor-xphb.md))  
-> - I hear voices on the wind, warning me of danger. ([Alert](Compendium/feats/alert-xphb.md))  
-> - Iroas gifted me with physical prowess, intending to see me compete in the Iroan Games. ([Athlete](Compendium/feats/athlete-xphb.md))  
-> - I feel the vitality of the earth beneath my feet, and it refreshes my strength when I rest on it. ([Durable](Compendium/feats/durable-xphb.md))  
-> - The stars of Nyx are never hidden from my sight, revealing their secrets to my eyes. ([Keen Mind](Compendium/feats/keen-mind-xphb.md))  
+> - A snake emerged from my mouth before I took my first breath—an omen of my gift for deception. ([Actor](Actor.md))  
+> - I hear voices on the wind, warning me of danger. ([Alert](Alert.md))  
+> - Iroas gifted me with physical prowess, intending to see me compete in the Iroan Games. ([Athlete](Athlete.md))  
+> - I feel the vitality of the earth beneath my feet, and it refreshes my strength when I rest on it. ([Durable](Durable.md))  
+> - The stars of Nyx are never hidden from my sight, revealing their secrets to my eyes. ([Keen Mind](Keen%20Mind.md))  
 > - I hear the echoes of the gods' speech in every mortal language and trace the patterns of Nyx in the written word. (Linguist)  
-> - The gods smile on me, but I dread the day when they withdraw their favor and my luck runs out. ([Lucky](Compendium/feats/lucky-xphb.md))  
-> - As a child, I used to run through the woods and play with a giant lynx—which, I learned later, was an emissary of Nylea. ([Mobile](Compendium/feats/speedy-xphb.md))  
-> - The sun's light brings what is hidden to clear view in my eyes. ([Observant](Compendium/feats/observant-xphb.md))  
-> - I ate a magical fruit that blessed me with extraordinary resilience. ([Resilient](Compendium/feats/resilient-xphb.md))  
-> - I studied with a supernatural tutor. ([Skilled](Compendium/feats/skilled-xphb.md))  
-> - I was bathed in the waters of a mystic river that left my skin resistant to harm—and glittering with starlight. ([Tough](Compendium/feats/tough-xphb.md))  
+> - The gods smile on me, but I dread the day when they withdraw their favor and my luck runs out. ([Lucky](Lucky.md))  
+> - As a child, I used to run through the woods and play with a giant lynx—which, I learned later, was an emissary of Nylea. ([Mobile](Speedy.md))  
+> - The sun's light brings what is hidden to clear view in my eyes. ([Observant](Observant.md))  
+> - I ate a magical fruit that blessed me with extraordinary resilience. ([Resilient](Resilient.md))  
+> - I studied with a supernatural tutor. ([Skilled](Skilled.md))  
+> - I was bathed in the waters of a mystic river that left my skin resistant to harm—and glittering with starlight. ([Tough](Tough.md))  
 ^heroic-feats
 
 > [!note] Myths of Theros

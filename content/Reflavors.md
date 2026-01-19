@@ -9,8 +9,8 @@ Backgrounds:
 * [[Setessan Peregrine|Rashemi Wanderer]] -> [[Setessan Peregrine]]
 
 Feats:
-* [[orders-resilience-frhof|Order's Resilience]] -> fine
-* [[street-justice-frhof|Street Justice]] -> fine
+* [[Order's Resilience|Order's Resilience]] -> fine
+* [[Street Justice|Street Justice]] -> fine
 
 Subclasses:
 * [[cleric-xphb-knowledge-domain-frhof|Knowledge Domain]] -> changed list of gods
@@ -34,20 +34,20 @@ Subclasses:
 #### By topic:
 
 Spellfire:
-* [[sorcerer-xphb-spellfire-sorcery-frhof|Spellfire Sorcery]]
-* [[spellfire-adept-frhof|Spellfire Adept]]
-* [[spellfire-initiate-frhof|Spellfire Initiate]]
+* [[Spellfire Sorcery|Spellfire Sorcery]]
+* [[Spellfire Adept|Spellfire Adept]]
+* [[Spellfire Initiate|Spellfire Initiate]]
 
 Zhentarim:
-* [[zhentarim-ruffian-frhof|Zhentarim Ruffian]]
-* [[zhentarim-tactics-frhof|Zhentarim Tactics]]
+* [[Ruffian|Zhentarim Ruffian]]
+* [[Dirty Tactics|Zhentarim Tactics]]
 * [[zhentarim-mercenary-frhof|Zhentarim Mercenary]]
 * [[zhentarim-travel-station-frhof|Zhentarim Travel Station]] -> Phenax
 * [[shadowmasters-exile-frhof|Shadowmasters Exile]]
 
 Purple/amethyst dragon:
-* [[purple-dragon-commandant-frhof|Purple Dragon Commandant]]
-* [[purple-dragon-rook-frhof|Purple Dragon Rook]]
+* [[Commandant|Purple Dragon Commandant]]
+* [[Vanguard|Purple Dragon Rook]]
 * [[purple-dragon-squire-frhof|Purple Dragon Squire]] -> idk
 * [[amethyst-dragon-den-frhof|Amethyst Dragon Den]] -> Triton?
 
@@ -58,14 +58,14 @@ Dragon/ Cult of the Dragon:
 * [[cult-of-the-dragon-archive-frhof|Cult of the Dragon Archive]] -> idk
 
 Emerald Enclave:
-* [[emerald-enclave-fledgling-frhof|Emerald Enclave Fledgling]]
-* [[enclave-magic-frhof|Enclave Magic]]
+* [[Druid Fledgling|Emerald Enclave Fledgling]]
+* [[Circle Magic|Enclave Magic]]
 * [[emerald-enclave-grove-frhof|Emerald Enclave Grove]] -> idk
 * [[emerald-enclave-grove-frhof|Emerald Enclave Grove]] -> Nissa/Setessa/etc
 
 Harper:
 * [[harper-agent-frhof|Harper Agent]]
-* [[harper-teamwork-frhof|Harper Teamwork]]
+* [[Teamwork|Harper Teamwork]]
 * [[harper-frhof|Harper]] -> idk
 * [[harper-hideout-frhof|Harper Hideout]] -> idk
 
@@ -76,16 +76,16 @@ Genies:
 
 Lords Alliance:
 * [[lords-alliance-noble-residence-frhof|Lords' Alliance Noble Residence]] -> idk
-* [[lordly-resolve-frhof|Lordly Resolve]]
-* [[lords-alliance-agent-frhof|Lords' Alliance Agent]]
+* [[Phalanx Captain's Resolve|Lordly Resolve]]
+* [[Inspiring Warrior|Lords' Alliance Agent]]
 * [[lords-alliance-vassal-frhof|Lords' Alliance Vassal]] -> idk
 
 Mythal:
-* [[mythal-touched-frhof|Mythal Touched]]
+* [[Hieromancer Initiate|Mythal Touched]]
 * [[mythalkeeper-frhof|Mythalkeeper]] -> idk
 
 Gauntlet:
-* [[tyro-of-the-gauntlet-frhof|Tyro of the Gauntlet]]
+* [[Stand Firm|Tyro of the Gauntlet]]
 * [[knight-of-the-gauntlet-frhof|Knight of the Gauntlet]] -> idk
 * [[order-of-the-gauntlet-tournament-field-frhof|Order of the Gauntlet Tournament Field]] -> idk
 
@@ -95,7 +95,7 @@ Winter:
 
 Fey/Moonshae:
 * [[bard-xphb-college-of-the-moon-frhof|College of the Moon]]
-* [[fairy-trickster-frhof|Fairy Trickster]]
+* [[Fey Trickster|Fairy Trickster]]
 * [[moonwell-pilgrim-frhof|Moonwell Pilgrim]] -> idk
 
 
