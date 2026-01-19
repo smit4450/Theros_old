@@ -4,64 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "ae1d432dbf44bcb7",
-        "type": "split",
-        "dimension": 50,
+        "id": "fd7a7221fbb2a2c4",
+        "type": "tabs",
+        "dimension": 50.238777459407835,
         "children": [
           {
-            "id": "fd7a7221fbb2a2c4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5c3c596165945511",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Compendium/bestiary/aberration/woe-strider-mot.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "woe-strider-mot"
-                },
-                "group": "ce5b933b88e40e4a"
-              }
-            ]
-          },
-          {
-            "id": "2ca2660292364089",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "84ca6f82e130097b",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Compendium/bestiary/aberration/woe-strider-mot.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for woe-strider-mot"
-                },
-                "group": "ce5b933b88e40e4a"
-              }
-            ]
+            "id": "df88557128e30d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sorcerer-xphb-spellfire-sorcery-frhof"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       },
       {
         "id": "6b93fefb03efacd7",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 49.76122254059217,
         "children": [
           {
             "id": "94a36893ef75c69d",
@@ -90,51 +56,8 @@
               "icon": "lucide-file",
               "title": "4-realms-of-gods-and-mortals"
             }
-          },
-          {
-            "id": "6b3e199f87b00288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/deities/Purphoros.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Purphoros"
-            }
-          },
-          {
-            "id": "7649371b4a836b2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/bestiary/construct/anvilwrought-raptor-mot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "anvilwrought-raptor-mot"
-            }
-          },
-          {
-            "id": "839134dc0adbb288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compendium/books/mythic-odysseys-of-theros/7-friends-and-foes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7-friends-and-foes"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 425.5
   },
   "right": {
     "id": "5493c457f27fe363",
@@ -352,34 +275,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5c3c596165945511",
+  "active": "94a36893ef75c69d",
   "lastOpenFiles": [
-    "Compendium/bestiary/aberration/nothic-xmm.md",
+    "Assets/journey-into-nyx/Journey into Nyx  Launch Weekend.png",
+    "Assets/journey-into-nyx/Journey into Nyx  Heros Path.png",
+    "Assets/journey-into-nyx/Battlefield Thaumaturge.png",
+    "Compendium/classes/sorcerer-xphb-spellfire-sorcery-frhof.md",
+    "Reflavors.md",
+    "Compendium/classes/Circle of the Stars.md",
     "Compendium/bestiary/aberration/aberrant-spirit-xphb.md",
-    "Compendium/bestiary/aberration/flumph-xmm.md",
-    "Compendium/bestiary/aberration/beholder-xmm.md",
-    "Compendium/bestiary/aberration/aberration.md",
-    "Compendium/bestiary/undead/undead-spirit-xphb.md",
-    "Compendium/spells/summon-undead-xphb.md",
-    "Compendium/bestiary/undead/undead-spirit-skeletal-xphb.md",
-    "Compendium/bestiary/undead/wraith-xmm.md",
-    "Compendium/bestiary/undead/skeleton-xmm.md",
-    "Compendium/bestiary/undead/zombie-xmm.md",
-    "Compendium/bestiary/undead/will-o-wisp-xmm.md",
-    "Compendium/bestiary/undead/wight-xmm.md",
-    "Compendium/bestiary/undead/warhorse-skeleton-xmm.md",
-    "Compendium/bestiary/undead/vampire-xmm.md",
-    "Compendium/bestiary/undead/vampire-umbral-lord-xmm.md",
-    "Compendium/bestiary/undead/vampire-spawn-xmm.md",
-    "Compendium/bestiary/undead/vampire-nightbringer-xmm.md",
-    "Compendium/bestiary/undead/undead-spirit-ghostly-xphb.md",
-    "Compendium/bestiary/undead/undead.md",
-    "Compendium/bestiary/undead/swarm-of-crawling-claws-xmm.md",
-    "Compendium/bestiary/undead/specter-xmm.md",
-    "Compendium/bestiary/undead/shadow-xmm.md",
-    "Compendium/bestiary/undead/revenant-xmm.md",
-    "Compendium/bestiary/undead/returned-kakomantis-mot.md",
-    "Compendium/bestiary/undead/returned-drifter-mot.md",
+    "Compendium/spells/summon-aberration-xphb.md",
+    "Compendium/classes/Great Old One Patron.md",
+    "Compendium/classes/Celestial Patron.md",
+    "Compendium/bestiary/celestial/unicorn-xmm.md",
+    "Compendium/bestiary/miscellaneous/empyrean-xmm.md",
+    "Compendium/books/mythic-odysseys-of-theros/4-realms-of-gods-and-mortals.md",
+    "Compendium/classes/Fiend Patron.md",
+    "Compendium/bestiary/fiend/night-hag-xmm.md",
+    "Compendium/bestiary/fiend/nightmare-shepherd-mot.md",
+    "Compendium/bestiary/fiend/eater-of-hope-mot.md",
+    "Compendium/bestiary/fiend/abhorrent-overlord-mot.md",
+    "Compendium/bestiary/fiend/nightmare-xmm.md",
+    "Compendium/bestiary/fiend/lamia-xmm.md",
+    "Compendium/books/monster-manual-2025/2-monsters-a-to-z.md",
+    "Compendium/classes/Archfey Patron.md",
+    "Compendium/bestiary/legendary-group/arasta-mot.md",
+    "empty files.md",
+    "Compendium/spells/crusaders-mantle-xphb.md",
+    "Compendium/lists/list-spells-rewards-iroass-votary-mot.md",
+    "orphaned files output.md",
+    "Compendium/vehicles/apparatus-of-kwalish-xdmg.md",
     "Untitled.base",
     "Assets/Maps/theros_map.jpg",
     "Assets/Maps/theros_map_2.jpg",
@@ -390,8 +315,6 @@
     "Assets/born-of-the-gods/Brimaz King of Oreskos.png",
     "Assets/born-of-the-gods/Black Oak of Odunos.png",
     "Assets/born-of-the-gods/Bile Blight.png",
-    "Assets/born-of-the-gods/Astral Cornucopia.png",
-    "Assets/born-of-the-gods/Ashioks Adept.png",
     "World Codex 1/Species",
     "World Codex 1/Individuals",
     "World Codex 1/Misc",

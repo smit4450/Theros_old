@@ -50,7 +50,7 @@ aliases:
 
 *Bargain with Whimsical Fey*
 
-Your pact draws on the power of the Feywild. When you choose this subclass, you might make a deal with an archfey, such as the Prince of Frost; the Queen of Air and [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), ruler of the Gloaming Court; Titania of the Summer Court; or an ancient hag. Or you might call on a spectrum of Fey, weaving a web of favors and debts. Whoever they are, your patron is often inscrutable and whimsical.
+Your pact draws on the power of the Fey. When you choose this subclass, you might make a deal with a powerful nymph, a satyr archmage, or an ancient hag. Or you might call on a spectrum of Fey, weaving a web of favors and debts. Whoever they are, your patron is often inscrutable and whimsical.
 
 ### Archfey Spells (Level 3)
 

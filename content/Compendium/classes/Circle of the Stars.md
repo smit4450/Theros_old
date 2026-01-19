@@ -48,7 +48,7 @@ aliases:
 
 ### Circle of the Stars (Level 3)
 
-*Harness Secrets Hidden in Constellations*
+*Harness Secrets Hidden in the Constellations of Nyx*
 
 The Circle of the Stars has tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By understanding these secrets, the Druids of this circle seek to harness the powers of the cosmos.
 

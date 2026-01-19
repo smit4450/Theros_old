@@ -23,15 +23,13 @@ Subclasses:
 * [[Fey Wanderer|Fey Wanderer]]
 * [[Gloom Stalker|Gloom Stalker]] Shadowfell -> Underworld
 * [[Aberrant Sorcery|Aberrant Sorcery]] -> removed out of world references
-* [[Anvilwrought Sorcery|Clockwork Sorcery]] -> [[Anvilwrought Sorcery]]
+* [[Anvilwrought Sorcery|Clockwork Sorcery]] -> [[Anvilwrought Sorcery]] (Hieromancy instead??)
 * [[Wild Magic Sorcery|Wild Magic Sorcery]]
-
-* [[warlock-xphb-archfey-patron-xphb|Archfey Patron]] Fey -> Sylvan
-
-* [[warlock-xphb-fiend-patron-xphb|Fiend Patron]] -> Underworld
-* [[warlock-xphb-celestial-patron-xphb|Celestial Patron]] -> Pantheon
-* [[warlock-xphb-great-old-one-patron-xphb|Great Old One Patron]] -> Titan?
-* [[druid-xphb-circle-of-the-stars-xphb|Circle of the Stars]] -> Nyx
+* [[Archfey Patron|Archfey Patron]] Fey -> Sylvan
+* [[Fiend Patron|Fiend Patron]] -> Underworld
+* [[Celestial Patron|Celestial Patron]]
+* [[Great Old One Patron|Great Old One Patron]] -> Titans
+* [[Circle of the Stars|Circle of the Stars]] -> Nyx
 
 #### By topic:
 
@@ -105,3 +103,8 @@ Fey/Moonshae:
 ## Nymphs
 
 Divine servants that inhabit unspoiled corners of the world, nymphs protect places of natural power and infuse their surroundings with the magic of Nyx. Some are benevolent and aid those who live off the land, while others embody violent aspects of nature. In either case, nymphs generally avoid other sapient creatures, preferring to mind the cycles of nature, the daily interplay of wild animals, or other cosmic forces. Occasionally, though, groups of the same kind of nymphs congregate in a place of natural power or beauty. In times of special need, deities tied to facets of nature might employ nymphs as messengers, guardians, or scouts.
+
+
+**Thaumaturges**, are mages found on [Theros](https://mtg.fandom.com/wiki/Theros_\(plane\) "Theros (plane)") who are adept at weaving their magic into their surroundings. Therosian thaumaturges are considered fully trained when they receive an omen of the [gods](https://mtg.fandom.com/wiki/God "God"). _Stonewise thaumaturges_ are adept at using their magic to raise buildings and other edifices.
+
+**Hieromancers** are white mages that use their protective power to enforce lawful order or suppress the abilities of others. The most notable of their number pay allegiance to the [Order of Heliud](https://mtg.fandom.com/wiki/Order_of_Heliud "Order of Heliud"). [Gideon](https://mtg.fandom.com/wiki/Gideon_Jura "Gideon Jura") was a hieromancer.

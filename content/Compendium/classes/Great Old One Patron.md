@@ -50,7 +50,7 @@ aliases:
 
 *Unearth Forbidden Lore of Ineffable Beings*
 
-When you choose this subclass, you might bind yourself to an unspeakable being from the Far Realm or an elder god—a being such as Tharizdun, the Chained God; Zargon, the Returner; Hadar, the Dark Hunger; or Great Cthulhu. Or you might invoke several entities without yoking yourself to one. The motives of these beings are incomprehensible, and the Great Old One might be indifferent to your existence. But the secrets you've learned nevertheless allow you to draw strange magic from it.
+When you choose this subclass, you might bind yourself to an unspeakable being or an elder god—a being such as one of the Titans. Or you might invoke several entities without yoking yourself to one. The motives of these beings are incomprehensible, and the Great Old One might be indifferent to your existence. But the secrets you've learned nevertheless allow you to draw strange magic from it.
 
 ### Great Old One Spells (Level 3)
 

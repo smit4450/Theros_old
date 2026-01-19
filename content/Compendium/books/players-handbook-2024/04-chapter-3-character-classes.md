@@ -56,7 +56,7 @@ Channel nature magic to heal, shape-shift, and control the elements. Then join t
 - [Circle of the Land](Compendium/classes/druid-xphb-circle-of-the-land-xphb.md) to draw on the magic of the environment.  
 - [Circle of the Moon](Compendium/classes/druid-xphb-circle-of-the-moon-xphb.md) to adopt powerful animal forms.  
 - [Circle of the Sea](Compendium/classes/druid-xphb-circle-of-the-sea-xphb.md) to channel tides and storms.  
-- [Circle of the Stars](Compendium/classes/druid-xphb-circle-of-the-stars-xphb.md) to gain powers in a starry form.  
+- [Circle of the Stars](Circle%20of%20the%20Stars.md) to gain powers in a starry form.  
 
 ![](Compendium/books/players-handbook-2024/img/030-03-006-fighter-symbol.webp#center)
 
@@ -130,10 +130,10 @@ Wield magic innate to your being, shaping the power to your will. Then channel..
 
 Cast spells derived from occult knowledge. Then form a pact with the...
 
-- [Archfey Patron](Compendium/classes/warlock-xphb-archfey-patron-xphb.md) to teleport and wield fey magic.  
-- [Celestial Patron](Compendium/classes/warlock-xphb-celestial-patron-xphb.md) to heal with heavenly magic.  
-- [Fiend Patron](Compendium/classes/warlock-xphb-fiend-patron-xphb.md) to call on sinister powers.  
-- [Great Old One Patron](Compendium/classes/warlock-xphb-great-old-one-patron-xphb.md) to delve into forbidden lore.  
+- [Archfey Patron](Archfey%20Patron.md) to teleport and wield fey magic.  
+- [Celestial Patron](Celestial%20Patron.md) to heal with heavenly magic.  
+- [Fiend Patron](Fiend%20Patron.md) to call on sinister powers.  
+- [Great Old One Patron](Great%20Old%20One%20Patron.md) to delve into forbidden lore.  
 
 ![](Compendium/books/players-handbook-2024/img/037-03-013-wizard-symbol.webp#center)
 

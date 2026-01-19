@@ -48,9 +48,9 @@ aliases:
 
 ### Fiend Patron (Level 3)
 
-*Make a Deal with the Lower Planes*
+*Make a Deal with the Underworld*
 
-Your pact draws on the Lower Planes, the realms of perdition. You might forge a bargain with a demon lord such as Demogorgon or Orcus; an archdevil such as Asmodeus; or a pit fiend, balor, yugoloth, or night hag that is especially mighty. That patron's aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.
+Your pact draws on the Underworld, the realms of perdition. You might forge a bargain with a demon lord such as an [[abhorrent-overlord-mot|Abhorrent Overlord]], an [[eater-of-hope-mot|Eater of Hope]], or a [[nightmare-shepherd-mot|Nightmare Shepherd]]; or a [[night-hag-xmm|Night Hag]] that is especially mighty. That patron's aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.
 
 ### Fiend Spells (Level 3)
 
@@ -82,6 +82,6 @@ Choose one damage type, other than Force, whenever you finish a [Short](Compendi
 
 ### Hurl Through Hell (Level 14)
 
-Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes `8d10` Psychic damage if it isn't a Fiend, and it has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
+Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Underworld. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes `8d10` Psychic damage if it isn't a Fiend, and it has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
 
 Once you use this feature, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you expend a Pact Magic spell slot (no action required) to restore your use of it.

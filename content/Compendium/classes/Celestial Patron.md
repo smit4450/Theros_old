@@ -50,7 +50,7 @@ aliases:
 
 *Call on the Power of the Heavens*
 
-Your pact draws on the Upper Planes, the realms of everlasting bliss. You might enter an agreement with an empyrean, a couatl, a sphinx, a unicorn, or another heavenly entity. Or you might call on numerous such beings as you pursue goals aligned with theirs. Your pact allows you to experience a hint of the holy light that illuminates the multiverse.
+Your pact draws on the realms of Nyx, such as [[Mount Hiastos]], the [[Mystic Sea]], and the [[Tovian Fields]]. You might enter an agreement with an [[empyrean-xmm|Empyrean]], a sphinx, a [[Compendium/bestiary/celestial/unicorn-xmm|Unicorn]], or another heavenly entity. Or you might call on numerous such beings as you pursue goals aligned with theirs. Your pact allows you to experience a hint of the holy light that illuminates the multiverse.
 
 ### Celestial Spells (Level 3)
 

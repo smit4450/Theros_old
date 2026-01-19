@@ -59,7 +59,6 @@ cssclasses:
 - [Tough](./tough-xmm.md)
 - [Triton Master of Waves](./triton-master-of-waves-mot.md)
 - [Triton Shorestalker](./triton-shorestalker-mot.md)
-- [Vampire Familiar](./vampire-familiar-xmm.md)
 - [War Priest](./war-priest-vgm.md)
 - [Warrior Commander](./warrior-commander-xmm.md)
 - [Warrior Infantry](./warrior-infantry-xmm.md)
