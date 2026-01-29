@@ -7,18 +7,16 @@ tags:
 aliases:
 - Chapter 5: Magic of Faerûn
 ---
-# Chapter 5: Magic of Faerûn
+# Chapter 5: Magic
 *Source: Forgotten Realms: Heroes of Faerûn* 
 
 ![Vajra Safahr commands the ...](Compendium/books/forgotten-realms-heroes-of-faerun/img/146-05-001-vajra-safahr-commands.webp#center "Vajra Safahr commands the mighty walking statues of Waterdeep.")
 
-From the simplest cantrip to the mightiest workings of high magic, from a humble [Cure Wounds](Compendium/spells/cure-wounds-xphb.md) spell to the raising of mighty heroes from the dead, magic permeates the Realms. And any understanding of magic in Faerûn begins with understanding the Weave.
+From the simplest cantrip to the mightiest workings of high magic, from a humble [Cure Wounds](Compendium/spells/cure-wounds-xphb.md) spell to the raising of mighty heroes from the dead, magic permeates the world. And any understanding of magic begins with understanding the Weave.
 
 ## The Weave
 
-The Weave is the raw material from which the tapestry of magic is woven—an essential element of the universe that flows through all things. Some creatures, objects, and locations have especially deep connections to the Weave. Such creatures can perform extraordinary feats that come naturally to them (a beholder's flight, a vampire's charming gaze, a dragon's breath weapon, and so forth), while individuals with the necessary talent and skill can cast spells by manipulating the Weave. The Weave isn't normally visible or detectable, except through the use of spells.
-
-The god Mystra is the Weave's keeper and caretaker. All three times the god of magic died or was separated from her divinity (twice as Mystra, and once as her predecessor, Mystryl), magic was twisted or failed entirely. With Mystra's most recent death and the arrival of the Spellplague, the Weave was thought to be destroyed. But in the Second Sundering, both Mystra and the Weave returned, and spells and magic items became reliable once more.
+The Weave is the raw material from which the tapestry of magic is woven—an essential element of the universe that flows through all things. Some creatures, objects, and locations have especially deep connections to the Weave. Such creatures can perform extraordinary feats that come naturally to them, while individuals with the necessary talent and skill can cast spells by manipulating the Weave. The Weave isn't normally visible or detectable, except through the use of spells.
 
 ### Magic Items
 
@@ -32,7 +30,7 @@ The most powerful and direct form of spellfire is spellfire sorcery. But charact
 
 > [!note] Weave-Affecting Magic
 > 
-> The rules for spells and spellcasting found in the "Player's Handbook" are true in Faerûn, but some spells and magical effects might interact in unique ways with the Weave.
+> The rules for spells and spellcasting found in the "Player's Handbook" are true in Theros, but some spells and magical effects might interact in unique ways with the Weave.
 > 
 > **Detect Magic.** The [Detect Magic](Compendium/spells/detect-magic-xphb.md) spell reveals threads of the Weave woven together through spellcasting, and the way the threads are arranged reveals the school of magic. Similarly, active spells and areas imbued with magic are limned in a silvery network of threads, which might twist and reknit themselves depending on the magic involved. A magic item appears enmeshed in the silvery-blue threads of the Weave.
 > 
@@ -47,15 +45,15 @@ The most powerful and direct form of spellfire is spellfire sorcery. But charact
 
 ### Wild Magic and Dead Magic
 
-In some parts of Faerûn, the Weave is so warped or frayed that magic doesn't function reliably, resulting in a wild magic zone. This damage might be due to magical disasters—such as those created during the Time of Troubles, the Spellplague, and the Second Sundering—or a powerful effect that distorts the Weave, such as a mythal. Wild magic zones usually go unnoticed until they make some spell effect go awry. Some mages establish strongholds near wild magic zones. They chart the boundaries of the wild magic zone, lure enemies into it, and then take advantage of their foes' confusion and weakness.
+In some parts of Theros, the Weave is so warped or frayed that magic doesn't function reliably, resulting in a wild magic zone. This damage might be due to magical disasters or a powerful effect that distorts the Weave. Wild magic zones usually go unnoticed until they make some spell effect go awry. Some mages establish strongholds near wild magic zones. They chart the boundaries of the wild magic zone, lure enemies into it, and then take advantage of their foes' confusion and weakness.
 
-In other parts of Faerûn, however, the Weave has a tear or hole, resulting in a dead magic zone. Many were created where extreme concentrations of magical power were abruptly shattered or destroyed. The ruins of Myth Drannor, for example, boast large dead magic zones. Dead magic zones also might manifest at locations where Artifacts are destroyed or gods are slain, ripping a hole into the Weave.
+In other parts of Theros, however, the Weave has a tear or hole, resulting in a dead magic zone. Many were created where extreme concentrations of magical power were abruptly shattered or destroyed. Dead magic zones also might manifest at locations where Artifacts are destroyed or gods are slain, ripping a hole into the Weave.
 
 The rules for [dead magic](Compendium/traps-hazards/dead-magic-zone-xdmg.md) and [wild magic](Compendium/traps-hazards/wild-magic-zone-xdmg.md) zones are in chapter 3 of the "Dungeon Master's Guide".
 
 ### High Magic
 
-In Faerûn's early ages, the Weave hadn't yet stabilized. Elf mages at that time developed a spellcasting system called high magic. This system required many—sometimes hundreds—of spellcasters working in concert, and a single magical effect could take days or weeks to complete. But high magic was capable of incredible feats beyond the reach of ordinary spellcasters today. Elf high mages could heal hundreds of people at once, simultaneously create multiple magic items, restore large portions of forest, or destroy an entire city. The most famous examples of high magic are the raising of the island of Evermeet from the sea and the creation of mythals.
+In Theros' early ages, the Weave hadn't yet stabilized. Archon mages at that time developed a spellcasting system called high magic. This system required many—sometimes hundreds—of spellcasters working in concert, and a single magical effect could take days or weeks to complete. But high magic was capable of incredible feats beyond the reach of ordinary spellcasters today. Archon high mages could heal hundreds of people at once, simultaneously create multiple magic items, restore large portions of forest, or destroy an entire city.
 
 For ages, high magic was thought lost, its techniques supplanted by traditional spellcasting as the Weave settled into its current form. But some secrets of high magic have been preserved, though few living spellcasters retain this knowledge.
 
@@ -63,23 +61,23 @@ Examples of high magic can be found in "chapter 1" of "Forgotten Realms: Adventu
 
 ### Mythals
 
-Mythals are some of the most powerful magic in Faerûn. These creations are permanent fields of overlapping magical wards that bind and shape the Weave in a particular location. Mythals are sometimes so powerful that they bend or rewrite the rules of magic or even reality.
+Mythals are some of the most powerful magic in Theros. These creations are permanent fields of overlapping magical wards that bind and shape the Weave in a particular location. Mythals are sometimes so powerful that they bend or rewrite the rules of magic or even reality.
 
-In its original usage, the term "mythal" referred to works of high magic that protected ancient elven cities, such as Myth Drannor. Its meaning has since expanded to cover all manner of similar protections, such as the magic keeping the immense floating cities of fallen Netheril afloat, the wards of Silverymoon, and the smaller workings of magic that keep safe important locations like Candlekeep. Some even consider the many-layered wards and effects of Undermountain beneath Waterdeep a mythal.
+In its original usage, the term "mythal" referred to works of high magic that protected ancient Archon cities. Its meaning has since expanded to cover all manner of similar protections.
 
-Most mythals restrict the kinds of magic that can be employed in the area they govern; for example, a mythal might restrict teleportation magic or spells of the Conjuration school. Evereska's mythal influences the area's weather and wards its inhabitants against disease, while the mythal of undersea Myth Nantar makes its waters breathable and more comfortable for creatures not suited to underwater life.
+Most mythals restrict the kinds of magic that can be employed in the area they govern; for example, a mythal might restrict teleportation magic or spells of the Conjuration school. 
 
-In many ways, a mythal is less like a spell or a magic item than a living creation of magic, capable of growing stronger or weaker, absorbing damage, or dying. Mythals can sometimes heal themselves, as did the mythal of Silverymoon, blossoming out of the Moonbridge following Mystra's most recent return.
+In many ways, a mythal is less like a spell or a magic item than a living creation of magic, capable of growing stronger or weaker, absorbing damage, or dying. Mythals can sometimes heal themselves.
 
 Each active mythal has one or more individuals especially attuned to it, and these individuals can ignore any restrictions on spellcasting, direct targetable effects of the mythal, and teach others of appropriate skill how to access its secrets.
 
-Adventurers are most likely to encounter damaged or failing mythals in ruined locations where magic once had great influence. Although an [Identify](Compendium/spells/identify-xphb.md) spell might reveal some of a mythal's simplest effects, spellcasters can discover spellcasting restrictions only by trying (and failing) to cast a prohibited spell. A powerful spellcaster might learn how to access or repair a mythal without assistance, but such feats are rarely attempted by even the most renowned mages. Any elven city with "Myth" in its name (Myth Drannor, Myth Glaurach, Myth Nantar, and others) has or had a mythal. The ruins of such places often exhibit unpredictable effects related to their damaged or destroyed mythals.
+Adventurers are most likely to encounter damaged or failing mythals in ruined locations where magic once had great influence. Although an [Identify](Compendium/spells/identify-xphb.md) spell might reveal some of a mythal's simplest effects, spellcasters can discover spellcasting restrictions only by trying (and failing) to cast a prohibited spell. A powerful spellcaster might learn how to access or repair a mythal without assistance, but such feats are rarely attempted by even the most renowned mages. The ruins of such places often exhibit unpredictable effects related to their damaged or destroyed mythals.
 
 ![Presto casts the Blade of ...](Compendium/books/forgotten-realms-heroes-of-faerun/img/147-05-002-presto-casts.webp#center "Presto casts the Blade of Disaster spell to fight off Venger.")
 
 ## Circle Magic
 
-Millennia ago, elf mages researching alternative magical traditions developed a technique by which many spellcasters working together could cast spells beyond the limit of any individual. This technique became known as circle magic, and although it was initially developed by elves, spellcasters in Thay and Rashemen reinvented the technique, and from there it quickly spread to other realms in Faerûn.
+Millennia ago, Archon mages researching alternative magical traditions developed a technique by which many spellcasters working together could cast spells beyond the limit of any individual. This technique became known as circle magic, and although it was initially developed by Archon's, spellcasters in Meletis reinvented the technique, and from there it quickly spread to other realms in Theros.
 
 ### What Is a Circle Spell?
 

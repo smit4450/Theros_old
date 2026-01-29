@@ -50,7 +50,7 @@ aliases:
 
 *Withstand the Horrors of Frigid Wastelands*
 
-Winter Walkers hone their craft in the bleak and frozen wilds of places like Icewind Dale. These ruthless, rimed Rangers hunt monsters that haunt arctic wastelands, eventually becoming frigid terrors themselves. Winter Walkers are well versed in the phenomena of Icewind Dale, including the latent magic of fallen Netherese cities, endemic monsters like [yetis](Compendium/bestiary/monstrosity/yeti-xmm.md) and crag cats, and the rising threat of Underdark invaders. Due to their cold pragmatism, terrifying magic, and mastery of the region, Winter Walkers are regarded with equal parts respect and fear. Ten-Towns citizens say that Winter Walkers' frequent exposure to malignant entities gives them their fearsome powers. Many Reghed nomads, on the other hand, believe that nature spirits bestow on Winter Walkers a unique curse.
+Winter Walkers hone their craft in the bleak and frozen wilds of places like the Oraniads. These ruthless, rimed Rangers hunt monsters that haunt arctic wastelands, eventually becoming frigid terrors themselves. Winter Walkers are well versed in the phenomena of Winter's Heart. Due to their cold pragmatism, terrifying magic, and mastery of the region, Winter Walkers are regarded with equal parts respect and fear. The Leonin of Oreskos say that Winter Walkers' frequent exposure to malignant entities gives them their fearsome powers. Many Meletian scholars, on the other hand, believe that nature spirits bestow on Winter Walkers a unique curse.
 
 ### Frigid Explorer (Level 3)
 

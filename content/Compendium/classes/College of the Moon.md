@@ -50,7 +50,7 @@ aliases:
 
 *Inspire Allies with Primal Tales*
 
-The College of the Moon traces its origins to the ancient druidic circles of the Moonshae Isles, who entrusted the first Bards of this tradition with chronicling the stories of the islands and their people. Bards of this college draw from the isles' fey magic and the primal power of the moonwells to bolster their allies, protect the natural world, and inspire their bardic works.
+The College of the Moon traces its origins to the ancient druidic circles of the Dakra Isles, who entrusted the first Bards of this tradition with chronicling the stories of the islands and their people. Bards of this college draw from the isles' fey magic to bolster their allies, protect the natural world, and inspire their bardic works.
 
 ### Moon's Inspiration (Level 3)
 

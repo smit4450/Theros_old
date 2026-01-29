@@ -8,7 +8,7 @@ tags:
 aliases:
 - Oath of the Noble Genies
 ---
-# Oath of the Noble Genies
+# Oath of the Elements
 *[Paladin](./paladin-xphb.md): Paladin Subclass*  
 *Source: FRHoF*  
 
@@ -21,7 +21,7 @@ aliases:
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oath of the Noble Genies (Level 3)' class='internal-link'>Oath of the Noble Genies</a></td></tr>
+> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Oath of the Elements (Level 3)' class='internal-link'>Oath of the Elements</a></td></tr>
 > <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
 > <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
@@ -46,13 +46,13 @@ aliases:
 
 ## Class Features
 
-### Oath of the Noble Genies (Level 3)
+### Oath of the Elements (Level 3)
 
-*Brandish the Elemental Splendor of Genies*
+*Brandish Elemental Splendor*
 
-Paladins sworn to the Oath of the Noble Genies revere the forces of the Elemental Planes. Through taking this oath, Paladins draw power from the four different types of genies—dao, masters of earth; djinn, masters of air; efreet, masters of fire; and marids, masters of water. In Faerûn, many Paladins who swear this oath hail from Calimshan, a land teeming with genies.
+Paladins sworn to the Oath of the Elements revere the forces nature. Through taking this oath, Paladins draw power from the four elements—earth, air, fire, and water.
 
-Paladins who swear this oath often undertake quests that take them all over the Realms and across the multiverse—including the Elemental Planes. These paladins share the following tenets:
+Paladins who swear this oath often undertake quests that take them all over the Realms and across the multiverse. These paladins share the following tenets:
 
 - Sow the seeds of creation amid the ashes of destruction.  
 - Lead with splendor and grace.  
@@ -62,25 +62,25 @@ Paladins who swear this oath often undertake quests that take them all over the 
 
 Immediately after you cast [Divine Smite](Compendium/spells/divine-smite-xphb.md), you can expend one use of your [Channel Divinity](Compendium/classes/paladin-xphb.md#Channel%20Divinity%20(Level%203)) and invoke one of the following effects.
 
-### Dao's Crush (Level 3)
+### Earth Crush (Level 3)
 
 Earth rises up around the target of your Divine Smite. The target has the Grappled condition (escape DC equal to your spell save DC). While Grappled, the target has the Restrained condition.
 
-### Djinni's Escape (Level 3)
+### Air Escape (Level 3)
 
 You [teleport](Compendium/rules/variant-rules/teleportation-xphb.md) to an unoccupied space you can see within 30 feet of yourself and take on a semi-incorporeal form, which lasts until the end of your next turn. While in this form, you have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage, and you have [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to the [Grappled](Compendium/rules/conditions.md#Grappled), [Prone](Compendium/rules/conditions.md#Prone), and [Restrained](Compendium/rules/conditions.md#Restrained) conditions.
 
-### Efreeti's Fury (Level 3)
+### Fire's Fury (Level 3)
 
 The target of your Divine Smite takes an extra `2d4` Fire damage, and fire jumps from the target to another creature you can see within 30 feet of yourself. The second creature also takes `2d4` Fire damage.
 
-### Marid's Surge (Level 3)
+### Water Surge (Level 3)
 
 The target of your Divine Smite and each creature of your choice in a 10-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you make a Strength saving throw against your spell save DC. On a failed save, a creature is pushed 15 feet straight away from you and has the Prone condition.
 
-### Genie Spells (Level 3)
+### Elemental Spells (Level 3)
 
-When you reach a Paladin level specified in the Genie Spells table, you thereafter always have the listed spells prepared.
+When you reach a Paladin level specified in the Elemental Spells table, you thereafter always have the listed spells prepared.
 
 | Paladin Level | Spells |
 |---------------|--------|
@@ -91,7 +91,7 @@ When you reach a Paladin level specified in the Genie Spells table, you thereaft
 | 17 | [Banishing Smite](Compendium/spells/banishing-smite-xphb.md), [Contact Other Plane](Compendium/spells/contact-other-plane-xphb.md) |
 ^paladin-level-spells
 
-### Genie's Splendor (Level 3)
+### Elemental Splendor (Level 3)
 
 When you aren't wearing any armor, your base [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Charisma modifiers. You can use a Shield and still gain this benefit.
 

@@ -60,8 +60,8 @@ Dragon/ Cult of the Dragon:
 Emerald Enclave:
 * [[Druid Fledgling|Emerald Enclave Fledgling]]
 * [[Circle Magic|Enclave Magic]]
-* [[emerald-enclave-grove-frhof|Emerald Enclave Grove]] -> idk
-* [[emerald-enclave-grove-frhof|Emerald Enclave Grove]] -> Nissa/Setessa/etc
+* [[Grove|Emerald Enclave Grove]] -> idk
+* [[Grove|Emerald Enclave Grove]] -> Nissa/Setessa/etc
 
 Harper:
 * [[harper-agent-frhof|Harper Agent]]
@@ -70,7 +70,7 @@ Harper:
 * [[harper-hideout-frhof|Harper Hideout]] -> idk
 
 Genies:
-* [[paladin-xphb-oath-of-the-noble-genies-frhof|Oath of the Noble Genies]]
+* [[Oath of the Elements|Oath of the Noble Genies]] -> [[Oath of the Elements]]
 * [[genie-magic-frhof|Genie Magic]]
 * [[genie-touched-frhof|Genie Touched]] -> idk
 
@@ -90,11 +90,11 @@ Gauntlet:
 * [[order-of-the-gauntlet-tournament-field-frhof|Order of the Gauntlet Tournament Field]] -> idk
 
 Winter:
-* [[ranger-xphb-winter-walker-frhof|Winter Walker]]
+* [[Winter Walker|Winter Walker]]
 * [[ice-fisher-frhof|Ice Fisher]] -> idk
 
 Fey/Moonshae:
-* [[bard-xphb-college-of-the-moon-frhof|College of the Moon]]
+* [[College of the Moon|College of the Moon]]
 * [[Fey Trickster|Fairy Trickster]]
 * [[moonwell-pilgrim-frhof|Moonwell Pilgrim]] -> idk
 

@@ -16,7 +16,7 @@ cssclasses:
 - [Cult of the Dragon Archive](./cult-of-the-dragon-archive-frhof.md)
 - [Demiplane](./demiplane.md)
 - [Dining Room](./dining-room.md)
-- [Emerald Enclave Grove](./emerald-enclave-grove-frhof.md)
+- [Emerald Enclave Grove](Grove.md)
 - [Gaming Hall](./gaming-hall.md)
 - [Garden](./garden.md)
 - [Greenhouse](./greenhouse.md)
