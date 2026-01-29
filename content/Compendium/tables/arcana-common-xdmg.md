@@ -31,23 +31,23 @@ aliases:
 | 34–35 | [[instrument-of-scribing-xdmg]] |
 | 36–37 | [[lock-of-trickery-xdmg]] |
 | 38–40 | [[mystery-key-xdmg]] |
-| 41–42 | [[orb-of-direction-xdmg]] |
-| 43–44 | [[orb-of-time-xdmg]] |
-| 45–46 | [[perfume-of-bewitching-xdmg]] |
-| 47–49 | [[pipe-of-smoke-monsters-xdmg]] |
-| 50–52 | [[potion-of-climbing-xdmg]] |
-| 53–55 | [[potion-of-comprehension-xdmg]] |
-| 56–58 | [[pot-of-awakening-xdmg]] |
+| 41–42 | [[Orb of Direction]] |
+| 43–44 | [[Orb of Time]] |
+| 45–46 | [[Perfume of Bewitching]] |
+| 47–49 | [[Pipe of Smoke Monsters]] |
+| 50–52 | [[Potion of Climbing]] |
+| 53–55 | [[Potion of Comprehension]] |
+| 56–58 | [[Pot of Awakening]] |
 | 59–60 | [[prosthetic-limb-xdmg]] |
-| 61–64 | [[rival-coin-xdmg]] |
-| 65–66 | [[rope-of-mending-xdmg]] |
-| 67–68 | [[ruby-of-the-war-mage-xdmg]] |
-| 69–82 | [[spell-scroll-xdmg]] ([[spell-scroll-cantrip-xdmg]] or [[spell-scroll-level-1-xdmg]] spell) |
-| 83–84 | [[staff-of-adornment-xdmg]] |
-| 85–86 | [[staff-of-birdcalls-xdmg]] |
-| 87–89 | [[staff-of-flowers-xdmg]] |
-| 90–92 | [[talking-doll-xdmg]] |
-| 93–94 | [[tankard-of-sobriety-xdmg]] |
-| 95–97 | [[wand-of-conducting-xdmg]] |
-| 98–00 | [[wand-of-pyrotechnics-xdmg]] |
+| 61–64 | [[Rival Coin]] |
+| 65–66 | [[Rope of Mending]] |
+| 67–68 | [[Ruby of the War Mage]] |
+| 69–82 | [[Spell Scroll]] ([[Spell Scroll (Cantrip)]] or [[Spell Scroll (Level 1)]] spell) |
+| 83–84 | [[Staff of Adornment]] |
+| 85–86 | [[Staff of Birdcalls]] |
+| 87–89 | [[Staff of Flowers]] |
+| 90–92 | [[Talking Doll]] |
+| 93–94 | [[Tankard of Sobriety]] |
+| 95–97 | [[Wand of Conducting]] |
+| 98–00 | [[Wand of Pyrotechnics]] |
 ^arcana-common

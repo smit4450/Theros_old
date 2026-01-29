@@ -14,10 +14,10 @@ aliases:
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–17 | [[enspelled-weapon-xdmg]] (level 6, 7, or 8 spell) |
-| 18–34 | [[instrument-of-the-bards-xdmg]] ([[instrument-of-the-bards-ollamh-harp-xdmg]]) |
-| 35–54 | [[sovereign-glue-xdmg]] |
-| 55–70 | [[sphere-of-annihilation-xdmg]] |
-| 71–83 | [[talisman-of-the-sphere-xdmg]] |
-| 84–00 | [[universal-solvent-xdmg]] |
+| 01–17 | [[Enspelled Weapon]] (level 6, 7, or 8 spell) |
+| 18–34 | [[Instrument of the Bards]] ([[Instrument of the Bards, Ollamh Harp]]) |
+| 35–54 | [[Sovereign Glue]] |
+| 55–70 | [[Sphere of Annihilation]] |
+| 71–83 | [[Talisman of the Sphere]] |
+| 84–00 | [[Universal Solvent]] |
 ^implements-legendary

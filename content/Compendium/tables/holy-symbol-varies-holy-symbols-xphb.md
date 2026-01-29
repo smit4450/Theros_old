@@ -14,7 +14,7 @@ aliases:
 
 | Symbol | Weight | Cost |
 |--------|--------|------|
-| [[amulet-xphb]] (worn or held) | 1 lb. | 5 GP |
-| [[emblem-xphb]] (borne on fabric or a Shield) | — | 5 GP |
-| [[reliquary-xphb]] (held) | 2 lb. | 5 GP |
+| [Amulet](Amulet.md)5 GP |
+| [[Emblem]] (borne on fabric or a Shield) | — | 5 GP |
+| [[Compendium/items/Reliquary]] (held) | 2 lb. | 5 GP |
 ^holy-symbols

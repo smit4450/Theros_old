@@ -24,20 +24,20 @@ aliases:
 | 24–27 | [[enspelled-staff-xdmg]] (level 6, 7, or 8 spell) |
 | 28–31 | [[ioun-stone-xdmg]] ([[ioun-stone-greater-absorption-xdmg]], [[ioun-stone-mastery-xdmg]], or [[ioun-stone-regeneration-xdmg]]) |
 | 32–33 | [[iron-flask-xdmg]] |
-| 34–41 | [[potion-of-storm-giant-strength-xdmg]] |
+| 34–41 | [[Potion of Storm Giant Strength]] |
 | 42–45 | [[ring-of-djinni-summoning-xdmg]] |
-| 46–49 | [[ring-of-elemental-command-xdmg]] ([[ring-of-elemental-command-air-xdmg]], [[ring-of-elemental-command-earth-xdmg]], [[ring-of-elemental-command-fire-xdmg]], or [[ring-of-elemental-command-water-xdmg]]) |
-| 50–53 | [[ring-of-invisibility-xdmg]] |
-| 54–57 | [[ring-of-spell-turning-xdmg]] |
-| 58 | [[ring-of-three-wishes-xdmg]] |
-| 59 | [[robe-of-the-archmagi-xdmg]] |
-| 60–61 | [[scroll-of-titan-summoning-xdmg]] |
-| 62–65 | [[sovereign-glue-xdmg]] |
-| 66–83 | [[spell-scroll-level-9-xdmg]] spell) |
-| 84 | [[sphere-of-annihilation-xdmg]] |
-| 85 | [[staff-of-the-magi-xdmg]] |
-| 86–88 | [[talisman-of-the-sphere-xdmg]] |
-| 89–92 | [[tome-of-the-stilled-tongue-xdmg]] |
-| 93–96 | [[universal-solvent-xdmg]] |
-| 97–00 | [[well-of-many-worlds-xdmg]] |
+| 46–49 | [[Ring of Elemental Command]] ([[Ring of Elemental Command (Air)]], [[Ring of Elemental Command (Earth)]], [[Ring of Elemental Command (Fire)]], or [[Ring of Elemental Command (Water)]]) |
+| 50–53 | [[Ring of Invisibility]] |
+| 54–57 | [[Ring of Spell Turning]] |
+| 58 | [[Ring of Three Wishes]] |
+| 59 | [[Robe of the Archmagi]] |
+| 60–61 | [[Scroll of Titan Summoning]] |
+| 62–65 | [[Sovereign Glue]] |
+| 66–83 | [[Spell Scroll (Level 9)]] spell) |
+| 84 | [[Sphere of Annihilation]] |
+| 85 | [[Staff of the Magi]] |
+| 86–88 | [[Talisman of the Sphere]] |
+| 89–92 | [[Tome of the Stilled Tongue]] |
+| 93–96 | [[Universal Solvent]] |
+| 97–00 | [[Well of Many Worlds]] |
 ^arcana-legendary

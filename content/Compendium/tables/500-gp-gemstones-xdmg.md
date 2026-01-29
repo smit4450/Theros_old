@@ -14,10 +14,9 @@ aliases:
 
 | dice: 1d6 | Stone |
 |-----------|-------|
-| 1 | [[alexandrite-xdmg]] (dark green) |
-| 2 | [[aquamarine-xdmg]] (pale blue green) |
-| 3 | [[black-pearl-xdmg]] (pure black) |
-| 4 | [[blue-spinel-xdmg]] (deep blue) |
-| 5 | [[peridot-xdmg]] (rich olive green) |
-| 6 | [[topaz-xdmg]] (golden yellow) |
+| 1 | [Alexandrite](Alexandrite.md)ine-xdmg]] (pale blue green) |
+| 3 | [[Black Pearl]] (pure black) |
+| 4 | [[Blue Spinel]] (deep blue) |
+| 5 | [[Peridot]] (rich olive green) |
+| 6 | [[Topaz]] (golden yellow) |
 ^500-gp-gemstones

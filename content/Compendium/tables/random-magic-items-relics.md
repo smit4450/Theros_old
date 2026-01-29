@@ -14,113 +14,112 @@ aliases:
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–08 | [[ear-horn-of-hearing-xdmg]] |
-| 09–28 | [[potion-of-healing-xdmg]] |
-| 29–36 | [[pot-of-awakening-xdmg]] |
-| 37–44 | [[ruby-of-the-war-mage-xdmg]] |
-| 45–52 | [[shield-of-expression-xdmg]] |
-| 53–60 | [[smoldering-armor-xdmg]] |
-| 61–80 | [[spell-scroll-xdmg]] ([[spell-scroll-cantrip-xdmg]] or [[spell-scroll-level-1-xdmg]] spell) |
-| 81–90 | [[staff-of-adornment-xdmg]] |
-| 91–00 | [[staff-of-flowers-xdmg]] |
+| 01–08 | [[Ear Horn of Hearing]] |
+| 09–28 | [[Potion of Healing]] |
+| 29–36 | [[Pot of Awakening]] |
+| 37–44 | [[Ruby of the War Mage]] |
+| 45–52 | [[Shield of Expression]] |
+| 53–60 | [[Smoldering Armor]] |
+| 61–80 | [[Spell Scroll]] ([[Spell Scroll (Cantrip)]] or [[Spell Scroll (Level 1)]] spell) |
+| 81–90 | [[Staff of Adornment]] |
+| 91–00 | [[Staff of Flowers]] |
 ^relics-common
 
 **Relics - Uncommon**
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–05 | [[enspelled-staff-xdmg]] (cantrip or level 1 spell) |
-| 06–10 | [[keoghtoms-ointment-xdmg]] |
-| 11–15 | [[mariners-armor-xdmg]] |
-| 16–20 | [[natures-mantle-xdmg]] |
-| 21–25 | [[pearl-of-power-xdmg]] |
-| 26–30 | [[periapt-of-health-xdmg]] |
-| 31–35 | [[periapt-of-wound-closure-xdmg]] |
-| 36–40 | [[potion-of-animal-friendship-xdmg]] |
-| 41–55 | [[potion-of-greater-healing-xdmg]] |
-| 56–60 | [[potion-of-resistance-xdmg]] |
-| 61–65 | [[ring-of-water-walking-xdmg]] |
-| 66–70 | [[sending-stones-xdmg]] |
-| 71–80 | [[spell-scroll-xdmg]] ([[spell-scroll-level-2-xdmg]] or [[spell-scroll-level-3-xdmg]] spell) |
-| 81–85 | [[staff-of-the-adder-xdmg]] |
-| 86–90 | [[staff-of-the-python-xdmg]] |
-| 91–95 | [[wand-of-magic-detection-xdmg]] |
-| 96–00 | [[1-wand-of-the-war-mage-xdmg]] |
+| 01–05 | [[Enspelled Staff]] (cantrip or level 1 spell) |
+| 06–10 | [[Keoghtom's Ointment]] |
+| 11–15 | [[Mariner's Armor]] |
+| 16–20 | [[Nature's Mantle]] |
+| 21–25 | [[Pearl of Power]] |
+| 26–30 | [[Periapt of Health]] |
+| 31–35 | [[Periapt of Wound Closure]] |
+| 36–40 | [[Potion of Animal Friendship]] |
+| 41–55 | [[Potion of Greater Healing]] |
+| 56–60 | [[Potion of Resistance]] |
+| 61–65 | [[Ring of Water Walking]] |
+| 66–70 | [[Sending Stones]] |
+| 71–80 | [[Spell Scroll]] ([[Spell Scroll (Level 2)]] or [[Spell Scroll (Level 3)]] spell) |
+| 81–85 | [[Staff of the Adder]] |
+| 86–90 | [[Staff of the Python]] |
+| 91–95 | [[Wand of Magic Detection]] |
+| 96–00 | [[+1 Wand of the War Mage]] |
 ^relics-uncommon
 
 **Relics - Rare**
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–03 | [[amulet-of-health-xdmg]] |
+| 01–03 | [[Amulet of Health]] |
 | 04–07 | [[1-armor-xdmg]] |
-| 08–09 | [[bowl-of-commanding-water-elementals-xdmg]] |
-| 10–11 | [[brazier-of-commanding-fire-elementals-xdmg]] |
-| 12–13 | [[censer-of-controlling-air-elementals-xdmg]] |
-| 14–16 | [[elixir-of-health-xdmg]] |
-| 17–19 | [[enspelled-staff-xdmg]] (level 2 or 3 spell) |
-| 20–22 | [[horn-of-blasting-xdmg]] |
+| 08–09 | [[Bowl of Commanding Water Elementals]] |
+| 10–11 | [[Brazier of Commanding Fire Elementals]] |
+| 12–13 | [[Censer of Controlling Air Elementals]] |
+| 14–16 | [[Elixir of Health]] |
+| 17–19 | [[Enspelled Staff]] (level 2 or 3 spell) |
+| 20–22 | [[Horn of Blasting]] |
 | 23–25 | [[horn-of-valhalla-xdmg]] ([[horn-of-valhalla-brass-xdmg]] or [[horn-of-valhalla-silver-xdmg]]) |
 | 26–28 | [[ioun-stone-xdmg]] ([[ioun-stone-reserve-xdmg]] or [[ioun-stone-sustenance-xdmg]]) |
-| 29–31 | [[mace-of-disruption-xdmg]] |
-| 32–34 | [[mace-of-smiting-xdmg]] |
-| 35–37 | [[mace-of-terror-xdmg]] |
-| 38–40 | [[necklace-of-prayer-beads-xdmg]] |
-| 41–43 | [[periapt-of-proof-against-poison-xdmg]] |
-| 44–51 | [[potion-of-superior-healing-xdmg]] |
-| 52–54 | [[ring-of-animal-influence-xdmg]] |
-| 55–58 | [[ring-of-resistance-xdmg]] |
-| 59–61 | [[ring-of-spell-storing-xdmg]] |
-| 62–65 | [[scroll-of-protection-xdmg]] |
-| 66–73 | [[spell-scroll-xdmg]] ([[spell-scroll-level-4-xdmg]] or [[spell-scroll-level-5-xdmg]] spell) |
-| 74–76 | [[staff-of-charming-xdmg]] |
-| 77–79 | [[staff-of-healing-xdmg]] |
-| 80–82 | [[staff-of-swarming-insects-xdmg]] |
-| 83–85 | [[staff-of-the-woodlands-xdmg]] |
-| 86–88 | [[staff-of-withering-xdmg]] |
-| 89–90 | [[stone-of-controlling-earth-elementals-xdmg]] |
-| 91–93 | [[tentacle-rod-xdmg]] |
-| 94–96 | [[wand-of-paralysis-xdmg]] |
-| 97–00 | [[2-wand-of-the-war-mage-xdmg]] |
+| 29–31 | [[Mace of Disruption]] |
+| 32–34 | [[Mace of Smiting]] |
+| 35–37 | [[Mace of Terror]] |
+| 38–40 | [[Necklace of Prayer Beads]] |
+| 41–43 | [[Periapt of Proof against Poison]] |
+| 44–51 | [[Potion of Superior Healing]] |
+| 52–54 | [[Ring of Animal Influence]] |
+| 55–58 | [[Ring of Resistance]] |
+| 59–61 | [[Ring of Spell Storing]] |
+| 62–65 | [[Scroll of Protection]] |
+| 66–73 | [[Spell Scroll]] ([[Spell Scroll (Level 4)]] or [[Spell Scroll (Level 5)]] spell) |
+| 74–76 | [[Staff of Charming]] |
+| 77–79 | [[Staff of Healing]] [Armor, +1](+1%20Armor.md)] |
+| 83–85 | [[Staff of the Woodlands]] |
+| 86–88 | [[Staff of Withering]] |
+| 89–90 | [[Stone of Controlling Earth Elementals]] |
+| 91–93 | [[Tentacle Rod]] |
+| 94–96 | [[Wand of Paralysis]] |
+| 97–00 | [[+2 Wand of the War Mage]] |
 ^relics-rare
 
 **Relics - Very Rare**
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–05 | [[2-armor-xdmg]] |
-| 06–10 | [[candle-of-invocation-xdmg]] |
-| 11–15 | [[cauldron-of-rebirth-xdmg]] |
-| 16–20 | [[enspelled-staff-xdmg]] (level 4 or 5 spell) |
+| 01–05 | [[+2 Armor]] |
+| 06–10 | [[Candle of Invocation]] |
+| 11–15 | [[Cauldron of Rebirth]] |
+| 16–20 | [[Enspelled Staff]] (level 4 or 5 spell) |
 | 21–25 | [[horn-of-valhalla-bronze-xdmg]] |
 | 26–30 | [[ioun-stone-xdmg]] ([[ioun-stone-insight-xdmg]]) |
-| 31–35 | [[manual-of-bodily-health-xdmg]] |
-| 36–43 | [[potion-of-supreme-healing-xdmg]] |
-| 44–50 | [[potion-of-vitality-xdmg]] |
-| 51–55 | [[rod-of-alertness-xdmg]] |
-| 56–65 | [[spell-scroll-xdmg]] ([[spell-scroll-level-6-xdmg]], [[spell-scroll-level-7-xdmg]], or [[spell-scroll-level-8-xdmg]] spell) |
-| 66–70 | [[spirit-board-xdmg]] |
-| 71–75 | [[staff-of-fire-xdmg]] |
-| 76–80 | [[staff-of-frost-xdmg]] |
-| 81–85 | [[staff-of-striking-xdmg]] |
-| 86–90 | [[staff-of-thunder-and-lightning-xdmg]] |
-| 91–95 | [[tome-of-understanding-xdmg]] |
-| 96–00 | [[3-wand-of-the-war-mage-xdmg]] |
+| 31–35 | [[Manual of Bodily Health]] |
+| 36–43 | [[Potion of Supreme Healing]] |
+| 44–50 | [[Potion of Vitality]] |
+| 51–55 | [[Rod of Alertness]] |
+| 56–65 | [[Spell Scroll]] ([[Spell Scroll (Level 6)]], [[Spell Scroll (Level 7)]], or [[Spell Scroll (Level 8)]] spell) |
+| 66–70 | [[Spirit Board]] |
+| 71–75 | [[Staff of Fire]] |
+| 76–80 | [[Staff of Frost]] |
+| 81–85 | [[Staff of Striking]] |
+| 86–90 | [[Staff of Thunder and Lightning]] |
+| 91–95 | [[Tome of Understanding]] |
+| 96–00 | [[+3 Wand of the War Mage]] |
 ^relics-very-rare
 
 **Relics - Legendary**
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–08 | [[armor-of-invulnerability-xdmg]] |
-| 09–18 | [[3-armor-xdmg]] |
-| 19–27 | [[enspelled-staff-xdmg]] (level 6, 7, or 8 spell) |
-| 28–36 | [[holy-avenger-xdmg]] |
+| 01–08 | [[Armor of Invulnerability]] |
+| 09–18 | [[+3 Armor]] |
+| 19–27 | [[Enspelled Staff]] (level 6, 7, or 8 spell) |
+| 28–36 | [[Holy Avenger]] |
 | 37–45 | [[horn-of-valhalla-iron-xdmg]] |
-| 46–54 | [[rod-of-resurrection-xdmg]] |
-| 55–63 | [[scarab-of-protection-xdmg]] |
-| 64–72 | [[scroll-of-titan-summoning-xdmg]] |
-| 73–80 | [[spell-scroll-xdmg]] ([[spell-scroll-level-9-xdmg]] spell) |
-| 81–90 | [[talisman-of-pure-good-xdmg]] |
-| 91–00 | [[talisman-of-ultimate-evil-xdmg]] |
+| 46–54 | [[Rod of Resurrection]] |
+| 55–63 | [[Scarab of Protection]] |
+| 64–72 | [[Scroll of Titan Summoning]] |
+| 73–80 | [[Spell Scroll]] ([[Spell Scroll (Level 9)]] spell) |
+| 81–90 | [[Talisman of Pure Good]] |
+| 91–00 | [[Talisman of Ultimate Evil]] |
 ^relics-legendary

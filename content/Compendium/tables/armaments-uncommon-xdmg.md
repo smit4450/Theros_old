@@ -24,15 +24,15 @@ aliases:
 | 34–38 | [[javelin-of-lightning-xdmg]] |
 | 39–43 | [[mariners-armor-xdmg]] |
 | 44–48 | [[mithral-armor-xdmg]] |
-| 49–53 | [[potion-of-hill-giant-strength-xdmg]] |
-| 54–58 | [[potion-of-pugilism-xdmg]] |
-| 59–62 | [[quiver-of-ehlonna-xdmg]] |
-| 63–66 | [[saddle-of-the-cavalier-xdmg]] |
-| 67–71 | [[sentinel-shield-xdmg]] |
+| 49–53 | [[Potion of Hill Giant Strength]] |
+| 54–58 | [[Potion of Pugilism]] |
+| 59–62 | [[Quiver of Ehlonna]] |
+| 63–66 | [[Saddle of the Cavalier]] |
+| 67–71 | [[Sentinel Shield]] |
 | 72–76 | [[1-shield-xdmg]] |
-| 77–81 | [[sword-of-vengeance-xdmg]] |
-| 82–85 | [[trident-of-fish-command-xdmg]] |
+| 77–81 | [[Sword of Vengeance]] |
+| 82–85 | [[Trident of Fish Command]] |
 | 86–90 | [[1-weapon-xdmg]] |
-| 91–95 | [[weapon-of-warning-xdmg]] |
+| 91–95 | [[Weapon of Warning]] |
 | 96–00 | [[1-wraps-of-unarmed-power-xdmg]] |
 ^armaments-uncommon

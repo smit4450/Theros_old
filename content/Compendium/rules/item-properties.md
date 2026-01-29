@@ -37,7 +37,7 @@ Attuning to an item requires you to spend a [[short-rest-xphb]] focused on only 
 
 ### No More Than Three Items
 
-You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can't attune to more than one copy of an item. For example, you can't attune to more than one [[ring-of-protection-xdmg]] at a time.
+You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can't attune to more than one copy of an item. For example, you can't attune to more than one [[Ring of Protection]] at a time.
 
 ### Ending Attunement
 
@@ -75,7 +75,7 @@ You have [[disadvantage-xphb]] on attack rolls with a Heavy weapon if it's a Mel
 
 ### Light
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
-When you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a [[bonus-action-xphb]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[shortsword-xphb]] in one hand and a [[dagger-xphb]] in the other using the [Attack](Compendium/rules/actions.md#Attack) action and a [[bonus-action-xphb]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[bonus-action-xphb]] unless that modifier is negative.
+When you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a [[bonus-action-xphb]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[Shortsword]] in one hand and a [[Dagger]] in the other using the [Attack](Compendium/rules/actions.md#Attack) action and a [[bonus-action-xphb]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[bonus-action-xphb]] unless that modifier is negative.
 
 ### Loading
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
@@ -168,4 +168,4 @@ In some settings, laws prohibit the possession and use of poison, but an illicit
 
 ### Harvesting Poison
 
-A character can attempt to harvest poison from a venomous creature that is dead or has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. The effort takes `1d6` minutes, after which the character makes a DC 20 Intelligence ([Nature](Compendium/rules/skills.md#Nature)) check using a [[poisoners-kit-xphb]]. On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
+A character can attempt to harvest poison from a venomous creature that is dead or has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. The effort takes `1d6` minutes, after which the character makes a DC 20 Intelligence ([Nature](Compendium/rules/skills.md#Nature)) check using a [[Poisoner's Kit]]. On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.

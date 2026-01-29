@@ -17,11 +17,7 @@ When a creature moves onto this trap's pressure plate for the first time on a tu
 
 A [[detect-magic-xphb]] spell reveals an aura of Evocation magic around the statue. As a [Search](Compendium/rules/actions.md#Search) action, a creature within 5 feet of the statue can examine it and make a DC 10 Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check, detecting a tiny glyph on the statue on a successful check. Once the glyph is found, a character can take a [Study](Compendium/rules/actions.md#Study) action to examine it and make a DC 15 Intelligence ([Arcana](Compendium/rules/skills.md#Arcana)) check, ascertaining that the glyph means "fire" on a successful check. As an action, a character can use a sharp tool to deface the glyph, which disarms the trap.
 
-As a [Search](Compendium/rules/actions.md#Search) action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check, detecting the pressure plate on a successful check. Wedging an [[iron-spikes-xphb]] or similar object under the pressure plate prevents the trap from triggering.
-
-## At Higher Levels
-
-You can scale the trap for higher levels by increasing the damage and the area of effect, as shown in the following table.
+As a [Search](Compendium/rules/actions.md#Search) action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check, detecting the pressure plate on a successful check. Wedging an [[iron-spikes-xphb]] or similar object under the pressure plate prevent[Iron Spike](Iron%20Spikes.md)You can scale the trap for higher levels by increasing the damage and the area of effect, as shown in the following table.
 
 | Levels | Fire Damage | Area of Effect |
 |--------|-------------|----------------|

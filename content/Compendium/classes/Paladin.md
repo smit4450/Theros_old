@@ -53,14 +53,14 @@ aliases:
 - **Saving Throw Proficiencies**: Charisma, Wisdom
 - **Skill Proficiencies**: *Choose 2:* [Athletics](Compendium/rules/skills.md#Athletics), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Medicine](Compendium/rules/skills.md#Medicine), [Persuasion](Compendium/rules/skills.md#Persuasion), or [Religion](Compendium/rules/skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy Armor), and [[shield-xphb]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy Armor), and [[Shield]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[chain-mail-xphb]], [[shield-xphb]], [[longsword-xphb]], 6 [[javelin-xphb]], [[holy-symbol-xphb]], [[priests-pack-xphb]], and 9 GP; or (B) 150 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Chain Mail]], [[Shield]], [[Longsword]], 6 [[Javelin]], [[Holy Symbol]], [[Priest's Pack]], and 9 GP; or (B) 150 GP
 
 ## Multiclassing Paladin
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[shield-xphb]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Shield]]
 
 ## Paladin
 
@@ -106,13 +106,13 @@ Charisma is your spellcasting ability for your Paladin spells.
 
 #### Spellcasting Focus
 
-You can use a [[holy-symbol-xphb]] as a [[spellcasting-focus-xphb]] for your Paladin spells.
+You can use a [[Holy Symbol]] as a [[spellcasting-focus-xphb]] for your Paladin spells.
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [[weapon-mastery-properties-xphb]] of two kinds of weapons of your choice with which you have proficiency, such as [[longsword-xphb]] and [[javelin-xphb]].
+Your training with weapons allows you to use the [[weapon-mastery-properties-xphb]] of two kinds of weapons of your choice with which you have proficiency, such as [[Longsword]] and [[Javelin]].
 
-Whenever you finish a [[long-rest-xphb]], you can change the kinds of weapons you chose. For example, you could switch to using the [[weapon-mastery-properties-xphb]] of [[halberd-xphb]] and [[flail-xphb]].
+Whenever you finish a [[long-rest-xphb]], you can change the kinds of weapons you chose. For example, you could switch to using the [[weapon-mastery-properties-xphb]] of [[Halberd]] and [[Flail]].
 
 ### Fighting Style (Level 2)
 
@@ -179,7 +179,7 @@ You gain the  [[Ability Score Improvement]] Feat or another feat of your choice 
 
 ### Abjure Foes (Level 9)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your [[holy-symbol-xphb]] or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the [Frightened](Compendium/rules/conditions.md#Frightened) condition for 1 minute or until it takes any damage. While [Frightened](Compendium/rules/conditions.md#Frightened) in this way, a target can do only one of the following on its turns: move, take an action, or take a [[bonus-action-xphb]].
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your [[Holy Symbol]] or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the [Frightened](Compendium/rules/conditions.md#Frightened) condition for 1 minute or until it takes any damage. While [Frightened](Compendium/rules/conditions.md#Frightened) in this way, a target can do only one of the following on its turns: move, take an action, or take a [[bonus-action-xphb]].
 
 ### Aura of Courage (Level 10)
 

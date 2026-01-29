@@ -39,34 +39,34 @@ aliases:
 | 36 | [[mantle-of-spell-resistance-xdmg]] |
 | 37–38 | [[necklace-of-fireballs-xdmg]] |
 | 39 | [[oil-of-etherealness-xdmg]] |
-| 40 | [[portable-hole-xdmg]] |
-| 41–42 | [[potion-of-clairvoyance-xdmg]] |
-| 43–44 | [[potion-of-diminution-xdmg]] |
-| 45–46 | [[potion-of-gaseous-form-xdmg]] |
-| 47 | [[potion-of-fire-giant-strength-xdmg]] |
-| 48–49 | [[potion-of-giant-strength-xdmg]] ([[potion-of-frost-giant-strength-xdmg]] or [[potion-of-stone-giant-strength-xdmg]]) |
-| 50–51 | [[potion-of-heroism-xdmg]] |
-| 52–53 | [[potion-of-invisibility-xdmg]] |
-| 54–55 | [[potion-of-invulnerability-xdmg]] |
-| 56–57 | [[potion-of-mind-reading-xdmg]] |
-| 58–59 | [[quaals-feather-token-xdmg]] ([[quaals-feather-token-bird-xdmg]], [[quaals-feather-token-swan-boat-xdmg]], or [[quaals-feather-token-whip-xdmg]]) |
-| 60–61 | [[ring-of-feather-falling-xdmg]] |
-| 62 | [[ring-of-spell-storing-xdmg]] |
-| 63 | [[ring-of-x-ray-vision-xdmg]] |
-| 64–65 | [[robe-of-eyes-xdmg]] |
-| 66 | [[rod-of-rulership-xdmg]] |
+| 40 | [[Portable Hole]] |
+| 41–42 | [[Potion of Clairvoyance]] |
+| 43–44 | [[Potion of Diminution]] |
+| 45–46 | [[Potion of Gaseous Form]] |
+| 47 | [[Potion of Fire Giant Strength]] |
+| 48–49 | [[Potion of Giant Strength]] ([[Potion of Frost Giant Strength]] or [[Potion of Stone Giant Strength]]) |
+| 50–51 | [[Potion of Heroism]] |
+| 52–53 | [[Potion of Invisibility]] |
+| 54–55 | [[Potion of Invulnerability]] |
+| 56–57 | [[Potion of Mind Reading]] |
+| 58–59 | [[Quaal's Feather Token]] ([[Quaal's Feather Token, Bird]], [[Quaal's Feather Token, Swan Boat]], or [[Quaal's Feather Token, Whip]]) |
+| 60–61 | [[Ring of Feather Falling]] |
+| 62 | [[Ring of Spell Storing]] |
+| 63 | [[Ring of X-ray Vision]] |
+| 64–65 | [[Robe of Eyes]] |
+| 66 | [[Rod of Rulership]] |
 | 67–68 | [[2-rod-of-the-pact-keeper-xdmg]] |
-| 69–70 | [[scroll-of-protection-xdmg]] |
-| 71–75 | [[spell-scroll-xdmg]] ([[spell-scroll-level-4-xdmg]] or [[spell-scroll-level-5-xdmg]] spell) |
-| 76–77 | [[staff-of-charming-xdmg]] |
-| 78–79 | [[staff-of-swarming-insects-xdmg]] |
-| 80–81 | [[staff-of-withering-xdmg]] |
-| 82 | [[stone-of-controlling-earth-elementals-xdmg]] |
-| 83–84 | [[wand-of-binding-xdmg]] |
-| 85–86 | [[wand-of-fear-xdmg]] |
-| 87–90 | [[wand-of-fireballs-xdmg]] |
-| 91–94 | [[wand-of-lightning-bolts-xdmg]] |
+| 69–70 | [[Scroll of Protection]] |
+| 71–75 | [[Spell Scroll]] ([[Spell Scroll (Level 4)]] or [[Spell Scroll (Level 5)]] spell) |
+| 76–77 | [[Staff of Charming]] |
+| 78–79 | [[Staff of Swarming Insects]] |
+| 80–81 | [[Staff of Withering]] |
+| 82 | [[Stone of Controlling Earth Elementals]] |
+| 83–84 | [[Wand of Binding]] |
+| 85–86 | [[Wand of Fear]] |
+| 87–90 | [[Wand of Fireballs]] |
+| 91–94 | [[Wand of Lightning Bolts]] |
 | 95–96 | [[2-wand-of-the-war-mage-xdmg]] |
-| 97–98 | [[wand-of-wonder-xdmg]] |
-| 99–00 | [[wings-of-flying-xdmg]] |
+| 97–98 | [[Wand of Wonder]] |
+| 99–00 | [[Wings of Flying]] |
 ^arcana-rare

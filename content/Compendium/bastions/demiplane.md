@@ -11,7 +11,7 @@ aliases:
 # Demiplane
 *Level 17 Bastion facility*  
 
-- **Prerequisites**: Ability to use an [[arcane-focus-xphb]] or tool as a [[spellcasting-focus-xphb]]
+- **Prerequisites**: Ability to use an [[Arcane Focus]] or tool as a [[spellcasting-focus-xphb]]
 - **Space**: Vast (36 sq)
 - **Hirelings**: 1
 - **Order**: empower

@@ -11,7 +11,7 @@ aliases:
 # Sanctuary
 *Level 5 Bastion facility*  
 
-- **Prerequisites**: Ability to use a [[holy-symbol-xphb]] or [[druidic-focus-xphb]] as a [[spellcasting-focus-xphb]]
+- **Prerequisites**: Ability to use a [[Holy Symbol]] or [[Druidic Focus]] as a [[spellcasting-focus-xphb]]
 - **Space**: Roomy (16 sq)
 - **Hirelings**: 1
 - **Order**: craft
@@ -24,6 +24,6 @@ After spending a Long Rest in your Bastion, you gain a magical [[sanctuary-charm
 
 ## Craft: Sacred Focus
 
-When you issue the "Craft" order to this facility, you commission the facility's hireling to craft a [[druidic-focus-xphb]] ([[wooden-staff-xphb]]) or a [[holy-symbol-xphb]]. The work takes 7 days and costs no money. The item remains in your Bastion until you claim it.
+When you issue the "Craft" order to this facility, you commission the facility's hireling to craft a [[Druidic Focus]] ([[Wooden Staff]]) or a [[Holy Symbol]]. The work takes 7 days and costs no money. The item remains in your Bastion until you claim it.
 
 *Source: Dungeon Master's Guide (2024) p. 345*

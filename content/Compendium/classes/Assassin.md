@@ -66,7 +66,7 @@ During the first round of each combat, you have [[advantage-xphb]] on attack rol
 
 ### Assassin's Tools (Level 3)
 
-You gain a [[disguise-kit-xphb]] and a [[poisoners-kit-xphb]], and you have proficiency with them.
+You gain a [[Disguise Kit]] and a [[Poisoner's Kit]], and you have proficiency with them.
 
 ### Infiltration Expertise (Level 9)
 

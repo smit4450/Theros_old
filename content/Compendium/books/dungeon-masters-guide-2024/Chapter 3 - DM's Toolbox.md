@@ -253,19 +253,19 @@ You can create a new magic item by tweaking one or more existing ones. Suggestio
 
 #### Altered Capabilities
 
-One capability can replace a similar one. For example, a [[potion-of-climbing-xdmg]] could become a *Potion of Swimming*.
+One capability can replace a similar one. For example, a [[Potion of Climbing]] could become a *Potion of Swimming*.
 
 #### Altered Form
 
-You can alter a magic item's form while leaving its properties intact. For example, you can turn a [[ring-of-the-ram-xdmg]] into a wand or a [[cloak-of-protection-xdmg]] into some other worn object (such as a circlet) without altering the item's properties.
+You can alter a magic item's form while leaving its properties intact. For example, you can turn a [[Ring of the Ram]] into a wand or a [[Cloak of Protection]] into some other worn object (such as a circlet) without altering the item's properties.
 
 #### Altered Damage Types
 
-An item that deals damage of one type could instead deal damage of another type. For example, a [[flame-tongue-xdmg]] sword could deal Lightning damage instead of Fire damage.
+An item that deals damage of one type could instead deal damage of another type. For example, a [[Flame Tongue]] sword could deal Lightning damage instead of Fire damage.
 
 #### Combining Items
 
-You can merge the properties of two magic items of the same rarity into a single item, provided no more than one of them requires [[attunement-xphb]]. For example, you could combine the properties of a [[helm-of-comprehending-languages-xdmg]] with those of a [[helm-of-telepathy-xdmg]] into a single helmet. This makes the item more powerful (and probably increases its rarity), but it won't break your game.
+You can merge the properties of two magic items of the same rarity into a single item, provided no more than one of them requires [[attunement-xphb]]. For example, you could combine the properties of a [[Helm of Comprehending Languages]] with those of a [[Helm of Telepathy]] into a single helmet. This makes the item more powerful (and probably increases its rarity), but it won't break your game.
 
 #### Special Features and Sentience
 
@@ -275,7 +275,7 @@ You can merge the properties of two magic items of the same rarity into a single
 
 If modifying an item doesn't quite fulfill the need, you can create one from scratch.
 
-A magic item should either let a character do something they couldn't do before or improve the character's ability to do something they can do already. For example, a [[ring-of-jumping-xdmg]] lets its wearer jump greater distances, thus augmenting what a character can already do. A [[ring-of-the-ram-xdmg]], however, gives a character the ability to deal Force damage.
+A magic item should either let a character do something they couldn't do before or improve the character's ability to do something they can do already. For example, a [[Ring of Jumping]] lets its wearer jump greater distances, thus augmenting what a character can already do. A [[Ring of the Ram]], however, gives a character the ability to deal Force damage.
 
 The simpler your approach, the easier it is for a character to use the item in play. Giving the item charges is fine, especially if it has several different abilities, but simply deciding that an item is always active or can be used a fixed number of times per day might be easier to manage.
 
@@ -487,7 +487,7 @@ A barred door has no lock. A creature on the barred side of the door can take th
 
 #### Locked Door
 
-Characters who don't have the key to a locked door can try to pick the lock using [[thieves-tools-xphb]]. The Lock Complexity table tells you how long it takes to try to pick a lock based on its complexity. At the end of that time, the character picks the lock by making a successful Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check using Thieves' Tools. The DC is determined by the lock's quality, as shown in the Lock Quality table.
+Characters who don't have the key to a locked door can try to pick the lock using [[Thieves' Tools]]. The Lock Complexity table tells you how long it takes to try to pick a lock based on its complexity. At the end of that time, the character picks the lock by making a successful Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check using Thieves' Tools. The DC is determined by the lock's quality, as shown in the Lock Quality table.
 
 ![[locked-door-lock-complexity-xdmg]]
 
@@ -1085,26 +1085,26 @@ In some settings, laws prohibit the possession and use of poison, but an illicit
 
 ### Harvesting Poison
 
-A character can attempt to harvest poison from a venomous creature that is dead or has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. The effort takes `1d6` minutes, after which the character makes a DC 20 Intelligence ([Nature](Compendium/rules/skills.md#Nature)) check using a [[poisoners-kit-xphb]]. On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
+A character can attempt to harvest poison from a venomous creature that is dead or has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. The effort takes `1d6` minutes, after which the character makes a DC 20 Intelligence ([Nature](Compendium/rules/skills.md#Nature)) check using a [[Poisoner's Kit]]. On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
 
 ### Sample Poisons
 
 Example poisons are detailed here in alphabetical order. Each poison's description includes the suggested price for a single dose of the poison, its type (contact, ingested, inhaled, or injury), and a description of the poison's debilitating effects.
 
-- [[assassins-blood-xdmg]]  
-- [[burnt-othur-fumes-xdmg]]  
-- [[carrion-crawler-mucus-xdmg]]  
-- [[essence-of-ether-xdmg]]  
+- [[Assassin's Blood]]  
+- [[Burnt Othur Fumes]]  
+- [[Carrion Crawler Mucus]]  
+- [[Essence of Ether]]  
 - [[lolths-sting-xdmg]]  
-- [[malice-xdmg]]  
-- [[midnight-tears-xdmg]]  
-- [[oil-of-taggit-xdmg]]  
-- [[pale-tincture-xdmg]]  
-- [[purple-worm-poison-xdmg]]  
-- [[serpent-venom-xdmg]]  
-- [[torpor-xdmg]]  
-- [[truth-serum-xdmg]]  
-- [[wyvern-poison-xdmg]]  
+- [[Malice]]  
+- [[Midnight Tears]]  
+- [[Oil of Taggit]]  
+- [[Pale Tincture]]  
+- [[Purple Worm Poison]]  
+- [[Serpent Venom]]  
+- [[Torpor]]  
+- [[Truth Serum]]  
+- [[Wyvern Poison]]  
 
 ## Renown
 
@@ -1155,7 +1155,7 @@ If you want to use the benefits of renown without tracking Renown Scores, you ca
 
 Your campaign world is likely to include settlements that characters can visit. The characters might even adopt one of these settlements as a home base, in or near which they can build their Bastions when they are of high enough level to do so (see "chapter 8").
 
-The Settlements by Size table provides population ranges for villages, towns, and cities as well as the value of the most expensive item the settlement is likely to have for sale. Adjust these numbers as you wish to account for special circumstances. For example, a [[potion-of-healing-xdmg]] (which costs 50 GP) is too expensive an item to purchase in most villages, but a village that happens to have an alchemist, an herbalist, or a potion brewer might have one or more such potions for sale.
+The Settlements by Size table provides population ranges for villages, towns, and cities as well as the value of the most expensive item the settlement is likely to have for sale. Adjust these numbers as you wish to account for special circumstances. For example, a [[Potion of Healing]] (which costs 50 GP) is too expensive an item to purchase in most villages, but a village that happens to have an alchemist, an herbalist, or a potion brewer might have one or more such potions for sale.
 
 ![[settlements-by-size-xdmg]]
 

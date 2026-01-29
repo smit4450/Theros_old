@@ -74,7 +74,7 @@ You have [[disadvantage-xphb]] on attack rolls with a Heavy weapon if it's a Mel
 
 #### Light
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[shortsword-xphb]] in one hand and a [[dagger-xphb]] in the other using the [Attack](Compendium/rules/actions.md#Attack) action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
+When you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[Shortsword]] in one hand and a [[Dagger]] in the other using the [Attack](Compendium/rules/actions.md#Attack) action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
 
 #### Loading
 
@@ -206,119 +206,119 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 - **Ability.** Intelligence  
 - **Weight.** 8 lb.  
 - **Utilize.** Identify a substance (DC 15), or start a fire (DC 15)  
-- **Craft.** [[acid-xphb]], [[alchemists-fire-xphb]], [[component-pouch-xphb]], [[oil-xphb]], [[paper-xphb]], [[perfume-xphb]]  
+- **Craft.** [[Acid]], [[Alchemist's Fire]], [[Component Pouch]], [[Oil]], [[Paper]], [[Perfume]]  
 
 #### Brewer's Supplies (20 GP)
 
 - **Ability.** Intelligence  
 - **Weight.** 9 lb.  
 - **Utilize.** Detect poisoned drink (DC 15), or identify alcohol (DC 10)  
-- **Craft.** [[antitoxin-xphb]]  
+- **Craft.** [[Antitoxin]]  
 
 #### Calligrapher's Supplies (10 GP)
 
 - **Ability.** Dexterity  
 - **Weight.** 5 lb.  
 - **Utilize.** Write text with impressive flourishes that guard against forgery (DC 15)  
-- **Craft.** [[ink-xphb]], [[spell-scroll-xdmg]]  
+- **Craft.** [[Ink]], [[Spell Scroll]]  
 
 #### Carpenter's Tools (8 GP)
 
 - **Ability.** Strength  
 - **Weight.** 6 lb.  
 - **Utilize.** Seal or pry open a door or container (DC 20)  
-- **Craft.** [[club-xphb]], [[greatclub-xphb]], [[quarterstaff-xphb]], [[barrel-xphb]], [[chest-xphb]], [[ladder-xphb]], [[pole-xphb]], [[portable-ram-xphb]], [[torch-xphb]]  
+- **Craft.** [[Club]], [[Greatclub]], [[Quarterstaff]], [[Barrel]], [[Chest]], [[Ladder]], [[Pole]], [[Portable Ram]], [[Torch]]  
 
 #### Cartographer's Tools (15 GP)
 
 - **Ability.** Wisdom  
 - **Weight.** 6 lb.  
 - **Utilize.** Draft a map of a small area (DC 15)  
-- **Craft.** [[map-xphb]]  
+- **Craft.** [[Map]]  
 
 #### Cobbler's Tools (5 GP)
 
 - **Ability.** Dexterity  
 - **Weight.** 5 lb.  
 - **Utilize.** Modify footwear to give [[advantage-xphb]] on the wearer's next Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check (DC 10)  
-- **Craft.** [[climbers-kit-xphb]]  
+- **Craft.** [[Climber's Kit]]  
 
 #### Cook's Utensils (1 GP)
 
 - **Ability.** Wisdom  
 - **Weight.** 8 lb.  
 - **Utilize.** Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15)  
-- **Craft.** [[rations-xphb]]  
+- **Craft.** [[Rations]]  
 
 #### Glassblower's Tools (30 GP)
 
 - **Ability.** Intelligence  
 - **Weight.** 5 lb.  
 - **Utilize.** Discern what a glass object held in the past 24 hours (DC 15)  
-- **Craft.** [[glass-bottle-xphb]], [[magnifying-glass-xphb]], [[spyglass-xphb]], [[vial-xphb]]  
+- **Craft.** [[Glass Bottle]], [[Magnifying Glass]], [[Spyglass]], [[Vial]]  
 
 #### Jeweler's Tools (25 GP)
 
 - **Ability.** Intelligence  
 - **Weight.** 2 lb.  
 - **Utilize.** Discern a gem's value (DC 15)  
-- **Craft.** [[arcane-focus-xphb]], [[holy-symbol-xphb]]  
+- **Craft.** [[Arcane Focus]], [[Holy Symbol]]  
 
 #### Leatherworker's Tools (5 GP)
 
 - **Ability.** Dexterity  
 - **Weight.** 5 lb.  
 - **Utilize.** Add a design to a leather item (DC 10)  
-- **Craft.** [[sling-xphb]], [[whip-xphb]], [[hide-armor-xphb]], [[leather-armor-xphb]], [[studded-leather-armor-xphb]], [[backpack-xphb]], [[crossbow-bolt-case-xphb]], [[map-or-scroll-case-xphb]], [[parchment-xphb]], [[pouch-xphb]], [[quiver-xphb]], [[waterskin-xphb]]  
+- **Craft.** [[Sling]], [[Whip]], [[Hide Armor]], [[Leather Armor]], [[Studded Leather Armor]], [[Backpack]], [[Crossbow Bolt Case]], [[Map or Scroll Case]], [[Parchment]], [[Pouch]], [[Quiver]], [[Waterskin]]  
 
 #### Mason's Tools (10 GP)
 
 - **Ability.** Strength  
 - **Weight.** 8 lb.  
 - **Utilize.** Chisel a symbol or hole in stone (DC 10)  
-- **Craft.** [[block-and-tackle-xphb]]  
+- **Craft.** [[Block and Tackle]]  
 
 #### Painter's Supplies (10 GP)
 
 - **Ability.** Wisdom  
 - **Weight.** 5 lb.  
 - **Utilize.** Paint a recognizable image of something you've seen (DC 10)  
-- **Craft.** [[druidic-focus-xphb]], [[holy-symbol-xphb]]  
+- **Craft.** [[Druidic Focus]], [[Holy Symbol]]  
 
 #### Potter's Tools (10 GP)
 
 - **Ability.** Intelligence  
 - **Weight.** 3 lb.  
 - **Utilize.** Discern what a ceramic object held in the past 24 hours (DC 15)  
-- **Craft.** [[jug-xphb]], [[lamp-xphb]]  
+- **Craft.** [[Jug]], [[Lamp]]  
 
 #### Smith's Tools (20 GP)
 
 - **Ability.** Strength  
 - **Weight.** 8 lb.  
 - **Utilize.** Pry open a door or container (DC 20)  
-- **Craft.** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, [[ball-bearings-xphb]], [[bucket-xphb]], [[caltrops-xphb]], [[chain-xphb]], [[crowbar-xphb]], [[firearm-bullets-10-xphb]], [[grappling-hook-xphb]], [[iron-pot-xphb]], [[iron-spikes-xphb]], [[sling-bullet-xphb]]  
+- **Craft.** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, [[Ball Bearings]], [[Bucket]], [[Caltrops]], [[Chain]], [[Crowbar]], [[firearm-bullets-10-xphb]], [[Grappling Hook]], [[Iron Pot]], [[Iron Spikes]], [[Sling Bullet]]  
 
 #### Tinker's Tools (50 GP)
 
 - **Ability.** Dexterity  
 - **Weight.** 10 lb.  
 - **Utilize.** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)  
-- **Craft.** [[musket-xphb]], [[pistol-xphb]], [[bell-xphb]], [[bullseye-lantern-xphb]], [[flask-xphb]], [[hooded-lantern-xphb]], [[hunting-trap-xphb]], [[lock-xphb]], [[manacles-xphb]], [[mirror-xphb]], [[shovel-xphb]], [[signal-whistle-xphb]], [[tinderbox-xphb]]  
+- **Craft.** [[Musket]], [[pistol-xphb]], [[Bell]], [[Bullseye Lantern]], [[Flask]], [[Hooded Lantern]], [[Hunting Trap]], [[Lock]], [[Manacles]], [[Mirror]], [[Shovel]], [[Signal Whistle]], [[Tinderbox]]  
 
 #### Weaver's Tools (1 GP)
 
 - **Ability.** Dexterity  
 - **Weight.** 5 lb.  
 - **Utilize.** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)  
-- **Craft.** [[padded-armor-xphb]], [[basket-xphb]], [[bedroll-xphb]], [[blanket-xphb]], [[fine-clothes-xphb]], [[net-xphb]], [[robe-xphb]], [[rope-xphb]], [[sack-xphb]], [[string-xphb]], [[tent-xphb]], [[travelers-clothes-xphb]]  
+- **Craft.** [[Padded Armor]], [[Basket]], [[Bedroll]], [[Blanket]], [[Fine Clothes]], [[Net]], [[Robe]], [[Rope]], [[Sack]], [[String]], [[Tent]], [[Traveler's Clothes]]  
 
 #### Woodcarver's Tools (1 GP)
 
 - **Ability.** Dexterity  
 - **Weight.** 5 lb.  
 - **Utilize.** Carve a pattern in wood (DC 10)  
-- **Craft.** [[club-xphb]], [[greatclub-xphb]], [[quarterstaff-xphb]], Ranged weapons (except Pistol, Musket, and Sling), [[arcane-focus-xphb]], [[arrows-20-xphb]], [[bolts-20-xphb]], [[druidic-focus-xphb]], [[ink-pen-xphb]], [[needles-50-xphb]]  
+- **Craft.** [[Club]], [[Greatclub]], [[Quarterstaff]], Ranged weapons (except Pistol, Musket, and Sling), [[Arcane Focus]], [[Arrows (20)]], [[Bolts (20)]], [[Druidic Focus]], [[Ink Pen]], [[Needles (50)]]  
 
 ### Other Tools
 
@@ -329,7 +329,7 @@ These tools support adventure and other pursuits.
 - **Ability.** Charisma  
 - **Weight.** 3 lb.  
 - **Utilize.** Apply makeup (DC 10)  
-- **Craft.** [[costume-xphb]]  
+- **Craft.** [[Costume]]  
 
 #### Forgery Kit (15 GP)
 
@@ -342,21 +342,21 @@ These tools support adventure and other pursuits.
 - **Ability.** Wisdom  
 - **Weight.** —  
 - **Utilize.** Discern whether someone is cheating (DC 10), or win the game (DC 20)  
-- **Variants.** [[dice-set-xphb]] (1 SP), [[dragonchess-set-xphb]] (1 GP), [[playing-cards-xphb]] (5 SP), [[three-dragon-ante-set-xphb]] (1 GP)  
+- **Variants.** [[Dice Set]] (1 SP), [[Dragonchess Set]] (1 GP), [[Playing Cards]] (5 SP), [[Three-Dragon Ante Set]] (1 GP)  
 
 #### Herbalism Kit (5 GP)
 
 - **Ability.** Intelligence  
 - **Weight.** 3 lb.  
 - **Utilize.** Identify a plant (DC 10)  
-- **Craft.** [[antitoxin-xphb]], [[candle-xphb]], [[healers-kit-xphb]], [[potion-of-healing-xdmg]]  
+- **Craft.** [[Antitoxin]], [[Candle]], [[Healer's Kit]], [[Potion of Healing]]  
 
 #### Musical Instrument (Varies)
 
 - **Ability.** Charisma  
 - **Weight.** Varies  
 - **Utilize.** Play a known tune (DC 10), or improvise a song (DC 15)  
-- **Variants.** [[bagpipes-xphb]] (30 GP, 6 lb.), [[drum-xphb]] (6 GP, 3 lb.), [[dulcimer-xphb]] (25 GP, 10 lb.), [[flute-xphb]] (2 GP, 1 lb.), horn (3 GP, 2 lb.), [[lute-xphb]] (35 GP, 2 lb.), [[lyre-xphb]] (30 GP, 2 lb.), [[pan-flute-xphb]] (12 GP, 2 lb.), [[shawm-xphb]] (2 GP, 1 lb.), [[viol-xphb]] (30 GP, 1 lb.)  
+- **Variants.** [[Bagpipes]] (30 GP, 6 lb.), [[Drum]] (6 GP, 3 lb.), [[Dulcimer]] (25 GP, 10 lb.), [[Flute]] (2 GP, 1 lb.), horn (3 GP, 2 lb.), [[Lute]] (35 GP, 2 lb.), [[Lyre]] (30 GP, 2 lb.), [[Pan Flute]] (12 GP, 2 lb.), [[Shawm]] (2 GP, 1 lb.), [[Viol]] (30 GP, 1 lb.)  
 
 #### Navigator's Tools (25 GP)
 
@@ -369,7 +369,7 @@ These tools support adventure and other pursuits.
 - **Ability.** Intelligence  
 - **Weight.** 2 lb.  
 - **Utilize.** Detect a poisoned object (DC 10)  
-- **Craft.** [[basic-poison-xphb]]  
+- **Craft.** [[Basic Poison]]  
 
 #### Thieves' Tools (25 GP)
 
@@ -455,7 +455,7 @@ A Bucket holds up to half a cubic foot of contents.
 
 ### Burglar's Pack (16 GP)
 
-A Burglar's Pack contains the following items: [[backpack-xphb]], [[ball-bearings-xphb]], [[bell-xphb]], 10 [[candle-xphb]], [[crowbar-xphb]], [[hooded-lantern-xphb]], 7 flasks of [[oil-xphb]], 5 days of [[rations-xphb]], [[rope-xphb]], [[tinderbox-xphb]], and [[waterskin-xphb]].
+A Burglar's Pack contains the following items: [[Backpack]], [[Ball Bearings]], [[Bell]], 10 [[Candle]], [[Crowbar]], [[Hooded Lantern]], 7 flasks of [[Oil]], 5 days of [[Rations]], [[Rope]], [[Tinderbox]], and [[Waterskin]].
 
 ### Caltrops (1 GP)
 
@@ -467,11 +467,11 @@ For 1 hour, a lit Candle sheds [[bright-light-xphb]] in a 5-foot radius and [[di
 
 ### Case, Crossbow Bolt (1 GP)
 
-A Crossbow Bolt Case holds up to 20 [[bolts-20-xphb]].
+A Crossbow Bolt Case holds up to 20 [[Bolts (20)]].
 
 ### Case, Map or Scroll (1 GP)
 
-A Map or Scroll Case holds up to 10 sheets of [[paper-xphb]] or 5 sheets of [[parchment-xphb]].
+A Map or Scroll Case holds up to 10 sheets of [[Paper]] or 5 sheets of [[Parchment]].
 
 ### Chain (5 GP)
 
@@ -507,7 +507,7 @@ Using a Crowbar gives you [[advantage-xphb]] on Strength checks where the Crowba
 
 ### Diplomat's Pack (39 GP)
 
-A Diplomat's Pack contains the following items: [[chest-xphb]], [[fine-clothes-xphb]], [[ink-xphb]], 5 [[ink-pen-xphb]], [[lamp-xphb]], 2 [[map-or-scroll-case-xphb]], 4 flasks of [[oil-xphb]], 5 sheets of [[paper-xphb]], 5 sheets of [[parchment-xphb]], [[perfume-xphb]], and [[tinderbox-xphb]].
+A Diplomat's Pack contains the following items: [[Chest]], [[Fine Clothes]], [[Ink]], 5 [[Ink Pen]], [[Lamp]], 2 [[Map or Scroll Case]], 4 flasks of [[Oil]], 5 sheets of [[Paper]], 5 sheets of [[Parchment]], [[Perfume]], and [[Tinderbox]].
 
 ### Druidic Focus (Varies)
 
@@ -517,15 +517,15 @@ A Druidic Focus takes one of the forms in the Druidic Focuses table and is carve
 
 ### Dungeoneer's Pack (12 GP)
 
-A Dungeoneer's Pack contains the following items: [[backpack-xphb]], [[caltrops-xphb]], [[crowbar-xphb]], 2 flasks of [[oil-xphb]], 10 days of [[rations-xphb]], [[rope-xphb]], [[tinderbox-xphb]], 10 [[torch-xphb]], and [[waterskin-xphb]].
+A Dungeoneer's Pack contains the following items: [[Backpack]], [[Caltrops]], [[Crowbar]], 2 flasks of [[Oil]], 10 days of [[Rations]], [[Rope]], [[Tinderbox]], 10 [[Torch]], and [[Waterskin]].
 
 ### Entertainer's Pack (40 GP)
 
-An Entertainer's Pack contains the following items: [[backpack-xphb]], [[bedroll-xphb]], [[bell-xphb]], [[bullseye-lantern-xphb]], 3 [[costume-xphb]], [[mirror-xphb]], 8 flasks of [[oil-xphb]], 9 days of [[rations-xphb]], [[tinderbox-xphb]], and [[waterskin-xphb]].
+An Entertainer's Pack contains the following items: [[Backpack]], [[Bedroll]], [[Bell]], [[Bullseye Lantern]], 3 [[Costume]], [[Mirror]], 8 flasks of [[Oil]], 9 days of [[Rations]], [[Tinderbox]], and [[Waterskin]].
 
 ### Explorer's Pack (10 GP)
 
-An Explorer's Pack contains the following items: [[backpack-xphb]], [[bedroll-xphb]], 2 flasks of [[oil-xphb]], 10 days of [[rations-xphb]], [[rope-xphb]], [[tinderbox-xphb]], 10 [[torch-xphb]], and [[waterskin-xphb]].
+An Explorer's Pack contains the following items: [[Backpack]], [[Bedroll]], 2 flasks of [[Oil]], 10 days of [[Rations]], [[Rope]], [[Tinderbox]], 10 [[Torch]], and [[Waterskin]].
 
 ### Flask (2 CP)
 
@@ -533,7 +533,7 @@ A Flask holds up to 1 pint.
 
 ### Grappling Hook (2 GP)
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can throw the Grappling Hook at a railing, a ledge, or another catch within 50 feet of yourself, and the hook catches on if you succeed on a DC 13 Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check. If you tied a [[rope-xphb]] to the hook, you can then climb it.
+As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can throw the Grappling Hook at a railing, a ledge, or another catch within 50 feet of yourself, and the hook catches on if you succeed on a DC 13 Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check. If you tied a [[Rope]] to the hook, you can then climb it.
 
 ### Healer's Kit (5 GP)
 
@@ -561,7 +561,7 @@ Ink comes in a 1-ounce bottle, which provides enough ink to write about 500 page
 
 ### Ink Pen (2 CP)
 
-Using [[ink-xphb]], an Ink Pen is used to write or draw.
+Using [[Ink]], an Ink Pen is used to write or draw.
 
 ### Jug (2 CP)
 
@@ -573,21 +573,21 @@ A Ladder is 10 feet tall. You must climb to move up or down it.
 
 ### Lamp (5 SP)
 
-A Lamp burns [[oil-xphb]] as fuel to cast [[bright-light-xphb]] in a 15-foot radius and [[dim-light-xphb]] for an additional 30 feet.
+A Lamp burns [[Oil]] as fuel to cast [[bright-light-xphb]] in a 15-foot radius and [[dim-light-xphb]] for an additional 30 feet.
 
 ### Lantern, Bullseye (10 GP)
 
-A Bullseye Lantern burns [[oil-xphb]] as fuel to cast [[bright-light-xphb]] in a 60-foot [[cone-area-of-effect-xphb]] and [[dim-light-xphb]] for an additional 60 feet.
+A Bullseye Lantern burns [[Oil]] as fuel to cast [[bright-light-xphb]] in a 60-foot [[cone-area-of-effect-xphb]] and [[dim-light-xphb]] for an additional 60 feet.
 
 ![Lamp and Net](Compendium/books/players-handbook-2024/img/178-07-004-lamp-net.webp#center)
 
 ### Lantern, Hooded (5 GP)
 
-A Hooded Lantern burns [[oil-xphb]] as fuel to cast [[bright-light-xphb]] in a 30-foot radius and [[dim-light-xphb]] for an additional 30 feet. As a Bonus Action, you can lower the hood, reducing the light to Dim Light in a 5-foot radius, or raise it again.
+A Hooded Lantern burns [[Oil]] as fuel to cast [[bright-light-xphb]] in a 30-foot radius and [[dim-light-xphb]] for an additional 30 feet. As a Bonus Action, you can lower the hood, reducing the light to Dim Light in a 5-foot radius, or raise it again.
 
 ### Lock (10 GP)
 
-A Lock comes with a key. Without the key, a creature can use [[thieves-tools-xphb]] to pick this Lock with a successful DC 15 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check.
+A Lock comes with a key. Without the key, a creature can use [[Thieves' Tools]] to pick this Lock with a successful DC 15 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check.
 
 ### Magnifying Glass (100 GP)
 
@@ -597,7 +597,7 @@ A Magnifying Glass grants [[advantage-xphb]] on any ability check made to apprai
 
 As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the [Grappled](Compendium/rules/conditions.md#Grappled), [Incapacitated](Compendium/rules/conditions.md#Incapacitated), or [Restrained](Compendium/rules/conditions.md#Restrained) condition if you succeed on a DC 13 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check. While bound, a creature has [[disadvantage-xphb]] on attack rolls, and the creature is [Restrained](Compendium/rules/conditions.md#Restrained) if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check as an action. Bursting them requires a successful DC 25 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check as an action.
 
-Each set of Manacles comes with a key. Without the key, a creature can use [[thieves-tools-xphb]] to pick the Manacles' lock with a successful DC 15 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check.
+Each set of Manacles comes with a key. Without the key, a creature can use [[Thieves' Tools]] to pick the Manacles' lock with a successful DC 15 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check.
 
 ### Map (1 GP)
 
@@ -663,11 +663,11 @@ A Pouch holds up to 6 pounds within one-fifth of a cubic foot.
 
 ### Priest's Pack (33 GP)
 
-A Priest's Pack contains the following items: [[backpack-xphb]], [[blanket-xphb]], [[holy-water-xphb]], [[lamp-xphb]], 7 days of [[rations-xphb]], [[robe-xphb]], and [[tinderbox-xphb]].
+A Priest's Pack contains the following items: [[Backpack]], [[Blanket]], [[Holy Water]], [[Lamp]], 7 days of [[Rations]], [[Robe]], and [[Tinderbox]].
 
 ### Quiver (1 GP)
 
-A Quiver holds up to 20 [[arrows-20-xphb]].
+A Quiver holds up to 20 [[Arrows (20)]].
 
 ### Ram, Portable (4 GP)
 
@@ -693,7 +693,7 @@ A Sack holds up to 30 pounds within 1 cubic foot.
 
 ### Scholar's Pack (40 GP)
 
-A Scholar's Pack contains the following items: [[backpack-xphb]], [[book-xphb]], [[ink-xphb]], [[ink-pen-xphb]], [[lamp-xphb]], 10 flasks of [[oil-xphb]], 10 sheets of [[parchment-xphb]], and [[tinderbox-xphb]].
+A Scholar's Pack contains the following items: [[Backpack]], [[Book]], [[Ink]], [[Ink Pen]], [[Lamp]], 10 flasks of [[Oil]], 10 sheets of [[Parchment]], and [[Tinderbox]].
 
 ### Shovel (2 GP)
 
@@ -711,7 +711,7 @@ If the spell requires a saving throw or an attack roll, the spell save DC is 13,
 
 ### Spikes, Iron (1 GP)
 
-Iron Spikes come in bundles of ten. As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can use a blunt object, such as a [[light-hammer-xphb]], to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [[rope-xphb]] or [[chain-xphb]] to the Spike.
+Iron Spikes come in bundles of ten. As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can use a blunt object, such as a [[Light Hammer]], to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [[Rope]] or [[Chain]] to the Spike.
 
 ### Spyglass (1,000 GP)
 
@@ -727,7 +727,7 @@ A Tent sleeps up to two Small or Medium creatures.
 
 ### Tinderbox (5 SP)
 
-A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a [[candle-xphb]], [[lamp-xphb]], Lantern, or [[torch-xphb]]—or anything else with exposed fuel—takes a Bonus Action. Lighting any other fire takes 1 minute.
+A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a [[Candle]], [[Lamp]], Lantern, or [[Torch]]—or anything else with exposed fuel—takes a Bonus Action. Lighting any other fire takes 1 minute.
 
 ### Torch (1 CP)
 
@@ -865,9 +865,9 @@ Some magic items are indistinguishable from their nonmagical counterparts, while
 
 The [[identify-xphb]] spell is the fastest way to reveal an item's properties. Alternatively, you can focus on one magic item during a [[short-rest-xphb]] while being in physical contact with the item. At the end of the rest, you learn its properties and how to use them (but not any curse the item might bear).
 
-Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched inside the band, or a feathered design might hint that it's a [[ring-of-feather-falling-xdmg]].
+Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched inside the band, or a feathered design might hint that it's a [[Ring of Feather Falling]].
 
-Wearing or experimenting with an item can also offer hints about its properties. In the specific case of Potions, a little taste is enough to tell the taster what a potion does. Other items might require more experimentation. For example, if your character puts on a [[ring-of-swimming-xdmg]], the DM might say, "Your movement feels strangely fluid." Perhaps you then dive into a river to see what happens. The DM would then say you swim unexpectedly well.
+Wearing or experimenting with an item can also offer hints about its properties. In the specific case of Potions, a little taste is enough to tell the taster what a potion does. Other items might require more experimentation. For example, if your character puts on a [[Ring of Swimming]], the DM might say, "Your movement feels strangely fluid." Perhaps you then dive into a river to see what happens. The DM would then say you swim unexpectedly well.
 
 ### Attunement
 
@@ -879,7 +879,7 @@ Attuning to an item requires you to spend a [[short-rest-xphb]] focused on only 
 
 #### No More Than Three Items
 
-You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can't attune to more than one copy of an item. For example, you can't attune to more than one [[ring-of-protection-xdmg]] at a time.
+You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can't attune to more than one copy of an item. For example, you can't attune to more than one [[Ring of Protection]] at a time.
 
 #### Ending Attunement
 
@@ -897,11 +897,11 @@ You can't wear more than one of certain magic items. You can't normally wear mor
 
 #### Paired Items
 
-Items that come in pairs—such as boots, bracers, gauntlets, and gloves—impart their benefits only if both items of the pair are worn. For example, a character wearing a [[boots-of-striding-and-springing-xdmg]] on one foot and a [[boots-of-elvenkind-xdmg]] on the other foot gains no benefit from either.
+Items that come in pairs—such as boots, bracers, gauntlets, and gloves—impart their benefits only if both items of the pair are worn. For example, a character wearing a [[Boots of Striding and Springing]] on one foot and a [[Boots of Sneaking]] on the other foot gains no benefit from either.
 
 ## Crafting Equipment
 
-Using the rules below, characters can make nonmagical items, [[potion-of-healing-xdmg]], and [[spell-scroll-xdmg]].
+Using the rules below, characters can make nonmagical items, [[Potion of Healing]], and [[Spell Scroll]].
 
 ### Crafting Nonmagical Items
 
@@ -927,11 +927,11 @@ Characters can combine their efforts to shorten the crafting time. Divide the ti
 
 ### Brewing Potions of Healing
 
-A character who has proficiency with the Herbalism Kit can create a [[potion-of-healing-xdmg]]. Doing so requires using that kit and 25 GP of raw material over the course of 1 day (8 hours of work).
+A character who has proficiency with the Herbalism Kit can create a [[Potion of Healing]]. Doing so requires using that kit and 25 GP of raw material over the course of 1 day (8 hours of work).
 
 ### Scribing Spell Scrolls
 
-A spellcaster can transfer a spell to a scroll and create a [[spell-scroll-xdmg]], using the rules below.
+A spellcaster can transfer a spell to a scroll and create a [[Spell Scroll]], using the rules below.
 
 #### Time and Cost
 
@@ -939,7 +939,7 @@ Scribing a scroll takes an amount of time and money based on the level of the sp
 
 #### Prerequisites for the Scribe
 
-To scribe a scroll, you must have proficiency in the [Arcana](Compendium/rules/skills.md#Arcana) skill or with [[calligraphers-supplies-xphb]] and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll's spell uses your spell save DC and spell attack bonus.
+To scribe a scroll, you must have proficiency in the [Arcana](Compendium/rules/skills.md#Arcana) skill or with [[Calligrapher's Supplies]] and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll's spell uses your spell save DC and spell attack bonus.
 
 #### Cantrips
 

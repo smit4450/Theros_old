@@ -53,14 +53,14 @@ aliases:
 - **Saving Throw Proficiencies**: Constitution, Strength
 - **Skill Proficiencies**: *Choose 2:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Compendium/rules/skills.md#Athletics), [History](Compendium/rules/skills.md#History), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Perception](Compendium/rules/skills.md#Perception), [Persuasion](Compendium/rules/skills.md#Persuasion), or [Survival](Compendium/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy Armor), and [[shield-xphb]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy Armor), and [[Shield]]
 
-**Starting Equipment:** *Choose A, B, or C:* (A) [[chain-mail-xphb]], [[greatsword-xphb]], [[flail-xphb]], 8 [[javelin-xphb]], [[dungeoneers-pack-xphb]], and 4 GP; (B) [[studded-leather-armor-xphb]], [[scimitar-xphb]], [[shortsword-xphb]], [[longbow-xphb]], [[arrows-20-xphb]], [[quiver-xphb]], [[dungeoneers-pack-xphb]], and 11 GP; or (C) 155 GP
+**Starting Equipment:** *Choose A, B, or C:* (A) [[Chain Mail]], [[Greatsword]], [[Flail]], 8 [[Javelin]], [[Dungeoneer's Pack]], and 4 GP; (B) [[Studded Leather Armor]], [[Scimitar]], [[Shortsword]], [[Longbow]], [[Arrows (20)]], [[Quiver]], [[Dungeoneer's Pack]], and 11 GP; or (C) 155 GP
 
 ## Multiclassing Fighter
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[shield-xphb]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Shield]]
 
 ## Fighter
 

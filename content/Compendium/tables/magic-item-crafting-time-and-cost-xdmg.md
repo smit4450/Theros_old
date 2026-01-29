@@ -21,4 +21,4 @@ aliases:
 | Legendary | 250 days | 100,000 GP |
 ^magic-item-crafting-time-and-cost
 
-*The time and cost are halved for a consumable item other than a [[spell-scroll-xdmg]], whose [[scribing-spell-scrolls-spell-scroll-costs-xphb]] are given in the "Player's Handbook".
+*The time and cost are halved for a consumable item other than a [[Spell Scroll]], whose [[scribing-spell-scrolls-spell-scroll-costs-xphb]] are given in the "Player's Handbook".

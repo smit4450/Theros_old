@@ -68,7 +68,7 @@ The Eldritch Knight Spellcasting table shows how many spell slots you have to ca
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the Wizard spell list. [[burning-hands-xphb]], [[jump-xphb]], and [[shield-xphb]] are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the Wizard spell list. [[burning-hands-xphb]], [[jump-xphb]], and [[Shield]] are recommended.
 
 The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Eldritch Knight Spellcasting table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Fighter, your list of prepared spells can include five Wizard spells of levels 1 and 2 in any combination.
 
@@ -82,7 +82,7 @@ Intelligence is your spellcasting ability for your Wizard spells.
 
 #### Spellcasting Focus
 
-You can use an [[arcane-focus-xphb]] as a [[spellcasting-focus-xphb]] for your Wizard spells.
+You can use an [[Arcane Focus]] as a [[spellcasting-focus-xphb]] for your Wizard spells.
 
 ### War Bond (Level 3)
 

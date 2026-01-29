@@ -14,8 +14,7 @@ aliases:
 
 | Item | Cost | Weight |
 |------|------|--------|
-| [[bomb-xdmg]] | 100 GP | 1 lb. |
-| [[dynamite-stick-xdmg]] | — | 1 lb. |
+| [Bomb](Bomb.md)dynamite-stick-xdmg]] | — | 1 lb. |
 | [[fragmentation-grenade-xdmg]] | — | 1 lb. |
 | [[grenade-launcher-xdmg]] | — | 7 lb. |
 | [[smoke-grenade-xdmg]] | 50 GP | 2 lb. |

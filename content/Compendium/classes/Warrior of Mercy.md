@@ -62,7 +62,7 @@ As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend 1 Focus P
 
 ### Implements of Mercy (Level 3)
 
-You gain proficiency in the [Insight](Compendium/rules/skills.md#Insight) and [Medicine](Compendium/rules/skills.md#Medicine) skills and proficiency with the [[herbalism-kit-xphb]].
+You gain proficiency in the [Insight](Compendium/rules/skills.md#Insight) and [Medicine](Compendium/rules/skills.md#Medicine) skills and proficiency with the [[Herbalism Kit]].
 
 ### Physician's Touch (Level 6)
 

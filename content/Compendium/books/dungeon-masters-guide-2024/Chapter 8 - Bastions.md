@@ -215,7 +215,7 @@ Special facilities are presented in alphabetical order. The Special Facilities t
 > ![[Pub]]
 
 > [!embed-facility]- Reliquary
-> ![[Reliquary]]
+> ![[Compendium/bastions/Reliquary]]
 
 > [!embed-facility]- Sacristy
 > ![[Sacristy]]

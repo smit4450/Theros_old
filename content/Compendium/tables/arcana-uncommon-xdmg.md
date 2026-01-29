@@ -47,33 +47,33 @@ aliases:
 | 39 | [[medallion-of-thoughts-xdmg]] |
 | 40 | [[mithral-armor-xdmg]] |
 | 41–42 | [[necklace-of-adaptation-xdmg]] |
-| 43 | [[oil-of-slipperiness-xdmg]] |
-| 44 | [[pearl-of-power-xdmg]] |
-| 45 | [[periapt-of-health-xdmg]] |
-| 46–47 | [[philter-of-love-xdmg]] |
-| 48–49 | [[potion-of-animal-friendship-xdmg]] |
-| 50–51 | [[potion-of-fire-breath-xdmg]] |
-| 52–53 | [[potion-of-hill-giant-strength-xdmg]] |
-| 54–55 | [[potion-of-growth-xdmg]] |
-| 56–57 | [[potion-of-poison-xdmg]] |
-| 58–59 | [[potion-of-resistance-xdmg]] |
-| 60–61 | [[potion-of-water-breathing-xdmg]] |
-| 62 | [[quaals-feather-token-xdmg]] ([[quaals-feather-token-anchor-xdmg]], [[quaals-feather-token-fan-xdmg]], or [[quaals-feather-token-tree-xdmg]]) |
-| 63 | [[ring-of-mind-shielding-xdmg]] |
-| 64–65 | [[robe-of-useful-items-xdmg]] |
-| 66–67 | [[rod-of-the-pact-keeper-xdmg]] |
-| 68–69 | [[rope-of-climbing-xdmg]] |
-| 70 | [[saddle-of-the-cavalier-xdmg]] |
-| 71–72 | [[sending-stones-xdmg]] |
-| 73–74 | [[slippers-of-spider-climbing-xdmg]] |
-| 75–82 | [[spell-scroll-xdmg]] ([[spell-scroll-level-2-xdmg]] or [[spell-scroll-level-3-xdmg]] spell) |
-| 83 | [[staff-of-the-adder-xdmg]] |
-| 84 | [[staff-of-the-python-xdmg]] |
-| 85–88 | [[wand-of-magic-detection-xdmg]] |
-| 89–91 | [[wand-of-magic-missiles-xdmg]] |
-| 92–93 | [[wand-of-secrets-xdmg]] |
+| 43 | [[Oil of Slipperiness]] |
+| 44 | [[Pearl of Power]] |
+| 45 | [[Periapt of Health]] |
+| 46–47 | [[Philter of Love]] |
+| 48–49 | [[Potion of Animal Friendship]] |
+| 50–51 | [[Potion of Fire Breath]] |
+| 52–53 | [[Potion of Hill Giant Strength]] |
+| 54–55 | [[Potion of Growth]] |
+| 56–57 | [[Potion of Poison]] |
+| 58–59 | [[Potion of Resistance]] |
+| 60–61 | [[Potion of Water Breathing]] |
+| 62 | [[Quaal's Feather Token]] ([[Quaal's Feather Token, Anchor]], [[Quaal's Feather Token, Fan]], or [[Quaal's Feather Token, Tree]]) |
+| 63 | [[Ring of Mind Shielding]] |
+| 64–65 | [[Robe of Useful Items]] |
+| 66–67 | [[Rod of the Pact Keeper]] |
+| 68–69 | [[Rope of Climbing]] |
+| 70 | [[Saddle of the Cavalier]] |
+| 71–72 | [[Sending Stones]] |
+| 73–74 | [[Slippers of Spider Climbing]] |
+| 75–82 | [[Spell Scroll]] ([[Spell Scroll (Level 2)]] or [[Spell Scroll (Level 3)]] spell) |
+| 83 | [[Staff of the Adder]] |
+| 84 | [[Staff of the Python]] |
+| 85–88 | [[Wand of Magic Detection]] |
+| 89–91 | [[Wand of Magic Missiles]] |
+| 92–93 | [[Wand of Secrets]] |
 | 94–95 | [[1-wand-of-the-war-mage-xdmg]] |
-| 96–97 | [[wand-of-web-xdmg]] |
-| 98–99 | [[wind-fan-xdmg]] |
-| 00 | [[winged-boots-xdmg]] |
+| 96–97 | [[Wand of Web]] |
+| 98–99 | [[Wind Fan]] |
+| 00 | [[Winged Boots]] |
 ^arcana-uncommon

@@ -14,12 +14,11 @@ aliases:
 
 | Item | Carrying Capacity | Cost |
 |------|-------------------|------|
-| [[camel-xphb]] | 450 lb. | 50 GP |
-| [[elephant-xphb]] | 1,320 lb. | 200 GP |
-| [[draft-horse-xphb]] | 540 lb. | 50 GP |
-| [[riding-horse-xphb]] | 480 lb. | 75 GP |
-| [[mastiff-xphb]] | 195 lb. | 25 GP |
-| [[mule-xphb]] | 420 lb. | 8 GP |
-| [[pony-xphb]] | 225 lb. | 30 GP |
-| [[warhorse-xphb]] | 540 lb. | 400 GP |
+| [Camel](Compendium/items/Camel.md)elephant-xphb]] | 1,320 lb. | 200 GP |
+| [[Compendium/items/Draft Horse]] | 540 lb. | 50 GP |
+| [[Compendium/items/Riding Horse]] | 480 lb. | 75 GP |
+| [[Compendium/items/Mastiff]] | 195 lb. | 25 GP |
+| [[Compendium/items/Mule]] | 420 lb. | 8 GP |
+| [[Compendium/items/Pony]] | 225 lb. | 30 GP |
+| [[Compendium/items/Warhorse]] | 540 lb. | 400 GP |
 ^mounts-and-other-animals

@@ -14,9 +14,9 @@ aliases:
 
 | Item | Cost |
 |------|------|
-| &emsp;[[ale-mug-xphb]] | 4 CP |
-| &emsp;[[bread-loaf-xphb]] | 2 CP |
-| &emsp;[[cheese-wedge-xphb]] | 1 SP |
+| &emsp;[[Ale (mug)]] | 4 CP |
+| &emsp;[[Bread (loaf)]] | 2 CP |
+| &emsp;[[Cheese (wedge)]] | 1 SP |
 | *Inn Stay per Day* |
 | &emsp;Squalid | 7 CP |
 | &emsp;Poor | 1 SP |
@@ -32,6 +32,6 @@ aliases:
 | &emsp;Wealthy | 3 SP |
 | &emsp;Aristocratic | 6 SP |
 | *Wine (bottle)* |
-| &emsp;[[common-wine-bottle-xphb]] | 2 SP |
-| &emsp;[[fine-wine-bottle-xphb]] | 10 GP |
+| &emsp;[[Common Wine (bottle)]] | 2 SP |
+| &emsp;[[Fine Wine (bottle)]] | 10 GP |
 ^food-drink-and-lodging

@@ -22,14 +22,14 @@ aliases:
 | &emsp;[[javelin-xphb]] | `1d6` Piercing | [Thrown](Compendium/rules/item-properties.md#Thrown) (Range 30/120) | [Slow](Compendium/rules/item-mastery.md#Slow) | 2 lb. | 5 SP |
 | &emsp;[[light-hammer-xphb]] | `1d4` Bludgeoning | [Light](Compendium/rules/item-properties.md#Light), [Thrown](Compendium/rules/item-properties.md#Thrown) (Range 20/60) | [Nick](Compendium/rules/item-mastery.md#Nick) | 2 lb. | 2 GP |
 | &emsp;[[mace-xphb]] | `1d6` Bludgeoning | — | [Sap](Compendium/rules/item-mastery.md#Sap) | 4 lb. | 5 GP |
-| &emsp;[[quarterstaff-xphb]] | `1d6` Bludgeoning | [Versatile](Compendium/rules/item-properties.md#Versatile) (`1d8`) | [Topple](Compendium/rules/item-mastery.md#Topple) | 4 lb. | 2 SP |
-| &emsp;[[sickle-xphb]] | `1d4` Slashing | [Light](Compendium/rules/item-properties.md#Light) | [Nick](Compendium/rules/item-mastery.md#Nick) | 2 lb. | 1 GP |
-| &emsp;[[spear-xphb]] | `1d6` Piercing | [Thrown](Compendium/rules/item-properties.md#Thrown) (Range 20/60), [Versatile](Compendium/rules/item-properties.md#Versatile) (`1d8`) | [Sap](Compendium/rules/item-mastery.md#Sap) | 3 lb. | 1 GP |
+| &emsp;[[Quarterstaff]] | `1d6` Bludgeoning | [Versatile](Compendium/rules/item-properties.md#Versatile) (`1d8`) | [Topple](Compendium/rules/item-mastery.md#Topple) | 4 lb. | 2 SP |
+| &emsp;[[Sickle]] | `1d4` Slashing | [Light](Compendium/rules/item-properties.md#Light) | [Nick](Compendium/rules/item-mastery.md#Nick) | 2 lb. | 1 GP |
+| &emsp;[[Spear]] | `1d6` Piercing | [Thrown](Compendium/rules/item-properties.md#Thrown) (Range 20/60), [Versatile](Compendium/rules/item-properties.md#Versatile) (`1d8`) | [Sap](Compendium/rules/item-mastery.md#Sap) | 3 lb. | 1 GP |
 | *Simple Ranged Weapons* |
 | &emsp;[[dart-xphb]] | `1d4` Piercing | [Finesse](Compendium/rules/item-properties.md#Finesse), [Thrown](Compendium/rules/item-properties.md#Thrown) (Range 20/60) | [Vex](Compendium/rules/item-mastery.md#Vex) | 1/4 lb. | 5 CP |
 | &emsp;[[light-crossbow-xphb]] | `1d8` Piercing | [Ammunition](Compendium/rules/item-properties.md#Ammunition) (Range 80/320; Bolt), [Loading](Compendium/rules/item-properties.md#Loading), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed) | [Slow](Compendium/rules/item-mastery.md#Slow) | 5 lb. | 25 GP |
-| &emsp;[[shortbow-xphb]] | `1d6` Piercing | [Ammunition](Compendium/rules/item-properties.md#Ammunition) (Range 80/320; Arrow), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed) | [Vex](Compendium/rules/item-mastery.md#Vex) | 2 lb. | 25 GP |
-| &emsp;[[sling-xphb]] | `1d4` Bludgeoning | [Ammunition](Compendium/rules/item-properties.md#Ammunition) (Range 30/120; Bullet) | [Slow](Compendium/rules/item-mastery.md#Slow) | — | 1 SP |
+| &emsp;[[Shortbow]] | `1d6` Piercing | [Ammunition](Compendium/rules/item-properties.md#Ammunition) (Range 80/320; Arrow), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed) | [Vex](Compendium/rules/item-mastery.md#Vex) | 2 lb. | 25 GP |
+| &emsp;[[Sling]] | `1d4` Bludgeoning | [Ammunition](Compendium/rules/item-properties.md#Ammunition) (Range 30/120; Bullet) | [Slow](Compendium/rules/item-mastery.md#Slow) | — | 1 SP |
 | *Martial Melee Weapons* |
 | &emsp;[[battleaxe-xphb]] | `1d8` Slashing | [Versatile](Compendium/rules/item-properties.md#Versatile) (`1d10`) | [Topple](Compendium/rules/item-mastery.md#Topple) | 4 lb. | 10 GP |
 | &emsp;[[flail-xphb]] | `1d8` Bludgeoning | — | [Sap](Compendium/rules/item-mastery.md#Sap) | 2 lb. | 10 GP |
@@ -41,14 +41,14 @@ aliases:
 | &emsp;[[longsword-xphb]] | `1d8` Slashing | [Versatile](Compendium/rules/item-properties.md#Versatile) (`1d10`) | [Sap](Compendium/rules/item-mastery.md#Sap) | 3 lb. | 15 GP |
 | &emsp;[[maul-xphb]] | `2d6` Bludgeoning | [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed) | [Topple](Compendium/rules/item-mastery.md#Topple) | 10 lb. | 10 GP |
 | &emsp;[[morningstar-xphb]] | `1d8` Piercing | — | [Sap](Compendium/rules/item-mastery.md#Sap) | 4 lb. | 15 GP |
-| &emsp;[[pike-xphb]] | `1d10` Piercing | [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed) | [Push](Compendium/rules/item-mastery.md#Push) | 18 lb. | 5 GP |
-| &emsp;[[rapier-xphb]] | `1d8` Piercing | [Finesse](Compendium/rules/item-properties.md#Finesse) | [Vex](Compendium/rules/item-mastery.md#Vex) | 2 lb. | 25 GP |
-| &emsp;[[scimitar-xphb]] | `1d6` Slashing | [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light) | [Nick](Compendium/rules/item-mastery.md#Nick) | 3 lb. | 25 GP |
-| &emsp;[[shortsword-xphb]] | `1d6` Piercing | [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light) | [Vex](Compendium/rules/item-mastery.md#Vex) | 2 lb. | 10 GP |
-| &emsp;[[trident-xphb]] | `1d8` Piercing | [Thrown](Compendium/rules/item-properties.md#Thrown) (Range 20/60), [Versatile](Compendium/rules/item-properties.md#Versatile) (`1d10`) | [Topple](Compendium/rules/item-mastery.md#Topple) | 4 lb. | 5 GP |
-| &emsp;[[warhammer-xphb]] | `1d8` Bludgeoning | [Versatile](Compendium/rules/item-properties.md#Versatile) (`1d10`) | [Push](Compendium/rules/item-mastery.md#Push) | 5 lb. | 15 GP |
-| &emsp;[[war-pick-xphb]] | `1d8` Piercing | [Versatile](Compendium/rules/item-properties.md#Versatile) (`1d10`) | [Sap](Compendium/rules/item-mastery.md#Sap) | 2 lb. | 5 GP |
-| &emsp;[[whip-xphb]] | `1d4` Slashing | [Finesse](Compendium/rules/item-properties.md#Finesse), [Reach](Compendium/rules/item-properties.md#Reach) | [Slow](Compendium/rules/item-mastery.md#Slow) | 3 lb. | 2 GP |
+| &emsp;[[Pike]] | `1d10` Piercing | [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed) | [Push](Compendium/rules/item-mastery.md#Push) | 18 lb. | 5 GP |
+| &emsp;[[Rapier]] | `1d8` Piercing | [Finesse](Compendium/rules/item-properties.md#Finesse) | [Vex](Compendium/rules/item-mastery.md#Vex) | 2 lb. | 25 GP |
+| &emsp;[[Scimitar]] | `1d6` Slashing | [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light) | [Nick](Compendium/rules/item-mastery.md#Nick) | 3 lb. | 25 GP |
+| &emsp;[[Shortsword]] | `1d6` Piercing | [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light) | [Vex](Compendium/rules/item-mastery.md#Vex) | 2 lb. | 10 GP |
+| &emsp;[[Trident]] | `1d8` Piercing | [Thrown](Compendium/rules/item-properties.md#Thrown) (Range 20/60), [Versatile](Compendium/rules/item-properties.md#Versatile) (`1d10`) | [Topple](Compendium/rules/item-mastery.md#Topple) | 4 lb. | 5 GP |
+| &emsp;[[Warhammer]] | `1d8` Bludgeoning | [Versatile](Compendium/rules/item-properties.md#Versatile) (`1d10`) | [Push](Compendium/rules/item-mastery.md#Push) | 5 lb. | 15 GP |
+| &emsp;[[War Pick]] | `1d8` Piercing | [Versatile](Compendium/rules/item-properties.md#Versatile) (`1d10`) | [Sap](Compendium/rules/item-mastery.md#Sap) | 2 lb. | 5 GP |
+| &emsp;[[Whip]] | `1d4` Slashing | [Finesse](Compendium/rules/item-properties.md#Finesse), [Reach](Compendium/rules/item-properties.md#Reach) | [Slow](Compendium/rules/item-mastery.md#Slow) | 3 lb. | 2 GP |
 | *Martial Ranged Weapons* |
 | &emsp;[[blowgun-xphb]] | 1 Piercing | [Ammunition](Compendium/rules/item-properties.md#Ammunition) (Range 25/100; Needle), [Loading](Compendium/rules/item-properties.md#Loading) | [Vex](Compendium/rules/item-mastery.md#Vex) | 1 lb. | 10 GP |
 | &emsp;[[hand-crossbow-xphb]] | `1d6` Piercing | [Ammunition](Compendium/rules/item-properties.md#Ammunition) (Range 30/120; Bolt), [Light](Compendium/rules/item-properties.md#Light), [Loading](Compendium/rules/item-properties.md#Loading) | [Vex](Compendium/rules/item-mastery.md#Vex) | 3 lb. | 75 GP |

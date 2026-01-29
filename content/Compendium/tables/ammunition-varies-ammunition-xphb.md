@@ -14,9 +14,9 @@ aliases:
 
 | Type | Amount | Storage | Weight | Cost |
 |------|--------|---------|--------|------|
-| [[arrows-20-xphb]] ]] | 1 lb. | 1 GP |
-| [[bolts-20-xphb]] ]] | 1½ lb. | 1 GP |
+| [[Arrows (20)]] ]] | 1 lb. | 1 GP |
+| [[Bolts (20)]] ]] | 1½ lb. | 1 GP |
 | [[firearm-bullets-10-xphb]] ]] | 2 lb. | 3 GP |
-| [[sling-bullet-xphb]] ]] | 1½ lb. | 4 CP |
-| [[needles-50-xphb]] ]] | 1 lb. | 1 GP |
+| [[Sling Bullet]] ]] | 1½ lb. | 4 CP |
+| [[Needles (50)]] ]] | 1 lb. | 1 GP |
 ^ammunition

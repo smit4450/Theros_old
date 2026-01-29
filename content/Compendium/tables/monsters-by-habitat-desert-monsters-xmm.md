@@ -15,7 +15,7 @@ aliases:
 | CR | Monsters |
 |----|----------|
 | 0 | [[Cat]], [[Hyena]], [[Jackal]], [[Lizard]], [[Scorpion]], [[Spider]], [[Vulture]] |
-| 1/8 | [[camel-xmm]], [[Flying Snake]], [[kobold-warrior-xmm]], [[Mule]], [[stirge-xmm]], [[Venomous Snake]] |
+| 1/8 | [[camel-xmm]], [[Compendium/bestiary/monstrosity/Flying Snake]], [[kobold-warrior-xmm]], [[Compendium/bestiary/beast/Mule]], [[stirge-xmm]], [[Venomous Snake]] |
 | 1/4 | [[Constrictor Snake]], [[Giant Lizard]], [[Giant Venomous Snake]], [[Giant Wolf Spider]], [[pseudodragon[Camel](Camel.md)mephit-xmm]], [[gnoll-warrior-xmm]], [[hobgoblin-warrior-xmm]], [[jackalwere-xmm]], [[Swarm of Insects]] |
 | 1 | [[brass-dragon-wyrmling-xmm]], [[Death Dog]], [[Giant Hyena]], [[Giant Spider]], [[Giant Vulture]], [[Lion]], [[ogrillon-ogre-xmm]], [[Sphinx of Wonder]], [[thri-kreen-marauder-xmm]], [[yuan-ti-infiltrator-xmm]] |
 | 2 | [[Giant Constrictor Snake]], [[gnoll-pack-lord-xmm]], [[ogre-xmm]], [[swarm-of-stirges-xmm]], [[Swarm of Venomous Snakes]] |

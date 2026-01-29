@@ -16,7 +16,7 @@ This chapter gives rules for casting spells. It also includes "descriptions" of 
 
 ## Gaining Spells
 
-Before you can cast a spell, you must have the spell prepared in your mind or have access to the spell from a magic item, such as a [[spell-scroll-xdmg]]. Your features specify which spells you have access to, if any; whether you always have certain spells prepared; and whether you can change the list of spells you have prepared.
+Before you can cast a spell, you must have the spell prepared in your mind or have access to the spell from a magic item, such as a [[Spell Scroll]]. Your features specify which spells you have access to, if any; whether you always have certain spells prepared; and whether you can change the list of spells you have prepared.
 
 ### Preparing Spells
 
@@ -58,7 +58,7 @@ There are several ways to cast a spell without expending a spell slot:
 - **Cantrips.** A cantrip is cast without a spell slot.  
 - **Rituals.** Certain spells have the Ritual tag in the Casting Time entry. Such a spell can be cast following the normal rules for spellcasting, or it can be cast as a Ritual. The Ritual version of a spell takes 10 minutes longer to cast than normal, but it doesn't expend a spell slot. To cast a spell as a Ritual, a spellcaster must have it prepared.  
 - **Special Abilities.** Some characters and monsters have special abilities that allow them to cast specific spells without a spell slot. This casting is usually limited in another way, such as being able to cast the spell a limited number of times per day.  
-- **Magic Items.** [[spell-scroll-xdmg]] and some other magic items contain spells that can be cast without a spell slot. The description of such an item specifies how many times a spell can be cast from it.  
+- **Magic Items.** [[Spell Scroll]] and some other magic items contain spells that can be cast without a spell slot. The description of such an item specifies how many times a spell can be cast from it.  
 
 #### Using a Higher-Level Spell Slot
 
@@ -127,7 +127,7 @@ A Somatic component is a forceful gesticulation or an intricate set of gestures.
 
 A Material component is a particular material used in a spell's casting, as specified in parentheses in the Components entry. These materials aren't consumed by the spell unless the spell's description states otherwise. The spellcaster must have a hand free to access them, but it can be the same hand used to perform Somatic components, if any.
 
-If a spell doesn't consume its materials and doesn't specify a cost for them, a spellcaster can use a [[component-pouch-xphb]] (see "chapter 6") instead of providing the materials specified in the spell, or the spellcaster can substitute a Spellcasting Focus if the caster has a feature that allows that substitution. To use a Component Pouch, you must have a hand free to reach into it, and to use a Spellcasting Focus, you must hold it unless its description says otherwise (see "chapter 6" for descriptions).
+If a spell doesn't consume its materials and doesn't specify a cost for them, a spellcaster can use a [[Component Pouch]] (see "chapter 6") instead of providing the materials specified in the spell, or the spellcaster can substitute a Spellcasting Focus if the caster has a feature that allows that substitution. To use a Component Pouch, you must have a hand free to reach into it, and to use a Spellcasting Focus, you must hold it unless its description says otherwise (see "chapter 6" for descriptions).
 
 ### Duration
 
@@ -515,7 +515,7 @@ The spells are presented in alphabetical order.
 - [[sequester-xphb]]  
 - [[shapechange-xphb]]  
 - [[shatter-xphb]]  
-- [[shield-xphb]]  
+- [[Shield]]  
 - [[shield-of-faith-xphb]]  
 - [[shillelagh-xphb]]  
 - [[shining-smite-xphb]]  

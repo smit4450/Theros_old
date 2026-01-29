@@ -13,8 +13,8 @@ aliases: ["Rashemi Wanderer"]
 - **Ability Scores.** Strength, Constitution, Charisma  
 - **Feat.**  [[Compendium/feats/Tough]]  
 - **Skill Proficiencies.** [Intimidation](Compendium/rules/skills.md#Intimidation) and [Perception](Compendium/rules/skills.md#Perception)  
-- **Tool Proficiencies.** [[cartographers-tools-xphb]]  
-- **Equipment.** Choose A or B: (A) [[cartographers-tools-xphb]], [[backpack-xphb]], [[bedroll-xphb]], [[hooded-lantern-xphb]], [[oil-xphb]] (3 flasks), [[rope-xphb]], [[tinderbox-xphb]], [[travelers-clothes-xphb]], [[waterskin-xphb]], 23 GP; or (B) 50 GP  
+- **Tool Proficiencies.** [[Cartographer's Tools]]  
+- **Equipment.** Choose A or B: (A) [[Cartographer's Tools]], [[Backpack]], [[Bedroll]], [[Hooded Lantern]], [[Oil]] (3 flasks), [[Rope]], [[Tinderbox]], [[Traveler's Clothes]], [[Waterskin]], 23 GP; or (B) 50 GP  
 
 Setessans believe that women become heroes through martial exploits, while men do so by finding their own way in the world. As a result, the polis is populated mostly by women and children.
 

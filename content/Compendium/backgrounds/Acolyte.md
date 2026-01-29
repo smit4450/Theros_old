@@ -13,7 +13,7 @@ aliases: ["Acolyte"]
 - **Ability Scores.** Intelligence, Wisdom, Charisma  
 - **Feat.**  [[Magic Initiate]] (Cleric)  
 - **Skill Proficiencies.** [Insight](Compendium/rules/skills.md#Insight), [Religion](Compendium/rules/skills.md#Religion)  
-- **Tool Proficiency.** [[calligraphers-supplies-xphb]]  
-- **Equipment.** Choose A or B: (A) [[calligraphers-supplies-xphb]], [[book-xphb]], [[holy-symbol-xphb]], [[parchment-xphb]] (10 sheets), [[robe-xphb]], 8 GP; or (B) 50 GP  
+- **Tool Proficiency.** [[Calligrapher's Supplies]]  
+- **Equipment.** Choose A or B: (A) [[Calligrapher's Supplies]], [[Book]], [[Holy Symbol]], [[Parchment]] (10 sheets), [[Robe]], 8 GP; or (B) 50 GP  
 
 You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove. There you performed rites in honor of a god or pantheon. You served under a priest and studied religion. Thanks to your priest's instruction and your own devotion, you also learned how to channel a modicum of divine power in service to your place of worship and the people who prayed there.

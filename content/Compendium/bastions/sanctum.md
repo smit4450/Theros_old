@@ -11,7 +11,7 @@ aliases:
 # Sanctum
 *Level 17 Bastion facility*  
 
-- **Prerequisites**: Ability to use a [[holy-symbol-xphb]] or [[druidic-focus-xphb]] as a [[spellcasting-focus-xphb]]
+- **Prerequisites**: Ability to use a [[Holy Symbol]] or [[Druidic Focus]] as a [[spellcasting-focus-xphb]]
 - **Space**: Roomy (16 sq)
 - **Hirelings**: 4
 - **Order**: empower

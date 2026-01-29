@@ -17,7 +17,7 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Dexterity score by 1, to a maximum of 20.
 
-**Ignore Loading.** You ignore the [Loading](Compendium/rules/item-properties.md#Loading) property of the [[hand-crossbow-xphb]], [[heavy-crossbow-xphb]], and [[light-crossbow-xphb]] (all called crossbows elsewhere in this feat). If you're holding one of them, you can load a piece of ammunition into it even if you lack a free hand.
+**Ignore Loading.** You ignore the [Loading](Compendium/rules/item-properties.md#Loading) property of the [[Hand Crossbow]], [[Heavy Crossbow]], and [[Light Crossbow]] (all called crossbows elsewhere in this feat). If you're holding one of them, you can load a piece of ammunition into it even if you lack a free hand.
 
 **Firing in Melee.** Being within 5 feet of an enemy doesn't impose [[disadvantage-xphb]] on your attack rolls with crossbows.
 

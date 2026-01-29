@@ -57,7 +57,7 @@ Gods of knowledge vary from masters of arcane magic to patrons of craft and inve
 
 ### Blessings of Knowledge (Level 3)
 
-You gain proficiency with one type of [[artisans-tools-xphb]] of your choice and in two of the following skills of your choice: [Arcana](Compendium/rules/skills.md#Arcana), [History](Compendium/rules/skills.md#History), [Nature](Compendium/rules/skills.md#Nature), or [Religion](Compendium/rules/skills.md#Religion). You have [[expertise-xphb]] in those two skills.
+You gain proficiency with one type of [[Artisan's Tools]] of your choice and in two of the following skills of your choice: [Arcana](Compendium/rules/skills.md#Arcana), [History](Compendium/rules/skills.md#History), [Nature](Compendium/rules/skills.md#Nature), or [Religion](Compendium/rules/skills.md#Religion). You have [[expertise-xphb]] in those two skills.
 
 ### Knowledge Domain Spells (Level 3)
 

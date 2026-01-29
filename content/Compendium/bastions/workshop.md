@@ -22,17 +22,17 @@ This Workshop is a creative space where useful items can be crafted.
 
 The Workshop comes equipped with six different kinds of Artisan's Tools, chosen from the following list:
 
-- [[carpenters-tools-xphb]]  
-- [[cobblers-tools-xphb]]  
-- [[glassblowers-tools-xphb]]  
-- [[jewelers-tools-xphb]]  
-- [[leatherworkers-tools-xphb]]  
-- [[masons-tools-xphb]]  
-- [[painters-supplies-xphb]]  
-- [[potters-tools-xphb]]  
-- [[tinkers-tools-xphb]]  
-- [[weavers-tools-xphb]]  
-- [[woodcarvers-tools-xphb]]  
+- [[Carpenter's Tools]]  
+- [[Cobbler's Tools]]  
+- [[Glassblower's Tools]]  
+- [[Jeweler's Tools]]  
+- [[Leatherworker's Tools]]  
+- [[Mason's Tools]]  
+- [[Painter's Supplies]]  
+- [[Potter's Tools]]  
+- [[Tinker's Tools]]  
+- [[Weaver's Tools]]  
+- [[Woodcarver's Tools]]  
 
 ## Craft Options
 

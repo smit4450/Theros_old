@@ -55,7 +55,7 @@ Welcome to the Mythic Odysseys of Theros campaign hub, using the 2024 edition of
 -  [[Nylea]]
 -  [[Purphoros]]
 -  [[Klothys]].
--  [[theros-thassa-mot]]
+-  [[Thassa]]
 -  [[Athreos]]
 -  [[Kruphix]].
 

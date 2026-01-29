@@ -14,13 +14,11 @@ aliases:
 
 | Item Category | Required Tool |
 |---------------|---------------|
-| Armor | [[leatherworkers-tools-xphb]], [[smiths-tools-xphb]], or [[weavers-tools-xphb]] depending on the kind of armor as noted in the tools' descriptions |
-| Potion | [[alchemists-supplies-xphb]] or [[herbalism-kit-xphb]] |
-| Ring | [[jewelers-tools-xphb]] |
-| Rod | [[woodcarvers-tools-xphb]] |
-| Scroll | [[calligraphers-supplies-xphb]] |
-| Staff | [[woodcarvers-tools-xphb]] |
-| Wand | [[woodcarvers-tools-xphb]] |
-| Weapon | [[leatherworkers-tools-xphb]], [[smiths-tools-xphb]], or [[woodcarvers-tools-xphb]] depending on the kind of weapon as noted in the tools' descriptions |
-| Wondrous Item | [[tinkers-tools-xphb]] or the tool required to make the nonmagical item on which the magic item is based |
+| Armor | [[Leatherworker's Tools]], [[Smith's Tools]], or [[Weaver's Tools]] depending on the kind of armor as noted in the tools' descriptions |
+| Potion | [[alchemists-supplies-xphb]] or [[Herbalism Kit]] |
+| Ring | [[Jeweler's Tools]] |
+| Rod | [[woodca[Alchemist's Supplies](Alchemist's%20Supplies.md)Staff | [[Woodcarver's Tools]] |
+| Wand | [[Woodcarver's Tools]] |
+| Weapon | [[Leatherworker's Tools]], [[Smith's Tools]], or [[Woodcarver's Tools]] depending on the kind of weapon as noted in the tools' descriptions |
+| Wondrous Item | [[Tinker's Tools]] or the tool required to make the nonmagical item on which the magic item is based |
 ^magic-item-tools

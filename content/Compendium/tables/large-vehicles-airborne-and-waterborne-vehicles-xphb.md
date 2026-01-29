@@ -14,11 +14,11 @@ aliases:
 
 | Ship | Speed | Crew | Passengers | Cargo (Tons) | AC | HP | Damage Threshold | Cost |
 |------|-------|------|------------|--------------|----|----|------------------|------|
-| [[airship-xphb]] | 8 mph | 10 | 20 | 1 | 13 | 300 | — | 40,000 GP |
-| [[galley-xphb]] | 4 mph | 80 | — | 150 | 15 | 500 | 20 | 30,000 GP |
-| [[keelboat-xphb]] | 1 mph | 1 | 6 | 1/2 | 15 | 100 | 10 | 3,000 GP |
-| [[longship-xphb]] | 3 mph | 40 | 150 | 10 | 15 | 300 | 15 | 10,000 GP |
-| [[rowboat-xphb]] | 1½ mph | 1 | 3 | — | 11 | 50 | — | 50 GP |
-| [[sailing-ship-xphb]] | 2 mph | 20 | 20 | 100 | 15 | 300 | 15 | 10,000 GP |
-| [[warship-xphb]] | 2½ mph | 60 | 60 | 200 | 15 | 500 | 20 | 25,000 GP |
+| [Airship](Airship.md) | 300 | — | 40,000 GP |
+| [[Galley]] | 4 mph | 80 | — | 150 | 15 | 500 | 20 | 30,000 GP |
+| [[Keelboat]] | 1 mph | 1 | 6 | 1/2 | 15 | 100 | 10 | 3,000 GP |
+| [[Longship]] | 3 mph | 40 | 150 | 10 | 15 | 300 | 15 | 10,000 GP |
+| [[Rowboat]] | 1½ mph | 1 | 3 | — | 11 | 50 | — | 50 GP |
+| [[Sailing Ship]] | 2 mph | 20 | 20 | 100 | 15 | 300 | 15 | 10,000 GP |
+| [[Warship]] | 2½ mph | 60 | 60 | 200 | 15 | 500 | 20 | 25,000 GP |
 ^airborne-and-waterborne-vehicles

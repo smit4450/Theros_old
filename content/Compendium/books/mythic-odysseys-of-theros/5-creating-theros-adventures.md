@@ -1566,7 +1566,7 @@ Many adventures at sea start with a simple premise: get home. Whether the tale s
 In a campaign that often changes location, it can be difficult to have recurring NPCs. If you introduce characters you'd like the party to stay in touch with, consider the following options:
 
 - Aquatic or flying characters can visit the characters as they travel, appearing unexpectedly.  
-- Magic items such as [[sending-stones-xdmg]] and spells such as [[animal-messenger-xphb]] allow characters to stay in touch over long distances.  
+- Magic items such as [[Sending Stones]] and spells such as [[animal-messenger-xphb]] allow characters to stay in touch over long distances.  
 - Powerful creatures might teleport to the characters' location—particularly those unable (or disinclined) to share their teleportation powers.  
 - When the characters dream, they might meet other creatures in Nyx.  
 - Some of Theros's mystical islands move around on the sea, allowing the characters to run into them and their inhabitants multiple times.  

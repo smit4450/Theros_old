@@ -24,8 +24,8 @@ aliases:
 | 50–56 | [[lute-of-thunderous-thumping-xdmg]] |
 | 57–63 | [[manual-of-quickness-of-action-xdmg]] |
 | 64–70 | [[nolzurs-marvelous-pigments-xdmg]] |
-| 71–77 | [[potion-of-flying-xdmg]] |
-| 78–86 | [[potion-of-supreme-healing-xdmg]] |
-| 87–93 | [[potion-of-speed-xdmg]] |
-| 94–00 | [[tome-of-leadership-and-influence-xdmg]] |
+| 71–77 | [[Potion of Flying]] |
+| 78–86 | [[Potion of Supreme Healing]] |
+| 87–93 | [[Potion of Speed]] |
+| 94–00 | [[Tome of Leadership and Influence]] |
 ^implements-very-rare

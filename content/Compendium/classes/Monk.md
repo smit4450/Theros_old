@@ -53,9 +53,9 @@ aliases:
 - **Saving Throw Proficiencies**: Dexterity, Strength
 - **Skill Proficiencies**: *Choose 2:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [History](Compendium/rules/skills.md#History), [Insight](Compendium/rules/skills.md#Insight), [Religion](Compendium/rules/skills.md#Religion), or [Stealth](Compendium/rules/skills.md#Stealth)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons that have the Light property
-- **Tool Proficiencies**: Choose one type of [[artisans-tools-xphb]] or [[musical-instrument-xphb]]
+- **Tool Proficiencies**: Choose one type of [[Artisan's Tools]] or [[Musical Instrument]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[spear-xphb]], 5 [[dagger-xphb]], [[artisans-tools-xphb]] or [[musical-instrument-xphb]] chosen for the tool proficiency above, [[explorers-pack-xphb]], and 11 GP; or (B) 50 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Spear]], 5 [[Dagger]], [[Artisan's Tools]] or [[Musical Instrument]] chosen for the tool proficiency above, [[Explorer's Pack]], and 11 GP; or (B) 50 GP
 
 
 ## Monk
@@ -77,7 +77,7 @@ Your practice of martial arts gives you mastery of combat styles that use your [
 - Simple Melee Weapons  
 - Martial Melee Weapons that have the Light property  
 
-You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a [[shield-xphb]].
+You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a [[Shield]].
 
 ### Bonus Unarmed Strike (Level 1)
 
@@ -93,7 +93,7 @@ You can use your Dexterity modifier instead of your Strength modifier for the at
 
 ### Unarmored Defense (Level 1)
 
-While you aren't wearing armor or wielding a [[shield-xphb]], your base [[armor-class-xphb]] equals 10 plus your Dexterity and Wisdom modifiers.
+While you aren't wearing armor or wielding a [[Shield]], your base [[armor-class-xphb]] equals 10 plus your Dexterity and Wisdom modifiers.
 
 ### Monk's Focus (Level 2)
 
@@ -119,7 +119,7 @@ You can take the [Dash](Compendium/rules/actions.md#Dash) action as a [[bonus-ac
 
 ### Unarmored Movement (Level 2)
 
-Your speed increases by 10 feet while you aren't wearing armor or wielding a [[shield-xphb]]. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
+Your speed increases by 10 feet while you aren't wearing armor or wielding a [[Shield]]. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
 
 ### Uncanny Metabolism (Level 2)
 
@@ -173,7 +173,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Acrobatic Movement (Level 9)
 
-While you aren't wearing armor or wielding a [[shield-xphb]], you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
+While you aren't wearing armor or wielding a [[Shield]], you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
 
 ### Heightened Focus (Level 10)
 

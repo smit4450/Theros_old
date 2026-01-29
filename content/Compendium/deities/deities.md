@@ -20,4 +20,4 @@ cssclasses:
 -  [[Pharika]]
 -  [[Phenax]]
 -  [[Purphoros]]
--  [[theros-thassa-mot]]
+-  [[Thassa]]

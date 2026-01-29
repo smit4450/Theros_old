@@ -84,7 +84,7 @@ Intelligence is your spellcasting ability for your Wizard spells.
 
 #### Spellcasting Focus
 
-You can use an [[arcane-focus-xphb]] as a [[spellcasting-focus-xphb]] for your Wizard spells.
+You can use an [[Arcane Focus]] as a [[spellcasting-focus-xphb]] for your Wizard spells.
 
 ### Mage Hand Legerdemain (Level 3)
 

@@ -14,14 +14,14 @@ aliases:
 
 | dice: 1d10 | Stone |
 |------------|-------|
-| 1 | [[amber-xdmg]] (watery gold to rich gold) |
-| 2 | [[amethyst-xdmg]] (deep purple) |
-| 3 | [[chrysoberyl-xdmg]] (yellow green to pale green) |
-| 4 | [[coral-xdmg]] (crimson) |
-| 5 | [[garnet-xdmg]] (red, brown green, or violet) |
-| 6 | [[jade-xdmg]] (light green, deep green, or white) |
-| 7 | [[jet-xdmg]] (deep black) |
-| 8 | [[pearl-xdmg]] (lustrous white, yellow, or pink) |
-| 9 | [[spinel-xdmg]] (red, red brown, or deep green) |
-| 10 | [[tourmaline-xdmg]] (pale green, blue, brown, or red) |
+| 1 | [[Amber]] (watery gold to rich gold) |
+| 2 | [[Amethyst]] (deep purple) |
+| 3 | [[Chrysoberyl]] (yellow green to pale green) |
+| 4 | [[Coral]] (crimson) |
+| 5 | [[Garnet]] (red, brown green, or violet) |
+| 6 | [[Jade]] (light green, deep green, or white) |
+| 7 | [[Jet]] (deep black) |
+| 8 | [[Pearl]] (lustrous white, yellow, or pink) |
+| 9 | [[Spinel]] (red, red brown, or deep green) |
+| 10 | [[Tourmaline]] (pale green, blue, brown, or red) |
 ^100-gp-gemstones

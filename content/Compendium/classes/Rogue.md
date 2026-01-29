@@ -53,15 +53,15 @@ aliases:
 - **Saving Throw Proficiencies**: Dexterity, Intelligence
 - **Skill Proficiencies**: *Choose 4:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [Deception](Compendium/rules/skills.md#Deception), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Investigation](Compendium/rules/skills.md#Investigation), [Perception](Compendium/rules/skills.md#Perception), [Persuasion](Compendium/rules/skills.md#Persuasion), [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand), or [Stealth](Compendium/rules/skills.md#Stealth)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons that have the Finesse or Light property
-- **Tool Proficiencies**: [[thieves-tools-xphb]]
+- **Tool Proficiencies**: [[Thieves' Tools]]
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
-**Starting Equipment:** *Choose A or B:* (A) [[leather-armor-xphb]], 2 [[dagger-xphb]], [[shortsword-xphb]], [[shortbow-xphb]], [[arrows-20-xphb]], [[quiver-xphb]], [[thieves-tools-xphb]], [[burglars-pack-xphb]], and 8 GP; or (B) 100 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Leather Armor]], 2 [[Dagger]], [[Shortsword]], [[Shortbow]], [[Arrows (20)]], [[Quiver]], [[Thieves' Tools]], [[Burglar's Pack]], and 8 GP; or (B) 100 GP
 
 ## Multiclassing Rogue
 
 - **Skill Proficiencies**: *Choose 1:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [Deception](Compendium/rules/skills.md#Deception), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Investigation](Compendium/rules/skills.md#Investigation), [Perception](Compendium/rules/skills.md#Perception), [Persuasion](Compendium/rules/skills.md#Persuasion), [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand), or [Stealth](Compendium/rules/skills.md#Stealth)
-- **Tool Proficiencies**: [[thieves-tools-xphb]]
+- **Tool Proficiencies**: [[Thieves' Tools]]
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
 ## Rogue
@@ -94,9 +94,9 @@ You picked up various languages in the communities where you plied your roguish 
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [[weapon-mastery-properties-xphb]] of two kinds of weapons of your choice with which you have proficiency, such as [[dagger-xphb]] and [[shortbow-xphb]].
+Your training with weapons allows you to use the [[weapon-mastery-properties-xphb]] of two kinds of weapons of your choice with which you have proficiency, such as [[Dagger]] and [[Shortbow]].
 
-Whenever you finish a [[long-rest-xphb]], you can change the kinds of weapons you chose. For example, you could switch to using the [[weapon-mastery-properties-xphb]] of [[scimitar-xphb]] and [[shortsword-xphb]].
+Whenever you finish a [[long-rest-xphb]], you can change the kinds of weapons you chose. For example, you could switch to using the [[weapon-mastery-properties-xphb]] of [[Scimitar]] and [[Shortsword]].
 
 ### Cunning Action (Level 2)
 
@@ -124,7 +124,7 @@ If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your De
 
 You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 minute. At the end of each of its turns, the [Poisoned](Compendium/rules/conditions.md#Poisoned) target repeats the save, ending the effect on itself on a success.
 
-To use this effect, you must have a [[poisoners-kit-xphb]] on your person.
+To use this effect, you must have a [[Poisoner's Kit]] on your person.
 
 ### Trip (Cost: 1d6) (Level 5)
 

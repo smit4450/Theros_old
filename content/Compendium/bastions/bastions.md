@@ -33,7 +33,7 @@ cssclasses:
 -  [[Parlor]]
 -  [[Pub]]
 -  [[Necropoikos]]
--  [[Reliquary]]
+-  [[Compendium/bastions/Reliquary]]
 -  [[Sacristy]]
 -  [[Sanctuary]]
 -  [[Sanctum]]

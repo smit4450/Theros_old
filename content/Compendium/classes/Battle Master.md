@@ -74,7 +74,7 @@ If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dex
 
 ### Student of War (Level 3)
 
-You gain proficiency with one type of [[artisans-tools-xphb]] of your choice, and you gain proficiency in one skill of your choice from the skills available to Fighters at level 1.
+You gain proficiency with one type of [[Artisan's Tools]] of your choice, and you gain proficiency in one skill of your choice from the skills available to Fighters at level 1.
 
 ### Maneuver Options (Level 3)
 

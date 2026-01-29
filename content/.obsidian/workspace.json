@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "cfa2281929d0aa16",
+    "id": "22e70705252bf36c",
     "type": "split",
     "children": [
       {
-        "id": "6bee116ea5ff91c1",
+        "id": "45c379e196c48d9d",
         "type": "tabs",
         "children": [
           {
-            "id": "c4180c601d7f7b43",
+            "id": "8b79dbc95194e394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/bestiary/undead/Wraith.md",
+                "file": "Compendium/items/Zircon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wraith"
+              "title": "Zircon"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b431ff13eec414b7",
+    "id": "f49cc887538269ab",
     "type": "split",
     "children": [
       {
-        "id": "1dea30b006509d83",
+        "id": "42a66f22a4f648e4",
         "type": "tabs",
         "children": [
           {
-            "id": "b74a3a1f4b57ccef",
+            "id": "5b38395a0ae3a0a3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "d37e9b3b4f8e89db",
+            "id": "a316aae7cb60b645",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "fb905626b03b77ed",
+            "id": "b9fad17773779aa4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,57 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 300
   },
   "right": {
-    "id": "5493c457f27fe363",
+    "id": "43997622fac722fc",
     "type": "split",
     "children": [
       {
-        "id": "896aef58b1cf6501",
+        "id": "c3238f8af4424ac1",
         "type": "tabs",
         "children": [
           {
-            "id": "ee3e43a74bf88ab0",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "d881e2eecd3774ed",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "57679822267ec9ac",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {},
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "0363d2a3e9bb2e3b",
+            "id": "c604b4a1f2ec500e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Codex/Groups/The Horde.md",
+                "file": "Compendium/items/Zircon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Horde"
+              "title": "Backlinks for Zircon"
             }
           },
           {
-            "id": "91e742f802eacac0",
+            "id": "6bfd0e04342f71b4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Codex/Groups/The Horde.md",
+                "file": "Compendium/items/Zircon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Horde"
+              "title": "Outgoing links from Zircon"
             }
           },
           {
-            "id": "709ff9c68b4e0e38",
+            "id": "0e86a8cdbc52ae9c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -171,42 +137,36 @@
             }
           },
           {
-            "id": "9ef5ca359b28bd55",
+            "id": "a5f42b5d55f5cd38",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "61a0da5a579e40f5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Codex/Groups/The Horde.md",
+                "file": "Compendium/items/Zircon.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Horde"
+              "title": "Outline of Zircon"
             }
           },
           {
-            "id": "67a3a7fdcba48ccc",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "70c3e7a7d516f99f",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "48060dd846d26de3",
+            "id": "ed55f6315bbc54b2",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -219,18 +179,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
@@ -240,55 +200,33 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c4180c601d7f7b43",
+  "active": "8b79dbc95194e394",
   "lastOpenFiles": [
-    "Compendium/bestiary/undead/Undead Spirit.md",
-    "Compendium/bestiary/undead/Undead Spirit (Skeletal).md",
-    "Compendium/bestiary/undead/Undead Spirit (Putrid).md",
-    "Compendium/bestiary/undead/Undead Spirit (Ghostly).md",
-    "Compendium/bestiary/undead/undead.md",
-    "Compendium/bestiary/undead/Swarm of Crawling Claws.md",
-    "Compendium/bestiary/undead/Specter.md",
-    "Compendium/bestiary/undead/Shadow.md",
-    "Compendium/bestiary/undead/Revenant.md",
-    "Compendium/bestiary/undead/Returned Sentry.md",
-    "Compendium/bestiary/undead/Returned Palamnite.md",
-    "Compendium/bestiary/undead/Returned Kakomantis.md",
-    "Compendium/bestiary/undead/Returned Drifter.md",
-    "Compendium/bestiary/undead/Phylaskia.md",
-    "Compendium/bestiary/undead/Ghostblade Eidolon.md",
-    "Compendium/bestiary/undead/Flitterstep Eidolon.md",
-    "Compendium/bestiary/undead/Crawling Claw.md",
-    "Compendium/bestiary/undead/Bone Naga.md",
-    "Compendium/bestiary/undead/Avatar of Death.md",
-    "Compendium/bestiary/plant/Vine Blight.md",
-    "Compendium/bestiary/plant/Twig Blight.md",
-    "Compendium/bestiary/plant/Tree Blight.md",
-    "Compendium/bestiary/plant/Treant.md",
-    "Compendium/bestiary/plant/Shrieker Fungus.md",
-    "Compendium/bestiary/plant/Shambling Mound.md",
-    "Compendium/bestiary/plant/plant.md",
-    "Lore/Ajani_s Vengeance.pdf",
-    "Lore/Planes of Existence_ Theros.pdf",
-    "Lore/Planeswalker_s Guide to Born of the Gods.pdf",
-    "Lore/Planeswalker_s Guide to Journey into Nyx.pdf",
-    "Lore/Planeswalker_s Guide to Theros.pdf",
-    "Lore/Theros_ Beyond Death/Planeswalker_s Guide to Theros.pdf",
-    "Lore/Theros_ Beyond Death/Theros Beyond Death - Story Summary.pdf",
-    "Lore/Theros_ Beyond Death/Theros Beyond Death Story On Cards.pdf",
-    "Lore/Theros_ Beyond Death/Theros Beyond Death Trailer.mp4",
-    "Lore/Theros_ Beyond Death/Concept Art + (Theros Beyond Death)/_Typhon_ Creature concept art 1 - Steve Prescott.jpg",
-    "Lore/Theros_ Beyond Death/Concept Art + (Theros Beyond Death)/_Typhon_ Creature concept art 2 - Steve Prescott.jpg",
-    "Lore/Theros_ Beyond Death/Concept Art + (Theros Beyond Death)/Egret Hydra concept art 1 - Steve Prescott.jpg",
-    "Lore/Theros_ Beyond Death/Concept Art + (Theros Beyond Death)/Egret Hydra concept art 2 - Steve Prescott.jpg",
-    "Lore/Theros_ Beyond Death/Concept Art + (Theros Beyond Death)/Updated Triton Merfolk concept art - Steve Prescott.jpg",
-    "Lore/Theros Block/Born of the Gods Trailer.mp4",
-    "Lore/Theros Block/Godsend (Theros Cycle)/Journey into Nyx - Godsend Part II/Cover - Journey into Nyx - Godsend Part II.jpg",
-    "Lore/Theros Block/Godsend (Theros Cycle)/Theros - Godsend Part I/Cover - Theros - Godsend Part I.jpg",
-    "Assets/journey-into-nyx/Journey into Nyx  Launch Weekend.png",
-    "Assets/journey-into-nyx/Journey into Nyx  Heros Path.png",
-    "Assets/journey-into-nyx/Battlefield Thaumaturge.png",
-    "DM Notes/Diagram.canvas",
-    "DM Notes/Planes.canvas"
+    "Compendium/items/Yew Wand.md",
+    "Compendium/items/zhentarim-trinket-frhof.md",
+    "Compendium/items/Yellow Sapphire.md",
+    "Compendium/items/Yarting.md",
+    "Compendium/items/Wyvern Poison.md",
+    "Compendium/items/Wraps of Unarmed Power.md",
+    "Compendium/items/Wooden Staff.md",
+    "Compendium/items/Woodcarver's Tools.md",
+    "Compendium/items/Winter Camouflage.md",
+    "Compendium/items/Wings of Flying.md",
+    "Compendium/items/Winged Boots.md",
+    "Compendium/items/Windskiff.md",
+    "Compendium/items/Wind Fan.md",
+    "Compendium/items/Whip.md",
+    "Compendium/items/Whelm.md",
+    "Compendium/items/Wheat.md",
+    "Compendium/items/Well-made tapestry that is 10 feet by 10 feet.md",
+    "Compendium/items/Well of Many Worlds.md",
+    "Compendium/items/Weaver's Tools.md",
+    "Compendium/items/Weapon of Warning.md",
+    "Compendium/items/Wave.md",
+    "Compendium/items/Waterskin.md",
+    "Compendium/items/Warship.md",
+    "Compendium/items/Warm Fungal Clothing.md",
+    "Compendium/items/Warhorse.md",
+    "Compendium/items/Warhammer.md"
   ]
 }

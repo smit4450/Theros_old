@@ -10,6 +10,4 @@ aliases:
 ---
 # Blessing of Weapon Enhancement
 
-One nonmagical weapon in your possession becomes a [[1-weapon-xdmg]] while you wield it.
-
-*Source: Dungeon Master's Guide (2024) p. 99*
+One nonmagical weapon in your possession becomes a [+1 Weapon](+1%20Weapon.md): Dungeon Master's Guide (2024) p. 99*

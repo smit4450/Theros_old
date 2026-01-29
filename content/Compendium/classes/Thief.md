@@ -58,7 +58,7 @@ As a [[bonus-action-xphb]], you can do one of the following.
 
 #### Sleight of Hand
 
-Make a Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check to pick a lock or disarm a trap with [[thieves-tools-xphb]] or to pick a pocket.
+Make a Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check to pick a lock or disarm a trap with [[Thieves' Tools]] or to pick a pocket.
 
 #### Use an Object
 
@@ -98,7 +98,7 @@ Whenever you use a magic item property that expends charges, roll `1d6`. On a ro
 
 #### Scrolls
 
-You can use any [[spell-scroll-xdmg]], using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence ([Arcana](Compendium/rules/skills.md#Arcana)) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
+You can use any [[Spell Scroll]], using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence ([Arcana](Compendium/rules/skills.md#Arcana)) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
 
 ### Thief's Reflexes (Level 17)
 

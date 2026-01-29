@@ -25,18 +25,18 @@ Use these stat blocks to represent the creatures they're named for or other simi
 - [[Blood Hawk]]  
 - [[Boar]]  
 - [[Brown Bear]]  
-- [[Camel]]  
+- [[Compendium/bestiary/beast/Camel]]  
 - [[Cat]]  
 - [[Constrictor Snake]]  
 - [[Crab]]  
 - [[Crocodile]]  
 - [[Deer]]  
 - [[Dire Wolf]]  
-- [[Draft Horse]]  
+- [[Compendium/bestiary/beast/Draft Horse]]  
 - [[Eagle]]  
-- [[Elephant]]  
+- [[Compendium/bestiary/beast/Elephant]]  
 - [[Elk]]  
-- [[Flying Snake]]  
+- [[Compendium/bestiary/monstrosity/Flying Snake]]  
 - [[Frog]]  
 - [[Giant Ape]]  
 - [[Giant Badger]]  
@@ -67,7 +67,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 - [[Giant Wasp]]  
 - [[Giant Weasel]]  
 - [[Giant Wolf Spider]]  
-- [[Goat]]  
+- [[Compendium/bestiary/beast/Goat]]  
 - [[Hawk]]  
 - [[Hippopotamus]]  
 - [[Hunter Shark]]  
@@ -77,21 +77,21 @@ Use these stat blocks to represent the creatures they're named for or other simi
 - [[Lion]]  
 - [[Lizard]]  
 - [[mammoth-xmm]]  
-- [[Mastiff]]  
-- [[Mule]]  
+- [[Compendium/bestiary/beast/Mastiff]]  
+- [[Compendium/bestiary/beast/Mule]]  
 - [[Octopus]]  
 - [[Owl]]  
 - [[Panther]]  
 - [[Piranha]]  
 - [[plesiosaurus-xmm]]  
 - [[Polar Bear]]  
-- [[Pony]]  
+- [[Compendium/bestiary/beast/Pony]]  
 - [[pteranodon-xmm]]  
 - [[Rat]]  
 - [[Raven]]  
 - [[Reef Shark]]  
 - [[Rhinoceros]]  
-- [[Riding Horse]]  
+- [[Compendium/bestiary/beast/Riding Horse]]  
 - [[saber-toothed-tiger-xmm]]  
 - [[Scorpion]]  
 - [[Seahorse]]  
@@ -107,7 +107,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 - [[tyrannosaurus-rex-xmm]]  
 - [[Venomous Snake]]  
 - [[Vulture]]  
-- [[Warhorse]]  
+- [[Compendium/bestiary/beast/Warhorse]]  
 - [[Weasel]]  
 - [[Wolf]]  
 
@@ -120,12 +120,12 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > ![Dire Wolf](Dire%20Wolf.md#^statblock)
 
 > [!embed-monster]- Draft Horse
-> ![Draft Horse](Draft%20Horse.md#^statblock)
+> ![Draft Horse](Compendium/bestiary/beast/Draft%20Horse.md#^statblock)
 
 ![Elephant](Compendium/books/monster-manual-2025/img/006-27-007-elephant.webp#center)
 
 > [!embed-monster]- Elephant
-> ![Elephant](Elephant.md#^statblock)
+> ![Elephant](Compendium/bestiary/beast/Elephant.md#^statblock)
 
 > [!embed-monster]- Eagle
 > ![Eagle](Eagle.md#^statblock)
@@ -134,7 +134,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > ![Elk](Elk.md#^statblock)
 
 > [!embed-monster]- Flying Snake
-> ![Flying Snake](Flying%20Snake.md#^statblock)
+> ![Flying Snake](Compendium/bestiary/monstrosity/Flying%20Snake.md#^statblock)
 
 > [!embed-monster]- Frog
 > ![Frog](Frog.md#^statblock)
@@ -245,7 +245,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Giant Wolf Spider](Compendium/books/monster-manual-2025/img/015-27-016-giant-spider.webp#center)
 
 > [!embed-monster]- Goat
-> ![Goat](Goat.md#^statblock)
+> ![Goat](Compendium/bestiary/beast/Goat.md#^statblock)
 
 ![Hawk](Compendium/books/monster-manual-2025/img/016-27-017-hawk.webp#center)
 
@@ -281,10 +281,10 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > ![Mammoth](Compendium/bestiary/beast/mammoth-xmm.md#^statblock)
 
 > [!embed-monster]- Mastiff
-> ![Mastiff](Mastiff.md#^statblock)
+> ![Mastiff](Compendium/bestiary/beast/Mastiff.md#^statblock)
 
 > [!embed-monster]- Mule
-> ![Mule](Mule.md#^statblock)
+> ![Mule](Compendium/bestiary/beast/Mule.md#^statblock)
 
 ![Octopus](Compendium/books/monster-manual-2025/img/019-27-020-octopus.webp#center)
 
@@ -309,7 +309,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > ![Polar Bear](Polar%20Bear.md#^statblock)
 
 > [!embed-monster]- Pony
-> ![Pony](Pony.md#^statblock)
+> ![Pony](Compendium/bestiary/beast/Pony.md#^statblock)
 
 > [!embed-monster]- Pteranodon
 > ![Pteranodon](Compendium/bestiary/beast/pteranodon-xmm.md#^statblock)
@@ -331,7 +331,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 ![Rhinoceros](Compendium/books/monster-manual-2025/img/022-27-023-rhinoceros.webp#center)
 
 > [!embed-monster]- Riding Horse
-> ![Riding Horse](Riding%20Horse.md#^statblock)
+> ![Riding Horse](Compendium/bestiary/beast/Riding%20Horse.md#^statblock)
 
 > [!embed-monster]- Saber-Toothed Tiger
 > ![Saber-Toothed Tiger](Compendium/bestiary/beast/saber-toothed-tiger-xmm.md#^statblock)
@@ -385,7 +385,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > ![Vulture](Vulture.md#^statblock)
 
 > [!embed-monster]- Warhorse
-> ![Warhorse](Warhorse.md#^statblock)
+> ![Warhorse](Compendium/bestiary/beast/Warhorse.md#^statblock)
 
 > [!embed-monster]- Weasel
 > ![Weasel](Weasel.md#^statblock)

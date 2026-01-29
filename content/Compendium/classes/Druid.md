@@ -53,14 +53,14 @@ aliases:
 - **Saving Throw Proficiencies**: Intelligence, Wisdom
 - **Skill Proficiencies**: *Choose 2:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Arcana](Compendium/rules/skills.md#Arcana), [Insight](Compendium/rules/skills.md#Insight), [Medicine](Compendium/rules/skills.md#Medicine), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), [Religion](Compendium/rules/skills.md#Religion), or [Survival](Compendium/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons
-- **Tool Proficiencies**: [[herbalism-kit-xphb]]
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor) and [[shield-xphb]]
+- **Tool Proficiencies**: [[Herbalism Kit]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor) and [[Shield]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[leather-armor-xphb]], [[shield-xphb]], [[sickle-xphb]], [[druidic-focus-xphb]], [[explorers-pack-xphb]], [[herbalism-kit-xphb]], 9 GP; or (B) 50 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Leather Armor]], [[Shield]], [[Sickle]], [[Druidic Focus]], [[Explorer's Pack]], [[Herbalism Kit]], 9 GP; or (B) 50 GP
 
 ## Multiclassing Druid
 
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [[shield-xphb]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [[Shield]]
 
 ## Druid
 
@@ -124,7 +124,7 @@ Wisdom is your spellcasting ability for your Druid spells.
 
 #### Spellcasting Focus
 
-You can use a [[druidic-focus-xphb]] as a [[spellcasting-focus-xphb]] for your Druid spells.
+You can use a [[Druidic Focus]] as a [[spellcasting-focus-xphb]] for your Druid spells.
 
 ### Wild Companion (Level 2)
 
@@ -144,7 +144,7 @@ You gain additional uses when you reach certain Druid levels, as shown in the Wi
 
 #### Known Forms
 
-You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum [[challenge-rating-xphb]] of 1/4 and that lack a [[fly-speed-xphb]] (see appendix B for stat block options). The [[Rat]], [[Riding Horse]], [[Spider]], and [[Wolf]] are recommended. Whenever you finish a [[long-rest-xphb]], you can replace one of your known forms with another eligible form.
+You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum [[challenge-rating-xphb]] of 1/4 and that lack a [[fly-speed-xphb]] (see appendix B for stat block options). The [[Rat]], [[Compendium/bestiary/beast/Riding Horse]], [[Spider]], and [[Wolf]] are recommended. Whenever you finish a [[long-rest-xphb]], you can replace one of your known forms with another eligible form.
 
 When you reach certain Druid levels, your number of known forms and the maximum [[challenge-rating-xphb]] for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a [[fly-speed-xphb]].
 

@@ -84,10 +84,10 @@ The first time you use this power after each [[long-rest-xphb]], you don't expen
 
 ### Psychic Blades (Level 3)
 
-You can manifest shimmering blades of psychic energy. Whenever you take the [Attack](Compendium/rules/actions.md#Attack) action or make an [Opportunity Attack](Compendium/rules/actions.md#Opportunity Attack), you can manifest a [[psychic-blade-xphb]] in your free hand and make the attack with that blade. The magic blade has the following traits:
+You can manifest shimmering blades of psychic energy. Whenever you take the [Attack](Compendium/rules/actions.md#Attack) action or make an [Opportunity Attack](Compendium/rules/actions.md#Opportunity Attack), you can manifest a [[Psychic Blade]] in your free hand and make the attack with that blade. The magic blade has the following traits:
 
 > [!embed-item]- Psychic Blade
-> ![[psychic-blade-xphb]]
+> ![[Psychic Blade]]
 
 The blade vanishes immediately after it hits or misses its target, and it leaves no mark if it deals damage.
 
@@ -99,11 +99,11 @@ You can now use the following powers with your Psychic Blades.
 
 ### Homing Strikes (Level 9)
 
-If you make an attack roll with your [[psychic-blade-xphb]] and miss the target, you can roll one Psionic Energy Die and add the number rolled to the attack roll. If this causes the attack to hit, the die is expended.
+If you make an attack roll with your [[Psychic Blade]] and miss the target, you can roll one Psionic Energy Die and add the number rolled to the attack roll. If this causes the attack to hit, the die is expended.
 
 ### Psychic Teleportation (Level 9)
 
-As a [[bonus-action-xphb]], you manifest a [[psychic-blade-xphb]], expend one Psionic Energy Die and roll it, and throw the blade at an unoccupied space you can see up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes.
+As a [[bonus-action-xphb]], you manifest a [[Psychic Blade]], expend one Psionic Energy Die and roll it, and throw the blade at an unoccupied space you can see up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes.
 
 ### Psychic Veil (Level 13)
 

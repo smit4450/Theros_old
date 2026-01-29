@@ -17,7 +17,7 @@ cssclasses:
 -  [[Cockatrice]]
 -  [[Death Dog]]
 -  [[Fleecemane Lion]]
--  [[Flying Snake]]
+-  [[Compendium/bestiary/monstrosity/Flying Snake]]
 -  [[Giant Vulture]]
 -  [[Griffon]]
 -  [[Harpy]]

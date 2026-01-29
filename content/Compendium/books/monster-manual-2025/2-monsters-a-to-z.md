@@ -1175,7 +1175,7 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 
 | dice: 1d10 | The Blob Contains... |
 |------------|----------------------|
-| 1 | An [[amulet-of-the-planes-xdmg]]. |
+| 1 | An [[Amulet of the Planes]]. |
 | 2 | An Artifact of the DM's choice. |
 | 3 | The corpses of two gods who were entangled in battle when the blob consumed them. |
 | 4 | A Cubic Gate. |

@@ -13,7 +13,7 @@ aliases: ["Artisan"]
 - **Ability Scores.** Strength, Dexterity, Intelligence  
 - **Feat.**  [[Crafter]]  
 - **Skill Proficiencies.** [Investigation](Compendium/rules/skills.md#Investigation), [Persuasion](Compendium/rules/skills.md#Persuasion)  
-- **Tool Proficiency.** Choose one kind of [[artisans-tools-xphb]]  
-- **Equipment.** Choose A or B: (A) [[artisans-tools-xphb]] (same as above), 2 [[pouch-xphb]], [[travelers-clothes-xphb]], 32 GP; or (B) 50 GP  
+- **Tool Proficiency.** Choose one kind of [[Artisan's Tools]]  
+- **Equipment.** Choose A or B: (A) [[Artisan's Tools]] (same as above), 2 [[Pouch]], [[Traveler's Clothes]], 32 GP; or (B) 50 GP  
 
 You began mopping floors and scrubbing counters in an artisan's workshop for a few coppers per day as soon as you were strong enough to carry a bucket. When you were old enough to apprentice, you learned to create basic crafts of your own, as well as how to sweet-talk the occasional demanding customer. Your trade has also given you a keen eye for detail.

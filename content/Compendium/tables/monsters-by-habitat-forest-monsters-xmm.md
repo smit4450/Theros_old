@@ -15,7 +15,7 @@ aliases:
 | CR | Monsters |
 |----|----------|
 | 0 | [[Awakened Shrub]], [[Baboon]], [[Badger]], [[Bat]], [[Cat]], [[Deer]], [[Frog]], [[Hawk]], [[Hyena]], [[Lizard]], [[Owl]], [[Rat]], [[Spider]], [[Weasel]] |
-| 1/8 | [[Blood Hawk]], [[Flying Snake]], [[Giant Rat]], [[Giant Weasel]], [[goblin-minion-xmm]], [[kobold-warrior-xmm]], [[Mastiff]], [[stirge-xmm]], [[Twig Blight]], [[Venomous Snake]] |
+| 1/8 | [[Blood Hawk]], [[Compendium/bestiary/monstrosity/Flying Snake]], [[Giant Rat]], [[Giant Weasel]], [[goblin-minion-xmm]], [[kobold-warrior-xmm]], [[Compendium/bestiary/beast/Mastiff]], [[stirge-xmm]], [[Twig Blight]], [[Venomous Snake]] |
 | 1/4 | [[Blink Dog]], [[Boar]], [[Constrictor Snake]], [[Elk]], [[Giant Badger]], [[Giant Bat]], [[Giant Frog]], [[Giant Lizard]], [[Giant Owl]], [[Giant Venomous Snake]], [[Giant Wolf Spider]], [[goblin-warrior-xmm]], [[kenku-xmm]], [[Needle Blight]], [[Panther]], [[pixie-xmm]], [[Pseudodragon]], [[sprite-xmm]], [[Swarm of Bats]], [[Swarm of Rats]], [[winged-kobold-xmm]], [[Wolf]] |
 | 1/2 | [[Ape]], [[Black Bear]], [[Giant Wasp]], [[gnoll-warrior-xmm]], [[hobgoblin-warrior-xmm]], [[Satyr]], [[Swarm of Insects]], [[Vine Blight]], [[worg-xmm]] |
 | 1 | [[Brown Bear]], [[bugbear-warrior-xmm]], [[Dire Wolf]], [[Dryad]], [[faerie-dragon-youth-xmm]], [[Giant Hyena]], [[Giant Spider]], [[Giant Toad]], [[goblin-boss-xmm]], [[Harpy]], [[ogrillon-ogre-xmm]], [[Tiger]], [[yuan-ti-infiltrator-xmm]] |

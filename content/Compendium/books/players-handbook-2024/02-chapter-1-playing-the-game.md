@@ -130,7 +130,7 @@ The 20-sided die (`d20`) is the most important die you'll use in the game. It's 
 
 #### Damage
 
-The most common use for dice other than the `d20` is to determine damage. When you make a successful attack roll (one kind of [[d20-test-xphb]]), you roll damage to see how effective the attack is. When you cast a spell, you might also roll damage. Different weapons and spells use different dice for damage. For example, a [[dagger-xphb]] uses `1d4`, a [[greataxe-xphb]] uses `1d12`, and a [[fireball-xphb]] spell uses `8d6`.
+The most common use for dice other than the `d20` is to determine damage. When you make a successful attack roll (one kind of [[d20-test-xphb]]), you roll damage to see how effective the attack is. When you cast a spell, you might also roll damage. Different weapons and spells use different dice for damage. For example, a [[Dagger]] uses `1d4`, a [[Greataxe]] uses `1d12`, and a [[fireball-xphb]] spell uses `8d6`.
 
 #### Random Tables
 
@@ -488,9 +488,9 @@ Exploration involves delving into places that are dangerous and full of mystery.
 
 ### Adventuring Equipment
 
-As adventurers explore, their equipment can help them in many ways. For example, they can reach out-of-the-way places with a Ladder, perceive things they wouldn't otherwise notice with a Torch or another light source, bypass locked doors and containers with [[thieves-tools-xphb]], and create obstacles for pursuers with [[caltrops-xphb]].
+As adventurers explore, their equipment can help them in many ways. For example, they can reach out-of-the-way places with a Ladder, perceive things they wouldn't otherwise notice with a Torch or another light source, bypass locked doors and containers with [[Thieves' Tools]], and create obstacles for pursuers with [[Caltrops]].
 
-See "chapter 6" for rules on many items that are useful on adventures. The items in that chapter's ""Tools"" and ""Adventuring Gear"" sections are especially useful. The weapons in that chapter can also be used for more than battle; you could use a [[quarterstaff-xphb]], for example, to push a sinister-looking button that you're reluctant to touch.
+See "chapter 6" for rules on many items that are useful on adventures. The items in that chapter's ""Tools"" and ""Adventuring Gear"" sections are especially useful. The weapons in that chapter can also be used for more than battle; you could use a [[Quarterstaff]], for example, to push a sinister-looking button that you're reluctant to touch.
 
 ### Vision and Light
 
@@ -860,7 +860,7 @@ When you make a ranged attack, you fire a bow, hurl an axe, or otherwise send pr
 
 You can make ranged attacks only against targets within a specified range. If a ranged attack, such as one made with a spell, has a single range, you can't attack a target beyond this range.
 
-Some ranged attacks, such as those made with a [[longbow-xphb]], have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has [[disadvantage-xphb]] when your target is beyond normal range, and you can't attack a target beyond long range.
+Some ranged attacks, such as those made with a [[Longbow]], have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has [[disadvantage-xphb]] when your target is beyond normal range, and you can't attack a target beyond long range.
 
 #### Ranged Attacks in Close Combat
 
@@ -945,11 +945,11 @@ If you have half your Hit Points or fewer, you're Bloodied, which has no game ef
 
 Each weapon, spell, and damaging monster ability specifies the damage it deals. You roll the damage dice, add any modifiers, and deal the damage to your target. If there's a penalty to the damage, it's possible to deal 0 damage but not negative damage.
 
-When attacking with a weapon, you add your ability modifier—the same modifier used for the attack roll—to the damage roll. A spell tells you which dice to roll for damage and whether to add any modifiers. Unless a rule says otherwise, you don't add your ability modifier to a fixed damage amount that doesn't use a roll, such as the damage of a [[blowgun-xphb]]. See "chapter 6" for weapons' damage dice and "chapter 7" for spells' damage dice.
+When attacking with a weapon, you add your ability modifier—the same modifier used for the attack roll—to the damage roll. A spell tells you which dice to roll for damage and whether to add any modifiers. Unless a rule says otherwise, you don't add your ability modifier to a fixed damage amount that doesn't use a roll, such as the damage of a [[Blowgun]]. See "chapter 6" for weapons' damage dice and "chapter 7" for spells' damage dice.
 
 ### Critical Hits
 
-When you score a Critical Hit, you deal extra damage. Roll the attack's damage dice twice, add them together, and add any relevant modifiers as normal. For example, if you score a Critical Hit with a [[dagger-xphb]], roll `2d4` for the damage rather than `1d4`, and add your relevant ability modifier. If the attack involves other damage dice, such as from the Rogue's Sneak Attack feature, you also roll those dice twice.
+When you score a Critical Hit, you deal extra damage. Roll the attack's damage dice twice, add them together, and add any relevant modifiers as normal. For example, if you score a Critical Hit with a [[Dagger]], roll `2d4` for the damage rather than `1d4`, and add your relevant ability modifier. If the attack involves other damage dice, such as from the Rogue's Sneak Attack feature, you also roll those dice twice.
 
 ### Saving Throws and Damage
 
@@ -987,7 +987,7 @@ Some creatures and objects have Immunity to certain damage types and conditions.
 
 ### Healing
 
-Hit Points can be restored by magic, such as the [[cure-wounds-xphb]] spell or a [[potion-of-healing-xdmg]], or by a [[short-rest-xphb]] or [[long-rest-xphb]].
+Hit Points can be restored by magic, such as the [[cure-wounds-xphb]] spell or a [[Potion of Healing]], or by a [[short-rest-xphb]] or [[long-rest-xphb]].
 
 When you receive healing, add the restored Hit Points to your current Hit Points. Your Hit Points can't exceed your Hit Point maximum, so any Hit Points regained in excess of the maximum are lost. For example, if you receive 8 Hit Points of healing and have 14 Hit Points and a Hit Point maximum of 20, you regain 6 Hit Points, not 8.
 
@@ -1190,7 +1190,7 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 > [!note] (12)—Spells and Reactions
 > 
-> Mirabella casts the [[shield-xphb]] spell. It's a special property of this spell that it can be cast even when it's not the caster's turn, using her Reaction (see ""Actions"" earlier in this chapter).
+> Mirabella casts the [[Shield]] spell. It's a special property of this spell that it can be cast even when it's not the caster's turn, using her Reaction (see ""Actions"" earlier in this chapter).
 ^12-spells-and-reactions
 
 > [!note] (13)—Special Abilities

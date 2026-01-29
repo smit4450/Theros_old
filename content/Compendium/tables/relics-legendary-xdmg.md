@@ -14,15 +14,14 @@ aliases:
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–08 | [[armor-of-invulnerability-xdmg]] |
+| 01–08 | [[Armor of Invulnerability]] |
 | 09–18 | [[3-armor-xdmg]] |
-| 19–27 | [[enspelled-staff-xdmg]] (level 6, 7, or 8 spell) |
-| 28–36 | [[holy-avenger-xdmg]] |
+| 19–27 | [[enspelled-sta[Armor, +3](+3%20Armor.md)| [[Holy Avenger]] |
 | 37–45 | [[horn-of-valhalla-iron-xdmg]] |
-| 46–54 | [[rod-of-resurrection-xdmg]] |
-| 55–63 | [[scarab-of-protection-xdmg]] |
-| 64–72 | [[scroll-of-titan-summoning-xdmg]] |
-| 73–80 | [[spell-scroll-xdmg]] ([[spell-scroll-level-9-xdmg]] spell) |
-| 81–90 | [[talisman-of-pure-good-xdmg]] |
-| 91–00 | [[talisman-of-ultimate-evil-xdmg]] |
+| 46–54 | [[Rod of Resurrection]] |
+| 55–63 | [[Scarab of Protection]] |
+| 64–72 | [[Scroll of Titan Summoning]] |
+| 73–80 | [[Spell Scroll]] ([[Spell Scroll (Level 9)]] spell) |
+| 81–90 | [[Talisman of Pure Good]] |
+| 91–00 | [[Talisman of Ultimate Evil]] |
 ^relics-legendary

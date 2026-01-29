@@ -26,7 +26,7 @@ One plant in your Greenhouse has three magical fruits growing on it. Any creatur
 
 When you issue the "Harvest" order to this facility, choose one of the following options:
 
-- **Harvest.** Healing Herbs. You commission the facility's hireling to create a [[potion-of-greater-healing-xdmg]] made from healing herbs. The work takes 7 days and costs no money.  
-- **Harvest.** Poison. You commission the facility's hireling to extract one application of a poison from rare plants or fungi. Choose the type of poison from the following options: [[assassins-blood-xdmg]], [[malice-xdmg]], [[pale-tincture-xdmg]], or [[truth-serum-xdmg]]. See ""Poison"" in "chapter 3" for each poison's effect. Once harvested, the poison can be contained in a vial. The work takes 7 days and costs no money.  
+- **Harvest.** Healing Herbs. You commission the facility's hireling to create a [[Potion of Greater Healing]] made from healing herbs. The work takes 7 days and costs no money.  
+- **Harvest.** Poison. You commission the facility's hireling to extract one application of a poison from rare plants or fungi. Choose the type of poison from the following options: [[Assassin's Blood]], [[Malice]], [[Pale Tincture]], or [[Truth Serum]]. See ""Poison"" in "chapter 3" for each poison's effect. Once harvested, the poison can be contained in a vial. The work takes 7 days and costs no money.  
 
 *Source: Dungeon Master's Guide (2024) p. 341*

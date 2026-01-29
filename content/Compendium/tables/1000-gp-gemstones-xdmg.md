@@ -14,12 +14,12 @@ aliases:
 
 | dice: 1d8 | Stone |
 |-----------|-------|
-| 1 | [[black-opal-xdmg]] (dark green with black mottling and golden flecks) |
-| 2 | [[blue-sapphire-xdmg]] (medium blue) |
-| 3 | [[emerald-xdmg]] (deep bright green) |
-| 4 | [[fire-opal-xdmg]] (fiery red) |
-| 5 | [[opal-xdmg]] (pale blue with green and golden mottling) |
-| 6 | [[star-ruby-xdmg]] (ruby with white star-shaped center) |
-| 7 | [[star-sapphire-xdmg]] (blue sapphire with white star-shaped center) |
-| 8 | [[yellow-sapphire-xdmg]] (fiery yellow or yellow green) |
+| 1 | [Black opal](Black%20Opal.md)ng and golden flecks) |
+| 2 | [[Blue Sapphire]] (medium blue) |
+| 3 | [[Emerald]] (deep bright green) |
+| 4 | [[Fire Opal]] (fiery red) |
+| 5 | [[Opal]] (pale blue with green and golden mottling) |
+| 6 | [[Star Ruby]] (ruby with white star-shaped center) |
+| 7 | [[Star Sapphire]] (blue sapphire with white star-shaped center) |
+| 8 | [[Yellow Sapphire]] (fiery yellow or yellow green) |
 ^1000-gp-gemstones

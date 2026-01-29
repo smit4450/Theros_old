@@ -532,7 +532,7 @@ A mile upstream from the village, a stream flows into the river from a little wo
 
 ##### Journey Upstream
 
-Borogrove, a kindly [[Treant]], keeps watch over the wood and meets the characters as they follow the polluted stream. He knows the source of the corruption is inside a cave that the stream spills out of. He gives the characters a magic acorn. If swallowed, the acorn conveys the benefits of a [[potion-of-healing-xdmg]] and the [[lesser-restoration-xphb]] spell.
+Borogrove, a kindly [[Treant]], keeps watch over the wood and meets the characters as they follow the polluted stream. He knows the source of the corruption is inside a cave that the stream spills out of. He gives the characters a magic acorn. If swallowed, the acorn conveys the benefits of a [[Potion of Healing]] and the [[lesser-restoration-xphb]] spell.
 
 ##### Twig Blights
 
@@ -548,7 +548,7 @@ Use the Underdark Warren map in "Appendix B" for the corrupted cave. Ignore the 
 
 ##### Journey Home
 
-As they leave the wood, the characters encounter Borogrove again. If they used his acorn, he gives them another one. If they purified the source of the stream, he gives them a [[staff-of-flowers-xdmg]] in gratitude.
+As they leave the wood, the characters encounter Borogrove again. If they used his acorn, he gives them another one. If they purified the source of the stream, he gives them a [[Staff of Flowers]] in gratitude.
 
 ### Miner Difficulties
 
@@ -607,9 +607,9 @@ In the inner cave, the troublesome [[Red Dragon Wyrmling]] rests on its little h
 - Crate holding Nondy's stolen goods (worth 400 GP)  
 - 4,200 CP, 2,000 SP, and 180 GP  
 - Seven gemstones worth 50 GP each  
-- [[potion-of-healing-xdmg]]  
-- [[rope-of-climbing-xdmg]]  
-- Two [[spell-scroll-xdmg]] ([[alarm-xphb]] and [[comprehend-languages-xphb]])  
+- [[Potion of Healing]]  
+- [[Rope of Climbing]]  
+- Two [[Spell Scroll]] ([[alarm-xphb]] and [[comprehend-languages-xphb]])  
 
 If the characters defeat or drive off the dragon, each of them earns a bonus 400 XP.
 
@@ -644,7 +644,7 @@ For the ruins, use the western half of the ground floor of the Dungeon Hideout m
 
 ##### The Artifact
 
-The Horns of the Beast—a jagged crown made from the horns of demons and wild animals—rests on a pedestal in the northwest corner of the ruins. Melchis immediately attempts to seize the Artifact and place it on his head. If he does, he is transformed into a [[hezrou-xmm]] and tries to kill the characters. A character who dons the Artifact is cursed with "Demonic Possession" (see ""Curses and Magical Contagions"" in "chapter 3"). The Artifact can't be removed from the character's head until a [[remove-curse-xphb]] spell is cast on the character. If the characters defeat Melchis and search him, they find a [[bag-of-holding-xdmg]] containing twelve 5-pound gold trade bars (worth 250 GP each) and a [[spell-scroll-xdmg]] of [[teleportation-circle-xphb]]. The scroll also contains the sigil sequence for a permanent teleportation circle. At the end of the adventure, each character earns a bonus 1,000 XP.
+The Horns of the Beast—a jagged crown made from the horns of demons and wild animals—rests on a pedestal in the northwest corner of the ruins. Melchis immediately attempts to seize the Artifact and place it on his head. If he does, he is transformed into a [[hezrou-xmm]] and tries to kill the characters. A character who dons the Artifact is cursed with "Demonic Possession" (see ""Curses and Magical Contagions"" in "chapter 3"). The Artifact can't be removed from the character's head until a [[remove-curse-xphb]] spell is cast on the character. If the characters defeat Melchis and search him, they find a [[Bag of Holding]] containing twelve 5-pound gold trade bars (worth 250 GP each) and a [[Spell Scroll]] of [[teleportation-circle-xphb]]. The scroll also contains the sigil sequence for a permanent teleportation circle. At the end of the adventure, each character earns a bonus 1,000 XP.
 
 ##### Destroying the Artifact
 

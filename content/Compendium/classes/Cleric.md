@@ -53,13 +53,13 @@ aliases:
 - **Saving Throw Proficiencies**: Charisma, Wisdom
 - **Skill Proficiencies**: *Choose 2:* [History](Compendium/rules/skills.md#History), [Insight](Compendium/rules/skills.md#Insight), [Medicine](Compendium/rules/skills.md#Medicine), [Persuasion](Compendium/rules/skills.md#Persuasion), or [Religion](Compendium/rules/skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[shield-xphb]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Shield]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[chain-shirt-xphb]], [[shield-xphb]], [[mace-xphb]], [[holy-symbol-xphb]], [[priests-pack-xphb]], 7 GP; or (B) 110 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Chain Shirt]], [[Shield]], [[Mace]], [[Holy Symbol]], [[Priest's Pack]], 7 GP; or (B) 110 GP
 
 ## Multiclassing Cleric
 
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[shield-xphb]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Shield]]
 
 ## Cleric
 
@@ -105,7 +105,7 @@ Wisdom is your spellcasting ability for your Cleric spells.
 
 #### Spellcasting Focus
 
-You can use a [[holy-symbol-xphb]] as a [[spellcasting-focus-xphb]] for your Cleric spells.
+You can use a [[Holy Symbol]] as a [[spellcasting-focus-xphb]] for your Cleric spells.
 
 ### Divine Order (Level 1)
 
@@ -129,13 +129,13 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 
 ### Divine Spark (Level 2)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you point your [[holy-symbol-xphb]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll `1d8` and add your Wisdom modifier. You either restore [[hit-points-xphb]] to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
+As a [Magic](Compendium/rules/actions.md#Magic) action, you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll `1d8` and add your Wisdom modifier. You either restore [[hit-points-xphb]] to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
 
 You roll an additional `d8` when you reach Cleric levels 7 (`2d8`), 13 (`3d8`), and 18 (`4d8`).
 
 ### Turn Undead (Level 2)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you present your [[holy-symbol-xphb]] and censure Undead creatures. Each Undead of your choice within 30 feet of you must make a Wisdom saving throw. If the creature fails its save, it has the [Frightened](Compendium/rules/conditions.md#Frightened) and [Incapacitated](Compendium/rules/conditions.md#Incapacitated) conditions for 1 minute. For that duration, it tries to move as far from you as it can on its turns. This effect ends early on the creature if it takes any damage, if you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, or if you die.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you present your [[Holy Symbol]] and censure Undead creatures. Each Undead of your choice within 30 feet of you must make a Wisdom saving throw. If the creature fails its save, it has the [Frightened](Compendium/rules/conditions.md#Frightened) and [Incapacitated](Compendium/rules/conditions.md#Incapacitated) conditions for 1 minute. For that duration, it tries to move as far from you as it can on its turns. This effect ends early on the creature if it takes any damage, if you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, or if you die.
 
 ### Cleric Subclass (Level 3)
 

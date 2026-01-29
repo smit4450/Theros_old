@@ -11,7 +11,7 @@ aliases:
 # Falling Net
 *Generic Hazard*  
 
-A falling net trap uses a trip wire to release a weighted, 10-foot-square [[net-xphb]] suspended from the ceiling. The trip wire is 3 inches off the ground and stretches between two columns or trees.
+A falling net trap uses a trip wire to release a weighted, 10-foot-square [Net](Net.md)ling. The trip wire is 3 inches off the ground and stretches between two columns or trees.
 
 The first creature that crosses the trip wire causes the Net to fall on it. The target must succeed on a DC 10 Dexterity saving throw or have the [Restrained](Compendium/rules/conditions.md#Restrained) condition until it escapes. The target succeeds automatically if it's Huge or larger. A creature can take an action to make a DC 10 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check, freeing itself or another creature within its reach from the Net on a successful check.
 
@@ -21,11 +21,7 @@ As a [Search](Compendium/rules/actions.md#Search) action, a creature can examine
 
 ## Destroy the Net
 
-Reducing the Net to 0 Hit Points frees any creature trapped in it (see the "Player's Handbook" for the [[net-xphb]] statistics).
-
-## Set the Trap
-
-A creature that has [[thieves-tools-xphb]] and all the trap's components (including a Net) can try to set a falling net trap, doing so with a successful DC 13 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check. Each attempt to set this trap takes 10 minutes.
+Reducing the Net to 0 Hit Points frees any creature trapped in it (see the "Player's Handbook" for the [[net-xphb]] statistics[Net's](Net.md)has [[Thieves' Tools]] and all the trap's components (including a Net) can try to set a falling net trap, doing so with a successful DC 13 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check. Each attempt to set this trap takes 10 minutes.
 
 ## At Higher Levels
 

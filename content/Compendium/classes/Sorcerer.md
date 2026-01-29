@@ -54,7 +54,7 @@ aliases:
 - **Skill Proficiencies**: *Choose 2:* [Arcana](Compendium/rules/skills.md#Arcana), [Deception](Compendium/rules/skills.md#Deception), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Persuasion](Compendium/rules/skills.md#Persuasion), or [Religion](Compendium/rules/skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
 
-**Starting Equipment:** *Choose A or B:* (A) [[spear-xphb]], 2 [[dagger-xphb]], [[arcane-focus-xphb]] ([[crystal-xphb]]), [[dungeoneers-pack-xphb]], and 28 GP; or (B) 50 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Spear]], 2 [[Dagger]], [[Arcane Focus]] ([[Crystal]]), [[Dungeoneer's Pack]], and 28 GP; or (B) 50 GP
 
 
 ## Sorcerer
@@ -99,7 +99,7 @@ Charisma is your spellcasting ability for your Sorcerer spells.
 
 #### Spellcasting Focus
 
-You can use an [[arcane-focus-xphb]] as a [[spellcasting-focus-xphb]] for your Sorcerer spells.
+You can use an [[Arcane Focus]] as a [[spellcasting-focus-xphb]] for your Sorcerer spells.
 
 ### Innate Sorcery (Level 1)
 

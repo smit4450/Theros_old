@@ -53,15 +53,15 @@ aliases:
 - **Saving Throw Proficiencies**: Charisma, Dexterity
 - **Skill Proficiencies**: Choose 3 [[skills]]
 - **Weapon Proficiencies**: Simple weapons
-- **Tool Proficiencies**: Choose three [[musical-instrument-xphb]]
+- **Tool Proficiencies**: Choose three [[Musical Instrument]]
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
-**Starting Equipment:** *Choose A or B:* (A) [[leather-armor-xphb]], 2 [[dagger-xphb]], [[musical-instrument-xphb]] of your choice, [[entertainers-pack-xphb]], 19 GP; or (B) 90 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Leather Armor]], 2 [[Dagger]], [[Musical Instrument]] of your choice, [[Entertainer's Pack]], 19 GP; or (B) 90 GP
 
 ## Multiclassing Bard
 
 - **Skill Proficiencies**: Choose 1 [[skills]]
-- **Tool Proficiencies**: Choose one [[musical-instrument-xphb]]
+- **Tool Proficiencies**: Choose one [[Musical Instrument]]
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
 ## Bard
@@ -126,7 +126,7 @@ Charisma is your spellcasting ability for your Bard spells.
 
 #### Spellcasting Focus
 
-You can use a [[musical-instrument-xphb]] as a [[spellcasting-focus-xphb]] for your Bard spells.
+You can use a [[Musical Instrument]] as a [[spellcasting-focus-xphb]] for your Bard spells.
 
 ### Expertise (Level 2)
 
@@ -142,7 +142,7 @@ For example, if you make a Strength ([Athletics](Compendium/rules/skills.md#Athl
 
 > [!note] A Bard's Repertoire
 > 
-> Does your Bard beat a [[drum-xphb]] while chanting the deeds of ancient heroes? Strum a [[lute-xphb]] while crooning romantic tunes? Perform arias of stirring power? Recite dramatic monologues from classic tragedies? Use the rhythm of a folk dance to coordinate the movement of allies in battle? Compose naughty limericks?
+> Does your Bard beat a [[Drum]] while chanting the deeds of ancient heroes? Strum a [[Lute]] while crooning romantic tunes? Perform arias of stirring power? Recite dramatic monologues from classic tragedies? Use the rhythm of a folk dance to coordinate the movement of allies in battle? Compose naughty limericks?
 > 
 > When you play a Bard, consider the style of artistic performance you favor, the moods you might invoke, and the themes that inspire your own creations. Are your poems inspired by moments of natural beauty, or are they brooding reflections on loss? Do you prefer lofty hymns or rowdy tavern songs? Are you drawn to laments for the fallen or celebrations of joy? Do you dance merry jigs or perform elaborate interpretive choreography? Do you focus on one style of performance or strive to master them all?
 ^a-bards-repertoire

@@ -24,7 +24,7 @@ aliases:
 | 21–22 | [[daerns-instant-fortress-xdmg]] |
 | 23–25 | [[dagger-of-venom-xdmg]] |
 | 26–28 | [[dragon-slayer-xdmg]] |
-| 29–31 | [[elven-chain-xdmg]] |
+| 29–31 | [[Enchanted Chain]] |
 | 32–34 | [[enspelled-armor-xdmg]] (level 2 or 3 spell) |
 | 35–37 | [[enspelled-weapon-xdmg]] (level 2 or 3 spell) |
 | 38–40 | [[flame-tongue-xdmg]] |
@@ -35,19 +35,19 @@ aliases:
 | 52–54 | [[mace-of-disruption-xdmg]] |
 | 55–57 | [[mace-of-smiting-xdmg]] |
 | 58–60 | [[mace-of-terror-xdmg]] |
-| 61–63 | [[potion-of-fire-giant-strength-xdmg]] |
-| 64–66 | [[potion-of-giant-strength-xdmg]] ([[potion-of-frost-giant-strength-xdmg]] or [[potion-of-stone-giant-strength-xdmg]]) |
-| 67–69 | [[potion-of-heroism-xdmg]] |
-| 70–72 | [[potion-of-invulnerability-xdmg]] |
-| 73–75 | [[ring-of-protection-xdmg]] |
-| 76–78 | [[ring-of-the-ram-xdmg]] |
+| 61–63 | [[Potion of Fire Giant Strength]] |
+| 64–66 | [[Potion of Giant Strength]] ([[Potion of Frost Giant Strength]] or [[Potion of Stone Giant Strength]]) |
+| 67–69 | [[Potion of Heroism]] |
+| 70–72 | [[Potion of Invulnerability]] |
+| 73–75 | [[Ring of Protection]] |
+| 76–78 | [[Ring of the Ram]] |
 | 79–81 | [[2-shield-xdmg]] |
-| 82–84 | [[shield-of-missile-attraction-xdmg]] |
-| 85–86 | [[sun-blade-xdmg]] |
-| 87–88 | [[sword-of-life-stealing-xdmg]] |
-| 89–90 | [[sword-of-wounding-xdmg]] |
-| 91–92 | [[tentacle-rod-xdmg]] |
-| 93–94 | [[vicious-weapon-xdmg]] |
+| 82–84 | [[Shield of Missile Attraction]] |
+| 85–86 | [[Sun Blade]] |
+| 87–88 | [[Sword of Life Stealing]] |
+| 89–90 | [[Sword of Wounding]] |
+| 91–92 | [[Tentacle Rod]] |
+| 93–94 | [[Vicious Weapon]] |
 | 95–97 | [[2-weapon-xdmg]] |
 | 98–00 | [[2-wraps-of-unarmed-power-xdmg]] |
 ^armaments-rare

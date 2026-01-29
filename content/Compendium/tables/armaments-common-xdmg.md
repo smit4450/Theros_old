@@ -18,10 +18,10 @@ aliases:
 | 11–20 | [[cast-off-armor-xdmg]] |
 | 21–30 | [[dread-helm-xdmg]] |
 | 31–40 | [[moon-touched-sword-xdmg]] |
-| 41–50 | [[shield-of-expression-xdmg]] |
-| 51–60 | [[silvered-weapon-xdmg]] |
-| 61–70 | [[smoldering-armor-xdmg]] |
-| 71–80 | [[sylvan-talon-xdmg]] |
-| 81–90 | [[veterans-cane-xdmg]] |
-| 91–00 | [[walloping-ammunition-xdmg]] |
+| 41–50 | [[Shield of Expression]] |
+| 51–60 | [[Silvered Weapon]] |
+| 61–70 | [[Smoldering Armor]] |
+| 71–80 | [[Sylvan Talon]] |
+| 81–90 | [[Veteran's Cane]] |
+| 91–00 | [[Walloping Ammunition]] |
 ^armaments-common

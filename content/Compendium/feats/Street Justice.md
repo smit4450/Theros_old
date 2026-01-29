@@ -19,6 +19,6 @@ You gain the following benefits.
 
 **Headlock.** Your allies have [[advantage-xphb]] on attack rolls against a creature [Grappled](Compendium/rules/conditions.md#Grappled) by you.
 
-**Sturdy Knot.** When you use [[chain-xphb]], [[manacles-xphb]], or [[rope-xphb]] to bind a creature, add your [[proficiency-xphb]] to the DC to escape or burst the [[chain-xphb]], [[manacles-xphb]], or [[rope-xphb]].
+**Sturdy Knot.** When you use [[Chain]], [[Manacles]], or [[Rope]] to bind a creature, add your [[proficiency-xphb]] to the DC to escape or burst the [[Chain]], [[Manacles]], or [[Rope]].
 
 **Tough Talk.** A creature's [[hostile-attitude-xphb]] attitude doesn't impose [[disadvantage-xphb]] on your Charisma ([Intimidation](Compendium/rules/skills.md#Intimidation)) checks to influence that creature.

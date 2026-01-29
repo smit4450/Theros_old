@@ -14,14 +14,11 @@ aliases:
 
 | dice: 1d10 | Object |
 |------------|--------|
-| 1 | [[silver-ewer-xdmg]] |
-| 2 | [[carved-bone-statuette-xdmg]] |
-| 3 | [[gold-bracelet-xdmg]] |
-| 4 | [[cloth-of-gold-vestments-xdmg]] |
+| 1 | [[Silver ewer]] |
+| 2 | [[Carved bone statuette]] |
+| 3 | [[Gold bracelet]] |
+| 4 | [[Cloth-of-gold vestments]] |
 | 5 | [[black-velvet-mask-stitched-with-silver-thread-xdmg]] |
-| 6 | [[copper-chalice-with-silver-filigree-xdmg]] |
-| 7 | [[pair-of-engraved-bone-dice-xdmg]] |
-| 8 | [[handheld-mirror-set-in-a-painted-wooden-frame-xdmg]] |
-| 9 | [[embroidered-silk-handkerchief-xdmg]] |
-| 10 | [[gold-locket-with-a-painted-portrait-inside-xdmg]] |
+| 6 | [[Copper chalice with silver filigree]] |
+| 7 | [[pair-of-engraved-bone-dice-xdm[Black velvet mask stitched with silver thread](Black%20velvet%20mask%20stitched%20with%20silver%20thread.md)0 | [[Gold locket with a painted portrait inside]] |
 ^25-gp-art-objects

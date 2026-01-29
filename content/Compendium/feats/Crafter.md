@@ -13,22 +13,22 @@ aliases:
 
 You gain the following benefits.
 
-**Tool Proficiency.** You gain proficiency with three different [[artisans-tools-xphb]] of your choice from the Fast Crafting table.
+**Tool Proficiency.** You gain proficiency with three different [[Artisan's Tools]] of your choice from the Fast Crafting table.
 
 **Discount.** Whenever you buy a nonmagical item, you receive a 20 percent discount on it.
 
-**Fast Crafting.** When you finish a [[long-rest-xphb]], you can craft one piece of gear from the Fast Crafting table, provided you have the [[artisans-tools-xphb]] associated with that item and have proficiency with those tools. The item lasts until you finish another [[long-rest-xphb]], at which point the item falls apart.
+**Fast Crafting.** When you finish a [[long-rest-xphb]], you can craft one piece of gear from the Fast Crafting table, provided you have the [[Artisan's Tools]] associated with that item and have proficiency with those tools. The item lasts until you finish another [[long-rest-xphb]], at which point the item falls apart.
 
 **Fast Crafting**
 
 | Artisan's Tools | Crafted Gear |
 |-----------------|--------------|
-| [[carpenters-tools-xphb]] ]], [[torch-xphb]] |
-| [[leatherworkers-tools-xphb]] ]], [[map-or-scroll-case-xphb]], [[pouch-xphb]] |
-| [[masons-tools-xphb]] ]] |
-| [[potters-tools-xphb]] ]], [[lamp-xphb]] |
-| [[smiths-tools-xphb]] ]], [[bucket-xphb]], [[caltrops-xphb]], [[grappling-hook-xphb]], [[iron-pot-xphb]] |
-| [[tinkers-tools-xphb]] ]], [[shovel-xphb]], [[tinderbox-xphb]] |
-| [[weavers-tools-xphb]] ]], [[rope-xphb]], [[net-xphb]], [[tent-xphb]] |
-| [[woodcarvers-tools-xphb]] ]], [[greatclub-xphb]], [[quarterstaff-xphb]] |
+| [[Carpenter's Tools]] ]], [[Torch]] |
+| [[Leatherworker's Tools]] ]], [[Map or Scroll Case]], [[Pouch]] |
+| [[Mason's Tools]] ]] |
+| [[Potter's Tools]] ]], [[Lamp]] |
+| [[Smith's Tools]] ]], [[Bucket]], [[Caltrops]], [[Grappling Hook]], [[Iron Pot]] |
+| [[Tinker's Tools]] ]], [[Shovel]], [[Tinderbox]] |
+| [[Weaver's Tools]] ]], [[Rope]], [[Net]], [[Tent]] |
+| [[Woodcarver's Tools]] ]], [[Greatclub]], [[Quarterstaff]] |
 ^fast-crafting

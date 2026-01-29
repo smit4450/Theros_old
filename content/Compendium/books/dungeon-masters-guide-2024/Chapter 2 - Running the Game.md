@@ -109,7 +109,7 @@ D&D's rules and published adventures generally assume four to six players plus t
 
 ### Small Groups
 
-A group that contains fewer than four players might find combat encounters difficult, especially if the party lacks important capabilities (such as armored characters to stand toe-to-toe with enemies or healing magic to keep everyone alive). You can compensate by reducing the number of monsters in a combat encounter or by giving the party resources they need, such as [[potion-of-healing-xdmg]].
+A group that contains fewer than four players might find combat encounters difficult, especially if the party lacks important capabilities (such as armored characters to stand toe-to-toe with enemies or healing magic to keep everyone alive). You can compensate by reducing the number of monsters in a combat encounter or by giving the party resources they need, such as [[Potion of Healing]].
 
 You can also add party members, as described in the sections that follow.
 
@@ -687,7 +687,7 @@ Characters can push themselves to travel for more than 8 hours per day, at the r
 
 ##### Special Movement
 
-If a party can travel at a high Speed for an extended time, as with a spell such as [[wind-walk-xphb]] or a magic item such as a [[carpet-of-flying-xdmg]], translate the party's Speed into travel rates using these rules:
+If a party can travel at a high Speed for an extended time, as with a spell such as [[wind-walk-xphb]] or a magic item such as a [[Carpet of Flying]], translate the party's Speed into travel rates using these rules:
 
 <span class='abilityGeneric'>**Miles per hour.**</span>
 
@@ -731,13 +731,13 @@ The Encounter Distance column in the "Travel Terrain" table gives the range at w
 
 #### Foraging
 
-Characters without water and [[rations-xphb]] can stave off [[dehydration-xphb]] and [[malnutrition-xphb]] by gathering food and water as they travel. A foraging character makes a Wisdom ([Survival](Compendium/rules/skills.md#Survival)) check once per journey stage (or once per day if a stage is shorter than a day). The DC is determined by the abundance of food and water in the region, as shown in the Foraging DC column of the "Travel Terrain" table. If multiple characters forage, each character makes a separate check.
+Characters without water and [[Rations]] can stave off [[dehydration-xphb]] and [[malnutrition-xphb]] by gathering food and water as they travel. A foraging character makes a Wisdom ([Survival](Compendium/rules/skills.md#Survival)) check once per journey stage (or once per day if a stage is shorter than a day). The DC is determined by the abundance of food and water in the region, as shown in the Foraging DC column of the "Travel Terrain" table. If multiple characters forage, each character makes a separate check.
 
 A foraging character finds nothing on a failed check. On a successful check, roll `1d6` and add the character's Wisdom modifier to determine how much food (in pounds) the character finds per day of the journey stage, then repeat the roll for water (in gallons).
 
 > [!note] Do Players Need to Track Rations?
 > 
-> You might decide that tracking [[rations-xphb]] is unnecessary in your game. Even if the characters are in a desert, you can assume that a character with proficiency in the [Survival](Compendium/rules/skills.md#Survival) skill can find enough food and water to sustain the party. Make sure you work that into your narration of the journey so the player feels good about choosing that skill proficiency. You can also assume the characters can load their mounts with enough Rations for their journey, or they can use magic (such as the [[create-food-and-water-xphb]] spell) to sustain them.
+> You might decide that tracking [[Rations]] is unnecessary in your game. Even if the characters are in a desert, you can assume that a character with proficiency in the [Survival](Compendium/rules/skills.md#Survival) skill can find enough food and water to sustain the party. Make sure you work that into your narration of the journey so the player feels good about choosing that skill proficiency. You can also assume the characters can load their mounts with enough Rations for their journey, or they can use magic (such as the [[create-food-and-water-xphb]] spell) to sustain them.
 > 
 > On the other hand, having players track Rations seems appropriate for a more realistic campaign. Characters in such a campaign should approach a long wilderness journey as a challenge in logistics: how many pack animals do they need to carry the food for the journey, and how do they feed the animals?
 > 

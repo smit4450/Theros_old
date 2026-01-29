@@ -53,15 +53,15 @@ aliases:
 - **Saving Throw Proficiencies**: Dexterity, Strength
 - **Skill Proficiencies**: *Choose 3:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Compendium/rules/skills.md#Athletics), [Insight](Compendium/rules/skills.md#Insight), [Investigation](Compendium/rules/skills.md#Investigation), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), [Stealth](Compendium/rules/skills.md#Stealth), or [Survival](Compendium/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[shield-xphb]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Shield]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[studded-leather-armor-xphb]], [[scimitar-xphb]], [[shortsword-xphb]], [[longbow-xphb]], [[arrows-20-xphb]], [[quiver-xphb]], [[druidic-focus-xphb]] ([[sprig-of-mistletoe-xphb]]), [[explorers-pack-xphb]], and 7 GP; or (B) 150 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Studded Leather Armor]], [[Scimitar]], [[Shortsword]], [[Longbow]], [[Arrows (20)]], [[Quiver]], [[Druidic Focus]] ([[Sprig of Mistletoe]]), [[Explorer's Pack]], and 7 GP; or (B) 150 GP
 
 ## Multiclassing Ranger
 
 - **Skill Proficiencies**: *Choose 1:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Compendium/rules/skills.md#Athletics), [Insight](Compendium/rules/skills.md#Insight), [Investigation](Compendium/rules/skills.md#Investigation), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), [Stealth](Compendium/rules/skills.md#Stealth), or [Survival](Compendium/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[shield-xphb]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Shield]]
 
 ## Ranger
 
@@ -97,7 +97,7 @@ Wisdom is your spellcasting ability for your Ranger spells.
 
 #### Spellcasting Focus
 
-You can use a [[druidic-focus-xphb]] as a [[spellcasting-focus-xphb]] for your Ranger spells.
+You can use a [[Druidic Focus]] as a [[spellcasting-focus-xphb]] for your Ranger spells.
 
 ### Favored Enemy (Level 1)
 
@@ -107,9 +107,9 @@ The number of times you can cast the spell without a spell slot increases when y
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [[weapon-mastery-properties-xphb]] of two kinds of weapons of your choice with which you have proficiency, such as [[longbow-xphb]] and [[shortsword-xphb]].
+Your training with weapons allows you to use the [[weapon-mastery-properties-xphb]] of two kinds of weapons of your choice with which you have proficiency, such as [[Longbow]] and [[Shortsword]].
 
-Whenever you finish a [[long-rest-xphb]], you can change the kinds of weapons you chose. For example, you could switch to using the [[weapon-mastery-properties-xphb]] of [[scimitar-xphb]] and [[longsword-xphb]].
+Whenever you finish a [[long-rest-xphb]], you can change the kinds of weapons you chose. For example, you could switch to using the [[weapon-mastery-properties-xphb]] of [[Scimitar]] and [[Longsword]].
 
 ### Deft Explorer (Level 2)
 

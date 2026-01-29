@@ -71,7 +71,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ### Radiance of the Dawn (Level 3)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you present your [[holy-symbol-xphb]] and expend a use of your Channel Divinity to emit a flash of light in a 30-foot [[emanation-area-of-effect-xphb]] originating from yourself. Any magical [[darkness-xphb]]—such as that created by the [[darkness-xphb]] spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to `2d10` plus your Cleric level on a failed save or half as much damage on a successful one.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you present your [[Holy Symbol]] and expend a use of your Channel Divinity to emit a flash of light in a 30-foot [[emanation-area-of-effect-xphb]] originating from yourself. Any magical [[darkness-xphb]]—such as that created by the [[darkness-xphb]] spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to `2d10` plus your Cleric level on a failed save or half as much damage on a successful one.
 
 ### Warding Flare (Level 3)
 

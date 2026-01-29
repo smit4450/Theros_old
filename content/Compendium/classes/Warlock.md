@@ -55,7 +55,7 @@ aliases:
 - **Weapon Proficiencies**: Simple weapons
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
-**Starting Equipment:** *Choose A or B:* (A) [[leather-armor-xphb]], [[sickle-xphb]], 2 [[dagger-xphb]], [[arcane-focus-xphb]] ([[orb-xphb]]), [[book-xphb]] (occult lore), [[scholars-pack-xphb]], and 15 GP; or (B) 100 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Leather Armor]], [[Sickle]], 2 [[Dagger]], [[Arcane Focus]] ([[Orb]]), [[Book]] (occult lore), [[Scholar's Pack]], and 15 GP; or (B) 100 GP
 
 ## Multiclassing Warlock
 
@@ -121,7 +121,7 @@ Charisma is the spellcasting ability for your Warlock spells.
 
 #### Spellcasting Focus
 
-You can use an [[arcane-focus-xphb]] as a [[spellcasting-focus-xphb]] for your Warlock spells.
+You can use an [[Arcane Focus]] as a [[spellcasting-focus-xphb]] for your Warlock spells.
 
 ### Eldritch Invocation Options (Level 1)
 

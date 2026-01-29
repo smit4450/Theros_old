@@ -109,7 +109,7 @@ The features table in your class description shows your Proficiency Bonus (descr
 
 #### Choose Starting Equipment
 
-Your background and class both provide starting equipment. Any coins that you gain at this step can be immediately spent on equipment from "chapter 6". In addition, you can have one [[trinket-xphb]] at no cost at the end of this chapter.
+Your background and class both provide starting equipment. Any coins that you gain at this step can be immediately spent on equipment from "chapter 6". In addition, you can have one [[Trinket]] at no cost at the end of this chapter.
 
 Record your chosen equipment on your character sheet. Equipment is described in "chapter 6", but for now you can just write it all down and look up the specifics in that chapter later. There's also space on the sample character sheet to note any coins you have left after purchasing your equipment, as well as treasure you acquire on your adventures.
 
@@ -516,4 +516,4 @@ If you have the Pact Magic feature from the Warlock class and the Spellcasting f
 
 ## Trinkets
 
-When you make your character, you can roll once on the [[trinket-xphb]] table to gain a Tiny trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
+When you make your character, you can roll once on the [[Trinket]] table to gain a Tiny trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.

@@ -142,4 +142,4 @@ When you change gods, you lose all the benefits granted by your old one, includi
 -  [[Pharika]]  
 -  [[Phenax]]  
 -  [[Purphoros]]  
--  [[theros-thassa-mot]]
+-  [[Thassa]]

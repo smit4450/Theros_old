@@ -262,7 +262,7 @@ Conflicts like these highlight the themes and flavor of a war campaign:
 
 #### Crossing the Streams
 
-Deep in D&D's roots are elements of science fiction and science fantasy as well as a wide-ranging collection of fantasy inspiration, and your campaign might draw on those sources as well. You can send your characters hurtling through a magic mirror to Lewis Carroll's Wonderland, put them aboard a ship traveling between the stars, or set your campaign in a far-future world where laser weapons (see ""Firearms and Explosives"" in "chapter 3") and [[wand-of-magic-missiles-xdmg]] exist side by side.
+Deep in D&D's roots are elements of science fiction and science fantasy as well as a wide-ranging collection of fantasy inspiration, and your campaign might draw on those sources as well. You can send your characters hurtling through a magic mirror to Lewis Carroll's Wonderland, put them aboard a ship traveling between the stars, or set your campaign in a far-future world where laser weapons (see ""Firearms and Explosives"" in "chapter 3") and [[Wand of Magic Missiles]] exist side by side.
 
 ##### Crossing the Streams Conflicts
 
@@ -931,7 +931,7 @@ Adventurers might visit the Great Library for one of the following reasons:
 
 - **Research.** Adventurers searching for a specific book or more information about a specific topic might find what they're looking for in the library.  
 - **Spellbooks.** The adventurers might need to purloin one of the many spellbooks kept in the library, necessitating a carefully planned heist.  
-- **Spell Scrolls.** Adventurers can commission the scribes to create a [[spell-scroll-xdmg]] that bears a Wizard spell of level 5 or lower. See the "Player's Handbook" for the time required to "craft a scroll"; the scribes charge double the cost shown there.  
+- **Spell Scrolls.** Adventurers can commission the scribes to create a [[Spell Scroll]] that bears a Wizard spell of level 5 or lower. See the "Player's Handbook" for the time required to "craft a scroll"; the scribes charge double the cost shown there.  
 
 ##### High Tower Inn
 
@@ -1001,7 +1001,7 @@ Adventurers with the [[Guide]] or [[Sailor]] background might have a connection 
 Adventurers might visit the temple for one of the following reasons:
 
 - **Adventurers Wanted.** The priests keep tabs on threats in the region around the city. They're paying close attention to rumors of dragon activity in the nearby Cairn Hills, and they're looking to hire adventurers to investigate these rumors.  
-- **Healing.** Adventurers can purchase [[potion-of-healing-xdmg]] for 50 GP each, and the temple's priests have `1d4` such potions in stock on any given day. The priests also have [[cure-wounds-xphb]] and [[lesser-restoration-xphb]] spells prepared and customarily cast them for free. For more powerful magic, such as [[greater-restoration-xphb]] and [[raise-dead-xphb]] spells, the priests direct the adventurers to the Temple of the Radiant Sun.  
+- **Healing.** Adventurers can purchase [[Potion of Healing]] for 50 GP each, and the temple's priests have `1d4` such potions in stock on any given day. The priests also have [[cure-wounds-xphb]] and [[lesser-restoration-xphb]] spells prepared and customarily cast them for free. For more powerful magic, such as [[greater-restoration-xphb]] and [[raise-dead-xphb]] spells, the priests direct the adventurers to the Temple of the Radiant Sun.  
 - **Safe Travels.** By making a small donation to the temple, adventurers increase the likelihood of safe travel to their next destination.  
 - **Teleportation Circle.** Though it isn't the only permanent teleportation circle in the city, the circle within the Temple of the Far Horizon is the easiest to access. The priests allow free access to the teleportation circle in either direction. For 2,000 GP, the chief priest will cast the [[teleportation-circle-xphb]] spell to open a connection to another permanent circle on the Material Plane.  
 
@@ -1014,7 +1014,7 @@ Adventurers might visit the temple for one of the following reasons:
 
 This temple, dedicated to serving the god Pelor in the heart of the Garden Quarter, opens at dawn and closes at dusk. In a sanctuary in the heart of the temple, [[Priest]] conduct daily morning rites, as well as all-day observances every Godsday.
 
-Sarana, the temple's [[Archpriest]] (Neutral Good), is a middle-aged, human woman wearing a sun-shaped headdress and yellow-and-gold robes. She is never seen in public without her [[staff-of-healing-xdmg]]. Sarana has straw-colored hair, green eyes, and a forgiving nature.
+Sarana, the temple's [[Archpriest]] (Neutral Good), is a middle-aged, human woman wearing a sun-shaped headdress and yellow-and-gold robes. She is never seen in public without her [[Staff of Healing]]. Sarana has straw-colored hair, green eyes, and a forgiving nature.
 
 ###### Character Backgrounds
 
@@ -1024,7 +1024,7 @@ Adventurers with the [[Acolyte]] background might have served in the Temple of t
 
 Adventurers might visit the temple for one of the following reasons:
 
-- **Healing.** The temple sells [[spell-scroll-xdmg]] of [[greater-restoration-xphb]] for 3,200 GP apiece and [[spell-scroll-xdmg]] of [[remove-curse-xphb]] for 300 GP apiece, and the priests have `1d3` copies of each scroll in stock on any given day. The priests also have [[cure-wounds-xphb]] and [[lesser-restoration-xphb]] spells prepared, which they customarily cast for free.  
+- **Healing.** The temple sells [[Spell Scroll]] of [[greater-restoration-xphb]] for 3,200 GP apiece and [[Spell Scroll]] of [[remove-curse-xphb]] for 300 GP apiece, and the priests have `1d3` copies of each scroll in stock on any given day. The priests also have [[cure-wounds-xphb]] and [[lesser-restoration-xphb]] spells prepared, which they customarily cast for free.  
 - **Raise Dead.** Archpriest Sarana is one of a handful of people in the Free City of Greyhawk who can cast the [[raise-dead-xphb]] spell, but she needs the requisite 500 GP diamond to do so. Sarana can recommend a jeweler who sells diamonds of sufficient value. Before agreeing to cast the spell, Sarana casts [[zone-of-truth-xphb]] and asks questions about the deceased individual to make sure she's not returning to life someone who should stay dead.  
 - **Service to the Greater Good.** The temple might call upon the adventurers to perform good acts in the city or abroad. Sarana is particularly vigilant about the threat of Elemental Evil, since she was involved in the battle at the Temple of Elemental Evil seven years ago. In exchange for their service, the characters and their companions are entitled to a 50 percent discount on goods purchased at the temple.  
 

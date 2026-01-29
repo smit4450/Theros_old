@@ -20,7 +20,7 @@ Acererak *(ah-SAIR-er-rack)* is a powerful lich who travels between worlds and t
 
 ## Adamantine
 
-Adamantine is one of the hardest substances in existence, a dark metal found in meteorites and extraordinary mineral veins. (See the [[adamantine-armor-xdmg]] and [[adamantine-weapon-xdmg]] magic items in "chapter 7".)
+Adamantine is one of the hardest substances in existence, a dark metal found in meteorites and extraordinary mineral veins. (See the [[Adamantine Armor]] and [[Adamantine Weapon]] magic items in "chapter 7".)
 
 ## Alustriel Silverhand
 
@@ -152,7 +152,7 @@ Icewind Dale is the northernmost settled region of the Forgotten Realms setting.
 
 ![The Wizard Tasha, before s...](Compendium/books/dungeon-masters-guide-2024/img/206-11-003-tasha.webp#center "The Wizard Tasha, before she became Iggwilv the Witch Queen")
 
-Before she changed her name and conquered enough of Eastern Oerik (the Greyhawk setting) to rightfully call herself the Witch Queen of Perrenland, Iggwilv *(IGG-wilv)* was known as Tasha, a human mage who began her career as the apprentice of Zagig Yragerne (see "Zagyg"). Later, as an adventurer, she created several new spells, including [[tashas-hideous-laughter-xphb]] and [[tashas-bubbling-cauldron-xphb]], leaning on the teachings of her adoptive mother, the arch-hag "Baba Yaga". As Tasha grew in power and made powerful enemies, she changed her name to Iggwilv. In this guise, she became enchanted with the power of the Abyss and wrote the definitive treatise on demonkind: the [[demonomicon-of-iggwilv-xdmg]] (see "chapter 7"). She also bound and trapped the demon lord "Graz'zt" (see "chapter 6").
+Before she changed her name and conquered enough of Eastern Oerik (the Greyhawk setting) to rightfully call herself the Witch Queen of Perrenland, Iggwilv *(IGG-wilv)* was known as Tasha, a human mage who began her career as the apprentice of Zagig Yragerne (see "Zagyg"). Later, as an adventurer, she created several new spells, including [[tashas-hideous-laughter-xphb]] and [[tashas-bubbling-cauldron-xphb]], leaning on the teachings of her adoptive mother, the arch-hag "Baba Yaga". As Tasha grew in power and made powerful enemies, she changed her name to Iggwilv. In this guise, she became enchanted with the power of the Abyss and wrote the definitive treatise on demonkind: the [[Demonomicon of Iggwilv]] (see "chapter 7"). She also bound and trapped the demon lord "Graz'zt" (see "chapter 6").
 
 Iggwilv ruled Perrenland as a tyrant. When Graz'zt escaped his magical prison, Iggwilv went into hiding. Iggwilv's current location is unknown, but she left behind a cambion son ("Iuz"), who has his mother's tyrannical bent, and a daughter (Drelnza), who is now a vampire and lairs in the Lost Caverns of Tsojcanth (see ""Greyhawk Gazetteer"" in "chapter 5"), not far from her mother's old haunts.
 
@@ -166,7 +166,7 @@ The youngest and most recently appointed member of the "Circle of Eight" (see "c
 
 ## Kas the Betrayer
 
-Kas *(KOSS)* is a vampire, legendary sword-fighter, and ruthless warlord. He once served as the leader of "Vecna"'s armies and the lich's most trusted lieutenant, and he wielded a sword made for him (the [[sword-of-kas-xdmg]], described in "chapter 7") by his liege. But the evil sword convinced Kas to betray Vecna, and now Kas is driven primarily by his hatred for his former lord.
+Kas *(KOSS)* is a vampire, legendary sword-fighter, and ruthless warlord. He once served as the leader of "Vecna"'s armies and the lich's most trusted lieutenant, and he wielded a sword made for him (the [[Sword of Kas]], described in "chapter 7") by his liege. But the evil sword convinced Kas to betray Vecna, and now Kas is driven primarily by his hatred for his former lord.
 
 ## Keraptis
 
@@ -200,7 +200,7 @@ Minsc *(MINSK)* is a heroic Ranger from the land of Rashemen in the Forgotten Re
 
 ## Mithral
 
-Mithral *(MITH-ral)* is a light, flexible metal that resembles silver but is much more durable. Its most common use is for crafting lightweight armor that provides excellent protection without bulk or burden (see the [[mithral-armor-xdmg]] magic item in "chapter 7").
+Mithral *(MITH-ral)* is a light, flexible metal that resembles silver but is much more durable. Its most common use is for crafting lightweight armor that provides excellent protection without bulk or burden (see the [[Mithral Armor]] magic item in "chapter 7").
 
 ## Moradin
 
@@ -326,7 +326,7 @@ Prominent members of Valor's Call include the dwarf Fighter Elkhorn, the human C
 
 ## Vecna
 
-Vecna *(VECK-nah)* had humble beginnings in the Greyhawk setting, where an order of Wizards used him as a bootblack and scribe. He studied magic in secret until he amassed enough power to slaughter the order, and then he turned his efforts toward scribing the [[book-of-vile-darkness-xdmg]] (described in "chapter 7"). Armed with that dread tome, he forged a kingdom to rule, with the vampire "Kas" as his lieutenant. But Kas betrayed and killed him, leaving only one hand and one eye intact (the [[eye-and-hand-of-vecna-xdmg]] are described in "chapter 7").
+Vecna *(VECK-nah)* had humble beginnings in the Greyhawk setting, where an order of Wizards used him as a bootblack and scribe. He studied magic in secret until he amassed enough power to slaughter the order, and then he turned his efforts toward scribing the [[Book of Vile Darkness]] (described in "chapter 7"). Armed with that dread tome, he forged a kingdom to rule, with the vampire "Kas" as his lieutenant. But Kas betrayed and killed him, leaving only one hand and one eye intact (the [[eye-and-hand-of-vecna-xdmg]] are described in "chapter 7").
 
 Vecna's evil will was so great that he persisted beyond death and eventually became a demigod of secrets and evil magic. His ambition drives him to pursue greater divine power across the multiverse.
 

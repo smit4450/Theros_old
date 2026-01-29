@@ -14,13 +14,12 @@ aliases:
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–08 | [[ear-horn-of-hearing-xdmg]] |
-| 09–28 | [[potion-of-healing-xdmg]] |
-| 29–36 | [[pot-of-awakening-xdmg]] |
-| 37–44 | [[ruby-of-the-war-mage-xdmg]] |
-| 45–52 | [[shield-of-expression-xdmg]] |
-| 53–60 | [[smoldering-armor-xdmg]] |
-| 61–80 | [[spell-scroll-xdmg]] ([[spell-scroll-cantrip-xdmg]] or [[spell-scroll-level-1-xdmg]] spell) |
-| 81–90 | [[staff-of-adornment-xdmg]] |
-| 91–00 | [[staff-of-flowers-xdmg]] |
+| 01–08 | [Ear Horn of Hearing](Ear%20Horn%20of%20Hearing.md) |
+| 29–36 | [[Pot of Awakening]] |
+| 37–44 | [[Ruby of the War Mage]] |
+| 45–52 | [[Shield of Expression]] |
+| 53–60 | [[Smoldering Armor]] |
+| 61–80 | [[Spell Scroll]] ([[Spell Scroll (Cantrip)]] or [[Spell Scroll (Level 1)]] spell) |
+| 81–90 | [[Staff of Adornment]] |
+| 91–00 | [[Staff of Flowers]] |
 ^relics-common

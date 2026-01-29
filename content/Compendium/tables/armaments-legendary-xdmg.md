@@ -27,9 +27,9 @@ aliases:
 | 57–62 | [[horn-of-valhalla-iron-xdmg]] |
 | 63–68 | [[luck-blade-xdmg]] |
 | 69–72 | [[moonblade-xdmg]] |
-| 73–78 | [[plate-armor-of-etherealness-xdmg]] |
-| 79–87 | [[potion-of-storm-giant-strength-xdmg]] |
-| 88–90 | [[rod-of-lordly-might-xdmg]] |
-| 91–95 | [[sword-of-answering-xdmg]] |
-| 96–00 | [[vorpal-sword-xdmg]] |
+| 73–78 | [[Plate Armor of Etherealness]] |
+| 79–87 | [[Potion of Storm Giant Strength]] |
+| 88–90 | [[Rod of Lordly Might]] |
+| 91–95 | [[Sword of Answering]] |
+| 96–00 | [[Vorpal Sword]] |
 ^armaments-legendary

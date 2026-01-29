@@ -53,14 +53,14 @@ aliases:
 - **Saving Throw Proficiencies**: Constitution, Strength
 - **Skill Proficiencies**: *Choose 2:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Compendium/rules/skills.md#Athletics), [Intimidation](Compendium/rules/skills.md#Intimidation), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), or [Survival](Compendium/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[shield-xphb]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Shield]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[greataxe-xphb]], 4 [[handaxe-xphb]], [[explorers-pack-xphb]], and 15 GP; or (B) 75 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Greataxe]], 4 [[Handaxe]], [[Explorer's Pack]], and 15 GP; or (B) 75 GP
 
 ## Multiclassing Barbarian
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [[shield-xphb]]
+- **Armor Training**: [[Shield]]
 
 ## Barbarian
 
@@ -108,11 +108,11 @@ Each time the Rage is extended, it lasts until the end of your next turn. You ca
 
 ### Unarmored Defense (Level 1)
 
-While you aren't wearing any armor, your base [[armor-class-xphb]] equals 10 plus your Dexterity and Constitution modifiers. You can use a [[shield-xphb]] and still gain this benefit.
+While you aren't wearing any armor, your base [[armor-class-xphb]] equals 10 plus your Dexterity and Constitution modifiers. You can use a [[Shield]] and still gain this benefit.
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [[weapon-mastery-properties-xphb]] of two kinds of Simple or Martial Melee weapons of your choice, such as [[greataxe-xphb]] and [[handaxe-xphb]]. Whenever you finish a [[long-rest-xphb]], you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the [[weapon-mastery-properties-xphb]] of two kinds of Simple or Martial Melee weapons of your choice, such as [[Greataxe]] and [[Handaxe]]. Whenever you finish a [[long-rest-xphb]], you can practice weapon drills and change one of those weapon choices.
 
 When you reach certain Barbarian levels, you gain the ability to use the [[weapon-mastery-properties-xphb]] of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
 

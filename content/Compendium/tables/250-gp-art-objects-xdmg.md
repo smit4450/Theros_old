@@ -14,14 +14,14 @@ aliases:
 
 | dice: 1d10 | Object |
 |------------|--------|
-| 1 | [[gold-ring-set-with-bloodstones-xdmg]] |
-| 2 | [[carved-ivory-statuette-xdmg]] |
-| 3 | [[bejeweled-gold-bracelet-xdmg]] |
-| 4 | [[silver-necklace-with-a-gemstone-pendant-xdmg]] |
-| 5 | [[bronze-crown-xdmg]] |
-| 6 | [[silk-vestments-with-gold-embroidery-xdmg]] |
-| 7 | [[well-made-tapestry-that-is-10-feet-by-10-feet-xdmg]] |
-| 8 | [[brass-mug-with-jade-inlay-xdmg]] |
-| 9 | [[box-of-turquoise-animal-figurines-xdmg]] |
-| 10 | [[gold-birdcage-with-electrum-filigree-xdmg]] |
+| 1 | [[Gold ring set with bloodstones]] |
+| 2 | [[Carved ivory statuette]] |
+| 3 | [[Bejeweled gold bracelet]] |
+| 4 | [[Silver necklace with a gemstone pendant]] |
+| 5 | [[Bronze crown]] |
+| 6 | [[Silk vestments with gold embroidery]] |
+| 7 | [[Well-made tapestry that is 10 feet by 10 feet]] |
+| 8 | [[Brass mug with jade inlay]] |
+| 9 | [[Box of turquoise animal figurines]] |
+| 10 | [[Gold birdcage with electrum filigree]] |
 ^250-gp-art-objects

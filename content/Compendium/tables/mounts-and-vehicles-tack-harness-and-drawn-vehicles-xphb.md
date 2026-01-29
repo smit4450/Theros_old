@@ -14,15 +14,14 @@ aliases:
 
 | Item | Weight | Cost |
 |------|--------|------|
-| &emsp;[[carriage-xphb]] | 600 lb. | 100 GP |
-| &emsp;[[cart-xphb]] | 200 lb. | 15 GP |
-| &emsp;[[chariot-xphb]] | 100 lb. | 250 GP |
-| &emsp;[[feed-per-day-xphb]] | 10 lb. | 5 CP |
+| &emsp;[Carriage](Carriage.md)p;[[Cart]] | 200 lb. | 15 GP |
+| &emsp;[[Chariot]] | 100 lb. | 250 GP |
+| &emsp;[[Feed (per day)]] | 10 lb. | 5 CP |
 | *Saddle* |
-| &emsp;[[exotic-saddle-xphb]] | 40 lb. | 60 GP |
-| &emsp;[[military-saddle-xphb]] | 30 lb. | 20 GP |
-| &emsp;[[riding-saddle-xphb]] | 25 lb. | 10 GP |
-| &emsp;[[sled-xphb]] | 300 lb. | 20 GP |
+| &emsp;[[Exotic Saddle]] | 40 lb. | 60 GP |
+| &emsp;[[Military Saddle]] | 30 lb. | 20 GP |
+| &emsp;[[Riding Saddle]] | 25 lb. | 10 GP |
+| &emsp;[[Sled]] | 300 lb. | 20 GP |
 | &emsp;Stabling per day | — | 5 SP |
-| &emsp;[[wagon-xphb]] | 400 lb. | 35 GP |
+| &emsp;[[Wagon]] | 400 lb. | 35 GP |
 ^tack-harness-and-drawn-vehicles

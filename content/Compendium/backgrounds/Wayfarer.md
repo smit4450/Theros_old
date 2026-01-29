@@ -13,7 +13,7 @@ aliases: ["Wayfarer"]
 - **Ability Scores.** Dexterity, Wisdom, Charisma  
 - **Feat.**  [[Lucky]]  
 - **Skill Proficiencies.** [Insight](Compendium/rules/skills.md#Insight), [Stealth](Compendium/rules/skills.md#Stealth)  
-- **Tool Proficiency.** [[thieves-tools-xphb]]  
-- **Equipment.** Choose A or B: (A) [[dagger-xphb]], [[thieves-tools-xphb]], [[gaming-set-xphb]] (any), [[bedroll-xphb]], [[pouch-xphb]], [[travelers-clothes-xphb]], 16 GP; or (B) 50 GP  
+- **Tool Proficiency.** [[Thieves' Tools]]  
+- **Equipment.** Choose A or B: (A) [[Dagger]], [[Thieves' Tools]], [[Gaming Set]] (any), [[Bedroll]], [[Pouch]], [[Traveler's Clothes]], 16 GP; or (B) 50 GP  
 
 You grew up on the streets surrounded by similarly ill-fated castoffs, a few of them friends and a few of them rivals. You slept where you could and did odd jobs for food. At times, when the hunger became unbearable, you resorted to theft. Still, you never lost your pride and never abandoned hope. Fate is not yet finished with you.

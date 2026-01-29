@@ -14,13 +14,13 @@ aliases:
 
 | Category | Examples |
 |----------|----------|
-| "Armor" | [[1-armor-xdmg]], [[1-shield-xdmg]] |
-| "Potions" | [[potion-of-healing-xdmg]] |
-| "Rings" | [[ring-of-invisibility-xdmg]] |
-| "Rods" | [[immovable-rod-xdmg]] |
-| "Scrolls" | [[spell-scroll-xdmg]] |
-| "Staffs" | [[staff-of-striking-xdmg]] |
-| "Wands" | [[wand-of-fireballs-xdmg]] |
-| "Weapons" | [[1-ammunition-xdmg]], [[1-weapon-xdmg]] |
-| "Wondrous Items" | [[bag-of-holding-xdmg]], [[boots-of-elvenkind-xdmg]] |
-^magic-item-categories
+| "Armor" | [[+1 Armor]], [[+1 Shield]] |
+| "Potions" | [[Potion of Healing]] |
+| "Rings" | [[Ring of Invisibility]] |
+| "Rods" | [[Immovable Rod]] |
+| "Scrolls" | [[Spell Scroll]] |
+| "Staffs" | [[Staff of Striking]] |
+| "Wands" | [[Wand of Fireballs]] |
+| "Weapons" | [[1-ammunition-xdmg]], [[+1 Weapon]] |
+| "Wondrous Items" | [[Bag of Holding]], [[Boots of Sneaking]] |
+^magic-item-categories[+1 Ammunition](+1%20Ammunition.md)

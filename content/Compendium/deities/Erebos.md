@@ -22,7 +22,7 @@ Erebos is the god of death and the Underworld, lord of all that has ever lived. 
 
 Erebos's very presence is stifling, and those who come face to face with him often depart in despair. He is jealous and tyrannical within his realm, but unlike his brother Heliod, he neither blusters nor tries to expand his influence. He waits patiently, secure in the knowledge that everything belongs to him in the end.
 
-Erebos most frequently appears as a slender, gray-skinned humanoid with two large, outward-curving horns, wielding an [[mastix-whip-of-erebos-mot]]. He also appears in the form of a black asp, a cloud of choking smoke, or an animated golden idol.
+Erebos most frequently appears as a slender, gray-skinned humanoid with two large, outward-curving horns, wielding an [[Mastix, Whip of Erebos|impossibly long black whip]]rm of a black asp, a cloud of choking smoke, or an animated golden idol.
 
 ## Erebos's Influence
 

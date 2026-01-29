@@ -54,7 +54,7 @@ aliases:
 - **Skill Proficiencies**: *Choose 2:* [Arcana](Compendium/rules/skills.md#Arcana), [History](Compendium/rules/skills.md#History), [Insight](Compendium/rules/skills.md#Insight), [Investigation](Compendium/rules/skills.md#Investigation), [Medicine](Compendium/rules/skills.md#Medicine), [Nature](Compendium/rules/skills.md#Nature), or [Religion](Compendium/rules/skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
 
-**Starting Equipment:** *Choose A or B:* (A) 2 [[dagger-xphb]], [[arcane-focus-xphb]] ([[quarterstaff-xphb]]), [[robe-xphb]], Spellbook, [[scholars-pack-xphb]], and 5 GP; or (B) 55 GP
+**Starting Equipment:** *Choose A or B:* (A) 2 [[Dagger]], [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or (B) 55 GP
 
 
 ## Wizard
@@ -109,11 +109,11 @@ Intelligence is your spellcasting ability for your Wizard spells.
 
 #### Spellcasting Focus
 
-You can use an [[arcane-focus-xphb]] or your spellbook as a [[spellcasting-focus-xphb]] for your Wizard spells.
+You can use an [[Arcane Focus]] or your spellbook as a [[spellcasting-focus-xphb]] for your Wizard spells.
 
 > [!note] Expanding and Replacing a Spellbook
 > 
-> The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [[spell-scroll-xdmg]], for example, and then copy it into your spellbook.
+> The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a [[Spell Scroll]], for example, and then copy it into your spellbook.
 > 
 > **Copying a Spell into the Book.** When you find a level 1+ Wizard spell, you can copy it into your spellbook if it's of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. Afterward you can prepare the spell like the other spells in your spellbook.
 > 

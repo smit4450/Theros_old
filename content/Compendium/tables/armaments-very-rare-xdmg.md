@@ -23,8 +23,8 @@ aliases:
 | 18–19 | [[dancing-sword-xdmg]] |
 | 20–22 | [[demon-armor-xdmg]] |
 | 23–25 | [[dragon-scale-mail-xdmg]] |
-| 26–28 | [[dwarven-plate-xdmg]] |
-| 29–31 | [[dwarven-thrower-xdmg]] |
+| 26–28 | [[Dense Plate]] |
+| 29–31 | [[Forge Thrower]] |
 | 32–34 | [[energy-bow-xdmg]] |
 | 35–37 | [[enspelled-armor-xdmg]] (level 4 or 5 spell) |
 | 38–40 | [[enspelled-weapon-xdmg]] (level 4 or 5 spell) |
@@ -36,15 +36,15 @@ aliases:
 | 56–58 | [[manual-of-gainful-exercise-xdmg]] |
 | 59–61 | [[nine-lives-stealer-xdmg]] |
 | 62–64 | [[oathbow-xdmg]] |
-| 65–68 | [[oil-of-sharpness-xdmg]] |
-| 69–72 | [[potion-of-cloud-giant-strength-xdmg]] |
-| 73–75 | [[quarterstaff-of-the-acrobat-xdmg]] |
-| 76–78 | [[scimitar-of-speed-xdmg]] |
+| 65–68 | [[Oil of Sharpness]] |
+| 69–72 | [[Potion of Cloud Giant Strength]] |
+| 73–75 | [[Quarterstaff of the Acrobat]] |
+| 76–78 | [[Scimitar of Speed]] |
 | 79–82 | [[3-shield-xdmg]] |
-| 83–85 | [[shield-of-the-cavalier-xdmg]] |
-| 86–88 | [[spellguard-shield-xdmg]] |
-| 89–91 | [[sword-of-sharpness-xdmg]] |
-| 92–94 | [[thunderous-greatclub-xdmg]] |
+| 83–85 | [[Shield of the Cavalier]] |
+| 86–88 | [[Spellguard Shield]] |
+| 89–91 | [[Sword of Sharpness]] |
+| 92–94 | [[Thunderous Greatclub]] |
 | 95–97 | [[3-weapon-xdmg]] |
 | 98–00 | [[3-wraps-of-unarmed-power-xdmg]] |
 ^armaments-very-rare

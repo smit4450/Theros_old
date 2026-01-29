@@ -56,7 +56,7 @@ _Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-A [[shield-xphb]] can be donned or doffed as an action.
+A [[Shield]] can be donned or doffed as an action.
 
 ## End Concentration
 _Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -206,7 +206,7 @@ _Source: Player's Handbook (2024) p. 213. Available in the <span title='Systems 
 
 - **Duration**: 1 bonus
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a [[bonus-action-xphb]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[shortsword-xphb]] in one hand and a [[dagger-xphb]] in the other using the [Attack](Compendium/rules/actions.md#Attack) action and a [[bonus-action-xphb]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[bonus-action-xphb]] unless that modifier is negative.
+When you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a [[bonus-action-xphb]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[Shortsword]] in one hand and a [[dagger-xphb]] in the other using the [Attack](Compendium/rules/actions.md#Attack) action and a [[bonus-action-xphb]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[bonus-action-xphb]] unless that modifier is negative.
 
 See also: [Attack](Compendium/rules/actions.md#Attack)
 
@@ -215,4 +215,4 @@ _Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-You normally interact with an object while doing something else, such as when you draw a sword as part of the [Attack](Compendium/rules/actions.md#Attack) action. When an object requires an action for its use, you take the Utilize action.
+You normally interact with an object while doing something else, such as when you draw a sword as part of the [Attack](Compendium/rules/actions.md#Attack) action. When an object requires an action for its use, you take the Utilize action.[Dagger](Dagger.md)

@@ -31,27 +31,27 @@ aliases:
 | 27–28 | [[manual-of-golems-xdmg]] ([[manual-of-clay-golems-xdmg]], [[manual-of-flesh-golems-xdmg]], [[manual-of-iron-golems-xdmg]], or [[manual-of-stone-golems-xdmg]]) |
 | 29 | [[mirror-of-life-trapping-xdmg]] |
 | 30–31 | [[nolzurs-marvelous-pigments-xdmg]] |
-| 32–34 | [[oil-of-sharpness-xdmg]] |
-| 35–38 | [[potion-of-flying-xdmg]] |
-| 39–42 | [[potion-of-cloud-giant-strength-xdmg]] |
-| 43–46 | [[potion-of-greater-invisibility-xdmg]] |
-| 47–49 | [[potion-of-longevity-xdmg]] |
-| 50–53 | [[potion-of-speed-xdmg]] |
-| 54–57 | [[potion-of-vitality-xdmg]] |
-| 58–59 | [[ring-of-regeneration-xdmg]] |
-| 60–61 | [[ring-of-shooting-stars-xdmg]] |
-| 62–63 | [[ring-of-telekinesis-xdmg]] |
-| 64–65 | [[robe-of-scintillating-colors-xdmg]] |
-| 66–67 | [[robe-of-stars-xdmg]] |
-| 68–69 | [[rod-of-absorption-xdmg]] |
-| 70–71 | [[rod-of-security-xdmg]] |
+| 32–34 | [[Oil of Sharpness]] |
+| 35–38 | [[Potion of Flying]] |
+| 39–42 | [[Potion of Cloud Giant Strength]] |
+| 43–46 | [[Potion of Greater Invisibility]] |
+| 47–49 | [[Potion of Longevity]] |
+| 50–53 | [[Potion of Speed]] |
+| 54–57 | [[Potion of Vitality]] |
+| 58–59 | [[Ring of Regeneration]] |
+| 60–61 | [[Ring of Shooting Stars]] |
+| 62–63 | [[Ring of Telekinesis]] |
+| 64–65 | [[Robe of Scintillating Colors]] |
+| 66–67 | [[Robe of Stars]] |
+| 68–69 | [[Rod of Absorption]] |
+| 70–71 | [[Rod of Security]] |
 | 72–73 | [[3-rod-of-the-pact-keeper-xdmg]] |
-| 74–85 | [[spell-scroll-xdmg]] ([[spell-scroll-level-6-xdmg]], [[spell-scroll-level-7-xdmg]], or [[spell-scroll-level-8-xdmg]] spell) |
-| 86–87 | [[staff-of-fire-xdmg]] |
-| 88–89 | [[staff-of-frost-xdmg]] |
-| 90 | [[staff-of-power-xdmg]] |
-| 91–92 | [[staff-of-thunder-and-lightning-xdmg]] |
-| 93–94 | [[tome-of-clear-thought-xdmg]] |
-| 95–97 | [[wand-of-polymorph-xdmg]] |
+| 74–85 | [[Spell Scroll]] ([[Spell Scroll (Level 6)]], [[Spell Scroll (Level 7)]], or [[Spell Scroll (Level 8)]] spell) |
+| 86–87 | [[Staff of Fire]] |
+| 88–89 | [[Staff of Frost]] |
+| 90 | [[Staff of Power]] |
+| 91–92 | [[Staff of Thunder and Lightning]] |
+| 93–94 | [[Tome of Clear Thought]] |
+| 95–97 | [[Wand of Polymorph]] |
 | 98–00 | [[3-wand-of-the-war-mage-xdmg]] |
 ^arcana-very-rare
