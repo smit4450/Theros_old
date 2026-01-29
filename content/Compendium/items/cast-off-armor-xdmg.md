@@ -31,18 +31,18 @@ aliases:
 You can doff this armor as a [Magic](Compendium/rules/actions.md#Magic) action.
 
 **Variants**:
-- [Cast-Off Breastplate](#Cast-Off%20Breastplate)
-- [Cast-Off Chain Mail](#Cast-Off%20Chain%20Mail)
-- [Cast-Off Chain Shirt](#Cast-Off%20Chain%20Shirt)
-- [Cast-Off Half Plate Armor](#Cast-Off%20Half%20Plate%20Armor)
-- [Cast-Off Hide Armor](#Cast-Off%20Hide%20Armor)
-- [Cast-Off Leather Armor](#Cast-Off%20Leather%20Armor)
-- [Cast-Off Padded Armor](#Cast-Off%20Padded%20Armor)
-- [Cast-Off Plate Armor](#Cast-Off%20Plate%20Armor)
-- [Cast-Off Ring Mail](#Cast-Off%20Ring%20Mail)
-- [Cast-Off Scale Mail](#Cast-Off%20Scale%20Mail)
-- [Cast-Off Splint Armor](#Cast-Off%20Splint%20Armor)
-- [Cast-Off Studded Leather Armor](#Cast-Off%20Studded%20Leather%20Armor)
+- [[#Cast-Off Breastplate|Cast-Off Breastplate]]
+- [[#Cast-Off Chain%20Mail|Cast-Off Chain Mail]]
+- [[#Cast-Off Chain%20Shirt|Cast-Off Chain Shirt]]
+- [[#Cast-Off Half%20Plate%20Armor|Cast-Off Half Plate Armor]]
+- [[#Cast-Off Hide%20Armor|Cast-Off Hide Armor]]
+- [[#Cast-Off Leather%20Armor|Cast-Off Leather Armor]]
+- [[#Cast-Off Padded%20Armor|Cast-Off Padded Armor]]
+- [[#Cast-Off Plate%20Armor|Cast-Off Plate Armor]]
+- [[#Cast-Off Ring%20Mail|Cast-Off Ring Mail]]
+- [[#Cast-Off Scale%20Mail|Cast-Off Scale Mail]]
+- [[#Cast-Off Splint%20Armor|Cast-Off Splint Armor]]
+- [[#Cast-Off Studded%20Leather%20Armor|Cast-Off Studded Leather Armor]]
 
 ### Cast-Off Breastplate
 

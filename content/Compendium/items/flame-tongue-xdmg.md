@@ -48,34 +48,34 @@ aliases:
 While holding this magic weapon, you can take a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) and use a command word to cause flames to engulf the damage-dealing part of the weapon. These flames shed [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) in a 40-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 40 feet. While the weapon is ablaze, it deals an extra `2d6` Fire damage on a hit. The flames last until you take a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) to issue the command again or until you drop, stow, or sheathe the weapon.
 
 **Variants**:
-- [Flame Tongue Battleaxe](#Flame%20Tongue%20Battleaxe)
-- [Flame Tongue Club](#Flame%20Tongue%20Club)
-- [Flame Tongue Dagger](#Flame%20Tongue%20Dagger)
-- [Flame Tongue Flail](#Flame%20Tongue%20Flail)
-- [Flame Tongue Glaive](#Flame%20Tongue%20Glaive)
-- [Flame Tongue Greataxe](#Flame%20Tongue%20Greataxe)
-- [Flame Tongue Greatclub](#Flame%20Tongue%20Greatclub)
-- [Flame Tongue Greatsword](#Flame%20Tongue%20Greatsword)
-- [Flame Tongue Halberd](#Flame%20Tongue%20Halberd)
-- [Flame Tongue Handaxe](#Flame%20Tongue%20Handaxe)
-- [Flame Tongue Javelin](#Flame%20Tongue%20Javelin)
-- [Flame Tongue Lance](#Flame%20Tongue%20Lance)
-- [Flame Tongue Light Hammer](#Flame%20Tongue%20Light%20Hammer)
-- [Flame Tongue Longsword](#Flame%20Tongue%20Longsword)
-- [Flame Tongue Mace](#Flame%20Tongue%20Mace)
-- [Flame Tongue Maul](#Flame%20Tongue%20Maul)
-- [Flame Tongue Morningstar](#Flame%20Tongue%20Morningstar)
-- [Flame Tongue Pike](#Flame%20Tongue%20Pike)
-- [Flame Tongue Quarterstaff](#Flame%20Tongue%20Quarterstaff)
-- [Flame Tongue Rapier](#Flame%20Tongue%20Rapier)
-- [Flame Tongue Scimitar](#Flame%20Tongue%20Scimitar)
-- [Flame Tongue Shortsword](#Flame%20Tongue%20Shortsword)
-- [Flame Tongue Sickle](#Flame%20Tongue%20Sickle)
-- [Flame Tongue Spear](#Flame%20Tongue%20Spear)
-- [Flame Tongue Trident](#Flame%20Tongue%20Trident)
-- [Flame Tongue War Pick](#Flame%20Tongue%20War%20Pick)
-- [Flame Tongue Warhammer](#Flame%20Tongue%20Warhammer)
-- [Flame Tongue Whip](#Flame%20Tongue%20Whip)
+- [[#Flame Tongue%20Battleaxe|Flame Tongue Battleaxe]]
+- [[#Flame Tongue%20Club|Flame Tongue Club]]
+- [[#Flame Tongue%20Dagger|Flame Tongue Dagger]]
+- [[#Flame Tongue%20Flail|Flame Tongue Flail]]
+- [[#Flame Tongue%20Glaive|Flame Tongue Glaive]]
+- [[#Flame Tongue%20Greataxe|Flame Tongue Greataxe]]
+- [[#Flame Tongue%20Greatclub|Flame Tongue Greatclub]]
+- [[#Flame Tongue%20Greatsword|Flame Tongue Greatsword]]
+- [[#Flame Tongue%20Halberd|Flame Tongue Halberd]]
+- [[#Flame Tongue%20Handaxe|Flame Tongue Handaxe]]
+- [[#Flame Tongue%20Javelin|Flame Tongue Javelin]]
+- [[#Flame Tongue%20Lance|Flame Tongue Lance]]
+- [[#Flame Tongue%20Light%20Hammer|Flame Tongue Light Hammer]]
+- [[#Flame Tongue%20Longsword|Flame Tongue Longsword]]
+- [[#Flame Tongue%20Mace|Flame Tongue Mace]]
+- [[#Flame Tongue%20Maul|Flame Tongue Maul]]
+- [[#Flame Tongue%20Morningstar|Flame Tongue Morningstar]]
+- [[#Flame Tongue%20Pike|Flame Tongue Pike]]
+- [[#Flame Tongue%20Quarterstaff|Flame Tongue Quarterstaff]]
+- [[#Flame Tongue%20Rapier|Flame Tongue Rapier]]
+- [[#Flame Tongue%20Scimitar|Flame Tongue Scimitar]]
+- [[#Flame Tongue%20Shortsword|Flame Tongue Shortsword]]
+- [[#Flame Tongue%20Sickle|Flame Tongue Sickle]]
+- [[#Flame Tongue%20Spear|Flame Tongue Spear]]
+- [[#Flame Tongue%20Trident|Flame Tongue Trident]]
+- [[#Flame Tongue%20War%20Pick|Flame Tongue War Pick]]
+- [[#Flame Tongue%20Warhammer|Flame Tongue Warhammer]]
+- [[#Flame Tongue%20Whip|Flame Tongue Whip]]
 
 ### Flame Tongue Battleaxe
 

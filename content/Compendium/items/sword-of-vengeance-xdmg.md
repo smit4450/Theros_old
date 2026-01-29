@@ -34,12 +34,12 @@ In addition, while the weapon is on your person, you must succeed on a DC 15 Wis
 You can break the curse in the usual ways. Alternatively, casting [Banishment](Compendium/spells/banishment-xphb.md) on the weapon forces the vengeful spirit to leave it. The weapon then becomes a +1 Weapon with no other properties.
 
 **Variants**:
-- [Glaive of Vengeance](#Glaive%20of%20Vengeance)
-- [Greatsword of Vengeance](#Greatsword%20of%20Vengeance)
-- [Longsword of Vengeance](#Longsword%20of%20Vengeance)
-- [Rapier of Vengeance](#Rapier%20of%20Vengeance)
-- [Scimitar of Vengeance](#Scimitar%20of%20Vengeance)
-- [Shortsword of Vengeance](#Shortsword%20of%20Vengeance)
+- [[#Glaive of%20Vengeance|Glaive of Vengeance]]
+- [[#Greatsword of%20Vengeance|Greatsword of Vengeance]]
+- [[#Longsword of%20Vengeance|Longsword of Vengeance]]
+- [[#Rapier of%20Vengeance|Rapier of Vengeance]]
+- [[#Scimitar of%20Vengeance|Scimitar of Vengeance]]
+- [[#Shortsword of%20Vengeance|Shortsword of Vengeance]]
 
 ### Glaive of Vengeance
 

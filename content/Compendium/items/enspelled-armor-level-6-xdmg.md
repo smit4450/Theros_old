@@ -34,18 +34,18 @@ Bound into this armor is a level 6 spell. The spell is determined when the armor
 The spell's saving throw DC is 17, and its attack bonus is `+9`.
 
 **Variants**:
-- [Enspelled (Level 6) Breastplate](#Enspelled%20(Level%206)%20Breastplate)
-- [Enspelled (Level 6) Chain Mail](#Enspelled%20(Level%206)%20Chain%20Mail)
-- [Enspelled (Level 6) Chain Shirt](#Enspelled%20(Level%206)%20Chain%20Shirt)
-- [Enspelled (Level 6) Half Plate Armor](#Enspelled%20(Level%206)%20Half%20Plate%20Armor)
-- [Enspelled (Level 6) Hide Armor](#Enspelled%20(Level%206)%20Hide%20Armor)
-- [Enspelled (Level 6) Leather Armor](#Enspelled%20(Level%206)%20Leather%20Armor)
-- [Enspelled (Level 6) Padded Armor](#Enspelled%20(Level%206)%20Padded%20Armor)
-- [Enspelled (Level 6) Plate Armor](#Enspelled%20(Level%206)%20Plate%20Armor)
-- [Enspelled (Level 6) Ring Mail](#Enspelled%20(Level%206)%20Ring%20Mail)
-- [Enspelled (Level 6) Scale Mail](#Enspelled%20(Level%206)%20Scale%20Mail)
-- [Enspelled (Level 6) Splint Armor](#Enspelled%20(Level%206)%20Splint%20Armor)
-- [Enspelled (Level 6) Studded Leather Armor](#Enspelled%20(Level%206)%20Studded%20Leather%20Armor)
+- [[#Enspelled (Level%206|Enspelled (Level 6) Breastplate]]%20Breastplate)
+- [[#Enspelled (Level%206|Enspelled (Level 6) Chain Mail]]%20Chain%20Mail)
+- [[#Enspelled (Level%206|Enspelled (Level 6) Chain Shirt]]%20Chain%20Shirt)
+- [[#Enspelled (Level%206|Enspelled (Level 6) Half Plate Armor]]%20Half%20Plate%20Armor)
+- [[#Enspelled (Level%206|Enspelled (Level 6) Hide Armor]]%20Hide%20Armor)
+- [[#Enspelled (Level%206|Enspelled (Level 6) Leather Armor]]%20Leather%20Armor)
+- [[#Enspelled (Level%206|Enspelled (Level 6) Padded Armor]]%20Padded%20Armor)
+- [[#Enspelled (Level%206|Enspelled (Level 6) Plate Armor]]%20Plate%20Armor)
+- [[#Enspelled (Level%206|Enspelled (Level 6) Ring Mail]]%20Ring%20Mail)
+- [[#Enspelled (Level%206|Enspelled (Level 6) Scale Mail]]%20Scale%20Mail)
+- [[#Enspelled (Level%206|Enspelled (Level 6) Splint Armor]]%20Splint%20Armor)
+- [[#Enspelled (Level%206|Enspelled (Level 6) Studded Leather Armor]]%20Studded%20Leather%20Armor)
 
 ### Enspelled (Level 6) Breastplate
 

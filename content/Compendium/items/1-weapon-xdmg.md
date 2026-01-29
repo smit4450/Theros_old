@@ -73,57 +73,57 @@ aliases:
 You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
 **Variants**:
-- [+1 Antimatter Rifle](#+1%20Antimatter%20Rifle)
-- [+1 Automatic Rifle](#+1%20Automatic%20Rifle)
-- [+1 Battleaxe](#+1%20Battleaxe)
-- [+1 Blowgun](#+1%20Blowgun)
-- [+1 Club](#+1%20Club)
-- [+1 Dagger](#+1%20Dagger)
-- [+1 Dart](#+1%20Dart)
-- [+1 Double-Bladed Scimitar](#+1%20Double-Bladed%20Scimitar)
-- [+1 Flail](#+1%20Flail)
-- [+1 Glaive](#+1%20Glaive)
-- [+1 Greataxe](#+1%20Greataxe)
-- [+1 Greatclub](#+1%20Greatclub)
-- [+1 Greatsword](#+1%20Greatsword)
-- [+1 Halberd](#+1%20Halberd)
-- [+1 Hand Crossbow](#+1%20Hand%20Crossbow)
-- [+1 Handaxe](#+1%20Handaxe)
-- [+1 Heavy Crossbow](#+1%20Heavy%20Crossbow)
-- [+1 Hooked Shortspear](#+1%20Hooked%20Shortspear)
-- [+1 Hoopak](#+1%20Hoopak)
-- [+1 Hunting Rifle](#+1%20Hunting%20Rifle)
-- [+1 Javelin](#+1%20Javelin)
-- [+1 Lance](#+1%20Lance)
-- [+1 Laser Pistol](#+1%20Laser%20Pistol)
-- [+1 Laser Rifle](#+1%20Laser%20Rifle)
-- [+1 Light Crossbow](#+1%20Light%20Crossbow)
-- [+1 Light Hammer](#+1%20Light%20Hammer)
-- [+1 Light Repeating Crossbow](#+1%20Light%20Repeating%20Crossbow)
-- [+1 Longbow](#+1%20Longbow)
-- [+1 Longsword](#+1%20Longsword)
-- [+1 Mace](#+1%20Mace)
-- [+1 Maul](#+1%20Maul)
-- [+1 Morningstar](#+1%20Morningstar)
-- [+1 Musket](#+1%20Musket)
-- [+1 Pike](#+1%20Pike)
-- [+1 Pistol](#+1%20Pistol)
-- [+1 Quarterstaff](#+1%20Quarterstaff)
-- [+1 Rapier](#+1%20Rapier)
-- [+1 Revolver](#+1%20Revolver)
-- [+1 Scimitar](#+1%20Scimitar)
-- [+1 Semiautomatic Pistol](#+1%20Semiautomatic%20Pistol)
-- [+1 Shortbow](#+1%20Shortbow)
-- [+1 Shortsword](#+1%20Shortsword)
-- [+1 Shotgun](#+1%20Shotgun)
-- [+1 Sickle](#+1%20Sickle)
-- [+1 Sling](#+1%20Sling)
-- [+1 Spear](#+1%20Spear)
-- [+1 Trident](#+1%20Trident)
-- [+1 War Pick](#+1%20War%20Pick)
-- [+1 Warhammer](#+1%20Warhammer)
-- [+1 Whip](#+1%20Whip)
-- [+1 Yklwa](#+1%20Yklwa)
+- [[#+1 Antimatter%20Rifle|+1 Antimatter Rifle]]
+- [[#+1 Automatic%20Rifle|+1 Automatic Rifle]]
+- [[#+1 Battleaxe|+1 Battleaxe]]
+- [[#+1 Blowgun|+1 Blowgun]]
+- [[#+1 Club|+1 Club]]
+- [[#+1 Dagger|+1 Dagger]]
+- [[#+1 Dart|+1 Dart]]
+- [[#+1 Double-Bladed%20Scimitar|+1 Double-Bladed Scimitar]]
+- [[#+1 Flail|+1 Flail]]
+- [[#+1 Glaive|+1 Glaive]]
+- [[#+1 Greataxe|+1 Greataxe]]
+- [[#+1 Greatclub|+1 Greatclub]]
+- [[#+1 Greatsword|+1 Greatsword]]
+- [[#+1 Halberd|+1 Halberd]]
+- [[#+1 Hand%20Crossbow|+1 Hand Crossbow]]
+- [[#+1 Handaxe|+1 Handaxe]]
+- [[#+1 Heavy%20Crossbow|+1 Heavy Crossbow]]
+- [[#+1 Hooked%20Shortspear|+1 Hooked Shortspear]]
+- [[#+1 Hoopak|+1 Hoopak]]
+- [[#+1 Hunting%20Rifle|+1 Hunting Rifle]]
+- [[#+1 Javelin|+1 Javelin]]
+- [[#+1 Lance|+1 Lance]]
+- [[#+1 Laser%20Pistol|+1 Laser Pistol]]
+- [[#+1 Laser%20Rifle|+1 Laser Rifle]]
+- [[#+1 Light%20Crossbow|+1 Light Crossbow]]
+- [[#+1 Light%20Hammer|+1 Light Hammer]]
+- [[#+1 Light%20Repeating%20Crossbow|+1 Light Repeating Crossbow]]
+- [[#+1 Longbow|+1 Longbow]]
+- [[#+1 Longsword|+1 Longsword]]
+- [[#+1 Mace|+1 Mace]]
+- [[#+1 Maul|+1 Maul]]
+- [[#+1 Morningstar|+1 Morningstar]]
+- [[#+1 Musket|+1 Musket]]
+- [[#+1 Pike|+1 Pike]]
+- [[#+1 Pistol|+1 Pistol]]
+- [[#+1 Quarterstaff|+1 Quarterstaff]]
+- [[#+1 Rapier|+1 Rapier]]
+- [[#+1 Revolver|+1 Revolver]]
+- [[#+1 Scimitar|+1 Scimitar]]
+- [[#+1 Semiautomatic%20Pistol|+1 Semiautomatic Pistol]]
+- [[#+1 Shortbow|+1 Shortbow]]
+- [[#+1 Shortsword|+1 Shortsword]]
+- [[#+1 Shotgun|+1 Shotgun]]
+- [[#+1 Sickle|+1 Sickle]]
+- [[#+1 Sling|+1 Sling]]
+- [[#+1 Spear|+1 Spear]]
+- [[#+1 Trident|+1 Trident]]
+- [[#+1 War%20Pick|+1 War Pick]]
+- [[#+1 Warhammer|+1 Warhammer]]
+- [[#+1 Whip|+1 Whip]]
+- [[#+1 Yklwa|+1 Yklwa]]
 
 ### +1 Antimatter Rifle
 

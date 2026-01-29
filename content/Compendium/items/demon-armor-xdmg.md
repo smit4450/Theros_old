@@ -37,18 +37,18 @@ While wearing this armor, you gain a +1 bonus to [Armor Class](Compendium/rules/
 Once you don this cursed armor, you can't doff it unless you are targeted by a [Remove Curse](Compendium/spells/remove-curse-xphb.md) spell or similar magic. While wearing the armor, you have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls against demons and on saving throws against their spells and special abilities.
 
 **Variants**:
-- [Demon Breastplate](#Demon%20Breastplate)
-- [Demon Chain Mail](#Demon%20Chain%20Mail)
-- [Demon Chain Shirt](#Demon%20Chain%20Shirt)
-- [Demon Half Plate Armor](#Demon%20Half%20Plate%20Armor)
-- [Demon Hide Armor](#Demon%20Hide%20Armor)
-- [Demon Leather Armor](#Demon%20Leather%20Armor)
-- [Demon Padded Armor](#Demon%20Padded%20Armor)
-- [Demon Plate Armor](#Demon%20Plate%20Armor)
-- [Demon Ring Mail](#Demon%20Ring%20Mail)
-- [Demon Scale Mail](#Demon%20Scale%20Mail)
-- [Demon Splint Armor](#Demon%20Splint%20Armor)
-- [Demon Studded Leather Armor](#Demon%20Studded%20Leather%20Armor)
+- [[#Demon Breastplate|Demon Breastplate]]
+- [[#Demon Chain%20Mail|Demon Chain Mail]]
+- [[#Demon Chain%20Shirt|Demon Chain Shirt]]
+- [[#Demon Half%20Plate%20Armor|Demon Half Plate Armor]]
+- [[#Demon Hide%20Armor|Demon Hide Armor]]
+- [[#Demon Leather%20Armor|Demon Leather Armor]]
+- [[#Demon Padded%20Armor|Demon Padded Armor]]
+- [[#Demon Plate%20Armor|Demon Plate Armor]]
+- [[#Demon Ring%20Mail|Demon Ring Mail]]
+- [[#Demon Scale%20Mail|Demon Scale Mail]]
+- [[#Demon Splint%20Armor|Demon Splint Armor]]
+- [[#Demon Studded%20Leather%20Armor|Demon Studded Leather Armor]]
 
 ### Demon Breastplate
 

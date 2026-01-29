@@ -25,10 +25,10 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 When you use this weapon to attack a creature that has at least one head and roll a 20 on the `d20` for the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it has [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to Slashing damage, if it doesn't have or need a head, or if the DM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 30 Slashing damage from the hit. If the creature has Legendary [Resistance](Compendium/rules/variant-rules/resistance-xphb.md), it can expend one daily use of that trait to avoid losing its head, taking the extra damage instead.
 
 **Variants**:
-- [Vorpal Glaive](#Vorpal%20Glaive)
-- [Vorpal Greatsword](#Vorpal%20Greatsword)
-- [Vorpal Longsword](#Vorpal%20Longsword)
-- [Vorpal Scimitar](#Vorpal%20Scimitar)
+- [[#Vorpal Glaive|Vorpal Glaive]]
+- [[#Vorpal Greatsword|Vorpal Greatsword]]
+- [[#Vorpal Longsword|Vorpal Longsword]]
+- [[#Vorpal Scimitar|Vorpal Scimitar]]
 
 ### Vorpal Glaive
 

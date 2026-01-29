@@ -34,18 +34,18 @@ Bound into this armor is a level 4 spell. The spell is determined when the armor
 The spell's saving throw DC is 15, and its attack bonus is `+7`.
 
 **Variants**:
-- [Enspelled (Level 4) Breastplate](#Enspelled%20(Level%204)%20Breastplate)
-- [Enspelled (Level 4) Chain Mail](#Enspelled%20(Level%204)%20Chain%20Mail)
-- [Enspelled (Level 4) Chain Shirt](#Enspelled%20(Level%204)%20Chain%20Shirt)
-- [Enspelled (Level 4) Half Plate Armor](#Enspelled%20(Level%204)%20Half%20Plate%20Armor)
-- [Enspelled (Level 4) Hide Armor](#Enspelled%20(Level%204)%20Hide%20Armor)
-- [Enspelled (Level 4) Leather Armor](#Enspelled%20(Level%204)%20Leather%20Armor)
-- [Enspelled (Level 4) Padded Armor](#Enspelled%20(Level%204)%20Padded%20Armor)
-- [Enspelled (Level 4) Plate Armor](#Enspelled%20(Level%204)%20Plate%20Armor)
-- [Enspelled (Level 4) Ring Mail](#Enspelled%20(Level%204)%20Ring%20Mail)
-- [Enspelled (Level 4) Scale Mail](#Enspelled%20(Level%204)%20Scale%20Mail)
-- [Enspelled (Level 4) Splint Armor](#Enspelled%20(Level%204)%20Splint%20Armor)
-- [Enspelled (Level 4) Studded Leather Armor](#Enspelled%20(Level%204)%20Studded%20Leather%20Armor)
+- [[#Enspelled (Level%204|Enspelled (Level 4) Breastplate]]%20Breastplate)
+- [[#Enspelled (Level%204|Enspelled (Level 4) Chain Mail]]%20Chain%20Mail)
+- [[#Enspelled (Level%204|Enspelled (Level 4) Chain Shirt]]%20Chain%20Shirt)
+- [[#Enspelled (Level%204|Enspelled (Level 4) Half Plate Armor]]%20Half%20Plate%20Armor)
+- [[#Enspelled (Level%204|Enspelled (Level 4) Hide Armor]]%20Hide%20Armor)
+- [[#Enspelled (Level%204|Enspelled (Level 4) Leather Armor]]%20Leather%20Armor)
+- [[#Enspelled (Level%204|Enspelled (Level 4) Padded Armor]]%20Padded%20Armor)
+- [[#Enspelled (Level%204|Enspelled (Level 4) Plate Armor]]%20Plate%20Armor)
+- [[#Enspelled (Level%204|Enspelled (Level 4) Ring Mail]]%20Ring%20Mail)
+- [[#Enspelled (Level%204|Enspelled (Level 4) Scale Mail]]%20Scale%20Mail)
+- [[#Enspelled (Level%204|Enspelled (Level 4) Splint Armor]]%20Splint%20Armor)
+- [[#Enspelled (Level%204|Enspelled (Level 4) Studded Leather Armor]]%20Studded%20Leather%20Armor)
 
 ### Enspelled (Level 4) Breastplate
 

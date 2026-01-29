@@ -32,18 +32,18 @@ aliases:
 You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to lightning damage while you wear this armor.
 
 **Variants**:
-- [Breastplate of Lightning Resistance](#Breastplate%20of%20Lightning%20Resistance)
-- [Chain Mail of Lightning Resistance](#Chain%20Mail%20of%20Lightning%20Resistance)
-- [Chain Shirt of Lightning Resistance](#Chain%20Shirt%20of%20Lightning%20Resistance)
-- [Half Plate Armor of Lightning Resistance](#Half%20Plate%20Armor%20of%20Lightning%20Resistance)
-- [Hide Armor of Lightning Resistance](#Hide%20Armor%20of%20Lightning%20Resistance)
-- [Leather Armor of Lightning Resistance](#Leather%20Armor%20of%20Lightning%20Resistance)
-- [Padded Armor of Lightning Resistance](#Padded%20Armor%20of%20Lightning%20Resistance)
-- [Plate Armor of Lightning Resistance](#Plate%20Armor%20of%20Lightning%20Resistance)
-- [Ring Mail of Lightning Resistance](#Ring%20Mail%20of%20Lightning%20Resistance)
-- [Scale Mail of Lightning Resistance](#Scale%20Mail%20of%20Lightning%20Resistance)
-- [Splint Armor of Lightning Resistance](#Splint%20Armor%20of%20Lightning%20Resistance)
-- [Studded Leather Armor of Lightning Resistance](#Studded%20Leather%20Armor%20of%20Lightning%20Resistance)
+- [[#Breastplate of%20Lightning%20Resistance|Breastplate of Lightning Resistance]]
+- [[#Chain Mail%20of%20Lightning%20Resistance|Chain Mail of Lightning Resistance]]
+- [[#Chain Shirt%20of%20Lightning%20Resistance|Chain Shirt of Lightning Resistance]]
+- [[#Half Plate%20Armor%20of%20Lightning%20Resistance|Half Plate Armor of Lightning Resistance]]
+- [[#Hide Armor%20of%20Lightning%20Resistance|Hide Armor of Lightning Resistance]]
+- [[#Leather Armor%20of%20Lightning%20Resistance|Leather Armor of Lightning Resistance]]
+- [[#Padded Armor%20of%20Lightning%20Resistance|Padded Armor of Lightning Resistance]]
+- [[#Plate Armor%20of%20Lightning%20Resistance|Plate Armor of Lightning Resistance]]
+- [[#Ring Mail%20of%20Lightning%20Resistance|Ring Mail of Lightning Resistance]]
+- [[#Scale Mail%20of%20Lightning%20Resistance|Scale Mail of Lightning Resistance]]
+- [[#Splint Armor%20of%20Lightning%20Resistance|Splint Armor of Lightning Resistance]]
+- [[#Studded Leather%20Armor%20of%20Lightning%20Resistance|Studded Leather Armor of Lightning Resistance]]
 
 ### Breastplate of Lightning Resistance
 

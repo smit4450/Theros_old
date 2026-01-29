@@ -32,18 +32,18 @@ aliases:
 You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to fire damage while you wear this armor.
 
 **Variants**:
-- [Breastplate of Fire Resistance](#Breastplate%20of%20Fire%20Resistance)
-- [Chain Mail of Fire Resistance](#Chain%20Mail%20of%20Fire%20Resistance)
-- [Chain Shirt of Fire Resistance](#Chain%20Shirt%20of%20Fire%20Resistance)
-- [Half Plate Armor of Fire Resistance](#Half%20Plate%20Armor%20of%20Fire%20Resistance)
-- [Hide Armor of Fire Resistance](#Hide%20Armor%20of%20Fire%20Resistance)
-- [Leather Armor of Fire Resistance](#Leather%20Armor%20of%20Fire%20Resistance)
-- [Padded Armor of Fire Resistance](#Padded%20Armor%20of%20Fire%20Resistance)
-- [Plate Armor of Fire Resistance](#Plate%20Armor%20of%20Fire%20Resistance)
-- [Ring Mail of Fire Resistance](#Ring%20Mail%20of%20Fire%20Resistance)
-- [Scale Mail of Fire Resistance](#Scale%20Mail%20of%20Fire%20Resistance)
-- [Splint Armor of Fire Resistance](#Splint%20Armor%20of%20Fire%20Resistance)
-- [Studded Leather Armor of Fire Resistance](#Studded%20Leather%20Armor%20of%20Fire%20Resistance)
+- [[#Breastplate of%20Fire%20Resistance|Breastplate of Fire Resistance]]
+- [[#Chain Mail%20of%20Fire%20Resistance|Chain Mail of Fire Resistance]]
+- [[#Chain Shirt%20of%20Fire%20Resistance|Chain Shirt of Fire Resistance]]
+- [[#Half Plate%20Armor%20of%20Fire%20Resistance|Half Plate Armor of Fire Resistance]]
+- [[#Hide Armor%20of%20Fire%20Resistance|Hide Armor of Fire Resistance]]
+- [[#Leather Armor%20of%20Fire%20Resistance|Leather Armor of Fire Resistance]]
+- [[#Padded Armor%20of%20Fire%20Resistance|Padded Armor of Fire Resistance]]
+- [[#Plate Armor%20of%20Fire%20Resistance|Plate Armor of Fire Resistance]]
+- [[#Ring Mail%20of%20Fire%20Resistance|Ring Mail of Fire Resistance]]
+- [[#Scale Mail%20of%20Fire%20Resistance|Scale Mail of Fire Resistance]]
+- [[#Splint Armor%20of%20Fire%20Resistance|Splint Armor of Fire Resistance]]
+- [[#Studded Leather%20Armor%20of%20Fire%20Resistance|Studded Leather Armor of Fire Resistance]]
 
 ### Breastplate of Fire Resistance
 

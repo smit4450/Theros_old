@@ -25,10 +25,10 @@ You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon
 Any Humanoid you hit with the weapon takes an extra `2d6` Slashing damage, and you gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to the extra damage dealt.
 
 **Variants**:
-- [Executioner's Battleaxe](#Executioner's%20Battleaxe)
-- [Executioner's Greataxe](#Executioner's%20Greataxe)
-- [Executioner's Halberd](#Executioner's%20Halberd)
-- [Executioner's Handaxe](#Executioner's%20Handaxe)
+- [[#Executioner's Battleaxe|Executioner's Battleaxe]]
+- [[#Executioner's Greataxe|Executioner's Greataxe]]
+- [[#Executioner's Halberd|Executioner's Halberd]]
+- [[#Executioner's Handaxe|Executioner's Handaxe]]
 
 ### Executioner's Battleaxe
 

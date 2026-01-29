@@ -55,11 +55,11 @@ A Moonblade has a personality similar to that of its creator. Once a Moonblade h
 ^moonblade-properties
 
 **Variants**:
-- [Moonblade Greatsword](#Moonblade%20Greatsword)
-- [Moonblade Longsword](#Moonblade%20Longsword)
-- [Moonblade Rapier](#Moonblade%20Rapier)
-- [Moonblade Scimitar](#Moonblade%20Scimitar)
-- [Moonblade Shortsword](#Moonblade%20Shortsword)
+- [[#Moonblade Greatsword|Moonblade Greatsword]]
+- [[#Moonblade Longsword|Moonblade Longsword]]
+- [[#Moonblade Rapier|Moonblade Rapier]]
+- [[#Moonblade Scimitar|Moonblade Scimitar]]
+- [[#Moonblade Shortsword|Moonblade Shortsword]]
 
 ### Moonblade Greatsword
 

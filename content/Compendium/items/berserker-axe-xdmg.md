@@ -31,9 +31,9 @@ Whenever another creature damages you while the weapon is in your possession, yo
 While berserk, you regard the creature nearest to you that you can see or hear as your enemy. If there are multiple possible creatures, choose one at random. On each of your turns, you must move as close to the creature as possible and take the [Attack](Compendium/rules/actions.md#Attack) action, targeting the creature. If you're unable to get close enough to the creature to attack it with the weapon, your turn ends after you've used up all your available movement. If the creature dies or can no longer be seen or heard by you, the next nearest creature that you can see or hear becomes your new target.
 
 **Variants**:
-- [Berserker Battleaxe](#Berserker%20Battleaxe)
-- [Berserker Greataxe](#Berserker%20Greataxe)
-- [Berserker Halberd](#Berserker%20Halberd)
+- [[#Berserker Battleaxe|Berserker Battleaxe]]
+- [[#Berserker Greataxe|Berserker Greataxe]]
+- [[#Berserker Halberd|Berserker Halberd]]
 
 ### Berserker Battleaxe
 

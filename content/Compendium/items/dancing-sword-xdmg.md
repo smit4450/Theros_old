@@ -29,12 +29,12 @@ While the weapon hovers, you can take a [Bonus Action](Compendium/rules/variant-
 After the hovering weapon attacks for the fourth time, it flies back to you and tries to return to your hand. If you have no hand free, the weapon falls to the ground in your space. If the weapon has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or are more than 30 feet away from it.
 
 **Variants**:
-- [Dancing Double-Bladed Scimitar](#Dancing%20Double-Bladed%20Scimitar)
-- [Dancing Greatsword](#Dancing%20Greatsword)
-- [Dancing Longsword](#Dancing%20Longsword)
-- [Dancing Rapier](#Dancing%20Rapier)
-- [Dancing Scimitar](#Dancing%20Scimitar)
-- [Dancing Shortsword](#Dancing%20Shortsword)
+- [[#Dancing Double-Bladed%20Scimitar|Dancing Double-Bladed Scimitar]]
+- [[#Dancing Greatsword|Dancing Greatsword]]
+- [[#Dancing Longsword|Dancing Longsword]]
+- [[#Dancing Rapier|Dancing Rapier]]
+- [[#Dancing Scimitar|Dancing Scimitar]]
+- [[#Dancing Shortsword|Dancing Shortsword]]
 
 ### Dancing Double-Bladed Scimitar
 

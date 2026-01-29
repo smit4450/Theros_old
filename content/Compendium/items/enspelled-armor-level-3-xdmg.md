@@ -34,18 +34,18 @@ Bound into this armor is a level 3 spell. The spell is determined when the armor
 The spell's saving throw DC is 15, and its attack bonus is `+7`.
 
 **Variants**:
-- [Enspelled (Level 3) Breastplate](#Enspelled%20(Level%203)%20Breastplate)
-- [Enspelled (Level 3) Chain Mail](#Enspelled%20(Level%203)%20Chain%20Mail)
-- [Enspelled (Level 3) Chain Shirt](#Enspelled%20(Level%203)%20Chain%20Shirt)
-- [Enspelled (Level 3) Half Plate Armor](#Enspelled%20(Level%203)%20Half%20Plate%20Armor)
-- [Enspelled (Level 3) Hide Armor](#Enspelled%20(Level%203)%20Hide%20Armor)
-- [Enspelled (Level 3) Leather Armor](#Enspelled%20(Level%203)%20Leather%20Armor)
-- [Enspelled (Level 3) Padded Armor](#Enspelled%20(Level%203)%20Padded%20Armor)
-- [Enspelled (Level 3) Plate Armor](#Enspelled%20(Level%203)%20Plate%20Armor)
-- [Enspelled (Level 3) Ring Mail](#Enspelled%20(Level%203)%20Ring%20Mail)
-- [Enspelled (Level 3) Scale Mail](#Enspelled%20(Level%203)%20Scale%20Mail)
-- [Enspelled (Level 3) Splint Armor](#Enspelled%20(Level%203)%20Splint%20Armor)
-- [Enspelled (Level 3) Studded Leather Armor](#Enspelled%20(Level%203)%20Studded%20Leather%20Armor)
+- [[#Enspelled (Level%203|Enspelled (Level 3) Breastplate]]%20Breastplate)
+- [[#Enspelled (Level%203|Enspelled (Level 3) Chain Mail]]%20Chain%20Mail)
+- [[#Enspelled (Level%203|Enspelled (Level 3) Chain Shirt]]%20Chain%20Shirt)
+- [[#Enspelled (Level%203|Enspelled (Level 3) Half Plate Armor]]%20Half%20Plate%20Armor)
+- [[#Enspelled (Level%203|Enspelled (Level 3) Hide Armor]]%20Hide%20Armor)
+- [[#Enspelled (Level%203|Enspelled (Level 3) Leather Armor]]%20Leather%20Armor)
+- [[#Enspelled (Level%203|Enspelled (Level 3) Padded Armor]]%20Padded%20Armor)
+- [[#Enspelled (Level%203|Enspelled (Level 3) Plate Armor]]%20Plate%20Armor)
+- [[#Enspelled (Level%203|Enspelled (Level 3) Ring Mail]]%20Ring%20Mail)
+- [[#Enspelled (Level%203|Enspelled (Level 3) Scale Mail]]%20Scale%20Mail)
+- [[#Enspelled (Level%203|Enspelled (Level 3) Splint Armor]]%20Splint%20Armor)
+- [[#Enspelled (Level%203|Enspelled (Level 3) Studded Leather Armor]]%20Studded%20Leather%20Armor)
 
 ### Enspelled (Level 3) Breastplate
 

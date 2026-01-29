@@ -29,12 +29,12 @@ In freezing temperatures, the weapon sheds [Bright Light](Compendium/rules/varia
 When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of yourself. Once used, this property can't be used again for 1 hour.
 
 **Variants**:
-- [Frost Brand Glaive](#Frost%20Brand%20Glaive)
-- [Frost Brand Greatsword](#Frost%20Brand%20Greatsword)
-- [Frost Brand Longsword](#Frost%20Brand%20Longsword)
-- [Frost Brand Rapier](#Frost%20Brand%20Rapier)
-- [Frost Brand Scimitar](#Frost%20Brand%20Scimitar)
-- [Frost Brand Shortsword](#Frost%20Brand%20Shortsword)
+- [[#Frost Brand%20Glaive|Frost Brand Glaive]]
+- [[#Frost Brand%20Greatsword|Frost Brand Greatsword]]
+- [[#Frost Brand%20Longsword|Frost Brand Longsword]]
+- [[#Frost Brand%20Rapier|Frost Brand Rapier]]
+- [[#Frost Brand%20Scimitar|Frost Brand Scimitar]]
+- [[#Frost Brand%20Shortsword|Frost Brand Shortsword]]
 
 ### Frost Brand Glaive
 

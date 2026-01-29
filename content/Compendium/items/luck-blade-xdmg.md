@@ -35,13 +35,13 @@ If the weapon is on your person, you can call on its luck (no action required) t
 The weapon has `1d3` charges. While holding it, you can expend 1 charge and cast [Wish](Compendium/spells/wish-xphb.md) from it. Once used, this property can't be used again until the next dawn. The weapon loses this property if it has no charges.
 
 **Variants**:
-- [Luck Glaive](#Luck%20Glaive)
-- [Luck Greatsword](#Luck%20Greatsword)
-- [Luck Longsword](#Luck%20Longsword)
-- [Luck Rapier](#Luck%20Rapier)
-- [Luck Scimitar](#Luck%20Scimitar)
-- [Luck Shortsword](#Luck%20Shortsword)
-- [Luck Sickle](#Luck%20Sickle)
+- [[#Luck Glaive|Luck Glaive]]
+- [[#Luck Greatsword|Luck Greatsword]]
+- [[#Luck Longsword|Luck Longsword]]
+- [[#Luck Rapier|Luck Rapier]]
+- [[#Luck Scimitar|Luck Scimitar]]
+- [[#Luck Shortsword|Luck Shortsword]]
+- [[#Luck Sickle|Luck Sickle]]
 
 ### Luck Glaive
 

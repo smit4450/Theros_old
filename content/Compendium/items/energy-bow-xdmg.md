@@ -36,8 +36,8 @@ As a [Magic](Compendium/rules/actions.md#Magic) action, you can fire one energy 
 As a [Magic](Compendium/rules/actions.md#Magic) action, you can loose a flurry of energy arrows from this weapon at a wall up to 60 feet away from yourself. The arrows become glowing rungs that stick out of the wall, forming a magical ladder up to 60 feet long on the wall. This ladder lasts for 1 minute before disappearing.
 
 **Variants**:
-- [Energy Longbow](#Energy%20Longbow)
-- [Energy Shortbow](#Energy%20Shortbow)
+- [[#Energy Longbow|Energy Longbow]]
+- [[#Energy Shortbow|Energy Shortbow]]
 
 ### Energy Longbow
 

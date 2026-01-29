@@ -33,18 +33,18 @@ While wearing this armor, you have a [Swim Speed](Compendium/rules/variant-rules
 The armor is decorated with fish and shell motifs.
 
 **Variants**:
-- [Mariner's Breastplate](#Mariner's%20Breastplate)
-- [Mariner's Chain Mail](#Mariner's%20Chain%20Mail)
-- [Mariner's Chain Shirt](#Mariner's%20Chain%20Shirt)
-- [Mariner's Half Plate Armor](#Mariner's%20Half%20Plate%20Armor)
-- [Mariner's Hide Armor](#Mariner's%20Hide%20Armor)
-- [Mariner's Leather Armor](#Mariner's%20Leather%20Armor)
-- [Mariner's Padded Armor](#Mariner's%20Padded%20Armor)
-- [Mariner's Plate Armor](#Mariner's%20Plate%20Armor)
-- [Mariner's Ring Mail](#Mariner's%20Ring%20Mail)
-- [Mariner's Scale Mail](#Mariner's%20Scale%20Mail)
-- [Mariner's Splint Armor](#Mariner's%20Splint%20Armor)
-- [Mariner's Studded Leather Armor](#Mariner's%20Studded%20Leather%20Armor)
+- [[#Mariner's Breastplate|Mariner's Breastplate]]
+- [[#Mariner's Chain%20Mail|Mariner's Chain Mail]]
+- [[#Mariner's Chain%20Shirt|Mariner's Chain Shirt]]
+- [[#Mariner's Half%20Plate%20Armor|Mariner's Half Plate Armor]]
+- [[#Mariner's Hide%20Armor|Mariner's Hide Armor]]
+- [[#Mariner's Leather%20Armor|Mariner's Leather Armor]]
+- [[#Mariner's Padded%20Armor|Mariner's Padded Armor]]
+- [[#Mariner's Plate%20Armor|Mariner's Plate Armor]]
+- [[#Mariner's Ring%20Mail|Mariner's Ring Mail]]
+- [[#Mariner's Scale%20Mail|Mariner's Scale Mail]]
+- [[#Mariner's Splint%20Armor|Mariner's Splint Armor]]
+- [[#Mariner's Studded%20Leather%20Armor|Mariner's Studded Leather Armor]]
 
 ### Mariner's Breastplate
 

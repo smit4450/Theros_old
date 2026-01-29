@@ -78,59 +78,59 @@ You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon
 When you hit a Giant with this weapon, the Giant takes an extra `2d6` damage of the weapon's type and must succeed on a DC 15 Strength saving throw or have the [Prone](Compendium/rules/conditions.md#Prone) condition.
 
 **Variants**:
-- [Giant Slayer Antimatter Rifle](#Giant%20Slayer%20Antimatter%20Rifle)
-- [Giant Slayer Automatic Rifle](#Giant%20Slayer%20Automatic%20Rifle)
-- [Giant Slayer Battleaxe](#Giant%20Slayer%20Battleaxe)
-- [Giant Slayer Blowgun](#Giant%20Slayer%20Blowgun)
-- [Giant Slayer Club](#Giant%20Slayer%20Club)
-- [Giant Slayer Dagger](#Giant%20Slayer%20Dagger)
-- [Giant Slayer Dart](#Giant%20Slayer%20Dart)
-- [Giant Slayer Double-Bladed Scimitar](#Giant%20Slayer%20Double-Bladed%20Scimitar)
-- [Giant Slayer Flail](#Giant%20Slayer%20Flail)
-- [Giant Slayer Glaive](#Giant%20Slayer%20Glaive)
-- [Giant Slayer Greataxe](#Giant%20Slayer%20Greataxe)
-- [Giant Slayer Greatclub](#Giant%20Slayer%20Greatclub)
-- [Giant Slayer Greatsword](#Giant%20Slayer%20Greatsword)
-- [Giant Slayer Halberd](#Giant%20Slayer%20Halberd)
-- [Giant Slayer Hand Crossbow](#Giant%20Slayer%20Hand%20Crossbow)
-- [Giant Slayer Handaxe](#Giant%20Slayer%20Handaxe)
-- [Giant Slayer Heavy Crossbow](#Giant%20Slayer%20Heavy%20Crossbow)
-- [Giant Slayer Hooked Shortspear](#Giant%20Slayer%20Hooked%20Shortspear)
-- [Giant Slayer Hoopak](#Giant%20Slayer%20Hoopak)
-- [Giant Slayer Hunting Rifle](#Giant%20Slayer%20Hunting%20Rifle)
-- [Giant Slayer Javelin](#Giant%20Slayer%20Javelin)
-- [Giant Slayer Lance](#Giant%20Slayer%20Lance)
-- [Giant Slayer Laser Pistol](#Giant%20Slayer%20Laser%20Pistol)
-- [Giant Slayer Laser Rifle](#Giant%20Slayer%20Laser%20Rifle)
-- [Giant Slayer Light Crossbow](#Giant%20Slayer%20Light%20Crossbow)
-- [Giant Slayer Light Hammer](#Giant%20Slayer%20Light%20Hammer)
-- [Giant Slayer Light Repeating Crossbow](#Giant%20Slayer%20Light%20Repeating%20Crossbow)
-- [Giant Slayer Longbow](#Giant%20Slayer%20Longbow)
-- [Giant Slayer Longsword](#Giant%20Slayer%20Longsword)
-- [Giant Slayer Mace](#Giant%20Slayer%20Mace)
-- [Giant Slayer Maul](#Giant%20Slayer%20Maul)
-- [Giant Slayer Morningstar](#Giant%20Slayer%20Morningstar)
-- [Giant Slayer Musket](#Giant%20Slayer%20Musket)
-- [Giant Slayer Pike](#Giant%20Slayer%20Pike)
-- [Giant Slayer Pistol](#Giant%20Slayer%20Pistol)
-- [Giant Slayer Quarterstaff](#Giant%20Slayer%20Quarterstaff)
-- [Giant Slayer Rapier](#Giant%20Slayer%20Rapier)
-- [Giant Slayer Revolver](#Giant%20Slayer%20Revolver)
-- [Giant Slayer Scimitar](#Giant%20Slayer%20Scimitar)
-- [Giant Slayer Semiautomatic Pistol](#Giant%20Slayer%20Semiautomatic%20Pistol)
-- [Giant Slayer Shortbow](#Giant%20Slayer%20Shortbow)
-- [Giant Slayer Shortsword](#Giant%20Slayer%20Shortsword)
-- [Giant Slayer Shotgun](#Giant%20Slayer%20Shotgun)
-- [Giant Slayer Sickle](#Giant%20Slayer%20Sickle)
-- [Giant Slayer Sling](#Giant%20Slayer%20Sling)
-- [Giant Slayer Spear](#Giant%20Slayer%20Spear)
-- [Giant Slayer Staff](#Giant%20Slayer%20Staff)
-- [Giant Slayer Trident](#Giant%20Slayer%20Trident)
-- [Giant Slayer War Pick](#Giant%20Slayer%20War%20Pick)
-- [Giant Slayer Warhammer](#Giant%20Slayer%20Warhammer)
-- [Giant Slayer Whip](#Giant%20Slayer%20Whip)
-- [Giant Slayer Wooden Staff](#Giant%20Slayer%20Wooden%20Staff)
-- [Giant Slayer Yklwa](#Giant%20Slayer%20Yklwa)
+- [[#Giant Slayer%20Antimatter%20Rifle|Giant Slayer Antimatter Rifle]]
+- [[#Giant Slayer%20Automatic%20Rifle|Giant Slayer Automatic Rifle]]
+- [[#Giant Slayer%20Battleaxe|Giant Slayer Battleaxe]]
+- [[#Giant Slayer%20Blowgun|Giant Slayer Blowgun]]
+- [[#Giant Slayer%20Club|Giant Slayer Club]]
+- [[#Giant Slayer%20Dagger|Giant Slayer Dagger]]
+- [[#Giant Slayer%20Dart|Giant Slayer Dart]]
+- [[#Giant Slayer%20Double-Bladed%20Scimitar|Giant Slayer Double-Bladed Scimitar]]
+- [[#Giant Slayer%20Flail|Giant Slayer Flail]]
+- [[#Giant Slayer%20Glaive|Giant Slayer Glaive]]
+- [[#Giant Slayer%20Greataxe|Giant Slayer Greataxe]]
+- [[#Giant Slayer%20Greatclub|Giant Slayer Greatclub]]
+- [[#Giant Slayer%20Greatsword|Giant Slayer Greatsword]]
+- [[#Giant Slayer%20Halberd|Giant Slayer Halberd]]
+- [[#Giant Slayer%20Hand%20Crossbow|Giant Slayer Hand Crossbow]]
+- [[#Giant Slayer%20Handaxe|Giant Slayer Handaxe]]
+- [[#Giant Slayer%20Heavy%20Crossbow|Giant Slayer Heavy Crossbow]]
+- [[#Giant Slayer%20Hooked%20Shortspear|Giant Slayer Hooked Shortspear]]
+- [[#Giant Slayer%20Hoopak|Giant Slayer Hoopak]]
+- [[#Giant Slayer%20Hunting%20Rifle|Giant Slayer Hunting Rifle]]
+- [[#Giant Slayer%20Javelin|Giant Slayer Javelin]]
+- [[#Giant Slayer%20Lance|Giant Slayer Lance]]
+- [[#Giant Slayer%20Laser%20Pistol|Giant Slayer Laser Pistol]]
+- [[#Giant Slayer%20Laser%20Rifle|Giant Slayer Laser Rifle]]
+- [[#Giant Slayer%20Light%20Crossbow|Giant Slayer Light Crossbow]]
+- [[#Giant Slayer%20Light%20Hammer|Giant Slayer Light Hammer]]
+- [[#Giant Slayer%20Light%20Repeating%20Crossbow|Giant Slayer Light Repeating Crossbow]]
+- [[#Giant Slayer%20Longbow|Giant Slayer Longbow]]
+- [[#Giant Slayer%20Longsword|Giant Slayer Longsword]]
+- [[#Giant Slayer%20Mace|Giant Slayer Mace]]
+- [[#Giant Slayer%20Maul|Giant Slayer Maul]]
+- [[#Giant Slayer%20Morningstar|Giant Slayer Morningstar]]
+- [[#Giant Slayer%20Musket|Giant Slayer Musket]]
+- [[#Giant Slayer%20Pike|Giant Slayer Pike]]
+- [[#Giant Slayer%20Pistol|Giant Slayer Pistol]]
+- [[#Giant Slayer%20Quarterstaff|Giant Slayer Quarterstaff]]
+- [[#Giant Slayer%20Rapier|Giant Slayer Rapier]]
+- [[#Giant Slayer%20Revolver|Giant Slayer Revolver]]
+- [[#Giant Slayer%20Scimitar|Giant Slayer Scimitar]]
+- [[#Giant Slayer%20Semiautomatic%20Pistol|Giant Slayer Semiautomatic Pistol]]
+- [[#Giant Slayer%20Shortbow|Giant Slayer Shortbow]]
+- [[#Giant Slayer%20Shortsword|Giant Slayer Shortsword]]
+- [[#Giant Slayer%20Shotgun|Giant Slayer Shotgun]]
+- [[#Giant Slayer%20Sickle|Giant Slayer Sickle]]
+- [[#Giant Slayer%20Sling|Giant Slayer Sling]]
+- [[#Giant Slayer%20Spear|Giant Slayer Spear]]
+- [[#Giant Slayer%20Staff|Giant Slayer Staff]]
+- [[#Giant Slayer%20Trident|Giant Slayer Trident]]
+- [[#Giant Slayer%20War%20Pick|Giant Slayer War Pick]]
+- [[#Giant Slayer%20Warhammer|Giant Slayer Warhammer]]
+- [[#Giant Slayer%20Whip|Giant Slayer Whip]]
+- [[#Giant Slayer%20Wooden%20Staff|Giant Slayer Wooden Staff]]
+- [[#Giant Slayer%20Yklwa|Giant Slayer Yklwa]]
 
 ### Giant Slayer Antimatter Rifle
 

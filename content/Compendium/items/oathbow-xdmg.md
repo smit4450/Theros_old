@@ -26,8 +26,8 @@ When you make a ranged attack roll with this weapon against your sworn enemy, yo
 While your sworn enemy lives, you have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls with all other weapons.
 
 **Variants**:
-- [Oath Longbow](#Oath%20Longbow)
-- [Oath Shortbow](#Oath%20Shortbow)
+- [[#Oath Longbow|Oath Longbow]]
+- [[#Oath Shortbow|Oath Shortbow]]
 
 ### Oath Longbow
 

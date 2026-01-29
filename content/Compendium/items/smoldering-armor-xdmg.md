@@ -31,18 +31,18 @@ aliases:
 Wisps of harmless, odorless smoke rise from this armor while it is worn.
 
 **Variants**:
-- [Smoldering Breastplate](#Smoldering%20Breastplate)
-- [Smoldering Chain Mail](#Smoldering%20Chain%20Mail)
-- [Smoldering Chain Shirt](#Smoldering%20Chain%20Shirt)
-- [Smoldering Half Plate Armor](#Smoldering%20Half%20Plate%20Armor)
-- [Smoldering Hide Armor](#Smoldering%20Hide%20Armor)
-- [Smoldering Leather Armor](#Smoldering%20Leather%20Armor)
-- [Smoldering Padded Armor](#Smoldering%20Padded%20Armor)
-- [Smoldering Plate Armor](#Smoldering%20Plate%20Armor)
-- [Smoldering Ring Mail](#Smoldering%20Ring%20Mail)
-- [Smoldering Scale Mail](#Smoldering%20Scale%20Mail)
-- [Smoldering Splint Armor](#Smoldering%20Splint%20Armor)
-- [Smoldering Studded Leather Armor](#Smoldering%20Studded%20Leather%20Armor)
+- [[#Smoldering Breastplate|Smoldering Breastplate]]
+- [[#Smoldering Chain%20Mail|Smoldering Chain Mail]]
+- [[#Smoldering Chain%20Shirt|Smoldering Chain Shirt]]
+- [[#Smoldering Half%20Plate%20Armor|Smoldering Half Plate Armor]]
+- [[#Smoldering Hide%20Armor|Smoldering Hide Armor]]
+- [[#Smoldering Leather%20Armor|Smoldering Leather Armor]]
+- [[#Smoldering Padded%20Armor|Smoldering Padded Armor]]
+- [[#Smoldering Plate%20Armor|Smoldering Plate Armor]]
+- [[#Smoldering Ring%20Mail|Smoldering Ring Mail]]
+- [[#Smoldering Scale%20Mail|Smoldering Scale Mail]]
+- [[#Smoldering Splint%20Armor|Smoldering Splint Armor]]
+- [[#Smoldering Studded%20Leather%20Armor|Smoldering Studded Leather Armor]]
 
 ### Smoldering Breastplate
 

@@ -50,34 +50,34 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 The first time you attack with the weapon on each of your turns, you can transfer some or all of the weapon's bonus to your [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md). For example, you could reduce the bonus to your attack rolls and damage rolls to +1 and gain a +2 bonus to [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md). The adjusted bonuses remain in effect until the start of your next turn, although you must hold the weapon to gain a bonus to AC from it.
 
 **Variants**:
-- [Defender Battleaxe](#Defender%20Battleaxe)
-- [Defender Club](#Defender%20Club)
-- [Defender Dagger](#Defender%20Dagger)
-- [Defender Flail](#Defender%20Flail)
-- [Defender Glaive](#Defender%20Glaive)
-- [Defender Greataxe](#Defender%20Greataxe)
-- [Defender Greatclub](#Defender%20Greatclub)
-- [Defender Greatsword](#Defender%20Greatsword)
-- [Defender Halberd](#Defender%20Halberd)
-- [Defender Handaxe](#Defender%20Handaxe)
-- [Defender Javelin](#Defender%20Javelin)
-- [Defender Lance](#Defender%20Lance)
-- [Defender Light Hammer](#Defender%20Light%20Hammer)
-- [Defender Longsword](#Defender%20Longsword)
-- [Defender Mace](#Defender%20Mace)
-- [Defender Maul](#Defender%20Maul)
-- [Defender Morningstar](#Defender%20Morningstar)
-- [Defender Pike](#Defender%20Pike)
-- [Defender Quarterstaff](#Defender%20Quarterstaff)
-- [Defender Rapier](#Defender%20Rapier)
-- [Defender Scimitar](#Defender%20Scimitar)
-- [Defender Shortsword](#Defender%20Shortsword)
-- [Defender Sickle](#Defender%20Sickle)
-- [Defender Spear](#Defender%20Spear)
-- [Defender Trident](#Defender%20Trident)
-- [Defender War Pick](#Defender%20War%20Pick)
-- [Defender Warhammer](#Defender%20Warhammer)
-- [Defender Whip](#Defender%20Whip)
+- [[#Defender Battleaxe|Defender Battleaxe]]
+- [[#Defender Club|Defender Club]]
+- [[#Defender Dagger|Defender Dagger]]
+- [[#Defender Flail|Defender Flail]]
+- [[#Defender Glaive|Defender Glaive]]
+- [[#Defender Greataxe|Defender Greataxe]]
+- [[#Defender Greatclub|Defender Greatclub]]
+- [[#Defender Greatsword|Defender Greatsword]]
+- [[#Defender Halberd|Defender Halberd]]
+- [[#Defender Handaxe|Defender Handaxe]]
+- [[#Defender Javelin|Defender Javelin]]
+- [[#Defender Lance|Defender Lance]]
+- [[#Defender Light%20Hammer|Defender Light Hammer]]
+- [[#Defender Longsword|Defender Longsword]]
+- [[#Defender Mace|Defender Mace]]
+- [[#Defender Maul|Defender Maul]]
+- [[#Defender Morningstar|Defender Morningstar]]
+- [[#Defender Pike|Defender Pike]]
+- [[#Defender Quarterstaff|Defender Quarterstaff]]
+- [[#Defender Rapier|Defender Rapier]]
+- [[#Defender Scimitar|Defender Scimitar]]
+- [[#Defender Shortsword|Defender Shortsword]]
+- [[#Defender Sickle|Defender Sickle]]
+- [[#Defender Spear|Defender Spear]]
+- [[#Defender Trident|Defender Trident]]
+- [[#Defender War%20Pick|Defender War Pick]]
+- [[#Defender Warhammer|Defender Warhammer]]
+- [[#Defender Whip|Defender Whip]]
 
 ### Defender Battleaxe
 

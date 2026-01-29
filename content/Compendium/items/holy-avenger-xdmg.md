@@ -79,59 +79,59 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 While you hold the drawn weapon, it creates a 10-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you. You and all creatures [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md) to you in the [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects. If you have 17 or more levels in the Paladin class, the size of the [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) increases to 30 feet.
 
 **Variants**:
-- [Holy Avenger Antimatter Rifle](#Holy%20Avenger%20Antimatter%20Rifle)
-- [Holy Avenger Automatic Rifle](#Holy%20Avenger%20Automatic%20Rifle)
-- [Holy Avenger Battleaxe](#Holy%20Avenger%20Battleaxe)
-- [Holy Avenger Blowgun](#Holy%20Avenger%20Blowgun)
-- [Holy Avenger Club](#Holy%20Avenger%20Club)
-- [Holy Avenger Dagger](#Holy%20Avenger%20Dagger)
-- [Holy Avenger Dart](#Holy%20Avenger%20Dart)
-- [Holy Avenger Double-Bladed Scimitar](#Holy%20Avenger%20Double-Bladed%20Scimitar)
-- [Holy Avenger Flail](#Holy%20Avenger%20Flail)
-- [Holy Avenger Glaive](#Holy%20Avenger%20Glaive)
-- [Holy Avenger Greataxe](#Holy%20Avenger%20Greataxe)
-- [Holy Avenger Greatclub](#Holy%20Avenger%20Greatclub)
-- [Holy Avenger Greatsword](#Holy%20Avenger%20Greatsword)
-- [Holy Avenger Halberd](#Holy%20Avenger%20Halberd)
-- [Holy Avenger Hand Crossbow](#Holy%20Avenger%20Hand%20Crossbow)
-- [Holy Avenger Handaxe](#Holy%20Avenger%20Handaxe)
-- [Holy Avenger Heavy Crossbow](#Holy%20Avenger%20Heavy%20Crossbow)
-- [Holy Avenger Hooked Shortspear](#Holy%20Avenger%20Hooked%20Shortspear)
-- [Holy Avenger Hoopak](#Holy%20Avenger%20Hoopak)
-- [Holy Avenger Hunting Rifle](#Holy%20Avenger%20Hunting%20Rifle)
-- [Holy Avenger Javelin](#Holy%20Avenger%20Javelin)
-- [Holy Avenger Lance](#Holy%20Avenger%20Lance)
-- [Holy Avenger Laser Pistol](#Holy%20Avenger%20Laser%20Pistol)
-- [Holy Avenger Laser Rifle](#Holy%20Avenger%20Laser%20Rifle)
-- [Holy Avenger Light Crossbow](#Holy%20Avenger%20Light%20Crossbow)
-- [Holy Avenger Light Hammer](#Holy%20Avenger%20Light%20Hammer)
-- [Holy Avenger Light Repeating Crossbow](#Holy%20Avenger%20Light%20Repeating%20Crossbow)
-- [Holy Avenger Longbow](#Holy%20Avenger%20Longbow)
-- [Holy Avenger Longsword](#Holy%20Avenger%20Longsword)
-- [Holy Avenger Mace](#Holy%20Avenger%20Mace)
-- [Holy Avenger Maul](#Holy%20Avenger%20Maul)
-- [Holy Avenger Morningstar](#Holy%20Avenger%20Morningstar)
-- [Holy Avenger Musket](#Holy%20Avenger%20Musket)
-- [Holy Avenger Pike](#Holy%20Avenger%20Pike)
-- [Holy Avenger Pistol](#Holy%20Avenger%20Pistol)
-- [Holy Avenger Quarterstaff](#Holy%20Avenger%20Quarterstaff)
-- [Holy Avenger Rapier](#Holy%20Avenger%20Rapier)
-- [Holy Avenger Revolver](#Holy%20Avenger%20Revolver)
-- [Holy Avenger Scimitar](#Holy%20Avenger%20Scimitar)
-- [Holy Avenger Semiautomatic Pistol](#Holy%20Avenger%20Semiautomatic%20Pistol)
-- [Holy Avenger Shortbow](#Holy%20Avenger%20Shortbow)
-- [Holy Avenger Shortsword](#Holy%20Avenger%20Shortsword)
-- [Holy Avenger Shotgun](#Holy%20Avenger%20Shotgun)
-- [Holy Avenger Sickle](#Holy%20Avenger%20Sickle)
-- [Holy Avenger Sling](#Holy%20Avenger%20Sling)
-- [Holy Avenger Spear](#Holy%20Avenger%20Spear)
-- [Holy Avenger Staff](#Holy%20Avenger%20Staff)
-- [Holy Avenger Trident](#Holy%20Avenger%20Trident)
-- [Holy Avenger War Pick](#Holy%20Avenger%20War%20Pick)
-- [Holy Avenger Warhammer](#Holy%20Avenger%20Warhammer)
-- [Holy Avenger Whip](#Holy%20Avenger%20Whip)
-- [Holy Avenger Wooden Staff](#Holy%20Avenger%20Wooden%20Staff)
-- [Holy Avenger Yklwa](#Holy%20Avenger%20Yklwa)
+- [[#Holy Avenger%20Antimatter%20Rifle|Holy Avenger Antimatter Rifle]]
+- [[#Holy Avenger%20Automatic%20Rifle|Holy Avenger Automatic Rifle]]
+- [[#Holy Avenger%20Battleaxe|Holy Avenger Battleaxe]]
+- [[#Holy Avenger%20Blowgun|Holy Avenger Blowgun]]
+- [[#Holy Avenger%20Club|Holy Avenger Club]]
+- [[#Holy Avenger%20Dagger|Holy Avenger Dagger]]
+- [[#Holy Avenger%20Dart|Holy Avenger Dart]]
+- [[#Holy Avenger%20Double-Bladed%20Scimitar|Holy Avenger Double-Bladed Scimitar]]
+- [[#Holy Avenger%20Flail|Holy Avenger Flail]]
+- [[#Holy Avenger%20Glaive|Holy Avenger Glaive]]
+- [[#Holy Avenger%20Greataxe|Holy Avenger Greataxe]]
+- [[#Holy Avenger%20Greatclub|Holy Avenger Greatclub]]
+- [[#Holy Avenger%20Greatsword|Holy Avenger Greatsword]]
+- [[#Holy Avenger%20Halberd|Holy Avenger Halberd]]
+- [[#Holy Avenger%20Hand%20Crossbow|Holy Avenger Hand Crossbow]]
+- [[#Holy Avenger%20Handaxe|Holy Avenger Handaxe]]
+- [[#Holy Avenger%20Heavy%20Crossbow|Holy Avenger Heavy Crossbow]]
+- [[#Holy Avenger%20Hooked%20Shortspear|Holy Avenger Hooked Shortspear]]
+- [[#Holy Avenger%20Hoopak|Holy Avenger Hoopak]]
+- [[#Holy Avenger%20Hunting%20Rifle|Holy Avenger Hunting Rifle]]
+- [[#Holy Avenger%20Javelin|Holy Avenger Javelin]]
+- [[#Holy Avenger%20Lance|Holy Avenger Lance]]
+- [[#Holy Avenger%20Laser%20Pistol|Holy Avenger Laser Pistol]]
+- [[#Holy Avenger%20Laser%20Rifle|Holy Avenger Laser Rifle]]
+- [[#Holy Avenger%20Light%20Crossbow|Holy Avenger Light Crossbow]]
+- [[#Holy Avenger%20Light%20Hammer|Holy Avenger Light Hammer]]
+- [[#Holy Avenger%20Light%20Repeating%20Crossbow|Holy Avenger Light Repeating Crossbow]]
+- [[#Holy Avenger%20Longbow|Holy Avenger Longbow]]
+- [[#Holy Avenger%20Longsword|Holy Avenger Longsword]]
+- [[#Holy Avenger%20Mace|Holy Avenger Mace]]
+- [[#Holy Avenger%20Maul|Holy Avenger Maul]]
+- [[#Holy Avenger%20Morningstar|Holy Avenger Morningstar]]
+- [[#Holy Avenger%20Musket|Holy Avenger Musket]]
+- [[#Holy Avenger%20Pike|Holy Avenger Pike]]
+- [[#Holy Avenger%20Pistol|Holy Avenger Pistol]]
+- [[#Holy Avenger%20Quarterstaff|Holy Avenger Quarterstaff]]
+- [[#Holy Avenger%20Rapier|Holy Avenger Rapier]]
+- [[#Holy Avenger%20Revolver|Holy Avenger Revolver]]
+- [[#Holy Avenger%20Scimitar|Holy Avenger Scimitar]]
+- [[#Holy Avenger%20Semiautomatic%20Pistol|Holy Avenger Semiautomatic Pistol]]
+- [[#Holy Avenger%20Shortbow|Holy Avenger Shortbow]]
+- [[#Holy Avenger%20Shortsword|Holy Avenger Shortsword]]
+- [[#Holy Avenger%20Shotgun|Holy Avenger Shotgun]]
+- [[#Holy Avenger%20Sickle|Holy Avenger Sickle]]
+- [[#Holy Avenger%20Sling|Holy Avenger Sling]]
+- [[#Holy Avenger%20Spear|Holy Avenger Spear]]
+- [[#Holy Avenger%20Staff|Holy Avenger Staff]]
+- [[#Holy Avenger%20Trident|Holy Avenger Trident]]
+- [[#Holy Avenger%20War%20Pick|Holy Avenger War Pick]]
+- [[#Holy Avenger%20Warhammer|Holy Avenger Warhammer]]
+- [[#Holy Avenger%20Whip|Holy Avenger Whip]]
+- [[#Holy Avenger%20Wooden%20Staff|Holy Avenger Wooden Staff]]
+- [[#Holy Avenger%20Yklwa|Holy Avenger Yklwa]]
 
 ### Holy Avenger Antimatter Rifle
 

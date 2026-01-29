@@ -26,14 +26,14 @@ aliases:
 This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md) against you becomes a normal hit.
 
 **Variants**:
-- [Adamantine Breastplate](#Adamantine%20Breastplate)
-- [Adamantine Chain Mail](#Adamantine%20Chain%20Mail)
-- [Adamantine Chain Shirt](#Adamantine%20Chain%20Shirt)
-- [Adamantine Half Plate Armor](#Adamantine%20Half%20Plate%20Armor)
-- [Adamantine Plate Armor](#Adamantine%20Plate%20Armor)
-- [Adamantine Ring Mail](#Adamantine%20Ring%20Mail)
-- [Adamantine Scale Mail](#Adamantine%20Scale%20Mail)
-- [Adamantine Splint Armor](#Adamantine%20Splint%20Armor)
+- [[#Adamantine Breastplate|Adamantine Breastplate]]
+- [[#Adamantine Chain%20Mail|Adamantine Chain Mail]]
+- [[#Adamantine Chain%20Shirt|Adamantine Chain Shirt]]
+- [[#Adamantine Half%20Plate%20Armor|Adamantine Half Plate Armor]]
+- [[#Adamantine Plate%20Armor|Adamantine Plate Armor]]
+- [[#Adamantine Ring%20Mail|Adamantine Ring Mail]]
+- [[#Adamantine Scale%20Mail|Adamantine Scale Mail]]
+- [[#Adamantine Splint%20Armor|Adamantine Splint Armor]]
 
 ### Adamantine Breastplate
 

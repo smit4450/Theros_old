@@ -76,59 +76,59 @@ aliases:
 This magic weapon deals an extra `2d6` damage to any creature it hits. This extra damage is of the same type as the weapon's normal damage.
 
 **Variants**:
-- [Vicious Antimatter Rifle](#Vicious%20Antimatter%20Rifle)
-- [Vicious Automatic Rifle](#Vicious%20Automatic%20Rifle)
-- [Vicious Battleaxe](#Vicious%20Battleaxe)
-- [Vicious Blowgun](#Vicious%20Blowgun)
-- [Vicious Club](#Vicious%20Club)
-- [Vicious Dagger](#Vicious%20Dagger)
-- [Vicious Dart](#Vicious%20Dart)
-- [Vicious Double-Bladed Scimitar](#Vicious%20Double-Bladed%20Scimitar)
-- [Vicious Flail](#Vicious%20Flail)
-- [Vicious Glaive](#Vicious%20Glaive)
-- [Vicious Greataxe](#Vicious%20Greataxe)
-- [Vicious Greatclub](#Vicious%20Greatclub)
-- [Vicious Greatsword](#Vicious%20Greatsword)
-- [Vicious Halberd](#Vicious%20Halberd)
-- [Vicious Hand Crossbow](#Vicious%20Hand%20Crossbow)
-- [Vicious Handaxe](#Vicious%20Handaxe)
-- [Vicious Heavy Crossbow](#Vicious%20Heavy%20Crossbow)
-- [Vicious Hooked Shortspear](#Vicious%20Hooked%20Shortspear)
-- [Vicious Hoopak](#Vicious%20Hoopak)
-- [Vicious Hunting Rifle](#Vicious%20Hunting%20Rifle)
-- [Vicious Javelin](#Vicious%20Javelin)
-- [Vicious Lance](#Vicious%20Lance)
-- [Vicious Laser Pistol](#Vicious%20Laser%20Pistol)
-- [Vicious Laser Rifle](#Vicious%20Laser%20Rifle)
-- [Vicious Light Crossbow](#Vicious%20Light%20Crossbow)
-- [Vicious Light Hammer](#Vicious%20Light%20Hammer)
-- [Vicious Light Repeating Crossbow](#Vicious%20Light%20Repeating%20Crossbow)
-- [Vicious Longbow](#Vicious%20Longbow)
-- [Vicious Longsword](#Vicious%20Longsword)
-- [Vicious Mace](#Vicious%20Mace)
-- [Vicious Maul](#Vicious%20Maul)
-- [Vicious Morningstar](#Vicious%20Morningstar)
-- [Vicious Musket](#Vicious%20Musket)
-- [Vicious Pike](#Vicious%20Pike)
-- [Vicious Pistol](#Vicious%20Pistol)
-- [Vicious Quarterstaff](#Vicious%20Quarterstaff)
-- [Vicious Rapier](#Vicious%20Rapier)
-- [Vicious Revolver](#Vicious%20Revolver)
-- [Vicious Scimitar](#Vicious%20Scimitar)
-- [Vicious Semiautomatic Pistol](#Vicious%20Semiautomatic%20Pistol)
-- [Vicious Shortbow](#Vicious%20Shortbow)
-- [Vicious Shortsword](#Vicious%20Shortsword)
-- [Vicious Shotgun](#Vicious%20Shotgun)
-- [Vicious Sickle](#Vicious%20Sickle)
-- [Vicious Sling](#Vicious%20Sling)
-- [Vicious Spear](#Vicious%20Spear)
-- [Vicious Staff](#Vicious%20Staff)
-- [Vicious Trident](#Vicious%20Trident)
-- [Vicious War Pick](#Vicious%20War%20Pick)
-- [Vicious Warhammer](#Vicious%20Warhammer)
-- [Vicious Whip](#Vicious%20Whip)
-- [Vicious Wooden Staff](#Vicious%20Wooden%20Staff)
-- [Vicious Yklwa](#Vicious%20Yklwa)
+- [[#Vicious Antimatter%20Rifle|Vicious Antimatter Rifle]]
+- [[#Vicious Automatic%20Rifle|Vicious Automatic Rifle]]
+- [[#Vicious Battleaxe|Vicious Battleaxe]]
+- [[#Vicious Blowgun|Vicious Blowgun]]
+- [[#Vicious Club|Vicious Club]]
+- [[#Vicious Dagger|Vicious Dagger]]
+- [[#Vicious Dart|Vicious Dart]]
+- [[#Vicious Double-Bladed%20Scimitar|Vicious Double-Bladed Scimitar]]
+- [[#Vicious Flail|Vicious Flail]]
+- [[#Vicious Glaive|Vicious Glaive]]
+- [[#Vicious Greataxe|Vicious Greataxe]]
+- [[#Vicious Greatclub|Vicious Greatclub]]
+- [[#Vicious Greatsword|Vicious Greatsword]]
+- [[#Vicious Halberd|Vicious Halberd]]
+- [[#Vicious Hand%20Crossbow|Vicious Hand Crossbow]]
+- [[#Vicious Handaxe|Vicious Handaxe]]
+- [[#Vicious Heavy%20Crossbow|Vicious Heavy Crossbow]]
+- [[#Vicious Hooked%20Shortspear|Vicious Hooked Shortspear]]
+- [[#Vicious Hoopak|Vicious Hoopak]]
+- [[#Vicious Hunting%20Rifle|Vicious Hunting Rifle]]
+- [[#Vicious Javelin|Vicious Javelin]]
+- [[#Vicious Lance|Vicious Lance]]
+- [[#Vicious Laser%20Pistol|Vicious Laser Pistol]]
+- [[#Vicious Laser%20Rifle|Vicious Laser Rifle]]
+- [[#Vicious Light%20Crossbow|Vicious Light Crossbow]]
+- [[#Vicious Light%20Hammer|Vicious Light Hammer]]
+- [[#Vicious Light%20Repeating%20Crossbow|Vicious Light Repeating Crossbow]]
+- [[#Vicious Longbow|Vicious Longbow]]
+- [[#Vicious Longsword|Vicious Longsword]]
+- [[#Vicious Mace|Vicious Mace]]
+- [[#Vicious Maul|Vicious Maul]]
+- [[#Vicious Morningstar|Vicious Morningstar]]
+- [[#Vicious Musket|Vicious Musket]]
+- [[#Vicious Pike|Vicious Pike]]
+- [[#Vicious Pistol|Vicious Pistol]]
+- [[#Vicious Quarterstaff|Vicious Quarterstaff]]
+- [[#Vicious Rapier|Vicious Rapier]]
+- [[#Vicious Revolver|Vicious Revolver]]
+- [[#Vicious Scimitar|Vicious Scimitar]]
+- [[#Vicious Semiautomatic%20Pistol|Vicious Semiautomatic Pistol]]
+- [[#Vicious Shortbow|Vicious Shortbow]]
+- [[#Vicious Shortsword|Vicious Shortsword]]
+- [[#Vicious Shotgun|Vicious Shotgun]]
+- [[#Vicious Sickle|Vicious Sickle]]
+- [[#Vicious Sling|Vicious Sling]]
+- [[#Vicious Spear|Vicious Spear]]
+- [[#Vicious Staff|Vicious Staff]]
+- [[#Vicious Trident|Vicious Trident]]
+- [[#Vicious War%20Pick|Vicious War Pick]]
+- [[#Vicious Warhammer|Vicious Warhammer]]
+- [[#Vicious Whip|Vicious Whip]]
+- [[#Vicious Wooden%20Staff|Vicious Wooden Staff]]
+- [[#Vicious Yklwa|Vicious Yklwa]]
 
 ### Vicious Antimatter Rifle
 

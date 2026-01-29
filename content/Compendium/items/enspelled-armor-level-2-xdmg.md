@@ -34,18 +34,18 @@ Bound into this armor is a level 2 spell. The spell is determined when the armor
 The spell's saving throw DC is 13, and its attack bonus is `+5`.
 
 **Variants**:
-- [Enspelled (Level 2) Breastplate](#Enspelled%20(Level%202)%20Breastplate)
-- [Enspelled (Level 2) Chain Mail](#Enspelled%20(Level%202)%20Chain%20Mail)
-- [Enspelled (Level 2) Chain Shirt](#Enspelled%20(Level%202)%20Chain%20Shirt)
-- [Enspelled (Level 2) Half Plate Armor](#Enspelled%20(Level%202)%20Half%20Plate%20Armor)
-- [Enspelled (Level 2) Hide Armor](#Enspelled%20(Level%202)%20Hide%20Armor)
-- [Enspelled (Level 2) Leather Armor](#Enspelled%20(Level%202)%20Leather%20Armor)
-- [Enspelled (Level 2) Padded Armor](#Enspelled%20(Level%202)%20Padded%20Armor)
-- [Enspelled (Level 2) Plate Armor](#Enspelled%20(Level%202)%20Plate%20Armor)
-- [Enspelled (Level 2) Ring Mail](#Enspelled%20(Level%202)%20Ring%20Mail)
-- [Enspelled (Level 2) Scale Mail](#Enspelled%20(Level%202)%20Scale%20Mail)
-- [Enspelled (Level 2) Splint Armor](#Enspelled%20(Level%202)%20Splint%20Armor)
-- [Enspelled (Level 2) Studded Leather Armor](#Enspelled%20(Level%202)%20Studded%20Leather%20Armor)
+- [[#Enspelled (Level%202|Enspelled (Level 2) Breastplate]]%20Breastplate)
+- [[#Enspelled (Level%202|Enspelled (Level 2) Chain Mail]]%20Chain%20Mail)
+- [[#Enspelled (Level%202|Enspelled (Level 2) Chain Shirt]]%20Chain%20Shirt)
+- [[#Enspelled (Level%202|Enspelled (Level 2) Half Plate Armor]]%20Half%20Plate%20Armor)
+- [[#Enspelled (Level%202|Enspelled (Level 2) Hide Armor]]%20Hide%20Armor)
+- [[#Enspelled (Level%202|Enspelled (Level 2) Leather Armor]]%20Leather%20Armor)
+- [[#Enspelled (Level%202|Enspelled (Level 2) Padded Armor]]%20Padded%20Armor)
+- [[#Enspelled (Level%202|Enspelled (Level 2) Plate Armor]]%20Plate%20Armor)
+- [[#Enspelled (Level%202|Enspelled (Level 2) Ring Mail]]%20Ring%20Mail)
+- [[#Enspelled (Level%202|Enspelled (Level 2) Scale Mail]]%20Scale%20Mail)
+- [[#Enspelled (Level%202|Enspelled (Level 2) Splint Armor]]%20Splint%20Armor)
+- [[#Enspelled (Level%202|Enspelled (Level 2) Studded Leather Armor]]%20Studded%20Leather%20Armor)
 
 ### Enspelled (Level 2) Breastplate
 

@@ -31,18 +31,18 @@ aliases:
 You have a +3 bonus to AC while wearing this armor.
 
 **Variants**:
-- [+3 Breastplate](#+3%20Breastplate)
-- [+3 Chain Mail](#+3%20Chain%20Mail)
-- [+3 Chain Shirt](#+3%20Chain%20Shirt)
-- [+3 Half Plate Armor](#+3%20Half%20Plate%20Armor)
-- [+3 Hide Armor](#+3%20Hide%20Armor)
-- [+3 Leather Armor](#+3%20Leather%20Armor)
-- [+3 Padded Armor](#+3%20Padded%20Armor)
-- [+3 Plate Armor](#+3%20Plate%20Armor)
-- [+3 Ring Mail](#+3%20Ring%20Mail)
-- [+3 Scale Mail](#+3%20Scale%20Mail)
-- [+3 Splint Armor](#+3%20Splint%20Armor)
-- [+3 Studded Leather Armor](#+3%20Studded%20Leather%20Armor)
+- [[#+3 Breastplate|+3 Breastplate]]
+- [[#+3 Chain%20Mail|+3 Chain Mail]]
+- [[#+3 Chain%20Shirt|+3 Chain Shirt]]
+- [[#+3 Half%20Plate%20Armor|+3 Half Plate Armor]]
+- [[#+3 Hide%20Armor|+3 Hide Armor]]
+- [[#+3 Leather%20Armor|+3 Leather Armor]]
+- [[#+3 Padded%20Armor|+3 Padded Armor]]
+- [[#+3 Plate%20Armor|+3 Plate Armor]]
+- [[#+3 Ring%20Mail|+3 Ring Mail]]
+- [[#+3 Scale%20Mail|+3 Scale Mail]]
+- [[#+3 Splint%20Armor|+3 Splint Armor]]
+- [[#+3 Studded%20Leather%20Armor|+3 Studded Leather Armor]]
 
 ### +3 Breastplate
 

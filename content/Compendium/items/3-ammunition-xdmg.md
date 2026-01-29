@@ -28,12 +28,12 @@ This ammunition is typically found or sold in quantities of ten or twenty pieces
 > ([20,000 GP](Compendium/tables/magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg.md)).
 
 **Variants**:
-- [+3 Arrow](#+3%20Arrow)
-- [+3 Bolt](#+3%20Bolt)
-- [+3 Energy Cell](#+3%20Energy%20Cell)
-- [+3 Firearm Bullet](#+3%20Firearm%20Bullet)
-- [+3 Needle](#+3%20Needle)
-- [+3 Sling Bullet](#+3%20Sling%20Bullet)
+- [[#+3 Arrow|+3 Arrow]]
+- [[#+3 Bolt|+3 Bolt]]
+- [[#+3 Energy%20Cell|+3 Energy Cell]]
+- [[#+3 Firearm%20Bullet|+3 Firearm Bullet]]
+- [[#+3 Needle|+3 Needle]]
+- [[#+3 Sling%20Bullet|+3 Sling Bullet]]
 
 ### +3 Arrow
 

@@ -24,12 +24,12 @@ aliases:
 In [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the unsheathed blade of this weapon sheds moonlight, creating [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) in a 15-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 15 feet.
 
 **Variants**:
-- [Moon-Touched Double-Bladed Scimitar](#Moon-Touched%20Double-Bladed%20Scimitar)
-- [Moon-Touched Greatsword](#Moon-Touched%20Greatsword)
-- [Moon-Touched Longsword](#Moon-Touched%20Longsword)
-- [Moon-Touched Rapier](#Moon-Touched%20Rapier)
-- [Moon-Touched Scimitar](#Moon-Touched%20Scimitar)
-- [Moon-Touched Shortsword](#Moon-Touched%20Shortsword)
+- [[#Moon-Touched Double-Bladed%20Scimitar|Moon-Touched Double-Bladed Scimitar]]
+- [[#Moon-Touched Greatsword|Moon-Touched Greatsword]]
+- [[#Moon-Touched Longsword|Moon-Touched Longsword]]
+- [[#Moon-Touched Rapier|Moon-Touched Rapier]]
+- [[#Moon-Touched Scimitar|Moon-Touched Scimitar]]
+- [[#Moon-Touched Shortsword|Moon-Touched Shortsword]]
 
 ### Moon-Touched Double-Bladed Scimitar
 

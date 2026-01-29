@@ -56,40 +56,40 @@ aliases:
 This weapon or piece of ammunition is made of adamantine, one of the hardest substances in existence. Whenever this weapon or piece of ammunition hits an object, the hit is a [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md).
 
 **Variants**:
-- [Adamantine Arrow](#Adamantine%20Arrow)
-- [Adamantine Battleaxe](#Adamantine%20Battleaxe)
-- [Adamantine Bolt](#Adamantine%20Bolt)
-- [Adamantine Club](#Adamantine%20Club)
-- [Adamantine Dagger](#Adamantine%20Dagger)
-- [Adamantine Energy Cell](#Adamantine%20Energy%20Cell)
-- [Adamantine Firearm Bullet](#Adamantine%20Firearm%20Bullet)
-- [Adamantine Flail](#Adamantine%20Flail)
-- [Adamantine Glaive](#Adamantine%20Glaive)
-- [Adamantine Greataxe](#Adamantine%20Greataxe)
-- [Adamantine Greatclub](#Adamantine%20Greatclub)
-- [Adamantine Greatsword](#Adamantine%20Greatsword)
-- [Adamantine Halberd](#Adamantine%20Halberd)
-- [Adamantine Handaxe](#Adamantine%20Handaxe)
-- [Adamantine Javelin](#Adamantine%20Javelin)
-- [Adamantine Lance](#Adamantine%20Lance)
-- [Adamantine Light Hammer](#Adamantine%20Light%20Hammer)
-- [Adamantine Longsword](#Adamantine%20Longsword)
-- [Adamantine Mace](#Adamantine%20Mace)
-- [Adamantine Maul](#Adamantine%20Maul)
-- [Adamantine Morningstar](#Adamantine%20Morningstar)
-- [Adamantine Needle](#Adamantine%20Needle)
-- [Adamantine Pike](#Adamantine%20Pike)
-- [Adamantine Quarterstaff](#Adamantine%20Quarterstaff)
-- [Adamantine Rapier](#Adamantine%20Rapier)
-- [Adamantine Scimitar](#Adamantine%20Scimitar)
-- [Adamantine Shortsword](#Adamantine%20Shortsword)
-- [Adamantine Sickle](#Adamantine%20Sickle)
-- [Adamantine Sling Bullet](#Adamantine%20Sling%20Bullet)
-- [Adamantine Spear](#Adamantine%20Spear)
-- [Adamantine Trident](#Adamantine%20Trident)
-- [Adamantine War Pick](#Adamantine%20War%20Pick)
-- [Adamantine Warhammer](#Adamantine%20Warhammer)
-- [Adamantine Whip](#Adamantine%20Whip)
+- [[#Adamantine Arrow|Adamantine Arrow]]
+- [[#Adamantine Battleaxe|Adamantine Battleaxe]]
+- [[#Adamantine Bolt|Adamantine Bolt]]
+- [[#Adamantine Club|Adamantine Club]]
+- [[#Adamantine Dagger|Adamantine Dagger]]
+- [[#Adamantine Energy%20Cell|Adamantine Energy Cell]]
+- [[#Adamantine Firearm%20Bullet|Adamantine Firearm Bullet]]
+- [[#Adamantine Flail|Adamantine Flail]]
+- [[#Adamantine Glaive|Adamantine Glaive]]
+- [[#Adamantine Greataxe|Adamantine Greataxe]]
+- [[#Adamantine Greatclub|Adamantine Greatclub]]
+- [[#Adamantine Greatsword|Adamantine Greatsword]]
+- [[#Adamantine Halberd|Adamantine Halberd]]
+- [[#Adamantine Handaxe|Adamantine Handaxe]]
+- [[#Adamantine Javelin|Adamantine Javelin]]
+- [[#Adamantine Lance|Adamantine Lance]]
+- [[#Adamantine Light%20Hammer|Adamantine Light Hammer]]
+- [[#Adamantine Longsword|Adamantine Longsword]]
+- [[#Adamantine Mace|Adamantine Mace]]
+- [[#Adamantine Maul|Adamantine Maul]]
+- [[#Adamantine Morningstar|Adamantine Morningstar]]
+- [[#Adamantine Needle|Adamantine Needle]]
+- [[#Adamantine Pike|Adamantine Pike]]
+- [[#Adamantine Quarterstaff|Adamantine Quarterstaff]]
+- [[#Adamantine Rapier|Adamantine Rapier]]
+- [[#Adamantine Scimitar|Adamantine Scimitar]]
+- [[#Adamantine Shortsword|Adamantine Shortsword]]
+- [[#Adamantine Sickle|Adamantine Sickle]]
+- [[#Adamantine Sling%20Bullet|Adamantine Sling Bullet]]
+- [[#Adamantine Spear|Adamantine Spear]]
+- [[#Adamantine Trident|Adamantine Trident]]
+- [[#Adamantine War%20Pick|Adamantine War Pick]]
+- [[#Adamantine Warhammer|Adamantine Warhammer]]
+- [[#Adamantine Whip|Adamantine Whip]]
 
 ### Adamantine Arrow
 

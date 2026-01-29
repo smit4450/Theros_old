@@ -34,18 +34,18 @@ Bound into this armor is a cantrip. The cantrip is determined when the armor is 
 The spell's saving throw DC is 13, and its attack bonus is `+5`.
 
 **Variants**:
-- [Enspelled (Cantrip) Breastplate](#Enspelled%20(Cantrip)%20Breastplate)
-- [Enspelled (Cantrip) Chain Mail](#Enspelled%20(Cantrip)%20Chain%20Mail)
-- [Enspelled (Cantrip) Chain Shirt](#Enspelled%20(Cantrip)%20Chain%20Shirt)
-- [Enspelled (Cantrip) Half Plate Armor](#Enspelled%20(Cantrip)%20Half%20Plate%20Armor)
-- [Enspelled (Cantrip) Hide Armor](#Enspelled%20(Cantrip)%20Hide%20Armor)
-- [Enspelled (Cantrip) Leather Armor](#Enspelled%20(Cantrip)%20Leather%20Armor)
-- [Enspelled (Cantrip) Padded Armor](#Enspelled%20(Cantrip)%20Padded%20Armor)
-- [Enspelled (Cantrip) Plate Armor](#Enspelled%20(Cantrip)%20Plate%20Armor)
-- [Enspelled (Cantrip) Ring Mail](#Enspelled%20(Cantrip)%20Ring%20Mail)
-- [Enspelled (Cantrip) Scale Mail](#Enspelled%20(Cantrip)%20Scale%20Mail)
-- [Enspelled (Cantrip) Splint Armor](#Enspelled%20(Cantrip)%20Splint%20Armor)
-- [Enspelled (Cantrip) Studded Leather Armor](#Enspelled%20(Cantrip)%20Studded%20Leather%20Armor)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Breastplate]]%20Breastplate)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Chain Mail]]%20Chain%20Mail)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Chain Shirt]]%20Chain%20Shirt)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Half Plate Armor]]%20Half%20Plate%20Armor)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Hide Armor]]%20Hide%20Armor)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Leather Armor]]%20Leather%20Armor)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Padded Armor]]%20Padded%20Armor)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Plate Armor]]%20Plate%20Armor)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Ring Mail]]%20Ring%20Mail)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Scale Mail]]%20Scale%20Mail)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Splint Armor]]%20Splint%20Armor)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Studded Leather Armor]]%20Studded%20Leather%20Armor)
 
 ### Enspelled (Cantrip) Breastplate
 
