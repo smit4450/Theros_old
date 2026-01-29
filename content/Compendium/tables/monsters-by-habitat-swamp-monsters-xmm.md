@@ -14,18 +14,18 @@ aliases:
 
 | CR | Monsters |
 |----|----------|
-| 0 | [[frog-xmm]], [[lizard-xmm]], [[rat-xmm]], [[raven-xmm]], [[spider-xmm]] |
-| 1/8 | [[giant-rat-xmm]], [[kobold-warrior-xmm]], [[stirge-xmm]], [[venomous-snake-xmm]] |
-| 1/4 | [[bullywug-warrior-xmm]], [[constrictor-snake-xmm]], [[giant-frog-xmm]], [[giant-lizard-xmm]], [[giant-venomous-snake-xmm]], [[mud-mephit-xmm]], [[swarm-of-rats-xmm]], [[swarm-of-ravens-xmm]], [[winged-kobold-xmm]] |
-| 1/2 | [[crocodile-xmm]], [[swarm-of-insects-xmm]] |
-| 1 | [[ghoul-xmm]], [[giant-spider-xmm]], [[giant-toad-xmm]], [[lacedon-ghoul-xmm]], [[ogrillon-ogre-xmm]], [[yuan-ti-infiltrator-xmm]] |
-| 2 | [[black-dragon-wyrmling-xmm]], [[ghast-xmm]], [[giant-constrictor-snake-xmm]], [[lizardfolk-geomancer-xmm]], [[ogre-xmm]], [[swarm-of-stirges-xmm]], [[swarm-of-venomous-snakes-xmm]], [[will-o-wisp-xmm]] |
-| 3 | [[green-hag-xmm]], [[mummy-xmm]], [[wight-xmm]], [[yuan-ti-malison-type-1-xmm]]/[[yuan-ti-malison-type-2-xmm]]/[[yuan-ti-malison-type-3-xmm]] |
-| 4 | [[bullywug-bog-sage-xmm]], [[chuul-xmm]], [[hippopotamus-xmm]], [[lizardfolk-sovereign-xmm]] |
-| 5 | [[giant-crocodile-xmm]], [[revenant-xmm]], [[shambling-mound-xmm]], [[troll-xmm]], [[water-elemental-xmm]] |
+| 0 | [[Frog]], [[Lizard]], [[Rat]], [[Raven]], [[Spider]] |
+| 1/8 | [[Giant Rat]], [[kobold-warrior-xmm]], [[stirge-xmm]], [[Venomous Snake]] |
+| 1/4 | [[bullywug-warrior-xmm]], [[Constrictor Snake]], [[Giant Frog]], [[Giant Lizard]], [[Giant Venomous Snake]], [[Mud Mephit]], [[Swarm of Rats]], [[Swarm of Ravens]], [[winged-kobold-xmm]] |
+| 1/2 | [[Crocodile]], [[Swarm of Insects]] |
+| 1 | [[ghoul-xmm]], [[Giant Spider]], [[Giant Toad]], [[lacedon-ghoul-xmm]], [[ogrillon-ogre-xmm]], [[yuan-ti-infiltrator-xmm]] |
+| 2 | [[black-dragon-wyrmling-xmm]], [[ghast-xmm]], [[Giant Constrictor Snake]], [[lizardfolk-geomancer-xmm]], [[ogre-xmm]], [[swarm-of-stirges-xmm]], [[Swarm of Venomous Snakes]], [[will-o-wisp-xmm]] |
+| 3 | [[Green Hag]], [[mummy-xmm]], [[wight-xmm]], [[yuan-ti-malison-type-1-xmm]]/[[yuan-ti-malison-type-2-xmm]]/[[yuan-ti-malison-type-3-xmm]] |
+| 4 | [[bullywug-bog-sage-xmm]], [[chuul-xmm]], [[Hippopotamus]], [[lizardfolk-sovereign-xmm]] |
+| 5 | [[Giant Crocodile]], [[Revenant]], [[Shambling Mound]], [[troll-xmm]], [[Water Elemental]] |
 | 6 | [[ghast-gravecaller-xmm]] |
 | 7 | [[graveyard-revenant-xmm]], [[young-black-dragon-xmm]], [[yuan-ti-abomination-xmm]] |
-| 8 | [[hydra-xmm]] |
+| 8 | [[Hydra]] |
 | 10 | [[haunting-revenant-xmm]] |
 | 14 | [[adult-black-dragon-xmm]] |
 | 15 | [[mummy-lord-xmm]] |

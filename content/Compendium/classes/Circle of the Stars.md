@@ -9,7 +9,7 @@ aliases:
 - Circle of the Stars
 ---
 # Circle of the Stars
-* [[druid-xphb]]: Druid Subclass*  
+* [[Compendium/classes/Druid]]: Druid Subclass*  
 *Source: Player's Handbook (2024) p. 88*  
 
 > [!tldr] Class and Feature Progression

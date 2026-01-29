@@ -14,8 +14,7 @@ aliases:
 
 | Class | Hit Point Maximum |
 |-------|-------------------|
-| [[barbarian-xphb]] | 12 + Con. modifier |
-| [[fighter-xphb]], [[paladin-xphb]], or [[ranger-xphb]] | 10 + Con. modifier |
-| [[bard-xphb]], [[cleric-xphb]], [[druid-xphb]], [[monk-xphb]], [[rogue-xphb]], or [[warlock-xphb]] | 8 + Con. modifier |
-| [[sorcerer-xphb]] or [[wizard-xphb]] | 6 + Con. modifier |
+| [Barbarian](Barbarian.md)hter-xphb]], [[Paladin]], or [[Ranger]] | 10 + Con. modifier |
+| [[Bard]], [[Cleric]], [[Compendium/classes/Druid]], [[Monk]], [[Rogue]], or [[Warlock]] | 8 + Con. modifier |
+| [[Sorcerer]] or [[Wizard]] | 6 + Con. modifier |
 ^level-1-hit-points-by-class

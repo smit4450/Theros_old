@@ -9,7 +9,7 @@ aliases:
 - College of Glamour
 ---
 # College of Glamour
-* [[bard-xphb]]: Bard Subclass*  
+* [[Bard]]: Bard Subclass*  
 *Source: Player's Handbook (2024) p. 65*  
 
 > [!tldr] Class and Feature Progression

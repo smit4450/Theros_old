@@ -14,10 +14,10 @@ aliases:
 
 | dice: d6 | Villain |
 |----------|---------|
-| 1 | A single-minded Nyxborn [[assassin-xmm]] of Klothys hunts a hero who was raised from the dead. |
-| 2 | Believing in the holiness of a terrible beast, Klothys's [[priest-acolyte-xmm]] murder heroes sent to deal with it. |
-| 3 | Certain that civilization offends fate, a [[priest-xmm]] raises a herd of [[typhon-mot]] to release on a city. |
+| 1 | A single-minded Nyxborn [[Compendium/bestiary/humanoid/Assassin]] of Klothys hunts a hero who was raised from the dead. |
+| 2 | Believing in the holiness of a terrible beast, Klothys's [[Priest Acolyte]] murder heroes sent to deal with it. |
+| 3 | Certain that civilization offends fate, a [[Priest]] raises a herd of [[Typhon]] to release on a city. |
 | 4 | Insulted [[satyr-reveler-mot]] (see "chapter 6") channel Klothys's magic to drive a polis's priests into embarrassing debauchery. |
-| 5 | An [[oracle-mot]] (see "chapter 6") knows it is a character's destiny to serve Klothys. The seer manufactures tragedy for the individual to provoke this revelation. |
-| 6 | A [[cultist-fanatic-xmm]] of Klothys believes that the characters' deeds mark them as servants of the titans, destined to free one of those ancient terrors. |
+| 5 | An [[Oracle]] (see "chapter[satyr revelers](Satyr%20Reveler.md)eer manufactures tragedy for the individual to provoke this revelation. |
+| 6 | A [[Cultist Fanatic]] of Klothys believes that the characters' deeds mark them as servants of the titans, destined to free one of those ancient terrors. |
 ^klothyss-villains

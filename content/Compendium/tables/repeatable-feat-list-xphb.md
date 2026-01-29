@@ -18,7 +18,7 @@ aliases:
 |  [[Actor]] | "General" |
 |  [[Alert]] | "Origin" |
 |  [[Archery]] | "Fighting Style" |
-|  [[Athlete]] | "General" |
+|  [[Compendium/feats/Athlete]] | "General" |
 |  [[Blind Fighting]] | "Fighting Style" |
 |  [[Boon of Combat Prowess]] | "Epic Boon" |
 |  [[Boon of Dimensional Travel]] | "Epic Boon" |
@@ -84,7 +84,7 @@ aliases:
 |  [[Telekinetic]] | "General" |
 |  [[Telepathic]] | "General" |
 |  [[Thrown Weapon Fighting]] | "Fighting Style" |
-|  [[Tough]] | "Origin" |
+|  [[Compendium/feats/Tough]] | "Origin" |
 |  [[Two-Weapon Fighting]] | "Fighting Style" |
 |  [[Unarmed Fighting]] | "Fighting Style" |
 |  [[War Caster]] | "General" |

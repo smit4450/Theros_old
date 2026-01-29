@@ -14,12 +14,12 @@ aliases:
 
 | Class | Change When You... | Number of Spells |
 |-------|--------------------|------------------|
-| [[bard-xphb]] | Gain a level | One |
-| [[cleric-xphb]] | Finish a Long Rest | Any |
-| [[druid-xphb]] | Finish a Long Rest | Any |
-| [[paladin-xphb]] | Finish a Long Rest | One |
-| [[ranger-xphb]] | Finish a Long Rest | One |
-| [[sorcerer-xphb]] | Gain a level | One |
-| [[warlock-xphb]] | Gain a level | One |
-| [[wizard-xphb]] | Finish a Long Rest | Any |
+| [[Bard]] | Gain a level | One |
+| [[Cleric]] | Finish a Long Rest | Any |
+| [[Compendium/classes/Druid]] | Finish a Long Rest | Any |
+| [[Paladin]] | Finish a Long Rest | One |
+| [[Ranger]] | Finish a Long Rest | One |
+| [[Sorcerer]] | Gain a level | One |
+| [[Warlock]] | Gain a level | One |
+| [[Wizard]] | Finish a Long Rest | Any |
 ^spell-preparation-by-class

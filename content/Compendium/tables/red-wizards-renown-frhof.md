@@ -20,6 +20,5 @@ aliases:
 | 15+ | You have Advantage on ability checks made to influence a creature while bartering to buy or sell a magic item. |
 | 25+ | You gain access to a tattoo artist who can ink [[thayan-spell-tattoo-frhof]] on your body (see "Tattoo Magic" below). |
 | 30 | The first time your Renown Score reaches 30, the Red Wizards give you a Rare magic item from the Rod, Staff, Wand, or Wondrous Item category. |
-| 40+ | When preparing to cast a Circle spell (see chapter 5) in a town or larger settlement, you can recruit `1d4` [[mage-xmm]] to assist you for free. The mages arrive in `1d10` days. Once you use this reward, you can't do so again until your Renown Score increases. |
-| 50 | The first time your Renown Score reaches 50, the Red Wizards give you a Very Rare magic item from the Rod, Staff, Wand, or Wondrous Item category. |
+| 40+ | When preparing to cast a Circle spell (see chapter 5) in a town or larger settlement, you can recruit `1d4` [[mage-xmm]] to assist you for free. The mages arrive in `1d10` days. Once you use this reward, you can't do [Mages](Mage.md)0 | The first time your Renown Score reaches 50, the Red Wizards give you a Very Rare magic item from the Rod, Staff, Wand, or Wondrous Item category. |
 ^red-wizards-renown

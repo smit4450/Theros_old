@@ -14,14 +14,13 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/2 | [[shadow-xmm]] | MM |
-| 2 | [[two-headed-cerberus-mot]] | MOoT |
+| 1/2 | [[Shadow]] | MM |
+| 2 | [[Two-Headed Cerberus]] | MOoT |
 | 3 | [[lampad-mot]] | MOoT |
-| 3 | [[nightmare-xmm]] | MM |
-| 5 | [[night-hag-xmm]]* | MM |
-| 9 | [[abhorrent-overlord-mot]] | MOoT |
-| 11 | [[doomwake-giant-mot]] | MOoT |
-| 11 | [[nightmare-shepherd-mot]] | MOoT |
+| 3 | [[Nightmare]] | MM |
+| 5 | [[Night Hag]]* | MM |
+| 9[Lampad](Lampad.md)[doomwake-giant-mot]] | MOoT |
+| 11 | [[Nightmare Shepherd]] | MOoT |
 ^ereboss-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

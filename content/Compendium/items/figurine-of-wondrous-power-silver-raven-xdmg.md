@@ -20,6 +20,4 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Silver Raven (Uncommon)
 
-This silver statuette of a raven can become a [[raven-xmm]] for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine grants you the ability to cast [[animal-messenger-xphb]] on it.
-
-*Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+This silver statuette of a raven can become a [[raven-xmm]] for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine grants you the ability to cast [[ani[Raven](Raven.md)aster's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

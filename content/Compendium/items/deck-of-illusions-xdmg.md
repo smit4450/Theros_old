@@ -22,18 +22,18 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 
 | dice: 1d100 | Illusion |
 |-------------|----------|
-| 01-03 | [[adult-red-dragon-xmm]] |
-| 04-06 | [[archmage-xmm]] |
-| 07-09 | [[assassin-xmm]] |
-| 10-12 | [[bandit-captain-xmm]] |
+| 01-03 | [[Adult Red Dragon]] |
+| 04-06 | [[Archmage]] |
+| 07-09 | [[Compendium/bestiary/humanoid/Assassin]] |
+| 10-12 | [[Bandit Captain]] |
 | 13-15 | [[beholder-xmm]] |
-| 16-18 | [[berserker-xmm]] |
+| 16-18 | [[Berserker]] |
 | 19-21 | [[bugbear-warrior-xmm]] |
-| 22-24 | [[cloud-giant-xmm]] |
-| 25-27 | [[druid-xmm]] |
+| 22-24 | [[Cloud Giant]] |
+| 25-27 | [[Compendium/bestiary/humanoid/Druid]] |
 | 28-30 | [[erinyes-xmm]] |
 | 31-33 | [[ettin-xmm]] |
-| 34-36 | [[fire-giant-xmm]] |
+| 34-36 | [[Fire Giant]] |
 | 37-39 | [[frost-giant-xmm]] |
 | 40-42 | [[gnoll-warrior-xmm]] |
 | 43-45 | [[goblin-warrior-xmm]] |
@@ -41,20 +41,20 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 | 49-51 | [[hill-giant-xmm]] |
 | 52-54 | [[hobgoblin-warrior-xmm]] |
 | 55-57 | [[incubus-xmm]] |
-| 58-60 | [[iron-golem-xmm]] |
-| 61-63 | [[knight-xmm]] |
+| 58-60 | [[Iron Golem]] |
+| 61-63 | [[Knight]] |
 | 64-66 | [[kobold-warrior-xmm]] |
 | 67-69 | [[lich-xmm]] |
-| 70-72 | [[medusa-xmm]] |
-| 73-75 | [[night-hag-xmm]] |
+| 70-72 | [[Medusa XMM]] |
+| 73-75 | [[Night Hag]] |
 | 76-78 | [[ogre-xmm]] |
 | 79-81 | [[oni-xmm]] |
-| 82-84 | [[priest-xmm]] |
+| 82-84 | [[Priest]] |
 | 85-87 | [[succubus-xmm]] |
 | 88-90 | [[troll-xmm]] |
-| 91-93 | [[warrior-veteran-xmm]] |
-| 94-96 | [[wyvern-xmm]] |
+| 91-93 | [[Warrior Veteran]] |
+| 94-96 | [[Wyvern]] |
 | 97-00 | The card drawer |
 ^deck-of-illusions
 
-*Source: Dungeon Master's Guide (2024) p. 249. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 249. Available in the <span title='Systems Reference Docume[Guardian Naga](Guardian%20Naga.md)

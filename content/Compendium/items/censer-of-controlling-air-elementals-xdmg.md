@@ -12,6 +12,6 @@ aliases:
 ![](Compendium/items/img/censer-of-controlling-air-elementals.webp#right)
 
 
-While gently swinging this censer, you can take a [Magic](Compendium/rules/actions.md#Magic) action to summon an [[air-elemental-xmm]]. The elemental appears in an unoccupied space as close to the censer as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your [[initiative-xphb]] count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [[bonus-action-xphb]]. The censer can't be used this way again until the next dawn.
+While gently swinging this censer, you can take a [Magic](Compendium/rules/actions.md#Magic) action to summon an [Air Elemental](Air%20Elemental.md) as close to the censer as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your [[initiative-xphb]] count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [[bonus-action-xphb]]. The censer can't be used this way again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 243. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

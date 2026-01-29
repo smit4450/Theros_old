@@ -14,35 +14,35 @@ aliases:
 
 | Level | Special Facility | Prerequisite | Order |
 |-------|------------------|--------------|-------|
-| 5 | [[arcane-study]] ]] or a tool as a [[spellcasting-focus-xphb]] | Craft |
-| 5 | [[armory]] | None | Trade |
-| 5 | [[barrack]] | None | Recruit |
-| 5 | [[garden]] | None | Harvest |
-| 5 | [[library]] | None | Research |
-| 5 | [[sanctuary]] ]] or [[druidic-focus-xphb]] as a [[spellcasting-focus-xphb]] | Craft |
-| 5 | [[smithy]] | None | Craft |
-| 5 | [[storehouse]] | None | Trade |
-| 5 | [[workshop]] | None | Craft |
-| 9 | [[gaming-hall]] | None | Trade |
-| 9 | [[greenhouse]] | None | Harvest |
-| 9 | [[laboratory]] | None* | Craft |
-| 9 | [[sacristy]] ]] or [[druidic-focus-xphb]] as a [[spellcasting-focus-xphb]] | Craft |
-| 9 | [[scriptorium]] | None* | Craft |
-| 9 | [[stable]] | None | Trade |
-| 9 | [[teleportation-circle]] | None | Recruit |
-| 9 | [[theater]] | None | Empower |
-| 9 | [[training-area]] | None | Empower |
-| 9 | [[trophy-room]] | None | Research |
-| 13 | [[archive]] | None | Research |
-| 13 | [[meditation-chamber]] | None | Empower |
-| 13 | [[menagerie]] | None | Recruit |
-| 13 | [[observatory]] ]] | Empower |
-| 13 | [[pub]] | None | Research |
-| 13 | [[reliquary]] ]] or [[druidic-focus-xphb]] as a [[spellcasting-focus-xphb]] | Harvest |
-| 17 | [[demiplane]] ]] or a tool as a [[spellcasting-focus-xphb]] | Empower |
-| 17 | [[guildhall]] | Expertise in a skill | Recruit |
-| 17 | [[sanctum]] ]] or [[druidic-focus-xphb]] as a [[spellcasting-focus-xphb]] | Empower |
-| 17 | [[war-room]] | Fighting Style feature or Unarmored Defense feature | Recruit |
+| 5 | [[Arcane Study]] ]] or a tool as a [[spellcasting-focus-xphb]] | Craft |
+| 5 | [[Armory]] | None | Trade |
+| 5 | [[Barrack]] | None | Recruit |
+| 5 | [[Garden]] | None | Harvest |
+| 5 | [[Library]] | None | Research |
+| 5 | [[Sanctuary]] ]] or [[druidic-focus-xphb]] as a [[spellcasting-focus-xphb]] | Craft |
+| 5 | [[Smithy]] | None | Craft |
+| 5 | [[Storehouse]] | None | Trade |
+| 5 | [[Workshop]] | None | Craft |
+| 9 | [[Gaming Hall]] | None | Trade |
+| 9 | [[Greenhouse]] | None | Harvest |
+| 9 | [[Laboratory]] | None* | Craft |
+| 9 | [[Sacristy]] ]] or [[druidic-focus-xphb]] as a [[spellcasting-focus-xphb]] | Craft |
+| 9 | [[Scriptorium]] | None* | Craft |
+| 9 | [[Stable]] | None | Trade |
+| 9 | [[Teleportation Circle]] | None | Recruit |
+| 9 | [[Theater]] | None | Empower |
+| 9 | [[Training Area]] | None | Empower |
+| 9 | [[Trophy Room]] | None | Research |
+| 13 | [[Archive]] | None | Research |
+| 13 | [[Meditation Chamber]] | None | Empower |
+| 13 | [[Menagerie]] | None | Recruit |
+| 13 | [[Observatory]] ]] | Empower |
+| 13 | [[Pub]] | None | Research |
+| 13 | [[Reliquary]] ]] or [[druidic-focus-xphb]] as a [[spellcasting-focus-xphb]] | Harvest |
+| 17 | [[Demiplane]] ]] or a tool as a [[spellcasting-focus-xphb]] | Empower |
+| 17 | [[Guildhall]] | Expertise in a skill | Recruit |
+| 17 | [[Sanctum]] ]] or [[druidic-focus-xphb]] as a [[spellcasting-focus-xphb]] | Empower |
+| 17 | [[War Room]] | Fighting Style feature or Unarmored Defense feature | Recruit |
 ^special-facilities
 
 *Certain orders that can be issued to these facilities have additional prerequisites.

@@ -22,14 +22,14 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 
 | dice: 1d8 | Creature |
 |-----------|----------|
-| 1 | [[jackal-xmm]] |
-| 2 | [[ape-xmm]] |
-| 3 | [[baboon-xmm]] |
+| 1 | [[Jackal]] |
+| 2 | [[Ape]] |
+| 3 | [[Baboon]] |
 | 4 | [[axe-beak-xmm]] |
-| 5 | [[black-bear-xmm]] |
-| 6 | [[giant-weasel-xmm]] |
-| 7 | [[giant-hyena-xmm]] |
-| 8 | [[tiger-xmm]] |
+| 5 | [[Black Bear]] |
+| 6 | [[Giant Weasel]] |
+| 7 | [[Giant Hyena]] |
+| 8 | [[Tiger]] |
 ^1-creature
 
 *Source: Dungeon Master's Guide (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

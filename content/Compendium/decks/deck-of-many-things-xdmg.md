@@ -88,7 +88,7 @@ A Rare or rarer magic weapon with which you are proficient appears on your perso
 
 ### Knight
 ![](Compendium/decks/img/deck-of-many-things-09-knight.webp#card)
-You gain the service of a [[knight-xmm]], who magically appears in an unoccupied space you choose within 30 feet of yourself. The knight has the same alignment as you and serves you loyally until death, believing the two of you have been drawn together by fate. Work with your DM to create a name and backstory for this NPC. The DM can use a different stat block to represent the knight, as desired.
+You gain the service of a [[knight-xmm]], who magically appears in an unoccupied space you choose within 30 feet of yourself. The knight has the [[Knight|Knight]] and serves you loyally until death, believing the two of you have been drawn together by fate. Work with your DM to create a name and backstory for this NPC. The DM can use a different stat block to represent the knight, as desired.
 
 ### Moon
 ![](Compendium/decks/img/deck-of-many-things-11-moon.webp#card)
@@ -112,7 +112,7 @@ At any time you choose within one year of drawing this card, you can ask a quest
 
 ### Skull
 ![](Compendium/decks/img/deck-of-many-things-19-skull.webp#card)
-An [[avatar-of-death-xdmg]] appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 [[hit-points-xphb]] or you die. If an ally of yours deals damage to the avatar, that ally summons another Avatar of Death. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
+An [[Avatar of Death]] appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 [[hit-points-xphb]] or you die. If an ally of yours deals damage to the avatar, that ally summons another Avatar of Death. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
 
 ### Star
 ![](Compendium/decks/img/deck-of-many-things-13-star.webp#card)

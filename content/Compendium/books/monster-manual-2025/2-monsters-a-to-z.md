@@ -13,54 +13,54 @@ aliases:
 - [[aarakocra-aeromancer-xmm]]  
 - [[aarakocra-skirmisher-xmm]]  
 - [[aboleth-xmm]]  
-- [[air-elemental-xmm]]  
+- [[Air Elemental]]  
 - [[animal-lord-xmm]]  
-- [[animated-armor-xmm]]  
-- [[animated-broom-xmm]]  
-- [[animated-flying-sword-xmm]]  
-- [[animated-rug-of-smothering-xmm]]  
+- [[Animated Armor]]  
+- [[Animated Broom]]  
+- [[Animated Flying Sword]]  
+- [[Animated Rug of Smothering]]  
 - [[ankheg-xmm]]  
 - [[arcanaloth-xmm]]  
-- [[arch-hag-xmm]]  
-- [[assassin-xmm]]  
-- [[awakened-shrub-xmm]]  
-- [[awakened-tree-xmm]]  
+- [[Compendium/bestiary/fey/Arch-hag]]  
+- [[Compendium/bestiary/humanoid/Assassin]]  
+- [[Awakened Shrub]]  
+- [[Awakened Tree]]  
 - [[axe-beak-xmm]]  
 - [[giant-axe-beak-xmm]]  
 - [[azer-pyromancer-xmm]]  
 - [[azer-sentinel-xmm]]  
 - [[balor-xmm]]  
-- [[bandit-xmm]]  
-- [[bandit-captain-xmm]]  
-- [[bandit-crime-lord-xmm]]  
-- [[bandit-deceiver-xmm]]  
+- [[Bandit]]  
+- [[Bandit Captain]]  
+- [[Bandit Crime Lord]]  
+- [[Bandit Deceiver]]  
 - [[banshee-xmm]]  
 - [[barbed-devil-xmm]]  
 - [[barlgura-xmm]]  
-- [[basilisk-xmm]]  
+- [[Basilisk]]  
 - [[bearded-devil-xmm]]  
 - [[behir-xmm]]  
 - [[beholder-xmm]]  
-- [[berserker-xmm]]  
-- [[berserker-commander-xmm]]  
+- [[Berserker]]  
+- [[Berserker Commander]]  
 - [[black-dragon-wyrmling-xmm]]  
 - [[young-black-dragon-xmm]]  
 - [[adult-black-dragon-xmm]]  
 - [[ancient-black-dragon-xmm]]  
-- [[black-pudding-xmm]]  
-- [[needle-blight-xmm]]  
-- [[twig-blight-xmm]]  
-- [[tree-blight-xmm]]  
-- [[vine-blight-xmm]]  
-- [[gulthias-blight-xmm]]  
-- [[blink-dog-xmm]]  
-- [[blob-of-annihilation-xmm]]  
-- [[blue-dragon-wyrmling-xmm]]  
-- [[young-blue-dragon-xmm]]  
-- [[adult-blue-dragon-xmm]]  
-- [[ancient-blue-dragon-xmm]]  
+- [[Black Pudding]]  
+- [[Needle Blight]]  
+- [[Twig Blight]]  
+- [[Tree Blight]]  
+- [[Vine Blight]]  
+- [[Gulthias Blight]]  
+- [[Blink Dog]]  
+- [[Blob of Annihilation]]  
+- [[Blue Dragon Wyrmling]]  
+- [[Young Blue Dragon]]  
+- [[Adult Blue Dragon]]  
+- [[Ancient Blue Dragon]]  
 - [[bone-devil-xmm]]  
-- [[bone-naga-xmm]]  
+- [[Bone Naga]]  
 - [[brass-dragon-wyrmling-xmm]]  
 - [[young-brass-dragon-xmm]]  
 - [[adult-brass-dragon-xmm]]  
@@ -77,38 +77,38 @@ aliases:
 - [[bullywug-warrior-xmm]]  
 - [[cambion-xmm]]  
 - [[carrion-crawler-xmm]]  
-- [[centaur-trooper-xmm]]  
-- [[centaur-warden-xmm]]  
+- [[Centaur Trooper]]  
+- [[Centaur Warden]]  
 - [[chain-devil-xmm]]  
 - [[chasme-xmm]]  
-- [[chimera-xmm]]  
+- [[Chimera]]  
 - [[chuul-xmm]]  
-- [[clay-golem-xmm]]  
+- [[Clay Golem]]  
 - [[cloaker-xmm]]  
-- [[cloud-giant-xmm]]  
-- [[cockatrice-xmm]]  
-- [[cockatrice-regent-xmm]]  
-- [[colossus-xmm]]  
-- [[commoner-xmm]]  
+- [[Cloud Giant]]  
+- [[Cockatrice]]  
+- [[Cockatrice Regent]]  
+- [[Colossus]]  
+- [[Commoner]]  
 - [[copper-dragon-wyrmling-xmm]]  
 - [[young-copper-dragon-xmm]]  
 - [[adult-copper-dragon-xmm]]  
 - [[ancient-copper-dragon-xmm]]  
 - [[couatl-xmm]]  
-- [[crawling-claw-xmm]]  
-- [[swarm-of-crawling-claws-xmm]]  
-- [[cultist-xmm]]  
-- [[cultist-fanatic-xmm]]  
-- [[cultist-hierophant-xmm]]  
-- [[aberrant-cultist-xmm]]  
-- [[death-cultist-xmm]]  
-- [[elemental-cultist-xmm]]  
-- [[fiend-cultist-xmm]]  
-- [[cyclops-oracle-xmm]]  
-- [[cyclops-sentry-xmm]]  
+- [[Crawling Claw]]  
+- [[Swarm of Crawling Claws]]  
+- [[Cultist]]  
+- [[Cultist Fanatic]]  
+- [[Cultist Hierophant]]  
+- [[Aberrant Cultist]]  
+- [[Death Cultist]]  
+- [[Elemental Cultist]]  
+- [[Fiend Cultist]]  
+- [[Cyclops Oracle]]  
+- [[Cyclops Sentry]]  
 - [[dao-xmm]]  
 - [[darkmantle-xmm]]  
-- [[death-dog-xmm]]  
+- [[Death Dog]]  
 - [[death-knight-xmm]]  
 - [[death-knight-aspirant-xmm]]  
 - [[death-tyrant-xmm]]  
@@ -118,36 +118,36 @@ aliases:
 - [[djinni-xmm]]  
 - [[doppelganger-xmm]]  
 - [[dracolich-xmm]]  
-- [[dragon-turtle-xmm]]  
+- [[Dragon Turtle]]  
 - [[dretch-xmm]]  
 - [[swarm-of-dretches-xmm]]  
 - [[drider-xmm]]  
-- [[druid-xmm]]  
-- [[dryad-xmm]]  
-- [[earth-elemental-xmm]]  
+- [[Compendium/bestiary/humanoid/Druid]]  
+- [[Dryad]]  
+- [[Earth Elemental]]  
 - [[efreeti-xmm]]  
 - [[elemental-cataclysm-xmm]]  
-- [[empyrean-iota-xmm]]  
-- [[empyrean-xmm]]  
+- [[Empyrean Iota]]  
+- [[Empyrean]]  
 - [[erinyes-xmm]]  
 - [[ettercap-xmm]]  
 - [[ettin-xmm]]  
 - [[faerie-dragon-adult-xmm]]  
 - [[faerie-dragon-youth-xmm]]  
-- [[fire-elemental-xmm]]  
-- [[fire-giant-xmm]]  
+- [[Fire Elemental]]  
+- [[Fire Giant]]  
 - [[flameskull-xmm]]  
-- [[flesh-golem-xmm]]  
+- [[Flesh Golem]]  
 - [[flumph-xmm]]  
 - [[fomorian-xmm]]  
 - [[frost-giant-xmm]]  
 - [[gas-spore-fungus-xmm]]  
-- [[shrieker-fungus-xmm]]  
+- [[Shrieker Fungus]]  
 - [[violet-fungus-xmm]]  
 - [[violet-fungus-necrohulk-xmm]]  
 - [[galeb-duhr-xmm]]  
-- [[gargoyle-xmm]]  
-- [[gelatinous-cube-xmm]]  
+- [[Gargoyle]]  
+- [[Gelatinous Cube]]  
 - [[ghast-xmm]]  
 - [[ghast-gravecaller-xmm]]  
 - [[ghost-xmm]]  
@@ -161,7 +161,7 @@ aliases:
 - [[githzerai-psion-xmm]]  
 - [[githzerai-zerth-xmm]]  
 - [[glabrezu-xmm]]  
-- [[gladiator-xmm]]  
+- [[Gladiator]]  
 - [[gnoll-pack-lord-xmm]]  
 - [[gnoll-warrior-xmm]]  
 - [[gnoll-demoniac-xmm]]  
@@ -177,53 +177,53 @@ aliases:
 - [[gorgon-xmm]]  
 - [[brazen-gorgon-xmm]]  
 - [[goristro-xmm]]  
-- [[gray-ooze-xmm]]  
-- [[psychic-gray-ooze-xmm]]  
+- [[Gray Ooze]]  
+- [[Psychic Gray Ooze]]  
 - [[green-dragon-wyrmling-xmm]]  
 - [[young-green-dragon-xmm]]  
 - [[adult-green-dragon-xmm]]  
 - [[ancient-green-dragon-xmm]]  
-- [[green-hag-xmm]]  
+- [[Green Hag]]  
 - [[grell-xmm]]  
 - [[grick-xmm]]  
 - [[grick-ancient-xmm]]  
-- [[griffon-xmm]]  
+- [[Griffon]]  
 - [[grimlock-xmm]]  
-- [[guardian-naga-xmm]]  
-- [[guard-xmm]]  
-- [[guard-captain-xmm]]  
+- [[Guardian Naga]]  
+- [[Compendium/bestiary/humanoid/Guard]]  
+- [[Guard Captain]]  
 - [[half-dragon-xmm]]  
-- [[harpy-xmm]]  
-- [[hell-hound-xmm]]  
-- [[helmed-horror-xmm]]  
+- [[Harpy]]  
+- [[Hell Hound]]  
+- [[Helmed Horror]]  
 - [[hezrou-xmm]]  
 - [[hill-giant-xmm]]  
-- [[hippogriff-xmm]]  
+- [[Hippogriff]]  
 - [[hobgoblin-warrior-xmm]]  
 - [[hobgoblin-captain-xmm]]  
 - [[hobgoblin-warlord-xmm]]  
-- [[homunculus-xmm]]  
+- [[Homunculus]]  
 - [[hook-horror-xmm]]  
 - [[horned-devil-xmm]]  
-- [[hydra-xmm]]  
+- [[Hydra]]  
 - [[ice-devil-xmm]]  
 - [[imp-xmm]]  
 - [[incubus-xmm]]  
 - [[intellect-devourer-xmm]]  
-- [[invisible-stalker-xmm]]  
-- [[iron-golem-xmm]]  
+- [[Invisible Stalker]]  
+- [[Iron Golem]]  
 - [[jackalwere-xmm]]  
 - [[kenku-xmm]]  
-- [[knight-xmm]]  
-- [[questing-knight-xmm]]  
+- [[Knight]]  
+- [[Questing Knight]]  
 - [[kobold-warrior-xmm]]  
 - [[winged-kobold-xmm]]  
-- [[kraken-xmm]]  
+- [[Kraken]]  
 - [[kuo-toa-xmm]]  
 - [[kuo-toa-monitor-xmm]]  
 - [[kuo-toa-whip-xmm]]  
 - [[kuo-toa-archpriest-xmm]]  
-- [[lamia-xmm]]  
+- [[Lamia]]  
 - [[larva-xmm]]  
 - [[swarm-of-larvae-xmm]]  
 - [[lemure-xmm]]  
@@ -231,30 +231,30 @@ aliases:
 - [[lich-xmm]]  
 - [[lizardfolk-geomancer-xmm]]  
 - [[lizardfolk-sovereign-xmm]]  
-- [[mage-apprentice-xmm]]  
-- [[archmage-xmm]]  
-- [[mage-xmm]]  
+- [[Mage Apprentice]]  
+- [[Archmage]]  
+- [[Mage]]  
 - [[magmin-xmm]]  
 - [[manes-xmm]]  
 - [[manes-vaporspawn-xmm]]  
-- [[manticore-xmm]]  
+- [[Manticore]]  
 - [[marid-xmm]]  
 - [[marilith-xmm]]  
-- [[medusa-xmm]]  
-- [[dust-mephit-xmm]]  
-- [[ice-mephit-xmm]]  
-- [[magma-mephit-xmm]]  
-- [[mud-mephit-xmm]]  
-- [[smoke-mephit-xmm]]  
-- [[steam-mephit-xmm]]  
+- [[Medusa XMM]]  
+- [[Dust Mephit]]  
+- [[Ice Mephit]]  
+- [[Magma Mephit]]  
+- [[Mud Mephit]]  
+- [[Smoke Mephit]]  
+- [[Steam Mephit]]  
 - [[merfolk-skirmisher-xmm]]  
 - [[merfolk-wavebender-xmm]]  
 - [[merrow-xmm]]  
 - [[mezzoloth-xmm]]  
-- [[mimic-xmm]]  
+- [[Mimic]]  
 - [[mind-flayer-xmm]]  
 - [[mind-flayer-arcanist-xmm]]  
-- [[minotaur-of-baphomet-xmm]]  
+- [[Minotaur of Baphomet]]  
 - [[modron-monodrone-xmm]]  
 - [[modron-duodrone-xmm]]  
 - [[modron-tridrone-xmm]]  
@@ -267,53 +267,53 @@ aliases:
 - [[myconid-sovereign-xmm]]  
 - [[myconid-spore-servant-xmm]]  
 - [[nalfeshnee-xmm]]  
-- [[night-hag-xmm]]  
-- [[nightmare-xmm]]  
-- [[noble-xmm]]  
-- [[noble-prodigy-xmm]]  
-- [[nothic-xmm]]  
+- [[Night Hag]]  
+- [[Nightmare]]  
+- [[Compendium/bestiary/humanoid/Noble]]  
+- [[Noble Prodigy]]  
+- [[Nothic]]  
 - [[nycaloth-xmm]]  
-- [[ochre-jelly-xmm]]  
+- [[Ochre Jelly]]  
 - [[ogre-xmm]]  
 - [[ogrillon-ogre-xmm]]  
 - [[oni-xmm]]  
 - [[otyugh-xmm]]  
 - [[owlbear-xmm]]  
 - [[primeval-owlbear-xmm]]  
-- [[pegasus-xmm]]  
-- [[performer-xmm]]  
-- [[performer-legend-xmm]]  
-- [[performer-maestro-xmm]]  
+- [[Pegasus]]  
+- [[Performer]]  
+- [[Performer Legend]]  
+- [[Performer Maestro]]  
 - [[peryton-xmm]]  
-- [[phase-spider-xmm]]  
+- [[Phase Spider]]  
 - [[piercer-xmm]]  
-- [[pirate-xmm]]  
-- [[pirate-admiral-xmm]]  
-- [[pirate-captain-xmm]]  
+- [[Pirate]]  
+- [[Pirate Admiral]]  
+- [[Pirate Captain]]  
 - [[pit-fiend-xmm]]  
 - [[pixie-xmm]]  
 - [[pixie-wonderbringer-xmm]]  
 - [[planetar-xmm]]  
 - [[poltergeist-xmm]]  
-- [[priest-acolyte-xmm]]  
-- [[archpriest-xmm]]  
-- [[priest-xmm]]  
-- [[pseudodragon-xmm]]  
+- [[Priest Acolyte]]  
+- [[Archpriest]]  
+- [[Priest]]  
+- [[Pseudodragon]]  
 - [[purple-worm-xmm]]  
 - [[quaggoth-xmm]]  
 - [[quaggoth-thonot-xmm]]  
 - [[quasit-xmm]]  
 - [[rakshasa-xmm]]  
-- [[red-dragon-wyrmling-xmm]]  
-- [[young-red-dragon-xmm]]  
-- [[adult-red-dragon-xmm]]  
-- [[ancient-red-dragon-xmm]]  
+- [[Red Dragon Wyrmling]]  
+- [[Young Red Dragon]]  
+- [[Adult Red Dragon]]  
+- [[Ancient Red Dragon]]  
 - [[remorhaz-xmm]]  
 - [[young-remorhaz-xmm]]  
-- [[revenant-xmm]]  
+- [[Revenant]]  
 - [[graveyard-revenant-xmm]]  
 - [[haunting-revenant-xmm]]  
-- [[roc-xmm]]  
+- [[Roc]]  
 - [[roper-xmm]]  
 - [[rust-monster-xmm]]  
 - [[sahuagin-warrior-xmm]]  
@@ -322,18 +322,18 @@ aliases:
 - [[salamander-fire-snake-xmm]]  
 - [[salamander-xmm]]  
 - [[salamander-inferno-master-xmm]]  
-- [[satyr-xmm]]  
-- [[satyr-revelmaster-xmm]]  
-- [[scarecrow-xmm]]  
-- [[scout-xmm]]  
-- [[scout-captain-xmm]]  
-- [[sea-hag-xmm]]  
-- [[shadow-xmm]]  
-- [[shadow-demon-xmm]]  
+- [[Satyr]]  
+- [[Satyr Revelmaster]]  
+- [[Scarecrow]]  
+- [[Scout]]  
+- [[Scout Captain]]  
+- [[Sea Hag]]  
+- [[Shadow]]  
+- [[Shadow Demon]]  
 - [[juvenile-shadow-dragon-xmm]]  
 - [[shadow-dragon-xmm]]  
-- [[shambling-mound-xmm]]  
-- [[shield-guardian-xmm]]  
+- [[Shambling Mound]]  
+- [[Shield Guardian]]  
 - [[silver-dragon-wyrmling-xmm]]  
 - [[young-silver-dragon-xmm]]  
 - [[adult-silver-dragon-xmm]]  
@@ -350,44 +350,44 @@ aliases:
 - [[death-slaad-xmm]]  
 - [[solar-xmm]]  
 - [[spectator-xmm]]  
-- [[specter-xmm]]  
-- [[sphinx-of-wonder-xmm]]  
-- [[sphinx-of-secrets-xmm]]  
-- [[sphinx-of-lore-xmm]]  
-- [[sphinx-of-valor-xmm]]  
-- [[spy-xmm]]  
-- [[spy-master-xmm]]  
+- [[Specter]]  
+- [[Sphinx of Wonder]]  
+- [[Sphinx of Secrets]]  
+- [[Sphinx of Lore]]  
+- [[Sphinx of Valor]]  
+- [[Spy]]  
+- [[Spy Master]]  
 - [[spined-devil-xmm]]  
-- [[spirit-naga-xmm]]  
+- [[Spirit Naga]]  
 - [[sprite-xmm]]  
 - [[stirge-xmm]]  
 - [[swarm-of-stirges-xmm]]  
-- [[stone-giant-xmm]]  
-- [[stone-golem-xmm]]  
-- [[storm-giant-xmm]]  
+- [[Stone Giant]]  
+- [[Stone Golem]]  
+- [[Storm Giant]]  
 - [[succubus-xmm]]  
 - [[tarrasque-xmm]]  
 - [[thri-kreen-marauder-xmm]]  
 - [[thri-kreen-psion-xmm]]  
-- [[tough-xmm]]  
-- [[tough-boss-xmm]]  
-- [[treant-xmm]]  
+- [[Compendium/bestiary/humanoid/Tough]]  
+- [[Tough Boss]]  
+- [[Treant]]  
 - [[troglodyte-xmm]]  
 - [[troll-xmm]]  
 - [[troll-limb-xmm]]  
 - [[ultroloth-xmm]]  
 - [[umber-hulk-xmm]]  
-- [[unicorn-xmm]]  
+- [[Unicorn]]  
 - [[vampire-familiar-xmm]]  
 - [[vampire-spawn-xmm]]  
 - [[vampire-nightbringer-xmm]]  
 - [[vampire-xmm]]  
 - [[vampire-umbral-lord-xmm]]  
 - [[vrock-xmm]]  
-- [[warrior-infantry-xmm]]  
-- [[warrior-veteran-xmm]]  
-- [[warrior-commander-xmm]]  
-- [[water-elemental-xmm]]  
+- [[Warrior Infantry]]  
+- [[Warrior Veteran]]  
+- [[Warrior Commander]]  
+- [[Water Elemental]]  
 - [[water-weird-xmm]]  
 - [[werebear-xmm]]  
 - [[wereboar-xmm]]  
@@ -403,8 +403,8 @@ aliases:
 - [[winter-wolf-xmm]]  
 - [[dire-worg-xmm]]  
 - [[worg-xmm]]  
-- [[wraith-xmm]]  
-- [[wyvern-xmm]]  
+- [[Wraith]]  
+- [[Wyvern]]  
 - [[xorn-xmm]]  
 - [[yeti-xmm]]  
 - [[abominable-yeti-xmm]]  
@@ -503,7 +503,7 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 ![](Compendium/books/monster-manual-2025/img/033-01-003-air-elemental.webp#center)
 
 > [!embed-monster]- Air Elemental
-> ![Air Elemental](Compendium/bestiary/elemental/air-elemental-xmm.md#^statblock)
+> ![Air Elemental](Air%20Elemental.md#^statblock)
 
 ### Animal Lord
 
@@ -613,16 +613,16 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 ![](Compendium/books/monster-manual-2025/img/035-01-005-group-of-animated-items.webp#center)
 
 > [!embed-monster]- Animated Armor
-> ![Animated Armor](Compendium/bestiary/construct/animated-armor-xmm.md#^statblock)
+> ![Animated Armor](Animated%20Armor.md#^statblock)
 
 > [!embed-monster]- Animated Broom
-> ![Animated Broom](Compendium/bestiary/construct/animated-broom-xmm.md#^statblock)
+> ![Animated Broom](Animated%20Broom.md#^statblock)
 
 > [!embed-monster]- Animated Flying Sword
-> ![Animated Flying Sword](Compendium/bestiary/construct/animated-flying-sword-xmm.md#^statblock)
+> ![Animated Flying Sword](Animated%20Flying%20Sword.md#^statblock)
 
 > [!embed-monster]- Animated Rug of Smothering
-> ![Animated Rug of Smothering](Compendium/bestiary/construct/animated-rug-of-smothering-xmm.md#^statblock)
+> ![Animated Rug of Smothering](Animated%20Rug%20of%20Smothering.md#^statblock)
 
 ### Ankheg
 
@@ -716,7 +716,7 @@ Every arch-hag has a unique weakness tied to a fateful encounter the hag had in 
 ![](Compendium/books/monster-manual-2025/img/038-01-008-arch-hags.webp#center)
 
 > [!embed-monster]- Arch-hag
-> ![Arch-hag](Compendium/bestiary/fey/arch-hag-xmm.md#^statblock)
+> ![Arch-hag](Compendium/bestiary/fey/Arch-hag.md#^statblock)
 
 ### Assassin
 
@@ -744,7 +744,7 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
 ![](Compendium/books/monster-manual-2025/img/039-01-009-assassin.webp#center)
 
 > [!embed-monster]- Assassin
-> ![Assassin](Compendium/bestiary/humanoid/assassin-xmm.md#^statblock)
+> ![Assassin](Compendium/bestiary/humanoid/Assassin.md#^statblock)
 
 ### Awakened Plants
 
@@ -762,10 +762,10 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
 ![](Compendium/books/monster-manual-2025/img/040-01-010-awakened-plant.webp#center)
 
 > [!embed-monster]- Awakened Shrub
-> ![Awakened Shrub](Compendium/bestiary/plant/awakened-shrub-xmm.md#^statblock)
+> ![Awakened Shrub](Awakened%20Shrub.md#^statblock)
 
 > [!embed-monster]- Awakened Tree
-> ![Awakened Tree](Compendium/bestiary/plant/awakened-tree-xmm.md#^statblock)
+> ![Awakened Tree](Awakened%20Tree.md#^statblock)
 
 ### Axe Beaks
 
@@ -853,16 +853,16 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 ![](Compendium/books/monster-manual-2025/img/044-02-002-group-of-bandits.webp#center)
 
 > [!embed-monster]- Bandit
-> ![Bandit](Compendium/bestiary/humanoid/bandit-xmm.md#^statblock)
+> ![Bandit](Bandit.md#^statblock)
 
 > [!embed-monster]- Bandit Captain
-> ![Bandit Captain](Compendium/bestiary/humanoid/bandit-captain-xmm.md#^statblock)
+> ![Bandit Captain](Bandit%20Captain.md#^statblock)
 
 > [!embed-monster]- Bandit Deceiver
-> ![Bandit Deceiver](Compendium/bestiary/humanoid/bandit-deceiver-xmm.md#^statblock)
+> ![Bandit Deceiver](Bandit%20Deceiver.md#^statblock)
 
 > [!embed-monster]- Bandit Crime Lord
-> ![Bandit Crime Lord](Compendium/bestiary/humanoid/bandit-crime-lord-xmm.md#^statblock)
+> ![Bandit Crime Lord](Bandit%20Crime%20Lord.md#^statblock)
 
 ### Banshee
 
@@ -960,7 +960,7 @@ The remains of [Petrified](Compendium/rules/conditions.md#Petrified) creatures l
 ![](Compendium/books/monster-manual-2025/img/048-02-006-basilisk.webp#center)
 
 > [!embed-monster]- Basilisk
-> ![Basilisk](Compendium/bestiary/monstrosity/basilisk-xmm.md#^statblock)
+> ![Basilisk](Basilisk.md#^statblock)
 
 ### Bearded Devil
 
@@ -1036,10 +1036,10 @@ Beholders are a particular threat to adventurers because both gravitate toward m
 Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fighters, and other ferocious warriors.
 
 > [!embed-monster]- Berserker Commander
-> ![Berserker Commander](Compendium/bestiary/humanoid/berserker-commander-xmm.md#^statblock)
+> ![Berserker Commander](Berserker%20Commander.md#^statblock)
 
 > [!embed-monster]- Berserker
-> ![Berserker](Compendium/bestiary/humanoid/berserker-xmm.md#^statblock)
+> ![Berserker](Berserker.md#^statblock)
 
 ![](Compendium/books/monster-manual-2025/img/052-02-010-group-of-berserkers.webp#center)
 
@@ -1102,7 +1102,7 @@ Various supernatural conditions might bring black puddings into being. Roll on o
 ![](Compendium/books/monster-manual-2025/img/056-02-014-black-pudding.webp#center)
 
 > [!embed-monster]- Black Pudding
-> ![Black Pudding](Compendium/bestiary/ooze/black-pudding-xmm.md#^statblock)
+> ![Black Pudding](Black%20Pudding.md#^statblock)
 
 ### Blights
 
@@ -1120,23 +1120,23 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 ![Twig Blight](Compendium/books/monster-manual-2025/img/057-638741964748722131.webp#center)
 
 > [!embed-monster]- Twig Blight
-> ![Twig Blight](Compendium/bestiary/plant/twig-blight-xmm.md#^statblock)
+> ![Twig Blight](Twig%20Blight.md#^statblock)
 
 > [!embed-monster]- Needle Blight
-> ![Needle Blight](Compendium/bestiary/plant/needle-blight-xmm.md#^statblock)
+> ![Needle Blight](Needle%20Blight.md#^statblock)
 
 ![Left to Right: Vine Blight...](Compendium/books/monster-manual-2025/img/058-02-016-vine-tree-needle-blights.webp#center "Left to Right: Vine Blight, Tree Blight, and Needle Blight")
 
 > [!embed-monster]- Vine Blight
-> ![Vine Blight](Compendium/bestiary/plant/vine-blight-xmm.md#^statblock)
+> ![Vine Blight](Vine%20Blight.md#^statblock)
 
 > [!embed-monster]- Tree Blight
-> ![Tree Blight](Compendium/bestiary/plant/tree-blight-xmm.md#^statblock)
+> ![Tree Blight](Tree%20Blight.md#^statblock)
 
 ![Gulthias Blight](Compendium/books/monster-manual-2025/img/059-02-017-gulthias-blight.webp#center)
 
 > [!embed-monster]- Gulthias Blight
-> ![Gulthias Blight](Compendium/bestiary/plant/gulthias-blight-xmm.md#^statblock)
+> ![Gulthias Blight](Gulthias%20Blight.md#^statblock)
 
 ### Blink Dog
 
@@ -1150,7 +1150,7 @@ Blink dogs glimmer with a magic that allows them to teleport, "blinking" from on
 ![](Compendium/books/monster-manual-2025/img/060-02-018-blink-dog.webp#center)
 
 > [!embed-monster]- Blink Dog
-> ![Blink Dog](Compendium/bestiary/fey/blink-dog-xmm.md#^statblock)
+> ![Blink Dog](Blink%20Dog.md#^statblock)
 
 ### Blob of Annihilation
 
@@ -1190,7 +1190,7 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 ![](Compendium/books/monster-manual-2025/img/061-02-019-blob-of-annihilation.webp#center)
 
 > [!embed-monster]- Blob of Annihilation
-> ![Blob of Annihilation](Compendium/bestiary/ooze/blob-of-annihilation-xmm.md#^statblock)
+> ![Blob of Annihilation](Blob%20of%20Annihilation.md#^statblock)
 
 ### Blue Dragons
 
@@ -1210,20 +1210,20 @@ Regalia of rulership and artistic masterpieces fill blue dragons' hoards. These 
 ![Blue Dragon Wyrmling](Compendium/books/monster-manual-2025/img/062-02-020-blue-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Blue Dragon Wyrmling
-> ![Blue Dragon Wyrmling](Compendium/bestiary/dragon/blue-dragon-wyrmling-xmm.md#^statblock)
+> ![Blue Dragon Wyrmling](Blue%20Dragon%20Wyrmling.md#^statblock)
 
 > [!embed-monster]- Young Blue Dragon
-> ![Young Blue Dragon](Compendium/bestiary/dragon/young-blue-dragon-xmm.md#^statblock)
+> ![Young Blue Dragon](Young%20Blue%20Dragon.md#^statblock)
 
 ![An adult blue dragon invad...](Compendium/books/monster-manual-2025/img/063-02-021-adult-blue-dragon.webp#center "An adult blue dragon invades the territory of a silver dragon rival")
 
 > [!embed-monster]- Adult Blue Dragon
-> ![Adult Blue Dragon](Compendium/bestiary/dragon/adult-blue-dragon-xmm.md#^statblock)
+> ![Adult Blue Dragon](Adult%20Blue%20Dragon.md#^statblock)
 
 ![Shattering the enemy's def...](Compendium/books/monster-manual-2025/img/064-02-022-ancient-blue-dragon.webp#center "Shattering the enemy's defenses, an ancient blue dragon leads its armies in conquest")
 
 > [!embed-monster]- Ancient Blue Dragon
-> ![Ancient Blue Dragon](Compendium/bestiary/dragon/ancient-blue-dragon-xmm.md#^statblock)
+> ![Ancient Blue Dragon](Ancient%20Blue%20Dragon.md#^statblock)
 
 ### Bone Devil
 
@@ -1273,7 +1273,7 @@ In rare cases, bone nagas continue to pursue the goals they had while alive inst
 ![](Compendium/books/monster-manual-2025/img/066-02-024-bone-naga.webp#center)
 
 > [!embed-monster]- Bone Naga
-> ![Bone Naga](Compendium/bestiary/undead/bone-naga-xmm.md#^statblock)
+> ![Bone Naga](Bone%20Naga.md#^statblock)
 
 ### Brass Dragons
 
@@ -1458,10 +1458,10 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
 ![](Compendium/books/monster-manual-2025/img/078-03-003-centaurs.webp#center)
 
 > [!embed-monster]- Centaur Warden
-> ![Centaur Warden](Compendium/bestiary/fey/centaur-warden-xmm.md#^statblock)
+> ![Centaur Warden](Centaur%20Warden.md#^statblock)
 
 > [!embed-monster]- Centaur Trooper
-> ![Centaur Trooper](Compendium/bestiary/fey/centaur-trooper-xmm.md#^statblock)
+> ![Centaur Trooper](Centaur%20Trooper.md#^statblock)
 
 ### Chain Devil
 
@@ -1517,7 +1517,7 @@ Owing to their draconic instincts, chimeras are greedy creatures that hoard trea
 ![](Compendium/books/monster-manual-2025/img/081-03-006-chimera.webp#center)
 
 > [!embed-monster]- Chimera
-> ![Chimera](Compendium/bestiary/monstrosity/chimera-xmm.md#^statblock)
+> ![Chimera](Chimera.md#^statblock)
 
 ### Chuul
 
@@ -1561,7 +1561,7 @@ These golems obey their creators' orders and protect what their makers value mos
 ![](Compendium/books/monster-manual-2025/img/083-03-008-clay-golem.webp#center)
 
 > [!embed-monster]- Clay Golem
-> ![Clay Golem](Compendium/bestiary/construct/clay-golem-xmm.md#^statblock)
+> ![Clay Golem](Clay%20Golem.md#^statblock)
 
 ### Cloaker
 
@@ -1595,7 +1595,7 @@ Most cloud giants inhabit citadels crowning tremendous mountains or magical pala
 ![](Compendium/books/monster-manual-2025/img/085-03-010-cloud-giants.webp#center)
 
 > [!embed-monster]- Cloud Giant
-> ![Cloud Giant](Compendium/bestiary/giant/cloud-giant-xmm.md#^statblock)
+> ![Cloud Giant](Cloud%20Giant.md#^statblock)
 
 ### Cockatrices
 
@@ -1607,12 +1607,12 @@ Most cloud giants inhabit citadels crowning tremendous mountains or magical pala
 Cockatrices combine the features of irate roosters and starving reptiles. They petrify those they bite, their slightest peck turning their prey to stone.
 
 > [!embed-monster]- Cockatrice
-> ![Cockatrice](Compendium/bestiary/monstrosity/cockatrice-xmm.md#^statblock)
+> ![Cockatrice](Cockatrice.md#^statblock)
 
 ![](Compendium/books/monster-manual-2025/img/086-03-011-cockatrice.webp#center)
 
 > [!embed-monster]- Cockatrice Regent
-> ![Cockatrice Regent](Compendium/bestiary/monstrosity/cockatrice-regent-xmm.md#^statblock)
+> ![Cockatrice Regent](Cockatrice%20Regent.md#^statblock)
 
 ### Colossus
 
@@ -1630,7 +1630,7 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
 ![](Compendium/books/monster-manual-2025/img/087-03-012-colossus.webp#center)
 
 > [!embed-monster]- Colossus
-> ![Colossus](Compendium/bestiary/construct/colossus-xmm.md#^statblock)
+> ![Colossus](Colossus.md#^statblock)
 
 ### Commoner
 
@@ -1722,7 +1722,7 @@ Youngster
 ![Commoners of varied specie...](Compendium/books/monster-manual-2025/img/088-03-013-commoners.webp#center "Commoners of varied species and professions go about their day")
 
 > [!embed-monster]- Commoner
-> ![Commoner](Compendium/bestiary/humanoid/commoner-xmm.md#^statblock)
+> ![Commoner](Commoner.md#^statblock)
 
 ### Copper Dragons
 
@@ -1789,10 +1789,10 @@ Crawling claws are severed hands that move and act of their own murderous accord
 ![](Compendium/books/monster-manual-2025/img/093-03-018-crawling-claws.webp#center)
 
 > [!embed-monster]- Crawling Claw
-> ![Crawling Claw](Compendium/bestiary/undead/crawling-claw-xmm.md#^statblock)
+> ![Crawling Claw](Crawling%20Claw.md#^statblock)
 
 > [!embed-monster]- Swarm of Crawling Claws
-> ![Swarm of Crawling Claws](Compendium/bestiary/undead/swarm-of-crawling-claws-xmm.md#^statblock)
+> ![Swarm of Crawling Claws](Swarm%20of%20Crawling%20Claws.md#^statblock)
 
 ### Cultists
 
@@ -1844,27 +1844,27 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 ![A death cultist and his fo...](Compendium/books/monster-manual-2025/img/094-03-019-death-cultists.webp#center "A death cultist and his followers summon Orcus, Demon Lord of Undeath")
 
 > [!embed-monster]- Cultist
-> ![Cultist](Compendium/bestiary/humanoid/cultist-xmm.md#^statblock)
+> ![Cultist](Cultist.md#^statblock)
 
 > [!embed-monster]- Cultist Fanatic
-> ![Cultist Fanatic](Compendium/bestiary/humanoid/cultist-fanatic-xmm.md#^statblock)
+> ![Cultist Fanatic](Cultist%20Fanatic.md#^statblock)
 
 > [!embed-monster]- Cultist Hierophant
-> ![Cultist Hierophant](Compendium/bestiary/humanoid/cultist-hierophant-xmm.md#^statblock)
+> ![Cultist Hierophant](Cultist%20Hierophant.md#^statblock)
 
 ![An aberrant cultist and an...](Compendium/books/monster-manual-2025/img/095-03-020-elemental-aberrant-cultists.webp#center "An aberrant cultist and an elemental cultist clash, unleashing the magic of their otherworldly patrons")
 
 > [!embed-monster]- Aberrant Cultist
-> ![Aberrant Cultist](Compendium/bestiary/humanoid/aberrant-cultist-xmm.md#^statblock)
+> ![Aberrant Cultist](Aberrant%20Cultist.md#^statblock)
 
 > [!embed-monster]- Death Cultist
-> ![Death Cultist](Compendium/bestiary/humanoid/death-cultist-xmm.md#^statblock)
+> ![Death Cultist](Death%20Cultist.md#^statblock)
 
 > [!embed-monster]- Elemental Cultist
-> ![Elemental Cultist](Compendium/bestiary/humanoid/elemental-cultist-xmm.md#^statblock)
+> ![Elemental Cultist](Elemental%20Cultist.md#^statblock)
 
 > [!embed-monster]- Fiend Cultist
-> ![Fiend Cultist](Compendium/bestiary/humanoid/fiend-cultist-xmm.md#^statblock)
+> ![Fiend Cultist](Fiend%20Cultist.md#^statblock)
 
 ### Cyclopes
 
@@ -1876,10 +1876,10 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vision, cyclopes can witness how future events are likely to occur.
 
 > [!embed-monster]- Cyclops Oracle
-> ![Cyclops Oracle](Compendium/bestiary/giant/cyclops-oracle-xmm.md#^statblock)
+> ![Cyclops Oracle](Cyclops%20Oracle.md#^statblock)
 
 > [!embed-monster]- Cyclops Sentry
-> ![Cyclops Sentry](Compendium/bestiary/giant/cyclops-sentry-xmm.md#^statblock)
+> ![Cyclops Sentry](Cyclops%20Sentry.md#^statblock)
 
 ![](Compendium/books/monster-manual-2025/img/096-03-021-cyclops.webp#center)
 
@@ -1955,7 +1955,7 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 ![](Compendium/books/monster-manual-2025/img/099-04-003-death-dog.webp#center)
 
 > [!embed-monster]- Death Dog
-> ![Death Dog](Compendium/bestiary/monstrosity/death-dog-xmm.md#^statblock)
+> ![Death Dog](Death%20Dog.md#^statblock)
 
 ### Death Knights
 
@@ -2144,7 +2144,7 @@ Many dragon turtles live in secluded lairs or ruins deep underwater, and they mi
 ![](Compendium/books/monster-manual-2025/img/108-04-012-dragon-turtle.webp#center)
 
 > [!embed-monster]- Dragon Turtle
-> ![Dragon Turtle](Compendium/bestiary/dragon/dragon-turtle-xmm.md#^statblock)
+> ![Dragon Turtle](Dragon%20Turtle.md#^statblock)
 
 ### Dretches
 
@@ -2219,7 +2219,7 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
 ![](Compendium/books/monster-manual-2025/img/111-04-015-druid.webp#center)
 
 > [!embed-monster]- Druid
-> ![Druid](Compendium/bestiary/humanoid/druid-xmm.md#^statblock)
+> ![Druid](Compendium/bestiary/humanoid/Druid.md#^statblock)
 
 ### Dryad
 
@@ -2245,7 +2245,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 ![](Compendium/books/monster-manual-2025/img/112-04-016-dryads.webp#center)
 
 > [!embed-monster]- Dryad
-> ![Dryad](Compendium/bestiary/fey/dryad-xmm.md#^statblock)
+> ![Dryad](Dryad.md#^statblock)
 
 ## Monsters (E)
 
@@ -2281,7 +2281,7 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 ![](Compendium/books/monster-manual-2025/img/113-05-001-earth-elemental.webp#center)
 
 > [!embed-monster]- Earth Elemental
-> ![Earth Elemental](Compendium/bestiary/elemental/earth-elemental-xmm.md#^statblock)
+> ![Earth Elemental](Earth%20Elemental.md#^statblock)
 
 ### Efreeti
 
@@ -2365,10 +2365,10 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 ![Celestial and fiendish emp...](Compendium/books/monster-manual-2025/img/117-05-005-empyrean.webp#center "Celestial and fiendish empyreans observe the cosmos attended by sigil-like empyrean iotas")
 
 > [!embed-monster]- Empyrean Iota
-> ![Empyrean Iota](Compendium/bestiary/miscellaneous/empyrean-iota-xmm.md#^statblock)
+> ![Empyrean Iota](Empyrean%20Iota.md#^statblock)
 
 > [!embed-monster]- Empyrean
-> ![Empyrean](Compendium/bestiary/miscellaneous/empyrean-xmm.md#^statblock)
+> ![Empyrean](Empyrean.md#^statblock)
 
 ### Erinyes
 
@@ -2495,7 +2495,7 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 ![](Compendium/books/monster-manual-2025/img/122-06-002-fire-elemental.webp#center)
 
 > [!embed-monster]- Fire Elemental
-> ![Fire Elemental](Compendium/bestiary/elemental/fire-elemental-xmm.md#^statblock)
+> ![Fire Elemental](Fire%20Elemental.md#^statblock)
 
 ### Fire Giant
 
@@ -2513,7 +2513,7 @@ Most fire giants dwell in volcanically active mountains or cavernous depths that
 ![](Compendium/books/monster-manual-2025/img/123-06-003-fire-giants.webp#center)
 
 > [!embed-monster]- Fire Giant
-> ![Fire Giant](Compendium/bestiary/giant/fire-giant-xmm.md#^statblock)
+> ![Fire Giant](Fire%20Giant.md#^statblock)
 
 ### Flameskull
 
@@ -2577,7 +2577,7 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
 ![](Compendium/books/monster-manual-2025/img/125-06-005-flesh-golem.webp#center)
 
 > [!embed-monster]- Flesh Golem
-> ![Flesh Golem](Compendium/bestiary/construct/flesh-golem-xmm.md#^statblock)
+> ![Flesh Golem](Flesh%20Golem.md#^statblock)
 
 ### Flumph
 
@@ -2692,7 +2692,7 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 ![A gas spore and clusters o...](Compendium/books/monster-manual-2025/img/129-06-009-fungi.webp#center "A gas spore and clusters of shriekers and violet fungi grow in the Underdark")
 
 > [!embed-monster]- Shrieker Fungus
-> ![Shrieker Fungus](Compendium/bestiary/plant/shrieker-fungus-xmm.md#^statblock)
+> ![Shrieker Fungus](Shrieker%20Fungus.md#^statblock)
 
 ![Violet Fungus Necrohulk](Compendium/books/monster-manual-2025/img/130-06-010-violet-fungus-necrohulk.webp#center)
 
@@ -2768,7 +2768,7 @@ Gargoyles have a variety of appearances. Roll on or choose a result from the Gar
 ![](Compendium/books/monster-manual-2025/img/132-07-002-gargoyle.webp#center)
 
 > [!embed-monster]- Gargoyle
-> ![Gargoyle](Compendium/bestiary/elemental/gargoyle-xmm.md#^statblock)
+> ![Gargoyle](Gargoyle.md#^statblock)
 
 ### Gelatinous Cube
 
@@ -2794,7 +2794,7 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
 ![Gelatinous Cube](Compendium/books/monster-manual-2025/img/133-07-003-gelatinous-cube.webp#center)
 
 > [!embed-monster]- Gelatinous Cube
-> ![Gelatinous Cube](Compendium/bestiary/ooze/gelatinous-cube-xmm.md#^statblock)
+> ![Gelatinous Cube](Gelatinous%20Cube.md#^statblock)
 
 ### Ghasts
 
@@ -2992,7 +2992,7 @@ Gladiators are professional fighters who pit themselves against one another, mon
 ^gladiator-theatrics
 
 > [!embed-monster]- Gladiator
-> ![Gladiator](Compendium/bestiary/humanoid/gladiator-xmm.md#^statblock)
+> ![Gladiator](Gladiator.md#^statblock)
 
 ![In an undersea arena, the ...](Compendium/books/monster-manual-2025/img/141-07-011-gladiator.webp#center "In an undersea arena, the crowd goes wild as a gladiator triumphs over a giant squid")
 
@@ -3156,10 +3156,10 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
 ![](Compendium/books/monster-manual-2025/img/149-07-019-gray-ooze.webp#center)
 
 > [!embed-monster]- Gray Ooze
-> ![Gray Ooze](Compendium/bestiary/ooze/gray-ooze-xmm.md#^statblock)
+> ![Gray Ooze](Gray%20Ooze.md#^statblock)
 
 > [!embed-monster]- Gray Ooze
-> ![Gray Ooze](Compendium/bestiary/ooze/gray-ooze-xmm.md#^statblock)
+> ![Gray Ooze](Gray%20Ooze.md#^statblock)
 
 ### Green Dragons
 
@@ -3218,7 +3218,7 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
 ^green-hag-bargains
 
 > [!embed-monster]- Green Hag
-> ![Green Hag](Compendium/bestiary/fey/green-hag-xmm.md#^statblock)
+> ![Green Hag](Green%20Hag.md#^statblock)
 
 ### Grell
 
@@ -3303,7 +3303,7 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
 ![](Compendium/books/monster-manual-2025/img/156-07-026-griffon.webp#center)
 
 > [!embed-monster]- Griffon
-> ![Griffon](Compendium/bestiary/monstrosity/griffon-xmm.md#^statblock)
+> ![Griffon](Griffon.md#^statblock)
 
 ### Grimlock
 
@@ -3365,7 +3365,7 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
 ![](Compendium/books/monster-manual-2025/img/158-07-028-guardian-naga.webp#center)
 
 > [!embed-monster]- Guardian Naga
-> ![Guardian Naga](Compendium/bestiary/celestial/guardian-naga-xmm.md#^statblock)
+> ![Guardian Naga](Guardian%20Naga.md#^statblock)
 
 ### Guards
 
@@ -3383,10 +3383,10 @@ Guards protect people, places, and things, either for pay or from a sense of dut
 ![](Compendium/books/monster-manual-2025/img/159-07-029-guards.webp#center)
 
 > [!embed-monster]- Guard
-> ![Guard](Compendium/bestiary/humanoid/guard-xmm.md#^statblock)
+> ![Guard](Compendium/bestiary/humanoid/Guard.md#^statblock)
 
 > [!embed-monster]- Guard Captain
-> ![Guard Captain](Compendium/bestiary/humanoid/guard-captain-xmm.md#^statblock)
+> ![Guard Captain](Guard%20Captain.md#^statblock)
 
 ## Monsters (H)
 
@@ -3426,7 +3426,7 @@ Every harpy sings a distinct song. While some songs are said to be heartbreaking
 ![](Compendium/books/monster-manual-2025/img/161-08-002-group-of-harpies.webp#center)
 
 > [!embed-monster]- Harpy
-> ![Harpy](Compendium/bestiary/monstrosity/harpy-xmm.md#^statblock)
+> ![Harpy](Harpy.md#^statblock)
 
 ### Hell Hound
 
@@ -3442,7 +3442,7 @@ Hell hounds have greater cunning than normal canines. They're skilled trackers a
 ![](Compendium/books/monster-manual-2025/img/162-08-003-hell-hound.webp#center)
 
 > [!embed-monster]- Hell Hound
-> ![Hell Hound](Compendium/bestiary/fiend/hell-hound-xmm.md#^statblock)
+> ![Hell Hound](Hell%20Hound.md#^statblock)
 
 ### Helmed Horror
 
@@ -3470,7 +3470,7 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
 ![A helmed horror proves imm...](Compendium/books/monster-manual-2025/img/163-08-004-helmed-horror.webp#center "A helmed horror proves immune to a mage's Lightning Bolt spell")
 
 > [!embed-monster]- Helmed Horror
-> ![Helmed Horror](Compendium/bestiary/construct/helmed-horror-xmm.md#^statblock)
+> ![Helmed Horror](Helmed%20Horror.md#^statblock)
 
 ### Hezrou
 
@@ -3546,7 +3546,7 @@ Hippogriff migrations might take months or years, and sages frequently predict t
 ![](Compendium/books/monster-manual-2025/img/166-08-007-hippogriff.webp#center)
 
 > [!embed-monster]- Hippogriff
-> ![Hippogriff](Compendium/bestiary/monstrosity/hippogriff-xmm.md#^statblock)
+> ![Hippogriff](Hippogriff.md#^statblock)
 
 ### Hobgoblins
 
@@ -3614,7 +3614,7 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
 ^homunculus-features
 
 > [!embed-monster]- Homunculus
-> ![Homunculus](Compendium/bestiary/construct/homunculus-xmm.md#^statblock)
+> ![Homunculus](Homunculus.md#^statblock)
 
 ### Hook Horror
 
@@ -3672,7 +3672,7 @@ While many hydras claim their own territories, wicked deities might use them to 
 ![](Compendium/books/monster-manual-2025/img/171-08-012-hydra.webp#center)
 
 > [!embed-monster]- Hydra
-> ![Hydra](Compendium/bestiary/monstrosity/hydra-xmm.md#^statblock)
+> ![Hydra](Hydra.md#^statblock)
 
 ## Monsters (I)
 
@@ -3800,7 +3800,7 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
 ![](Compendium/books/monster-manual-2025/img/176-09-005-invisible-stalker.webp#center)
 
 > [!embed-monster]- Invisible Stalker
-> ![Invisible Stalker](Compendium/bestiary/elemental/invisible-stalker-xmm.md#^statblock)
+> ![Invisible Stalker](Invisible%20Stalker.md#^statblock)
 
 ### Iron Golem
 
@@ -3826,7 +3826,7 @@ Iron golems preserve and protect their charges for generations. Roll on or choos
 ![Iron Golem](Compendium/books/monster-manual-2025/img/177-09-006-iron-golem.webp#center)
 
 > [!embed-monster]- Iron Golem
-> ![Iron Golem](Compendium/bestiary/construct/iron-golem-xmm.md#^statblock)
+> ![Iron Golem](Iron%20Golem.md#^statblock)
 
 ## Monsters (J)
 
@@ -3870,10 +3870,10 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
 ![](Compendium/books/monster-manual-2025/img/180-11-002-knights.webp#center)
 
 > [!embed-monster]- Knight
-> ![Knight](Compendium/bestiary/humanoid/knight-xmm.md#^statblock)
+> ![Knight](Knight.md#^statblock)
 
 > [!embed-monster]- Questing Knight
-> ![Questing Knight](Compendium/bestiary/humanoid/questing-knight-xmm.md#^statblock)
+> ![Questing Knight](Questing%20Knight.md#^statblock)
 
 ### Kobolds
 
@@ -3930,7 +3930,7 @@ Krakens rarely appear on the surface, but when they do, they herald times of cha
 ![](Compendium/books/monster-manual-2025/img/182-11-004-kraken.webp#center)
 
 > [!embed-monster]- Kraken
-> ![Kraken](Compendium/bestiary/monstrosity/kraken-xmm.md#^statblock)
+> ![Kraken](Kraken.md#^statblock)
 
 ### Kuo-toa
 
@@ -4035,7 +4035,7 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
 ![](Compendium/books/monster-manual-2025/img/186-12-001-lamia.webp#center)
 
 > [!embed-monster]- Lamia
-> ![Lamia](Compendium/bestiary/fiend/lamia-xmm.md#^statblock)
+> ![Lamia](Lamia.md#^statblock)
 
 ### Larvae
 
@@ -4170,13 +4170,13 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 ![](Compendium/books/monster-manual-2025/img/191-13-001-mages.webp#center)
 
 > [!embed-monster]- Mage Apprentice
-> ![Mage Apprentice](Compendium/bestiary/humanoid/mage-apprentice-xmm.md#^statblock)
+> ![Mage Apprentice](Mage%20Apprentice.md#^statblock)
 
 > [!embed-monster]- Mage
-> ![Mage](Compendium/bestiary/humanoid/mage-xmm.md#^statblock)
+> ![Mage](Mage.md#^statblock)
 
 > [!embed-monster]- Archmage
-> ![Archmage](Compendium/bestiary/humanoid/archmage-xmm.md#^statblock)
+> ![Archmage](Archmage.md#^statblock)
 
 ### Magmin
 
@@ -4243,7 +4243,7 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
 ![](Compendium/books/monster-manual-2025/img/194-13-004-manticore.webp#center)
 
 > [!embed-monster]- Manticore
-> ![Manticore](Compendium/bestiary/monstrosity/manticore-xmm.md#^statblock)
+> ![Manticore](Manticore.md#^statblock)
 
 ### Marid
 
@@ -4301,7 +4301,7 @@ Medusas are born or created through preternatural circumstances. Roll on or choo
 ![](Compendium/books/monster-manual-2025/img/197-13-007-medusa.webp#center)
 
 > [!embed-monster]- Medusa
-> ![Medusa](Compendium/bestiary/monstrosity/medusa-xmm.md#^statblock)
+> ![Medusa](Medusa%20XMM.md#^statblock)
 
 ### Mephits
 
@@ -4321,24 +4321,24 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 ![](Compendium/books/monster-manual-2025/img/198-13-008-mephits.webp#center)
 
 > [!embed-monster]- Dust Mephit
-> ![Dust Mephit](Compendium/bestiary/elemental/dust-mephit-xmm.md#^statblock)
+> ![Dust Mephit](Dust%20Mephit.md#^statblock)
 
 > [!embed-monster]- Ice Mephit
-> ![Ice Mephit](Compendium/bestiary/elemental/ice-mephit-xmm.md#^statblock)
+> ![Ice Mephit](Ice%20Mephit.md#^statblock)
 
 > [!embed-monster]- Magma Mephit
-> ![Magma Mephit](Compendium/bestiary/elemental/magma-mephit-xmm.md#^statblock)
+> ![Magma Mephit](Magma%20Mephit.md#^statblock)
 
 > [!embed-monster]- Mud Mephit
-> ![Mud Mephit](Compendium/bestiary/elemental/mud-mephit-xmm.md#^statblock)
+> ![Mud Mephit](Mud%20Mephit.md#^statblock)
 
 ![](Compendium/books/monster-manual-2025/img/199-13-009-mephit-pair.webp#center)
 
 > [!embed-monster]- Smoke Mephit
-> ![Smoke Mephit](Compendium/bestiary/elemental/smoke-mephit-xmm.md#^statblock)
+> ![Smoke Mephit](Smoke%20Mephit.md#^statblock)
 
 > [!embed-monster]- Steam Mephit
-> ![Steam Mephit](Compendium/bestiary/elemental/steam-mephit-xmm.md#^statblock)
+> ![Steam Mephit](Steam%20Mephit.md#^statblock)
 
 ### Merfolk
 
@@ -4491,7 +4491,7 @@ Weapon rack
 ![](Compendium/books/monster-manual-2025/img/203-13-013-mimic.webp#center)
 
 > [!embed-monster]- Mimic
-> ![Mimic](Compendium/bestiary/monstrosity/mimic-xmm.md#^statblock)
+> ![Mimic](Mimic.md#^statblock)
 
 ### Mind Flayers
 
@@ -4550,7 +4550,7 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
 ![](Compendium/books/monster-manual-2025/img/205-13-015-minotaur.webp#center)
 
 > [!embed-monster]- Minotaur of Baphomet
-> ![Minotaur of Baphomet](Compendium/bestiary/monstrosity/minotaur-of-baphomet-xmm.md#^statblock)
+> ![Minotaur of Baphomet](Minotaur%20of%20Baphomet.md#^statblock)
 
 ### Modrons
 
@@ -4694,7 +4694,7 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
 ![Night Hag](Compendium/books/monster-manual-2025/img/215-14-002-night-hags.webp#center)
 
 > [!embed-monster]- Night Hag
-> ![Night Hag](Compendium/bestiary/fiend/night-hag-xmm.md#^statblock)
+> ![Night Hag](Night%20Hag.md#^statblock)
 
 ### Nightmare
 
@@ -4722,7 +4722,7 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 ![](Compendium/books/monster-manual-2025/img/216-14-003-nightmares.webp#center)
 
 > [!embed-monster]- Nightmare
-> ![Nightmare](Compendium/bestiary/fiend/nightmare-xmm.md#^statblock)
+> ![Nightmare](Nightmare.md#^statblock)
 
 ### Nobles
 
@@ -4736,10 +4736,10 @@ Nobles encompass a variety of people with social influence. They might be rulers
 ![](Compendium/books/monster-manual-2025/img/217-14-004-nobles.webp#center)
 
 > [!embed-monster]- Noble
-> ![Noble](Compendium/bestiary/humanoid/noble-xmm.md#^statblock)
+> ![Noble](Compendium/bestiary/humanoid/Noble.md#^statblock)
 
 > [!embed-monster]- Noble Prodigy
-> ![Noble Prodigy](Compendium/bestiary/humanoid/noble-prodigy-xmm.md#^statblock)
+> ![Noble Prodigy](Noble%20Prodigy.md#^statblock)
 
 ### Nothic
 
@@ -4759,7 +4759,7 @@ Some nothics seek to end the curse that warped them into their bizarre forms, bu
 ![](Compendium/books/monster-manual-2025/img/218-14-005-nothic.webp#center)
 
 > [!embed-monster]- Nothic
-> ![Nothic](Compendium/bestiary/aberration/nothic-xmm.md#^statblock)
+> ![Nothic](Nothic.md#^statblock)
 
 ### Nycaloth
 
@@ -4819,7 +4819,7 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
 ![](Compendium/books/monster-manual-2025/img/220-15-001-ochre-jelly.webp#center)
 
 > [!embed-monster]- Ochre Jelly
-> ![Ochre Jelly](Compendium/bestiary/ooze/ochre-jelly-xmm.md#^statblock)
+> ![Ochre Jelly](Ochre%20Jelly.md#^statblock)
 
 ### Ogres
 
@@ -4951,7 +4951,7 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
 ![](Compendium/books/monster-manual-2025/img/225-16-001-pegasus.webp#center)
 
 > [!embed-monster]- Pegasus
-> ![Pegasus](Compendium/bestiary/celestial/pegasus-xmm.md#^statblock)
+> ![Pegasus](Pegasus.md#^statblock)
 
 ### Performers
 
@@ -5031,13 +5031,13 @@ Wrestler
 ![](Compendium/books/monster-manual-2025/img/226-16-002-performers.webp#center)
 
 > [!embed-monster]- Performer
-> ![Performer](Compendium/bestiary/humanoid/performer-xmm.md#^statblock)
+> ![Performer](Performer.md#^statblock)
 
 > [!embed-monster]- Performer Maestro
-> ![Performer Maestro](Compendium/bestiary/humanoid/performer-maestro-xmm.md#^statblock)
+> ![Performer Maestro](Performer%20Maestro.md#^statblock)
 
 > [!embed-monster]- Performer Legend
-> ![Performer Legend](Compendium/bestiary/humanoid/performer-legend-xmm.md#^statblock)
+> ![Performer Legend](Performer%20Legend.md#^statblock)
 
 ### Peryton
 
@@ -5083,7 +5083,7 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
 ![](Compendium/books/monster-manual-2025/img/228-16-004-phase-spider.webp#center)
 
 > [!embed-monster]- Phase Spider
-> ![Phase Spider](Compendium/bestiary/monstrosity/phase-spider-xmm.md#^statblock)
+> ![Phase Spider](Phase%20Spider.md#^statblock)
 
 ### Piercer
 
@@ -5135,13 +5135,13 @@ Pirates might be allies, foes, wild cards, or some combination thereof. While th
 ![](Compendium/books/monster-manual-2025/img/230-16-006-pirates.webp#center)
 
 > [!embed-monster]- Pirate
-> ![Pirate](Compendium/bestiary/humanoid/pirate-xmm.md#^statblock)
+> ![Pirate](Pirate.md#^statblock)
 
 > [!embed-monster]- Pirate Captain
-> ![Pirate Captain](Compendium/bestiary/humanoid/pirate-captain-xmm.md#^statblock)
+> ![Pirate Captain](Pirate%20Captain.md#^statblock)
 
 > [!embed-monster]- Pirate Admiral
-> ![Pirate Admiral](Compendium/bestiary/humanoid/pirate-admiral-xmm.md#^statblock)
+> ![Pirate Admiral](Pirate%20Admiral.md#^statblock)
 
 ### Pit Fiend
 
@@ -5270,13 +5270,13 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 ![](Compendium/books/monster-manual-2025/img/235-16-011-priests.webp#center)
 
 > [!embed-monster]- Priest Acolyte
-> ![Priest Acolyte](Compendium/bestiary/humanoid/priest-acolyte-xmm.md#^statblock)
+> ![Priest Acolyte](Priest%20Acolyte.md#^statblock)
 
 > [!embed-monster]- Priest
-> ![Priest](Compendium/bestiary/humanoid/priest-xmm.md#^statblock)
+> ![Priest](Priest.md#^statblock)
 
 > [!embed-monster]- Archpriest
-> ![Archpriest](Compendium/bestiary/humanoid/archpriest-xmm.md#^statblock)
+> ![Archpriest](Archpriest.md#^statblock)
 
 ### Pseudodragon
 
@@ -5316,7 +5316,7 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
 ![](Compendium/books/monster-manual-2025/img/236-16-012-pseudodragon.webp#center)
 
 > [!embed-monster]- Pseudodragon
-> ![Pseudodragon](Compendium/bestiary/dragon/pseudodragon-xmm.md#^statblock)
+> ![Pseudodragon](Pseudodragon.md#^statblock)
 
 ### Purple Worm
 
@@ -5415,20 +5415,20 @@ Red dragons believe themselves to be the greatest of all dragons and, by extensi
 ![Red Dragon Wyrmling](Compendium/books/monster-manual-2025/img/241-18-002-red-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Red Dragon Wyrmling
-> ![Red Dragon Wyrmling](Compendium/bestiary/dragon/red-dragon-wyrmling-xmm.md#^statblock)
+> ![Red Dragon Wyrmling](Red%20Dragon%20Wyrmling.md#^statblock)
 
 > [!embed-monster]- Young Red Dragon
-> ![Young Red Dragon](Compendium/bestiary/dragon/young-red-dragon-xmm.md#^statblock)
+> ![Young Red Dragon](Young%20Red%20Dragon.md#^statblock)
 
 ![An adult red dragon unleas...](Compendium/books/monster-manual-2025/img/242-18-003-adult-red-dragon.webp#center "An adult red dragon unleashes its fury, reducing a city to ruin")
 
 > [!embed-monster]- Adult Red Dragon
-> ![Adult Red Dragon](Compendium/bestiary/dragon/adult-red-dragon-xmm.md#^statblock)
+> ![Adult Red Dragon](Adult%20Red%20Dragon.md#^statblock)
 
 ![Even the bravest souls fle...](Compendium/books/monster-manual-2025/img/243-18-004-ancient-red-dragon.webp#center "Even the bravest souls flee the onslaught of an ancient red dragon")
 
 > [!embed-monster]- Ancient Red Dragon
-> ![Ancient Red Dragon](Compendium/bestiary/dragon/ancient-red-dragon-xmm.md#^statblock)
+> ![Ancient Red Dragon](Ancient%20Red%20Dragon.md#^statblock)
 
 ### Remorhazes
 
@@ -5459,7 +5459,7 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
 ![Revenant Followed by a Graveyard Revenant](Compendium/books/monster-manual-2025/img/245-18-006-group-of-revenants.webp#center)
 
 > [!embed-monster]- Revenant
-> ![Revenant](Compendium/bestiary/undead/revenant-xmm.md#^statblock)
+> ![Revenant](Revenant.md#^statblock)
 
 > [!embed-monster]- Graveyard Revenant
 > ![Graveyard Revenant](Compendium/bestiary/undead/graveyard-revenant-xmm.md#^statblock)
@@ -5495,7 +5495,7 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
 ![](Compendium/books/monster-manual-2025/img/247-18-008-roc.webp#center)
 
 > [!embed-monster]- Roc
-> ![Roc](Compendium/bestiary/monstrosity/roc-xmm.md#^statblock)
+> ![Roc](Roc.md#^statblock)
 
 ### Roper
 
@@ -5611,10 +5611,10 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
 ![](Compendium/books/monster-manual-2025/img/252-19-003-satyrs.webp#center)
 
 > [!embed-monster]- Satyr
-> ![Satyr](Compendium/bestiary/fey/satyr-xmm.md#^statblock)
+> ![Satyr](Satyr.md#^statblock)
 
 > [!embed-monster]- Satyr Revelmaster
-> ![Satyr Revelmaster](Compendium/bestiary/fey/satyr-revelmaster-xmm.md#^statblock)
+> ![Satyr Revelmaster](Satyr%20Revelmaster.md#^statblock)
 
 ### Scarecrow
 
@@ -5644,7 +5644,7 @@ Although scarecrows take their name from rural effigies, they might take varied 
 ![](Compendium/books/monster-manual-2025/img/253-19-004-scarecrow.webp#center)
 
 > [!embed-monster]- Scarecrow
-> ![Scarecrow](Compendium/bestiary/construct/scarecrow-xmm.md#^statblock)
+> ![Scarecrow](Scarecrow.md#^statblock)
 
 ### Scouts
 
@@ -5658,10 +5658,10 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
 ![](Compendium/books/monster-manual-2025/img/254-19-005-scouts.webp#center)
 
 > [!embed-monster]- Scout
-> ![Scout](Compendium/bestiary/humanoid/scout-xmm.md#^statblock)
+> ![Scout](Scout.md#^statblock)
 
 > [!embed-monster]- Scout Captain
-> ![Scout Captain](Compendium/bestiary/humanoid/scout-captain-xmm.md#^statblock)
+> ![Scout Captain](Scout%20Captain.md#^statblock)
 
 ### Sea Hag
 
@@ -5689,7 +5689,7 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
 ![](Compendium/books/monster-manual-2025/img/255-19-006-sea-hag.webp#center)
 
 > [!embed-monster]- Sea Hag
-> ![Sea Hag](Compendium/bestiary/fey/sea-hag-xmm.md#^statblock)
+> ![Sea Hag](Sea%20Hag.md#^statblock)
 
 ### Shadow
 
@@ -5719,7 +5719,7 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
 ![](Compendium/books/monster-manual-2025/img/256-19-007-shadow.webp#center)
 
 > [!embed-monster]- Shadow
-> ![Shadow](Compendium/bestiary/undead/shadow-xmm.md#^statblock)
+> ![Shadow](Shadow.md#^statblock)
 
 ### Shadow Demon
 
@@ -5743,7 +5743,7 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
 ![](Compendium/books/monster-manual-2025/img/257-19-008-shadow-demon.webp#center)
 
 > [!embed-monster]- Shadow Demon
-> ![Shadow Demon](Compendium/bestiary/fiend/shadow-demon-xmm.md#^statblock)
+> ![Shadow Demon](Shadow%20Demon.md#^statblock)
 
 ### Shadow Dragons
 
@@ -5798,7 +5798,7 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
 ![](Compendium/books/monster-manual-2025/img/259-19-010-shambling-mound.webp#center)
 
 > [!embed-monster]- Shambling Mound
-> ![Shambling Mound](Compendium/bestiary/plant/shambling-mound-xmm.md#^statblock)
+> ![Shambling Mound](Shambling%20Mound.md#^statblock)
 
 ### Shield Guardian
 
@@ -5814,7 +5814,7 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
 ![](Compendium/books/monster-manual-2025/img/260-19-011-shield-guardian.webp#center)
 
 > [!embed-monster]- Shield Guardian
-> ![Shield Guardian](Compendium/bestiary/construct/shield-guardian-xmm.md#^statblock)
+> ![Shield Guardian](Shield%20Guardian.md#^statblock)
 
 ### Silver Dragons
 
@@ -5990,7 +5990,7 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
 ![Specters are loath to atta...](Compendium/books/monster-manual-2025/img/269-19-020-specter.webp#center "Specters are loath to attack a cleric surrounded by divine light")
 
 > [!embed-monster]- Specter
-> ![Specter](Compendium/bestiary/undead/specter-xmm.md#^statblock)
+> ![Specter](Specter.md#^statblock)
 
 ### Sphinxes
 
@@ -6019,22 +6019,22 @@ Sphinxes protect the secrets of the multiverse. Formed from the spirits of sages
 ![](Compendium/books/monster-manual-2025/img/270-19-021-sphinx-of-wonder.webp#center)
 
 > [!embed-monster]- Sphinx of Wonder
-> ![Sphinx of Wonder](Compendium/bestiary/celestial/sphinx-of-wonder-xmm.md#^statblock)
+> ![Sphinx of Wonder](Sphinx%20of%20Wonder.md#^statblock)
 
 ![](Compendium/books/monster-manual-2025/img/271-19-022-sphinx-of-secrets.webp#center)
 
 > [!embed-monster]- Sphinx of Secrets
-> ![Sphinx of Secrets](Compendium/bestiary/celestial/sphinx-of-secrets-xmm.md#^statblock)
+> ![Sphinx of Secrets](Sphinx%20of%20Secrets.md#^statblock)
 
 ![](Compendium/books/monster-manual-2025/img/272-19-023-sphinx-of-lore.webp#center)
 
 > [!embed-monster]- Sphinx of Lore
-> ![Sphinx of Lore](Compendium/bestiary/celestial/sphinx-of-lore-xmm.md#^statblock)
+> ![Sphinx of Lore](Sphinx%20of%20Lore.md#^statblock)
 
 ![Sphinx of Valor](Compendium/books/monster-manual-2025/img/273-19-024-sphinx-of-valor.webp#center)
 
 > [!embed-monster]- Sphinx of Valor
-> ![Sphinx of Valor](Compendium/bestiary/celestial/sphinx-of-valor-xmm.md#^statblock)
+> ![Sphinx of Valor](Sphinx%20of%20Valor.md#^statblock)
 
 ### Spies
 
@@ -6058,10 +6058,10 @@ Spies gather information and disseminate lies, manipulating people to gain the r
 ![](Compendium/books/monster-manual-2025/img/274-19-025-spies.webp#center)
 
 > [!embed-monster]- Spy
-> ![Spy](Compendium/bestiary/humanoid/spy-xmm.md#^statblock)
+> ![Spy](Spy.md#^statblock)
 
 > [!embed-monster]- Spy Master
-> ![Spy Master](Compendium/bestiary/humanoid/spy-master-xmm.md#^statblock)
+> ![Spy Master](Spy%20Master.md#^statblock)
 
 ### Spined Devil
 
@@ -6115,7 +6115,7 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 ![](Compendium/books/monster-manual-2025/img/276-19-027-spirit-naga.webp#center)
 
 > [!embed-monster]- Spirit Naga
-> ![Spirit Naga](Compendium/bestiary/fiend/spirit-naga-xmm.md#^statblock)
+> ![Spirit Naga](Spirit%20Naga.md#^statblock)
 
 ### Sprite
 
@@ -6182,7 +6182,7 @@ Stone giants often ponder the mysteries of natural wonders, such as mountain spi
 ![](Compendium/books/monster-manual-2025/img/279-19-030-stone-giants.webp#center)
 
 > [!embed-monster]- Stone Giant
-> ![Stone Giant](Compendium/bestiary/giant/stone-giant-xmm.md#^statblock)
+> ![Stone Giant](Stone%20Giant.md#^statblock)
 
 ### Stone Golem
 
@@ -6214,7 +6214,7 @@ Stone golems are typically created to protect places of significance to a group,
 ![](Compendium/books/monster-manual-2025/img/280-19-031-stone-golem.webp#center)
 
 > [!embed-monster]- Stone Golem
-> ![Stone Golem](Compendium/bestiary/construct/stone-golem-xmm.md#^statblock)
+> ![Stone Golem](Stone%20Golem.md#^statblock)
 
 ### Storm Giant
 
@@ -6228,7 +6228,7 @@ Among the tallest giants, storm giants live amid extreme forces of nature. In pa
 ![](Compendium/books/monster-manual-2025/img/281-19-032-storm-giant.webp#center)
 
 > [!embed-monster]- Storm Giant
-> ![Storm Giant](Compendium/bestiary/giant/storm-giant-xmm.md#^statblock)
+> ![Storm Giant](Storm%20Giant.md#^statblock)
 
 ### Succubus
 
@@ -6327,12 +6327,12 @@ Bodyguards, belligerents, and laborers, toughs rely on their physical strength t
 > There are two answers to every question: ours, and the wrong one.
 
 > [!embed-monster]- Tough
-> ![Tough](Compendium/bestiary/humanoid/tough-xmm.md#^statblock)
+> ![Tough](Compendium/bestiary/humanoid/Tough.md#^statblock)
 
 ![](Compendium/books/monster-manual-2025/img/285-20-003-toughs.webp#center)
 
 > [!embed-monster]- Tough Boss
-> ![Tough Boss](Compendium/bestiary/humanoid/tough-boss-xmm.md#^statblock)
+> ![Tough Boss](Tough%20Boss.md#^statblock)
 
 ### Treant
 
@@ -6360,7 +6360,7 @@ Treants defend and are shaped by secrets of the forest. Roll on or choose a resu
 ![A treant evicts adventurer...](Compendium/books/monster-manual-2025/img/286-20-004-treant.webp#center "A treant evicts adventurers from a city it has reclaimed for nature")
 
 > [!embed-monster]- Treant
-> ![Treant](Compendium/bestiary/plant/treant-xmm.md#^statblock)
+> ![Treant](Treant.md#^statblock)
 
 ### Troglodyte
 
@@ -6461,7 +6461,7 @@ Unicorns are majestic defenders of forests. They are revered by many Fey and oth
 ![](Compendium/books/monster-manual-2025/img/291-21-003-unicorn.webp#center)
 
 > [!embed-monster]- Unicorn
-> ![Unicorn](Compendium/bestiary/celestial/unicorn-xmm.md#^statblock)
+> ![Unicorn](Unicorn.md#^statblock)
 
 ## Monsters (V)
 
@@ -6567,13 +6567,13 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 ![An aasimar commander leads...](Compendium/books/monster-manual-2025/img/297-23-001-warriors.webp#center "An aasimar commander leads warriors charging into battle")
 
 > [!embed-monster]- Warrior Infantry
-> ![Warrior Infantry](Compendium/bestiary/humanoid/warrior-infantry-xmm.md#^statblock)
+> ![Warrior Infantry](Warrior%20Infantry.md#^statblock)
 
 > [!embed-monster]- Warrior Veteran
-> ![Warrior Veteran](Compendium/bestiary/humanoid/warrior-veteran-xmm.md#^statblock)
+> ![Warrior Veteran](Warrior%20Veteran.md#^statblock)
 
 > [!embed-monster]- Warrior Commander
-> ![Warrior Commander](Compendium/bestiary/humanoid/warrior-commander-xmm.md#^statblock)
+> ![Warrior Commander](Warrior%20Commander.md#^statblock)
 
 ### Water Elemental
 
@@ -6603,7 +6603,7 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 ![Water Elemental](Compendium/books/monster-manual-2025/img/298-23-002-water-elemental.webp#center)
 
 > [!embed-monster]- Water Elemental
-> ![Water Elemental](Compendium/bestiary/elemental/water-elemental-xmm.md#^statblock)
+> ![Water Elemental](Water%20Elemental.md#^statblock)
 
 ### Water Weird
 
@@ -6867,7 +6867,7 @@ Wraiths might arise from a single powerfully evil soul or other baleful forces. 
 ![](Compendium/books/monster-manual-2025/img/310-23-014-wraith.webp#center)
 
 > [!embed-monster]- Wraith
-> ![Wraith](Compendium/bestiary/undead/wraith-xmm.md#^statblock)
+> ![Wraith](Wraith.md#^statblock)
 
 ### Wyvern
 
@@ -6885,7 +6885,7 @@ Once wyverns overpower a quarry, they carry it to their cavernous lairs to eithe
 ![](Compendium/books/monster-manual-2025/img/311-23-015-wyvern.webp#center)
 
 > [!embed-monster]- Wyvern
-> ![Wyvern](Compendium/bestiary/dragon/wyvern-xmm.md#^statblock)
+> ![Wyvern](Wyvern.md#^statblock)
 
 ## Monsters (X)
 

@@ -9,7 +9,7 @@ aliases:
 - Banneret
 ---
 # Phalanx Captain
-* [[fighter-xphb]]: Fighter Subclass*  
+*[Fighter](Fighter.md)ubclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression

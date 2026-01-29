@@ -20,6 +20,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Ebony Fly (Rare)
 
-This ebony statuette, carved in the likeness of a horsefly, can become a [[giant-fly-xdmg]] for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.
+This ebony statuette, carved in the likeness of a horsefly, can become a [[Giant Fly]] for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.
 
 *Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

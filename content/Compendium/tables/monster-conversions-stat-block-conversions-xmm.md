@@ -15,62 +15,62 @@ aliases:
 | 2014 Stat Block | 2025 Equivalent |
 |-----------------|-----------------|
 | [[aarakocra-skirmisher-xmm]] ]] |
-| [[priest-acolyte-xmm]] ]] |
+| [[Priest Acolyte]] ]] |
 | [[dracolich-xmm]] ]] |
-| [[sphinx-of-valor-xmm]] ]] |
+| [[Sphinx of Valor]] ]] |
 | [[azer-sentinel-xmm]] ]] |
 | [[bugbear-warrior-xmm]] ]] |
 | [[bullywug-warrior-xmm]] ]] |
-| [[centaur-trooper-xmm]] ]] |
-| [[cultist-fanatic-xmm]] ]] |
-| [[cyclops-sentry-xmm]] ]] |
-| Deep Gnome | [[scout-xmm]] |
-| [[priest-acolyte-xmm]] ]] |
-| [[gladiator-xmm]] ]] |
-| [[bandit-deceiver-xmm]] ]] |
-| [[fiend-cultist-xmm]] ]] |
-| [[spy-xmm]] ]] |
+| [[Centaur Trooper]] ]] |
+| [[Cultist Fanatic]] ]] |
+| [[Cyclops Sentry]] ]] |
+| Deep Gnome | [[Scout]] |
+| [[Priest Acolyte]] ]] |
+| [[Gladiator]] ]] |
+| [[Bandit Deceiver]] ]] |
+| [[Fiend Cultist]] ]] |
+| [[Spy]] ]] |
 | [[modron-duodrone-xmm]] ]] |
 | [[faerie-dragon-adult-xmm]] ]] |
 | [[faerie-dragon-youth-xmm]] ]] |
 | [[salamander-fire-snake-xmm]] ]] |
-| [[animated-flying-sword-xmm]] ]] |
+| [[Animated Flying Sword]] ]] |
 | [[gas-spore-fungus-xmm]] ]] |
-| [[giant-venomous-snake-xmm]] ]] |
+| [[Giant Venomous Snake]] ]] |
 | [[gnoll-warrior-xmm]] ]] |
 | [[goblin-warrior-xmm]] ]] |
 | [[grick-ancient-xmm]] ]] |
-| [[sphinx-of-lore-xmm]] ]] |
+| [[Sphinx of Lore]] ]] |
 | [[ogrillon-ogre-xmm]] ]] |
 | [[half-dragon-xmm]] ]] |
 | [[hobgoblin-warrior-xmm]] ]] |
 | [[kobold-warrior-xmm]] ]] |
-| [[scout-xmm]] ]] |
+| [[Scout]] ]] |
 | [[lizardfolk-geomancer-xmm]] ]] |
 | [[lizardfolk-sovereign-xmm]]/[[lizardfolk-sovereign-xmm]] ]] |
 | [[merfolk-skirmisher-xmm]] ]] |
-| [[minotaur-of-baphomet-xmm]] ]] |
+| [[Minotaur of Baphomet]] ]] |
 | [[modron-monodrone-xmm]] ]] |
-| [[tough-xmm]] ]] |
-| [[cultist-fanatic-xmm]] ]] |
-| [[tough-boss-xmm]] ]] |
-| [[berserker-xmm]] ]] |
+| [[Compendium/bestiary/humanoid/Tough]] ]] |
+| [[Cultist Fanatic]] ]] |
+| [[Tough Boss]] ]] |
+| [[Berserker]] ]] |
 | [[modron-pentadrone-xmm]] ]] |
-| [[venomous-snake-xmm]] ]] |
+| [[Venomous Snake]] ]] |
 | [[modron-quadrone-xmm]] ]] |
 | [[myconid-spore-servant-xmm]] ]] |
-| [[piranha-xmm]] ]] |
-| [[animated-rug-of-smothering-xmm]] ]] |
+| [[Piranha]] ]] |
+| [[Animated Rug of Smothering]] ]] |
 | [[sahuagin-warrior-xmm]] ]] |
 | [[sahuagin-priest-xmm]] ]] |
-| [[shrieker-fungus-xmm]] ]] |
-| [[swarm-of-venomous-snakes-xmm]] ]] |
-| [[swarm-of-piranhas-xmm]] ]] |
+| [[Shrieker Fungus]] ]] |
+| [[Swarm of Venomous Snakes]] ]] |
+| [[Swarm of Piranhas]] ]] |
 | [[thri-kreen-marauder-xmm]] ]] |
-| [[tough-xmm]] ]] |
-| [[warrior-infantry-xmm]] ]] |
+| [[Compendium/bestiary/humanoid/Tough]] ]] |
+| [[Warrior Infantry]] ]] |
 | [[modron-tridrone-xmm]] ]] |
-| [[warrior-veteran-xmm]] ]] |
+| [[Warrior Veteran]] ]] |
 | [[shadow-dragon-xmm]] ]] |
 | [[yuan-ti-infiltrator-xmm]] ]] |
 ^stat-block-conversions

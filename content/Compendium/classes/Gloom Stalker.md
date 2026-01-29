@@ -9,7 +9,7 @@ aliases:
 - Gloom Stalker
 ---
 # Gloom Stalker
-* [[ranger-xphb]]: Ranger Subclass*  
+* [[Ranger]]: Ranger Subclass*  
 *Source: Player's Handbook (2024) p. 125*  
 
 > [!tldr] Class and Feature Progression

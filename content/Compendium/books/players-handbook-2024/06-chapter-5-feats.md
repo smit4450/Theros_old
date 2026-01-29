@@ -59,7 +59,7 @@ These feats are in the Origin category.
 -  [[Savage Attacker]]  
 -  [[Skilled]]  
 -  [[Tavern Brawler]]  
--  [[Tough]]  
+-  [[Compendium/feats/Tough]]  
 
 ## General Feats
 
@@ -69,8 +69,7 @@ These feats are in the General category.
 -  [[Actor]]  
 -  [[Athlete]]  
 -  [[Charger]]  
--  [[Chef]]  
--  [[Crossbow Expert]]  
+-  [[Chef]][[Compendium/feats/Athlete]]ssbow Expert]]  
 -  [[Crusher]]  
 -  [[Defensive Duelist]]  
 -  [[Dual Wielder]]  

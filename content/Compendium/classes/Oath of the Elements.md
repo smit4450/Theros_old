@@ -9,7 +9,7 @@ aliases:
 - Oath of the Noble Genies
 ---
 # Oath of the Elements
-* [[paladin-xphb]]: Paladin Subclass*  
+* [[Paladin]]: Paladin Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression

@@ -21,5 +21,4 @@ aliases:
 | 25+ | In any Lords' Alliance settlement, you can enlist a spellcaster to cast the [[sending-xphb]] spell for you at no charge, targeting an alliance representative. |
 | 30+ | Nobles from Baldur's Gate, Mithral Hall, Silverymoon, and Waterdeep are Friendly to you by default. |
 | 40 | The first time your Renown Score reaches 40, your lord gives you one random Rare magic item. |
-| 50+ | You can request an audience with any representative of the Lords' Alliance. In addition, you can request a detail of up to three [[knight-xmm]] to accompany you for one mission. Once you use this reward, you can't do so again until your Renown Score increases. |
-^lords-alliance-renown
+| 50+ | You can request an audience with any representative of the Lords' Alliance. In addition, you can request a detail of up to three [[knight-xmm]] to accompany you for one mission. Once you use this reward, you can't do so again until [Knights](Knight.md)

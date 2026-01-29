@@ -20,18 +20,18 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 
 | dice: 1d100 | Illusion |
 |-------------|----------|
-| 01-03 | [[adult-red-dragon-xmm]] |
-| 04-06 | [[archmage-xmm]] |
-| 07-09 | [[assassin-xmm]] |
-| 10-12 | [[bandit-captain-xmm]] |
+| 01-03 | [[Adult Red Dragon]] |
+| 04-06 | [[Archmage]] |
+| 07-09 | [[Compendium/bestiary/humanoid/Assassin]] |
+| 10-12 | [[Bandit Captain]] |
 | 13-15 | [[beholder-xmm]] |
-| 16-18 | [[berserker-xmm]] |
+| 16-18 | [[Berserker]] |
 | 19-21 | [[bugbear-warrior-xmm]] |
-| 22-24 | [[cloud-giant-xmm]] |
-| 25-27 | [[druid-xmm]] |
+| 22-24 | [[Cloud Giant]] |
+| 25-27 | [[Compendium/bestiary/humanoid/Druid]] |
 | 28-30 | [[erinyes-xmm]] |
 | 31-33 | [[ettin-xmm]] |
-| 34-36 | [[fire-giant-xmm]] |
+| 34-36 | [[Fire Giant]] |
 | 37-39 | [[frost-giant-xmm]] |
 | 40-42 | [[gnoll-warrior-xmm]] |
 | 43-45 | [[goblin-warrior-xmm]] |
@@ -39,50 +39,50 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 | 49-51 | [[hill-giant-xmm]] |
 | 52-54 | [[hobgoblin-warrior-xmm]] |
 | 55-57 | [[incubus-xmm]] |
-| 58-60 | [[iron-golem-xmm]] |
-| 61-63 | [[knight-xmm]] |
+| 58-60 | [[Iron Golem]] |
+| 61-63 | [[Knight]] |
 | 64-66 | [[kobold-warrior-xmm]] |
 | 67-69 | [[lich-xmm]] |
-| 70-72 | [[medusa-xmm]] |
-| 73-75 | [[night-hag-xmm]] |
+| 70-72 | [[Medusa XMM]] |
+| 73-75 | [[Night Hag]] |
 | 76-78 | [[ogre-xmm]] |
 | 79-81 | [[oni-xmm]] |
-| 82-84 | [[priest-xmm]] |
+| 82-84 | [[Priest]] |
 | 85-87 | [[succubus-xmm]] |
 | 88-90 | [[troll-xmm]] |
-| 91-93 | [[warrior-veteran-xmm]] |
-| 94-96 | [[wyvern-xmm]] |
+| 91-93 | [[Warrior Veteran]] |
+| 94-96 | [[Wyvern]] |
 | 97-00 | The card drawer |
 ^deck-of-illusions
 
 ## Cards
 
 ### Adult Red Dragon
-This card creates an illusion of an [[adult-red-dragon-xmm]].
+This card creates an illusion of an [[Adult Red Dragon]].
 
 ### Archmage
-This card creates an illusion of an [[archmage-xmm]].
+This card creates an illusion of an [[Archmage]].
 
 ### Assassin
-This card creates an illusion of an [[assassin-xmm]].
+This card creates an illusion of an [[Compendium/bestiary/humanoid/Assassin]].
 
 ### Bandit Captain
-This card creates an illusion of a [[bandit-captain-xmm]].
+This card creates an illusion of a [[Bandit Captain]].
 
 ### Beholder
 This card creates an illusion of a [[beholder-xmm]].
 
 ### Berserker
-This card creates an illusion of a [[berserker-xmm]].
+This card creates an illusion of a [[Berserker]].
 
 ### Bugbear Warrior
 This card creates an illusion of a [[bugbear-warrior-xmm]].
 
 ### Cloud Giant
-This card creates an illusion of a [[cloud-giant-xmm]].
+This card creates an illusion of a [[Cloud Giant]].
 
 ### Druid
-This card creates an illusion of a [[druid-xmm]].
+This card creates an illusion of a [[Compendium/bestiary/humanoid/Druid]].
 
 ### Erinyes
 This card creates an illusion of an [[erinyes-xmm]].
@@ -91,7 +91,7 @@ This card creates an illusion of an [[erinyes-xmm]].
 This card creates an illusion of an [[ettin-xmm]].
 
 ### Fire Giant
-This card creates an illusion of a [[fire-giant-xmm]].
+This card creates an illusion of a [[Fire Giant]].
 
 ### Frost Giant
 This card creates an illusion of a [[frost-giant-xmm]].
@@ -115,22 +115,19 @@ This card creates an illusion of a [[hobgoblin-warrior-xmm]].
 This card creates an illusion of an [[incubus-xmm]].
 
 ### Iron Golem
-This card creates an illusion of an [[iron-golem-xmm]].
+This card creates an illusion of an [[Iron Golem]].
 
 ### Knight
-This card creates an illusion of a [[knight-xmm]].
+This card creates an illusion of a [[Knight]].
 
 ### Kobold Warrior
 This card creates an illusion of a [[kobold-warrior-xmm]].
 
 ### Lich
-This card creates an illusion of a [[lich-xmm]].
-
-### Medusa
-This card creates an illusion of a [[medusa-xmm]].
+This card creates an illusion of a [[lich-[[Guardian Naga|Guardian Naga]]s an illusion of a [[Medusa XMM]].
 
 ### Night Hag
-This card creates an illusion of a [[night-hag-xmm]].
+This card creates an illusion of a [[Night Hag]].
 
 ### Ogre
 This card creates an illusion of an [[ogre-xmm]].
@@ -139,7 +136,7 @@ This card creates an illusion of an [[ogre-xmm]].
 This card creates an illusion of an [[oni-xmm]].
 
 ### Priest
-This card creates an illusion of a [[priest-xmm]].
+This card creates an illusion of a [[Priest]].
 
 ### Succubus
 This card creates an illusion of a [[succubus-xmm]].
@@ -148,10 +145,10 @@ This card creates an illusion of a [[succubus-xmm]].
 This card creates an illusion of a [[troll-xmm]].
 
 ### Warrior Veteran
-This card creates an illusion of a [[warrior-veteran-xmm]].
+This card creates an illusion of a [[Warrior Veteran]].
 
 ### Wyvern
-This card creates an illusion of a [[wyvern-xmm]].
+This card creates an illusion of a [[Wyvern]].
 
 ### The Card Drawer
 This card creates an illusion of a the card drawer.

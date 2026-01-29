@@ -52,4 +52,4 @@ Wave zealously encourages mortals to worship sea gods and has a habit of humming
 
 Wave can be destroyed only on the island of Thunderforge, where it was forged. The weapon must be melted down by a [[storm-giant-xmm]] or someone imbued with a storm giant's strength. Destroying Wave angers a god of the sea, who sends powerful agents to attack the island and punish the destroyers.
 
-*Source: Dungeon Master's Guide (2024) p. 323*
+*Source: Dungeon Master's Guide (2024) p. 323*[storm giant](Storm%20Giant.md)

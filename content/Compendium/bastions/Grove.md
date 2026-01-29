@@ -27,14 +27,14 @@ Creatures in your Grove count as Bastion Defenders. Deduct any you lose from you
 
 | Creature                                                          | Size   |
 | ----------------------------------------------------------------- | ------ |
-| [[awakened-shrub-xmm]] | Small  |
-| [[awakened-tree-xmm]]   | Huge   |
-| [[blink-dog-xmm]]             | Medium |
-| [[centaur-trooper-xmm]] | Large  |
-| [[dryad-xmm]]                     | Medium |
-| [[satyr-xmm]]                     | Medium |
-| [[treant-xmm]]                 | Large  |
-| [[unicorn-xmm]]           | Large  |
+| [[Awakened Shrub]] | Small  |
+| [[Awakened Tree]]   | Huge   |
+| [[Blink Dog]]             | Medium |
+| [[Centaur Trooper]] | Large  |
+| [[Dryad]]                     | Medium |
+| [[Satyr]]                     | Medium |
+| [[Treant]]                 | Large  |
+| [[Unicorn]]           | Large  |
 ^grove-creatures
 
 *Source: FRHoF*

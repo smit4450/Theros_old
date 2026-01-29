@@ -59,7 +59,7 @@ Each god's entry in this chapter explores the themes and events that could drive
 
 ### Villains and Monsters
 
-Just as many heroes serve as champions of the gods, many villains also serve their wills. Each god's section offers ideas for NPCs whose devotion turns their behavior in a villainous direction. It also provides suggestions for the kinds of monsters that might be associated with that god and serve as foes in an adventure. Generally, monster suggestions exclude foes that could work for most gods, like [[priest-acolyte-xmm]] and [[priest-xmm]] from the "Monster Manual" and [[oracle-mot]] from "chapter 6" of this book.
+Just as many heroes serve as champions of the gods, many villains also serve their wills. Each god's section offers ideas for NPCs whose devotion turns their behavior in a villainous direction. It also provides suggestions for the kinds of monsters that might be associated with that god and serve as foes in an adventure. Generally, monster suggestions exclude foes that could work for most gods, like [[Priest Acolyte]] and [[Priest]] from the "Monster Manual" and [[Oracle]] from "chapter 6" of this book.
 
 ### Gods as Campaign Villains
 
@@ -1095,7 +1095,7 @@ Aside from the other dangers of the twisting canyons of Phoberos, followers of M
 
 #### Canyon Shrine Adventures
 
-A journey into a canyon where Mogis is worshiped can be an adventure full of unspeakable horrors. A group of characters could come to a canyon shrine as armed escorts, or would-be rescuers of captives, or to cleanse the place of its evil. The characters might also brave such a gorge to hunt one of the many dangerous creatures that haunt the area, such as a [[catoblepas-vgm]] or a [[theran-chimera-mot]]. The Canyon Shrine Adventures table offers ideas for adventures in such a place.
+A journey into a canyon where Mogis is worshiped can be an adventure full of unspeakable horrors. A group of characters could come to a canyon shrine as armed escorts, or would-be rescuers of captives, or to cleanse the place of its evil. The characters might also brave such a gorge to hunt one of the many dangerous creatures that haunt the area, such as a [[Catoblepas]] or a [[Theran Chimera]]. The Canyon Shrine Adventures table offers ideas for adventures in such a place.
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/109-04-22.webp#center)
 
@@ -1266,7 +1266,7 @@ Pharika has hundreds of ongoing schemes and experiments, any number of which mig
 
 Healing pools are naturally occurring springs and tidal pools said to have magical curative properties because Pharika has blessed them. Sick or injured people come to the pools and leave an offering for the god with her priests before bathing. If Pharika deems an offering worthy, the waters rapidly cure diseases, heal wounds, and sometimes even remove magical curses. If the god finds the offering unworthy, the waters poison the bather in some way, making their plight worse. If a person who wants to bathe has no offering for the god, that individual can offer themselves or a captured beast as a subject for the priest's medical experiments.
 
-Many healing pools are in remote locations that are difficult to reach, such as hot springs at the top of a volcano or tidal pools on a monster-infested island. A priest of Pharika, often a [[medusa-mot]], usually watches over the pool. The priest's chambers are often in a building or a cave near the pools. Such places are part living quarters and part medical and alchemical laboratory, where the priest makes medicines and poisons and performs experiments on beasts and humanoid subjects.
+Many healing pools are in remote locations that are difficult to reach, such as hot springs at the top of a volcano or tidal pools on a monster-infested island. A priest of Pharika, often a [[Medusa]], usually watches over the pool. The priest's chambers are often in a building or a cave near the pools. Such places are part living quarters and part medical and alchemical laboratory, where the priest makes medicines and poisons and performs experiments on beasts and humanoid subjects.
 
 #### Healing Pools Adventures
 
@@ -1603,7 +1603,7 @@ Those who visit the island risk being enchanted so they never want to leave. At 
 
 ##### Swine Island
 
-Visitors to this island risk being afflicted by the Curse of the Swine. At the end of each long rest it takes on this island, a visitor must succeed on a DC 10 Wisdom saving throw or be affected by the [[polymorph-xphb]] spell and transformed into a pig (use the [[boar-xmm]] stat block). The curse lasts until the visitor leaves the isle or until it is broken by a spell like [[remove-curse-xphb]].
+Visitors to this island risk being afflicted by the Curse of the Swine. At the end of each long rest it takes on this island, a visitor must succeed on a DC 10 Wisdom saving throw or be affected by the [[polymorph-xphb]] spell and transformed into a pig (use the [[Boar]] stat block). The curse lasts until the visitor leaves the isle or until it is broken by a spell like [[remove-curse-xphb]].
 
 ##### Timeless Island
 

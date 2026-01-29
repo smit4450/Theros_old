@@ -53,4 +53,4 @@ You can cast the [[true-polymorph-xphb]] spell (save DC 18) from the bident, but
 
 To destroy the bident, it must be heated by the breath of an [[ancient-red-dragon-xmm]] and then, while still hot, immersed in the Tartyx River.
 
-*Source: Mythic Odysseys of Theros p. 199*
+*Source: Mythi[ancient red dragon](Ancient%20Red%20Dragon.md)

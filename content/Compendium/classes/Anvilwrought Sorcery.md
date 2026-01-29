@@ -9,7 +9,7 @@ aliases:
 - Clockwork Sorcery
 ---
 # Anvilwrought Sorcery
-* [[sorcerer-xphb]]: Sorcerer Subclass*  
+* [[Sorcerer]]: Sorcerer Subclass*  
 *Source: Player's Handbook (2024) p. 146*  
 
 > [!tldr] Class and Feature Progression

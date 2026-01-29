@@ -32,7 +32,7 @@ Just as the heroes of Theros carry great destinies, so too do many of the magic 
 
 As DM, feel free to make ordinary magic items feel like they have significant history and purpose. Even a [[1-weapon-xdmg]] might have been carried by a company of hoplite veterans that went missing during their quest to reach the edge of the world. Wands might be crafted from legendary sources, while potions might bear the seals of famed alchemists or include signature reagents—like a pegasus feather in a [[potion-of-flying-xdmg]]. The Remarkable Origins table offers just a few ways to suggest a magic item's remarkable pedigree without altering its magical properties.
 
-Certain treasures might also be the objects of heroic quests. For example, one might not be considered a true hero until one follows in the footsteps of past legends and either makes or claims one's own magical garment from the wool of a [[nyx-fleece-ram-mot]] (see "chapter 6"). You can also use the tables in "chapter 7" of the "Dungeon Master's Guide" to help further inspire the story you create for a magic item.
+Certain treasures might also be the objects of heroic quests. For example, one might not be considered a true hero until one follows in the footsteps of past legends and either makes or claims one's own magical garment from the wool of a [[Nyx-Fleece Ram]] (see "chapter 6"). You can also use the tables in "chapter 7" of the "Dungeon Master's Guide" to help further inspire the story you create for a magic item.
 
 ![[gifts-of-the-gods-remarkable-origins-mot]]
 

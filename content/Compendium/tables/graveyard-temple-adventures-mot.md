@@ -19,9 +19,8 @@ aliases:
 | 3 | Destroy a seemingly endless wave of undead pouring forth from a graveyard. |
 | 4 | Prevent the funeral of a loathed individual from being disrupted. |
 | 5 | Find an entrance to the Underworld in the graveyard. |
-| 6 | Reunite a [[returned-sentry-mot]] (see "chapter 6") and their [[ghostblade-eidolon-mot]] (see "chapter 6"). |
+| 6 | Reunite a [[Returned Sentry]] (see "chapter 6") and their [[Ghostblade Eidolon]] (see "chapter 6"). |
 | 7 | Destroy [[giant-spider-xmm]] infesting a tomb. |
-| 8 | Acquire death records for a family from a temple full of angry spirits. |
-| 9 | Escape the graveyard when undead suddenly rise and overtake the complex. |
+| 8 | Acquire death records for a family from a temp[giant spiders](Giant%20Spider.md)dead suddenly rise and overtake the complex. |
 | 10 | Use a person's remains to raise them from the dead. |
 ^graveyard-temple-adventures

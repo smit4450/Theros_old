@@ -6,11 +6,11 @@ cssclasses:
 ---
 # Index of Giant
 
--  [[cloud-giant-xmm]]
--  [[cyclops-oracle-xmm]]
--  [[cyclops-sentry-xmm]]
--  [[doomwake-giant-mot]]
--  [[fire-giant-xmm]]
--  [[hundred-handed-one-mot]]
--  [[stone-giant-xmm]]
--  [[storm-giant-xmm]]
+-  [[Cloud Giant]]
+-  [[Cyclops Oracle]]
+-  [[Cyclops Sentry]]
+-  [[Doomwake Giant]]
+-  [[Fire Giant]]
+-  [[Hundred-Handed One]]
+-  [[Stone Giant]]
+-  [[Storm Giant]]

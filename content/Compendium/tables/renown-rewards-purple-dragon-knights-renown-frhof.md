@@ -19,7 +19,7 @@ aliases:
 | 10 | The first time your Renown Score reaches 10, the Purple Dragon Knights give you an Uncommon magic item from the Armor or Weapon category. |
 | 15+ | You are given an honorary Cormyrean knighthood. The royal family of Cormyr is [[friendly-attitude-xphb]] to you by default. |
 | 25+ | Amethyst dragons are Friendly to you by default. |
-| 30+ | You can command a troop of `1d6` [[knight-xmm]] to help you on a mission or complete one task that doesn't go against the Purple Dragon Knights' core principles. Once you use this reward, you can't do so again until your Renown Score increases. |
+| 30+ | You can command a troop of `1d6` [[knight-xmm]] to help you on a mission or[Knights](Knight.md) Dragon Knights' core principles. Once you use this reward, you can't do so again until your Renown Score increases. |
 | 40+ | You are trusted by the Purple Dragon Knights' Great Knight, who confides in you and provides information. |
 | 50+ | You are asked to take care of an amethyst dragon egg until it hatches. Additionally, you can call on a High Knight to perform a major favor for you, such as granting a private audience with the royal family. Once you use this reward, you can't do so again until your Renown Score increases. |
 ^purple-dragon-knights-renown

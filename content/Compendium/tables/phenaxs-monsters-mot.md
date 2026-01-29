@@ -14,12 +14,12 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1 | [[returned-sentry-mot]] |
-| 3 | [[leucrotta-vgm]] |
-| 3 | [[slithering-tracker-vgm]] |
-| 4 | [[returned-palamnite-mot]] |
-| 5 | [[ghostblade-eidolon-mot]] |
-| 5 | [[master-thief-vgm]] |
-| 8 | [[assassin-xmm]] |
-| 16 | [[phoenix-mtf]] |
+| 1 | [[Returned Sentry]] |
+| 3 | [[Leucrotta]] |
+| 3 | [[Slithering Tracker]] |
+| 4 | [[Returned Palamnite]] |
+| 5 | [[Ghostblade Eidolon]] |
+| 5 | [[Master Thief]] |
+| 8 | [[Compendium/bestiary/humanoid/Assassin]] |
+| 16 | [[Phoenix]] |
 ^phenaxs-monsters

@@ -14,17 +14,15 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/2 | [[scout-xmm]] |
-| 1 | [[dryad-xmm]] |
+| 1/2 | [[Scout]] |
+| 1 | [[Dryad]] |
 | 1 | Nyxborn [[brown-bear-xmm]]* |
 | 2 | Nyxborn [[saber-toothed-tiger-xmm]]* |
-| 2 | [[satyr-thornbearer-mot]] |
-| 3 | [[archer-vgm]] |
-| 5 | [[shambling-mound-xmm]] |
-| 5 | [[unicorn-xmm]]* |
-| 9 | [[treant-xmm]] |
-| 12 | [[ironscale-hydra-mot]] |
-| 19 | [[polukranos-mot]] |
+| [brown bear](Brown%20Bear.md)5 | [[Shambling Mound]] |
+| 5 | [[Unicorn]]* |
+| 9 | [[Treant]] |
+| 12 | [[Ironscale Hydra]] |
+| 19 | [[Polukranos]] |
 ^nyleas-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

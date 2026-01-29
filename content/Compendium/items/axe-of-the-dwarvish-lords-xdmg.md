@@ -47,7 +47,7 @@ While attuned to the axe, you gain the following benefits:
 
 ## Conjure Earth Elemental
 
-While holding the axe, you can take a [Magic](Compendium/rules/actions.md#Magic) action to summon an [[earth-elemental-xmm]]. It appears in an unoccupied space you choose within 30 feet of yourself, understands your languages, obeys your commands, and takes its turn immediately after you on your [[initiative-xphb]] count. The elemental disappears after 24 hours, when it dies, or when you dismiss it as a [[bonus-action-xphb]]. You can't use this property again until the next dawn.
+While holding the axe, you can take a [Magic](Compendium/rules/actions.md#Magic) action to summon an [[Earth Elemental]]. It appears in an unoccupied space you choose within 30 feet of yourself, understands your languages, obeys your commands, and takes its turn immediately after you on your [[initiative-xphb]] count. The elemental disappears after 24 hours, when it dies, or when you dismiss it as a [[bonus-action-xphb]]. You can't use this property again until the next dawn.
 
 ## Random Properties
 

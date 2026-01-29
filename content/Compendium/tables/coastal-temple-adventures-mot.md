@@ -18,11 +18,9 @@ aliases:
 | 2 | Steal an offering before it washes away. |
 | 3 | Confront pirates worshiping at the temple. |
 | 4 | Defend the temple from kraken-worshiping cultists. |
-| 5 | Kill or drive off a [[hydra-xmm]] that has claimed the temple as its home. |
-| 6 | Help a [[killer-whale-xmm]] beached in the temple. |
-| 7 | Get information from a worshiper. |
-| 8 | Kidnap a worshiper without making a scene. |
-| 9 | Steal a magic [[piranha-xmm]] from a sacred tide pool. |
+| 5 | Kill or drive off a [[Hydra]] that has claimed the temple as its home. |
+| 6 | Help a [[killer-whale-xmm]] beached in the temp[killer whale](Killer%20Whale.md)a worshiper without making a scene. |
+| 9 | Steal a magic [[Piranha]] from a sacred tide pool. |
 | 10 | Spy on a conversation between two worshipers. |
 | 11 | Negotiate with a **blue dragon** that wants to claim the temple as its lair. |
 | 12 | Escape the temple as it floods. |

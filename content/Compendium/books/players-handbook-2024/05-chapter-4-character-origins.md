@@ -84,22 +84,20 @@ Each species gives a character special traits—unique characteristics based on 
 
 Sixteen backgrounds are presented in this section in alphabetical order:
 
-- [[acolyte-xphb]]  
-- [[artisan-xphb]]  
-- [[charlatan-xphb]]  
-- [[criminal-xphb]]  
-- [[entertainer-xphb]]  
-- [[farmer-xphb]]  
-- [[guard-xphb]]  
-- [[guide-xphb]]  
-- [[hermit-xphb]]  
-- [[merchant-xphb]]  
-- [[noble-xphb]]  
-- [[sage-xphb]]  
-- [[sailor-xphb]]  
-- [[scribe-xphb]]  
-- [[soldier-xphb]]  
-- [[wayfarer-xphb]]  
+- [Acolyte](Acolyte.md)atan-xphb]]  
+- [[Criminal]]  
+- [[Entertainer]]  
+- [[Farmer]]  
+- [[Compendium/backgrounds/Guard]]  
+- [[Guide]]  
+- [[Hermit]]  
+- [[Merchant]]  
+- [[Compendium/backgrounds/Noble]]  
+- [[Sage]]  
+- [[Sailor]]  
+- [[Scribe]]  
+- [[Compendium/backgrounds/Soldier]]  
+- [[Wayfarer]]  
 
 ## Species Descriptions
 

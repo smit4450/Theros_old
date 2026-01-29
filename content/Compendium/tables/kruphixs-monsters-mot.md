@@ -14,15 +14,14 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/4 | [[blink-dog-xmm]] |
-| 1/2 | [[cockatrice-xmm]] |
+| 1/4 | [[Blink Dog]] |
+| 1/2 | [[Cockatrice]] |
 | 2 | [[nothic-xmm]] |
-| 3 | [[phase-spider-xmm]] |
-| 6 | [[invisible-stalker-xmm]] |
-| 7 | [[theran-chimera-mot]] |
-| 11 | [[sphinx-of-lore-xmm]]* |
-| 12 | [[archmage-xmm]] |
-| 17 | [[sphinx-of-valor-xmm]]* |
+| 3 | [[Phase Spider]] |
+| 6 | [[Invisible Stalker]] |
+|[Nothic](Nothic.md)xmm]]* |
+| 12 | [[Archmage]] |
+| 17 | [[Sphinx of Valor]]* |
 ^kruphixs-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

@@ -20,6 +20,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Bronze Griffon (Rare)
 
-This bronze statuette is of a griffon rampant. It can become a [[griffon-xmm]] for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
+This bronze statuette is of a griffon rampant. It can become a [[Griffon]] for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
 
 *Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -9,7 +9,7 @@ aliases:
 - Scion of the Three
 ---
 # Agent of Death
-* [[rogue-xphb]]: Rogue Subclass*  
+* [[Rogue]]: Rogue Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression

@@ -20,6 +20,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Golden Lions (Rare)
 
-These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a [[lion-xmm]] for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.
+These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a [[Lion]] for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.
 
 *Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -9,7 +9,7 @@ aliases:
 - Wild Magic Sorcery
 ---
 # Wild Magic Sorcery
-* [[sorcerer-xphb]]: Sorcerer Subclass*  
+*[[Sorcerer|Sorcerer]]er Subclass*  
 *Source: Player's Handbook (2024) p. 149*  
 
 > [!tldr] Class and Feature Progression

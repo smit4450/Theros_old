@@ -14,16 +14,16 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/4 | Nyxborn [[giant-venomous-snake-xmm]]* |
-| 1/2 | [[amphisbaena-gos]] |
-| 1/2 | [[cockatrice-xmm]] |
-| 2 | [[swarm-of-venomous-snakes-xmm]] |
-| 3 | [[basilisk-xmm]]* |
-| 6 | [[medusa-xmm]]* |
-| 8 | [[assassin-xmm]] |
-| 8 | [[hydra-xmm]] |
-| 8 | [[spirit-naga-xmm]] |
-| 17 | [[hythonia-mot]] |
+| 1/4 | Nyxborn [[Giant Venomous Snake]]* |
+| 1/2 | [[Amphisbaena]] |
+| 1/2 | [[Cockatrice]] |
+| 2 | [[Swarm of Venomous Snakes]] |
+| 3 | [[Basilisk]]* |
+| 6 | [[Medusa XMM]]* |
+| 8 | [[Compendium/bestiary/humanoid/Assassin]] |
+| 8 | [[Hydra]] |
+| 8 | [[Spirit Naga]] |
+| 17 | [[Hythonia]] |
 ^pharikas-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

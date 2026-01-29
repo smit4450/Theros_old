@@ -13,7 +13,7 @@ aliases:
 ![](Compendium/items/img/baba-yagas-dancing-broom.webp#right)
 
 
-The archfey "Baba Yaga" crafted many of these magic brooms. No two appear exactly alike. While holding the broom, you can take a [Magic](Compendium/rules/actions.md#Magic) action to transform it into an [[animated-broom-xmm]] under your control. The broom then moves into an unoccupied space as close to you as possible. The broom acts immediately after you on your [[initiative-xphb]] count and remains animate until you take a [[bonus-action-xphb]] and use a command word to render it inanimate.
+The archfey "Baba Yaga" crafted many of these magic brooms. No two appear exactly alike. While holding the broom, you can take a [Magic](Compendium/rules/actions.md#Magic) action to transform it into an [[Animated Broom]] under your control. The broom then moves into an unoccupied space as close to you as possible. The broom acts immediately after you on your [[initiative-xphb]] count and remains animate until you take a [[bonus-action-xphb]] and use a command word to render it inanimate.
 
 On your turn, you can mentally command the animated broom if it is within 30 feet of you and you don't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition (no action required). You decide what action the broom takes and where it moves during its next turn, or you can issue it a general command, such as to attack your enemies or guard a location.
 

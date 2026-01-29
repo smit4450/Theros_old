@@ -14,12 +14,11 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/8 | [[noble-xmm]] |
-| 2 | [[centaur-trooper-xmm]] |
-| 2 | [[griffon-xmm]] |
+| 1/8 | [[Compendium/bestiary/humanoid/Noble]] |
+| 2 | [[Centaur Trooper]] |
+| 2 | [[Griffon]] |
 | 2 | [[pegasus-xmm]] |
-| 3 | [[fleecemane-lion-mot]] |
-| 9 | [[cloud-giant-xmm]] |
-| 11 | [[roc-xmm]] |
-| 23 | [[empyrean-xmm]] |
-^heliods-monsters
+| 3 | [[Fleecemane Lion]] |
+| 9 | [[Cloud Giant]] |
+| 11 | [[Roc]] |
+| 23 | [[empyr[Pegasus](Pegasus.md)

@@ -34,7 +34,7 @@ aliases: ["Find Familiar"]
 - **Components:** V, S, M (burning incense worth 10+ GP, which the spell consumes)
 - **Duration:** Instantaneous
 
-You gain the service of a familiar, a spirit that takes an animal form you choose: [[bat-xmm]], [[cat-xmm]], [[frog-xmm]], [[hawk-xmm]], [[lizard-xmm]], [[octopus-xmm]], [[owl-xmm]], [[rat-xmm]], [[raven-xmm]], [[spider-xmm]], [[weasel-xmm]], or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
+You gain the service of a familiar, a spirit that takes an animal form you choose: [[Bat|Bat]]cat-xmm]], [[Frog]], [[Hawk]], [[Lizard]], [[Octopus]], [[Owl]], [[Rat]], [[Raven]], [[Spider]], [[Weasel]], or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
 
 ## Telepathic Connection
 

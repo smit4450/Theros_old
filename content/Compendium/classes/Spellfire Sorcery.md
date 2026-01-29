@@ -9,7 +9,7 @@ aliases:
 - Spellfire Sorcery
 ---
 # Spellfire Sorcery
-* [[sorcerer-xphb]]: Sorcerer Subclass*  
+* [[Sorcerer]]: Sorcerer Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression
@@ -90,7 +90,7 @@ Your [Spellfire Burst](Spellfire Sorcery.md#Spellfire Burst (Level 3)) improves.
 
 ### Crown of Spellfire (Level 18)
 
-When you use [Innate Sorcery](Compendium/classes/sorcerer-xphb.md#Innate Sorcery (Level 1)), you can alter it and infuse yourself with the essence of spellfire, gaining the following benefits while this use of Innate Sorcery is active. Once you use this feature to alter Innate Sorcery, you can't use it again until you finish a [[long-rest-xphb]] unless you spend 5 Sorcery Points (no action required) to restore your use of it.
+When you use [Innate Sorcery](Compendium/classes/sorcerer-xphb.md#Innate Sorcery (Level 1)), you can alter it and infuse yourself with the essence of spellfire, gaining the following benefits while this use of Innate Sorcery is active[Sorcerer](Sorcerer.md)cery, you can't use it again until you finish a [[long-rest-xphb]] unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
 #### Burning Life Force
 _Source: FRHoF_

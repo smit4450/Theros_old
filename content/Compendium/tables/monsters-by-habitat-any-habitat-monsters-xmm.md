@@ -14,25 +14,25 @@ aliases:
 
 | CR | Monsters |
 |----|----------|
-| 0 | [[commoner-xmm]], [[crawling-claw-xmm]], [[homunculus-xmm]] |
-| 1/8 | [[bandit-xmm]], [[cultist-xmm]], [[guard-xmm]], [[noble-xmm]], [[warrior-infantry-xmm]] |
-| 1/4 | [[priest-acolyte-xmm]] |
-| 1/2 | [[performer-xmm]], [[scout-xmm]], [[tough-xmm]] |
-| 1 | [[empyrean-iota-xmm]], [[imp-xmm]], [[pirate-xmm]], [[spy-xmm]] |
-| 2 | [[bandit-captain-xmm]], [[berserker-xmm]], [[cultist-fanatic-xmm]], [[druid-xmm]], [[mage-apprentice-xmm]], [[priest-xmm]] |
-| 3 | [[knight-xmm]], [[scout-captain-xmm]], [[swarm-of-crawling-claws-xmm]], [[warrior-veteran-xmm]] |
-| 4 | [[banshee-xmm]], [[guard-captain-xmm]], [[helmed-horror-xmm]], [[tough-boss-xmm]] |
-| 5 | [[cambion-xmm]], [[flesh-golem-xmm]], [[gladiator-xmm]], [[half-dragon-xmm]] |
-| 6 | [[mage-xmm]], [[performer-maestro-xmm]], [[pirate-captain-xmm]] |
-| 7 | [[bandit-deceiver-xmm]] |
-| 8 | [[aberrant-cultist-xmm]], [[assassin-xmm]], [[berserker-commander-xmm]], [[death-cultist-xmm]], [[elemental-cultist-xmm]], [[fiend-cultist-xmm]] |
-| 10 | [[cultist-hierophant-xmm]], [[noble-prodigy-xmm]], [[performer-legend-xmm]], [[spy-master-xmm]], [[stone-golem-xmm]], [[warrior-commander-xmm]] |
-| 11 | [[bandit-crime-lord-xmm]], [[death-knight-aspirant-xmm]] |
-| 12 | [[archmage-xmm]], [[archpriest-xmm]], [[pirate-admiral-xmm]], [[questing-knight-xmm]] |
-| 16 | [[iron-golem-xmm]] |
+| 0 | [[Commoner]], [[Crawling Claw]], [[Homunculus]] |
+| 1/8 | [[Bandit]], [[Cultist]], [[Compendium/bestiary/humanoid/Guard]], [[Compendium/bestiary/humanoid/Noble]], [[Warrior Infantry]] |
+| 1/4 | [[Priest Acolyte]] |
+| 1/2 | [[Performer]], [[Scout]], [[Compendium/bestiary/humanoid/Tough]] |
+| 1 | [[Empyrean Iota]], [[imp-xmm]], [[Pirate]], [[Spy]] |
+| 2 | [[Bandit Captain]], [[Berserker]], [[Cultist Fanatic]], [[Compendium/bestiary/humanoid/Druid]], [[Mage Apprentice]], [[Priest]] |
+| 3 | [[Knight]], [[Scout Captain]], [[Swarm of Crawling Claws]], [[Warrior Veteran]] |
+| 4 | [[banshee-xmm]], [[Guard Captain]], [[Helmed Horror]], [[Tough Boss]] |
+| 5 | [[cambion-xmm]], [[Flesh Golem]], [[Gladiator]], [[half-dragon-xmm]] |
+| 6 | [[Mage]], [[Performer Maestro]], [[Pirate Captain]] |
+| 7 | [[Bandit Deceiver]] |
+| 8 | [[Aberrant Cultist]], [[Compendium/bestiary/humanoid/Assassin]], [[Berserker Commander]], [[Death Cultist]], [[Elemental Cultist]], [[Fiend Cultist]] |
+| 10 | [[Cultist Hierophant]], [[Noble Prodigy]], [[Performer Legend]], [[Spy Master]], [[Stone Golem]], [[Warrior Commander]] |
+| 11 | [[Bandit Crime Lord]], [[death-knight-aspirant-xmm]] |
+| 12 | [[Archmage]], [[Archpriest]], [[Pirate Admiral]], [[Questing Knight]] |
+| 16 | [[Iron Golem]] |
 | 17 | [[death-knight-xmm]], [[dracolich-xmm]] |
 | 18 | [[demilich-xmm]] |
-| 21 | [[arch-hag-xmm]], [[lich-xmm]] |
-| 23 | [[blob-of-annihilation-xmm]], [[empyrean-xmm]] |
+| 21 | [[Compendium/bestiary/fey/Arch-hag]], [[lich-xmm]] |
+| 23 | [[Blob of Annihilation]], [[Empyrean]] |
 | 25 | [[colossus-xmm]] |
-^any-habitat-monsters
+^any-habitat-monsters[Colossus](Colossus.md)

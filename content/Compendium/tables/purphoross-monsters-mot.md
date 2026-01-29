@@ -14,17 +14,17 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/2 | [[anvilwrought-raptor-mot]] |
-| 1 | [[bronze-sable-mot]] |
-| 2 | [[burnished-hart-mot]] |
-| 4 | [[oread-mot]] |
-| 5 | [[gold-forged-sentinel-mot]] |
-| 5 | [[fire-elemental-xmm]] |
-| 6 | [[cyclops-sentry-xmm]]* |
-| 9 | [[fire-giant-xmm]] |
-| 16 | [[iron-golem-xmm]] |
-| 17 | [[adult-red-dragon-xmm]]* |
-| 24 | [[ancient-red-dragon-xmm]]* |
+| 1/2 | [[Anvilwrought Raptor]] |
+| 1 | [[Bronze Sable]] |
+| 2 | [[Burnished Hart]] |
+| 4 | [[Oread]] |
+| 5 | [[Gold-Forged Sentinel]] |
+| 5 | [[Fire Elemental]] |
+| 6 | [[Cyclops Sentry]]* |
+| 9 | [[Fire Giant]] |
+| 16 | [[Iron Golem]] |
+| 17 | [[Adult Red Dragon]]* |
+| 24 | [[Ancient Red Dragon]]* |
 ^purphoross-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

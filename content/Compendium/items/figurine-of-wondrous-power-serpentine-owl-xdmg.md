@@ -20,6 +20,4 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Serpentine Owl (Rare)
 
-This serpentine statuette of an owl can become a [[giant-owl-xmm]] for up to 8 hours. The owl can communicate telepathically with you at any range if you and it are on the same plane of existence. Once it has been used, it can't be used again until 2 days have passed.
-
-*Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+This serpentine statuette of an owl can become a [[giant-owl-xmm]] for up to 8 hours. The owl can communicate telepathically with you at any range if you and it are on the same plane of existence. Once it has been used, it ca[Giant Owl](Giant%20Owl.md)on Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

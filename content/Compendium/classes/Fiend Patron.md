@@ -9,7 +9,7 @@ aliases:
 - Fiend Patron
 ---
 # Fiend Patron
-* [[warlock-xphb]]: Warlock Subclass*  
+* [[Warlock]]: Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -50,7 +50,7 @@ aliases:
 
 *Make a Deal with the Underworld*
 
-Your pact draws on the Underworld, the realms of perdition. You might forge a bargain with a demon lord such as an  [[abhorrent-overlord-mot]], an  [[eater-of-hope-mot]], or a  [[nightmare-shepherd-mot]]; or a  [[night-hag-xmm]] that is especially mighty. That patron's aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.
+Your pact draws on the Underworld, the realms of perdition. You might forge a bargain with a demon lord such as an  [[Abhorrent Overlord]], an  [[Eater of Hope]], or a  [[Nightmare Shepherd]]; or a  [[Night Hag]] that is especially mighty. That patron's aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.
 
 ### Fiend Spells (Level 3)
 

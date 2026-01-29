@@ -14,15 +14,15 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 2 | [[centaur-trooper-xmm]] |
-| 3 | [[akroan-hoplite-mot]] |
-| 3 | [[blue-dragon-wyrmling-xmm]]* |
-| 5 | [[air-elemental-xmm]] |
-| 7 | [[theran-chimera-mot]] |
-| 9 | [[young-blue-dragon-xmm]]* |
-| 13 | [[storm-giant-xmm]] |
+| 2 | [[Centaur Trooper]] |
+| 3 | [[Akroan Hoplite]] |
+| 3 | [[Blue Dragon Wyrmling]]* |
+| 5 | [[Air Elemental]] |
+| 7 | [[Theran Chimera]] |
+| 9 | [[Young Blue Dragon]]* |
+| 13 | [[Storm Giant]] |
 | 16 | [[adult-blue-dragon-xmm]]* |
-| 23 | [[ancient-blue-dragon-xmm]]* |
+| 23 | [[Ancient Blue Dragon]]* |
 ^keranoss-monsters
 
-* See "chapter 6" for details about these creatures in Theros.
+* See "chapter 6" for details about these creatures in Theros.[Adult blue dragon](Adult%20Blue%20Dragon.md)

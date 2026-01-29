@@ -22,7 +22,7 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 |-------------|--------|
 | 01 | `5d4` toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take `5d6` Poison damage and have the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 hour. On an even roll, the eater gains `5d6` [[temporary-hit-points-xphb]] for 1 hour. |
 | 02-10 | A geyser erupts and spouts water, beer, mayonnaise, tea, vinegar, wine, or oil (DM's choice) 30 feet into the air for `1d4` minutes. |
-| 11-20 | A [[treant-xmm]] sprouts. Roll any die. On an odd roll, the treant is Chaotic Evil. On an even roll, the treant is Chaotic Good. |
+| 11-20 | A [[Treant]] sprouts. Roll any die. On an odd roll, the treant is Chaotic Evil. On an even roll, the treant is Chaotic Good. |
 | 21-30 | An animate but immobile stone statue in your likeness rises and makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours. |
 | 31-40 | A campfire with green flames springs forth and burns for 24 hours or until it is extinguished. |
 | 41-50 | Three **Shrieker Fungi** sprout. |

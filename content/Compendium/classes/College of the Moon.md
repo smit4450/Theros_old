@@ -9,7 +9,7 @@ aliases:
 - College of the Moon
 ---
 # College of the Moon
-* [[bard-xphb]]: Bard Subclass*  
+* [[Bard]]: Bard Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression

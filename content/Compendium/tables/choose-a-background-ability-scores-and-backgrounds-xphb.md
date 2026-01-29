@@ -14,10 +14,10 @@ aliases:
 
 | Ability | Backgrounds |
 |---------|-------------|
-| Strength | [[artisan-xphb]], [[entertainer-xphb]], [[farmer-xphb]], [[guard-xphb]], [[noble-xphb]], [[sailor-xphb]], [[soldier-xphb]] |
-| Dexterity | [[artisan-xphb]], [[charlatan-xphb]], [[criminal-xphb]], [[entertainer-xphb]], [[guide-xphb]], [[sailor-xphb]], [[scribe-xphb]], [[soldier-xphb]], [[wayfarer-xphb]] |
-| Constitution | [[charlatan-xphb]], [[criminal-xphb]], [[farmer-xphb]], [[guide-xphb]], [[hermit-xphb]], [[merchant-xphb]], [[sage-xphb]], [[soldier-xphb]] |
-| Intelligence | [[acolyte-xphb]], [[artisan-xphb]], [[criminal-xphb]], [[guard-xphb]], [[merchant-xphb]], [[noble-xphb]], [[sage-xphb]], [[scribe-xphb]] |
-| Wisdom | [[acolyte-xphb]], [[farmer-xphb]], [[guard-xphb]], [[guide-xphb]], [[hermit-xphb]], [[sage-xphb]], [[sailor-xphb]], [[scribe-xphb]], [[wayfarer-xphb]] |
-| Charisma | [[acolyte-xphb]], [[charlatan-xphb]], [[entertainer-xphb]], [[hermit-xphb]], [[merchant-xphb]], [[noble-xphb]], [[wayfarer-xphb]] |
-^ability-scores-and-backgrounds
+| Strength | [[Artisan]], [[Entertainer]], [[Farmer]], [[Compendium/backgrounds/Guard]], [[Compendium/backgrounds/Noble]], [[Sailor]], [[Compendium/backgrounds/Soldier]] |
+| Dexterity | [[Artisan]], [[Charlatan]], [[Criminal]], [[Entertainer]], [[Guide]], [[Sailor]], [[Scribe]], [[Compendium/backgrounds/Soldier]], [[Wayfarer]] |
+| Constitution | [[Charlatan]], [[Criminal]], [[Farmer]], [[Guide]], [[Hermit]], [[Merchant]], [[Sage]], [[Compendium/backgrounds/Soldier]] |
+| Intelligence | [[acolyte-xphb]], [[Artisan]], [[Criminal]], [[Compendium/backgrounds/Guard]], [[Merchant]], [[Compendium/backgrounds/Noble]], [[Sage]], [[Scribe]] |
+| Wisdom | [[acolyte-xphb]], [[Farmer]], [[Compendium/backgrounds/Guard]], [[Guide]], [[Hermit]], [[Sage]], [[Sailor]], [[Scribe]], [[Wayfarer]] |
+| Charisma | [[acolyte-xphb]], [[Charlatan]], [[Entertainer]], [[Hermit]], [[Merchant]], [[Compendium/backgrounds/Noble]], [[Wayfarer]] |
+^ability-scores-and-backgrounds[Acolyte](Acolyte.md)[Acolyte](Acolyte.md)[Acolyte](Acolyte.md)

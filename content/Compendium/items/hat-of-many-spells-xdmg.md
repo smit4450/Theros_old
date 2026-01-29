@@ -34,10 +34,10 @@ Any spell you cast from the hat uses your spell save DC and spell attack bonus.
 | 66-70 | You suffer a bout of "magic sickness" and have the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 hour. |
 | 71-75 | You have the [Petrified](Compendium/rules/conditions.md#Petrified) condition until the end of your next turn. |
 | 76-80 | You pull a nonmagical object out of the hat. Roll `1d4` to determine the object: on a **1**, a [[dagger-xphb]]; on a **2**, a [[rope-xphb]] with a [[grappling-hook-xphb]] tied to one end; on a **3**, a bag of [[caltrops-xphb]]; on a **4**, a gem worth 50 GP. |
-| 81-85 | A creature appears in an unoccupied space as close to you as possible. The creature isn't under your control and acts as it normally would, and it disappears after 1 hour or when it drops to 0 [[hit-points-xphb]]. Roll `1d4` to determine the creature: on a **1**, a [[camel-xmm]]; on a **2**, a [[constrictor-snake-xmm]]; on a **3**, an [[elephant-xmm]]; on a **4**, a [[mule-xmm]]. |
-| 86-90 | A [[hostile-attitude-xphb]] [[swarm-of-bats-xmm]] flies out of the hat, occupies your space, and attacks you. |
+| 81-85 | A creature appears in an unoccupied space as close to you as possible. The creature isn't under your control and acts as it normally would, and it disappears after 1 hour or when it drops to 0 [[hit-points-xphb]]. Roll `1d4` to determine the creature: on a **1**, a [[camel-xmm]]; on a **2**, a [[Constrictor Snake]]; on a **3**, an [[Elephant]]; on a **4**, a [[Mule]]. |
+| 86-90 | A [[hostile-attitude-xphb]] [[Swarm of Bats]] flies out of the hat, occupies your space, and attacks you. |
 | 91-95 | A vertical, 10-foot-diameter, two-way portal to another plane of existence opens in an unoccupied space within 30 feet of you and remains open until the end of your next turn. The DM determines where it leads. |
-| 96-00 | You pull a magic item out of the hat. Roll `1d6` to determine the item's rarity: on a **1-3**, Common; on a **4-5**, Uncommon; on a **6**, Rare. The DM chooses the item, which disappears after 1 hour if it's not consumed or destroyed before then. |
+| 96-00 | You pull a magic item out of the hat. Roll `1d6` to determine the item's rarity: on a **1-3**, Common; on a **4-5**, Uncommon; on a **6**, Rare. The DM chooses the item, which disappears af[Camel](Camel.md)fore then. |
 ^1-effect
 
 *Source: Dungeon Master's Guide (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

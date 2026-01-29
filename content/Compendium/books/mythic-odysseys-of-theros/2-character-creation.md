@@ -77,7 +77,7 @@ These supernatural gifts are intended for starting characters, but some might be
 > 
 > - A snake emerged from my mouth before I took my first breath—an omen of my gift for deception. ( [[Actor]])  
 > - I hear voices on the wind, warning me of danger. ( [[Alert]])  
-> - Iroas gifted me with physical prowess, intending to see me compete in the Iroan Games. ( [[Athlete]])  
+> - Iroas gifted me with physical prowess, intending to see me compete in the Iroan Games. ( [[Compendium/feats/Athlete]])  
 > - I feel the vitality of the earth beneath my feet, and it refreshes my strength when I rest on it. ( [[Durable]])  
 > - The stars of Nyx are never hidden from my sight, revealing their secrets to my eyes. ( [[Keen Mind]])  
 > - I hear the echoes of the gods' speech in every mortal language and trace the patterns of Nyx in the written word. (Linguist)  
@@ -86,7 +86,7 @@ These supernatural gifts are intended for starting characters, but some might be
 > - The sun's light brings what is hidden to clear view in my eyes. ( [[Observant]])  
 > - I ate a magical fruit that blessed me with extraordinary resilience. ( [[Resilient]])  
 > - I studied with a supernatural tutor. ( [[Skilled]])  
-> - I was bathed in the waters of a mystic river that left my skin resistant to harm—and glittering with starlight. ( [[Tough]])  
+> - I was bathed in the waters of a mystic river that left my skin resistant to harm—and glittering with starlight. ( [[Compendium/feats/Tough]])  
 ^heroic-feats
 
 > [!note] Myths of Theros
@@ -138,7 +138,7 @@ The most prestigious names however, are those earned through deeds or temperamen
 
 ![An unrivaled orator, the c...](Compendium/books/mythic-odysseys-of-theros/img/019-01-15.webp#center "An unrivaled orator, the centaur Perisophia guides Meletis as a member of the polis's ruling council, the Twelve")
 
-At 3rd level, a bard chooses a Bard College and a paladin chooses a Sacred Oath. This section offers the College of Eloquence for bards and the [[paladin-xphb-oath-of-glory-xphb]] for paladins, expanding their options for that choice.
+At 3rd level, a bard chooses a Bard College and a paladin chooses a Sacred Oath. This section offers the College of Eloquence for bards and the [[Oath of Glory]] for paladins, expanding their options for that choice.
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/020-01-16.webp#center)
 
@@ -154,7 +154,7 @@ Your character doesn't need to be a follower of any of the gods, but if you're n
 
 In addition to the gods, the supernatural gifts presented earlier in this chapter might influence your background. Consider what story emerges from your combination of supernatural gift, background, and other choices.
 
-Beyond these options, the [[athlete-mot]] background presented here provides a new way to seek glory through discipline and physical prowess.
+Beyond these options, the [[Compendium/backgrounds/Athlete]] background presented here provides a new way to seek glory through discipline and physical prowess.
 
 > [!readaloud] 
 > 

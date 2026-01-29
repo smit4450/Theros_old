@@ -14,14 +14,14 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/8 | [[guard-xmm]] |
-| 1/2 | [[anvilwrought-raptor-mot]] |
-| 3 | [[meletian-hoplite-mot]] |
-| 9 | [[war-priest-vgm]] |
+| 1/8 | [[Compendium/bestiary/humanoid/Guard]] |
+| 1/2 | [[Anvilwrought Raptor]] |
+| 3 | [[Meletian Hoplite]] |
+| 9 | [[War Priest]] |
 | 11 | [[sphinx-of-lore-xmm]]* |
-| 15 | [[hundred-handed-one-mot]] |
-| 17 | [[sphinx-of-valor-xmm]]* |
-| 23 | [[empyrean-xmm]] |
+| 15 | [[Hundred-Handed One]] |
+| 17 | [[Sphinx of Valor]]* |
+| 23 | [[Empyrean]] |
 ^epharas-monsters
 
-* See "chapter 6" for details about these creatures in Theros.
+* See "chapter 6" for details about th[Gynosphinx](Sphinx%20of%20Lore.md)

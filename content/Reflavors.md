@@ -13,7 +13,7 @@ Feats:
 *  [[Street Justice]] -> fine
 
 Subclasses:
-*  [[cleric-xphb-knowledge-domain-frhof]] -> changed list of gods
+*  [[Knowledge Domain]] -> changed list of gods
 *  [[Phalanx Captain]] -> [[Phalanx Captain]]
 *  [[Agent of Death]] -> [[Agent of Death]]
 *  [[Bladesinger]] -> Elven to Meletian

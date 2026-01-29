@@ -6,10 +6,10 @@ cssclasses:
 ---
 # Index of Ooze
 
--  [[black-pudding-xmm]]
--  [[blob-of-annihilation-xmm]]
--  [[gelatinous-cube-xmm]]
--  [[gray-ooze-xmm]]
--  [[ochre-jelly-xmm]]
--  [[psychic-gray-ooze-xmm]]
--  [[slithering-tracker-vgm]]
+-  [[Black Pudding]]
+-  [[Blob of Annihilation]]
+-  [[Gelatinous Cube]]
+-  [[Gray Ooze]]
+-  [[Ochre Jelly]]
+-  [[Psychic Gray Ooze]]
+-  [[Slithering Tracker]]

@@ -32,7 +32,7 @@ In addition, the robe has `4d4` other patches. The DM chooses the patches or det
 | 16-22 | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
 | 23-30 | 10 gems worth 100 GP each |
 | 31-44 | Wooden ladder (24 feet long) |
-| 45-51 | [[riding-horse-xmm]] with a [[riding-saddle-xphb]] |
+| 45-51 | [[Riding Horse]] with a [[riding-saddle-xphb]] |
 | 52-59 | Open pit (a 10-foot [[cube-area-of-effect-xphb]]), which you can place on the ground within 10 feet of yourself |
 | 60-68 | 4 [[potion-of-healing-xdmg]] |
 | 69-75 | [[rowboat-xphb]] (12 feet long) |
@@ -42,4 +42,4 @@ In addition, the robe has `4d4` other patches. The DM chooses the patches or det
 | 97-00 | [[portable-ram-xphb]] |
 ^1-patch
 
-*Source: Dungeon Master's Guide (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*[Mastiffs](Mastiff.md)

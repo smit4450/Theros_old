@@ -28,19 +28,19 @@ Creatures in your Menagerie count as Bastion Defenders. Deduct any you lose from
 
 | Creature | Size | Cost |
 |----------|------|------|
-| [[ape-xmm]] | Medium | 500 GP |
-| [[black-bear-xmm]] | Medium | 500 GP |
-| [[brown-bear-xmm]] | Large | 1,000 GP |
-| [[constrictor-snake-xmm]] | Large | 250 GP |
-| [[crocodile-xmm]] | Large | 500 GP |
-| [[dire-wolf-xmm]] | Large | 1,000 GP |
-| [[giant-vulture-xmm]] | Large | 1,000 GP |
-| [[hyena-xmm]] | Medium | 50 GP |
-| [[jackal-xmm]] | Small | 50 GP |
-| [[lion-xmm]] | Large | 1,000 GP |
+| [[Ape]] | Medium | 500 GP |
+| [[Black Bear]] | Medium | 500 GP |
+| [[Brown Bear]] | Large | 1,000 GP |
+| [[Constrictor Snake]] | Large | 250 GP |
+| [[Crocodile]] | Large | 500 GP |
+| [[Dire Wolf]] | Large | 1,000 GP |
+| [[Giant Vulture]] | Large | 1,000 GP |
+| [[Hyena]] | Medium | 50 GP |
+| [[Jackal]] | Small | 50 GP |
+| [[Lion]] | Large | 1,000 GP |
 | [[owlbear-xmm]] | Large | 3,500 GP |
-| [[panther-xmm]] | Medium | 250 GP |
-| [[tiger-xmm]] | Large | 1,000 GP |
+| [[Panther]] | Medium | 250 GP |
+| [[Tiger]] | Large | 1,000 GP |
 ^menagerie-creatures
 
 With the DM's consent, you can add different creatures than those shown in the Menagerie Creatures table to your Menagerie. The cost of a creature depends on its Challenge Rating, as shown on the Creature Costs by Challenge Rating table. Typically only Beasts and some Monstrosities can be kept in a Menagerie, though the DM might allow other creatures.

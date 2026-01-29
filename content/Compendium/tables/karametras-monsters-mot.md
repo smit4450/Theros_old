@@ -14,16 +14,16 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 0 | [[awakened-shrub-xmm]] |
-| 1 | [[alseid-mot]] |
-| 1 | [[dryad-xmm]] |
-| 2 | [[awakened-tree-xmm]] |
-| 2 | [[druid-xmm]] |
-| 4 | [[setessan-hoplite-mot]] |
-| 5 | [[earth-elemental-xmm]] |
-| 5 | [[unicorn-xmm]]* |
-| 9 | [[treant-xmm]] |
-| 12 | [[archdruid-vgm]] |
+| 0 | [[Awakened Shrub]] |
+| 1 | [[Alseid]] |
+| 1 | [[Dryad]] |
+| 2 | [[Awakened Tree]] |
+| 2 | [[Compendium/bestiary/humanoid/Druid]] |
+| 4 | [[Setessan Hoplite]] |
+| 5 | [[Earth Elemental]] |
+| 5 | [[Unicorn Encounter]]* |
+| 9 | [[Treant]] |
+| 12 | [[Archdruid]] |
 ^karametras-monsters
 
-* See "chapter 6" for details about these creatures in Theros.
+* See "chapter 6" for details about these creatures in Theros.[Unicorn](Unicorn.md)

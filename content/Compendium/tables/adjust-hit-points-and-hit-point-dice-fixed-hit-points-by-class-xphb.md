@@ -14,8 +14,7 @@ aliases:
 
 | Class | Hit Points per Level |
 |-------|----------------------|
-| [[barbarian-xphb]] | 7 + Con. modifier |
-| [[fighter-xphb]], [[paladin-xphb]], or [[ranger-xphb]] | 6 + Con. modifier |
-| [[bard-xphb]], [[cleric-xphb]], [[druid-xphb]], [[monk-xphb]], [[rogue-xphb]], or [[warlock-xphb]] | 5 + Con. modifier |
-| [[sorcerer-xphb]] or [[wizard-xphb]] | 4 + Con. modifier |
+| [Barbarian](Barbarian.md)ter-xphb]], [[Paladin]], or [[Ranger]] | 6 + Con. modifier |
+| [[Bard]], [[Cleric]], [[Compendium/classes/Druid]], [[Monk]], [[Rogue]], or [[Warlock]] | 5 + Con. modifier |
+| [[Sorcerer]] or [[Wizard]] | 4 + Con. modifier |
 ^fixed-hit-points-by-class

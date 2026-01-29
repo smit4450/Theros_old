@@ -9,7 +9,7 @@ aliases:
 - Great Old One Patron
 ---
 # Great Old One Patron
-* [[warlock-xphb]]: Warlock Subclass*  
+* [[Warlock]]: Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 162*  
 
 > [!tldr] Class and Feature Progression

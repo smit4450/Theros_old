@@ -51,12 +51,12 @@ Choose a class, and write it on your character sheet. The Class Overview table s
 
 > [!note] A Balanced Party
 > 
-> The classic D&D party comprises a [[cleric-xphb]], [[fighter-xphb]], [[rogue-xphb]], and [[wizard-xphb]]. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You're welcome to use that party setup or modify it using these guidelines:
+> The classic D&D party comprises a [[Cleric]], [[Fighter]], [[Rogue]], and [[Wizard]]. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You're welcome to use that party setup or modify it using these guidelines:
 > 
-> - **Cleric.** Replace with [[bard-xphb]] or [[druid-xphb]]  
-> - **Fighter.** Replace with [[barbarian-xphb]], [[monk-xphb]], [[paladin-xphb]], or [[ranger-xphb]]  
-> - **Rogue.** Replace with [[bard-xphb]] or [[ranger-xphb]]  
-> - **Wizard.** Replace with [[bard-xphb]], [[sorcerer-xphb]], or [[warlock-xphb]]  
+> - **Cleric.** Replace with [[Bard]] or [[Compendium/classes/Druid]]  
+> - **Fighter.** Replace with [[Barbarian]], [[Monk]], [[Paladin]], or [[Ranger]]  
+> - **Rogue.** Replace with [[Bard]] or [[Ranger]]  
+> - **Wizard.** Replace with [[Bard]], [[Sorcerer]], or [[Warlock]]  
 ^a-balanced-party
 
 #### Write Your Level
@@ -277,7 +277,7 @@ Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or b
 
 > [!note] Unaligned Creatures
 > 
-> Most creatures that lack the capacity for rational thought don't have alignments; they are unaligned. [[reef-shark-xmm]] are savage predators, for example, but they aren't evil; they are unaligned.
+> Most creatures that lack the capacity for rational thought don't have alignments; they are unaligned. [[Reef Shark]] are savage predators, for example, but they aren't evil; they are unaligned.
 ^unaligned-creatures
 
 #### Alignment and Personality
