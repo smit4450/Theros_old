@@ -31,7 +31,7 @@ aliases: ["Control Water"]
 - **Components:** V, S, M (a mixture of water and dust)
 - **Duration:** Concentration, up to 10 minutes
 
-Until the spell ends, you control any water inside an area you choose that is a [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) up to 100 feet on a side, using one of the following effects. As a [Magic](Compendium/rules/actions.md#Magic) action on your later turns, you can repeat the same effect or choose a different one.
+Until the spell ends, you control any water inside an area you choose that is a [[cube-area-of-effect-xphb]] up to 100 feet on a side, using one of the following effects. As a [Magic](Compendium/rules/actions.md#Magic) action on your later turns, you can repeat the same effect or choose a different one.
 
 ## Flood
 
@@ -53,6 +53,6 @@ You cause a whirlpool to form in the center of the area, which must be at least 
 
 ## Summary
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid (Circle of the Sea)](Compendium/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [Druid (Circle of the Sea)](Compendium/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 
 *Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

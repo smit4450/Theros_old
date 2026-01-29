@@ -16,12 +16,12 @@ This robe has cloth patches of various shapes and colors covering it. While wear
 
 The robe has two of each of the following patches:
 
-- [Bullseye Lantern](Compendium/items/bullseye-lantern-xphb.md) (filled and lit)  
-- [Dagger](Compendium/items/dagger-xphb.md)  
-- [Mirror](Compendium/items/mirror-xphb.md)  
-- [Pole](Compendium/items/pole-xphb.md)  
-- [Rope](Compendium/items/rope-xphb.md) (coiled)  
-- [Sack](Compendium/items/sack-xphb.md)  
+- [[bullseye-lantern-xphb]] (filled and lit)  
+- [[dagger-xphb]]  
+- [[mirror-xphb]]  
+- [[pole-xphb]]  
+- [[rope-xphb]] (coiled)  
+- [[sack-xphb]]  
 
 In addition, the robe has `4d4` other patches. The DM chooses the patches or determines them randomly by rolling on the following table.
 
@@ -32,14 +32,14 @@ In addition, the robe has `4d4` other patches. The DM chooses the patches or det
 | 16-22 | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
 | 23-30 | 10 gems worth 100 GP each |
 | 31-44 | Wooden ladder (24 feet long) |
-| 45-51 | [Riding Horse](Compendium/bestiary/beast/riding-horse-xmm.md) with a [Riding Saddle](Compendium/items/riding-saddle-xphb.md) |
-| 52-59 | Open pit (a 10-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)), which you can place on the ground within 10 feet of yourself |
-| 60-68 | 4 [Potions of Healing](Compendium/items/potion-of-healing-xdmg.md) |
-| 69-75 | [Rowboat](Compendium/items/rowboat-xphb.md) (12 feet long) |
-| 76-83 | [Spell Scroll](Compendium/items/spell-scroll-xdmg.md) containing one spell of level 1, 2, or 3 (your choice) |
-| 84-90 | 2 [Mastiffs](Compendium/bestiary/beast/mastiff-xmm.md) |
+| 45-51 | [[riding-horse-xmm]] with a [[riding-saddle-xphb]] |
+| 52-59 | Open pit (a 10-foot [[cube-area-of-effect-xphb]]), which you can place on the ground within 10 feet of yourself |
+| 60-68 | 4 [[potion-of-healing-xdmg]] |
+| 69-75 | [[rowboat-xphb]] (12 feet long) |
+| 76-83 | [[spell-scroll-xdmg]] containing one spell of level 1, 2, or 3 (your choice) |
+| 84-90 | 2 [[mastiff-xmm]] |
 | 91-96 | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach |
-| 97-00 | [Portable Ram](Compendium/items/portable-ram-xphb.md) |
+| 97-00 | [[portable-ram-xphb]] |
 ^1-patch
 
 *Source: Dungeon Master's Guide (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

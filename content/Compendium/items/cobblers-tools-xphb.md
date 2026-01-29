@@ -16,7 +16,7 @@ aliases:
 - **Weight**: 5.0 lbs.
 
 - **Ability.** Dexterity  
-- **Utilize.** Modify footwear to give [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the wearer's next Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check (DC 10)  
-- **Craft.** [Climber's Kit](Compendium/items/climbers-kit-xphb.md)  
+- **Utilize.** Modify footwear to give [[advantage-xphb]] on the wearer's next Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check (DC 10)  
+- **Craft.** [[climbers-kit-xphb]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -21,7 +21,7 @@ Performer legends are celebrities known across nations, continents, or worlds. T
 *Artists and Entertainers*
 
 - **Habitat.** Any  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [[random-magic-items-implements]], Individual  
 
 From royal courts to village squares, skilled entertainers hone their talents and delight audiences. Some travel far, sharing tales and demonstrating mysterious arts. Others serve in the courts and theaters of great nations, cultivating celebrity and navigating the whims of patrons. Many hone professional secrets and magical flourishes, striving to make their performances truly unforgettable.
 
@@ -135,7 +135,7 @@ Wrestler
   - "desc": "*Melee Attack Roll:* +9, reach 5 ft. *Hit:* 10 (2d4 + 5) Bludgeoning\
       \ damage plus 10 (3d6) Psychic damage."
     "name": "Bejeweled Baton"
-  - "desc": "*Wisdom Saving Throw:* DC 17, each creature in a 20-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+  - "desc": "*Wisdom Saving Throw:* DC 17, each creature in a 20-foot-radius [[sphere-area-of-effect-xphb]]\
       \ centered on a point within 120 feet. *Failure:* 22 (4d8 + 4) Psychic damage,\
       \ and the target has the [Charmed](Compendium/rules/conditions.md#Charmed) or\
       \ [Frightened](Compendium/rules/conditions.md#Frightened) condition (performer's\
@@ -144,9 +144,9 @@ Wrestler
     "name": "Majestic Song"
   - "desc": "The performer casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-      \n**At will:** [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Minor Illusion](Compendium/spells/minor-illusion-xphb.md),\
-      \ [Prestidigitation](Compendium/spells/prestidigitation-xphb.md)\n\n**1/day\
-      \ each:** [Major Image](Compendium/spells/major-image-xphb.md), [Project Image](Compendium/spells/project-image-xphb.md)"
+      \n**At will:** [[mage-hand-xphb]], [[minor-illusion-xphb]],\
+      \ [[prestidigitation-xphb]]\n\n**1/day\
+      \ each:** [[major-image-xphb]], [[project-image-xphb]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: A creature hits the performer with an attack roll. _Response—\

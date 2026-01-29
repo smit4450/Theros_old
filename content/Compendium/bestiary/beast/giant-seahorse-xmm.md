@@ -16,7 +16,7 @@ aliases: ["Giant Seahorse"]
 ![](Compendium/bestiary/beast/img/seahorse.webp#right)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm]] stat block can also represent a mountain lion, while the [[giant-goat-xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 ![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
 ![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
 ![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
@@ -49,7 +49,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
       \ straight toward the target immediately before the hit."
     "name": "Ram"
 "bonus_actions":
-  - "desc": "While underwater, the seahorse moves up to half its [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md)\
+  - "desc": "While underwater, the seahorse moves up to half its [[swim-speed-xphb]]\
       \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack)."
     "name": "Bubble Dash"
 "source":

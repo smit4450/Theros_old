@@ -21,7 +21,7 @@ Death cultists revel in nihilistic forces, embracing them as paths to undeath, m
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [[random-magic-items-relics]]  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -114,11 +114,11 @@ Cults can organize around any mystical tradition, but many serve supernatural be
       \ damage."
     "name": "Deathly Ray"
   - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 14):\n\n**At will:** [Speak with Dead](Compendium/spells/speak-with-dead-xphb.md),\
-      \ [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)"
+      \ ability (spell save DC 14):\n\n**At will:** [[speak-with-dead-xphb]],\
+      \ [[thaumaturgy-xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "*Wisdom Saving Throw:* DC 14, each creature in a 20-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "*Wisdom Saving Throw:* DC 14, each creature in a 20-foot [[emanation-area-of-effect-xphb]]\
       \ originating from the cultist. *Failure:* 14 (4d6) Psychic damage, and the\
       \ target has the [Frightened](Compendium/rules/conditions.md#Frightened) condition\
       \ until the end of its next turn. *Success:* Half damage only."

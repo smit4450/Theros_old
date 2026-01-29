@@ -24,7 +24,7 @@ Returned reenter the world blank and undead. No longer possessing the ability to
 "type": "undead"
 "alignment": "Lawful Neutral"
 "ac": !!int "13"
-"ac_class": "[leather armor](Compendium/items/leather-armor-xphb.md)"
+"ac_class": "[[leather-armor-xphb]]"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "2"

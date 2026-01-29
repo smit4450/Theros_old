@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can expend 1 charge to cast [Web](Compendium/spells/web-xphb.md) (save DC 13) from it.
+This wand has 7 charges. While holding it, you can expend 1 charge to cast [[web-xphb]] (save DC 13) from it.
 
 ## Regaining Charges
 

@@ -50,7 +50,7 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 "languages": ""
 "cr": "0"
 "reactions":
-  - "desc": "Trigger: A creature or a source of [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
+  - "desc": "Trigger: A creature or a source of [[bright-light-xphb]]\
       \ moves within 30 feet of the shrieker. _Response:_ The shrieker emits a shriek\
       \ audible within 300 feet of itself for 1 minute or until the shrieker dies."
     "name": "Shriek"

@@ -49,7 +49,7 @@ Clever, far-ranging people of the sea, tritons live rich lives unknown to most l
 "traits":
   - "desc": "The triton's spellcasting ability is Wisdom (spell save DC 12). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **1/day each:** [fog cloud](Compendium/spells/fog-cloud-xphb.md), [gust of wind](Compendium/spells/gust-of-wind-xphb.md)"
+      **1/day each:** [[fog-cloud-xphb]], [[gust-of-wind-xphb]]"
     "name": "Innate Spellcasting"
   - "desc": "The triton can breathe air and water."
     "name": "Amphibious"

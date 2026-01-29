@@ -17,10 +17,10 @@ This tome contains information and incantations necessary to make a particular t
 
 | dice: d20 | Golem | Time | Cost |
 |-----------|-------|------|------|
-| 1-5 | [Manual of Clay Golems](Compendium/items/manual-of-clay-golems-xdmg.md) | 30 days | 65,000 GP |
-| 6-17 | [Manual of Flesh Golems](Compendium/items/manual-of-flesh-golems-xdmg.md) | 60 days | 50,000 GP |
-| 18 | [Manual of Iron Golems](Compendium/items/manual-of-iron-golems-xdmg.md) | 120 days | 100,000 GP |
-| 19-20 | [Manual of Stone Golems](Compendium/items/manual-of-stone-golems-xdmg.md) | 90 days | 80,000 GP |
+| 1-5 | [[manual-of-clay-golems-xdmg]] | 30 days | 65,000 GP |
+| 6-17 | [[manual-of-flesh-golems-xdmg]] | 60 days | 50,000 GP |
+| 18 | [[manual-of-iron-golems-xdmg]] | 120 days | 100,000 GP |
+| 19-20 | [[manual-of-stone-golems-xdmg]] | 90 days | 80,000 GP |
 ^golem-time-cost
 
 To create a golem, you must spend the time shown on the table, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay the specified cost to purchase supplies.
@@ -29,9 +29,9 @@ Once you finish creating the golem, the book is consumed in eldritch flames. The
 
 **Items in this group:**
 
-- [Manual of Clay Golems](Compendium/items/manual-of-clay-golems-xdmg.md)
-- [Manual of Flesh Golems](Compendium/items/manual-of-flesh-golems-xdmg.md)
-- [Manual of Iron Golems](Compendium/items/manual-of-iron-golems-xdmg.md)
-- [Manual of Stone Golems](Compendium/items/manual-of-stone-golems-xdmg.md)
+- [[manual-of-clay-golems-xdmg]]
+- [[manual-of-flesh-golems-xdmg]]
+- [[manual-of-iron-golems-xdmg]]
+- [[manual-of-stone-golems-xdmg]]
 
 *Source: Dungeon Master's Guide (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

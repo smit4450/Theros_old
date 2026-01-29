@@ -24,7 +24,7 @@ Even though the age of archons is long past, many wonder if the few surviving ar
 "type": "celestial"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate](Compendium/items/plate-armor-xphb.md)"
+"ac_class": "[[plate-armor-xphb]]"
 "hp": !!int "178"
 "hit_dice": "21d8 + 84"
 "modifier": !!int "3"
@@ -58,8 +58,8 @@ Even though the age of archons is long past, many wonder if the few surviving ar
 "traits":
   - "desc": "The ashen rider's spellcasting ability is Wisdom (spell save DC 18).\
       \ The rider can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [command](Compendium/spells/command-xphb.md), [compelled duel](Compendium/spells/compelled-duel-xphb.md)\n\
-      \n**1/day each:** [banishment](Compendium/spells/banishment-xphb.md), [blade\
+      \n**At will:** [[command-xphb]], [[compelled-duel-xphb]]\n\
+      \n**1/day each:** [[banishment-xphb]], [blade\
       \ barrier](Compendium/spells/blade-barrier-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "When a creature starts its turn within 30 feet of the ashen rider, the\
@@ -105,7 +105,7 @@ Even though the age of archons is long past, many wonder if the few surviving ar
       \ a long rest. If the target's hit point maximum is reduced to 0, its body and\
       \ everything it is wearing and carrying, except for magic items, are reduced\
       \ to ash. A creature reduced to ash can't be revived by any means short of a\
-      \ [wish](Compendium/spells/wish-xphb.md) spell."
+      \ [[wish-xphb]] spell."
     "name": "Reduce to Ash (Costs 3 Actions)"
 "source":
   - "MOT"

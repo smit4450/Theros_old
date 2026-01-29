@@ -55,7 +55,7 @@ aliases:
 - **Weapon Proficiencies**: Simple weapons
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
-**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Compendium/items/leather-armor-xphb.md), [Sickle](Compendium/items/sickle-xphb.md), 2 [Daggers](Compendium/items/dagger-xphb.md), [Arcane Focus](Compendium/items/arcane-focus-xphb.md) ([orb](Compendium/items/orb-xphb.md)), [Book](Compendium/items/book-xphb.md) (occult lore), [Scholar's Pack](Compendium/items/scholars-pack-xphb.md), and 15 GP; or (B) 100 GP
+**Starting Equipment:** *Choose A or B:* (A) [[leather-armor-xphb]], [[sickle-xphb]], 2 [[dagger-xphb]], [[arcane-focus-xphb]] ([[orb-xphb]]), [[book-xphb]] (occult lore), [[scholars-pack-xphb]], and 15 GP; or (B) 100 GP
 
 ## Multiclassing Warlock
 
@@ -73,7 +73,7 @@ Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked 
 
 ### Eldritch Invocations (Level 1)
 
-You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options^[Optional features from [Eldritch Invocation](Compendium/lists/list-optfeaturetype-ei.md); defined in Player's Handbook (2024)]" section later in this class's description.
+You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options^[[list-optfeaturetype-ei]]; defined in Player's Handbook (2024)]" section later in this class's description.
 
 #### Prerequisites
 
@@ -93,19 +93,19 @@ Through occult ceremony, you have formed a pact with a mysterious entity to gain
 
 #### Cantrips
 
-You know two Warlock cantrips of your choice. [Eldritch Blast](Compendium/spells/eldritch-blast-xphb.md) and [Prestidigitation](Compendium/spells/prestidigitation-xphb.md) are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
+You know two Warlock cantrips of your choice. [[eldritch-blast-xphb]] and [[prestidigitation-xphb]] are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
 
 When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock Features table.
 
 #### Spell Slots
 
-The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a [[short-rest-xphb]] or [[long-rest-xphb]].
 
-For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [Witch Bolt](Compendium/spells/witch-bolt-xphb.md), you must spend one of those slots, and you cast it as a level 3 spell.
+For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [[witch-bolt-xphb]], you must spend one of those slots, and you cast it as a level 3 spell.
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. [Charm Person](Compendium/spells/charm-person-xphb.md) and [Hex](Compendium/spells/hex-xphb.md) are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. [[charm-person-xphb]] and [[hex-xphb]] are recommended.
 
 The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1–3.
 
@@ -121,7 +121,7 @@ Charisma is the spellcasting ability for your Warlock spells.
 
 #### Spellcasting Focus
 
-You can use an [Arcane Focus](Compendium/items/arcane-focus-xphb.md) as a [Spellcasting Focus](Compendium/rules/variant-rules/spellcasting-focus-xphb.md) for your Warlock spells.
+You can use an [[arcane-focus-xphb]] as a [[spellcasting-focus-xphb]] for your Warlock spells.
 
 ### Eldritch Invocation Options (Level 1)
 
@@ -129,7 +129,7 @@ Eldritch Invocation options appear in alphabetical order.
 
 ### Magical Cunning (Level 2)
 
-You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a [[long-rest-xphb]].
 
 ### Warlock Subclass (Level 3)
 
@@ -137,7 +137,7 @@ You gain a Warlock subclass of your choice. A subclass is a specialization that 
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
+You gain the  [[Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
 ### Subclass Feature (Level 6)
 
@@ -145,13 +145,13 @@ You gain a feature from your Warlock subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [[Ability Score Improvement|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
+You gain the  [[Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Contact Patron (Level 9)
 
-In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the [Contact Other Plane](Compendium/spells/contact-other-plane-xphb.md) spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell's saving throw.
+In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the [[contact-other-plane-xphb]] spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell's saving throw.
 
-Once you cast the spell with this feature, you can't do so in this way again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+Once you cast the spell with this feature, you can't do so in this way again until you finish a [[long-rest-xphb]].
 
 ### Subclass Feature (Level 10)
 
@@ -161,15 +161,15 @@ You gain a feature from your Warlock subclass.
 
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
 
-You can cast your arcanum spell once without expending a spell slot, and you must finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) before you can cast it in this way again.
+You can cast your arcanum spell once without expending a spell slot, and you must finish a [[long-rest-xphb]] before you can cast it in this way again.
 
-As shown in the Warlock Features table, you gain another Warlock spell of your choice that can be cast in this way when you reach Warlock levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+As shown in the Warlock Features table, you gain another Warlock spell of your choice that can be cast in this way when you reach Warlock levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a [[long-rest-xphb]].
 
 Whenever you gain a Warlock level, you can replace one of your arcanum spells with another Warlock spell of the same level.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [[Ability Score Improvement|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
+You gain the  [[Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Mystic Arcanum (Level 13)
 
@@ -185,7 +185,7 @@ You gain a level 8 Warlock Spell of your choice.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [[Ability Score Improvement|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
+You gain the  [[Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Mystic Arcanum (Level 17)
 
@@ -193,7 +193,7 @@ You gain a level 9 Warlock Spell of your choice.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [[Boon of Fate|Boon of Fate]] is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify.  [[Boon of Fate]] is recommended.
 
 ### Eldritch Master (Level 20)
 

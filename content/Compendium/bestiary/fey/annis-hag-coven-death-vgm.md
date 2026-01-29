@@ -48,22 +48,22 @@ aliases: ["Annis Hag (Coven; Death)"]
   - "desc": "While all three members of a hag coven are within 30 feet of one another,\
       \ they can each cast the following spells from the wizard's spell list but must\
       \ share the spell slots among themselves:\n\n**1st level (4 slots):** [false\
-      \ life](Compendium/spells/false-life-xphb.md), [inflict wounds](Compendium/spells/inflict-wounds-xphb.md)\n\
-      \n**2nd level (3 slots):** [gentle repose](Compendium/spells/gentle-repose-xphb.md),\
-      \ [ray of enfeeblement](Compendium/spells/ray-of-enfeeblement-xphb.md)\n\n**3rd\
-      \ level (3 slots):** [animate dead](Compendium/spells/animate-dead-xphb.md),\
-      \ [revivify](Compendium/spells/revivify-xphb.md), [speak with dead](Compendium/spells/speak-with-dead-xphb.md)\n\
-      \n**4th level (3 slots):** [blight](Compendium/spells/blight-xphb.md), [death\
-      \ ward](Compendium/spells/death-ward-xphb.md)\n\n**5th level (2 slots):** [contagion](Compendium/spells/contagion-xphb.md),\
-      \ [raise dead](Compendium/spells/raise-dead-xphb.md)\n\n**6th level (1 slots):**\
-      \ [circle of death](Compendium/spells/circle-of-death-xphb.md)\n\nFor casting\
+      \ life](Compendium/spells/false-life-xphb.md), [[inflict-wounds-xphb]]\n\
+      \n**2nd level (3 slots):** [[gentle-repose-xphb]],\
+      \ [[ray-of-enfeeblement-xphb]]\n\n**3rd\
+      \ level (3 slots):** [[animate-dead-xphb]],\
+      \ [[revivify-xphb]], [[speak-with-dead-xphb]]\n\
+      \n**4th level (3 slots):** [[blight-xphb]], [death\
+      \ ward](Compendium/spells/death-ward-xphb.md)\n\n**5th level (2 slots):** [[contagion-xphb]],\
+      \ [[raise-dead-xphb]]\n\n**6th level (1 slots):**\
+      \ [[circle-of-death-xphb]]\n\nFor casting\
       \ these spells, each hag is a 12th-level spellcaster that uses Intelligence\
       \ as her spellcasting ability. The spell save DC 13, and the spell attack bonus\
       \ is +5."
     "name": "Shared Spellcasting (Coven Only)"
   - "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 13).\
-      \ She can innately cast the following spells:\n\n**3/day each:** [disguise self](Compendium/spells/disguise-self-xphb.md)\
-      \ (including the form of a Medium humanoid), [fog cloud](Compendium/spells/fog-cloud-xphb.md)"
+      \ She can innately cast the following spells:\n\n**3/day each:** [[disguise-self-xphb]]\
+      \ (including the form of a Medium humanoid), [[fog-cloud-xphb]]"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "The annis makes three attacks: one with her bite and two with her claws."

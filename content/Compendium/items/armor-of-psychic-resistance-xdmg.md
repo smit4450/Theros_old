@@ -29,21 +29,21 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to psychic damage while you wear this armor.
+You have [[resistance-xphb]] to psychic damage while you wear this armor.
 
 **Variants**:
-- [[#Breastplate of Psychic Resistance|Breastplate of Psychic Resistance]]
-- [[#Chain Mail of Psychic Resistance|Chain Mail of Psychic Resistance]]
-- [[#Chain Shirt of Psychic Resistance|Chain Shirt of Psychic Resistance]]
-- [[#Half Plate Armor of Psychic Resistance|Half Plate Armor of Psychic Resistance]]
-- [[#Hide Armor of Psychic Resistance|Hide Armor of Psychic Resistance]]
-- [[#Leather Armor of Psychic Resistance|Leather Armor of Psychic Resistance]]
-- [[#Padded Armor of Psychic Resistance|Padded Armor of Psychic Resistance]]
-- [[#Plate Armor of Psychic Resistance|Plate Armor of Psychic Resistance]]
-- [[#Ring Mail of Psychic Resistance|Ring Mail of Psychic Resistance]]
-- [[#Scale Mail of Psychic Resistance|Scale Mail of Psychic Resistance]]
-- [[#Splint Armor of Psychic Resistance|Splint Armor of Psychic Resistance]]
-- [[#Studded Leather Armor of Psychic Resistance|Studded Leather Armor of Psychic Resistance]]
+-  [[#Breastplate of Psychic Resistance]]
+-  [[#Chain Mail of Psychic Resistance]]
+-  [[#Chain Shirt of Psychic Resistance]]
+-  [[#Half Plate Armor of Psychic Resistance]]
+-  [[#Hide Armor of Psychic Resistance]]
+-  [[#Leather Armor of Psychic Resistance]]
+-  [[#Padded Armor of Psychic Resistance]]
+-  [[#Plate Armor of Psychic Resistance]]
+-  [[#Ring Mail of Psychic Resistance]]
+-  [[#Scale Mail of Psychic Resistance]]
+-  [[#Splint Armor of Psychic Resistance]]
+-  [[#Studded Leather Armor of Psychic Resistance]]
 
 ### Breastplate of Psychic Resistance
 

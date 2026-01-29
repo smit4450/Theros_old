@@ -29,10 +29,10 @@ aliases: ["Faerie Fire"]
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-Objects in a 20-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) within range are outlined in blue, green, or violet light (your choice). Each creature in the [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) in a 10-foot radius and can't benefit from the [Invisible](Compendium/rules/conditions.md#Invisible) condition.
+Objects in a 20-foot [[cube-area-of-effect-xphb]] within range are outlined in blue, green, or violet light (your choice). Each creature in the [[cube-area-of-effect-xphb]] is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed [[dim-light-xphb]] in a 10-foot radius and can't benefit from the [Invisible](Compendium/rules/conditions.md#Invisible) condition.
 
-[Attack](Compendium/rules/actions.md#Attack) rolls against an affected creature or object have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) if the attacker can see it.
+[Attack](Compendium/rules/actions.md#Attack) rolls against an affected creature or object have [[advantage-xphb]] if the attacker can see it.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Warlock (Archfey Patron)](Compendium/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid]]; [Warlock (Archfey Patron)](Compendium/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

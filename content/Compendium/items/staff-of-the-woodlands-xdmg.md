@@ -28,19 +28,19 @@ While holding the staff, you can cast one of the spells on the following table f
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Animal Friendship](Compendium/spells/animal-friendship-xphb.md) | 1 |
-| [Awaken](Compendium/spells/awaken-xphb.md) | 5 |
-| [Barkskin](Compendium/spells/barkskin-xphb.md) | 2 |
-| [Locate Animals or Plants](Compendium/spells/locate-animals-or-plants-xphb.md) | 2 |
-| [Pass without Trace](Compendium/spells/pass-without-trace-xphb.md) | 2 |
-| [Speak with Animals](Compendium/spells/speak-with-animals-xphb.md) | 1 |
-| [Speak with Plants](Compendium/spells/speak-with-plants-xphb.md) | 3 |
-| [Wall of Thorns](Compendium/spells/wall-of-thorns-xphb.md) | 6 |
+| [[animal-friendship-xphb]] | 1 |
+| [[awaken-xphb]] | 5 |
+| [[barkskin-xphb]] | 2 |
+| [[locate-animals-or-plants-xphb]] | 2 |
+| [[pass-without-trace-xphb]] | 2 |
+| [[speak-with-animals-xphb]] | 1 |
+| [[speak-with-plants-xphb]] | 3 |
+| [[wall-of-thorns-xphb]] | 6 |
 ^spell-charge-cost
 
 ## Tree Form
 
-You can take a [Magic](Compendium/rules/actions.md#Magic) action to plant one end of the staff in earth in an unoccupied space and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of Transmutation magic that can be discerned with the [Detect Magic](Compendium/spells/detect-magic-xphb.md) spell. While touching the tree and using a [Magic](Compendium/rules/actions.md#Magic) action, you return the staff to its normal form. Any creature in the tree falls when the tree reverts to a staff.
+You can take a [Magic](Compendium/rules/actions.md#Magic) action to plant one end of the staff in earth in an unoccupied space and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of Transmutation magic that can be discerned with the [[detect-magic-xphb]] spell. While touching the tree and using a [Magic](Compendium/rules/actions.md#Magic) action, you return the staff to its normal form. Any creature in the tree falls when the tree reverts to a staff.
 
 ## Regaining Charges
 

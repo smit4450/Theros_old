@@ -20,7 +20,7 @@ aliases:
 - **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Cold damage while you hold this staff.
+You have [[resistance-xphb]] to Cold damage while you hold this staff.
 
 ## Spells
 
@@ -28,10 +28,10 @@ The staff has 10 charges. While holding the staff, you can cast one of the spell
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Cone of Cold](Compendium/spells/cone-of-cold-xphb.md) | 5 |
-| [Fog Cloud](Compendium/spells/fog-cloud-xphb.md) | 1 |
-| [Ice Storm](Compendium/spells/ice-storm-xphb.md) | 4 |
-| [Wall of Ice](Compendium/spells/wall-of-ice-xphb.md) | 4 |
+| [[cone-of-cold-xphb]] | 5 |
+| [[fog-cloud-xphb]] | 1 |
+| [[ice-storm-xphb]] | 4 |
+| [[wall-of-ice-xphb]] | 4 |
 ^spell-charge-cost
 
 ## Regaining Charges

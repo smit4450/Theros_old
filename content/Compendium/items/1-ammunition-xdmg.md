@@ -25,15 +25,15 @@ aliases:
 You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 
 This ammunition is typically found or sold in quantities of ten or twenty pieces. Ten pieces of this ammunition are equivalent in value to a potion of the same rarity > [!note]
-> ([200 GP](Compendium/tables/magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg.md)).
+> ([[magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg]]).
 
 **Variants**:
-- [[#+1 Arrow|+1 Arrow]]
-- [[#+1 Bolt|+1 Bolt]]
-- [[#+1 Energy Cell|+1 Energy Cell]]
-- [[#+1 Firearm Bullet|+1 Firearm Bullet]]
-- [[#+1 Needle|+1 Needle]]
-- [[#+1 Sling Bullet|+1 Sling Bullet]]
+-  [[#+1 Arrow]]
+-  [[#+1 Bolt]]
+-  [[#+1 Energy Cell]]
+-  [[#+1 Firearm Bullet]]
+-  [[#+1 Needle]]
+-  [[#+1 Sling Bullet]]
 
 ### +1 Arrow
 

@@ -65,9 +65,9 @@ A nymph doesn't require food, drink, or sleep.
 "traits":
   - "desc": "The naiad's spellcasting ability is Charisma (spell save DC 14). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [minor illusion](Compendium/spells/minor-illusion-xphb.md)\n\n\
-      **3/day:** [phantasmal force](Compendium/spells/phantasmal-force-xphb.md)\n\n\
-      **1/day each:** [fly](Compendium/spells/fly-xphb.md), [hypnotic pattern](Compendium/spells/hypnotic-pattern-xphb.md)"
+      **At will:** [[minor-illusion-xphb]]\n\n\
+      **3/day:** [[phantasmal-force-xphb]]\n\n\
+      **1/day each:** [[fly-xphb]], [[hypnotic-pattern-xphb]]"
     "name": "Innate Spellcasting"
   - "desc": "The naiad can breathe air and water."
     "name": "Amphibious"

@@ -23,17 +23,17 @@ aliases:
 
 
 
-This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md) against you becomes a normal hit.
+This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any [[critical-hit-xphb]] against you becomes a normal hit.
 
 **Variants**:
-- [[#Adamantine Breastplate|Adamantine Breastplate]]
-- [[#Adamantine Chain Mail|Adamantine Chain Mail]]
-- [[#Adamantine Chain Shirt|Adamantine Chain Shirt]]
-- [[#Adamantine Half Plate Armor|Adamantine Half Plate Armor]]
-- [[#Adamantine Plate Armor|Adamantine Plate Armor]]
-- [[#Adamantine Ring Mail|Adamantine Ring Mail]]
-- [[#Adamantine Scale Mail|Adamantine Scale Mail]]
-- [[#Adamantine Splint Armor|Adamantine Splint Armor]]
+-  [[#Adamantine Breastplate]]
+-  [[#Adamantine Chain Mail]]
+-  [[#Adamantine Chain Shirt]]
+-  [[#Adamantine Half Plate Armor]]
+-  [[#Adamantine Plate Armor]]
+-  [[#Adamantine Ring Mail]]
+-  [[#Adamantine Scale Mail]]
+-  [[#Adamantine Splint Armor]]
 
 ### Adamantine Breastplate
 

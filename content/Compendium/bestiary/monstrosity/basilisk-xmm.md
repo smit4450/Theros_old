@@ -69,8 +69,8 @@ The remains of [Petrified](Compendium/rules/conditions.md#Petrified) creatures l
       \ damage plus 7 (2d6) Poison damage."
     "name": "Bite"
 "bonus_actions":
-  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 30-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ If the basilisk sees its reflection within the [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md),\
+  - "desc": "*Constitution Saving Throw:* DC 12, each creature in a 30-foot [[cone-area-of-effect-xphb]].\
+      \ If the basilisk sees its reflection within the [[cone-area-of-effect-xphb]],\
       \ the basilisk must make this save. *1St Failure:* The target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
       \ condition and repeats the save at the end of its next turn if it is still\
       \ [Restrained](Compendium/rules/conditions.md#Restrained), ending the effect\

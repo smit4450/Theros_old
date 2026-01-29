@@ -24,7 +24,7 @@ This staff has 10 charges.
 
 ## Insect Cloud
 
-While holding the staff , you can take a [Magic](Compendium/rules/actions.md#Magic) action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you. The insects remain for 10 minutes, making the area [Heavily Obscured](Compendium/rules/variant-rules/heavily-obscured-xphb.md) for creatures other than you. A strong wind (like that created by [Gust of Wind](Compendium/spells/gust-of-wind-xphb.md)) disperses the swarm and ends the effect.
+While holding the staff , you can take a [Magic](Compendium/rules/actions.md#Magic) action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot [[emanation-area-of-effect-xphb]] originating from you. The insects remain for 10 minutes, making the area [[heavily-obscured-xphb]] for creatures other than you. A strong wind (like that created by [[gust-of-wind-xphb]]) disperses the swarm and ends the effect.
 
 ## Spells
 
@@ -32,8 +32,8 @@ While holding the staff, you can cast one of the spells on the following table f
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Giant Insect](Compendium/spells/giant-insect-xphb.md) | 4 |
-| [Insect Plague](Compendium/spells/insect-plague-xphb.md) | 5 |
+| [[giant-insect-xphb]] | 4 |
+| [[insect-plague-xphb]] | 5 |
 ^spell-charge-cost
 
 ## Regaining Charges

@@ -11,7 +11,7 @@ aliases:
 - "Whelm"
 ---
 # Whelm
-*Weapon ([warhammer](Compendium/items/warhammer-xphb.md)), artifact (requires attunement by a dwarf or a creature attuned to a belt of dwarvenkind)*  
+*Weapon ([[warhammer-xphb]]), artifact (requires attunement by a dwarf or a creature attuned to a belt of dwarvenkind)*  
 
 
 - **Damage**:
@@ -35,7 +35,7 @@ You can take a [Magic](Compendium/rules/actions.md#Magic) action to strike the g
 
 ## Supernatural Awareness
 
-While you are holding the weapon, it alerts you to the location of any secret or concealed doors within 30 feet of you. In addition, you can cast [Detect Evil and Good](Compendium/spells/detect-evil-and-good-xphb.md) or [Locate Object](Compendium/spells/locate-object-xphb.md) from the weapon. Once you cast either spell, you can't cast it from the weapon again until the next dawn.
+While you are holding the weapon, it alerts you to the location of any secret or concealed doors within 30 feet of you. In addition, you can cast [[detect-evil-and-good-xphb]] or [[locate-object-xphb]] from the weapon. Once you cast either spell, you can't cast it from the weapon again until the next dawn.
 
 ## Sentience
 
@@ -49,6 +49,6 @@ Whelm has ties to the dwarf clan that created it, called the Dankil or the Might
 
 ## Destroying Whelm
 
-Whelm can be dissolved in the acidic bile of a recently slain [ancient black dragon](Compendium/bestiary/dragon/ancient-black-dragon-xmm.md). It can also be melted down in the forges of the Mightyhammer dwarf clan, but only by the rightful leader of that clan.
+Whelm can be dissolved in the acidic bile of a recently slain [[ancient-black-dragon-xmm]]. It can also be melted down in the forges of the Mightyhammer dwarf clan, but only by the rightful leader of that clan.
 
 *Source: Dungeon Master's Guide (2024) p. 324*

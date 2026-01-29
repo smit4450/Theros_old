@@ -75,18 +75,18 @@ These supernatural gifts are intended for starting characters, but some might be
 > 
 > If your campaign uses the optional feat rules from "chapter 6" of the "Player's Handbook", your Dungeon Master might allow you to take a feat as a variant supernatural gift. You gain one feat of your choice. This list suggests twelve feats from the "Player's Handbook", but you can choose any feat your DM allows:
 > 
-> - A snake emerged from my mouth before I took my first breath—an omen of my gift for deception. ([[Actor|Actor]])  
-> - I hear voices on the wind, warning me of danger. ([[Alert|Alert]])  
-> - Iroas gifted me with physical prowess, intending to see me compete in the Iroan Games. ([[Athlete|Athlete]])  
-> - I feel the vitality of the earth beneath my feet, and it refreshes my strength when I rest on it. ([[Durable|Durable]])  
-> - The stars of Nyx are never hidden from my sight, revealing their secrets to my eyes. ([[Keen Mind|Keen Mind]])  
+> - A snake emerged from my mouth before I took my first breath—an omen of my gift for deception. ( [[Actor]])  
+> - I hear voices on the wind, warning me of danger. ( [[Alert]])  
+> - Iroas gifted me with physical prowess, intending to see me compete in the Iroan Games. ( [[Athlete]])  
+> - I feel the vitality of the earth beneath my feet, and it refreshes my strength when I rest on it. ( [[Durable]])  
+> - The stars of Nyx are never hidden from my sight, revealing their secrets to my eyes. ( [[Keen Mind]])  
 > - I hear the echoes of the gods' speech in every mortal language and trace the patterns of Nyx in the written word. (Linguist)  
-> - The gods smile on me, but I dread the day when they withdraw their favor and my luck runs out. ([[Lucky|Lucky]])  
-> - As a child, I used to run through the woods and play with a giant lynx—which, I learned later, was an emissary of Nylea. ([[Speedy|Mobile]])  
-> - The sun's light brings what is hidden to clear view in my eyes. ([[Observant|Observant]])  
-> - I ate a magical fruit that blessed me with extraordinary resilience. ([[Resilient|Resilient]])  
-> - I studied with a supernatural tutor. ([[Skilled|Skilled]])  
-> - I was bathed in the waters of a mystic river that left my skin resistant to harm—and glittering with starlight. ([[Tough|Tough]])  
+> - The gods smile on me, but I dread the day when they withdraw their favor and my luck runs out. ( [[Lucky]])  
+> - As a child, I used to run through the woods and play with a giant lynx—which, I learned later, was an emissary of Nylea. ( [[Speedy]])  
+> - The sun's light brings what is hidden to clear view in my eyes. ( [[Observant]])  
+> - I ate a magical fruit that blessed me with extraordinary resilience. ( [[Resilient]])  
+> - I studied with a supernatural tutor. ( [[Skilled]])  
+> - I was bathed in the waters of a mystic river that left my skin resistant to harm—and glittering with starlight. ( [[Tough]])  
 ^heroic-feats
 
 > [!note] Myths of Theros
@@ -107,17 +107,17 @@ A diverse assortment of peoples dwell among the lands of Theros. Aside from huma
 
 This chapter provides information about the following common playable races of Theros, as well as racial traits for all of them except humans:
 
-[Humans](Compendium/races/human-xphb.md) on Theros are similar to those found on other D&D worlds: adaptable, ambitious, and wildly diverse.
+[[human-xphb]] on Theros are similar to those found on other D&D worlds: adaptable, ambitious, and wildly diverse.
 
-[Centaurs](Compendium/races/centaur-mot.md) employ cunning and equine strength to further the goals of the roaming Lagonna and Pheres bands.
+[[centaur-mot]] employ cunning and equine strength to further the goals of the roaming Lagonna and Pheres bands.
 
-[Leonin](Compendium/races/leonin-mot.md) are proud lion-like hunters, many of whom live in defiance of the gods.
+[[leonin-mot]] are proud lion-like hunters, many of whom live in defiance of the gods.
 
-[Minotaurs](Compendium/races/minotaur-mot.md) are infamous for bloodthirstiness, a reputation even the most peaceful struggle to escape.
+[[minotaur-mot]] are infamous for bloodthirstiness, a reputation even the most peaceful struggle to escape.
 
-[Satyrs](Compendium/races/satyr-mot.md) follow their passions in the pursuit of wild revels and new adventures.
+[[satyr-mot]] follow their passions in the pursuit of wild revels and new adventures.
 
-[Tritons](Compendium/races/triton-mot.md) are an enigmatic, sea-dwelling people with an endless desire to explore.
+[[triton-mot]] are an enigmatic, sea-dwelling people with an endless desire to explore.
 
 ### Human
 
@@ -138,7 +138,7 @@ The most prestigious names however, are those earned through deeds or temperamen
 
 ![An unrivaled orator, the c...](Compendium/books/mythic-odysseys-of-theros/img/019-01-15.webp#center "An unrivaled orator, the centaur Perisophia guides Meletis as a member of the polis's ruling council, the Twelve")
 
-At 3rd level, a bard chooses a Bard College and a paladin chooses a Sacred Oath. This section offers the College of Eloquence for bards and the [Oath of Glory](Compendium/classes/paladin-xphb-oath-of-glory-xphb.md) for paladins, expanding their options for that choice.
+At 3rd level, a bard chooses a Bard College and a paladin chooses a Sacred Oath. This section offers the College of Eloquence for bards and the [[paladin-xphb-oath-of-glory-xphb]] for paladins, expanding their options for that choice.
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/020-01-16.webp#center)
 
@@ -154,7 +154,7 @@ Your character doesn't need to be a follower of any of the gods, but if you're n
 
 In addition to the gods, the supernatural gifts presented earlier in this chapter might influence your background. Consider what story emerges from your combination of supernatural gift, background, and other choices.
 
-Beyond these options, the [athlete](Compendium/backgrounds/athlete-mot.md) background presented here provides a new way to seek glory through discipline and physical prowess.
+Beyond these options, the [[athlete-mot]] background presented here provides a new way to seek glory through discipline and physical prowess.
 
 > [!readaloud] 
 > 

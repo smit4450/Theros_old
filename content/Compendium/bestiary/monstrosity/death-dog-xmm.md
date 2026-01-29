@@ -76,11 +76,11 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
       \ damage. If the target is a creature, it is subjected to the following effect.\
       \ *Constitution Saving Throw:* DC 12. *1St Failure:* The target has the [Poisoned](Compendium/rules/conditions.md#Poisoned)\
       \ condition. While [Poisoned](Compendium/rules/conditions.md#Poisoned), the\
-      \ target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum\
-      \ doesn't return to normal when finishing a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md),\
+      \ target's [[hit-points-xphb]] maximum\
+      \ doesn't return to normal when finishing a [[long-rest-xphb]],\
       \ and it repeats the save every 24 hours that elapse, ending the effect on itself\
       \ on a success. Subsequent Failures: The [Poisoned](Compendium/rules/conditions.md#Poisoned)\
-      \ target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum\
+      \ target's [[hit-points-xphb]] maximum\
       \ decreases by 5 (1d10)."
     "name": "Bite"
 "source":

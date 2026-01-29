@@ -19,7 +19,7 @@ aliases:
 
 
 
-You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon, which has no string. Each time you pull your arm back in a firing motion, a magical arrow made of golden energy appears nocked and ready to fire. An arrow produced by this weapon deals Force damage instead of Piercing damage on a hit, and it disappears after it hits or misses its target. Until it disappears, the arrow emits [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) in a 20-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 20 feet.
+You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon, which has no string. Each time you pull your arm back in a firing motion, a magical arrow made of golden energy appears nocked and ready to fire. An arrow produced by this weapon deals Force damage instead of Piercing damage on a hit, and it disappears after it hits or misses its target. Until it disappears, the arrow emits [[bright-light-xphb]] in a 20-foot radius and [[dim-light-xphb]] for an additional 20 feet.
 
 This weapon has the following additional properties.
 
@@ -29,15 +29,15 @@ Whenever you use this weapon to make a ranged attack against a creature, you can
 
 ## Arrow of Transport
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can fire one energy arrow from this weapon at a target you can see within 60 feet of yourself. The target can be either a willing Medium or smaller creature or an object that isn't being worn or carried, provided the object is small enough to fit inside a 5-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md). The arrow teleports the target to an unoccupied space you can see within 10 feet of you.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can fire one energy arrow from this weapon at a target you can see within 60 feet of yourself. The target can be either a willing Medium or smaller creature or an object that isn't being worn or carried, provided the object is small enough to fit inside a 5-foot [[cube-area-of-effect-xphb]]. The arrow teleports the target to an unoccupied space you can see within 10 feet of you.
 
 ## Energy Ladder
 
 As a [Magic](Compendium/rules/actions.md#Magic) action, you can loose a flurry of energy arrows from this weapon at a wall up to 60 feet away from yourself. The arrows become glowing rungs that stick out of the wall, forming a magical ladder up to 60 feet long on the wall. This ladder lasts for 1 minute before disappearing.
 
 **Variants**:
-- [[#Energy Longbow|Energy Longbow]]
-- [[#Energy Shortbow|Energy Shortbow]]
+-  [[#Energy Longbow]]
+-  [[#Energy Shortbow]]
 
 ### Energy Longbow
 

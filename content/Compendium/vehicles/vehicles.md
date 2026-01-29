@@ -6,4 +6,4 @@ cssclasses:
 ---
 # Index of Vehicles
 
-- [[apparatus-of-kwalish-xdmg|Apparatus of Kwalish]]
+-  [[apparatus-of-kwalish-xdmg]]

@@ -58,12 +58,12 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 "languages": "Common, Druidic"
 "cr": "16"
 "traits":
-  - "desc": "When it finishes a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md),\
+  - "desc": "When it finishes a [[long-rest-xphb]],\
       \ the blight expels 1d6 seeds into unoccupied spaces on the ground within\
       \ 30 feet of itself. After 24 hours, the seeds become creatures under the blight's\
       \ control. Roll 1d8 for each seed to determine the creature it becomes: on\
-      \ 1-4, [Twig Blight](Compendium/bestiary/plant/twig-blight-xmm.md); on 5-6,\
-      \ [Needle Blight](Compendium/bestiary/plant/needle-blight-xmm.md); on 7-8, [Vine\
+      \ 1-4, [[twig-blight-xmm]]; on 5-6,\
+      \ [[needle-blight-xmm]]; on 7-8, [Vine\
       \ Blight](Compendium/bestiary/plant/vine-blight-xmm.md)."
     "name": "Blight Seeds"
 "actions":
@@ -82,9 +82,9 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
       \ condition (escape DC 17) from one of six roots. Until the grapple ends, the\
       \ target has the [Restrained](Compendium/rules/conditions.md#Restrained) condition\
       \ and takes 14 (4d6) Necrotic damage at the start of each of its turns. The\
-      \ target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum\
+      \ target's [[hit-points-xphb]] maximum\
       \ decreases by an amount equal to the Necrotic damage taken, and the blight\
-      \ regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal\
+      \ regains [[hit-points-xphb]] equal\
       \ to that amount."
     "name": "Life-Draining Root"
 "source":

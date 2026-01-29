@@ -44,7 +44,7 @@ Woe striders form from the souls of those who've broken the bonds of destiny. Ov
 "cr": "7"
 "traits":
   - "desc": "The woe strider's open mouth creates an area of antimagic, as in the\
-      \ [antimagic field](Compendium/spells/antimagic-field-xphb.md) spell, in a 60-foot\
+      \ [[antimagic-field-xphb]] spell, in a 60-foot\
       \ cone. At the start of each of its turns, the woe strider decides which way\
       \ the cone faces and whether its mouth is open or closed."
     "name": "Antimagic Cone"

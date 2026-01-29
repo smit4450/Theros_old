@@ -14,13 +14,13 @@ aliases:
 
 | Item Category | Required Tool |
 |---------------|---------------|
-| Armor | [Leatherworker's Tools](Compendium/items/leatherworkers-tools-xphb.md), [Smith's Tools](Compendium/items/smiths-tools-xphb.md), or [Weaver's Tools](Compendium/items/weavers-tools-xphb.md) depending on the kind of armor as noted in the tools' descriptions |
-| Potion | [Alchemist's Supplies](Compendium/items/alchemists-supplies-xphb.md) or [Herbalism Kit](Compendium/items/herbalism-kit-xphb.md) |
-| Ring | [Jeweler's Tools](Compendium/items/jewelers-tools-xphb.md) |
-| Rod | [Woodcarver's Tools](Compendium/items/woodcarvers-tools-xphb.md) |
-| Scroll | [Calligrapher's Supplies](Compendium/items/calligraphers-supplies-xphb.md) |
-| Staff | [Woodcarver's Tools](Compendium/items/woodcarvers-tools-xphb.md) |
-| Wand | [Woodcarver's Tools](Compendium/items/woodcarvers-tools-xphb.md) |
-| Weapon | [Leatherworker's Tools](Compendium/items/leatherworkers-tools-xphb.md), [Smith's Tools](Compendium/items/smiths-tools-xphb.md), or [Woodcarver's Tools](Compendium/items/woodcarvers-tools-xphb.md) depending on the kind of weapon as noted in the tools' descriptions |
-| Wondrous Item | [Tinker's Tools](Compendium/items/tinkers-tools-xphb.md) or the tool required to make the nonmagical item on which the magic item is based |
+| Armor | [[leatherworkers-tools-xphb]], [[smiths-tools-xphb]], or [[weavers-tools-xphb]] depending on the kind of armor as noted in the tools' descriptions |
+| Potion | [[alchemists-supplies-xphb]] or [[herbalism-kit-xphb]] |
+| Ring | [[jewelers-tools-xphb]] |
+| Rod | [[woodcarvers-tools-xphb]] |
+| Scroll | [[calligraphers-supplies-xphb]] |
+| Staff | [[woodcarvers-tools-xphb]] |
+| Wand | [[woodcarvers-tools-xphb]] |
+| Weapon | [[leatherworkers-tools-xphb]], [[smiths-tools-xphb]], or [[woodcarvers-tools-xphb]] depending on the kind of weapon as noted in the tools' descriptions |
+| Wondrous Item | [[tinkers-tools-xphb]] or the tool required to make the nonmagical item on which the magic item is based |
 ^magic-item-tools

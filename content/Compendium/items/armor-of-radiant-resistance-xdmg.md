@@ -29,21 +29,21 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to radiant damage while you wear this armor.
+You have [[resistance-xphb]] to radiant damage while you wear this armor.
 
 **Variants**:
-- [[#Breastplate of Radiant Resistance|Breastplate of Radiant Resistance]]
-- [[#Chain Mail of Radiant Resistance|Chain Mail of Radiant Resistance]]
-- [[#Chain Shirt of Radiant Resistance|Chain Shirt of Radiant Resistance]]
-- [[#Half Plate Armor of Radiant Resistance|Half Plate Armor of Radiant Resistance]]
-- [[#Hide Armor of Radiant Resistance|Hide Armor of Radiant Resistance]]
-- [[#Leather Armor of Radiant Resistance|Leather Armor of Radiant Resistance]]
-- [[#Padded Armor of Radiant Resistance|Padded Armor of Radiant Resistance]]
-- [[#Plate Armor of Radiant Resistance|Plate Armor of Radiant Resistance]]
-- [[#Ring Mail of Radiant Resistance|Ring Mail of Radiant Resistance]]
-- [[#Scale Mail of Radiant Resistance|Scale Mail of Radiant Resistance]]
-- [[#Splint Armor of Radiant Resistance|Splint Armor of Radiant Resistance]]
-- [[#Studded Leather Armor of Radiant Resistance|Studded Leather Armor of Radiant Resistance]]
+-  [[#Breastplate of Radiant Resistance]]
+-  [[#Chain Mail of Radiant Resistance]]
+-  [[#Chain Shirt of Radiant Resistance]]
+-  [[#Half Plate Armor of Radiant Resistance]]
+-  [[#Hide Armor of Radiant Resistance]]
+-  [[#Leather Armor of Radiant Resistance]]
+-  [[#Padded Armor of Radiant Resistance]]
+-  [[#Plate Armor of Radiant Resistance]]
+-  [[#Ring Mail of Radiant Resistance]]
+-  [[#Scale Mail of Radiant Resistance]]
+-  [[#Splint Armor of Radiant Resistance]]
+-  [[#Studded Leather Armor of Radiant Resistance]]
 
 ### Breastplate of Radiant Resistance
 

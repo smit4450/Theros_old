@@ -21,7 +21,7 @@ Aberrant cultists pursue mind-bending powers from alien forces. Aberrant cultist
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [[random-magic-items-relics]]  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -120,11 +120,11 @@ Cults can organize around any mystical tradition, but many serve supernatural be
       \ only."
     "name": "Mind Rot"
   - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 15):\n\n**At will:** [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md),\
-      \ [Minor Illusion](Compendium/spells/minor-illusion-xphb.md)"
+      \ ability (spell save DC 15):\n\n**At will:** [[detect-thoughts-xphb]],\
+      \ [[minor-illusion-xphb]]"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The cultist casts [Counterspell](Compendium/spells/counterspell-xphb.md)\
+  - "desc": "The cultist casts [[counterspell-xphb]]\
       \ in response to that spell's trigger, using the same spellcasting ability as\
       \ Spellcasting.\n"
     "name": "Counterspell (2/Day)"

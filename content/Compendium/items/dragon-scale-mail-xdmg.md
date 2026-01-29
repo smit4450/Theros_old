@@ -10,7 +10,7 @@ aliases:
 - "Dragon Scale Mail"
 ---
 # Dragon Scale Mail
-*Medium armor ([scale mail](Compendium/items/scale-mail-xphb.md)), very rare (requires attunement)*  
+*Medium armor ([[scale-mail-xphb]]), very rare (requires attunement)*  
 ![](Compendium/items/img/dragon-scale-mail.webp#right)
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
@@ -19,15 +19,15 @@ aliases:
 
 **Items in this group:**
 
-- [Black Dragon Scale Mail](Compendium/items/black-dragon-scale-mail-xdmg.md)
-- [Blue Dragon Scale Mail](Compendium/items/blue-dragon-scale-mail-xdmg.md)
-- [Brass Dragon Scale Mail](Compendium/items/brass-dragon-scale-mail-xdmg.md)
-- [Bronze Dragon Scale Mail](Compendium/items/bronze-dragon-scale-mail-xdmg.md)
-- [Copper Dragon Scale Mail](Compendium/items/copper-dragon-scale-mail-xdmg.md)
-- [Gold Dragon Scale Mail](Compendium/items/gold-dragon-scale-mail-xdmg.md)
-- [Green Dragon Scale Mail](Compendium/items/green-dragon-scale-mail-xdmg.md)
-- [Red Dragon Scale Mail](Compendium/items/red-dragon-scale-mail-xdmg.md)
-- [Silver Dragon Scale Mail](Compendium/items/silver-dragon-scale-mail-xdmg.md)
-- [White Dragon Scale Mail](Compendium/items/white-dragon-scale-mail-xdmg.md)
+- [[black-dragon-scale-mail-xdmg]]
+- [[blue-dragon-scale-mail-xdmg]]
+- [[brass-dragon-scale-mail-xdmg]]
+- [[bronze-dragon-scale-mail-xdmg]]
+- [[copper-dragon-scale-mail-xdmg]]
+- [[gold-dragon-scale-mail-xdmg]]
+- [[green-dragon-scale-mail-xdmg]]
+- [[red-dragon-scale-mail-xdmg]]
+- [[silver-dragon-scale-mail-xdmg]]
+- [[white-dragon-scale-mail-xdmg]]
 
 *Source: Dungeon Master's Guide (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

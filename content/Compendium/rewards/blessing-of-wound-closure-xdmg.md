@@ -10,6 +10,6 @@ aliases:
 ---
 # Blessing of Wound Closure
 
-This Blessing grants you the benefits of a [Periapt of Wound Closure](Compendium/items/periapt-of-wound-closure-xdmg.md).
+This Blessing grants you the benefits of a [[periapt-of-wound-closure-xdmg]].
 
 *Source: Dungeon Master's Guide (2024) p. 99*

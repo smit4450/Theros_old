@@ -55,7 +55,7 @@ Every harpy sings a distinct song. While some songs are said to be heartbreaking
     "name": "Claw"
   - "desc": "The harpy sings a magical melody, which lasts until the harpy's [Concentration](Compendium/rules/conditions.md#Concentration)\
       \ ends on it. *Wisdom Saving Throw:* DC 11, each Humanoid and Giant in a 300-foot\
-      \ [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ [[emanation-area-of-effect-xphb]]\
       \ originating from the harpy when the song starts. *Failure:* The target has\
       \ the [Charmed](Compendium/rules/conditions.md#Charmed) condition until the\
       \ song ends and repeats the save at the end of each of its turns. While [Charmed](Compendium/rules/conditions.md#Charmed),\

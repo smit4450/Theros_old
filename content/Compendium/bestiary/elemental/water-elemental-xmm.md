@@ -72,7 +72,7 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 "languages": "Primordial (Aquan)"
 "cr": "5"
 "traits":
-  - "desc": "If the elemental takes Cold damage, its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+  - "desc": "If the elemental takes Cold damage, its [[speed-xphb]]\
       \ decreases by 20 feet until the end of its next turn."
     "name": "Freeze"
   - "desc": "The elemental can enter an enemy's space and stop there. It can move\

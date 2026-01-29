@@ -63,8 +63,8 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "traits":
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Tiny creature. The swarm\
-      \ can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ or gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)."
+      \ can't regain [[hit-points-xphb]]\
+      \ or gain [[temporary-hit-points-xphb]]."
     "name": "Swarm"
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 20 (4d8 + 2) Necrotic\

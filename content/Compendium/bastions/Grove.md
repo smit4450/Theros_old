@@ -27,14 +27,14 @@ Creatures in your Grove count as Bastion Defenders. Deduct any you lose from you
 
 | Creature                                                          | Size   |
 | ----------------------------------------------------------------- | ------ |
-| [Awakened Shrub](Compendium/bestiary/plant/awakened-shrub-xmm.md) | Small  |
-| [Awakened Tree](Compendium/bestiary/plant/awakened-tree-xmm.md)   | Huge   |
-| [Blink Dog](Compendium/bestiary/fey/blink-dog-xmm.md)             | Medium |
-| [Centaur Trooper](Compendium/bestiary/fey/centaur-trooper-xmm.md) | Large  |
-| [Dryad](Compendium/bestiary/fey/dryad-xmm.md)                     | Medium |
-| [Satyr](Compendium/bestiary/fey/satyr-xmm.md)                     | Medium |
-| [Treant](Compendium/bestiary/plant/treant-xmm.md)                 | Large  |
-| [Unicorn](Compendium/bestiary/celestial/unicorn-xmm.md)           | Large  |
+| [[awakened-shrub-xmm]] | Small  |
+| [[awakened-tree-xmm]]   | Huge   |
+| [[blink-dog-xmm]]             | Medium |
+| [[centaur-trooper-xmm]] | Large  |
+| [[dryad-xmm]]                     | Medium |
+| [[satyr-xmm]]                     | Medium |
+| [[treant-xmm]]                 | Large  |
+| [[unicorn-xmm]]           | Large  |
 ^grove-creatures
 
 *Source: FRHoF*

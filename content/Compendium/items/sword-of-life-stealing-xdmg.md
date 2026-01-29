@@ -22,15 +22,15 @@ aliases:
 ![](Compendium/items/img/sword-of-life-stealing.webp#right)
 
 
-When you attack a creature with this magic weapon and roll a 20 on the `d20` for the attack roll, that target takes an extra 15 Necrotic damage if it isn't a Construct or an Undead, and you gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to the amount of Necrotic damage taken.
+When you attack a creature with this magic weapon and roll a 20 on the `d20` for the attack roll, that target takes an extra 15 Necrotic damage if it isn't a Construct or an Undead, and you gain [[temporary-hit-points-xphb]] equal to the amount of Necrotic damage taken.
 
 **Variants**:
-- [[#Glaive of Life Stealing|Glaive of Life Stealing]]
-- [[#Greatsword of Life Stealing|Greatsword of Life Stealing]]
-- [[#Longsword of Life Stealing|Longsword of Life Stealing]]
-- [[#Rapier of Life Stealing|Rapier of Life Stealing]]
-- [[#Scimitar of Life Stealing|Scimitar of Life Stealing]]
-- [[#Shortsword of Life Stealing|Shortsword of Life Stealing]]
+-  [[#Glaive of Life Stealing]]
+-  [[#Greatsword of Life Stealing]]
+-  [[#Longsword of Life Stealing]]
+-  [[#Rapier of Life Stealing]]
+-  [[#Scimitar of Life Stealing]]
+-  [[#Shortsword of Life Stealing]]
 
 ### Glaive of Life Stealing
 

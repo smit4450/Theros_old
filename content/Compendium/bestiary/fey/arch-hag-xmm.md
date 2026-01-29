@@ -19,7 +19,7 @@ aliases: ["Arch-hag"]
 *Hag of Forbidden Secrets and Magical Malice*
 
 - **Habitat.** Any  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana]]  
 
 Immortal and unpredictable, arch-hags hoard secrets and strike magical bargains, altering fate to indulge their fickle whims. These timeless schemers pursue the secrets of the multiverse and work strange magic in pursuit of their inscrutable goals.
 
@@ -90,24 +90,24 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
   - "desc": "While within 30 feet of at least two hag allies, the hag can cast one\
       \ of the following spells, requiring no Material components, using the spell's\
       \ normal casting time, and using Intelligence as the spellcasting ability (spell\
-      \ save DC 19): [Augury](Compendium/spells/augury-xphb.md), [Find Familiar](Compendium/spells/find-familiar-xphb.md),\
-      \ [Identify](Compendium/spells/identify-xphb.md), [Locate Object](Compendium/spells/locate-object-xphb.md),\
-      \ [Scrying](Compendium/spells/scrying-xphb.md), or [Unseen Servant](Compendium/spells/unseen-servant-xphb.md).\
-      \ The hag must finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md)\
+      \ save DC 19): [[augury-xphb]], [[find-familiar-xphb]],\
+      \ [[identify-xphb]], [[locate-object-xphb]],\
+      \ [[scrying-xphb]], or [[unseen-servant-xphb]].\
+      \ The hag must finish a [[long-rest-xphb]]\
       \ before using this trait to cast that spell again.\n"
     "name": "Coven Magic"
   - "desc": "If the hag fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
-  - "desc": "The hag has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The hag has [[advantage-xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "When the hag drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
+  - "desc": "When the hag drops to 0 [[hit-points-xphb]],\
       \ it dies only if it is within 30 feet of its anathema (a thing the DM chooses\
-      \ as the hag's most hated thing). Otherwise, the hag drops to 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ as the hag's most hated thing). Otherwise, the hag drops to 1 [[hit-points-xphb]]\
       \ and teleports to a harmless demiplane, and it can't return to the plane it\
       \ left for 2d6 days. When the hag teleports away, each creature within 60\
       \ feet of the space it left is cursed. Until the curse ends, a creature has\
-      \ [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on ability\
+      \ [[disadvantage-xphb]] on ability\
       \ checks and saving throws, and the hag knows its location anywhere in the multiverse."
     "name": "Spiteful Escape"
 "actions":
@@ -117,25 +117,25 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
       \ 17 (3d6 + 7) Force damage. If the target is a Large or smaller creature,\
       \ it has the [Prone](Compendium/rules/conditions.md#Prone) condition."
     "name": "Spectral Claw"
-  - "desc": "*Dexterity Saving Throw:* DC 22, each creature in a 60-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 22, each creature in a 60-foot [[cone-area-of-effect-xphb]].\
       \ *Failure:* 32 (5d12) Lightning damage. *Success:* Half damage. *Failure\
       \ or Success:* The target is cursed until the end of the hag's next turn. The\
       \ target can't take Reactions until the curse ends."
     "name": "Crackling Wave"
   - "desc": "The hag casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 22):\n\n**At\
-      \ will:** [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md), [Dimension\
-      \ Door](Compendium/spells/dimension-door-xphb.md), [Dispel Magic](Compendium/spells/dispel-magic-xphb.md),\
-      \ [Hypnotic Pattern](Compendium/spells/hypnotic-pattern-xphb.md)\n\n**2/day\
-      \ each:** [Mass Suggestion](Compendium/spells/mass-suggestion-xphb.md), [Modify\
-      \ Memory](Compendium/spells/modify-memory-xphb.md), [Plane Shift](Compendium/spells/plane-shift-xphb.md)"
+      \ will:** [[detect-thoughts-xphb]], [Dimension\
+      \ Door](Compendium/spells/dimension-door-xphb.md), [[dispel-magic-xphb]],\
+      \ [[hypnotic-pattern-xphb]]\n\n**2/day\
+      \ each:** [[mass-suggestion-xphb]], [Modify\
+      \ Memory](Compendium/spells/modify-memory-xphb.md), [[plane-shift-xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Each creature cursed by the hag and within 60 feet of it takes 14 (4d6)\
       \ Lightning damage."
     "name": "Witch Strike"
 "reactions":
-  - "desc": "The hag casts [Counterspell](Compendium/spells/counterspell-xphb.md)\
+  - "desc": "The hag casts [[counterspell-xphb]]\
       \ in response to that spell's trigger, using the same spellcasting ability as\
       \ Spellcasting. If the target fails its saving throw, it is cursed until the\
       \ end of its next turn. Until the curse ends, the target can't cast spells with\
@@ -147,9 +147,9 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
       \ the hag and its allies) within 1 mile of the lair subtract 1d10 from any\
       \ ability check they make when they take the [Influence](Compendium/rules/actions.md#Influence)\
       \ action.  \n- **Meddlesome Magic.** Whenever a creature other than the hag\
-      \ or its allies finishes a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md)\
+      \ or its allies finishes a [[long-rest-xphb]]\
       \ while within 1 mile of the lair, the next time that creature casts a spell\
-      \ using a spell slot, it also casts [Confusion](Compendium/spells/confusion-xphb.md)\
+      \ using a spell slot, it also casts [[confusion-xphb]]\
       \ centered on itself. The spell uses the creature's spellcasting ability and\
       \ doesn't require [Concentration](Compendium/rules/conditions.md#Concentration).\
       \  \n\nIf the arch-hag is destroyed or moves its lair elsewhere, these effects\
@@ -161,8 +161,8 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
 "legendary_actions":
   - "desc": "The hag makes one Spectral Claw attack."
     "name": "Hag's Swipe"
-  - "desc": "The hag uses Spellcasting to cast [Dimension Door](Compendium/spells/dimension-door-xphb.md)\
-      \ or [Hypnotic Pattern](Compendium/spells/hypnotic-pattern-xphb.md). The hag\
+  - "desc": "The hag uses Spellcasting to cast [[dimension-door-xphb]]\
+      \ or [[hypnotic-pattern-xphb]]. The hag\
       \ can't take this action again until the start of its next turn."
     "name": "Malicious Magic"
 "source":

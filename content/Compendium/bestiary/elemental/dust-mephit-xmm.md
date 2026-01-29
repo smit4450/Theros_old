@@ -66,7 +66,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "cr": "1/2"
 "traits":
   - "desc": "The mephit explodes when it dies. *Dexterity Saving Throw:* DC 10, each\
-      \ creature in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ creature in a 5-foot [[emanation-area-of-effect-xphb]]\
       \ originating from the mephit. *Failure:* 5 (2d4) Bludgeoning damage. *Success:*\
       \ Half damage."
     "name": "Death Burst"
@@ -74,11 +74,11 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Slashing\
       \ damage."
     "name": "Claw"
-  - "desc": "*Dexterity Saving Throw:* DC 10, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 10, each creature in a 15-foot [[cone-area-of-effect-xphb]].\
       \ *Failure:* The target has the [Blinded](Compendium/rules/conditions.md#Blinded)\
       \ condition until the end of the mephit's next turn."
     "name": "Blinding Breath (Recharge 6)"
-  - "desc": "The mephit casts the [Sleep](Compendium/spells/sleep-xphb.md) spell,\
+  - "desc": "The mephit casts the [[sleep-xphb]] spell,\
       \ requiring no spell components and using Charisma as the spellcasting ability\
       \ (spell save DC 10).\n"
     "name": "Sleep (1/Day)"

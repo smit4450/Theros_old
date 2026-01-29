@@ -126,7 +126,7 @@ Your piety score to Athreos decreases if you diminish the River Guide's influenc
 
 ### Benefits of Piety
 
-- [Athreos's Devotee](Compendium/rewards/athreoss-devotee-mot.md)  
-- [Athreos's Votary](Compendium/rewards/athreoss-votary-mot.md)  
-- [Athreos's Disciple](Compendium/rewards/athreoss-disciple-mot.md)  
-- [Champion of the Passage](Compendium/rewards/champion-of-the-passage-mot.md)
+- [[athreoss-devotee-mot]]  
+- [[athreoss-votary-mot]]  
+- [[athreoss-disciple-mot]]  
+- [[champion-of-the-passage-mot]]

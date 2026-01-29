@@ -21,7 +21,7 @@ Knights frequently lead troops in combat or work in units that dominate the batt
 *Battle Masters and Heroic Wanderers*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments]], Individual  
 
 Knights are skilled warriors trained for war and tested in battle. Many serve the rulers of a realm, a religion, or an order devoted to a cause.
 ## Statblock

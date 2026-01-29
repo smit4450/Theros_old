@@ -20,7 +20,7 @@ aliases: ["Storm Giant"]
 *Giant of Seas and Skies*
 
 - **Habitat.** Coastal, Underwater  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments]]  
 
 Among the tallest giants, storm giants live amid extreme forces of nature. In palaces at the bottom of the sea and castles floating amid the clouds, they revel in the power of mighty storms. When angered, they can shape the weather and call down devastating lightning. More often, though, these giants watch the rise and fall of nations and interpret supernatural omens, interfering in the world only when they're needed most.
 ```statblock
@@ -76,14 +76,14 @@ Among the tallest giants, storm giants live amid extreme forces of nature. In pa
       \ start of the giant's next turn."
     "name": "Thunderbolt"
   - "desc": "*Dexterity Saving Throw:* DC 18, each creature in a 10-foot-radius, 40-foot-high\
-      \ [Cylinder](Compendium/rules/variant-rules/cylinder-area-of-effect-xphb.md)\
+      \ [[cylinder-area-of-effect-xphb]]\
       \ originating from a point the giant can see within 500 feet. *Failure:* 55\
       \ (10d10) Lightning damage. *Success:* Half damage."
     "name": "Lightning Storm (Recharge 5-6)"
   - "desc": "The giant casts one of the following spells, requiring no Material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 18):\n\n**At will:**\
-      \ [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Light](Compendium/spells/light-xphb.md)\n\
-      \n**1/day:** [Control Weather](Compendium/spells/control-weather-xphb.md)"
+      \ [[detect-magic-xphb]], [[light-xphb]]\n\
+      \n**1/day:** [[control-weather-xphb]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

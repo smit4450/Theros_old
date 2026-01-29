@@ -10,4 +10,4 @@ aliases:
 # Immunity
 *Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-If you have Immunity to a [damage type](Compendium/rules/variant-rules/damage-types-xphb.md) or a [condition](Compendium/rules/variant-rules/condition-xphb.md), it doesn't affect you in any way.
+If you have Immunity to a [[damage-types-xphb]] or a [[condition-xphb]], it doesn't affect you in any way.

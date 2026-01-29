@@ -17,11 +17,11 @@ aliases:
 ![](Compendium/items/img/dwarven-plate.webp#right)
 
 
-While wearing this armor, you gain a +2 bonus to [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md). In addition, if an effect moves you against your will along the ground, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to reduce the distance you are moved by up to 10 feet.
+While wearing this armor, you gain a +2 bonus to [[armor-class-xphb]]. In addition, if an effect moves you against your will along the ground, you can take a [[reaction-xphb]] to reduce the distance you are moved by up to 10 feet.
 
 **Variants**:
-- [[#Dwarven Half Plate Armor|Dwarven Half Plate Armor]]
-- [[#Dwarven Plate Armor|Dwarven Plate Armor]]
+-  [[#Dwarven Half Plate Armor]]
+-  [[#Dwarven Plate Armor]]
 
 ### Dwarven Half Plate Armor
 

@@ -66,7 +66,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "cr": "1/2"
 "traits":
   - "desc": "The mephit explodes when it dies. *Constitution Saving Throw:* DC 10,\
-      \ each creature in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ each creature in a 5-foot [[emanation-area-of-effect-xphb]]\
       \ originating from the mephit. *Failure:* 5 (2d4) Cold damage. *Success:*\
       \ Half damage."
     "name": "Death Burst"
@@ -74,10 +74,10 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 3 (1d4 + 1) Slashing\
       \ damage plus 2 (1d4) Cold damage."
     "name": "Claw"
-  - "desc": "*Constitution Saving Throw:* DC 10, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Constitution Saving Throw:* DC 10, each creature in a 15-foot [[cone-area-of-effect-xphb]].\
       \ *Failure:* 7 (3d4) Cold damage. *Success:* Half damage."
     "name": "Frost Breath (Recharge 6)"
-  - "desc": "The mephit casts [Fog Cloud](Compendium/spells/fog-cloud-xphb.md), requiring\
+  - "desc": "The mephit casts [[fog-cloud-xphb]], requiring\
       \ no spell components and using Charisma as the spellcasting ability.\n"
     "name": "Fog Cloud (1/Day)"
 "source":

@@ -29,6 +29,6 @@ You can see through the illusion's eyes and hear through its ears as if you were
 
 Physical interaction with the image reveals it to be illusory, since things can pass through it. A creature that takes the [Study](Compendium/rules/actions.md#Study) action to examine the image can determine that it is an illusion with a successful Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard]]; [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 
 *Source: Player's Handbook (2024) p. 309. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

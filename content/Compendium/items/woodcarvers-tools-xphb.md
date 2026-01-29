@@ -17,6 +17,6 @@ aliases:
 
 - **Ability.** Dexterity  
 - **Utilize.** Carve a pattern in wood (DC 10)  
-- **Craft.** [Club](Compendium/items/club-xphb.md), [Greatclub](Compendium/items/greatclub-xphb.md), [Quarterstaff](Compendium/items/quarterstaff-xphb.md), Ranged weapons (except [Pistol](Compendium/items/pistol-xphb.md), [Musket](Compendium/items/musket-xphb.md), and  [Sling](Compendium/items/sling-xphb.md)), [Arcane Focus](Compendium/items/arcane-focus-xphb.md), [Arrows](Compendium/items/arrows-20-xphb.md), [Bolts](Compendium/items/bolts-20-xphb.md), [Druidic Focus](Compendium/items/druidic-focus-xphb.md), [Ink Pen](Compendium/items/ink-pen-xphb.md), [Needles](Compendium/items/needles-50-xphb.md)  
+- **Craft.** [[club-xphb]], [[greatclub-xphb]], [[quarterstaff-xphb]], Ranged weapons (except [[pistol-xphb]], [[musket-xphb]], and  [[sling-xphb]]), [[arcane-focus-xphb]], [[arrows-20-xphb]], [[bolts-20-xphb]], [[druidic-focus-xphb]], [[ink-pen-xphb]], [[needles-50-xphb]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

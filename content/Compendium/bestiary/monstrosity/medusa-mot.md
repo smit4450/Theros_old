@@ -54,7 +54,7 @@ Medusas (often called gorgons on Theros) are closely associated with Pharika, th
       \ The [restrained](Compendium/rules/conditions.md#Restrained) creature must\
       \ repeat the saving throw at the end of its next turn, becoming [petrified](Compendium/rules/conditions.md#Petrified)\
       \ on a failure or ending the effect on a success. The petrification lasts until\
-      \ the creature is freed by the  [greater restoration](Compendium/spells/greater-restoration-xphb.md)\
+      \ the creature is freed by the  [[greater-restoration-xphb]]\
       \ spell or other magic.\n\nUnless [surprised](Compendium/rules/conditions.md#Surprised),\
       \ a creature can avert its eyes to avoid the saving throw at the start of its\
       \ turn. If the creature does so, it can't see the medusa until the start of\

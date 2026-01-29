@@ -31,6 +31,6 @@ Each target must succeed on a Wisdom saving throw or have the [Charmed](Compendi
 
 **Using a Higher-Level Spell Slot.** The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days).
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-sorcerer]]; [[list-spells-classes-warlock]]; [[list-spells-classes-wizard]]
 
 *Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

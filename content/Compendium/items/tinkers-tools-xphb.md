@@ -17,6 +17,6 @@ aliases:
 
 - **Ability.** Dexterity  
 - **Utilize.** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)  
-- **Craft.** [Musket](Compendium/items/musket-xphb.md), [Pistol](Compendium/items/pistol-xphb.md), [Bell](Compendium/items/bell-xphb.md), [Bullseye Lantern](Compendium/items/bullseye-lantern-xphb.md), [Flask](Compendium/items/flask-xphb.md), [Hooded Lantern](Compendium/items/hooded-lantern-xphb.md), [Hunting Trap](Compendium/items/hunting-trap-xphb.md), [Lock](Compendium/items/lock-xphb.md), [Manacles](Compendium/items/manacles-xphb.md), [Mirror](Compendium/items/mirror-xphb.md), [Shovel](Compendium/items/shovel-xphb.md), [Signal Whistle](Compendium/items/signal-whistle-xphb.md), [Tinderbox](Compendium/items/tinderbox-xphb.md)  
+- **Craft.** [[musket-xphb]], [[pistol-xphb]], [[bell-xphb]], [[bullseye-lantern-xphb]], [[flask-xphb]], [[hooded-lantern-xphb]], [[hunting-trap-xphb]], [[lock-xphb]], [[manacles-xphb]], [[mirror-xphb]], [[shovel-xphb]], [[signal-whistle-xphb]], [[tinderbox-xphb]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -46,9 +46,9 @@ Imprisoned inside a mist-filled chamber in the Tomb of Horrors, Siren serves as 
 "traits":
   - "desc": "Siren's innate spellcasting ability is Charisma (spell save DC 13). She\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**1/day each:** [charm person](Compendium/spells/charm-person-xphb.md), [fog\
-      \ cloud](Compendium/spells/fog-cloud-xphb.md), [greater invisibility](Compendium/spells/greater-invisibility-xphb.md),\
-      \ [polymorph](Compendium/spells/polymorph-xphb.md) (self only)"
+      \n**1/day each:** [[charm-person-xphb]], [fog\
+      \ cloud](Compendium/spells/fog-cloud-xphb.md), [[greater-invisibility-xphb]],\
+      \ [[polymorph-xphb]] (self only)"
     "name": "Innate Spellcasting"
   - "desc": "Siren can breathe air and water."
     "name": "Amphibious"

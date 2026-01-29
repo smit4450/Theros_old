@@ -9,7 +9,7 @@ aliases:
 - Spellfire Sorcery
 ---
 # Spellfire Sorcery
-*[[sorcerer-xphb|Sorcerer]]: Sorcerer Subclass*  
+* [[sorcerer-xphb]]: Sorcerer Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression
@@ -56,11 +56,11 @@ Wielders of spellfire tend to have a penchant for wandering. Many travel between
 
 ### Spellfire Burst (Level 3)
 
-When you spend at least 1 Sorcery Point as part of the [Magic](Compendium/rules/actions.md#Magic) action or a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) on your turn, you can unleash one of the following magical effects of your choice. You can do so only once per turn.
+When you spend at least 1 Sorcery Point as part of the [Magic](Compendium/rules/actions.md#Magic) action or a [[bonus-action-xphb]] on your turn, you can unleash one of the following magical effects of your choice. You can do so only once per turn.
 
 ### Bolstering Flames (Level 3)
 
-You or one creature you can see within 30 feet of yourself gains [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to `1d4` plus your Charisma modifier.
+You or one creature you can see within 30 feet of yourself gains [[temporary-hit-points-xphb]] equal to `1d4` plus your Charisma modifier.
 
 ### Radiant Fire (Level 3)
 
@@ -72,35 +72,35 @@ When you reach a Sorcerer level specified in the Spellfire Spells table, you the
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 3 | [Cure Wounds](Compendium/spells/cure-wounds-xphb.md), [Guiding Bolt](Compendium/spells/guiding-bolt-xphb.md), [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md), [Scorching Ray](Compendium/spells/scorching-ray-xphb.md) |
-| 5 | [Aura of Vitality](Compendium/spells/aura-of-vitality-xphb.md), [Dispel Magic](Compendium/spells/dispel-magic-xphb.md) |
-| 7 | [Fire Shield](Compendium/spells/fire-shield-xphb.md), [Wall of Fire](Compendium/spells/wall-of-fire-xphb.md) |
-| 9 | [Greater Restoration](Compendium/spells/greater-restoration-xphb.md), [Flame Strike](Compendium/spells/flame-strike-xphb.md) |
+| 3 | [[cure-wounds-xphb]], [[guiding-bolt-xphb]], [[lesser-restoration-xphb]], [[scorching-ray-xphb]] |
+| 5 | [[aura-of-vitality-xphb]], [[dispel-magic-xphb]] |
+| 7 | [[fire-shield-xphb]], [[wall-of-fire-xphb]] |
+| 9 | [[greater-restoration-xphb]], [[flame-strike-xphb]] |
 ^sorcerer-level-spells
 
 ### Absorb Spells (Level 6)
 
-You always have [Counterspell](Compendium/spells/counterspell-xphb.md) prepared.
+You always have [[counterspell-xphb]] prepared.
 
-Additionally, whenever a target fails the saving throw against a [Counterspell](Compendium/spells/counterspell-xphb.md) you cast, you regain `1d4` Sorcery Points.
+Additionally, whenever a target fails the saving throw against a [[counterspell-xphb]] you cast, you regain `1d4` Sorcery Points.
 
 ### Honed Spellfire (Level 14)
 
-Your [Spellfire Burst](Spellfire Sorcery.md#Spellfire Burst (Level 3)) improves. You add your [Sorcerer](Compendium/classes/sorcerer-xphb.md) level to the [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) gained from [Bolstering Flames](Spellfire Sorcery.md#Bolstering Flames (Level 3)), and the damage of [Radiant Fire](Spellfire Sorcery.md#Radiant Fire (Level 3)) increases to `1d8`.
+Your [Spellfire Burst](Spellfire Sorcery.md#Spellfire Burst (Level 3)) improves. You add your [[sorcerer-xphb]] level to the [[temporary-hit-points-xphb]] gained from [Bolstering Flames](Spellfire Sorcery.md#Bolstering Flames (Level 3)), and the damage of [Radiant Fire](Spellfire Sorcery.md#Radiant Fire (Level 3)) increases to `1d8`.
 
 ### Crown of Spellfire (Level 18)
 
-When you use [Innate Sorcery](Compendium/classes/sorcerer-xphb.md#Innate Sorcery (Level 1)), you can alter it and infuse yourself with the essence of spellfire, gaining the following benefits while this use of Innate Sorcery is active. Once you use this feature to alter Innate Sorcery, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you spend 5 Sorcery Points (no action required) to restore your use of it.
+When you use [Innate Sorcery](Compendium/classes/sorcerer-xphb.md#Innate Sorcery (Level 1)), you can alter it and infuse yourself with the essence of spellfire, gaining the following benefits while this use of Innate Sorcery is active. Once you use this feature to alter Innate Sorcery, you can't use it again until you finish a [[long-rest-xphb]] unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
 #### Burning Life Force
 _Source: FRHoF_
 
-Once per turn when you are hit by an attack roll, you can expend a number of [Hit Point Dice](Compendium/rules/variant-rules/hit-point-dice-xphb.md), up to a maximum equal to your Charisma modifier (minimum of one). Roll the expended dice, and reduce the amount of damage from that attack equal to the total rolled.
+Once per turn when you are hit by an attack roll, you can expend a number of [[hit-point-dice-xphb]], up to a maximum equal to your Charisma modifier (minimum of one). Roll the expended dice, and reduce the amount of damage from that attack equal to the total rolled.
 
 #### Flight
 _Source: FRHoF_
 
-You gain a [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md) of 60 feet and can hover.
+You gain a [[fly-speed-xphb]] of 60 feet and can hover.
 
 #### Spell Avoidance
 _Source: FRHoF_

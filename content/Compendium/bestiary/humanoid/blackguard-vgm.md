@@ -22,7 +22,7 @@ Blackguards are paladins who broke their sacred oaths and now indulge their own 
 "subtype": "any race"
 "alignment": "Any Non-Good alignment"
 "ac": !!int "18"
-"ac_class": "[plate armor](Compendium/items/plate-armor-xphb.md)"
+"ac_class": "[[plate-armor-xphb]]"
 "hp": !!int "153"
 "hit_dice": "18d8 + 72"
 "modifier": !!int "0"
@@ -50,12 +50,12 @@ Blackguards are paladins who broke their sacred oaths and now indulge their own 
 "traits":
   - "desc": "The blackguard is a 10th-level spellcaster. Its spellcasting ability\
       \ is Charisma (spell save DC 13, +5 to hit with spell attacks). It has the\
-      \ following paladin spells prepared:\n\n**1st level (4 slots):** [command](Compendium/spells/command-xphb.md),\
-      \ [protection from evil and good](Compendium/spells/protection-from-evil-and-good-xphb.md),\
-      \ [thunderous smite](Compendium/spells/thunderous-smite-xphb.md)\n\n**2nd level\
-      \ (3 slots):** [branding smite](Compendium/spells/shining-smite-xphb.md), [find\
+      \ following paladin spells prepared:\n\n**1st level (4 slots):** [[command-xphb]],\
+      \ [[protection-from-evil-and-good-xphb]],\
+      \ [[thunderous-smite-xphb]]\n\n**2nd level\
+      \ (3 slots):** [[shining-smite-xphb]], [find\
       \ steed](Compendium/spells/find-steed-xphb.md)\n\n**3rd level (2 slots):** [blinding\
-      \ smite](Compendium/spells/blinding-smite-xphb.md), [dispel magic](Compendium/spells/dispel-magic-xphb.md)"
+      \ smite](Compendium/spells/blinding-smite-xphb.md), [[dispel-magic-xphb]]"
     "name": "Spellcasting"
 "actions":
   - "desc": "The blackguard makes three attacks with its glaive or its shortbow."

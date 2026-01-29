@@ -9,7 +9,7 @@ aliases:
 - Fiend Patron
 ---
 # Fiend Patron
-*[[warlock-xphb|Warlock]]: Warlock Subclass*  
+* [[warlock-xphb]]: Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -50,7 +50,7 @@ aliases:
 
 *Make a Deal with the Underworld*
 
-Your pact draws on the Underworld, the realms of perdition. You might forge a bargain with a demon lord such as an [[abhorrent-overlord-mot|Abhorrent Overlord]], an [[eater-of-hope-mot|Eater of Hope]], or a [[nightmare-shepherd-mot|Nightmare Shepherd]]; or a [[night-hag-xmm|Night Hag]] that is especially mighty. That patron's aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.
+Your pact draws on the Underworld, the realms of perdition. You might forge a bargain with a demon lord such as an  [[abhorrent-overlord-mot]], an  [[eater-of-hope-mot]], or a  [[nightmare-shepherd-mot]]; or a  [[night-hag-xmm]] that is especially mighty. That patron's aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.
 
 ### Fiend Spells (Level 3)
 
@@ -60,28 +60,28 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |---------------|--------|
-| 3 | [Burning Hands](Compendium/spells/burning-hands-xphb.md), [Command](Compendium/spells/command-xphb.md), [Scorching Ray](Compendium/spells/scorching-ray-xphb.md), [Suggestion](Compendium/spells/suggestion-xphb.md) |
-| 5 | [Fireball](Compendium/spells/fireball-xphb.md), [Stinking Cloud](Compendium/spells/stinking-cloud-xphb.md) |
-| 7 | [Fire Shield](Compendium/spells/fire-shield-xphb.md), [Wall of Fire](Compendium/spells/wall-of-fire-xphb.md) |
-| 9 | [Geas](Compendium/spells/geas-xphb.md), [Insect Plague](Compendium/spells/insect-plague-xphb.md) |
+| 3 | [[burning-hands-xphb]], [[command-xphb]], [[scorching-ray-xphb]], [[suggestion-xphb]] |
+| 5 | [[fireball-xphb]], [[stinking-cloud-xphb]] |
+| 7 | [[fire-shield-xphb]], [[wall-of-fire-xphb]] |
+| 9 | [[geas-xphb]], [[insect-plague-xphb]] |
 ^fiend-spells
 
 ### Dark One's Blessing (Level 3)
 
-When you reduce an enemy to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), you gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Charisma modifier plus your Warlock level (minimum of 1 [Temporary Hit Point](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).
+When you reduce an enemy to 0 [[hit-points-xphb]], you gain [[temporary-hit-points-xphb]] equal to your Charisma modifier plus your Warlock level (minimum of 1 [[temporary-hit-points-xphb]]). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 [[hit-points-xphb]].
 
 ### Dark One's Own Luck (Level 6)
 
 You can call on your fiendish patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add `1d10` to your roll. You can do so after seeing the roll but before any of the roll's effects occur.
 
-You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a [[long-rest-xphb]].
 
 ### Fiendish Resilience (Level 10)
 
-Choose one damage type, other than Force, whenever you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to that damage type until you choose a different one with this feature.
+Choose one damage type, other than Force, whenever you finish a [[short-rest-xphb]] or [[long-rest-xphb]]. You have [[resistance-xphb]] to that damage type until you choose a different one with this feature.
 
 ### Hurl Through Hell (Level 14)
 
 Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Underworld. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes `8d10` Psychic damage if it isn't a Fiend, and it has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]] unless you expend a Pact Magic spell slot (no action required) to restore your use of it.

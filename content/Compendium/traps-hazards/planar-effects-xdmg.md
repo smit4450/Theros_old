@@ -15,15 +15,15 @@ Certain planes of existenceâ€”and areas on the Material Plane affected by themâ€
 
 ## Acheronian Bloodlust
 
-The plane of "Acheron" rewards a creature for harming other creatures by imbuing it with the strength to keep fighting. While in Acheron or a region under its influence, a creature gains [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to half its Hit Point maximum whenever it reduces another creature to 0 Hit Points.
+The plane of "Acheron" rewards a creature for harming other creatures by imbuing it with the strength to keep fighting. While in Acheron or a region under its influence, a creature gains [[temporary-hit-points-xphb]] equal to half its Hit Point maximum whenever it reduces another creature to 0 Hit Points.
 
 ## Arcadian Vitality
 
-On the plane of "Arcadia" and in regions where its influence is felt, creatures benefit from supernatural vitality, which grants them [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) the [Frightened](Compendium/rules/conditions.md#Frightened) and [Poisoned](Compendium/rules/conditions.md#Poisoned) conditions.
+On the plane of "Arcadia" and in regions where its influence is felt, creatures benefit from supernatural vitality, which grants them [[immunity-xphb]] the [Frightened](Compendium/rules/conditions.md#Frightened) and [Poisoned](Compendium/rules/conditions.md#Poisoned) conditions.
 
 ## Blessed Beneficence
 
-On the plane of "Mount Celestia" and in regions where its influence is felt, creatures are blessed by the pervasive beneficence of the plane. Creatures other than Fiends and Undead gain the benefit of the [Bless](Compendium/spells/bless-xphb.md) spell as long as they remain in an area of blessed beneficence. In addition, such a creature that finishes a Long Rest in the area gains the benefit of a [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md) spell.
+On the plane of "Mount Celestia" and in regions where its influence is felt, creatures are blessed by the pervasive beneficence of the plane. Creatures other than Fiends and Undead gain the benefit of the [[bless-xphb]] spell as long as they remain in an area of blessed beneficence. In addition, such a creature that finishes a Long Rest in the area gains the benefit of a [[lesser-restoration-xphb]] spell.
 
 ## Gehennan Cruelty
 

@@ -20,10 +20,10 @@ Character class provides a character's most exciting capabilities. This chapter 
 
 Storm with Rage, and wade into hand-to-hand combat. Then follow the Path of the...
 
-- [Path of the Berserker](Compendium/classes/barbarian-xphb-path-of-the-berserker-xphb.md) to unleash raw violence.  
-- [Path of the Wild Heart](Compendium/classes/barbarian-xphb-path-of-the-wild-heart-xphb.md) to manifest kinship with animals.  
-- [[Path of the Nykthos|Path of the World Tree]] to tap into cosmic vitality.  
-- [Path of the Zealot](Compendium/classes/barbarian-xphb-path-of-the-zealot-xphb.md) to rage in union with a god.  
+- [[barbarian-xphb-path-of-the-berserker-xphb]] to unleash raw violence.  
+- [[barbarian-xphb-path-of-the-wild-heart-xphb]] to manifest kinship with animals.  
+-  [[Path of the Nykthos]] to tap into cosmic vitality.  
+- [[barbarian-xphb-path-of-the-zealot-xphb]] to rage in union with a god.  
 
 ![](Compendium/books/players-handbook-2024/img/027-03-003-bard-symbol.webp#center)
 
@@ -31,10 +31,10 @@ Storm with Rage, and wade into hand-to-hand combat. Then follow the Path of the.
 
 Perform spells that inspire and heal allies or beguile foes. Then join the College of...
 
-- [College of Dance](Compendium/classes/bard-xphb-college-of-dance-xphb.md) to harness agility in battle.  
-- [[College of Glamour|College of Glamour]] to weave beguiling Feywild magic.  
-- [College of Lore](Compendium/classes/bard-xphb-college-of-lore-xphb.md) to collect knowledge and magical secrets.  
-- [College of Valor](Compendium/classes/bard-xphb-college-of-valor-xphb.md) to wield weapons with spells.  
+- [[bard-xphb-college-of-dance-xphb]] to harness agility in battle.  
+-  [[College of Glamour]] to weave beguiling Feywild magic.  
+- [[bard-xphb-college-of-lore-xphb]] to collect knowledge and magical secrets.  
+- [[bard-xphb-college-of-valor-xphb]] to wield weapons with spells.  
 
 ![](Compendium/books/players-handbook-2024/img/028-03-004-cleric-symbol.webp#center)
 
@@ -42,10 +42,10 @@ Perform spells that inspire and heal allies or beguile foes. Then join the Colle
 
 Invoke divine magic to heal, bolster, and smite. Then harness the...
 
-- [Life Domain](Compendium/classes/cleric-xphb-life-domain-xphb.md) to be a master of healing.  
-- [Light Domain](Compendium/classes/cleric-xphb-light-domain-xphb.md) to wield searing, warding light.  
-- [Trickery Domain](Compendium/classes/cleric-xphb-trickery-domain-xphb.md) to bedevil foes with mischief.  
-- [War Domain](Compendium/classes/cleric-xphb-war-domain-xphb.md) to inspire valor and chastise foes.  
+- [[cleric-xphb-life-domain-xphb]] to be a master of healing.  
+- [[cleric-xphb-light-domain-xphb]] to wield searing, warding light.  
+- [[cleric-xphb-trickery-domain-xphb]] to bedevil foes with mischief.  
+- [[cleric-xphb-war-domain-xphb]] to inspire valor and chastise foes.  
 
 ![](Compendium/books/players-handbook-2024/img/029-03-005-druid-symbol.webp#center)
 
@@ -53,10 +53,10 @@ Invoke divine magic to heal, bolster, and smite. Then harness the...
 
 Channel nature magic to heal, shape-shift, and control the elements. Then join the Circle of the...
 
-- [Circle of the Land](Compendium/classes/druid-xphb-circle-of-the-land-xphb.md) to draw on the magic of the environment.  
-- [Circle of the Moon](Compendium/classes/druid-xphb-circle-of-the-moon-xphb.md) to adopt powerful animal forms.  
-- [Circle of the Sea](Compendium/classes/druid-xphb-circle-of-the-sea-xphb.md) to channel tides and storms.  
-- [[Circle of the Stars|Circle of the Stars]] to gain powers in a starry form.  
+- [[druid-xphb-circle-of-the-land-xphb]] to draw on the magic of the environment.  
+- [[druid-xphb-circle-of-the-moon-xphb]] to adopt powerful animal forms.  
+- [[druid-xphb-circle-of-the-sea-xphb]] to channel tides and storms.  
+-  [[Circle of the Stars]] to gain powers in a starry form.  
 
 ![](Compendium/books/players-handbook-2024/img/030-03-006-fighter-symbol.webp#center)
 
@@ -64,10 +64,10 @@ Channel nature magic to heal, shape-shift, and control the elements. Then join t
 
 Master all weapons and armor. Then embody the...
 
-- [Battle Master](Compendium/classes/fighter-xphb-battle-master-xphb.md) to use special combat maneuvers.  
-- [Champion](Compendium/classes/fighter-xphb-champion-xphb.md) to strive for peak combat prowess.  
-- [Eldritch Knight](Compendium/classes/fighter-xphb-eldritch-knight-xphb.md) to learn spells to aid in combat.  
-- [Psi Warrior](Compendium/classes/fighter-xphb-psi-warrior-xphb.md) to augment attacks with psionic power.  
+- [[fighter-xphb-battle-master-xphb]] to use special combat maneuvers.  
+- [[fighter-xphb-champion-xphb]] to strive for peak combat prowess.  
+- [[fighter-xphb-eldritch-knight-xphb]] to learn spells to aid in combat.  
+- [[fighter-xphb-psi-warrior-xphb]] to augment attacks with psionic power.  
 
 ![](Compendium/books/players-handbook-2024/img/031-03-007-monk-symbol.webp#center)
 
@@ -75,10 +75,10 @@ Master all weapons and armor. Then embody the...
 
 Dart in and out of melee while striking fast and hard. Then become a Warrior of...
 
-- [Warrior of Mercy](Compendium/classes/monk-xphb-warrior-of-mercy-xphb.md) to heal or harm with a touch.  
-- [[Warrior of Shadow|Warrior of Shadow]] to employ shadows for subterfuge.  
-- [Warrior of the Elements](Compendium/classes/monk-xphb-warrior-of-the-elements-xphb.md) to wield elemental power.  
-- [Warrior of the Open Hand](Compendium/classes/monk-xphb-warrior-of-the-open-hand-xphb.md) to master unarmed combat.  
+- [[monk-xphb-warrior-of-mercy-xphb]] to heal or harm with a touch.  
+-  [[Warrior of Shadow]] to employ shadows for subterfuge.  
+- [[monk-xphb-warrior-of-the-elements-xphb]] to wield elemental power.  
+- [[monk-xphb-warrior-of-the-open-hand-xphb]] to master unarmed combat.  
 
 ![](Compendium/books/players-handbook-2024/img/032-03-008-paladin-symbol.webp#center)
 
@@ -86,10 +86,10 @@ Dart in and out of melee while striking fast and hard. Then become a Warrior of.
 
 Smite foes and shield allies with divine and martial might. Then swear the Oath of...
 
-- [Oath of Devotion](Compendium/classes/paladin-xphb-oath-of-devotion-xphb.md) to emulate the angels of justice.  
-- [Oath of Glory](Compendium/classes/paladin-xphb-oath-of-glory-xphb.md) to reach the heights of heroism.  
-- [Oath of the Ancients](Compendium/classes/paladin-xphb-oath-of-the-ancients-xphb.md) to preserve life, joy, and nature.  
-- [Oath of Vengeance](Compendium/classes/paladin-xphb-oath-of-vengeance-xphb.md) to hunt down evildoers.  
+- [[paladin-xphb-oath-of-devotion-xphb]] to emulate the angels of justice.  
+- [[paladin-xphb-oath-of-glory-xphb]] to reach the heights of heroism.  
+- [[paladin-xphb-oath-of-the-ancients-xphb]] to preserve life, joy, and nature.  
+- [[paladin-xphb-oath-of-vengeance-xphb]] to hunt down evildoers.  
 
 ![](Compendium/books/players-handbook-2024/img/033-03-009-ranger-symbol.webp#center)
 
@@ -97,10 +97,10 @@ Smite foes and shield allies with divine and martial might. Then swear the Oath 
 
 Weave together martial prowess, nature magic, and survival skills. Then embody the...
 
-- [Beast Master](Compendium/classes/ranger-xphb-beast-master-xphb.md) to bond with a primal beast.  
-- [[Fey Wanderer|Fey Wanderer]] to manifest fey mirth and fury.  
-- [[Gloom Stalker|Gloom Stalker]] to hunt foes that lurk in darkness.  
-- [Hunter](Compendium/classes/ranger-xphb-hunter-xphb.md) to protect nature with martial versatility.  
+- [[ranger-xphb-beast-master-xphb]] to bond with a primal beast.  
+-  [[Fey Wanderer]] to manifest fey mirth and fury.  
+-  [[Gloom Stalker]] to hunt foes that lurk in darkness.  
+- [[ranger-xphb-hunter-xphb]] to protect nature with martial versatility.  
 
 ![](Compendium/books/players-handbook-2024/img/034-03-010-rogue-symbol.webp#center)
 
@@ -108,10 +108,10 @@ Weave together martial prowess, nature magic, and survival skills. Then embody t
 
 Launch deadly Sneak Attacks while avoiding harm through stealth. Then embody the...
 
-- [Arcane Trickster](Compendium/classes/rogue-xphb-arcane-trickster-xphb.md) to enhance stealth with spells.  
-- [Assassin](Compendium/classes/rogue-xphb-assassin-xphb.md) to deliver ambushes and poison.  
-- [Soulknife](Compendium/classes/rogue-xphb-soulknife-xphb.md) to strike foes with psi blades.  
-- [Thief](Compendium/classes/rogue-xphb-thief-xphb.md) to master infiltration and treasure hunting.  
+- [[rogue-xphb-arcane-trickster-xphb]] to enhance stealth with spells.  
+- [[rogue-xphb-assassin-xphb]] to deliver ambushes and poison.  
+- [[rogue-xphb-soulknife-xphb]] to strike foes with psi blades.  
+- [[rogue-xphb-thief-xphb]] to master infiltration and treasure hunting.  
 
 ![](Compendium/books/players-handbook-2024/img/035-03-011-sorcerer-symbol.webp#center)
 
@@ -119,10 +119,10 @@ Launch deadly Sneak Attacks while avoiding harm through stealth. Then embody the
 
 Wield magic innate to your being, shaping the power to your will. Then channel...
 
-- [[Aberrant Sorcery|Aberrant Sorcery]] to use strange psionic magic.  
-- [[Anvilwrought Sorcery|Clockwork Sorcery]] to harness cosmic forces of order.  
-- [Draconic Sorcery](Compendium/classes/sorcerer-xphb-draconic-sorcery-xphb.md) to breathe the magic of dragons.  
-- [[Wild Magic Sorcery|Wild Magic Sorcery]] to unleash chaos magic.  
+-  [[Aberrant Sorcery]] to use strange psionic magic.  
+-  [[Anvilwrought Sorcery]] to harness cosmic forces of order.  
+- [[sorcerer-xphb-draconic-sorcery-xphb]] to breathe the magic of dragons.  
+-  [[Wild Magic Sorcery]] to unleash chaos magic.  
 
 ![](Compendium/books/players-handbook-2024/img/036-03-012-warlock-symbol.webp#center)
 
@@ -130,10 +130,10 @@ Wield magic innate to your being, shaping the power to your will. Then channel..
 
 Cast spells derived from occult knowledge. Then form a pact with the...
 
-- [[Archfey Patron|Archfey Patron]] to teleport and wield fey magic.  
-- [[Celestial Patron|Celestial Patron]] to heal with heavenly magic.  
-- [[Fiend Patron|Fiend Patron]] to call on sinister powers.  
-- [[Great Old One Patron|Great Old One Patron]] to delve into forbidden lore.  
+-  [[Archfey Patron]] to teleport and wield fey magic.  
+-  [[Celestial Patron]] to heal with heavenly magic.  
+-  [[Fiend Patron]] to call on sinister powers.  
+-  [[Great Old One Patron]] to delve into forbidden lore.  
 
 ![](Compendium/books/players-handbook-2024/img/037-03-013-wizard-symbol.webp#center)
 
@@ -141,7 +141,7 @@ Cast spells derived from occult knowledge. Then form a pact with the...
 
 Study arcane magic and master spells for every purpose. Then embody the...
 
-- [Abjurer](Compendium/classes/wizard-xphb-abjurer-xphb.md) to shield allies and banish foes.  
-- [Diviner](Compendium/classes/wizard-xphb-diviner-xphb.md) to learn the multiverse's secrets.  
-- [Evoker](Compendium/classes/wizard-xphb-evoker-xphb.md) to create explosive effects.  
-- [Illusionist](Compendium/classes/wizard-xphb-illusionist-xphb.md) to weave spells of deception.
+- [[wizard-xphb-abjurer-xphb]] to shield allies and banish foes.  
+- [[wizard-xphb-diviner-xphb]] to learn the multiverse's secrets.  
+- [[wizard-xphb-evoker-xphb]] to create explosive effects.  
+- [[wizard-xphb-illusionist-xphb]] to weave spells of deception.

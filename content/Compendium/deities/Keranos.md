@@ -137,7 +137,7 @@ Your piety score to Keranos decreases if you diminish Keranos's influence in the
 
 ### Benefits of Piety
 
-- [Keranos's Devotee](Compendium/rewards/keranoss-devotee-mot.md)  
-- [Keranos's Votary](Compendium/rewards/keranoss-votary-mot.md)  
-- [Keranos's Disciple](Compendium/rewards/keranoss-disciple-mot.md)  
-- [Champion of Storms](Compendium/rewards/champion-of-storms-mot.md)
+- [[keranoss-devotee-mot]]  
+- [[keranoss-votary-mot]]  
+- [[keranoss-disciple-mot]]  
+- [[champion-of-storms-mot]]

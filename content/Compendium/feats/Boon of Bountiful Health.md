@@ -17,6 +17,6 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
 
-**Augmented Health.** When you gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md), increase the number of [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) you gain by 5.
+**Augmented Health.** When you gain [[temporary-hit-points-xphb]], increase the number of [[temporary-hit-points-xphb]] you gain by 5.
 
-**Superior Recuperation.** When you spend one or more [Hit Point Dice](Compendium/rules/variant-rules/hit-point-dice-xphb.md) to regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), you can instead use the highest number possible for each die.
+**Superior Recuperation.** When you spend one or more [[hit-point-dice-xphb]] to regain [[hit-points-xphb]], you can instead use the highest number possible for each die.

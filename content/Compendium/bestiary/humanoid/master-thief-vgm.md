@@ -22,7 +22,7 @@ Master thieves are known for perpetrating daring heists. They tend to develop a 
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[studded leather](Compendium/items/studded-leather-armor-xphb.md)"
+"ac_class": "[[studded-leather-armor-xphb]]"
 "hp": !!int "83"
 "hit_dice": "13d8 + 26"
 "modifier": !!int "4"

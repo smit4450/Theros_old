@@ -6,13 +6,13 @@ cssclasses:
 ---
 # Index of Objects
 
-- [[ballista-xdmg|Ballista]]
-- [[cannon-xdmg|Cannon]]
-- [[flamethrower-coach-xdmg|Flamethrower Coach]]
-- [[keg-launcher-xdmg|Keg Launcher]]
-- [[lightning-cannon-xdmg|Lightning Cannon]]
-- [[mangonel-xdmg|Mangonel]]
-- [[ram-xdmg|Ram]]
-- [[siege-tower-xdmg|Siege Tower]]
-- [[suspended-cauldron-xdmg|Suspended Cauldron]]
-- [[trebuchet-xdmg|Trebuchet]]
+-  [[ballista-xdmg]]
+-  [[cannon-xdmg]]
+-  [[flamethrower-coach-xdmg]]
+-  [[keg-launcher-xdmg]]
+-  [[lightning-cannon-xdmg]]
+-  [[mangonel-xdmg]]
+-  [[ram-xdmg]]
+-  [[siege-tower-xdmg]]
+-  [[suspended-cauldron-xdmg]]
+-  [[trebuchet-xdmg]]

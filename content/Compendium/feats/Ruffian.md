@@ -15,4 +15,4 @@ You gain the following benefits.
 
 **Exploit Opening.** When you roll damage for an [Opportunity Attack](Compendium/rules/actions.md#Opportunity Attack), you can roll the damage dice twice and use either roll against the target.
 
-**Family First.** If you have [Heroic Inspiration](Compendium/rules/variant-rules/heroic-inspiration-xphb.md) when you roll [Initiative](Compendium/rules/variant-rules/initiative-xphb.md), you can expend it to give yourself and your allies [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on that [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) roll.
+**Family First.** If you have [[heroic-inspiration-xphb]] when you roll [[initiative-xphb]], you can expend it to give yourself and your allies [[advantage-xphb]] on that [[initiative-xphb]] roll.

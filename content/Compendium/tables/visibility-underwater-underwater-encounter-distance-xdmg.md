@@ -14,7 +14,7 @@ aliases:
 
 | Visibility | Encounter Distance |
 |------------|--------------------|
-| Clear water, [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) | 60 feet |
-| Clear water, [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) | 30 feet |
-| Murky water or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md) | 10 feet |
+| Clear water, [[bright-light-xphb]] | 60 feet |
+| Clear water, [[dim-light-xphb]] | 30 feet |
+| Murky water or [[darkness-xphb]] | 10 feet |
 ^underwater-encounter-distance

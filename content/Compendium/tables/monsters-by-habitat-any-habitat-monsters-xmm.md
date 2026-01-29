@@ -14,25 +14,25 @@ aliases:
 
 | CR | Monsters |
 |----|----------|
-| 0 | [Commoner](Compendium/bestiary/humanoid/commoner-xmm.md), [Crawling Claw](Compendium/bestiary/undead/crawling-claw-xmm.md), [Homunculus](Compendium/bestiary/construct/homunculus-xmm.md) |
-| 1/8 | [Bandit](Compendium/bestiary/humanoid/bandit-xmm.md), [Cultist](Compendium/bestiary/humanoid/cultist-xmm.md), [Guard](Compendium/bestiary/humanoid/guard-xmm.md), [Noble](Compendium/bestiary/humanoid/noble-xmm.md), [Warrior Infantry](Compendium/bestiary/humanoid/warrior-infantry-xmm.md) |
-| 1/4 | [Priest Acolyte](Compendium/bestiary/humanoid/priest-acolyte-xmm.md) |
-| 1/2 | [Performer](Compendium/bestiary/humanoid/performer-xmm.md), [Scout](Compendium/bestiary/humanoid/scout-xmm.md), [Tough](Compendium/bestiary/humanoid/tough-xmm.md) |
-| 1 | [Empyrean Iota](Compendium/bestiary/miscellaneous/empyrean-iota-xmm.md), [Imp](Compendium/bestiary/fiend/imp-xmm.md), [Pirate](Compendium/bestiary/humanoid/pirate-xmm.md), [Spy](Compendium/bestiary/humanoid/spy-xmm.md) |
-| 2 | [Bandit Captain](Compendium/bestiary/humanoid/bandit-captain-xmm.md), [Berserker](Compendium/bestiary/humanoid/berserker-xmm.md), [Cultist Fanatic](Compendium/bestiary/humanoid/cultist-fanatic-xmm.md), [Druid](Compendium/bestiary/humanoid/druid-xmm.md), [Mage Apprentice](Compendium/bestiary/humanoid/mage-apprentice-xmm.md), [Priest](Compendium/bestiary/humanoid/priest-xmm.md) |
-| 3 | [Knight](Compendium/bestiary/humanoid/knight-xmm.md), [Scout Captain](Compendium/bestiary/humanoid/scout-captain-xmm.md), [Swarm of Crawling Claws](Compendium/bestiary/undead/swarm-of-crawling-claws-xmm.md), [Warrior Veteran](Compendium/bestiary/humanoid/warrior-veteran-xmm.md) |
-| 4 | [Banshee](Compendium/bestiary/undead/banshee-xmm.md), [Guard Captain](Compendium/bestiary/humanoid/guard-captain-xmm.md), [Helmed Horror](Compendium/bestiary/construct/helmed-horror-xmm.md), [Tough Boss](Compendium/bestiary/humanoid/tough-boss-xmm.md) |
-| 5 | [Cambion](Compendium/bestiary/fiend/cambion-xmm.md), [Flesh Golem](Compendium/bestiary/construct/flesh-golem-xmm.md), [Gladiator](Compendium/bestiary/humanoid/gladiator-xmm.md), [Half-Dragon](Compendium/bestiary/dragon/half-dragon-xmm.md) |
-| 6 | [Mage](Compendium/bestiary/humanoid/mage-xmm.md), [Performer Maestro](Compendium/bestiary/humanoid/performer-maestro-xmm.md), [Pirate Captain](Compendium/bestiary/humanoid/pirate-captain-xmm.md) |
-| 7 | [Bandit Deceiver](Compendium/bestiary/humanoid/bandit-deceiver-xmm.md) |
-| 8 | [Aberrant Cultist](Compendium/bestiary/humanoid/aberrant-cultist-xmm.md), [Assassin](Compendium/bestiary/humanoid/assassin-xmm.md), [Berserker Commander](Compendium/bestiary/humanoid/berserker-commander-xmm.md), [Death Cultist](Compendium/bestiary/humanoid/death-cultist-xmm.md), [Elemental Cultist](Compendium/bestiary/humanoid/elemental-cultist-xmm.md), [Fiend Cultist](Compendium/bestiary/humanoid/fiend-cultist-xmm.md) |
-| 10 | [Cultist Hierophant](Compendium/bestiary/humanoid/cultist-hierophant-xmm.md), [Noble Prodigy](Compendium/bestiary/humanoid/noble-prodigy-xmm.md), [Performer Legend](Compendium/bestiary/humanoid/performer-legend-xmm.md), [Spy Master](Compendium/bestiary/humanoid/spy-master-xmm.md), [Stone Golem](Compendium/bestiary/construct/stone-golem-xmm.md), [Warrior Commander](Compendium/bestiary/humanoid/warrior-commander-xmm.md) |
-| 11 | [Bandit Crime Lord](Compendium/bestiary/humanoid/bandit-crime-lord-xmm.md), [Death Knight Aspirant](Compendium/bestiary/undead/death-knight-aspirant-xmm.md) |
-| 12 | [Archmage](Compendium/bestiary/humanoid/archmage-xmm.md), [Archpriest](Compendium/bestiary/humanoid/archpriest-xmm.md), [Pirate Admiral](Compendium/bestiary/humanoid/pirate-admiral-xmm.md), [Questing Knight](Compendium/bestiary/humanoid/questing-knight-xmm.md) |
-| 16 | [Iron Golem](Compendium/bestiary/construct/iron-golem-xmm.md) |
-| 17 | [Death Knight](Compendium/bestiary/undead/death-knight-xmm.md), [Dracolich](Compendium/bestiary/undead/dracolich-xmm.md) |
-| 18 | [Demilich](Compendium/bestiary/undead/demilich-xmm.md) |
-| 21 | [Arch-hag](Compendium/bestiary/fey/arch-hag-xmm.md), [Lich](Compendium/bestiary/undead/lich-xmm.md) |
-| 23 | [Blob of Annihilation](Compendium/bestiary/ooze/blob-of-annihilation-xmm.md), [Empyrean](Compendium/bestiary/miscellaneous/empyrean-xmm.md) |
-| 25 | [Colossus](Compendium/bestiary/construct/colossus-xmm.md) |
+| 0 | [[commoner-xmm]], [[crawling-claw-xmm]], [[homunculus-xmm]] |
+| 1/8 | [[bandit-xmm]], [[cultist-xmm]], [[guard-xmm]], [[noble-xmm]], [[warrior-infantry-xmm]] |
+| 1/4 | [[priest-acolyte-xmm]] |
+| 1/2 | [[performer-xmm]], [[scout-xmm]], [[tough-xmm]] |
+| 1 | [[empyrean-iota-xmm]], [[imp-xmm]], [[pirate-xmm]], [[spy-xmm]] |
+| 2 | [[bandit-captain-xmm]], [[berserker-xmm]], [[cultist-fanatic-xmm]], [[druid-xmm]], [[mage-apprentice-xmm]], [[priest-xmm]] |
+| 3 | [[knight-xmm]], [[scout-captain-xmm]], [[swarm-of-crawling-claws-xmm]], [[warrior-veteran-xmm]] |
+| 4 | [[banshee-xmm]], [[guard-captain-xmm]], [[helmed-horror-xmm]], [[tough-boss-xmm]] |
+| 5 | [[cambion-xmm]], [[flesh-golem-xmm]], [[gladiator-xmm]], [[half-dragon-xmm]] |
+| 6 | [[mage-xmm]], [[performer-maestro-xmm]], [[pirate-captain-xmm]] |
+| 7 | [[bandit-deceiver-xmm]] |
+| 8 | [[aberrant-cultist-xmm]], [[assassin-xmm]], [[berserker-commander-xmm]], [[death-cultist-xmm]], [[elemental-cultist-xmm]], [[fiend-cultist-xmm]] |
+| 10 | [[cultist-hierophant-xmm]], [[noble-prodigy-xmm]], [[performer-legend-xmm]], [[spy-master-xmm]], [[stone-golem-xmm]], [[warrior-commander-xmm]] |
+| 11 | [[bandit-crime-lord-xmm]], [[death-knight-aspirant-xmm]] |
+| 12 | [[archmage-xmm]], [[archpriest-xmm]], [[pirate-admiral-xmm]], [[questing-knight-xmm]] |
+| 16 | [[iron-golem-xmm]] |
+| 17 | [[death-knight-xmm]], [[dracolich-xmm]] |
+| 18 | [[demilich-xmm]] |
+| 21 | [[arch-hag-xmm]], [[lich-xmm]] |
+| 23 | [[blob-of-annihilation-xmm]], [[empyrean-xmm]] |
+| 25 | [[colossus-xmm]] |
 ^any-habitat-monsters

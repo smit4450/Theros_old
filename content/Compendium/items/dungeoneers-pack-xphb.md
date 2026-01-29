@@ -15,6 +15,6 @@ aliases:
 - **Cost**: 12 gp
 - **Weight**: 55.0 lbs.
 
-A Dungeoneer's Pack contains the following items: [Backpack](Compendium/items/backpack-xphb.md), [Caltrops](Compendium/items/caltrops-xphb.md), [Crowbar](Compendium/items/crowbar-xphb.md), 2 flasks of [Oil](Compendium/items/oil-xphb.md), 10 days of [Rations](Compendium/items/rations-xphb.md), [Rope](Compendium/items/rope-xphb.md), [Tinderbox](Compendium/items/tinderbox-xphb.md), 10 [Torches](Compendium/items/torch-xphb.md), and [Waterskin](Compendium/items/waterskin-xphb.md).
+A Dungeoneer's Pack contains the following items: [[backpack-xphb]], [[caltrops-xphb]], [[crowbar-xphb]], 2 flasks of [[oil-xphb]], 10 days of [[rations-xphb]], [[rope-xphb]], [[tinderbox-xphb]], 10 [[torch-xphb]], and [[waterskin-xphb]].
 
 *Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

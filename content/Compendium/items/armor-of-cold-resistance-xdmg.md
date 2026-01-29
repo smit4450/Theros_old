@@ -29,21 +29,21 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to cold damage while you wear this armor.
+You have [[resistance-xphb]] to cold damage while you wear this armor.
 
 **Variants**:
-- [[#Breastplate of Cold Resistance|Breastplate of Cold Resistance]]
-- [[#Chain Mail of Cold Resistance|Chain Mail of Cold Resistance]]
-- [[#Chain Shirt of Cold Resistance|Chain Shirt of Cold Resistance]]
-- [[#Half Plate Armor of Cold Resistance|Half Plate Armor of Cold Resistance]]
-- [[#Hide Armor of Cold Resistance|Hide Armor of Cold Resistance]]
-- [[#Leather Armor of Cold Resistance|Leather Armor of Cold Resistance]]
-- [[#Padded Armor of Cold Resistance|Padded Armor of Cold Resistance]]
-- [[#Plate Armor of Cold Resistance|Plate Armor of Cold Resistance]]
-- [[#Ring Mail of Cold Resistance|Ring Mail of Cold Resistance]]
-- [[#Scale Mail of Cold Resistance|Scale Mail of Cold Resistance]]
-- [[#Splint Armor of Cold Resistance|Splint Armor of Cold Resistance]]
-- [[#Studded Leather Armor of Cold Resistance|Studded Leather Armor of Cold Resistance]]
+-  [[#Breastplate of Cold Resistance]]
+-  [[#Chain Mail of Cold Resistance]]
+-  [[#Chain Shirt of Cold Resistance]]
+-  [[#Half Plate Armor of Cold Resistance]]
+-  [[#Hide Armor of Cold Resistance]]
+-  [[#Leather Armor of Cold Resistance]]
+-  [[#Padded Armor of Cold Resistance]]
+-  [[#Plate Armor of Cold Resistance]]
+-  [[#Ring Mail of Cold Resistance]]
+-  [[#Scale Mail of Cold Resistance]]
+-  [[#Splint Armor of Cold Resistance]]
+-  [[#Studded Leather Armor of Cold Resistance]]
 
 ### Breastplate of Cold Resistance
 

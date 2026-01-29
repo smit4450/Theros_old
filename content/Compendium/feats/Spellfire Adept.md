@@ -17,6 +17,6 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 
-**Fueled Spellfire.** Once per turn, when a spell you cast deals Radiant damage, you can expend up to two [Hit Point Dice](Compendium/rules/variant-rules/hit-point-dice-xphb.md), roll them, and add the total rolled to one damage roll of the spell.
+**Fueled Spellfire.** Once per turn, when a spell you cast deals Radiant damage, you can expend up to two [[hit-point-dice-xphb]], roll them, and add the total rolled to one damage roll of the spell.
 
-**Searing Spellfire.** When you make a damage roll that deals Radiant damage, it ignores [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Radiant damage.
+**Searing Spellfire.** When you make a damage roll that deals Radiant damage, it ignores [[resistance-xphb]] to Radiant damage.

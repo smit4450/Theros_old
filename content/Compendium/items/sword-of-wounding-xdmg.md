@@ -22,15 +22,15 @@ aliases:
 
 
 
-When you hit a creature with an attack using this magic weapon, the target takes an extra `2d6` Necrotic damage and must succeed on a DC 15 Constitution saving throw or be unable to regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) for 1 hour. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+When you hit a creature with an attack using this magic weapon, the target takes an extra `2d6` Necrotic damage and must succeed on a DC 15 Constitution saving throw or be unable to regain [[hit-points-xphb]] for 1 hour. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 **Variants**:
-- [[#Glaive of Wounding|Glaive of Wounding]]
-- [[#Greatsword of Wounding|Greatsword of Wounding]]
-- [[#Longsword of Wounding|Longsword of Wounding]]
-- [[#Rapier of Wounding|Rapier of Wounding]]
-- [[#Scimitar of Wounding|Scimitar of Wounding]]
-- [[#Shortsword of Wounding|Shortsword of Wounding]]
+-  [[#Glaive of Wounding]]
+-  [[#Greatsword of Wounding]]
+-  [[#Longsword of Wounding]]
+-  [[#Rapier of Wounding]]
+-  [[#Scimitar of Wounding]]
+-  [[#Shortsword of Wounding]]
 
 ### Glaive of Wounding
 

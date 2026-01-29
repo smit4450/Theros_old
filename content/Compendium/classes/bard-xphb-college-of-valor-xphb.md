@@ -9,7 +9,7 @@ aliases:
 - College of Valor
 ---
 # College of Valor
-*[[bard-xphb|Bard]]: Bard Subclass*  
+* [[bard-xphb]]: Bard Subclass*  
 *Source: Player's Handbook (2024) p. 67*  
 
 > [!tldr] Class and Feature Progression
@@ -58,7 +58,7 @@ You can use your wit to turn the tide of battle. A creature that has a Bardic In
 
 #### Defense
 
-When the creature is hit by an attack roll, that creature can use its [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, potentially causing the attack to miss.
+When the creature is hit by an attack roll, that creature can use its [[reaction-xphb]] to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, potentially causing the attack to miss.
 
 #### Offense
 
@@ -66,9 +66,9 @@ Immediately after the creature hits a target with an attack roll, the creature c
 
 ### Martial Training (Level 3)
 
-You gain proficiency with Martial weapons and training with Medium armor and [Shields](Compendium/items/shield-xphb.md).
+You gain proficiency with Martial weapons and training with Medium armor and [[shield-xphb]].
 
-In addition, you can use a Simple or Martial weapon as a [Spellcasting Focus](Compendium/rules/variant-rules/spellcasting-focus-xphb.md) to cast spells from your Bard spell list.
+In addition, you can use a Simple or Martial weapon as a [[spellcasting-focus-xphb]] to cast spells from your Bard spell list.
 
 ### Extra Attack (Level 6)
 
@@ -78,4 +78,4 @@ In addition, you can cast one of your cantrips that has a casting time of an act
 
 ### Battle Magic (Level 14)
 
-After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md).
+After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [[bonus-action-xphb]].

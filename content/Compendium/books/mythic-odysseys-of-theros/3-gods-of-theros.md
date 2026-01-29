@@ -36,7 +36,7 @@ The gods can assume any form they choose. They most commonly appear as humanoids
 
 When physically present in the mortal world, a god is capable of devastating physical attacks. Heliod's spear striking the polis of Olantin caused it to sink forever into the sea, and an errant blow from Purphoros's hammer shaped the mountains.
 
-The power of the gods exceeds that of any mortal being. Even so, a god killing another god—let alone a mortal attempting the task—is virtually inconceivable. Any kind of direct confrontation against a god by mortals would require the assistance of at least one other god, and ideally more than one, to have any hope of success. A group of adventurers might try to convince a group of gods to lend their aid against a god who has become a threat to the mortal world, hoping to get the gods to band together to restrain or punish the offender. Kruphix or Klothys might be able to force a god into a physical form that doesn't fill the sky (perhaps something similar to an [empyrean](Compendium/bestiary/miscellaneous/empyrean-xmm.md) or the [tarrasque](Compendium/bestiary/monstrosity/tarrasque-xmm.md)), which could enable adventurers to battle the god, especially if they have access to a divine weapon like the artifacts detailed in "chapter 5". But defeating the god in that form would merely weaken the deity, allowing other members of the pantheon to capture, bind, or punish them.
+The power of the gods exceeds that of any mortal being. Even so, a god killing another god—let alone a mortal attempting the task—is virtually inconceivable. Any kind of direct confrontation against a god by mortals would require the assistance of at least one other god, and ideally more than one, to have any hope of success. A group of adventurers might try to convince a group of gods to lend their aid against a god who has become a threat to the mortal world, hoping to get the gods to band together to restrain or punish the offender. Kruphix or Klothys might be able to force a god into a physical form that doesn't fill the sky (perhaps something similar to an [[empyrean-xmm]] or the [[tarrasque-xmm]]), which could enable adventurers to battle the god, especially if they have access to a divine weapon like the artifacts detailed in "chapter 5". But defeating the god in that form would merely weaken the deity, allowing other members of the pantheon to capture, bind, or punish them.
 
 ### Divine Relationships
 
@@ -88,7 +88,7 @@ Often, heroes choose to devote themselves to particular gods either out of piety
 
 Most heroes in a Theros campaign, and all clerics, are assumed to devote themselves to a god's cause, acting as that god's champion. All the characters in a party might serve the same god, but more likely, they represent the interests of different gods as they face the dangers of the world together.
 
-![Gods of Theros](Compendium/tables/gods-of-theros-mot.md)
+![[gods-of-theros-mot]]
 
 ## Piety
 
@@ -128,18 +128,18 @@ When you change gods, you lose all the benefits granted by your old one, includi
 
 ## The Gods
 
-- [[Athreos|Athreos]]  
-- [[Ephara|Ephara]]  
-- [[Erebos|Erebos]]  
-- [[Heliod|Heliod]]  
-- [[Iroas|Iroas]]  
-- [[Karametra|Karametra]]  
-- [[Keranos|Keranos]]  
-- [[Klothys|Klothys]]  
-- [[Kruphix|Kruphix]]  
-- [[Mogis|Mogis]]  
-- [[Nylea|Nylea]]  
-- [[Pharika|Pharika]]  
-- [[Phenax|Phenax]]  
-- [[Purphoros|Purphoros]]  
-- [[theros-thassa-mot|Thassa]]
+-  [[Athreos]]  
+-  [[Ephara]]  
+-  [[Erebos]]  
+-  [[Heliod]]  
+-  [[Iroas]]  
+-  [[Karametra]]  
+-  [[Keranos]]  
+-  [[Klothys]]  
+-  [[Kruphix]]  
+-  [[Mogis]]  
+-  [[Nylea]]  
+-  [[Pharika]]  
+-  [[Phenax]]  
+-  [[Purphoros]]  
+-  [[theros-thassa-mot]]

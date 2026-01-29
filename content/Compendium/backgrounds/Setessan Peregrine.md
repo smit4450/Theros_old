@@ -11,10 +11,10 @@ aliases: ["Rashemi Wanderer"]
 ![](Compendium/backgrounds/img/rashemi-wanderer.webp#right)
 
 - **Ability Scores.** Strength, Constitution, Charisma  
-- **Feat.** [[Tough|Tough]]  
+- **Feat.**  [[Tough]]  
 - **Skill Proficiencies.** [Intimidation](Compendium/rules/skills.md#Intimidation) and [Perception](Compendium/rules/skills.md#Perception)  
-- **Tool Proficiencies.** [Cartographer's Tools](Compendium/items/cartographers-tools-xphb.md)  
-- **Equipment.** Choose A or B: (A) [Cartographer's Tools](Compendium/items/cartographers-tools-xphb.md), [Backpack](Compendium/items/backpack-xphb.md), [Bedroll](Compendium/items/bedroll-xphb.md), [Hooded Lantern](Compendium/items/hooded-lantern-xphb.md), [Oil](Compendium/items/oil-xphb.md) (3 flasks), [Rope](Compendium/items/rope-xphb.md), [Tinderbox](Compendium/items/tinderbox-xphb.md), [Traveler's Clothes](Compendium/items/travelers-clothes-xphb.md), [Waterskin](Compendium/items/waterskin-xphb.md), 23 GP; or (B) 50 GP  
+- **Tool Proficiencies.** [[cartographers-tools-xphb]]  
+- **Equipment.** Choose A or B: (A) [[cartographers-tools-xphb]], [[backpack-xphb]], [[bedroll-xphb]], [[hooded-lantern-xphb]], [[oil-xphb]] (3 flasks), [[rope-xphb]], [[tinderbox-xphb]], [[travelers-clothes-xphb]], [[waterskin-xphb]], 23 GP; or (B) 50 GP  
 
 Setessans believe that women become heroes through martial exploits, while men do so by finding their own way in the world. As a result, the polis is populated mostly by women and children.
 

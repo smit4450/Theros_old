@@ -21,7 +21,7 @@ Elemental cultists harness destructive natural forces to cleanse the world of ci
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [[random-magic-items-relics]]  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
@@ -115,13 +115,13 @@ Cults can organize around any mystical tradition, but many serve supernatural be
       \ to 10 feet straight toward or away from itself."
     "name": "Elemental Claw"
   - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 15):\n\n**At will:** [Elementalism](Compendium/spells/elementalism-xphb.md),\
-      \ [Mage Hand](Compendium/spells/mage-hand-xphb.md)"
+      \ ability (spell save DC 15):\n\n**At will:** [[elementalism-xphb]],\
+      \ [[mage-hand-xphb]]"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: The cultist takes Acid, Cold, Fire, Lightning, or Thunder damage.\
-      \ _Response:_ The cultist gives itself [Resistance](Compendium/rules/variant-rules/resistance-xphb.md)\
-      \ to that instance of damage and gains 10 [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)."
+      \ _Response:_ The cultist gives itself [[resistance-xphb]]\
+      \ to that instance of damage and gains 10 [[temporary-hit-points-xphb]]."
     "name": "Elemental Absorption (1/Day)"
 "source":
   - "XMM"

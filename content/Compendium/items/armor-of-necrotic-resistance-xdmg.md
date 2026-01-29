@@ -29,21 +29,21 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to necrotic damage while you wear this armor.
+You have [[resistance-xphb]] to necrotic damage while you wear this armor.
 
 **Variants**:
-- [[#Breastplate of Necrotic Resistance|Breastplate of Necrotic Resistance]]
-- [[#Chain Mail of Necrotic Resistance|Chain Mail of Necrotic Resistance]]
-- [[#Chain Shirt of Necrotic Resistance|Chain Shirt of Necrotic Resistance]]
-- [[#Half Plate Armor of Necrotic Resistance|Half Plate Armor of Necrotic Resistance]]
-- [[#Hide Armor of Necrotic Resistance|Hide Armor of Necrotic Resistance]]
-- [[#Leather Armor of Necrotic Resistance|Leather Armor of Necrotic Resistance]]
-- [[#Padded Armor of Necrotic Resistance|Padded Armor of Necrotic Resistance]]
-- [[#Plate Armor of Necrotic Resistance|Plate Armor of Necrotic Resistance]]
-- [[#Ring Mail of Necrotic Resistance|Ring Mail of Necrotic Resistance]]
-- [[#Scale Mail of Necrotic Resistance|Scale Mail of Necrotic Resistance]]
-- [[#Splint Armor of Necrotic Resistance|Splint Armor of Necrotic Resistance]]
-- [[#Studded Leather Armor of Necrotic Resistance|Studded Leather Armor of Necrotic Resistance]]
+-  [[#Breastplate of Necrotic Resistance]]
+-  [[#Chain Mail of Necrotic Resistance]]
+-  [[#Chain Shirt of Necrotic Resistance]]
+-  [[#Half Plate Armor of Necrotic Resistance]]
+-  [[#Hide Armor of Necrotic Resistance]]
+-  [[#Leather Armor of Necrotic Resistance]]
+-  [[#Padded Armor of Necrotic Resistance]]
+-  [[#Plate Armor of Necrotic Resistance]]
+-  [[#Ring Mail of Necrotic Resistance]]
+-  [[#Scale Mail of Necrotic Resistance]]
+-  [[#Splint Armor of Necrotic Resistance]]
+-  [[#Studded Leather Armor of Necrotic Resistance]]
 
 ### Breastplate of Necrotic Resistance
 

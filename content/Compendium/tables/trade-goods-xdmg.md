@@ -14,17 +14,17 @@ aliases:
 
 | Cost | Goods |
 |------|-------|
-| 1 CP | 1 lb. of [wheat](Compendium/items/wheat-xdmg.md) |
-| 2 CP | 2 lb. of [flour](Compendium/items/flour-xdmg.md) or one [chicken](Compendium/items/chicken-xdmg.md) |
-| 5 CP | 1 lb. of [salt](Compendium/items/salt-xdmg.md) |
-| 1 SP | 1 lb. of [iron](Compendium/items/iron-xdmg.md) or 1 sq. yd. of [canvas](Compendium/items/canvas-1-sq-yd-xdmg.md) |
-| 5 SP | 1 lb. of [copper](Compendium/items/copper-xdmg.md) or 1 sq. yd. of [cotton cloth](Compendium/items/cotton-cloth-1-sq-yd-xdmg.md) |
-| 1 GP | 1 lb. of [ginger](Compendium/items/ginger-xdmg.md) or one [goat](Compendium/items/goat-xdmg.md) |
-| 2 GP | 1 lb. of [cinnamon](Compendium/items/cinnamon-xdmg.md) or [pepper](Compendium/items/pepper-xdmg.md), or one [sheep](Compendium/items/sheep-xdmg.md) |
-| 3 GP | 1 lb. of [cloves](Compendium/items/cloves-xdmg.md) or one [pig](Compendium/items/pig-xdmg.md) |
-| 5 GP | 1 lb. of [silver](Compendium/items/silver-xdmg.md) or 1 sq. yd. of [linen](Compendium/items/linen-1-sq-yd-xdmg.md) |
-| 10 GP | 1 lb. of [silk](Compendium/items/silk-xdmg.md) or one [cow](Compendium/items/cow-xdmg.md) |
-| 15 GP | 1 lb. of [saffron](Compendium/items/saffron-xdmg.md) or one [ox](Compendium/items/ox-xdmg.md) |
-| 50 GP | 1 lb. of [gold](Compendium/items/gold-xdmg.md) |
-| 500 GP | 1 lb. of [platinum](Compendium/items/platinum-xdmg.md) |
+| 1 CP | 1 lb. of [[wheat-xdmg]] |
+| 2 CP | 2 lb. of [[flour-xdmg]] or one [[chicken-xdmg]] |
+| 5 CP | 1 lb. of [[salt-xdmg]] |
+| 1 SP | 1 lb. of [[iron-xdmg]] or 1 sq. yd. of [[canvas-1-sq-yd-xdmg]] |
+| 5 SP | 1 lb. of [[copper-xdmg]] or 1 sq. yd. of [[cotton-cloth-1-sq-yd-xdmg]] |
+| 1 GP | 1 lb. of [[ginger-xdmg]] or one [[goat-xdmg]] |
+| 2 GP | 1 lb. of [[cinnamon-xdmg]] or [[pepper-xdmg]], or one [[sheep-xdmg]] |
+| 3 GP | 1 lb. of [[cloves-xdmg]] or one [[pig-xdmg]] |
+| 5 GP | 1 lb. of [[silver-xdmg]] or 1 sq. yd. of [[linen-1-sq-yd-xdmg]] |
+| 10 GP | 1 lb. of [[silk-xdmg]] or one [[cow-xdmg]] |
+| 15 GP | 1 lb. of [[saffron-xdmg]] or one [[ox-xdmg]] |
+| 50 GP | 1 lb. of [[gold-xdmg]] |
+| 500 GP | 1 lb. of [[platinum-xdmg]] |
 ^trade-goods

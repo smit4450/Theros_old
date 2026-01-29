@@ -14,7 +14,7 @@ aliases:
 
 | Focus | Weight | Cost |
 |-------|--------|------|
-| [Sprig of mistletoe](Compendium/items/sprig-of-mistletoe-xphb.md) | — | 1 GP |
-| [Wooden staff](Compendium/items/wooden-staff-xphb.md) (also a [Quarterstaff](Compendium/items/quarterstaff-xphb.md)) | 4 lb. | 5 GP |
-| [Yew wand](Compendium/items/yew-wand-xphb.md) | 1 lb. | 10 GP |
+| [[sprig-of-mistletoe-xphb]] | — | 1 GP |
+| [[wooden-staff-xphb]] (also a [[quarterstaff-xphb]]) | 4 lb. | 5 GP |
+| [[yew-wand-xphb]] | 1 lb. | 10 GP |
 ^druidic-focuses

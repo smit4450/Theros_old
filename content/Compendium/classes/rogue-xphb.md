@@ -53,15 +53,15 @@ aliases:
 - **Saving Throw Proficiencies**: Dexterity, Intelligence
 - **Skill Proficiencies**: *Choose 4:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [Deception](Compendium/rules/skills.md#Deception), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Investigation](Compendium/rules/skills.md#Investigation), [Perception](Compendium/rules/skills.md#Perception), [Persuasion](Compendium/rules/skills.md#Persuasion), [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand), or [Stealth](Compendium/rules/skills.md#Stealth)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons that have the Finesse or Light property
-- **Tool Proficiencies**: [Thieves' Tools](Compendium/items/thieves-tools-xphb.md)
+- **Tool Proficiencies**: [[thieves-tools-xphb]]
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
-**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Compendium/items/leather-armor-xphb.md), 2 [Daggers](Compendium/items/dagger-xphb.md), [Shortsword](Compendium/items/shortsword-xphb.md), [Shortbow](Compendium/items/shortbow-xphb.md), [20 Arrows](Compendium/items/arrows-20-xphb.md), [Quiver](Compendium/items/quiver-xphb.md), [Thieves' Tools](Compendium/items/thieves-tools-xphb.md), [Burglar's Pack](Compendium/items/burglars-pack-xphb.md), and 8 GP; or (B) 100 GP
+**Starting Equipment:** *Choose A or B:* (A) [[leather-armor-xphb]], 2 [[dagger-xphb]], [[shortsword-xphb]], [[shortbow-xphb]], [[arrows-20-xphb]], [[quiver-xphb]], [[thieves-tools-xphb]], [[burglars-pack-xphb]], and 8 GP; or (B) 100 GP
 
 ## Multiclassing Rogue
 
 - **Skill Proficiencies**: *Choose 1:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [Deception](Compendium/rules/skills.md#Deception), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Investigation](Compendium/rules/skills.md#Investigation), [Perception](Compendium/rules/skills.md#Perception), [Persuasion](Compendium/rules/skills.md#Persuasion), [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand), or [Stealth](Compendium/rules/skills.md#Stealth)
-- **Tool Proficiencies**: [Thieves' Tools](Compendium/items/thieves-tools-xphb.md)
+- **Tool Proficiencies**: [[thieves-tools-xphb]]
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
 ## Rogue
@@ -76,15 +76,15 @@ Some Rogues began their careers as criminals, while others used their cunning to
 
 ### Expertise (Level 1)
 
-You gain [Expertise](Compendium/rules/variant-rules/expertise-xphb.md) in two of your skill proficiencies of your choice. [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand) and [Stealth](Compendium/rules/skills.md#Stealth) are recommended if you have proficiency in them.
+You gain [[expertise-xphb]] in two of your skill proficiencies of your choice. [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand) and [Stealth](Compendium/rules/skills.md#Stealth) are recommended if you have proficiency in them.
 
-At Rogue level 6, you gain [Expertise](Compendium/rules/variant-rules/expertise-xphb.md) in two more of your skill proficiencies of your choice.
+At Rogue level 6, you gain [[expertise-xphb]] in two more of your skill proficiencies of your choice.
 
 ### Sneak Attack (Level 1)
 
-You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `1d6` damage to one creature you hit with an attack roll if you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.
+You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `1d6` damage to one creature you hit with an attack roll if you have [[advantage-xphb]] on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.
 
-You don't need [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, and you don't have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on the attack roll.
+You don't need [[advantage-xphb]] on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, and you don't have [[disadvantage-xphb]] on the attack roll.
 
 The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
 
@@ -94,13 +94,13 @@ You picked up various languages in the communities where you plied your roguish 
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [mastery properties](Compendium/rules/variant-rules/weapon-mastery-properties-xphb.md) of two kinds of weapons of your choice with which you have proficiency, such as [Daggers](Compendium/items/dagger-xphb.md) and [Shortbows](Compendium/items/shortbow-xphb.md).
+Your training with weapons allows you to use the [[weapon-mastery-properties-xphb]] of two kinds of weapons of your choice with which you have proficiency, such as [[dagger-xphb]] and [[shortbow-xphb]].
 
-Whenever you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](Compendium/rules/variant-rules/weapon-mastery-properties-xphb.md) of [Scimitars](Compendium/items/scimitar-xphb.md) and [Shortswords](Compendium/items/shortsword-xphb.md).
+Whenever you finish a [[long-rest-xphb]], you can change the kinds of weapons you chose. For example, you could switch to using the [[weapon-mastery-properties-xphb]] of [[scimitar-xphb]] and [[shortsword-xphb]].
 
 ### Cunning Action (Level 2)
 
-Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md): [Dash](Compendium/rules/actions.md#Dash), [Disengage](Compendium/rules/actions.md#Disengage), or [Hide](Compendium/rules/actions.md#Hide).
+Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a [[bonus-action-xphb]]: [Dash](Compendium/rules/actions.md#Dash), [Disengage](Compendium/rules/actions.md#Disengage), or [Hide](Compendium/rules/actions.md#Hide).
 
 ### Rogue Subclass (Level 3)
 
@@ -108,23 +108,23 @@ You gain a Rogue subclass of your choice. A subclass is a specialization that gr
 
 ### Steady Aim (Level 3)
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you give yourself [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your [Speed](Compendium/rules/variant-rules/speed-xphb.md) is 0 until the end of the current turn.
+As a [[bonus-action-xphb]], you give yourself [[advantage-xphb]] on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your [[speed-xphb]] is 0 until the end of the current turn.
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
+You gain the  [[Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
 
 ### Cunning Strike (Level 5)
 
 You've developed cunning ways to use your Sneak Attack. When you deal Sneak Attack damage, you can add one of the following Cunning Strike effects. Each effect has a die cost, which is the number of Sneak Attack damage dice you must forgo to add the effect. You remove the die before rolling, and the effect occurs immediately after the attack's damage is dealt. For example, if you add the Poison effect, remove `1d6` from the Sneak Attack's damage before rolling.
 
-If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your Dexterity modifier and [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md).
+If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your Dexterity modifier and [[proficiency-xphb]].
 
 ### Poison (Cost: 1d6) (Level 5)
 
 You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 minute. At the end of each of its turns, the [Poisoned](Compendium/rules/conditions.md#Poisoned) target repeats the save, ending the effect on itself on a success.
 
-To use this effect, you must have a [Poisoner's Kit](Compendium/items/poisoners-kit-xphb.md) on your person.
+To use this effect, you must have a [[poisoners-kit-xphb]] on your person.
 
 ### Trip (Cost: 1d6) (Level 5)
 
@@ -132,15 +132,15 @@ If the target is Large or smaller, it must succeed on a Dexterity saving throw o
 
 ### Withdraw (Cost: 1d6) (Level 5)
 
-Immediately after the attack, you move up to half your [Speed](Compendium/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
+Immediately after the attack, you move up to half your [[speed-xphb]] without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
 ### Uncanny Dodge (Level 5)
 
-When an attacker that you can see hits you with an attack roll, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to halve the attack's damage against you (round down).
+When an attacker that you can see hits you with an attack roll, you can take a [[reaction-xphb]] to halve the attack's damage against you (round down).
 
 ### Expertise (Level 6)
 
-You gain [Expertise](Compendium/rules/variant-rules/expertise-xphb.md) in two of your Skill Proficiencies of your choice.
+You gain [[expertise-xphb]] in two of your Skill Proficiencies of your choice.
 
 ### Evasion (Level 7)
 
@@ -152,7 +152,7 @@ Whenever you make an ability check that uses one of your skill or tool proficien
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
+You gain the  [[Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 9)
 
@@ -160,7 +160,7 @@ You gain a feature from your Rogue Subclass.
 
 ### Ability Score Improvement (Level 10)
 
-You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
+You gain the  [[Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Improved Cunning Strike (Level 11)
 
@@ -168,7 +168,7 @@ You can use up to two Cunning Strike effects when you deal Sneak Attack damage, 
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
+You gain the  [[Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 13)
 
@@ -180,7 +180,7 @@ You've practiced new ways to use your Sneak Attack deviously. The following effe
 
 ### Daze (Cost: 2d6) (Level 14)
 
-The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md).
+The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a [[bonus-action-xphb]].
 
 ### Knock Out (Cost: 6d6) (Level 14)
 
@@ -196,7 +196,7 @@ Your cunning mind is exceptionally difficult to control. You gain proficiency in
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
+You gain the  [[Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 17)
 
@@ -204,14 +204,14 @@ You gain a feature from your Rogue Subclass.
 
 ### Elusive (Level 18)
 
-You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) against you unless you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[advantage-xphb]] against you unless you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [[Boon of the Night Spirit|Boon of the Night Spirit]] is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify.  [[Boon of the Night Spirit]] is recommended.
 
 ### Stroke of Luck (Level 20)
 
-You have a marvelous knack for succeeding when you need to. If you fail a [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md), you can turn the roll into a 20.
+You have a marvelous knack for succeeding when you need to. If you fail a [[d20-test-xphb]], you can turn the roll into a 20.
 
-Once you use this feature, you can't use it again until you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [[short-rest-xphb]] or [[long-rest-xphb]].

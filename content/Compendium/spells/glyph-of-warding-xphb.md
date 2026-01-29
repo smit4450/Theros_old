@@ -45,13 +45,13 @@ You can refine the trigger so that only creatures of certain types activate it (
 
 ## Explosive Rune
 
-When triggered, the glyph erupts with magical energy in a 20-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on the glyph. Each creature in the area makes a Dexterity saving throw. A creature takes `5d8` Acid, Cold, Fire, Lightning, or Thunder damage (your choice when you create the glyph) on a failed save or half as much damage on a successful one.
+When triggered, the glyph erupts with magical energy in a 20-foot-radius [[sphere-area-of-effect-xphb]] centered on the glyph. Each creature in the area makes a Dexterity saving throw. A creature takes `5d8` Acid, Cold, Fire, Lightning, or Thunder damage (your choice when you create the glyph) on a failed save or half as much damage on a successful one.
 
 ## Spell Glyph
 
 You can store a prepared spell of level 3 or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way.
 
-When the glyph is triggered, the stored spell takes effect. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires [Concentration](Compendium/rules/conditions.md#Concentration), it lasts until the end of its full duration.
+When the glyph is triggered, the stored spell takes effect. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons [[hostile-attitude-xphb]] creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires [Concentration](Compendium/rules/conditions.md#Concentration), it lasts until the end of its full duration.
 
 ## Using a Higher-Level Spell Slot
 
@@ -59,6 +59,6 @@ The damage of an explosive rune increases by `1d8` for each spell slot level abo
 
 ## Summary
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

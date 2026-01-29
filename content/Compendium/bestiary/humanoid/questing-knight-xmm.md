@@ -21,7 +21,7 @@ Questing knights travel in pursuit of a cause, such as slaying a villain, defeat
 *Battle Masters and Heroic Wanderers*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments]], Individual  
 
 Knights are skilled warriors trained for war and tested in battle. Many serve the rulers of a realm, a religion, or an order devoted to a cause.
 ## Statblock
@@ -60,8 +60,8 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
 "languages": "Common plus one other language"
 "cr": "12"
 "traits":
-  - "desc": "Creatures of the knight's choice in a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from it have [Immunity](Compendium/rules/variant-rules/immunity-xphb.md)\
+  - "desc": "Creatures of the knight's choice in a 30-foot [[emanation-area-of-effect-xphb]]\
+      \ originating from it have [[immunity-xphb]]\
       \ to the [Charmed](Compendium/rules/conditions.md#Charmed) and [Frightened](Compendium/rules/conditions.md#Frightened)\
       \ conditions while there."
     "name": "Aura of Bravery"
@@ -75,9 +75,9 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
       \ damage plus 22 (5d8) Radiant damage."
     "name": "Longbow"
   - "desc": "The knight casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 16):\n\n**1/day each:** [Daylight](Compendium/spells/daylight-xphb.md),\
-      \ [Dispel Evil and Good](Compendium/spells/dispel-evil-and-good-xphb.md), [Greater\
-      \ Restoration](Compendium/spells/greater-restoration-xphb.md), [Phantom Steed](Compendium/spells/phantom-steed-xphb.md)"
+      \ ability (spell save DC 16):\n\n**1/day each:** [[daylight-xphb]],\
+      \ [[dispel-evil-and-good-xphb]], [Greater\
+      \ Restoration](Compendium/spells/greater-restoration-xphb.md), [[phantom-steed-xphb]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

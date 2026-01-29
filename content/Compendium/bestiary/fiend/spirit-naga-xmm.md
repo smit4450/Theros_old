@@ -21,7 +21,7 @@ aliases: ["Spirit Naga"]
 *Spiteful Serpentine Grudge Keeper*
 
 - **Habitat.** Planar (Lower Planes), Underdark  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana]]  
 
 Spirit nagas loathe the world and all creatures. Possessing perfect memories, these venomous, cobra-like creatures recall every slight committed against them during their immortal existences. In their dank, joyless lairs, they create vicious plots to avenge themselves against even petty offenses.
 
@@ -68,7 +68,7 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 "cr": "8"
 "traits":
   - "desc": "If it dies, the naga returns to life in 1d6 days and regains all its\
-      \ [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). Only a [Wish](Compendium/spells/wish-xphb.md)\
+      \ [[hit-points-xphb]]. Only a [[wish-xphb]]\
       \ spell can prevent this trait from functioning."
     "name": "Fiendish Restoration"
 "actions":
@@ -81,11 +81,11 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
     "name": "Necrotic Ray"
   - "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 14):\n\n**At will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md),\
-      \ [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Minor Illusion](Compendium/spells/minor-illusion-xphb.md),\
-      \ [Water Breathing](Compendium/spells/water-breathing-xphb.md)\n\n**2/day each:**\
-      \ [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md), [Dimension Door](Compendium/spells/dimension-door-xphb.md),\
-      \ [Hold Person](Compendium/spells/hold-person-xphb.md) (level 3 version), [Lightning\
+      \ DC 14):\n\n**At will:** [[detect-magic-xphb]],\
+      \ [[mage-hand-xphb]], [[minor-illusion-xphb]],\
+      \ [[water-breathing-xphb]]\n\n**2/day each:**\
+      \ [[detect-thoughts-xphb]], [[dimension-door-xphb]],\
+      \ [[hold-person-xphb]] (level 3 version), [Lightning\
       \ Bolt](Compendium/spells/lightning-bolt-xphb.md) (level 4 version)"
     "name": "Spellcasting"
 "source":

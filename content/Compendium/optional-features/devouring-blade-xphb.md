@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Level 12, thirsting blade|xphb
 
-The Extra Attack of your [Thirsting Blade](Compendium/optional-features/thirsting-blade-xphb.md) invocation confers two extra attacks rather than one.
+The Extra Attack of your [[thirsting-blade-xphb]] invocation confers two extra attacks rather than one.

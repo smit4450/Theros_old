@@ -16,7 +16,7 @@ aliases: ["Octopus"]
 ![](Compendium/bestiary/beast/img/octopus.webp#right)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm]] stat block can also represent a mountain lion, while the [[giant-goat-xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 ![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
 ![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
 ![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
@@ -57,10 +57,10 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Tentacles"
 "reactions":
   - "desc": "Trigger: A creature ends its turn within 5 feet of the octopus while\
-      \ underwater. _Response:_ The octopus releases ink that fills a 5-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)\
-      \ centered on itself, and the octopus moves up to its [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md).\
-      \ The [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md) is\
-      \ [Heavily Obscured](Compendium/rules/variant-rules/heavily-obscured-xphb.md)\
+      \ underwater. _Response:_ The octopus releases ink that fills a 5-foot [[cube-area-of-effect-xphb]]\
+      \ centered on itself, and the octopus moves up to its [[swim-speed-xphb]].\
+      \ The [[cube-area-of-effect-xphb]] is\
+      \ [[heavily-obscured-xphb]]\
       \ for 1 minute or until a strong current or similar effect disperses the ink."
     "name": "Ink Cloud (1/Day)"
 "source":

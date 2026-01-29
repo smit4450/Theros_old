@@ -9,7 +9,7 @@ aliases:
 - College of Eloquence
 ---
 # College of Eloquence
-*[[bard-xphb|Bard]]: Bard Subclass*  
+* [[bard-xphb]]: Bard Subclass*  
 *Source: Tasha's Cauldron of Everything p. 29, Mythic Odysseys of Theros p. 28*  
 
 > [!tldr] Class and Feature Progression

@@ -29,21 +29,21 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to thunder damage while you wear this armor.
+You have [[resistance-xphb]] to thunder damage while you wear this armor.
 
 **Variants**:
-- [[#Breastplate of Thunder Resistance|Breastplate of Thunder Resistance]]
-- [[#Chain Mail of Thunder Resistance|Chain Mail of Thunder Resistance]]
-- [[#Chain Shirt of Thunder Resistance|Chain Shirt of Thunder Resistance]]
-- [[#Half Plate Armor of Thunder Resistance|Half Plate Armor of Thunder Resistance]]
-- [[#Hide Armor of Thunder Resistance|Hide Armor of Thunder Resistance]]
-- [[#Leather Armor of Thunder Resistance|Leather Armor of Thunder Resistance]]
-- [[#Padded Armor of Thunder Resistance|Padded Armor of Thunder Resistance]]
-- [[#Plate Armor of Thunder Resistance|Plate Armor of Thunder Resistance]]
-- [[#Ring Mail of Thunder Resistance|Ring Mail of Thunder Resistance]]
-- [[#Scale Mail of Thunder Resistance|Scale Mail of Thunder Resistance]]
-- [[#Splint Armor of Thunder Resistance|Splint Armor of Thunder Resistance]]
-- [[#Studded Leather Armor of Thunder Resistance|Studded Leather Armor of Thunder Resistance]]
+-  [[#Breastplate of Thunder Resistance]]
+-  [[#Chain Mail of Thunder Resistance]]
+-  [[#Chain Shirt of Thunder Resistance]]
+-  [[#Half Plate Armor of Thunder Resistance]]
+-  [[#Hide Armor of Thunder Resistance]]
+-  [[#Leather Armor of Thunder Resistance]]
+-  [[#Padded Armor of Thunder Resistance]]
+-  [[#Plate Armor of Thunder Resistance]]
+-  [[#Ring Mail of Thunder Resistance]]
+-  [[#Scale Mail of Thunder Resistance]]
+-  [[#Splint Armor of Thunder Resistance]]
+-  [[#Studded Leather Armor of Thunder Resistance]]
 
 ### Breastplate of Thunder Resistance
 

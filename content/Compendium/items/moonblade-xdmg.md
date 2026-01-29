@@ -23,7 +23,7 @@ aliases:
 
 Of all the magic items created by elves, one of the most prized and jealously guarded is a Moonblade. In ancient times, nearly all elven noble houses claimed one such weapon. Over the centuries, some of these weapons have faded from the world, their magic lost as family lines have become extinct. Others have vanished with their bearers during great quests. Thus, only a few of these weapons remain.
 
-Every Moonblade longs for a bearer whose disposition and goals are compatible with its own. If you try to attune to a Moonblade that doesn't want you as its bearer, the weapon not only rejects you but also places a curse on you, causing you to make [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md) with [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) for 24 hours or until the curse is ended by a [Remove Curse](Compendium/spells/remove-curse-xphb.md) spell or similar magic. If you're accepted by the weapon and try to attune to it, you become attuned to it instantly, and a new rune appears on it. You remain attuned to the weapon until you die or the weapon is destroyed. A Moonblade functions like a nonmagical weapon of its kind for anyone other than its chosen bearer.
+Every Moonblade longs for a bearer whose disposition and goals are compatible with its own. If you try to attune to a Moonblade that doesn't want you as its bearer, the weapon not only rejects you but also places a curse on you, causing you to make [[d20-test-xphb]] with [[disadvantage-xphb]] for 24 hours or until the curse is ended by a [[remove-curse-xphb]] spell or similar magic. If you're accepted by the weapon and try to attune to it, you become attuned to it instantly, and a new rune appears on it. You remain attuned to the weapon until you die or the weapon is destroyed. A Moonblade functions like a nonmagical weapon of its kind for anyone other than its chosen bearer.
 
 A Moonblade has one rune on it for each bearer it has willingly served (typically `1d6 + 1`). The first rune grants a +1 bonus to attack rolls and damage rolls made with this magic weapon. Each rune beyond the first grants the Moonblade an additional property. The DM chooses each property or determines it randomly by rolling on the Moonblade Properties table.
 
@@ -48,18 +48,18 @@ A Moonblade has a personality similar to that of its creator. Once a Moonblade h
 | 01-60 | Increase the weapon's bonus to attack rolls and damage rolls by 1, to a maximum of +3. Reroll if the *Moonblade* already has a +3 bonus. |
 | 61-75 | When you hit with an attack roll using the *Moonblade*, you deal an extra `1d6` Force damage. Each time the weapon gains this property after the first, the extra damage increases by `1d6`, to a maximum of `3d6`. Reroll if the *Moonblade* already deals an extra `3d6` Force damage on a hit. |
 | 76-80 | The *Moonblade* gains [Thrown](Compendium/rules/item-properties.md#Thrown) with a normal range of 20 feet and a long range of 60 feet. Each time you throw the weapon, it flies back to your hand after the attack. |
-| 81-85 | The *Moonblade* scores a [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md) on a roll of 19 or 20 on the `d20`. |
-| 86-95 | You can take a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) to cause the *Moonblade* to flash brightly. Each other creature that is within 30 feet of you and not behind [Total Cover](Compendium/rules/variant-rules/cover-xphb.md) must succeed on a DC 15 Constitution saving throw or have the [Blinded](Compendium/rules/conditions.md#Blinded) condition for 1 minute. A creature repeats the save at the end of each of its turns, ending the effect on itself on a success. You can't use this property again until you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). |
-| 96-99 | The Moonblade has the properties of a [Ring of Spell Storing](Compendium/items/ring-of-spell-storing-xdmg.md). |
-| 100 | You can take a [Magic](Compendium/rules/actions.md#Magic) action to conjure a spectral entity that resembles a shadowy elf if you don't already have one serving you. The entity appears in an unoccupied space within 120 feet of you. It uses the [Shadow](Compendium/bestiary/undead/shadow-xmm.md) stat block with these changes: it is a Fey, has a Neutral alignment, and doesn't create new shadows. You control this entity, deciding how it acts and moves. It remains until it drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) or you dismiss it as a [Magic](Compendium/rules/actions.md#Magic) action. |
+| 81-85 | The *Moonblade* scores a [[critical-hit-xphb]] on a roll of 19 or 20 on the `d20`. |
+| 86-95 | You can take a [[bonus-action-xphb]] to cause the *Moonblade* to flash brightly. Each other creature that is within 30 feet of you and not behind [[cover-xphb]] must succeed on a DC 15 Constitution saving throw or have the [Blinded](Compendium/rules/conditions.md#Blinded) condition for 1 minute. A creature repeats the save at the end of each of its turns, ending the effect on itself on a success. You can't use this property again until you finish a [[short-rest-xphb]] or [[long-rest-xphb]]. |
+| 96-99 | The Moonblade has the properties of a [[ring-of-spell-storing-xdmg]]. |
+| 100 | You can take a [Magic](Compendium/rules/actions.md#Magic) action to conjure a spectral entity that resembles a shadowy elf if you don't already have one serving you. The entity appears in an unoccupied space within 120 feet of you. It uses the [[shadow-xmm]] stat block with these changes: it is a Fey, has a Neutral alignment, and doesn't create new shadows. You control this entity, deciding how it acts and moves. It remains until it drops to 0 [[hit-points-xphb]] or you dismiss it as a [Magic](Compendium/rules/actions.md#Magic) action. |
 ^moonblade-properties
 
 **Variants**:
-- [[#Moonblade Greatsword|Moonblade Greatsword]]
-- [[#Moonblade Longsword|Moonblade Longsword]]
-- [[#Moonblade Rapier|Moonblade Rapier]]
-- [[#Moonblade Scimitar|Moonblade Scimitar]]
-- [[#Moonblade Shortsword|Moonblade Shortsword]]
+-  [[#Moonblade Greatsword]]
+-  [[#Moonblade Longsword]]
+-  [[#Moonblade Rapier]]
+-  [[#Moonblade Scimitar]]
+-  [[#Moonblade Shortsword]]
 
 ### Moonblade Greatsword
 

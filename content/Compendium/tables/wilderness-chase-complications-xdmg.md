@@ -14,8 +14,8 @@ aliases:
 
 | dice: 1d12 | Complication |
 |------------|--------------|
-| 1 | You pass through a [Swarm of Insects](Compendium/bestiary/beast/swarm-of-insects-xmm.md) (see the "Monster Manual", with the DM choosing whichever kind of insects makes the most sense). The swarm uses one of its actions, targeting you. |
-| 2 | A stream or ravine blocks your path. Make a DC 10 Strength or Dexterity saving throw (your choice) to cross the impediment. On a failed save, the impediment counts as 10 feet of [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md) for you. |
+| 1 | You pass through a [[swarm-of-insects-xmm]] (see the "Monster Manual", with the DM choosing whichever kind of insects makes the most sense). The swarm uses one of its actions, targeting you. |
+| 2 | A stream or ravine blocks your path. Make a DC 10 Strength or Dexterity saving throw (your choice) to cross the impediment. On a failed save, the impediment counts as 10 feet of [[difficult-terrain-xphb]] for you. |
 | 3 | Make a DC 10 Constitution saving throw. On a failed save, blowing sand, dirt, ash, snow, or pollen causes you to have the [Blinded](Compendium/rules/conditions.md#Blinded) condition until the end of your turn. While you are Blinded in this way, your Speed is halved. |
 | 4 | A sudden drop catches you by surprise. Make a DC 10 Dexterity saving throw to navigate the impediment. On a failed save, you fall 10 feet. |
 | 5 | Your path takes you near a patch of "razorvine" (see ""Hazards"" in this chapter). Make a DC 15 Dexterity saving throw or use 10 feet of movement (your choice) to avoid the razorvine. On a failed save, you take `1d10` Slashing damage. |

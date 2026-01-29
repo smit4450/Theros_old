@@ -60,17 +60,17 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
 "languages": "Common plus one other language"
 "cr": "5"
 "traits":
-  - "desc": "The revenant regains 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+  - "desc": "The revenant regains 10 [[hit-points-xphb]]\
       \ at the start of each of its turns. If the revenant takes Fire or Radiant damage,\
       \ this trait doesn't function at the start of its next turn. Its body is destroyed\
-      \ only if it starts its turn with 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ only if it starts its turn with 0 [[hit-points-xphb]]\
       \ and doesn't regenerate."
     "name": "Regeneration"
   - "desc": "If the revenant dies, it revives 24 hours later in a different body unless\
-      \ [Dispel Evil and Good](Compendium/spells/dispel-evil-and-good-xphb.md) is\
+      \ [[dispel-evil-and-good-xphb]] is\
       \ cast on its corpse. If it revives, it animates a Humanoid corpse elsewhere\
       \ on the same plane of existence; it now looks different but uses the same stat\
-      \ block and returns with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)."
+      \ block and returns with all its [[hit-points-xphb]]."
     "name": "Undead Restoration"
 "actions":
   - "desc": "The revenant uses Vengeful Glare and makes two Slam attacks."
@@ -90,7 +90,7 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
   - "desc": "The revenant curses one creature it can see within 30 feet of itself.\
       \ The revenant knows the distance to and direction of the cursed target, even\
       \ if it is on a different plane of existence. The curse ends on the target if\
-      \ the revenant uses this [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md)\
+      \ the revenant uses this [[bonus-action-xphb]]\
       \ on a different creature."
     "name": "Vow of Revenge (1/Day)"
 "source":

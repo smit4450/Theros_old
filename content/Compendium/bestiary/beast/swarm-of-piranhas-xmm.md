@@ -16,7 +16,7 @@ aliases: ["Swarm of Piranhas"]
 ![](Compendium/bestiary/beast/img/swarm-of-piranhas.webp#right)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm]] stat block can also represent a mountain lion, while the [[giant-goat-xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 ![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
 ![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
 ![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
@@ -49,14 +49,14 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "traits":
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Tiny piranha. The swarm\
-      \ can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ or gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)."
+      \ can't regain [[hit-points-xphb]]\
+      \ or gain [[temporary-hit-points-xphb]]."
     "name": "Swarm"
   - "desc": "The swarm can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "*Melee Attack Roll:* +5 (with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
-      \ if the target doesn't have all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)),\
+  - "desc": "*Melee Attack Roll:* +5 (with [[advantage-xphb]]\
+      \ if the target doesn't have all its [[hit-points-xphb]]),\
       \ reach 5 ft. *Hit:* 8 (2d4 + 3) Piercing damage, or 5 (1d4 + 3) Piercing\
       \ damage if the swarm is [Bloodied](Compendium/rules/conditions.md#Bloodied)."
     "name": "Bites"

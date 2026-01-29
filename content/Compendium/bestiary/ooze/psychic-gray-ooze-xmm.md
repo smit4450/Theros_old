@@ -61,7 +61,7 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
     "name": "Amorphous"
 "actions":
   - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 11 (3d6 + 1) Acid damage,\
-      \ and the target has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ and the target has [[disadvantage-xphb]]\
       \ on Intelligence saving throws until the end of the ooze's next turn."
     "name": "Pseudopod"
   - "desc": "*Intelligence Saving Throw:* DC 10, one creature the ooze can see within\

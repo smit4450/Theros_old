@@ -35,7 +35,7 @@ aliases: ["Confusion"]
 - **Components:** V, S, M (three nut shells)
 - **Duration:** Concentration, up to 1 minute
 
-Each creature in a 10-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll `1d10` at the start of each of its turns to determine its behavior for that turn, consulting the table below.
+Each creature in a 10-foot-radius [[sphere-area-of-effect-xphb]] centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll `1d10` at the start of each of its turns to determine its behavior for that turn, consulting the table below.
 
 | dice: 1d10 | Behavior for the Turn |
 |------------|-----------------------|
@@ -47,8 +47,8 @@ Each creature in a 10-foot-radius [Sphere](Compendium/rules/variant-rules/sphere
 
 At the end of each of its turns, an affected target repeats the save, ending the spell on itself on a success.
 
-**Using a Higher-Level Spell Slot.** The [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)'s radius increases by 5 feet for each spell slot level above 4.
+**Using a Higher-Level Spell Slot.** The [[sphere-area-of-effect-xphb]]'s radius increases by 5 feet for each spell slot level above 4.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Trickery Domain)](Compendium/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (Great Old One Patron)](Compendium/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard]]; [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Trickery Domain)](Compendium/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer]]; [Warlock (Great Old One Patron)](Compendium/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 
 *Source: Player's Handbook (2024) p. 253. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

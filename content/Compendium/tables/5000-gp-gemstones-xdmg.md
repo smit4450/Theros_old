@@ -14,8 +14,8 @@ aliases:
 
 | dice: 1d4 | Stone |
 |-----------|-------|
-| 1 | [Black sapphire](Compendium/items/black-sapphire-xdmg.md) (lustrous black with glowing highlights) |
-| 2 | [Diamond](Compendium/items/diamond-xdmg.md) (blue white, canary, pink, brown, or blue) |
-| 3 | [Jacinth](Compendium/items/jacinth-xdmg.md) (fiery orange) |
-| 4 | [Ruby](Compendium/items/ruby-xdmg.md) (clear red to deep crimson) |
+| 1 | [[black-sapphire-xdmg]] (lustrous black with glowing highlights) |
+| 2 | [[diamond-xdmg]] (blue white, canary, pink, brown, or blue) |
+| 3 | [[jacinth-xdmg]] (fiery orange) |
+| 4 | [[ruby-xdmg]] (clear red to deep crimson) |
 ^5000-gp-gemstones

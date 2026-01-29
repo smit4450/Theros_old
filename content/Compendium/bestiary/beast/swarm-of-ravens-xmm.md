@@ -18,7 +18,7 @@ aliases: ["Swarm of Ravens"]
 ![](Compendium/bestiary/beast/img/swarm-of-ravens.webp#right)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm]] stat block can also represent a mountain lion, while the [[giant-goat-xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 ![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
 ![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
 ![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
@@ -53,8 +53,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "traits":
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Tiny raven. The swarm\
-      \ can't regain [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ or gain [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md)."
+      \ can't regain [[hit-points-xphb]]\
+      \ or gain [[temporary-hit-points-xphb]]."
     "name": "Swarm"
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing\
@@ -63,7 +63,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "*Wisdom Saving Throw:* DC 10, one creature in the swarm's space. *Failure:*\
       \ The target has the [Deafened](Compendium/rules/conditions.md#Deafened) condition\
       \ until the start of the swarm's next turn. While [Deafened](Compendium/rules/conditions.md#Deafened),\
-      \ the target also has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+      \ the target also has [[disadvantage-xphb]]\
       \ on ability checks and attack rolls."
     "name": "Cacophony (Recharge 6)"
 "source":

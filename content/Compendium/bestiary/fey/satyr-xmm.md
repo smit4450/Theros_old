@@ -23,7 +23,7 @@ Satyrs enjoy demonstrating their physicality through contests, evicting party po
 *Horned and Hoofed Revelers*
 
 - **Habitat.** Forest, Planar (Feywild)  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md)  
+- **Treasure.** [[random-magic-items-implements]]  
 
 Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merrymaking—eating, drinking, performing, fighting, and frolicking.
 ## Statblock
@@ -56,7 +56,7 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/2"
 "traits":
-  - "desc": "The satyr has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The satyr has [[advantage-xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":

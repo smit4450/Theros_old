@@ -23,7 +23,7 @@ A sphinx of wonder is brightly feathered and the size of a lion cub. One comes i
 *Collectors and Keepers of Secrets*
 
 - **Habitat.** Desert, Planar (Upper Planes)  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana]]  
 
 Sphinxes protect the secrets of the multiverse. Formed from the spirits of sages and explorers, sphinxes know the power of truth and the importance of preserving it. They share their wisdom only with those who prove themselves wise or overcome tests of worthiness, such as riddles or battles with dangerous beasts. Through their existences, sphinxes might change form as they gain more nuanced understanding of cosmic enigmas.
 
@@ -76,7 +76,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 "languages": "Celestial, Common"
 "cr": "1"
 "traits":
-  - "desc": "The sphinx has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The sphinx has [[advantage-xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":

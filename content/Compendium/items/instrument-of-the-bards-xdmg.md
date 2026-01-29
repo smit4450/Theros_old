@@ -17,16 +17,16 @@ An Instrument of the Bards is superior to an ordinary instrument in every way. S
 
 You can play the instrument to cast one of its spells. Once the instrument has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
 
-All Instrument of the Bards can be used to cast the following spells: [Fly](Compendium/spells/fly-xphb.md), [Invisibility](Compendium/spells/invisibility-xphb.md), [Levitate](Compendium/spells/levitate-xphb.md), [Protection from Evil and Good](Compendium/spells/protection-from-evil-and-good-xphb.md)
+All Instrument of the Bards can be used to cast the following spells: [[fly-xphb]], [[invisibility-xphb]], [[levitate-xphb]], [[protection-from-evil-and-good-xphb]]
 
 **Items in this group:**
 
-- [Instrument of the Bards, Anstruth Harp](Compendium/items/instrument-of-the-bards-anstruth-harp-xdmg.md)
-- [Instrument of the Bards, Canaith Mandolin](Compendium/items/instrument-of-the-bards-canaith-mandolin-xdmg.md)
-- [Instrument of the Bards, Cli Lyre](Compendium/items/instrument-of-the-bards-cli-lyre-xdmg.md)
-- [Instrument of the Bards, Doss Lute](Compendium/items/instrument-of-the-bards-doss-lute-xdmg.md)
-- [Instrument of the Bards, Fochlucan Bandore](Compendium/items/instrument-of-the-bards-fochlucan-bandore-xdmg.md)
-- [Instrument of the Bards, Mac-Fuirmidh Cittern](Compendium/items/instrument-of-the-bards-mac-fuirmidh-cittern-xdmg.md)
-- [Instrument of the Bards, Ollamh Harp](Compendium/items/instrument-of-the-bards-ollamh-harp-xdmg.md)
+- [[instrument-of-the-bards-anstruth-harp-xdmg]]
+- [[instrument-of-the-bards-canaith-mandolin-xdmg]]
+- [[instrument-of-the-bards-cli-lyre-xdmg]]
+- [[instrument-of-the-bards-doss-lute-xdmg]]
+- [[instrument-of-the-bards-fochlucan-bandore-xdmg]]
+- [[instrument-of-the-bards-mac-fuirmidh-cittern-xdmg]]
+- [[instrument-of-the-bards-ollamh-harp-xdmg]]
 
 *Source: Dungeon Master's Guide (2024) p. 272*

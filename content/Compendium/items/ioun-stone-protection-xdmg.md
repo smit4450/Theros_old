@@ -19,8 +19,8 @@ When you take a [Magic](Compendium/rules/actions.md#Magic) action to toss an *Io
 
 Each *Ioun Stone* orbiting your head is considered to be an object you are wearing. The orbiting stone avoids contact with other creatures and objects, adjusting its orbit to avoid collisions and thwarting all attempts by other creatures to attack or snatch it.
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [Attunement](Compendium/rules/variant-rules/attunement-xphb.md) to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
+As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [[attunement-xphb]] to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
 
-You gain a +1 bonus to [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) while this dusty-rose prism orbits your head.
+You gain a +1 bonus to [[armor-class-xphb]] while this dusty-rose prism orbits your head.
 
 *Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

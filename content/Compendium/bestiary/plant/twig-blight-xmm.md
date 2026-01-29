@@ -58,7 +58,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 "languages": "understands Common but can't speak"
 "cr": "1/8"
 "traits":
-  - "desc": "The blight has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The blight has [[advantage-xphb]]\
       \ on an attack roll against a creature if at least one of the blight's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
       \ condition."

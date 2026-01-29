@@ -22,7 +22,7 @@ While most satyrs are known for their high spirits, love of revels, and gregario
 "type": "fey"
 "alignment": "Chaotic Neutral"
 "ac": !!int "15"
-"ac_class": "[leather armor](Compendium/items/leather-armor-xphb.md)"
+"ac_class": "[[leather-armor-xphb]]"
 "hp": !!int "38"
 "hit_dice": "7d8 + 7"
 "modifier": !!int "4"

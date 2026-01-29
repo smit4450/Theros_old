@@ -10,7 +10,7 @@ aliases:
 - War Domain
 ---
 # War Domain
-*[[cleric-xphb|Cleric]]: Cleric Subclass*  
+* [[cleric-xphb]]: Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 76*  
 
 > [!tldr] Class and Feature Progression
@@ -63,24 +63,24 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [Guiding Bolt](Compendium/spells/guiding-bolt-xphb.md), [Magic Weapon](Compendium/spells/magic-weapon-xphb.md), [Shield of Faith](Compendium/spells/shield-of-faith-xphb.md), [Spiritual Weapon](Compendium/spells/spiritual-weapon-xphb.md) |
-| 5th | [Crusader's Mantle](Compendium/spells/crusaders-mantle-xphb.md), [Spirit Guardians](Compendium/spells/spirit-guardians-xphb.md) |
-| 7th | [Fire Shield](Compendium/spells/fire-shield-xphb.md), [Freedom of Movement](Compendium/spells/freedom-of-movement-xphb.md) |
-| 9th | [Hold Monster](Compendium/spells/hold-monster-xphb.md), [Steel Wind Strike](Compendium/spells/steel-wind-strike-xphb.md) |
+| 3rd | [[guiding-bolt-xphb]], [[magic-weapon-xphb]], [[shield-of-faith-xphb]], [[spiritual-weapon-xphb]] |
+| 5th | [[crusaders-mantle-xphb]], [[spirit-guardians-xphb]] |
+| 7th | [[fire-shield-xphb]], [[freedom-of-movement-xphb]] |
+| 9th | [[hold-monster-xphb]], [[steel-wind-strike-xphb]] |
 ^war-domain-spells
 
 ### War Priest (Level 3)
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can make one attack with a weapon or an [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md). You can use this [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+As a [[bonus-action-xphb]], you can make one attack with a weapon or an [[unarmed-strike-xphb]]. You can use this [[bonus-action-xphb]] a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[short-rest-xphb]] or [[long-rest-xphb]].
 
 ### Guided Strike (Level 3)
 
-When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to do so.
+When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a [[reaction-xphb]] to do so.
 
 ### War God's Blessing (Level 6)
 
-You can expend a use of your Channel Divinity to cast [Shield of Faith](Compendium/spells/shield-of-faith-xphb.md) or [Spiritual Weapon](Compendium/spells/spiritual-weapon-xphb.md) rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [Concentration](Compendium/rules/conditions.md#Concentration). Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, or die.
+You can expend a use of your Channel Divinity to cast [[shield-of-faith-xphb]] or [[spiritual-weapon-xphb]] rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [Concentration](Compendium/rules/conditions.md#Concentration). Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, or die.
 
 ### Avatar of Battle (Level 17)
 
-You gain [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage.
+You gain [[resistance-xphb]] to Bludgeoning, Piercing, and Slashing damage.

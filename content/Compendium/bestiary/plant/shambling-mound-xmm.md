@@ -66,7 +66,7 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
 "cr": "5"
 "traits":
   - "desc": "Whenever the shambling mound is subjected to Lightning damage, it regains\
-      \ a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ a number of [[hit-points-xphb]]\
       \ equal to the Lightning damage dealt."
     "name": "Lightning Absorption"
 "actions":

@@ -9,7 +9,7 @@ aliases:
 - Path of the Wild Heart
 ---
 # Path of the Wild Heart
-*[[barbarian-xphb|Barbarian]]: Barbarian Subclass*  
+* [[barbarian-xphb]]: Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 55*  
 
 > [!tldr] Class and Feature Progression
@@ -54,7 +54,7 @@ Barbarians who follow the Path of the Wild Heart view themselves as kin to anima
 
 ### Animal Speaker (Level 3)
 
-You can cast the [Beast Sense](Compendium/spells/beast-sense-xphb.md) and [Speak with Animals](Compendium/spells/speak-with-animals-xphb.md) spells but only as Rituals. Wisdom is your spellcasting ability for them.
+You can cast the [[beast-sense-xphb]] and [[speak-with-animals-xphb]] spells but only as Rituals. Wisdom is your spellcasting ability for them.
 
 ### Rage of the Wilds (Level 3)
 
@@ -62,19 +62,19 @@ Your Rage taps into the primal power of animals. Whenever you activate your Rage
 
 #### Bear
 
-While your Rage is active, you have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to every damage type except Force, Necrotic, Psychic, and Radiant.
+While your Rage is active, you have [[resistance-xphb]] to every damage type except Force, Necrotic, Psychic, and Radiant.
 
 #### Eagle
 
-When you activate your Rage, you can take the [Disengage](Compendium/rules/actions.md#Disengage) and [Dash](Compendium/rules/actions.md#Dash) actions as part of that [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md). While your Rage is active, you can take a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) to take both of those actions.
+When you activate your Rage, you can take the [Disengage](Compendium/rules/actions.md#Disengage) and [Dash](Compendium/rules/actions.md#Dash) actions as part of that [[bonus-action-xphb]]. While your Rage is active, you can take a [[bonus-action-xphb]] to take both of those actions.
 
 #### Wolf
 
-While your Rage is active, your allies have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls against any enemy of yours within 5 feet of you.
+While your Rage is active, your allies have [[advantage-xphb]] on attack rolls against any enemy of yours within 5 feet of you.
 
 ### Aspect of the Wilds (Level 6)
 
-You gain one of the following options of your choice. Whenever you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), you can change your choice.
+You gain one of the following options of your choice. Whenever you finish a [[long-rest-xphb]], you can change your choice.
 
 #### Owl
 
@@ -82,15 +82,15 @@ You have [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 60 
 
 #### Panther
 
-You have a [Climb Speed](Compendium/rules/variant-rules/climb-speed-xphb.md) equal to your [Speed](Compendium/rules/variant-rules/speed-xphb.md).
+You have a [[climb-speed-xphb]] equal to your [[speed-xphb]].
 
 #### Salmon
 
-You have a [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md) equal to your [Speed](Compendium/rules/variant-rules/speed-xphb.md).
+You have a [[swim-speed-xphb]] equal to your [[speed-xphb]].
 
 ### Nature Speaker (Level 10)
 
-You can cast the [Commune with Nature](Compendium/spells/commune-with-nature-xphb.md) spell but only as a [Ritual](Compendium/rules/variant-rules/ritual-xphb.md). Wisdom is your spellcasting ability for it.
+You can cast the [[commune-with-nature-xphb]] spell but only as a [[ritual-xphb]]. Wisdom is your spellcasting ability for it.
 
 ### Power of the Wilds (Level 14)
 
@@ -98,11 +98,11 @@ Whenever you activate your Rage, you gain one of the following options of your c
 
 #### Falcon
 
-While your Rage is active, you have a [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md) equal to your [Speed](Compendium/rules/variant-rules/speed-xphb.md) if you aren't wearing any armor.
+While your Rage is active, you have a [[fly-speed-xphb]] equal to your [[speed-xphb]] if you aren't wearing any armor.
 
 #### Lion
 
-While your Rage is active, any of your enemies within 5 feet of you have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls against targets other than you or another Barbarian who has this option active.
+While your Rage is active, any of your enemies within 5 feet of you have [[disadvantage-xphb]] on attack rolls against targets other than you or another Barbarian who has this option active.
 
 #### Ram
 

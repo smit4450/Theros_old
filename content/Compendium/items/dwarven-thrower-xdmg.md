@@ -11,7 +11,7 @@ aliases:
 - "Dwarven Thrower"
 ---
 # Dwarven Thrower
-*Weapon ([warhammer](Compendium/items/warhammer-xphb.md)), very rare (requires attunement by a dwarf)*  
+*Weapon ([[warhammer-xphb]]), very rare (requires attunement by a dwarf)*  
 ![](Compendium/items/img/dwarven-thrower.webp#right)
 
 - **Damage**:

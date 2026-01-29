@@ -11,7 +11,7 @@ aliases:
 - "Khrusor, Spear of Heliod"
 ---
 # Khrusor, Spear of Heliod
-*Weapon ([spear](Compendium/items/spear-xphb.md)), artifact (requires attunement)*  
+*Weapon ([[spear-xphb]]), artifact (requires attunement)*  
 ![](Compendium/items/img/khrusor-spear-of-heliod.webp#right)
 
 - **Damage**:
@@ -50,7 +50,7 @@ When you take damage from a creature within 5 feet of you, you can use your reac
 
 ## Spells
 
-The spear has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [guiding bolt](Compendium/spells/guiding-bolt-xphb.md) (1 charge), [daylight](Compendium/spells/daylight-xphb.md) (3 charges, targeting the tip of the spear only), [sunbeam](Compendium/spells/sunbeam-xphb.md) (6 charges). The spear regains `1d6 + 4` expended charges daily at dawn.
+The spear has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [[guiding-bolt-xphb]] (1 charge), [[daylight-xphb]] (3 charges, targeting the tip of the spear only), [[sunbeam-xphb]] (6 charges). The spear regains `1d6 + 4` expended charges daily at dawn.
 
 ## Destroying the Spear
 

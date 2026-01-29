@@ -55,7 +55,7 @@ Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures
 "traits":
   - "desc": "If the unicorn fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "The unicorn has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The unicorn has [[advantage-xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -69,25 +69,25 @@ Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures
     "name": "Radiant Horn"
   - "desc": "The unicorn casts one of the following spells, requiring no spell components\
       \ and using Charisma as the spellcasting ability (spell save DC 14):\n\n**At\
-      \ will:** [Detect Evil and Good](Compendium/spells/detect-evil-and-good-xphb.md),\
-      \ [Druidcraft](Compendium/spells/druidcraft-xphb.md)\n\n**1/day each:** [Calm\
-      \ Emotions](Compendium/spells/calm-emotions-xphb.md), [Dispel Evil and Good](Compendium/spells/dispel-evil-and-good-xphb.md),\
-      \ [Entangle](Compendium/spells/entangle-xphb.md), [Pass without Trace](Compendium/spells/pass-without-trace-xphb.md),\
-      \ [Word of Recall](Compendium/spells/word-of-recall-xphb.md)"
+      \ will:** [[detect-evil-and-good-xphb]],\
+      \ [[druidcraft-xphb]]\n\n**1/day each:** [Calm\
+      \ Emotions](Compendium/spells/calm-emotions-xphb.md), [[dispel-evil-and-good-xphb]],\
+      \ [[entangle-xphb]], [[pass-without-trace-xphb]],\
+      \ [[word-of-recall-xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The unicorn touches another creature with its horn and casts [Cure Wounds](Compendium/spells/cure-wounds-xphb.md)\
-      \ or [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md) on that\
+  - "desc": "The unicorn touches another creature with its horn and casts [[cure-wounds-xphb]]\
+      \ or [[lesser-restoration-xphb]] on that\
       \ creature, using the same spellcasting ability as Spellcasting.\n"
     "name": "Unicorn's Blessing (3/Day)"
 "regional_effects":
   - "desc": "The region containing a unicorn's lair is changed by its presence, creating\
       \ the following effects:\n\n- **Obscuring Foliage.** The unicorn and its allies\
-      \ have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Dexterity\
+      \ have [[advantage-xphb]] on Dexterity\
       \ ([Stealth](Compendium/rules/skills.md#Stealth)) checks while within 1 mile\
       \ of the lair.  \n- **Positive Energy.** Whenever a creature within 1 mile of\
-      \ the lair regains [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ from a spell, it regains the maximum number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ the lair regains [[hit-points-xphb]]\
+      \ from a spell, it regains the maximum number of [[hit-points-xphb]]\
       \ possible. Additionally, the effects of curses are suppressed within 1 mile\
       \ of the lair.  \n\nIf the unicorn dies or moves its lair elsewhere, these effects\
       \ end immediately."
@@ -96,12 +96,12 @@ Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures
   \ turn, the unicorn can expend a use to take one of the following actions. The unicorn\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The unicorn moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+  - "desc": "The unicorn moves up to half its [[speed-xphb]]\
       \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack),\
       \ and it makes one Radiant Horn attack."
     "name": "Charging Horn"
   - "desc": "The unicorn targets itself or one creature it can see within 60 feet\
-      \ of itself. The target gains 10 (3d6) [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md),\
+      \ of itself. The target gains 10 (3d6) [[temporary-hit-points-xphb]],\
       \ and its AC increases by 2 until the end of the unicorn's next turn. The unicorn\
       \ can't take this action again until the start of its next turn."
     "name": "Shimmering Shield"

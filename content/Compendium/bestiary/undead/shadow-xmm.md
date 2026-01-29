@@ -77,8 +77,8 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
   - "desc": "The shadow can move through a space as narrow as 1 inch without expending\
       \ extra movement to do so."
     "name": "Amorphous"
-  - "desc": "While in sunlight, the shadow has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-      \ on [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md)."
+  - "desc": "While in sunlight, the shadow has [[disadvantage-xphb]]\
+      \ on [[d20-test-xphb]]."
     "name": "Sunlight Weakness"
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Necrotic\
@@ -87,8 +87,8 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
       \ Shadow rises from the corpse 1d4 hours later."
     "name": "Draining Swipe"
 "bonus_actions":
-  - "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the shadow\
+  - "desc": "While in [[dim-light-xphb]]\
+      \ or [[darkness-xphb]], the shadow\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

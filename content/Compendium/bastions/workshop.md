@@ -22,17 +22,17 @@ This Workshop is a creative space where useful items can be crafted.
 
 The Workshop comes equipped with six different kinds of Artisan's Tools, chosen from the following list:
 
-- [Carpenter's Tools](Compendium/items/carpenters-tools-xphb.md)  
-- [Cobbler's Tools](Compendium/items/cobblers-tools-xphb.md)  
-- [Glassblower's Tools](Compendium/items/glassblowers-tools-xphb.md)  
-- [Jeweler's Tools](Compendium/items/jewelers-tools-xphb.md)  
-- [Leatherworker's Tools](Compendium/items/leatherworkers-tools-xphb.md)  
-- [Mason's Tools](Compendium/items/masons-tools-xphb.md)  
-- [Painter's Tools](Compendium/items/painters-supplies-xphb.md)  
-- [Potter's Tools](Compendium/items/potters-tools-xphb.md)  
-- [Tinker's Tools](Compendium/items/tinkers-tools-xphb.md)  
-- [Weaver's Tools](Compendium/items/weavers-tools-xphb.md)  
-- [Woodcarver's Tools](Compendium/items/woodcarvers-tools-xphb.md)  
+- [[carpenters-tools-xphb]]  
+- [[cobblers-tools-xphb]]  
+- [[glassblowers-tools-xphb]]  
+- [[jewelers-tools-xphb]]  
+- [[leatherworkers-tools-xphb]]  
+- [[masons-tools-xphb]]  
+- [[painters-supplies-xphb]]  
+- [[potters-tools-xphb]]  
+- [[tinkers-tools-xphb]]  
+- [[weavers-tools-xphb]]  
+- [[woodcarvers-tools-xphb]]  
 
 ## Craft Options
 
@@ -43,7 +43,7 @@ When you issue the "Craft" order to this facility, choose one of the following o
 
 ## Source of Inspiration
 
-After spending an entire Short Rest in your Workshop, you gain [Heroic Inspiration](Compendium/rules/variant-rules/heroic-inspiration-xphb.md). You can't gain this benefit again until you finish a Long Rest.
+After spending an entire Short Rest in your Workshop, you gain [[heroic-inspiration-xphb]]. You can't gain this benefit again until you finish a Long Rest.
 
 ## Enlarging the Facility
 

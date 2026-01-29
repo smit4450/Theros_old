@@ -14,17 +14,17 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/2 | [Anvilwrought raptor](Compendium/bestiary/construct/anvilwrought-raptor-mot.md) |
-| 1 | [Bronze sable](Compendium/bestiary/construct/bronze-sable-mot.md) |
-| 2 | [Burnished hart](Compendium/bestiary/construct/burnished-hart-mot.md) |
-| 4 | [Oread](Compendium/bestiary/fey/oread-mot.md) |
-| 5 | [Gold-forged sentinel](Compendium/bestiary/construct/gold-forged-sentinel-mot.md) |
-| 5 | [Fire elemental](Compendium/bestiary/elemental/fire-elemental-xmm.md) |
-| 6 | [Cyclops](Compendium/bestiary/giant/cyclops-sentry-xmm.md)* |
-| 9 | [Fire giant](Compendium/bestiary/giant/fire-giant-xmm.md) |
-| 16 | [Iron golem](Compendium/bestiary/construct/iron-golem-xmm.md) |
-| 17 | [Adult red dragon](Compendium/bestiary/dragon/adult-red-dragon-xmm.md)* |
-| 24 | [Ancient red dragon](Compendium/bestiary/dragon/ancient-red-dragon-xmm.md)* |
+| 1/2 | [[anvilwrought-raptor-mot]] |
+| 1 | [[bronze-sable-mot]] |
+| 2 | [[burnished-hart-mot]] |
+| 4 | [[oread-mot]] |
+| 5 | [[gold-forged-sentinel-mot]] |
+| 5 | [[fire-elemental-xmm]] |
+| 6 | [[cyclops-sentry-xmm]]* |
+| 9 | [[fire-giant-xmm]] |
+| 16 | [[iron-golem-xmm]] |
+| 17 | [[adult-red-dragon-xmm]]* |
+| 24 | [[ancient-red-dragon-xmm]]* |
 ^purphoross-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

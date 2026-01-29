@@ -17,8 +17,8 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Strength or Dexterity by 1, to a maximum of 20.
 
-**Headlock.** Your allies have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls against a creature [Grappled](Compendium/rules/conditions.md#Grappled) by you.
+**Headlock.** Your allies have [[advantage-xphb]] on attack rolls against a creature [Grappled](Compendium/rules/conditions.md#Grappled) by you.
 
-**Sturdy Knot.** When you use [Chain](Compendium/items/chain-xphb.md), [Manacles](Compendium/items/manacles-xphb.md), or [Rope](Compendium/items/rope-xphb.md) to bind a creature, add your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) to the DC to escape or burst the [Chain](Compendium/items/chain-xphb.md), [Manacles](Compendium/items/manacles-xphb.md), or [Rope](Compendium/items/rope-xphb.md).
+**Sturdy Knot.** When you use [[chain-xphb]], [[manacles-xphb]], or [[rope-xphb]] to bind a creature, add your [[proficiency-xphb]] to the DC to escape or burst the [[chain-xphb]], [[manacles-xphb]], or [[rope-xphb]].
 
-**Tough Talk.** A creature's [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) attitude doesn't impose [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on your Charisma ([Intimidation](Compendium/rules/skills.md#Intimidation)) checks to influence that creature.
+**Tough Talk.** A creature's [[hostile-attitude-xphb]] attitude doesn't impose [[disadvantage-xphb]] on your Charisma ([Intimidation](Compendium/rules/skills.md#Intimidation)) checks to influence that creature.

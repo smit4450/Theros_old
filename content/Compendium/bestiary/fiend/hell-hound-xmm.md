@@ -53,7 +53,7 @@ Hell hounds have greater cunning than normal canines. They're skilled trackers a
 "languages": "understands Infernal but can't speak"
 "cr": "3"
 "traits":
-  - "desc": "The hound has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The hound has [[advantage-xphb]]\
       \ on an attack roll against a creature if at least one of the hound's allies\
       \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
       \ condition."
@@ -64,7 +64,7 @@ Hell hounds have greater cunning than normal canines. They're skilled trackers a
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing\
       \ damage plus 3 (1d6) Fire damage."
     "name": "Bite"
-  - "desc": "*Dexterity Saving Throw:* DC 12, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 12, each creature in a 15-foot [[cone-area-of-effect-xphb]].\
       \ *Failure:* 17 (5d6) Fire damage. *Success:* Half damage."
     "name": "Fire Breath (Recharge 5-6)"
 "source":

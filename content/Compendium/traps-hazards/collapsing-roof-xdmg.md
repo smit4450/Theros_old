@@ -13,7 +13,7 @@ aliases:
 
 This trap uses a trip wire to collapse an unstable section of ceiling. The trip wire is 3 inches off the ground and stretches between two weak supports that topple when the trip wire is pulled.
 
-The first creature that crosses the trip wire causes the supports to topple and the unstable section of ceiling to collapse. Each creature beneath the unstable section of ceiling must succeed on a DC 13 Dexterity saving throw, taking 11 (`2d10`) Bludgeoning damage on a failed save or half as much damage on a successful one. Rubble from the collapse turns the trapped area into [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md).
+The first creature that crosses the trip wire causes the supports to topple and the unstable section of ceiling to collapse. Each creature beneath the unstable section of ceiling must succeed on a DC 13 Dexterity saving throw, taking 11 (`2d10`) Bludgeoning damage on a failed save or half as much damage on a successful one. Rubble from the collapse turns the trapped area into [[difficult-terrain-xphb]].
 
 ## Detect and Disarm
 

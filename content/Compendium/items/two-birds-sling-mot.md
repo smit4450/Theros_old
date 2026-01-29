@@ -10,7 +10,7 @@ aliases:
 - "Two-Birds Sling"
 ---
 # Two-Birds Sling
-*Weapon ([sling](Compendium/items/sling-xphb.md)), rare*  
+*Weapon ([[sling-xphb]]), rare*  
 
 
 - **Damage**: 1d4 bludgeoning

@@ -19,7 +19,7 @@ aliases: ["Lamia"]
 *Accursed Bargainer and Ruin Raider*
 
 - **Habitat.** Desert  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana]]  
 
 Legends say the first lamia was an ambitious ruler who made a sinister bargain with the demon lord Graz'zt for everlasting majesty. As a consequence, the ruler was transformed into a lamia, a monster with the body of a lion and an accursed touch.
 
@@ -78,10 +78,10 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
     "name": "Corrupting Touch"
   - "desc": "The lamia casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n**At\
-      \ will:** [Disguise Self](Compendium/spells/disguise-self-xphb.md) (can appear\
-      \ as a Large or Medium biped), [Minor Illusion](Compendium/spells/minor-illusion-xphb.md)\n\
-      \n**1/day each:** [Geas](Compendium/spells/geas-xphb.md), [Major Image](Compendium/spells/major-image-xphb.md),\
-      \ [Scrying](Compendium/spells/scrying-xphb.md)"
+      \ will:** [[disguise-self-xphb]] (can appear\
+      \ as a Large or Medium biped), [[minor-illusion-xphb]]\n\
+      \n**1/day each:** [[geas-xphb]], [[major-image-xphb]],\
+      \ [[scrying-xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The lamia jumps up to 30 feet by spending 10 feet of movement."

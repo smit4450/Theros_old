@@ -18,8 +18,8 @@ This board has 3 charges and regains 1 expended charge daily at dawn. While touc
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Augury](Compendium/spells/augury-xphb.md) | 1 |
-| [Commune](Compendium/spells/commune-xphb.md) | 3 |
+| [[augury-xphb]] | 1 |
+| [[commune-xphb]] | 3 |
 ^spell-charge-cost
 
 *Source: Dungeon Master's Guide (2024) p. 306*

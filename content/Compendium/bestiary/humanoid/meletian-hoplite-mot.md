@@ -66,7 +66,7 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[breastplate](Compendium/items/breastplate-xphb.md), [shield](Compendium/items/shield-xphb.md)"
+"ac_class": "[[breastplate-xphb]], [[shield-xphb]]"
 "hp": !!int "49"
 "hit_dice": "9d8 + 9"
 "modifier": !!int "2"
@@ -94,12 +94,12 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
 "traits":
   - "desc": "The hoplite is a 3rd-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 13, +5 to hit with spell attacks). It has the following wizard\
-      \ spells prepared:\n\n**Cantrips (at will):** [mage hand](Compendium/spells/mage-hand-xphb.md),\
-      \ [minor illusion](Compendium/spells/minor-illusion-xphb.md), [ray of frost](Compendium/spells/ray-of-frost-xphb.md)\
-      \ (see \"Actions\" below)\n\n**1st level (4 slots):** [color spray](Compendium/spells/color-spray-xphb.md),\
-      \ [expeditious retreat](Compendium/spells/expeditious-retreat-xphb.md), [sleep](Compendium/spells/sleep-xphb.md)\n\
-      \n**2nd level (2 slots):** [blur](Compendium/spells/blur-xphb.md), [cloud of\
-      \ daggers](Compendium/spells/cloud-of-daggers-xphb.md), [invisibility](Compendium/spells/invisibility-xphb.md)"
+      \ spells prepared:\n\n**Cantrips (at will):** [[mage-hand-xphb]],\
+      \ [[minor-illusion-xphb]], [[ray-of-frost-xphb]]\
+      \ (see \"Actions\" below)\n\n**1st level (4 slots):** [[color-spray-xphb]],\
+      \ [[expeditious-retreat-xphb]], [[sleep-xphb]]\n\
+      \n**2nd level (2 slots):** [[blur-xphb]], [cloud of\
+      \ daggers](Compendium/spells/cloud-of-daggers-xphb.md), [[invisibility-xphb]]"
     "name": "Spellcasting"
 "actions":
   - "desc": "The hoplite makes three weapon attacks. It can replace one weapon attack\

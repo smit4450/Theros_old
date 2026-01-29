@@ -27,6 +27,6 @@ The target can take a [Study](Compendium/rules/actions.md#Study) action to try t
 
 When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-wizard]]
 
 *Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

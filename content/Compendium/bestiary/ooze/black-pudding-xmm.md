@@ -71,7 +71,7 @@ Various supernatural conditions might bring black puddings into being. Roll on o
       \ the pudding and dealing any damage. Any nonmagical weapon takes a cumulative\
       \ -1 penalty to attack rolls immediately after dealing damage to the pudding\
       \ and coming into contact with it. The weapon is destroyed if the penalty reaches\
-      \ -5. The penalty can be removed by casting the [Mending](Compendium/spells/mending-xphb.md)\
+      \ -5. The penalty can be removed by casting the [[mending-xphb]]\
       \ spell on the weapon.\n\nIn 1 minute, the pudding can eat through 2 feet of\
       \ nonmagical wood or metal."
     "name": "Corrosive Form"
@@ -82,16 +82,16 @@ Various supernatural conditions might bring black puddings into being. Roll on o
   - "desc": "*Melee Attack Roll:* +5, reach 10 ft. *Hit:* 17 (4d6 + 3) Acid damage.\
       \ Nonmagical armor worn by the target takes a -1 penalty to the AC it offers.\
       \ The armor is destroyed if the penalty reduces its AC to 10. The penalty can\
-      \ be removed by casting the [Mending](Compendium/spells/mending-xphb.md) spell\
+      \ be removed by casting the [[mending-xphb]] spell\
       \ on the armor."
     "name": "Dissolving Pseudopod"
 "reactions":
-  - "desc": "Trigger: While the pudding is Large or Medium and has 10+ [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
+  - "desc": "Trigger: While the pudding is Large or Medium and has 10+ [[hit-points-xphb]],\
       \ it becomes [Bloodied](Compendium/rules/conditions.md#Bloodied) or is subjected\
       \ to Lightning or Slashing damage. _Response:_ The pudding splits into two new\
       \ Black Puddings. Each new pudding is one size smaller than the original pudding\
-      \ and acts on its [Initiative](Compendium/rules/variant-rules/initiative-xphb.md).\
-      \ The original pudding's [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ and acts on its [[initiative-xphb]].\
+      \ The original pudding's [[hit-points-xphb]]\
       \ are divided evenly between the new puddings (round down)."
     "name": "Split"
 "source":

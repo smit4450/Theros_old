@@ -21,7 +21,7 @@ Pirate admirals command whole pirate fleets. They undertake audacious ventures, 
 *Freebooters and Fortune Hunters*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Implements](Compendium/tables/random-magic-items-implements.md)  
+- **Treasure.** Individual, [[random-magic-items-implements]]  
 
 The term "pirate" encompasses a broad range of seafarers, including vicious sea rovers, dogged privateers, cursed treasure hunters, and others who seek riches and fame on the seas.
 
@@ -93,7 +93,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
     "name": "Pistol"
 "bonus_actions":
   - "desc": "The pirate chooses up to three other creatures it can see within 30 feet.\
-      \ Until the start of the pirate's next turn, the targets have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ Until the start of the pirate's next turn, the targets have [[advantage-xphb]]\
       \ on attack rolls and saving throws."
     "name": "Rally (1/Day)"
 "reactions":

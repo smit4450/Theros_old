@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f2b89343dc38693",
+        "id": "6bee116ea5ff91c1",
         "type": "tabs",
         "children": [
           {
-            "id": "754a74a8aaa37f1c",
+            "id": "c4180c601d7f7b43",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1-ammun",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,10 +236,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "754a74a8aaa37f1c",
+  "active": "c4180c601d7f7b43",
   "lastOpenFiles": [
-    "orphaned files output.md",
+    "Compendium/classes/Celestial Patron.md",
     "broken links output.md",
+    "Compendium/classes/Anvilwrought Sorcery.md",
+    "Compendium/classes/Aberrant Sorcery.md",
+    "Compendium/tables/5-sinister-names-xdmg.md",
+    "Compendium/tables/1-common-names-xdmg.md",
+    "orphaned files output.md",
     "Compendium/items/1-ammunition-xdmg.md",
     "Compendium/tables/armaments-uncommon-xdmg.md",
     "Compendium/items/enspelled-armor-cantrip-xdmg.md",
@@ -260,11 +264,6 @@
     "Compendium/books/mythic-odysseys-of-theros/2-character-creation.md",
     "Compendium/bastions/order-of-the-gauntlet-tournament-field-frhof.md",
     "Compendium/bastions/lords-alliance-noble-residence-frhof.md",
-    "Compendium/classes/Oath of the Elements.md",
-    "Compendium/bastions/harper-hideout-frhof.md",
-    "Compendium/feats/Dirty Tactics.md",
-    "Compendium/bastions/Grove.md",
-    "Compendium/bastions/cult-of-the-dragon-archive-frhof.md",
     "Lore/Ajani_s Vengeance.pdf",
     "Lore/Planes of Existence_ Theros.pdf",
     "Lore/Planeswalker_s Guide to Born of the Gods.pdf",

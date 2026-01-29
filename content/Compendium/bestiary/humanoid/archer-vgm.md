@@ -23,7 +23,7 @@ Archers defend castles, hunt wild game on the fringes of civilization, serve as 
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[studded leather](Compendium/items/studded-leather-armor-xphb.md)"
+"ac_class": "[[studded-leather-armor-xphb]]"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
 "modifier": !!int "4"

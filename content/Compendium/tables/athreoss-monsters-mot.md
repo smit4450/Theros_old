@@ -14,12 +14,12 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1 | [Giant vulture](Compendium/bestiary/monstrosity/giant-vulture-xmm.md) |
-| 2 | [Two-headed cerberus](Compendium/bestiary/monstrosity/two-headed-cerberus-mot.md) |
-| 3 | [Hell hound](Compendium/bestiary/fiend/hell-hound-xmm.md) |
-| 3 | [Lampad](Compendium/bestiary/fey/lampad-mot.md) |
-| 6 | [Invisible stalker](Compendium/bestiary/elemental/invisible-stalker-xmm.md) |
-| 6 | [Underworld cerberus](Compendium/bestiary/monstrosity/underworld-cerberus-mot.md) |
-| 8 | [Spirit naga](Compendium/bestiary/fiend/spirit-naga-xmm.md) |
-| 9 | [Phylaskia](Compendium/bestiary/undead/phylaskia-mot.md) |
+| 1 | [[giant-vulture-xmm]] |
+| 2 | [[two-headed-cerberus-mot]] |
+| 3 | [[hell-hound-xmm]] |
+| 3 | [[lampad-mot]] |
+| 6 | [[invisible-stalker-xmm]] |
+| 6 | [[underworld-cerberus-mot]] |
+| 8 | [[spirit-naga-xmm]] |
+| 9 | [[phylaskia-mot]] |
 ^athreoss-monsters

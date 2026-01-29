@@ -15,11 +15,11 @@ aliases:
 
 This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:
 
-- **All-Around Vision.** The robe gives you [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks that rely on sight.  
+- **All-Around Vision.** The robe gives you [[advantage-xphb]] on Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks that rely on sight.  
 - **Special Senses.** You have [Darkvision](Compendium/rules/senses.md#Darkvision) and [Truesight](Compendium/rules/senses.md#Truesight), both with a range of 120 feet.  
 
 ## Drawbacks
 
-A [Light](Compendium/spells/light-xphb.md) spell cast on the robe or a [Daylight](Compendium/spells/daylight-xphb.md) spell cast within 5 feet of the robe gives you the [Blinded](Compendium/rules/conditions.md#Blinded) condition for 1 minute. At the end of each of your turns, you make a Constitution saving throw (DC 11 for Light or DC 15 for Daylight), ending the condition on yourself on a success.
+A [[light-xphb]] spell cast on the robe or a [[daylight-xphb]] spell cast within 5 feet of the robe gives you the [Blinded](Compendium/rules/conditions.md#Blinded) condition for 1 minute. At the end of each of your turns, you make a Constitution saving throw (DC 11 for Light or DC 15 for Daylight), ending the condition on yourself on a success.
 
 *Source: Dungeon Master's Guide (2024) p. 297. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

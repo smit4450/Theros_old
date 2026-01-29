@@ -56,21 +56,21 @@ Clever, far-ranging people of the sea, tritons live rich lives unknown to most l
 "traits":
   - "desc": "The triton's spellcasting ability is Charisma (spell save DC 15, +7\
       \ to hit with spell attacks). It can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** [ray of frost](Compendium/spells/ray-of-frost-xphb.md)\
-      \ (see \"Actions\" below)\n\n**2/day:** [cone of cold](Compendium/spells/cone-of-cold-xphb.md)\n\
-      \n**1/day each:** [fog cloud](Compendium/spells/fog-cloud-xphb.md), [gust of\
-      \ wind](Compendium/spells/gust-of-wind-xphb.md), [wind wall](Compendium/spells/wind-wall-xphb.md)"
+      \ no material components:\n\n**At will:** [[ray-of-frost-xphb]]\
+      \ (see \"Actions\" below)\n\n**2/day:** [[cone-of-cold-xphb]]\n\
+      \n**1/day each:** [[fog-cloud-xphb]], [gust of\
+      \ wind](Compendium/spells/gust-of-wind-xphb.md), [[wind-wall-xphb]]"
     "name": "Innate Spellcasting"
   - "desc": "The triton can breathe air and water."
     "name": "Amphibious"
-  - "desc": "As a bonus action, the triton magically summons 1d4 [water weirds](Compendium/bestiary/elemental/water-weird-xmm.md).\
+  - "desc": "As a bonus action, the triton magically summons 1d4 [[water-weird-xmm]].\
       \ The summoned weirds appear in unoccupied spaces in water within 60 feet of\
       \ the triton. The water weirds act immediately after the triton on the same\
       \ initiative count and fight until they're destroyed. They disappear if the\
       \ triton dies."
     "name": "Summon Water Weird (Recharges after a Short or Long Rest)"
 "actions":
-  - "desc": "The triton makes two attacks using Wave Touch and casts [ray of frost](Compendium/spells/ray-of-frost-xphb.md)."
+  - "desc": "The triton makes two attacks using Wave Touch and casts [[ray-of-frost-xphb]]."
     "name": "Multiattack"
   - "desc": "*Melee Spell Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 22\
       \ (4d10) cold damage."

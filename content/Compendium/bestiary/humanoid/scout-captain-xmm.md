@@ -21,7 +21,7 @@ Scout captains are experienced explorers and sharpshooters. They might lead band
 *Watchers and Wanderers*
 
 - **Habitat.** Any  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [[random-magic-items-implements]], Individual  
 
 Scouts are warriors of the wilderness, trained in hunting and tracking. They might be explorers or trappers, or they could perform more martial roles as archers, bounty hunters, or outriders.
 ## Statblock
@@ -60,13 +60,13 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
   - "desc": "The scout makes two attacks, using Shortsword or Longbow in any combination."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing\
-      \ damage, plus 10 (3d6) Piercing damage if the attack was made with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)."
+      \ damage, plus 10 (3d6) Piercing damage if the attack was made with [[advantage-xphb]]."
     "name": "Shortsword"
   - "desc": "*Ranged Attack Roll:* +5, range 150/600 ft. *Hit:* 7 (1d8 + 3) Piercing\
-      \ damage, plus 10 (3d6) Piercing damage if the attack was made with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)."
+      \ damage, plus 10 (3d6) Piercing damage if the attack was made with [[advantage-xphb]]."
     "name": "Longbow"
 "bonus_actions":
-  - "desc": "The scout has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The scout has [[advantage-xphb]]\
       \ on the next attack roll it makes during the current turn."
     "name": "Aim"
 "reactions":

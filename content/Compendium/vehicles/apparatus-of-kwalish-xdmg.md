@@ -42,14 +42,14 @@ A creature in the compartment can take a [Utilize](Compendium/rules/actions.md#U
 
 | Lever | Up | Down |
 |-------|----|------|
-| 1 | Legs extend, allowing the apparatus to walk and swim. | Legs retract, reducing the apparatus's [Speed](Compendium/rules/variant-rules/speed-xphb.md) and [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md) to 0 and making it unable to benefit from bonuses to speed. |
+| 1 | Legs extend, allowing the apparatus to walk and swim. | Legs retract, reducing the apparatus's [[speed-xphb]] and [[swim-speed-xphb]] to 0 and making it unable to benefit from bonuses to speed. |
 | 2 | Forward window shutter opens. | Forward window shutter closes. |
 | 3 | Side window shutters open (two per side). | Side window shutters close (two per side). |
 | 4 | Two claws extend from the front side of the apparatus. | The claws retract. |
 | 5 | Each extended claw makes the following melee attack: `+8` to hit, reach 5 ft. *Hit:* 7 (`2d6`) Bludgeoning damage. | Each extended claw makes the following melee attack: `+8` to hit, reach 5 ft. *Hit:* The target has the [Grappled](Compendium/rules/conditions.md#Grappled) condition (escape DC 15). |
 | 6 | The apparatus walks or swims forward provided its legs are extended. | The apparatus walks or swims backward provided its legs are extended. |
 | 7 | The apparatus turns 90 degrees counterclockwise provided its legs are extended. | The apparatus turns 90 degrees clockwise provided its legs are extended. |
-| 8 | Eyelike fixtures emit [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) in a 30-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for an additional 30 feet. | The light turns off. |
+| 8 | Eyelike fixtures emit [[bright-light-xphb]] in a 30-foot radius and [[dim-light-xphb]] for an additional 30 feet. | The light turns off. |
 | 9 | The apparatus sinks up to 20 feet if it's in liquid. | The apparatus rises up to 20 feet if it's in liquid. |
 | 10 | The rear hatch unseals and opens. | The rear hatch closes and seals. |
 ^apparatus-of-kwalish-levers

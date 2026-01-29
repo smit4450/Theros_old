@@ -9,7 +9,7 @@ aliases:
 - Archfey Patron
 ---
 # Archfey Patron
-*[[warlock-xphb|Warlock]]: Warlock Subclass*  
+* [[warlock-xphb]]: Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 159*  
 
 > [!tldr] Class and Feature Progression
@@ -60,29 +60,29 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |---------------|--------|
-| 3 | [Calm Emotions](Compendium/spells/calm-emotions-xphb.md), [Faerie Fire](Compendium/spells/faerie-fire-xphb.md), [Misty Step](Compendium/spells/misty-step-xphb.md), [Phantasmal Force](Compendium/spells/phantasmal-force-xphb.md), [Sleep](Compendium/spells/sleep-xphb.md) |
-| 5 | [Blink](Compendium/spells/blink-xphb.md), [Plant Growth](Compendium/spells/plant-growth-xphb.md) |
-| 7 | [Dominate Beast](Compendium/spells/dominate-beast-xphb.md), [Greater Invisibility](Compendium/spells/greater-invisibility-xphb.md) |
-| 9 | [Dominate Person](Compendium/spells/dominate-person-xphb.md), [Seeming](Compendium/spells/seeming-xphb.md) |
+| 3 | [[calm-emotions-xphb]], [[faerie-fire-xphb]], [[misty-step-xphb]], [[phantasmal-force-xphb]], [[sleep-xphb]] |
+| 5 | [[blink-xphb]], [[plant-growth-xphb]] |
+| 7 | [[dominate-beast-xphb]], [[greater-invisibility-xphb]] |
+| 9 | [[dominate-person-xphb]], [[seeming-xphb]] |
 ^archfey-spells
 
 ### Steps of the Fey (Level 3)
 
-Your patron grants you the ability to move between the boundaries of the planes. You can cast [Misty Step](Compendium/spells/misty-step-xphb.md) without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+Your patron grants you the ability to move between the boundaries of the planes. You can cast [[misty-step-xphb]] without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb]].
 
 In addition, whenever you cast that spell, you can choose one of the following additional effects.
 
 #### Refreshing Step
 
-Immediately after you teleport, you or one creature you can see within 10 feet of yourself gains `1d10` [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md).
+Immediately after you teleport, you or one creature you can see within 10 feet of yourself gains `1d10` [[temporary-hit-points-xphb]].
 
 #### Taunting Step
 
-Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls against creatures other than you until the start of your next turn.
+Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have [[disadvantage-xphb]] on attack rolls against creatures other than you until the start of your next turn.
 
 ### Misty Escape (Level 6)
 
-You can cast [Misty Step](Compendium/spells/misty-step-xphb.md) as a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) in response to taking damage.
+You can cast [[misty-step-xphb]] as a [[reaction-xphb]] in response to taking damage.
 
 In addition, the following effects are now among your Steps of the Fey options.
 
@@ -98,8 +98,8 @@ Creatures within 5 feet of the space you left or the space you appear in (your c
 
 Your patron teaches you how to guard your mind and body. You are immune to the [Charmed](Compendium/rules/conditions.md#Charmed) condition.
 
-In addition, immediately after a creature you can see hits you with an attack roll, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take. Once you use this [Reaction](Compendium/rules/variant-rules/reaction-xphb.md), you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
+In addition, immediately after a creature you can see hits you with an attack roll, you can take a [[reaction-xphb]] to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take. Once you use this [[reaction-xphb]], you can't use it again until you finish a [[long-rest-xphb]] unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
 
 ### Bewitching Magic (Level 14)
 
-Your patron grants you the ability to weave your magic with teleportation. Immediately after you cast an Enchantment or Illusion spell using an action and a spell slot, you can cast [Misty Step](Compendium/spells/misty-step-xphb.md) as part of the same action and without expending a spell slot.
+Your patron grants you the ability to weave your magic with teleportation. Immediately after you cast an Enchantment or Illusion spell using an action and a spell slot, you can cast [[misty-step-xphb]] as part of the same action and without expending a spell slot.

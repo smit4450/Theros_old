@@ -22,7 +22,7 @@ Young blue dragons seek to establish themselves as forces to be feared. Many cla
 *Dragons of Tyranny and Tempests*
 
 - **Habitat.** Desert  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics]]  
 
 Arrogant and imperious, blue dragons are chromatic dragons that crave control and collect followers like other dragons hoard treasure. They seek to transform their territories into empires, domains to be feared by nations.
 
@@ -73,7 +73,7 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
       \ damage plus 5 (1d10) Lightning damage."
     "name": "Rend"
   - "desc": "*Dexterity Saving Throw:* DC 16, each creature in a 60-foot-long, 5-foot-wide\
-      \ [Line](Compendium/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [[line-area-of-effect-xphb]]. *Failure:*\
       \ 55 (10d10) Lightning damage. *Success:* Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
 "source":

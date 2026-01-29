@@ -21,7 +21,7 @@ Mage apprentices are spellcasters of humble skill. Some are students of accompli
 *Magical Scholars and Spellcasters*
 
 - **Habitat.** Any  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md), Individual  
+- **Treasure.** [[random-magic-items-arcana]], Individual  
 
 Mages are magical wonder-workers, ranging from spellcasting overlords to reclusive witches. They study mystical secrets and possess insight into monsters, legends, omens, and other lore. Mages often gather allies or hire assistants to aid them in their research or to attain magical might.
 
@@ -85,10 +85,10 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
     "name": "Arcane Burst"
   - "desc": "The mage casts one of the following spells, using Intelligence as the\
       \ spellcasting ability (spell save DC 13, +5 to hit with spell attacks):\n\
-      \n**At will:** [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Prestidigitation](Compendium/spells/prestidigitation-xphb.md)\n\
-      \n**1/day each:** [Disguise Self](Compendium/spells/disguise-self-xphb.md),\
-      \ [Ice Knife](Compendium/spells/ice-knife-xphb.md), [Mage Armor](Compendium/spells/mage-armor-xphb.md)\
-      \ (included in AC), [Thunderwave](Compendium/spells/thunderwave-xphb.md)"
+      \n**At will:** [[mage-hand-xphb]], [[prestidigitation-xphb]]\n\
+      \n**1/day each:** [[disguise-self-xphb]],\
+      \ [[ice-knife-xphb]], [[mage-armor-xphb]]\
+      \ (included in AC), [[thunderwave-xphb]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

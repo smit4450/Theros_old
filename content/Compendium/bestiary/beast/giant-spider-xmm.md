@@ -20,7 +20,7 @@ aliases: ["Giant Spider"]
 ![](Compendium/bestiary/beast/img/spiders.webp#right)  
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Compendium/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [[panther-xmm]] stat block can also represent a mountain lion, while the [[giant-goat-xmm]] stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 ![A druid calls on animals o...](Compendium/bestiary/beast/img/animals-hills-and-mountains.webp#center)  
 ![Aquatic animals swim along...](Compendium/bestiary/beast/img/animals-aquatic.webp#center)  
 ![Inhabitants of the rain fo...](Compendium/bestiary/beast/img/animals-rainforest.webp#center)  
@@ -63,8 +63,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Bite"
   - "desc": "*Dexterity Saving Throw:* DC 13, one creature the spider can see within\
       \ 60 feet. *Failure:* The target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
-      \ condition until the web is destroyed (AC 10; HP 5; [Vulnerability](Compendium/rules/variant-rules/vulnerability-xphb.md)\
-      \ to Fire damage; [Immunity](Compendium/rules/variant-rules/immunity-xphb.md)\
+      \ condition until the web is destroyed (AC 10; HP 5; [[vulnerability-xphb]]\
+      \ to Fire damage; [[immunity-xphb]]\
       \ to Poison and Psychic damage)."
     "name": "Web (Recharge 5-6)"
 "source":

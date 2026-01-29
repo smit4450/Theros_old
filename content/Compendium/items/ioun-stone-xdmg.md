@@ -19,25 +19,25 @@ When you take a [Magic](Compendium/rules/actions.md#Magic) action to toss an *Io
 
 Each *Ioun Stone* orbiting your head is considered to be an object you are wearing. The orbiting stone avoids contact with other creatures and objects, adjusting its orbit to avoid collisions and thwarting all attempts by other creatures to attack or snatch it.
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [Attunement](Compendium/rules/variant-rules/attunement-xphb.md) to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
+As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [[attunement-xphb]] to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
 
 The type of stone determines its rarity and effects.
 
 **Items in this group:**
 
-- [Ioun Stone, Absorption](Compendium/items/ioun-stone-absorption-xdmg.md)
-- [Ioun Stone, Agility](Compendium/items/ioun-stone-agility-xdmg.md)
-- [Ioun Stone, Awareness](Compendium/items/ioun-stone-awareness-xdmg.md)
-- [Ioun Stone, Fortitude](Compendium/items/ioun-stone-fortitude-xdmg.md)
-- [Ioun Stone, Greater Absorption](Compendium/items/ioun-stone-greater-absorption-xdmg.md)
-- [Ioun Stone, Insight](Compendium/items/ioun-stone-insight-xdmg.md)
-- [Ioun Stone, Intellect](Compendium/items/ioun-stone-intellect-xdmg.md)
-- [Ioun Stone, Leadership](Compendium/items/ioun-stone-leadership-xdmg.md)
-- [Ioun Stone, Mastery](Compendium/items/ioun-stone-mastery-xdmg.md)
-- [Ioun Stone, Protection](Compendium/items/ioun-stone-protection-xdmg.md)
-- [Ioun Stone, Regeneration](Compendium/items/ioun-stone-regeneration-xdmg.md)
-- [Ioun Stone, Reserve](Compendium/items/ioun-stone-reserve-xdmg.md)
-- [Ioun Stone, Strength](Compendium/items/ioun-stone-strength-xdmg.md)
-- [Ioun Stone, Sustenance](Compendium/items/ioun-stone-sustenance-xdmg.md)
+- [[ioun-stone-absorption-xdmg]]
+- [[ioun-stone-agility-xdmg]]
+- [[ioun-stone-awareness-xdmg]]
+- [[ioun-stone-fortitude-xdmg]]
+- [[ioun-stone-greater-absorption-xdmg]]
+- [[ioun-stone-insight-xdmg]]
+- [[ioun-stone-intellect-xdmg]]
+- [[ioun-stone-leadership-xdmg]]
+- [[ioun-stone-mastery-xdmg]]
+- [[ioun-stone-protection-xdmg]]
+- [[ioun-stone-regeneration-xdmg]]
+- [[ioun-stone-reserve-xdmg]]
+- [[ioun-stone-strength-xdmg]]
+- [[ioun-stone-sustenance-xdmg]]
 
 *Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -25,12 +25,12 @@ aliases:
 A creature hit by this ammunition must succeed on a DC 10 Strength saving throw or have the [Prone](Compendium/rules/conditions.md#Prone) condition.
 
 **Variants**:
-- [[#Walloping Arrow|Walloping Arrow]]
-- [[#Walloping Bolt|Walloping Bolt]]
-- [[#Walloping Energy Cell|Walloping Energy Cell]]
-- [[#Walloping Firearm Bullet|Walloping Firearm Bullet]]
-- [[#Walloping Needle|Walloping Needle]]
-- [[#Walloping Sling Bullet|Walloping Sling Bullet]]
+-  [[#Walloping Arrow]]
+-  [[#Walloping Bolt]]
+-  [[#Walloping Energy Cell]]
+-  [[#Walloping Firearm Bullet]]
+-  [[#Walloping Needle]]
+-  [[#Walloping Sling Bullet]]
 
 ### Walloping Arrow
 

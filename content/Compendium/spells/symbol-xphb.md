@@ -39,7 +39,7 @@ You decide what triggers the glyph when you cast the spell. For glyphs inscribed
 
 You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.
 
-Once triggered, the glyph glows, filling a 60-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) with [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) for 10 minutes, after which time the spell ends. Each creature in the [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) when the glyph activates is targeted by its effect, as is a creature that enters the [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) for the first time on a turn or ends its turn there. A creature is targeted only once per turn.
+Once triggered, the glyph glows, filling a 60-foot-radius [[sphere-area-of-effect-xphb]] with [[dim-light-xphb]] for 10 minutes, after which time the spell ends. Each creature in the [[sphere-area-of-effect-xphb]] when the glyph activates is targeted by its effect, as is a creature that enters the [[sphere-area-of-effect-xphb]] for the first time on a turn or ends its turn there. A creature is targeted only once per turn.
 
 ## Death
 
@@ -47,7 +47,7 @@ Each target makes a Constitution saving throw, taking `10d10` Necrotic damage on
 
 ## Discord
 
-Each target makes a Wisdom saving throw. On a failed save, a target argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls and ability checks.
+Each target makes a Wisdom saving throw. On a failed save, a target argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has [[disadvantage-xphb]] on attack rolls and ability checks.
 
 ## Fear
 
@@ -67,6 +67,6 @@ Each target must succeed on a Wisdom saving throw or have the [Stunned](Compendi
 
 ## Summary
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]; [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 
 *Source: Player's Handbook (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

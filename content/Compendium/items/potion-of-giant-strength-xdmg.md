@@ -16,11 +16,11 @@ aliases:
 
 **Items in this group:**
 
-- [Potion of Hill Giant Strength](Compendium/items/potion-of-hill-giant-strength-xdmg.md)
-- [Potion of Frost Giant Strength](Compendium/items/potion-of-frost-giant-strength-xdmg.md)
-- [Potion of Stone Giant Strength](Compendium/items/potion-of-stone-giant-strength-xdmg.md)
-- [Potion of Fire Giant Strength](Compendium/items/potion-of-fire-giant-strength-xdmg.md)
-- [Potion of Cloud Giant Strength](Compendium/items/potion-of-cloud-giant-strength-xdmg.md)
-- [Potion of Storm Giant Strength](Compendium/items/potion-of-storm-giant-strength-xdmg.md)
+- [[potion-of-hill-giant-strength-xdmg]]
+- [[potion-of-frost-giant-strength-xdmg]]
+- [[potion-of-stone-giant-strength-xdmg]]
+- [[potion-of-fire-giant-strength-xdmg]]
+- [[potion-of-cloud-giant-strength-xdmg]]
+- [[potion-of-storm-giant-strength-xdmg]]
 
 *Source: Dungeon Master's Guide (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

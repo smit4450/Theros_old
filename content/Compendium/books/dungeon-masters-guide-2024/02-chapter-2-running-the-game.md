@@ -109,7 +109,7 @@ D&D's rules and published adventures generally assume four to six players plus t
 
 ### Small Groups
 
-A group that contains fewer than four players might find combat encounters difficult, especially if the party lacks important capabilities (such as armored characters to stand toe-to-toe with enemies or healing magic to keep everyone alive). You can compensate by reducing the number of monsters in a combat encounter or by giving the party resources they need, such as [Potions of Healing](Compendium/items/potion-of-healing-xdmg.md).
+A group that contains fewer than four players might find combat encounters difficult, especially if the party lacks important capabilities (such as armored characters to stand toe-to-toe with enemies or healing magic to keep everyone alive). You can compensate by reducing the number of monsters in a combat encounter or by giving the party resources they need, such as [[potion-of-healing-xdmg]].
 
 You can also add party members, as described in the sections that follow.
 
@@ -137,7 +137,7 @@ The biggest considerations with large groups are maintaining order at the table 
 
 #### Structured Turns
 
-If you find yourself in a situation where individual players are having trouble getting a chance to do things during exploration or social interaction, have the characters roll [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) and act in Initiative order, just as you do in combat. Taking turns ensures that everyone has the chance to do something. Use this approach sparingly, as it can feel artificial and sometimes slows down the game.
+If you find yourself in a situation where individual players are having trouble getting a chance to do things during exploration or social interaction, have the characters roll [[initiative-xphb]] and act in Initiative order, just as you do in combat. Taking turns ensures that everyone has the chance to do something. Use this approach sparingly, as it can feel artificial and sometimes slows down the game.
 
 #### Party Leader
 
@@ -274,18 +274,18 @@ Sometimes, though, you'll want to give information to just one player. It might 
 
 ## Resolving Outcomes
 
-You decide when a player makes a [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) based on what the character is trying to do. Players shouldn't just roll ability checks without context; they should tell you what their characters are trying to achieve, and make ability checks only if you ask them to.
+You decide when a player makes a [[d20-test-xphb]] based on what the character is trying to do. Players shouldn't just roll ability checks without context; they should tell you what their characters are trying to achieve, and make ability checks only if you ask them to.
 
 When a situation comes up and you're not sure how to adjudicate it using the rules, use these four questions to help you decide:
 
-- **Is a D20 Test Warranted?.** If the task is trivial or impossible, don't bother with a [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md). A character can move across an empty room or drink from a flask without making a Dexterity check, whereas no lucky die roll will allow a character with an ordinary bow to hit the moon with an arrow. Call for a [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) only if there's a chance of both success and failure and if there are meaningful consequences for failure.  
+- **Is a D20 Test Warranted?.** If the task is trivial or impossible, don't bother with a [[d20-test-xphb]]. A character can move across an empty room or drink from a flask without making a Dexterity check, whereas no lucky die roll will allow a character with an ordinary bow to hit the moon with an arrow. Call for a [[d20-test-xphb]] only if there's a chance of both success and failure and if there are meaningful consequences for failure.  
 - **What Kind of D20 Test?.** If a character is actively trying to do something, use an ability check (or an attack roll if the character is trying to hit something). If the character is reactively trying to avoid or resist something, use a saving throw.  
 - **Which Ability Does the Test Use?.** Think about which ability has the most influence on a character's chance to succeed on the ability check or saving throw. Refer to the Abilities, Ability Checks, and Saving Throws table for guidance. Also consider whether a skill or tool proficiency might apply to an ability check.  
 - **What's the DC?.** Based on how hard you think the task should be, set the DC as follows: 10 for an easy task, 15 for a moderately difficult task, or 20 for a hard task.  
 
-The sections that follow offer advice on how to use each kind of [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md), when to apply [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) and [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md), and how to decide what the consequences of success or failure might be.
+The sections that follow offer advice on how to use each kind of [[d20-test-xphb]], when to apply [[advantage-xphb]] and [[disadvantage-xphb]], and how to decide what the consequences of success or failure might be.
 
-![Resolving Outcomes; Abilities, Ability Checks, and Saving Throws](Compendium/tables/resolving-outcomes-abilities-ability-checks-and-saving-throws-xdmg.md)
+![[resolving-outcomes-abilities-ability-checks-and-saving-throws-xdmg]]
 
 ### Ability Checks
 
@@ -323,7 +323,7 @@ For example, if your game features a lot of social interaction, you can record e
 
 In combat, an attack roll is used to determine whether an attack hits.
 
-You can also use attack rolls to resolve noncombat activities that are similar to attacks in combat, such as an archery contest or a game of darts. Assign an [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) to the target, decide whether the character is proficient with the weapon used, then have the player make an attack roll. (See also ""Degrees of Success"" in this chapter.)
+You can also use attack rolls to resolve noncombat activities that are similar to attacks in combat, such as an archery contest or a game of darts. Assign an [[armor-class-xphb]] to the target, decide whether the character is proficient with the weapon used, then have the player make an attack roll. (See also ""Degrees of Success"" in this chapter.)
 
 ### Saving Throws
 
@@ -337,7 +337,7 @@ In other situations that call for a saving throw, it's up to you to decide which
 
 You establish the Difficulty Class for an ability check or a saving throw when a rule or an adventure doesn't give you one. Choose a DC from the Typical DCs table based on the task's difficulty.
 
-![Difficulty Class; Typical DCs](Compendium/tables/difficulty-class-typical-dcs-xdmg.md)
+![[difficulty-class-typical-dcs-xdmg]]
 
 The task difficulties are explained below:
 
@@ -359,7 +359,7 @@ Another way to handle similar situations is to have one creature's ability check
 
 ### Advantage and Disadvantage
 
-[Advantage](Compendium/rules/variant-rules/advantage-xphb.md) and [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) are among the most useful tools in your toolbox. They reflect temporary circumstances that might affect the chances of a character succeeding at a task. Advantage is also a great way to reward a player who shows exceptional creativity in play.
+[[advantage-xphb]] and [[disadvantage-xphb]] are among the most useful tools in your toolbox. They reflect temporary circumstances that might affect the chances of a character succeeding at a task. Advantage is also a great way to reward a player who shows exceptional creativity in play.
 
 Characters often gain Advantage or Disadvantage through the use of special abilities, actions, spells, or other features of their classes or species. In other cases, you decide whether a circumstance would merit Advantage or Disadvantage.
 
@@ -367,7 +367,7 @@ As described in the "Player's Handbook", if different circumstances would give b
 
 #### Advantage
 
-Consider granting [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) when...
+Consider granting [[advantage-xphb]] when...
 
 - Circumstances not related to a creature's own capabilities provide it with an edge.  
 - Some aspect of the environment improves the character's chance of success.  
@@ -376,7 +376,7 @@ Consider granting [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) 
 
 #### Disadvantage
 
-Consider imposing [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) when...
+Consider imposing [[disadvantage-xphb]] when...
 
 - Circumstances hinder success in some way.  
 - Some aspect of the environment makes success less likely.  
@@ -388,41 +388,41 @@ As a DM, you can use a variety of approaches when adjudicating success and failu
 
 #### Success at a Cost
 
-When a character fails a [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) by only 1 or 2, you can offer to let the character succeed at the cost of a complication or hindrance. Such complications can run along any of the following lines:
+When a character fails a [[d20-test-xphb]] by only 1 or 2, you can offer to let the character succeed at the cost of a complication or hindrance. Such complications can run along any of the following lines:
 
 - A character gets her sword past an enemy's defenses and turns a near miss into a hit, but she then drops the sword.  
-- A character narrowly escapes the full brunt of a [Fireball](Compendium/spells/fireball-xphb.md) spell but has the [Prone](Compendium/rules/conditions.md#Prone) condition.  
+- A character narrowly escapes the full brunt of a [[fireball-xphb]] spell but has the [Prone](Compendium/rules/conditions.md#Prone) condition.  
 - A character fails to intimidate a kobold prisoner, but the kobold reveals its secrets anyway while shrieking at the top of its lungs, alerting other nearby monsters.  
 
 By putting the choice of success at a cost in the players' hands, and even letting them choose the setbacks, you can give players more agency in crafting the story of their characters' deeds.
 
 #### Degrees of Failure
 
-Sometimes a failed [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) has different consequences depending on the degree of failure. For example, a character who fails to disarm a trapped chest might accidentally spring the trap if the check fails by 5 or more, whereas a lesser failure means the trap wasn't triggered during the botched disarm attempt. Consider adding similar distinctions to other checks. Perhaps a failed Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) check means a queen won't help, whereas a failure of 5 or more means she throws the character in the dungeon for such a display of impudence.
+Sometimes a failed [[d20-test-xphb]] has different consequences depending on the degree of failure. For example, a character who fails to disarm a trapped chest might accidentally spring the trap if the check fails by 5 or more, whereas a lesser failure means the trap wasn't triggered during the botched disarm attempt. Consider adding similar distinctions to other checks. Perhaps a failed Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) check means a queen won't help, whereas a failure of 5 or more means she throws the character in the dungeon for such a display of impudence.
 
 #### Degrees of Success
 
-A successful [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) can have degrees of success. For example, when characters participate in an archery contest, you might decide that the more an attack roll exceeds the target's AC, the higher the character's score. The archery target might have AC 11, but it has five concentric rings indicating degrees of success. So you could decide that an attack roll of 11 or 12 lands in the outermost ring, a 13 or 14 hits the next ring closer to the center, a 15 or 16 hits the third ring, a 17 or 18 hits the fourth, and a 19 or higher strikes the bull's-eye.
+A successful [[d20-test-xphb]] can have degrees of success. For example, when characters participate in an archery contest, you might decide that the more an attack roll exceeds the target's AC, the higher the character's score. The archery target might have AC 11, but it has five concentric rings indicating degrees of success. So you could decide that an attack roll of 11 or 12 lands in the outermost ring, a 13 or 14 hits the next ring closer to the center, a 15 or 16 hits the third ring, a 17 or 18 hits the fourth, and a 19 or higher strikes the bull's-eye.
 
 #### Critical Success or Failure
 
 Rolling a 20 or a 1 on an ability check or a saving throw doesn't normally have any special effect. However, you can take such an exceptional roll into account when adjudicating the outcome. It's up to you to determine how this manifests in the game. One approach is to increase the impact of the success or failure. For example, rolling a 1 on a failed attempt to pick a lock might jam the lock, and rolling a 20 on a successful Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check might reveal an extra clue.
 
-For attack rolls, the rules cover what happens on a natural 20 (it's a [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md)) or a natural 1 (it always misses). Resist the temptation to add additional negative consequences to a natural 1 on an attack roll: the automatic failure is bad enough. And characters typically make so many attack rolls that they're bound to roll dozens of natural 1s over time. What might seem like an interesting consequence, like breaking the weapon used for the attack, will quickly get tiresome.
+For attack rolls, the rules cover what happens on a natural 20 (it's a [[critical-hit-xphb]]) or a natural 1 (it always misses). Resist the temptation to add additional negative consequences to a natural 1 on an attack roll: the automatic failure is bad enough. And characters typically make so many attack rolls that they're bound to roll dozens of natural 1s over time. What might seem like an interesting consequence, like breaking the weapon used for the attack, will quickly get tiresome.
 
 ### Improvising Damage
 
 The Improvising Damage table gives guidelines for determining damage on the fly.
 
-![Improvising Damage](Compendium/tables/improvising-damage-xdmg.md)
+![[improvising-damage-xdmg]]
 
 The Damage Severity and Level table is a guide to how deadly these damage amounts are for characters of different levels. Cross-reference a character's level with the damage being dealt to gauge the severity of the damage.
 
-![Improvising Damage; Damage Severity and Level](Compendium/tables/improvising-damage-damage-severity-and-level-xdmg.md)
+![[improvising-damage-damage-severity-and-level-xdmg]]
 
 Nuisance damage rarely poses a risk of death to characters of the levels shown, but a severely weakened character might be laid low by this damage.
 
-Deadly damage poses a significant threat to characters of the levels shown and could potentially kill such a character that's missing many [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).
+Deadly damage poses a significant threat to characters of the levels shown and could potentially kill such a character that's missing many [[hit-points-xphb]].
 
 ### Improvising Answers
 
@@ -494,13 +494,13 @@ If a couple of players are doing most of the talking in a social interaction, ta
 Consider the following additional possibilities to give characters whose Charisma is not their strong suit a chance to shine:
 
 - **Strength.** An NPC won't talk to the characters until one of them agrees to an arm-wrestling match. Or a strong character needs to bodily prevent the NPC from running away.  
-- **Dexterity.** An NPC is [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) toward intruders, so the characters must talk from hiding. Or the social interaction provides a distraction that allows a character to get close enough to the NPC to steal something from the NPC's pockets.  
+- **Dexterity.** An NPC is [[hostile-attitude-xphb]] toward intruders, so the characters must talk from hiding. Or the social interaction provides a distraction that allows a character to get close enough to the NPC to steal something from the NPC's pockets.  
 - **Intelligence.** An NPC's speech is so full of obscure references to a particular area of knowledge that the characters can't use the information they receive until they interpret those obscure facts. Or the NPC refuses to give a direct answer, speaking only in vague hints that the characters must piece together to get the information they seek.  
 - **Wisdom.** An NPC is hiding something important, and the characters must read the NPC's nonverbal cues to understand what's true and what's deception. Or key information is concealed in details around the room where the interaction takes place, which a perceptive character might notice.  
 
 ### Attitude
 
-Each creature controlled by the DM has one of the following attitudes toward the adventurers: [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md), [Indifferent](Compendium/rules/variant-rules/indifferent-attitude-xphb.md), or [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md). The ""Monster Behavior"" section in "chapter 4" offers guidance to help you determine a creature's initial attitude.
+Each creature controlled by the DM has one of the following attitudes toward the adventurers: [[friendly-attitude-xphb]], [[indifferent-attitude-xphb]], or [[hostile-attitude-xphb]]. The ""Monster Behavior"" section in "chapter 4" offers guidance to help you determine a creature's initial attitude.
 
 Characters can shift a creature's attitude by their words or actions. For example, buying drinks for an Indifferent group of miners might shift their attitude to Friendly. When a shift occurs, describe it to your players. For example, the miners might display their newfound friendliness by imparting some useful information, offering to repay the kind gesture at a future date, or challenging the characters to a friendly drinking contest.
 
@@ -543,12 +543,12 @@ If tracking the passage of time is important during exploration, use a time scal
 
 The "exploration rules" in the "Player's Handbook" give guidelines for determining travel time based on the characters' pace. In most cases, it's fine to estimate that time rather than calculating it down to the minute. Exceptions include situations like these:
 
-- **Spell Timer.** The characters might need to go somewhere or accomplish something before the duration of a spell or similar effect runs out. For example, they might use the [Locate Object](Compendium/spells/locate-object-xphb.md) spell to point them in the direction of an item they seek, so you need to know how far they get in the 10 minutes the spell lasts.  
+- **Spell Timer.** The characters might need to go somewhere or accomplish something before the duration of a spell or similar effect runs out. For example, they might use the [[locate-object-xphb]] spell to point them in the direction of an item they seek, so you need to know how far they get in the 10 minutes the spell lasts.  
 - **Triggered Event.** An event might occur at a specific time. For example, a door might remain open for 1 minute after the password to open it is spoken, or reinforcements might arrive `2d4` minutes after an alarm is sounded.  
 
 If the characters spend time working out a puzzle or talking to an NPC, you can estimate the time spent by keeping track of how much real time passes. Most combat encounters take less than 1 minute (10 rounds), but it's fair to round up to a whole minute in most cases, assuming characters take a few seconds to pull themselves together after a fight.
 
-Use similar principles to track the passage of hours, such as when characters disguise themselves with a [Seeming](Compendium/spells/seeming-xphb.md) spell for 8 hours to infiltrate a stronghold. In this case, it takes a lot of small tasks—or something like a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md)—to occupy a full hour.
+Use similar principles to track the passage of hours, such as when characters disguise themselves with a [[seeming-xphb]] spell for 8 hours to infiltrate a stronghold. In this case, it takes a lot of small tasks—or something like a [[short-rest-xphb]]—to occupy a full hour.
 
 ### Actions in Exploration
 
@@ -582,7 +582,7 @@ An important time to call for a Wisdom ([Perception](Compendium/rules/skills.md#
 
 ##### Using Passive Perception
 
-Sometimes, asking players to make Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks for their characters tips them off that there's something they should be searching for, giving them a clue you'd rather they didn't have. In those circumstances, use characters' [Passive Perception](Compendium/rules/variant-rules/passive-perception-xphb.md) scores instead.
+Sometimes, asking players to make Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks for their characters tips them off that there's something they should be searching for, giving them a clue you'd rather they didn't have. In those circumstances, use characters' [[passive-perception-xphb]] scores instead.
 
 ##### Using the Investigation Skill
 
@@ -600,11 +600,11 @@ Even if the hidden objects aren't essential to the adventure's success, plant hi
 
 If the characters encounter another group of creatures and neither side is being stealthy, the two groups automatically notice each other once they are within sight or hearing range of one another. The Audible Distance table can help you determine the hearing range, and the following sections address visibility. If one group tries to hide from the other, use the rules in the "Player's Handbook".
 
-![Perception and Encounters; Audible Distance](Compendium/tables/perception-and-encounters-audible-distance-xdmg.md)
+![[perception-and-encounters-audible-distance-xdmg]]
 
 ##### Visibility Outdoors
 
-When traveling outdoors, most characters can see about 2 miles in any direction on a clear day, except where obstructions block their view. That range increases to 40 miles if they are atop a mountain or a tall hill or are otherwise able to look down on the area from a height. [Lightly Obscured](Compendium/rules/variant-rules/lightly-obscured-xphb.md) conditions reduce visibility: rain reduces maximum visibility to 1 mile, and fog reduces it to between 100 and 300 feet.
+When traveling outdoors, most characters can see about 2 miles in any direction on a clear day, except where obstructions block their view. That range increases to 40 miles if they are atop a mountain or a tall hill or are otherwise able to look down on the area from a height. [[lightly-obscured-xphb]] conditions reduce visibility: rain reduces maximum visibility to 1 mile, and fog reduces it to between 100 and 300 feet.
 
 Outdoor terrain determines the distance at which characters encounter other creatures. The "Travel Terrain" table (see ""Travel"" below) gives suggested encounter distances for different types of terrain.
 
@@ -616,7 +616,7 @@ From a ship's crow's nest, a lookout can see things up to 10 miles away, assumin
 
 Visibility underwater depends on water clarity and the available light. Use the Underwater Encounter Distance table to determine the encounter distances underwater.
 
-![Visibility Underwater; Underwater Encounter Distance](Compendium/tables/visibility-underwater-underwater-encounter-distance-xdmg.md)
+![[visibility-underwater-underwater-encounter-distance-xdmg]]
 
 ### Travel
 
@@ -640,7 +640,7 @@ For each stage of the journey, follow these steps in order:
 
 - **Step 1: Set the Pace**. Have the players choose their group's travel pace for the stage: Slow, Normal, or Fast (see ""Travel Pace""). Based on the length of the stage (in miles) and the group's pace, determine how long this stage takes to complete.  
 - **Step 2: Narrate the Travel**. Describe what happens as the characters complete this stage of their journey. Introduce and resolve any challenges (see ""Journey Stage Challenges"").  
-- **Step 3: Track Food and Water Consumption**. Each creature in the party expends the appropriate amount of food and water for the length of the stage. If the party lacks enough food or water, the characters risk [dehydration](Compendium/traps-hazards/dehydration-xphb.md) and [malnutrition](Compendium/traps-hazards/malnutrition-xphb.md).  
+- **Step 3: Track Food and Water Consumption**. Each creature in the party expends the appropriate amount of food and water for the length of the stage. If the party lacks enough food or water, the characters risk [[dehydration-xphb]] and [[malnutrition-xphb]].  
 - **Step 4: Track Progress**. Track the party's progress at the end of the stage. You might mark their position on a map of the region and note the elapsed time on the Travel Planner.  
 
 Depending on how you planned the stages, the end of a stage might mean the characters arrive at a landmark, a way station, or an adventure location, whether or not it's their final destination.
@@ -665,9 +665,9 @@ During each stage of the characters' journey, you can determine what the weather
 
 Weather has no significant game effect most of the time, but see ""Environmental Effects"" in "chapter 3" for the effects of extreme weather. Adding weather details to your descriptions of the characters' journey can make it more memorable.
 
-![Weather](Compendium/tables/weather-xdmg.md)
+![[weather-xdmg]]
 
-![Weather; 2](Compendium/tables/weather-2-xdmg.md)
+![[weather-2-xdmg]]
 
 #### Travel Pace
 
@@ -687,7 +687,7 @@ Characters can push themselves to travel for more than 8 hours per day, at the r
 
 ##### Special Movement
 
-If a party can travel at a high Speed for an extended time, as with a spell such as [Wind Walk](Compendium/spells/wind-walk-xphb.md) or a magic item such as a [Carpet of Flying](Compendium/items/carpet-of-flying-xdmg.md), translate the party's Speed into travel rates using these rules:
+If a party can travel at a high Speed for an extended time, as with a spell such as [[wind-walk-xphb]] or a magic item such as a [[carpet-of-flying-xdmg]], translate the party's Speed into travel rates using these rules:
 
 <span class='abilityGeneric'>**Miles per hour.**</span>
 
@@ -697,13 +697,13 @@ If a party can travel at a high Speed for an extended time, as with a spell such
 
 <span class='abilityGeneric'>**Slow pace.**</span>
 
-If the characters are flying or their special movement allows them to ignore [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md), they can move at a Fast pace regardless of the terrain.
+If the characters are flying or their special movement allows them to ignore [[difficult-terrain-xphb]], they can move at a Fast pace regardless of the terrain.
 
 ##### Vehicles
 
 Characters traveling in a vehicle use the vehicle's speed in miles per hour (as shown in "chapter 6" of the "Player's Handbook") to determine their rate of travel, and they don't choose a travel pace.
 
-![Travel Terrain](Compendium/tables/travel-terrain-xdmg.md)
+![[travel-terrain-xdmg]]
 
 #### Narration during Travel
 
@@ -731,13 +731,13 @@ The Encounter Distance column in the "Travel Terrain" table gives the range at w
 
 #### Foraging
 
-Characters without water and [Rations](Compendium/items/rations-xphb.md) can stave off [dehydration](Compendium/traps-hazards/dehydration-xphb.md) and [malnutrition](Compendium/traps-hazards/malnutrition-xphb.md) by gathering food and water as they travel. A foraging character makes a Wisdom ([Survival](Compendium/rules/skills.md#Survival)) check once per journey stage (or once per day if a stage is shorter than a day). The DC is determined by the abundance of food and water in the region, as shown in the Foraging DC column of the "Travel Terrain" table. If multiple characters forage, each character makes a separate check.
+Characters without water and [[rations-xphb]] can stave off [[dehydration-xphb]] and [[malnutrition-xphb]] by gathering food and water as they travel. A foraging character makes a Wisdom ([Survival](Compendium/rules/skills.md#Survival)) check once per journey stage (or once per day if a stage is shorter than a day). The DC is determined by the abundance of food and water in the region, as shown in the Foraging DC column of the "Travel Terrain" table. If multiple characters forage, each character makes a separate check.
 
 A foraging character finds nothing on a failed check. On a successful check, roll `1d6` and add the character's Wisdom modifier to determine how much food (in pounds) the character finds per day of the journey stage, then repeat the roll for water (in gallons).
 
 > [!note] Do Players Need to Track Rations?
 > 
-> You might decide that tracking [Rations](Compendium/items/rations-xphb.md) is unnecessary in your game. Even if the characters are in a desert, you can assume that a character with proficiency in the [Survival](Compendium/rules/skills.md#Survival) skill can find enough food and water to sustain the party. Make sure you work that into your narration of the journey so the player feels good about choosing that skill proficiency. You can also assume the characters can load their mounts with enough Rations for their journey, or they can use magic (such as the [Create Food and Water](Compendium/spells/create-food-and-water-xphb.md) spell) to sustain them.
+> You might decide that tracking [[rations-xphb]] is unnecessary in your game. Even if the characters are in a desert, you can assume that a character with proficiency in the [Survival](Compendium/rules/skills.md#Survival) skill can find enough food and water to sustain the party. Make sure you work that into your narration of the journey so the player feels good about choosing that skill proficiency. You can also assume the characters can load their mounts with enough Rations for their journey, or they can use magic (such as the [[create-food-and-water-xphb]] spell) to sustain them.
 > 
 > On the other hand, having players track Rations seems appropriate for a more realistic campaign. Characters in such a campaign should approach a long wilderness journey as a challenge in logistics: how many pack animals do they need to carry the food for the journey, and how do they feed the animals?
 > 
@@ -779,13 +779,13 @@ The Search DC column of the "Travel Terrain" table suggests DCs for Wisdom ([Per
 
 A specific instance of searching on a journey is when adventurers choose their path by following the tracks of other creatures. To track, one or more trackers must succeed on a Wisdom ([Survival](Compendium/rules/skills.md#Survival)) check. You might require trackers to make a new check in any of the following circumstances:
 
-- **Resting.** The trackers resume tracking after finishing a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).  
+- **Resting.** The trackers resume tracking after finishing a [[short-rest-xphb]] or [[long-rest-xphb]].  
 - **Shifting Weather or Terrain.** The weather or terrain changes in a way that makes tracking harder.  
 - **Terrain Obstacle.** The trail crosses a river or similar obstacle that allows no tracks.  
 
 The DC for the check depends on how well the ground shows signs of a creature's passage. No roll is necessary in situations where the tracks are obvious, such as following an army along a muddy road. Spotting tracks on bare rock is more challenging unless the creature being tracked leaves a distinct trail. Additionally, the passage of time often makes tracks harder to follow. In a situation where there is no trail to follow, you can rule that tracking is impossible.
 
-Use the Search DC column of the "Travel Terrain" table as a starting point for setting the DC for tracking. If you prefer, you can choose a DC based on your assessment of the difficulty—higher if days have elapsed since the creature passed, lower if the creature is leaving an obvious trail such as blood. You can also grant [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on the check if there's more than one set of tracks to follow or [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) if the trail passes through a busy area.
+Use the Search DC column of the "Travel Terrain" table as a starting point for setting the DC for tracking. If you prefer, you can choose a DC based on your assessment of the difficulty—higher if days have elapsed since the creature passed, lower if the creature is leaving an obvious trail such as blood. You can also grant [[advantage-xphb]] on the check if there's more than one set of tracks to follow or [[disadvantage-xphb]] if the trail passes through a busy area.
 
 On a failed check, the character loses the trail but can attempt to find it again by carefully searching the area. It takes 10 minutes to find a trail in a confined area, such as a series of caverns, or 1 hour outdoors.
 
@@ -797,9 +797,9 @@ This section builds on the "combat rules" in the "Player's Handbook" and offers 
 
 ### Rolling Initiative
 
-Combat starts when—and only when—you say it does. Some characters have abilities that trigger on an [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) roll; you, not the players, decide if and when Initiative is rolled. A high-level Barbarian can't just punch their Paladin friend and roll Initiative to regain expended uses of Rage.
+Combat starts when—and only when—you say it does. Some characters have abilities that trigger on an [[initiative-xphb]] roll; you, not the players, decide if and when Initiative is rolled. A high-level Barbarian can't just punch their Paladin friend and roll Initiative to regain expended uses of Rage.
 
-In any situation where a character's actions initiate combat, you can give the acting character [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on their Initiative roll. For example, if a conversation with an NPC is cut short because the Sorcerer is convinced that NPC is a doppelganger and targets it with a [Chromatic Orb](Compendium/spells/chromatic-orb-xphb.md) spell, everyone rolls Initiative, and the Sorcerer does so with Advantage. If the doppelganger rolls well, it might still act before the Sorcerer's spell goes off, reflecting the monster's ability to anticipate the spell.
+In any situation where a character's actions initiate combat, you can give the acting character [[advantage-xphb]] on their Initiative roll. For example, if a conversation with an NPC is cut short because the Sorcerer is convinced that NPC is a doppelganger and targets it with a [[chromatic-orb-xphb]] spell, everyone rolls Initiative, and the Sorcerer does so with Advantage. If the doppelganger rolls well, it might still act before the Sorcerer's spell goes off, reflecting the monster's ability to anticipate the spell.
 
 #### Using Initiative Scores
 
@@ -815,7 +815,7 @@ A monster's stat block in the "Monster Manual" includes its Initiative score aft
 
 ##### Advantage and Disadvantage
 
-If a creature has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Initiative rolls, increase its Initiative score by 5. If it has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on those rolls, decrease that score by 5.
+If a creature has [[advantage-xphb]] on Initiative rolls, increase its Initiative score by 5. If it has [[disadvantage-xphb]] on those rolls, decrease that score by 5.
 
 ### Tracking Initiative
 
@@ -864,19 +864,19 @@ If you use miniatures to represent monsters, one way to differentiate them is to
 
 For example, in a combat encounter with three ogres, you could use three identical ogre miniatures tagged with stickers marked A, B, and C, respectively. To track the ogres' Hit Points, you can sort them by letter, then subtract damage from their Hit Points as they take it. Your records might look something like this after a few rounds of combat:
 
-[Ogre](Compendium/bestiary/giant/ogre-xmm.md) A: ~~68~~ ~~59~~ ~~53~~ ~~45~~ ~~24~~ ~~14~~ ~~9~~ dead
+[[ogre-xmm]] A: ~~68~~ ~~59~~ ~~53~~ ~~45~~ ~~24~~ ~~14~~ ~~9~~ dead
 
-[Ogre](Compendium/bestiary/giant/ogre-xmm.md) B: ~~71~~ ~~62~~ ~~54~~ 33
+[[ogre-xmm]] B: ~~71~~ ~~62~~ ~~54~~ 33
 
-[Ogre](Compendium/bestiary/giant/ogre-xmm.md) C: 59
+[[ogre-xmm]] C: 59
 
 Some DMs prefer to track how much damage a monster has taken, adding to that number as characters deal damage (instead of subtracting from the monster's Hit Points). Adding is generally easier than subtracting, and you can track damage on a visible list of Initiative (such as a whiteboard) without revealing to the players how many Hit Points the monsters have. The tracking might look like this:
 
-[Ogre](Compendium/bestiary/giant/ogre-xmm.md) A: ~~9~~ ~~15~~ ~~23~~ ~~44~~ ~~54~~ ~~59~~ dead
+[[ogre-xmm]] A: ~~9~~ ~~15~~ ~~23~~ ~~44~~ ~~54~~ ~~59~~ dead
 
-[Ogre](Compendium/bestiary/giant/ogre-xmm.md) B: ~~9~~ ~~17~~ 38
+[[ogre-xmm]] B: ~~9~~ ~~17~~ 38
 
-[Ogre](Compendium/bestiary/giant/ogre-xmm.md) C:
+[[ogre-xmm]] C:
 
 ### Using and Tracking Conditions
 
@@ -904,7 +904,7 @@ A creature's size determines how much space it occupies on squares or hexes, as 
 
 If the miniature you use for a monster takes up an amount of space different from what's in the table, that's fine, but treat the monster as its official size for all rules. For example, you might use a miniature that has a Large base to represent a Huge giant. That giant takes up less space on the battlefield than its size suggests, but it is still Huge for the purposes of rules like grappling.
 
-![Creature Size and Space](Compendium/tables/creature-size-and-space-xdmg.md)
+![[creature-size-and-space-xdmg]]
 
 #### Areas of Effect
 
@@ -920,7 +920,7 @@ To determine whether there is line of sight between two spaces, pick a corner of
 
 #### Cover
 
-The accompanying diagrams illustrate cover on squares or hexes. To determine whether a target has cover against an attack or other effect, choose a corner of the attacker's space or the point of origin of an area of effect. Then trace imaginary lines from that corner to every corner of any one square the target occupies. If one or two of those lines are blocked by an obstacle (including a creature), the target has [Half Cover](Compendium/tables/cover-xphb.md). If three or four of those lines are blocked but the attack or effect can still reach the target (such as when the target is behind an arrow slit), the target has [Three-Quarters Cover](Compendium/tables/cover-xphb.md).
+The accompanying diagrams illustrate cover on squares or hexes. To determine whether a target has cover against an attack or other effect, choose a corner of the attacker's space or the point of origin of an area of effect. Then trace imaginary lines from that corner to every corner of any one square the target occupies. If one or two of those lines are blocked by an obstacle (including a creature), the target has [[cover-xphb]]. If three or four of those lines are blocked but the attack or effect can still reach the target (such as when the target is behind an arrow slit), the target has [[cover-xphb]].
 
 On hexes, use the same procedure as above, drawing lines between the corners of the hexagons. The target has Half Cover if one, two, or three lines are blocked by an obstacle, and Three-Quarters Cover if four or more lines are blocked but the attack or effect can still reach the target.
 
@@ -946,9 +946,9 @@ As the characters fight monsters, you can reveal information to help the players
 
 > [!note] Awarding Heroic Inspiration
 > 
-> As discussed in the "Player's Handbook", [Heroic Inspiration](Compendium/rules/variant-rules/heroic-inspiration-xphb.md) is a reward you can give to characters when their players make the game more fun, exciting, and memorable for everyone at the table. Any player who makes the whole table erupt in laughter, cheers, or howls of surprise probably deserves Heroic Inspiration.
+> As discussed in the "Player's Handbook", [[heroic-inspiration-xphb]] is a reward you can give to characters when their players make the game more fun, exciting, and memorable for everyone at the table. Any player who makes the whole table erupt in laughter, cheers, or howls of surprise probably deserves Heroic Inspiration.
 > 
-> You can also use [Heroic Inspiration](Compendium/rules/variant-rules/heroic-inspiration-xphb.md) to reward roleplaying, immersion in the game, and heroism. Use it to incentivize the kind of behavior you want to see in your game, such as acting in character, taking risks, thinking strategically, cooperating well, or embracing the tropes of a particular genre. Make sure your use of [Heroic Inspiration](Compendium/rules/variant-rules/heroic-inspiration-xphb.md) is aligned with the expectations you set out at the start of your game (see ""Ensuring Fun for All"" in "chapter 1").
+> You can also use [[heroic-inspiration-xphb]] to reward roleplaying, immersion in the game, and heroism. Use it to incentivize the kind of behavior you want to see in your game, such as acting in character, taking risks, thinking strategically, cooperating well, or embracing the tropes of a particular genre. Make sure your use of [[heroic-inspiration-xphb]] is aligned with the expectations you set out at the start of your game (see ""Ensuring Fun for All"" in "chapter 1").
 ^awarding-heroic-inspiration
 
 ![A dragon's arrival makes a...](Compendium/books/dungeon-masters-guide-2024/img/020-01-016-dragon-arrives.webp#center "A dragon's arrival makes a simple fight against zombies much more interesting")
@@ -959,19 +959,19 @@ You can give players a sense of how well they're doing against a creature by des
 
 #### Abilities, Strengths, and Weaknesses
 
-Share information with the players about the characteristics of creatures they fight as those characteristics become apparent. For example, if a Wizard casts [Fire Bolt](Compendium/spells/fire-bolt-xphb.md) against a [Fire Elemental](Compendium/bestiary/elemental/fire-elemental-xmm.md) (a creature that has Immunity to Fire damage), let the players know the spell doesn't seem to bother the creature at all. Players might correctly guess that a creature made of fire probably be wouldn't harmed by *Fire Bolt*; feel free to confirm their guesses.
+Share information with the players about the characteristics of creatures they fight as those characteristics become apparent. For example, if a Wizard casts [[fire-bolt-xphb]] against a [[fire-elemental-xmm]] (a creature that has Immunity to Fire damage), let the players know the spell doesn't seem to bother the creature at all. Players might correctly guess that a creature made of fire probably be wouldn't harmed by *Fire Bolt*; feel free to confirm their guesses.
 
 #### Actions in Combat
 
 When a monster takes an action in combat, the players need to have some idea what's going on both in the fictional reality of the game and in terms of the rules of the game. This means that when an enemy with a Crossbow takes the [Ready](Compendium/rules/actions.md#Ready) action to cover the area in front of a door, the players should have a pretty good idea that if their characters move in front of that door, the enemy will shoot them. A monster's description in the "Monster Manual" often explains what's happening in the world while the monster is using its special actions. The Describing Actions table has descriptions you can use to explain what's going on when a creature takes one of the common actions available to all creatures.
 
-![Actions in Combat; Describing Actions](Compendium/tables/actions-in-combat-describing-actions-xdmg.md)
+![[actions-in-combat-describing-actions-xdmg]]
 
 You can combine those narrative descriptions with game rules: "Dispensing with attacks, your foe hurries across the room, taking the [Dash](Compendium/rules/actions.md#Dash) action."
 
 #### Monsters Casting Spells
 
-It's important that players can tell when their characters' opponents are casting spells, giving the characters the opportunity to cast [Counterspell](Compendium/spells/counterspell-xphb.md) or otherwise interfere with the spellcasting.
+It's important that players can tell when their characters' opponents are casting spells, giving the characters the opportunity to cast [[counterspell-xphb]] or otherwise interfere with the spellcasting.
 
 When a monster casts a spell, check the components it's using and describe its activity appropriately. If the spell has Verbal components, the monster might chant, boldly proclaim, or hiss the mystic syllables of the spell. Somatic components involve the monster moving its hands (or similar appendages) in graceful patterns, shaping them into angular positions, or thrusting them sharply forward. Finally, the monster might be holding a Spellcasting Focus or some other Material component.
 
@@ -1003,7 +1003,7 @@ Consider changing a battle's terrain to introduce a new element and give combata
 
 #### Change the Monster
 
-You can transform one monster into another to keep a fight interesting. Maybe a [worg](Compendium/bestiary/fey/worg-xmm.md) splits open, and a [gibbering mouther](Compendium/bestiary/aberration/gibbering-mouther-xmm.md) spills out to take its place. Or a cultist is consumed in a pillar of infernal flame, and a devil erupts from the ashes. You can also alter a monster's stat block in subtle ways in the middle of combat; for example, you might decide that a monster flies into a frenzy when it's [Bloodied](Compendium/rules/conditions.md#Bloodied), giving it [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on its attack rolls—and giving the characters Advantage on their attack rolls against it as well, speeding the fight to an end.
+You can transform one monster into another to keep a fight interesting. Maybe a [[worg-xmm]] splits open, and a [[gibbering-mouther-xmm]] spills out to take its place. Or a cultist is consumed in a pillar of infernal flame, and a devil erupts from the ashes. You can also alter a monster's stat block in subtle ways in the middle of combat; for example, you might decide that a monster flies into a frenzy when it's [Bloodied](Compendium/rules/conditions.md#Bloodied), giving it [[advantage-xphb]] on its attack rolls—and giving the characters Advantage on their attack rolls against it as well, speeding the fight to an end.
 
 ### Adjusting Difficulty
 
@@ -1013,7 +1013,7 @@ Many of the same techniques that help keep combat moving can also be useful in s
 
 Few creatures fight to the death. Nearly all creatures have survival instincts that cause them to reevaluate their tactics in the face of their own destruction. Sapient creatures confronted by obviously more numerous or powerful opponents usually try to avoid battle. But brave, desperate, or devoted creatures might never retreat from a battle.
 
-If you can't decide whether a creature is willing to fight, have it make a DC 10 Wisdom saving throw before [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) is rolled. You can set the DC higher or lower if you like. On a failed save, the creature either flees or tries to parley with the enemy (see ""Avoiding or Ending a Fight"" below). On a successful save, the creature is willing to fight. When dealing with a group of creatures, the leader makes this saving throw on behalf of the group.
+If you can't decide whether a creature is willing to fight, have it make a DC 10 Wisdom saving throw before [[initiative-xphb]] is rolled. You can set the DC higher or lower if you like. On a failed save, the creature either flees or tries to parley with the enemy (see ""Avoiding or Ending a Fight"" below). On a successful save, the creature is willing to fight. When dealing with a group of creatures, the leader makes this saving throw on behalf of the group.
 
 When creatures that are already engaged in battle realize they're likely to lose, they usually try to exit that battle. A monster is likely to flee if either of the following is true:
 
@@ -1075,7 +1075,7 @@ If you choose this option, after earning enough Experience Points to attain a ne
 
 The training time required depends on the level to be gained, as shown on the Training to Gain Levels table. The training cost is for the total training time.
 
-![Variant: Training to Gain Levels; Training to Gain Levels](Compendium/tables/variant-training-to-gain-levels-training-to-gain-levels-xdmg.md)
+![[variant-training-to-gain-levels-training-to-gain-levels-xdmg]]
 
 ### Level Advancement without XP
 

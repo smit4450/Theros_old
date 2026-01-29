@@ -12,7 +12,7 @@ aliases:
 ![](Compendium/items/img/hag-eye.webp#right)
 
 
-A Hag Eye has 3 charges. While wearing or holding this item, you can expend 1 charge to cast [Darkvision](Compendium/spells/darkvision-xphb.md) (targeting yourself only) or [See Invisibility](Compendium/spells/see-invisibility-xphb.md). The Hag Eye regains all expended charges daily at dawn.
+A Hag Eye has 3 charges. While wearing or holding this item, you can expend 1 charge to cast [[darkvision-xphb]] (targeting yourself only) or [[see-invisibility-xphb]]. The Hag Eye regains all expended charges daily at dawn.
 
 ## Coven Sensor
 

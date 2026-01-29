@@ -11,7 +11,7 @@ aliases:
 - "Quarterstaff of the Acrobat"
 ---
 # Quarterstaff of the Acrobat
-*Staff, weapon ([quarterstaff](Compendium/items/quarterstaff-xphb.md)), very rare (requires attunement)*  
+*Staff, weapon ([[quarterstaff-xphb]]), very rare (requires attunement)*  
 ![](Compendium/items/img/quarterstaff-of-the-acrobat.webp#right)
 
 - **Damage**:
@@ -23,19 +23,19 @@ aliases:
 
 You have a +2 bonus to attack rolls and damage rolls made with this magic weapon.
 
-While holding this weapon, you can cause it to emit green [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) out to 10 feet, either as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) or after you roll [Initiative](Compendium/rules/variant-rules/initiative-xphb.md), or you can extinguish the light as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md).
+While holding this weapon, you can cause it to emit green [[dim-light-xphb]] out to 10 feet, either as a [[bonus-action-xphb]] or after you roll [[initiative-xphb]], or you can extinguish the light as a [[bonus-action-xphb]].
 
-While holding this weapon, you can take a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) to alter its form, turning it into a 6-inch rod (for ease of storage) or a 10-foot pole, or reverting it a Quarterstaff; the weapon will elongate only as far as the surrounding space allows.
+While holding this weapon, you can take a [[bonus-action-xphb]] to alter its form, turning it into a 6-inch rod (for ease of storage) or a 10-foot pole, or reverting it a Quarterstaff; the weapon will elongate only as far as the surrounding space allows.
 
 In certain forms, the weapon has the following additional properties.
 
 ## Acrobatic Assist (Quarterstaff and 10-Foot Pole Forms Only)
 
-While holding this weapon, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) checks.
+While holding this weapon, you have [[advantage-xphb]] on Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) checks.
 
 ## Attack Deflection (Quarterstaff Form Only)
 
-When you are hit by an attack while holding the weapon, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to twirl the weapon around you, gaining a +5 bonus to your [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) against the triggering attack, potentially causing the attack to miss you. You can't use this property again until you finish a [Short](Compendium/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+When you are hit by an attack while holding the weapon, you can take a [[reaction-xphb]] to twirl the weapon around you, gaining a +5 bonus to your [[armor-class-xphb]] against the triggering attack, potentially causing the attack to miss you. You can't use this property again until you finish a [[short-rest-xphb]] or [[long-rest-xphb]].
 
 ## Ranged Weapon (Quarterstaff Form Only)
 

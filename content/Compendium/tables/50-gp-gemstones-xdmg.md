@@ -14,16 +14,16 @@ aliases:
 
 | dice: 1d12 | Stone |
 |------------|-------|
-| 1 | [Bloodstone](Compendium/items/bloodstone-xdmg.md) (dark gray with red flecks) |
-| 2 | [Carnelian](Compendium/items/carnelian-xdmg.md) (orange to red brown) |
-| 3 | [Chalcedony](Compendium/items/chalcedony-xdmg.md) (white) |
-| 4 | [Chrysoprase](Compendium/items/chrysoprase-xdmg.md) (green) |
-| 5 | [Citrine](Compendium/items/citrine-xdmg.md) (pale yellow brown) |
-| 6 | [Jasper](Compendium/items/jasper-xdmg.md) (blue, black, or brown) |
-| 7 | [Moonstone](Compendium/items/moonstone-xdmg.md) (white with pale-blue glow) |
-| 8 | [Onyx](Compendium/items/onyx-xdmg.md) (bands of black and white, or pure black or white) |
-| 9 | [Quartz](Compendium/items/quartz-xdmg.md) (white, smoky gray, or yellow) |
-| 10 | [Sardonyx](Compendium/items/sardonyx-xdmg.md) (bands of red and white) |
-| 11 | [Star rose quartz](Compendium/items/star-rose-quartz-xdmg.md) (rosy stone with white star-shaped center) |
-| 12 | [Zircon](Compendium/items/zircon-xdmg.md) (pale blue green) |
+| 1 | [[bloodstone-xdmg]] (dark gray with red flecks) |
+| 2 | [[carnelian-xdmg]] (orange to red brown) |
+| 3 | [[chalcedony-xdmg]] (white) |
+| 4 | [[chrysoprase-xdmg]] (green) |
+| 5 | [[citrine-xdmg]] (pale yellow brown) |
+| 6 | [[jasper-xdmg]] (blue, black, or brown) |
+| 7 | [[moonstone-xdmg]] (white with pale-blue glow) |
+| 8 | [[onyx-xdmg]] (bands of black and white, or pure black or white) |
+| 9 | [[quartz-xdmg]] (white, smoky gray, or yellow) |
+| 10 | [[sardonyx-xdmg]] (bands of red and white) |
+| 11 | [[star-rose-quartz-xdmg]] (rosy stone with white star-shaped center) |
+| 12 | [[zircon-xdmg]] (pale blue green) |
 ^50-gp-gemstones

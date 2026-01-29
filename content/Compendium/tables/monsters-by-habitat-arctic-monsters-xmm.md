@@ -14,18 +14,18 @@ aliases:
 
 | CR | Monsters |
 |----|----------|
-| 0 | [Hawk](Compendium/bestiary/beast/hawk-xmm.md), [Owl](Compendium/bestiary/beast/owl-xmm.md) |
-| 1/8 | [Blood Hawk](Compendium/bestiary/beast/blood-hawk-xmm.md), [Kobold Warrior](Compendium/bestiary/dragon/kobold-warrior-xmm.md) |
-| 1/4 | [Axe Beak](Compendium/bestiary/monstrosity/axe-beak-xmm.md), [Giant Owl](Compendium/bestiary/celestial/giant-owl-xmm.md), [Winged Kobold](Compendium/bestiary/dragon/winged-kobold-xmm.md) |
-| 1/2 | [Ice Mephit](Compendium/bestiary/elemental/ice-mephit-xmm.md) |
-| 1 | [Brown Bear](Compendium/bestiary/beast/brown-bear-xmm.md), [Ogrillon Ogre](Compendium/bestiary/giant/ogrillon-ogre-xmm.md) |
-| 2 | [Griffon](Compendium/bestiary/monstrosity/griffon-xmm.md), [Ogre](Compendium/bestiary/giant/ogre-xmm.md), [Polar Bear](Compendium/bestiary/beast/polar-bear-xmm.md), [Saber-Toothed Tiger](Compendium/bestiary/beast/saber-toothed-tiger-xmm.md), [White Dragon Wyrmling](Compendium/bestiary/dragon/white-dragon-wyrmling-xmm.md) |
-| 3 | [Manticore](Compendium/bestiary/monstrosity/manticore-xmm.md), [Winter Wolf](Compendium/bestiary/monstrosity/winter-wolf-xmm.md), [Yeti](Compendium/bestiary/monstrosity/yeti-xmm.md) |
-| 5 | [Giant Axe Beak](Compendium/bestiary/monstrosity/giant-axe-beak-xmm.md), [Troll](Compendium/bestiary/giant/troll-xmm.md), [Werebear](Compendium/bestiary/monstrosity/werebear-xmm.md), [Young Remorhaz](Compendium/bestiary/monstrosity/young-remorhaz-xmm.md) |
-| 6 | [Mammoth](Compendium/bestiary/beast/mammoth-xmm.md), [Young White Dragon](Compendium/bestiary/dragon/young-white-dragon-xmm.md) |
-| 8 | [Frost Giant](Compendium/bestiary/giant/frost-giant-xmm.md) |
-| 9 | [Abominable Yeti](Compendium/bestiary/monstrosity/abominable-yeti-xmm.md) |
-| 11 | [Remorhaz](Compendium/bestiary/monstrosity/remorhaz-xmm.md), [Roc](Compendium/bestiary/monstrosity/roc-xmm.md) |
-| 13 | [Adult White Dragon](Compendium/bestiary/dragon/adult-white-dragon-xmm.md) |
-| 20 | [Ancient White Dragon](Compendium/bestiary/dragon/ancient-white-dragon-xmm.md) |
+| 0 | [[hawk-xmm]], [[owl-xmm]] |
+| 1/8 | [[blood-hawk-xmm]], [[kobold-warrior-xmm]] |
+| 1/4 | [[axe-beak-xmm]], [[giant-owl-xmm]], [[winged-kobold-xmm]] |
+| 1/2 | [[ice-mephit-xmm]] |
+| 1 | [[brown-bear-xmm]], [[ogrillon-ogre-xmm]] |
+| 2 | [[griffon-xmm]], [[ogre-xmm]], [[polar-bear-xmm]], [[saber-toothed-tiger-xmm]], [[white-dragon-wyrmling-xmm]] |
+| 3 | [[manticore-xmm]], [[winter-wolf-xmm]], [[yeti-xmm]] |
+| 5 | [[giant-axe-beak-xmm]], [[troll-xmm]], [[werebear-xmm]], [[young-remorhaz-xmm]] |
+| 6 | [[mammoth-xmm]], [[young-white-dragon-xmm]] |
+| 8 | [[frost-giant-xmm]] |
+| 9 | [[abominable-yeti-xmm]] |
+| 11 | [[remorhaz-xmm]], [[roc-xmm]] |
+| 13 | [[adult-white-dragon-xmm]] |
+| 20 | [[ancient-white-dragon-xmm]] |
 ^arctic-monsters

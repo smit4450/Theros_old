@@ -57,8 +57,8 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
       \ wearer, half of any damage the wearer takes (round up) is transferred to the\
       \ guardian."
     "name": "Bound"
-  - "desc": "The guardian regains 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
-      \ at the start of each of its turns if it has at least 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)."
+  - "desc": "The guardian regains 10 [[hit-points-xphb]]\
+      \ at the start of each of its turns if it has at least 1 [[hit-points-xphb]]."
     "name": "Regeneration"
   - "desc": "A spellcaster who wears the guardian's amulet can cause the guardian\
       \ to store one spell of level 4 or lower. To do so, the wearer must cast the\

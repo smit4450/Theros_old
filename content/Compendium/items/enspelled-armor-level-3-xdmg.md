@@ -34,18 +34,18 @@ Bound into this armor is a level 3 spell. The spell is determined when the armor
 The spell's saving throw DC is 15, and its attack bonus is `+7`.
 
 **Variants**:
-- [[#Enspelled (Level 3|Enspelled (Level 3) Breastplate]] Breastplate)
-- [[#Enspelled (Level 3|Enspelled (Level 3) Chain Mail]] Chain Mail)
-- [[#Enspelled (Level 3|Enspelled (Level 3) Chain Shirt]] Chain Shirt)
-- [[#Enspelled (Level 3|Enspelled (Level 3) Half Plate Armor]] Half Plate Armor)
-- [[#Enspelled (Level 3|Enspelled (Level 3) Hide Armor]] Hide Armor)
-- [[#Enspelled (Level 3|Enspelled (Level 3) Leather Armor]] Leather Armor)
-- [[#Enspelled (Level 3|Enspelled (Level 3) Padded Armor]] Padded Armor)
-- [[#Enspelled (Level 3|Enspelled (Level 3) Plate Armor]] Plate Armor)
-- [[#Enspelled (Level 3|Enspelled (Level 3) Ring Mail]] Ring Mail)
-- [[#Enspelled (Level 3|Enspelled (Level 3) Scale Mail]] Scale Mail)
-- [[#Enspelled (Level 3|Enspelled (Level 3) Splint Armor]] Splint Armor)
-- [[#Enspelled (Level 3|Enspelled (Level 3) Studded Leather Armor]] Studded Leather Armor)
+-  [[#Enspelled (Level 3]] Breastplate)
+-  [[#Enspelled (Level 3]] Chain Mail)
+-  [[#Enspelled (Level 3]] Chain Shirt)
+-  [[#Enspelled (Level 3]] Half Plate Armor)
+-  [[#Enspelled (Level 3]] Hide Armor)
+-  [[#Enspelled (Level 3]] Leather Armor)
+-  [[#Enspelled (Level 3]] Padded Armor)
+-  [[#Enspelled (Level 3]] Plate Armor)
+-  [[#Enspelled (Level 3]] Ring Mail)
+-  [[#Enspelled (Level 3]] Scale Mail)
+-  [[#Enspelled (Level 3]] Splint Armor)
+-  [[#Enspelled (Level 3]] Studded Leather Armor)
 
 ### Enspelled (Level 3) Breastplate
 

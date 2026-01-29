@@ -122,7 +122,7 @@ Youngster
 "cr": "0"
 "traits":
   - "desc": "The commoner has proficiency in one skill of the DM's choice and has\
-      \ [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) whenever it\
+      \ [[advantage-xphb]] whenever it\
       \ makes an ability check using that skill."
     "name": "Training"
 "actions":

@@ -39,10 +39,10 @@ Until the spell ends, the target is also affected by one of the following effect
 
 When you cast the spell, specify a trigger that will end it. The trigger can be as simple or as elaborate as you choose, but the DM must agree that it has a high likelihood of happening within the next decade. The trigger must be an observable action, such as someone making a particular offering at the temple of your god, saving your true love, or defeating a specific monster.
 
-A [Dispel Magic](Compendium/spells/dispel-magic-xphb.md) spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it.
+A [[dispel-magic-xphb]] spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it.
 
 ## Summary
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-warlock]]; [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 
 *Source: Player's Handbook (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

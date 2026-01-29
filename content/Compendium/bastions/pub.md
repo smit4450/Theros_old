@@ -26,8 +26,8 @@ When you issue the "Research" order to this facility, you commission the Pub's b
 
 The Pub has one magical beverage on tap, chosen from the options below:
 
-- **Bigby's Burden.** Drinking a pint of this beverage grants you the "enlarge" effect of an [Enlarge/Reduce](Compendium/spells/enlarge-reduce-xphb.md) spell that has a duration of 24 hours (no saving throw allowed).  
-- **Kiss of the Spider Queen.** Drinking a pint of this beverage grants you the effect of a [Spider Climb](Compendium/spells/spider-climb-xphb.md) spell that has a duration of 24 hours.  
+- **Bigby's Burden.** Drinking a pint of this beverage grants you the "enlarge" effect of an [[enlarge-reduce-xphb]] spell that has a duration of 24 hours (no saving throw allowed).  
+- **Kiss of the Spider Queen.** Drinking a pint of this beverage grants you the effect of a [[spider-climb-xphb]] spell that has a duration of 24 hours.  
 - **Moonlight Serenade.** Drinking a pint of this beverage gives you [Darkvision](Compendium/rules/senses.md#Darkvision) out to 60 feet for 24 hours. If you already have Darkvision, its range is extended by 60 feet for the same duration.  
 - **Positive Reinforcement.** Drinking a pint of this beverage gives you Resistance to Necrotic damage for 24 hours.  
 - **Sterner Stuff.** For 24 hours after drinking a pint of this beverage, you automatically succeed on saving throws to avoid or end the [Frightened](Compendium/rules/conditions.md#Frightened) condition.  

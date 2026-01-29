@@ -66,10 +66,10 @@ A nymph doesn't require food, drink, or sleep.
 "traits":
   - "desc": "The oread's spellcasting ability is Charisma (spell save DC 14, +6\
       \ to hit with spell attacks). It can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** [fire bolt](Compendium/spells/fire-bolt-xphb.md)\
-      \ (see \"Actions\" below)\n\n**3/day:** [burning hands](Compendium/spells/burning-hands-xphb.md)\n\
-      \n**1/day each:** [hellish rebuke](Compendium/spells/hellish-rebuke-xphb.md)\
-      \ (see \"Reactions\" below), [scorching ray](Compendium/spells/scorching-ray-xphb.md)"
+      \ no material components:\n\n**At will:** [[fire-bolt-xphb]]\
+      \ (see \"Actions\" below)\n\n**3/day:** [[burning-hands-xphb]]\n\
+      \n**1/day each:** [[hellish-rebuke-xphb]]\
+      \ (see \"Reactions\" below), [[scorching-ray-xphb]]"
     "name": "Innate Spellcasting"
   - "desc": "The oread is [invisible](Compendium/rules/conditions.md#Invisible) while\
       \ fully immersed in fire."

@@ -17,6 +17,6 @@ aliases:
 
 - **Ability.** Dexterity  
 - **Utilize.** Add a design to a leather item (DC 10)  
-- **Craft.** [Sling](Compendium/items/sling-xphb.md), [Whip](Compendium/items/whip-xphb.md), [Hide Armor](Compendium/items/hide-armor-xphb.md), [Leather Armor](Compendium/items/leather-armor-xphb.md), [Studded Leather Armor](Compendium/items/studded-leather-armor-xphb.md), [Backpack](Compendium/items/backpack-xphb.md), [Crossbow Bolt Case](Compendium/items/crossbow-bolt-case-xphb.md), [Map or Scroll Case](Compendium/items/map-or-scroll-case-xphb.md), [Parchment](Compendium/items/parchment-xphb.md), [Pouch](Compendium/items/pouch-xphb.md), [Quiver](Compendium/items/quiver-xphb.md), [Waterskin](Compendium/items/waterskin-xphb.md)  
+- **Craft.** [[sling-xphb]], [[whip-xphb]], [[hide-armor-xphb]], [[leather-armor-xphb]], [[studded-leather-armor-xphb]], [[backpack-xphb]], [[crossbow-bolt-case-xphb]], [[map-or-scroll-case-xphb]], [[parchment-xphb]], [[pouch-xphb]], [[quiver-xphb]], [[waterskin-xphb]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

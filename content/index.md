@@ -9,55 +9,55 @@ aliases:
 Welcome to the Mythic Odysseys of Theros campaign hub, using the 2024 edition of Dungeons & Dragons.
 
 ## Quickstart for Adventurers
-1. Skim the 2024 overview in [Welcome to Adventure](Compendium/books/players-handbook-2024/01-introduction-welcome-to-adventure.md) for table expectations.
-2. Dive into the Theros primer in [Welcome to Theros](Compendium/books/mythic-odysseys-of-theros/1-welcome-to-theros.md) to ground your character in the setting.
+1. Skim the 2024 overview in [[01-introduction-welcome-to-adventure]] for table expectations.
+2. Dive into the Theros primer in [[1-welcome-to-theros]] to ground your character in the setting.
 3. Build your hero with the resources in **Build Your Hero**, then send the DM your draft sheet.
 4. Review the key rulings in **Rules Reference** so you are ready for the table pace.
 
 ## Build Your Hero
 
 ### 2024 Core Rule References
-- [Creating a Character (PHB 2024)](Compendium/books/players-handbook-2024/03-chapter-2-creating-a-character.md)
-- [Classes Overview (PHB 2024)](Compendium/books/players-handbook-2024/04-chapter-3-character-classes.md)
-- [Character Origins (PHB 2024)](Compendium/books/players-handbook-2024/05-chapter-4-character-origins.md)
-- [Equipment & Wealth (PHB 2024)](Compendium/books/players-handbook-2024/07-chapter-6-equipment.md)
-- [Spellcasting Rules (PHB 2024)](Compendium/books/players-handbook-2024/08-chapter-7-spells.md)
+- [[03-chapter-2-creating-a-character]]
+- [[04-chapter-3-character-classes]]
+- [[05-chapter-4-character-origins]]
+- [[07-chapter-6-equipment]]
+- [[08-chapter-7-spells]]
 
 ### Origins & Backgrounds
-- [Races & Lineages](Compendium/races/races.md) — includes Theros-native lineages like leonin, minotaur, satyr, and triton.
-- [Backgrounds](Compendium/backgrounds/backgrounds.md) — pick from 2024 options plus setting-specific callings.
-- [Heroic Feats](Compendium/feats/feats.md) — select level 1 feats and future advancements.
+- [[races]] — includes Theros-native lineages like leonin, minotaur, satyr, and triton.
+- [[backgrounds]] — pick from 2024 options plus setting-specific callings.
+- [[feats]] — select level 1 feats and future advancements.
 
 ### Class & Subclass Options
-- [Class Compendium](Compendium/classes/classes.md) — every 2024 base class with subclass entries.
-- Downtime expansions: [Bastion Upgrades](Compendium/bastions/bastions.md) for long-term holdings between adventures.
+- [[classes]] — every 2024 base class with subclass entries.
+- Downtime expansions: [[bastions]] for long-term holdings between adventures.
 
 ### Spellcasting Resources
-- [Spell Index](Compendium/spells/spells.md) — searchable list of every spell available in the campaign.
-- Class spell lists: [Bard](Compendium/lists/list-spells-classes-bard.md), [Cleric](Compendium/lists/list-spells-classes-cleric.md), [Druid](Compendium/lists/list-spells-classes-druid.md), [Paladin](Compendium/lists/list-spells-classes-paladin.md), [Ranger](Compendium/lists/list-spells-classes-ranger.md), [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md), [Warlock](Compendium/lists/list-spells-classes-warlock.md), [Wizard](Compendium/lists/list-spells-classes-wizard.md).
+- [[spells]] — searchable list of every spell available in the campaign.
+- Class spell lists: [[list-spells-classes-bard]], [[list-spells-classes-cleric]], [[list-spells-classes-druid]], [[list-spells-classes-paladin]], [[list-spells-classes-ranger]], [[list-spells-classes-sorcerer]], [[list-spells-classes-warlock]], [[list-spells-classes-wizard]].
 
 ## Explore Theros
 
 ### Setting Guides
-- [Welcome to Theros](Compendium/books/mythic-odysseys-of-theros/1-welcome-to-theros.md) — culture, myths, and campaign tone.
-- [Character Creation in Theros](Compendium/books/mythic-odysseys-of-theros/2-character-creation.md) — guidance on tying origins to the setting.
-- [Gods of Theros](Compendium/books/mythic-odysseys-of-theros/3-gods-of-theros.md) — beliefs, piety, and divine influence.
-- [Realms of Gods and Mortals](Compendium/books/mythic-odysseys-of-theros/4-realms-of-gods-and-mortals.md) — polis profiles, frontier regions, and Nyx.
-- [Friends and Foes](Compendium/books/mythic-odysseys-of-theros/7-friends-and-foes.md) — allies, rivals, and mythic monsters with story hooks.
+- [[1-welcome-to-theros]] — culture, myths, and campaign tone.
+- [[2-character-creation]] — guidance on tying origins to the setting.
+- [[3-gods-of-theros]] — beliefs, piety, and divine influence.
+- [[4-realms-of-gods-and-mortals]] — polis profiles, frontier regions, and Nyx.
+- [[7-friends-and-foes]] — allies, rivals, and mythic monsters with story hooks.
 
 ### Gods of Theros
-- [[Heliod|Heliod]]
-- [[Iroas|Iroas]]
-- [[Karametra|Karametra]].
-- [[Erebos|Erebos]]
-- [[Phenax|Phenax]]
-- [[Pharika|Pharika]].
-- [[Nylea|Nylea]]
-- [[Purphoros|Purphoros]]
-- [[Klothys|Klothys]].
-- [[theros-thassa-mot|Thassa]]
-- [[Athreos|Athreos]]
-- [[Kruphix|Kruphix]].
+-  [[Heliod]]
+-  [[Iroas]]
+-  [[Karametra]].
+-  [[Erebos]]
+-  [[Phenax]]
+-  [[Pharika]].
+-  [[Nylea]]
+-  [[Purphoros]]
+-  [[Klothys]].
+-  [[theros-thassa-mot]]
+-  [[Athreos]]
+-  [[Kruphix]].
 
 ### Regions & Story Hooks
 - [Theros Travel Atlas](Compendium/books/mythic-odysseys-of-theros/4-realms-of-gods-and-mortals.md#polis-profiles) — Akros, Meletis, and Setessa at a glance.
@@ -67,19 +67,19 @@ Welcome to the Mythic Odysseys of Theros campaign hub, using the 2024 edition of
 ## Rules Reference
 
 ### Core Mechanics Cheat Sheet
-- [Rules Glossary](Compendium/books/players-handbook-2024/11-rules-glossary.md) — official definitions straight from the 2024 rules.
-- [Actions in Combat](Compendium/rules/actions.md)
-- [Conditions](Compendium/rules/conditions.md)
-- [Skills & Ability Checks](Compendium/rules/skills.md)
-- [Senses & Detection](Compendium/rules/senses.md)
-- [Item Properties](Compendium/rules/item-properties.md)
-- [Item Mastery](Compendium/rules/item-mastery.md)
+- [[11-rules-glossary]] — official definitions straight from the 2024 rules.
+- [[actions]]
+- [[conditions]]
+- [[skills]]
+- [[senses]]
+- [[item-properties]]
+- [[item-mastery]]
 
 ### Advanced & Variant Rules
-- [Weapon Mastery Properties](Compendium/rules/variant-rules/weapon-mastery-properties-xphb.md)
-- [Multiclassing Rules](Compendium/rules/variant-rules/multiclassing-xphb.md)
-- [Heroic Inspiration](Compendium/rules/variant-rules/heroic-inspiration-xphb.md)
-- [Resting: Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md) · [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md)
-- [Saving Throws](Compendium/rules/variant-rules/saving-throw-xphb.md) and [Attack Rolls](Compendium/rules/variant-rules/attack-roll-xphb.md) for quick rulings.
+- [[weapon-mastery-properties-xphb]]
+- [[multiclassing-xphb]]
+- [[heroic-inspiration-xphb]]
+- [[short-rest-xphb]] · [[long-rest-xphb]]
+- [[saving-throw-xphb]] and [[attack-roll-xphb]] for quick rulings.
 
 ## Table Resources

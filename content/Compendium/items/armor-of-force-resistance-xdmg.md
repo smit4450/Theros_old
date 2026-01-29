@@ -29,21 +29,21 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to force damage while you wear this armor.
+You have [[resistance-xphb]] to force damage while you wear this armor.
 
 **Variants**:
-- [[#Breastplate of Force Resistance|Breastplate of Force Resistance]]
-- [[#Chain Mail of Force Resistance|Chain Mail of Force Resistance]]
-- [[#Chain Shirt of Force Resistance|Chain Shirt of Force Resistance]]
-- [[#Half Plate Armor of Force Resistance|Half Plate Armor of Force Resistance]]
-- [[#Hide Armor of Force Resistance|Hide Armor of Force Resistance]]
-- [[#Leather Armor of Force Resistance|Leather Armor of Force Resistance]]
-- [[#Padded Armor of Force Resistance|Padded Armor of Force Resistance]]
-- [[#Plate Armor of Force Resistance|Plate Armor of Force Resistance]]
-- [[#Ring Mail of Force Resistance|Ring Mail of Force Resistance]]
-- [[#Scale Mail of Force Resistance|Scale Mail of Force Resistance]]
-- [[#Splint Armor of Force Resistance|Splint Armor of Force Resistance]]
-- [[#Studded Leather Armor of Force Resistance|Studded Leather Armor of Force Resistance]]
+-  [[#Breastplate of Force Resistance]]
+-  [[#Chain Mail of Force Resistance]]
+-  [[#Chain Shirt of Force Resistance]]
+-  [[#Half Plate Armor of Force Resistance]]
+-  [[#Hide Armor of Force Resistance]]
+-  [[#Leather Armor of Force Resistance]]
+-  [[#Padded Armor of Force Resistance]]
+-  [[#Plate Armor of Force Resistance]]
+-  [[#Ring Mail of Force Resistance]]
+-  [[#Scale Mail of Force Resistance]]
+-  [[#Splint Armor of Force Resistance]]
+-  [[#Studded Leather Armor of Force Resistance]]
 
 ### Breastplate of Force Resistance
 

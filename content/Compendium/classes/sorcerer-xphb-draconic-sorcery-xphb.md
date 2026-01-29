@@ -9,7 +9,7 @@ aliases:
 - Draconic Sorcery
 ---
 # Draconic Sorcery
-*[[sorcerer-xphb|Sorcerer]]: Sorcerer Subclass*  
+* [[sorcerer-xphb]]: Sorcerer Subclass*  
 *Source: Player's Handbook (2024) p. 148. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -54,9 +54,9 @@ Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon fac
 
 ### Draconic Resilience (Level 3)
 
-The magic in your body manifests physical traits of your draconic gift. Your [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
+The magic in your body manifests physical traits of your draconic gift. Your [[hit-points-xphb]] maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
 
-Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Charisma modifiers.
+Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base [[armor-class-xphb]] equals 10 plus your Dexterity and Charisma modifiers.
 
 ### Draconic Spells (Level 3)
 
@@ -66,26 +66,26 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 3rd | [Alter Self](Compendium/spells/alter-self-xphb.md), [Chromatic Orb](Compendium/spells/chromatic-orb-xphb.md), [Command](Compendium/spells/command-xphb.md), [Dragon's Breath](Compendium/spells/dragons-breath-xphb.md) |
-| 5th | [Fear](Compendium/spells/fear-xphb.md), [Fly](Compendium/spells/fly-xphb.md) |
-| 7th | [Arcane Eye](Compendium/spells/arcane-eye-xphb.md), [Charm Monster](Compendium/spells/charm-monster-xphb.md) |
-| 9th | [Legend Lore](Compendium/spells/legend-lore-xphb.md), [Summon Dragon](Compendium/spells/summon-dragon-xphb.md) |
+| 3rd | [[alter-self-xphb]], [[chromatic-orb-xphb]], [[command-xphb]], [[dragons-breath-xphb]] |
+| 5th | [[fear-xphb]], [[fly-xphb]] |
+| 7th | [[arcane-eye-xphb]], [[charm-monster-xphb]] |
+| 9th | [[legend-lore-xphb]], [[summon-dragon-xphb]] |
 ^draconic-spells
 
 ### Elemental Affinity (Level 6)
 
 Your draconic magic has an affinity with a damage type associated with dragons. Choose one of those types: Acid, Cold, Fire, Lightning, or Poison.
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.
+You have [[resistance-xphb]] to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.
 
 ### Dragon Wings (Level 14)
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md) of 60 feet.
+As a [[bonus-action-xphb]], you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a [[fly-speed-xphb]] of 60 feet.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you spend 3 Sorcery Points (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]] unless you spend 3 Sorcery Points (no action required) to restore your use of it.
 
 ### Dragon Companion (Level 18)
 
-You can cast [Summon Dragon](Compendium/spells/summon-dragon-xphb.md) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+You can cast [[summon-dragon-xphb]] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [[long-rest-xphb]].
 
 Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](Compendium/rules/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting.

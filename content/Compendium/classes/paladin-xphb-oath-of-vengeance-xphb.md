@@ -9,7 +9,7 @@ aliases:
 - Oath of Vengeance
 ---
 # Oath of Vengeance
-*[[paladin-xphb|Paladin]]: Paladin Subclass*  
+* [[paladin-xphb]]: Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 116*  
 
 > [!tldr] Class and Feature Progression
@@ -66,35 +66,35 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [Bane](Compendium/spells/bane-xphb.md), [Hunter's Mark](Compendium/spells/hunters-mark-xphb.md) |
-| 5th | [Hold Person](Compendium/spells/hold-person-xphb.md), [Misty Step](Compendium/spells/misty-step-xphb.md) |
-| 9th | [Haste](Compendium/spells/haste-xphb.md), [Protection from Energy](Compendium/spells/protection-from-energy-xphb.md) |
-| 13th | [Banishment](Compendium/spells/banishment-xphb.md), [Dimension Door](Compendium/spells/dimension-door-xphb.md) |
-| 17th | [Hold Monster](Compendium/spells/hold-monster-xphb.md), [Scrying](Compendium/spells/scrying-xphb.md) |
+| 3rd | [[bane-xphb]], [[hunters-mark-xphb]] |
+| 5th | [[hold-person-xphb]], [[misty-step-xphb]] |
+| 9th | [[haste-xphb]], [[protection-from-energy-xphb]] |
+| 13th | [[banishment-xphb]], [[dimension-door-xphb]] |
+| 17th | [[hold-monster-xphb]], [[scrying-xphb]] |
 ^oath-of-vengeance-spells
 
 ### Vow of Enmity (Level 3)
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on attack rolls against the creature for 1 minute or until you use this feature again.
+When you take the [Attack](Compendium/rules/actions.md#Attack) action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have [[advantage-xphb]] on attack rolls against the creature for 1 minute or until you use this feature again.
 
-If the creature drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required).
+If the creature drops to 0 [[hit-points-xphb]] before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required).
 
 ### Relentless Avenger (Level 7)
 
-Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an [Opportunity Attack](Compendium/rules/actions.md#Opportunity Attack), you can reduce the creature's [Speed](Compendium/rules/variant-rules/speed-xphb.md) to 0 until the end of the current turn. You can then move up to half your [Speed](Compendium/rules/variant-rules/speed-xphb.md) as part of the same [Reaction](Compendium/rules/variant-rules/reaction-xphb.md). This movement doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
+Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an [Opportunity Attack](Compendium/rules/actions.md#Opportunity Attack), you can reduce the creature's [[speed-xphb]] to 0 until the end of the current turn. You can then move up to half your [[speed-xphb]] as part of the same [[reaction-xphb]]. This movement doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
 ### Soul of Vengeance (Level 15)
 
-Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack roll, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to make a melee attack against that creature if it's within range.
+Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack roll, you can take a [[reaction-xphb]] to make a melee attack against that creature if it's within range.
 
 ### Avenging Angel (Level 20)
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a [[bonus-action-xphb]], you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]]. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 #### Flight
 
-You sprout spectral wings on your back, have a [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md) of 60 feet, and can hover.
+You sprout spectral wings on your back, have a [[fly-speed-xphb]] of 60 feet, and can hover.
 
 #### Frightful Aura
 
-Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the [Frightened](Compendium/rules/conditions.md#Frightened) condition for 1 minute or until it takes any damage. [Attack](Compendium/rules/actions.md#Attack) rolls against the [Frightened](Compendium/rules/conditions.md#Frightened) creature have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md).
+Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the [Frightened](Compendium/rules/conditions.md#Frightened) condition for 1 minute or until it takes any damage. [Attack](Compendium/rules/actions.md#Attack) rolls against the [Frightened](Compendium/rules/conditions.md#Frightened) creature have [[advantage-xphb]].

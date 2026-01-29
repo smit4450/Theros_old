@@ -22,7 +22,7 @@ War priests worship deities of war and combat. They plan tactics, lead soldiers 
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate armor](Compendium/items/plate-armor-xphb.md)"
+"ac_class": "[[plate-armor-xphb]]"
 "hp": !!int "117"
 "hit_dice": "18d8 + 36"
 "modifier": !!int "0"
@@ -48,23 +48,23 @@ War priests worship deities of war and combat. They plan tactics, lead soldiers 
 "traits":
   - "desc": "The priest is a 9th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 15, +7 to hit with spell attacks). It has the following cleric\
-      \ spells prepared:\n\n**Cantrips (at will):** [light](Compendium/spells/light-xphb.md),\
-      \ [mending](Compendium/spells/mending-xphb.md), [sacred flame](Compendium/spells/sacred-flame-xphb.md),\
-      \ [spare the dying](Compendium/spells/spare-the-dying-xphb.md)\n\n**1st level\
-      \ (4 slots):** [divine favor](Compendium/spells/divine-favor-xphb.md), [guiding\
-      \ bolt](Compendium/spells/guiding-bolt-xphb.md), [healing word](Compendium/spells/healing-word-xphb.md),\
-      \ [shield of faith](Compendium/spells/shield-of-faith-xphb.md)\n\n**2nd level\
-      \ (3 slots):** [lesser restoration](Compendium/spells/lesser-restoration-xphb.md),\
-      \ [magic weapon](Compendium/spells/magic-weapon-xphb.md), [prayer of healing](Compendium/spells/prayer-of-healing-xphb.md),\
-      \ [silence](Compendium/spells/silence-xphb.md), [spiritual weapon](Compendium/spells/spiritual-weapon-xphb.md)\n\
-      \n**3rd level (3 slots):** [beacon of hope](Compendium/spells/beacon-of-hope-xphb.md),\
-      \ [crusader's mantle](Compendium/spells/crusaders-mantle-xphb.md), [dispel magic](Compendium/spells/dispel-magic-xphb.md),\
-      \ [revivify](Compendium/spells/revivify-xphb.md), [spirit guardians](Compendium/spells/spirit-guardians-xphb.md),\
-      \ [water walk](Compendium/spells/water-walk-xphb.md)\n\n**4th level (3 slots):**\
-      \ [banishment](Compendium/spells/banishment-xphb.md), [freedom of movement](Compendium/spells/freedom-of-movement-xphb.md),\
-      \ [guardian of faith](Compendium/spells/guardian-of-faith-xphb.md), [stoneskin](Compendium/spells/stoneskin-xphb.md)\n\
-      \n**5th level (1 slots):** [flame strike](Compendium/spells/flame-strike-xphb.md),\
-      \ [mass cure wounds](Compendium/spells/mass-cure-wounds-xphb.md), [hold monster](Compendium/spells/hold-monster-xphb.md)"
+      \ spells prepared:\n\n**Cantrips (at will):** [[light-xphb]],\
+      \ [[mending-xphb]], [[sacred-flame-xphb]],\
+      \ [[spare-the-dying-xphb]]\n\n**1st level\
+      \ (4 slots):** [[divine-favor-xphb]], [guiding\
+      \ bolt](Compendium/spells/guiding-bolt-xphb.md), [[healing-word-xphb]],\
+      \ [[shield-of-faith-xphb]]\n\n**2nd level\
+      \ (3 slots):** [[lesser-restoration-xphb]],\
+      \ [[magic-weapon-xphb]], [[prayer-of-healing-xphb]],\
+      \ [[silence-xphb]], [[spiritual-weapon-xphb]]\n\
+      \n**3rd level (3 slots):** [[beacon-of-hope-xphb]],\
+      \ [[crusaders-mantle-xphb]], [[dispel-magic-xphb]],\
+      \ [[revivify-xphb]], [[spirit-guardians-xphb]],\
+      \ [[water-walk-xphb]]\n\n**4th level (3 slots):**\
+      \ [[banishment-xphb]], [[freedom-of-movement-xphb]],\
+      \ [[guardian-of-faith-xphb]], [[stoneskin-xphb]]\n\
+      \n**5th level (1 slots):** [[flame-strike-xphb]],\
+      \ [[mass-cure-wounds-xphb]], [[hold-monster-xphb]]"
     "name": "Spellcasting"
 "actions":
   - "desc": "The priest makes two melee attacks."

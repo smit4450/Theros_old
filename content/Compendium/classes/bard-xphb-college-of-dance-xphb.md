@@ -9,7 +9,7 @@ aliases:
 - College of Dance
 ---
 # College of Dance
-*[[bard-xphb|Bard]]: Bard Subclass*  
+* [[bard-xphb]]: Bard Subclass*  
 *Source: Player's Handbook (2024) p. 64*  
 
 > [!tldr] Class and Feature Progression
@@ -54,33 +54,33 @@ Bards of the College of Dance know that the Words of Creation can't be contained
 
 ### Dazzling Footwork (Level 3)
 
-While you aren't wearing armor or wielding a [Shield](Compendium/items/shield-xphb.md), you gain the following benefits.
+While you aren't wearing armor or wielding a [[shield-xphb]], you gain the following benefits.
 
 ### Dance Virtuoso (Level 3)
 
-You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on any Charisma ([Performance](Compendium/rules/skills.md#Performance)) check you make that involves you dancing.
+You have [[advantage-xphb]] on any Charisma ([Performance](Compendium/rules/skills.md#Performance)) check you make that involves you dancing.
 
 ### Unarmored Defense (Level 3)
 
-Your base [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Charisma modifiers.
+Your base [[armor-class-xphb]] equals 10 plus your Dexterity and Charisma modifiers.
 
 ### Agile Strikes (Level 3)
 
-When you expend a use of your Bardic Inspiration as part of an action, a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), or a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md), you can make one [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md) as part of that action, [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), or [Reaction](Compendium/rules/variant-rules/reaction-xphb.md).
+When you expend a use of your Bardic Inspiration as part of an action, a [[bonus-action-xphb]], or a [[reaction-xphb]], you can make one [[unarmed-strike-xphb]] as part of that action, [[bonus-action-xphb]], or [[reaction-xphb]].
 
 ### Bardic Damage (Level 3)
 
-You can use Dexterity instead of Strength for the attack rolls of your Unarmed Strikes. When you deal damage with an [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md), you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier, instead of the strike's normal damage. This roll doesn't expend the die.
+You can use Dexterity instead of Strength for the attack rolls of your Unarmed Strikes. When you deal damage with an [[unarmed-strike-xphb]], you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier, instead of the strike's normal damage. This roll doesn't expend the die.
 
 ### Inspiring Movement (Level 6)
 
-When an enemy you can see ends its turn within 5 feet of you, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) and expend one use of your Bardic Inspiration to move up to half your [Speed](Compendium/rules/variant-rules/speed-xphb.md). Then one ally of your choice within 30 feet of you can also move up to half their [Speed](Compendium/rules/variant-rules/speed-xphb.md) using their [Reaction](Compendium/rules/variant-rules/reaction-xphb.md).
+When an enemy you can see ends its turn within 5 feet of you, you can take a [[reaction-xphb]] and expend one use of your Bardic Inspiration to move up to half your [[speed-xphb]]. Then one ally of your choice within 30 feet of you can also move up to half their [[speed-xphb]] using their [[reaction-xphb]].
 
 None of this feature's movement provokes [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
 ### Tandem Footwork (Level 6)
 
-When you roll [Initiative](Compendium/rules/variant-rules/initiative-xphb.md), you can expend one use of your Bardic Inspiration if you don't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 feet of you who can see or hear you gains a bonus to [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) equal to the number rolled.
+When you roll [[initiative-xphb]], you can expend one use of your Bardic Inspiration if you don't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 feet of you who can see or hear you gains a bonus to [[initiative-xphb]] equal to the number rolled.
 
 ### Leading Evasion (Level 14)
 

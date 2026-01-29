@@ -17,6 +17,6 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Constitution, Wisdom, or Charisma by 1, to a maximum of 30.
 
-**Daylight Presence.** As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you radiate a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) of [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) that is sunlight. If any of the [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)'s area overlaps with an area of [Darkness](Compendium/spells/darkness-xphb.md) created by a spell, that spell is dispelled. The [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) lasts until you dismiss it (no action required), die, or have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+**Daylight Presence.** As a [[bonus-action-xphb]], you radiate a 30-foot [[emanation-area-of-effect-xphb]] of [[bright-light-xphb]] that is sunlight. If any of the [[emanation-area-of-effect-xphb]]'s area overlaps with an area of [[darkness-xphb]] created by a spell, that spell is dispelled. The [[emanation-area-of-effect-xphb]] lasts until you dismiss it (no action required), die, or have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
 
-**Fortifying Light.** When your Daylight Presence is active, at the start of each of your turns, you and allies you can see in your Daylight Presence gain 10 [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md).
+**Fortifying Light.** When your Daylight Presence is active, at the start of each of your turns, you and allies you can see in your Daylight Presence gain 10 [[temporary-hit-points-xphb]].

@@ -14,23 +14,23 @@ aliases:
 
 | CR | Monsters |
 |----|----------|
-| 0 | [Bat](Compendium/bestiary/beast/bat-xmm.md), [Eagle](Compendium/bestiary/beast/eagle-xmm.md), [Goat](Compendium/bestiary/beast/goat-xmm.md), [Hawk](Compendium/bestiary/beast/hawk-xmm.md) |
-| 1/8 | [Blood Hawk](Compendium/bestiary/beast/blood-hawk-xmm.md), [Kobold Warrior](Compendium/bestiary/dragon/kobold-warrior-xmm.md), [Stirge](Compendium/bestiary/monstrosity/stirge-xmm.md) |
-| 1/4 | [Aarakocra Skirmisher](Compendium/bestiary/elemental/aarakocra-skirmisher-xmm.md), [Giant Bat](Compendium/bestiary/beast/giant-bat-xmm.md), [Pseudodragon](Compendium/bestiary/dragon/pseudodragon-xmm.md), [Pteranodon](Compendium/bestiary/beast/pteranodon-xmm.md), [Swarm of Bats](Compendium/bestiary/beast/swarm-of-bats-xmm.md), [Winged Kobold](Compendium/bestiary/dragon/winged-kobold-xmm.md) |
-| 1/2 | [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md), [Hobgoblin Warrior](Compendium/bestiary/fey/hobgoblin-warrior-xmm.md) |
-| 1 | [Giant Eagle](Compendium/bestiary/celestial/giant-eagle-xmm.md), [Harpy](Compendium/bestiary/monstrosity/harpy-xmm.md), [Hippogriff](Compendium/bestiary/monstrosity/hippogriff-xmm.md), [Lion](Compendium/bestiary/beast/lion-xmm.md), [Ogrillon Ogre](Compendium/bestiary/giant/ogrillon-ogre-xmm.md) |
-| 2 | [Azer Sentinel](Compendium/bestiary/elemental/azer-sentinel-xmm.md), [Bulette Pup](Compendium/bestiary/monstrosity/bulette-pup-xmm.md), [Griffon](Compendium/bestiary/monstrosity/griffon-xmm.md), [Ogre](Compendium/bestiary/giant/ogre-xmm.md), [Peryton](Compendium/bestiary/monstrosity/peryton-xmm.md), [Saber-Toothed Tiger](Compendium/bestiary/beast/saber-toothed-tiger-xmm.md), [Silver Dragon Wyrmling](Compendium/bestiary/dragon/silver-dragon-wyrmling-xmm.md), [Swarm of Stirges](Compendium/bestiary/monstrosity/swarm-of-stirges-xmm.md) |
-| 3 | [Basilisk](Compendium/bestiary/monstrosity/basilisk-xmm.md), [Hell Hound](Compendium/bestiary/fiend/hell-hound-xmm.md), [Hobgoblin Captain](Compendium/bestiary/fey/hobgoblin-captain-xmm.md), [Manticore](Compendium/bestiary/monstrosity/manticore-xmm.md) |
-| 4 | [Aarakocra Aeromancer](Compendium/bestiary/elemental/aarakocra-aeromancer-xmm.md), [Ettin](Compendium/bestiary/giant/ettin-xmm.md), [Red Dragon Wyrmling](Compendium/bestiary/dragon/red-dragon-wyrmling-xmm.md) |
-| 5 | [Air Elemental](Compendium/bestiary/elemental/air-elemental-xmm.md), [Bulette](Compendium/bestiary/monstrosity/bulette-xmm.md), [Earth Elemental](Compendium/bestiary/elemental/earth-elemental-xmm.md), [Troll](Compendium/bestiary/giant/troll-xmm.md) |
-| 6 | [Azer Pyromancer](Compendium/bestiary/elemental/azer-pyromancer-xmm.md), [Chimera](Compendium/bestiary/monstrosity/chimera-xmm.md), [Cyclops Sentry](Compendium/bestiary/giant/cyclops-sentry-xmm.md), [Galeb Duhr](Compendium/bestiary/elemental/galeb-duhr-xmm.md), [Hobgoblin Warlord](Compendium/bestiary/fey/hobgoblin-warlord-xmm.md), [Wyvern](Compendium/bestiary/dragon/wyvern-xmm.md) |
-| 7 | [Stone Giant](Compendium/bestiary/giant/stone-giant-xmm.md) |
-| 8 | [Frost Giant](Compendium/bestiary/giant/frost-giant-xmm.md) |
-| 9 | [Cloud Giant](Compendium/bestiary/giant/cloud-giant-xmm.md), [Fire Giant](Compendium/bestiary/giant/fire-giant-xmm.md), [Young Silver Dragon](Compendium/bestiary/dragon/young-silver-dragon-xmm.md) |
-| 10 | [Cyclops Oracle](Compendium/bestiary/giant/cyclops-oracle-xmm.md), [Young Red Dragon](Compendium/bestiary/dragon/young-red-dragon-xmm.md) |
-| 11 | [Roc](Compendium/bestiary/monstrosity/roc-xmm.md) |
-| 16 | [Adult Silver Dragon](Compendium/bestiary/dragon/adult-silver-dragon-xmm.md) |
-| 17 | [Adult Red Dragon](Compendium/bestiary/dragon/adult-red-dragon-xmm.md) |
-| 23 | [Ancient Silver Dragon](Compendium/bestiary/dragon/ancient-silver-dragon-xmm.md) |
-| 24 | [Ancient Red Dragon](Compendium/bestiary/dragon/ancient-red-dragon-xmm.md) |
+| 0 | [[bat-xmm]], [[eagle-xmm]], [[goat-xmm]], [[hawk-xmm]] |
+| 1/8 | [[blood-hawk-xmm]], [[kobold-warrior-xmm]], [[stirge-xmm]] |
+| 1/4 | [[aarakocra-skirmisher-xmm]], [[giant-bat-xmm]], [[pseudodragon-xmm]], [[pteranodon-xmm]], [[swarm-of-bats-xmm]], [[winged-kobold-xmm]] |
+| 1/2 | [[giant-goat-xmm]], [[hobgoblin-warrior-xmm]] |
+| 1 | [[giant-eagle-xmm]], [[harpy-xmm]], [[hippogriff-xmm]], [[lion-xmm]], [[ogrillon-ogre-xmm]] |
+| 2 | [[azer-sentinel-xmm]], [[bulette-pup-xmm]], [[griffon-xmm]], [[ogre-xmm]], [[peryton-xmm]], [[saber-toothed-tiger-xmm]], [[silver-dragon-wyrmling-xmm]], [[swarm-of-stirges-xmm]] |
+| 3 | [[basilisk-xmm]], [[hell-hound-xmm]], [[hobgoblin-captain-xmm]], [[manticore-xmm]] |
+| 4 | [[aarakocra-aeromancer-xmm]], [[ettin-xmm]], [[red-dragon-wyrmling-xmm]] |
+| 5 | [[air-elemental-xmm]], [[bulette-xmm]], [[earth-elemental-xmm]], [[troll-xmm]] |
+| 6 | [[azer-pyromancer-xmm]], [[chimera-xmm]], [[cyclops-sentry-xmm]], [[galeb-duhr-xmm]], [[hobgoblin-warlord-xmm]], [[wyvern-xmm]] |
+| 7 | [[stone-giant-xmm]] |
+| 8 | [[frost-giant-xmm]] |
+| 9 | [[cloud-giant-xmm]], [[fire-giant-xmm]], [[young-silver-dragon-xmm]] |
+| 10 | [[cyclops-oracle-xmm]], [[young-red-dragon-xmm]] |
+| 11 | [[roc-xmm]] |
+| 16 | [[adult-silver-dragon-xmm]] |
+| 17 | [[adult-red-dragon-xmm]] |
+| 23 | [[ancient-silver-dragon-xmm]] |
+| 24 | [[ancient-red-dragon-xmm]] |
 ^mountain-monsters

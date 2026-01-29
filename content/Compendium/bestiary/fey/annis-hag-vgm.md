@@ -75,8 +75,8 @@ An annis hag that is part of a coven (see the "Hag Covens" sidebar in the Monste
 "cr": "6"
 "traits":
   - "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 13).\
-      \ She can innately cast the following spells:\n\n**3/day each:** [disguise self](Compendium/spells/disguise-self-xphb.md)\
-      \ (including the form of a Medium humanoid), [fog cloud](Compendium/spells/fog-cloud-xphb.md)"
+      \ She can innately cast the following spells:\n\n**3/day each:** [[disguise-self-xphb]]\
+      \ (including the form of a Medium humanoid), [[fog-cloud-xphb]]"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "The annis makes three attacks: one with her bite and two with her claws."

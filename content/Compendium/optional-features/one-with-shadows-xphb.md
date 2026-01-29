@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Level 5
 
-While you're in an area of [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), you can cast [Invisibility](Compendium/spells/invisibility-xphb.md) on yourself without expending a spell slot.
+While you're in an area of [[dim-light-xphb]] or [[darkness-xphb]], you can cast [[invisibility-xphb]] on yourself without expending a spell slot.

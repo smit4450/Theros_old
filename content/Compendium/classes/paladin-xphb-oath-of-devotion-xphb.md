@@ -9,7 +9,7 @@ aliases:
 - Oath of Devotion
 ---
 # Oath of Devotion
-*[[paladin-xphb|Paladin]]: Paladin Subclass*  
+* [[paladin-xphb]]: Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 113. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -68,41 +68,41 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [Protection from Evil And Good](Compendium/spells/protection-from-evil-and-good-xphb.md), [Shield of Faith](Compendium/spells/shield-of-faith-xphb.md) |
-| 5th | [Aid](Compendium/spells/aid-xphb.md), [Zone of Truth](Compendium/spells/zone-of-truth-xphb.md) |
-| 9th | [Beacon of Hope](Compendium/spells/beacon-of-hope-xphb.md), [Dispel Magic](Compendium/spells/dispel-magic-xphb.md) |
-| 13th | [Freedom of Movement](Compendium/spells/freedom-of-movement-xphb.md), [Guardian of Faith](Compendium/spells/guardian-of-faith-xphb.md) |
-| 17th | [Commune](Compendium/spells/commune-xphb.md), [Flame Strike](Compendium/spells/flame-strike-xphb.md) |
+| 3rd | [[protection-from-evil-and-good-xphb]], [[shield-of-faith-xphb]] |
+| 5th | [[aid-xphb]], [[zone-of-truth-xphb]] |
+| 9th | [[beacon-of-hope-xphb]], [[dispel-magic-xphb]] |
+| 13th | [[freedom-of-movement-xphb]], [[guardian-of-faith-xphb]] |
+| 17th | [[commune-xphb]], [[flame-strike-xphb]] |
 ^oath-of-devotion-spells
 
 ### Sacred Weapon (Level 3)
 
 When you take the [Attack](Compendium/rules/actions.md#Attack) action, you can expend one use of your Channel Divinity to imbue one Melee weapon that you are holding with positive energy. For 10 minutes or until you use this feature again, you add your Charisma modifier to attack rolls you make with that weapon (minimum bonus of +1), and each time you hit with it, you cause it to deal its normal damage type or Radiant damage.
 
-The weapon also emits [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) in a 20-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md) 20 feet beyond that.
+The weapon also emits [[bright-light-xphb]] in a 20-foot radius and [[dim-light-xphb]] 20 feet beyond that.
 
 You can end this effect early (no action required). This effect also ends if you aren't carrying the weapon.
 
 ### Aura of Devotion (Level 7)
 
-You and your allies have [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to the [Charmed](Compendium/rules/conditions.md#Charmed) condition while in your Aura of Protection. If a [Charmed](Compendium/rules/conditions.md#Charmed) ally enters the aura, that condition has no effect on that ally while there.
+You and your allies have [[immunity-xphb]] to the [Charmed](Compendium/rules/conditions.md#Charmed) condition while in your Aura of Protection. If a [Charmed](Compendium/rules/conditions.md#Charmed) ally enters the aura, that condition has no effect on that ally while there.
 
 ### Smite of Protection (Level 15)
 
-Your magical smite now radiates protective energy. Whenever you cast [Divine Smite](Compendium/spells/divine-smite-xphb.md), you and your allies have [Half Cover](Compendium/rules/variant-rules/cover-xphb.md) while in your Aura of Protection. The aura has this benefit until the start of your next turn.
+Your magical smite now radiates protective energy. Whenever you cast [[divine-smite-xphb]], you and your allies have [[cover-xphb]] while in your Aura of Protection. The aura has this benefit until the start of your next turn.
 
 ### Holy Nimbus (Level 20)
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a [[bonus-action-xphb]], you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]]. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 #### Holy Ward
 
-You have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on any saving throw you are forced to make by a Fiend or an Undead.
+You have [[advantage-xphb]] on any saving throw you are forced to make by a Fiend or an Undead.
 
 #### Radiant Damage
 
-Whenever an enemy starts its turn in the aura, that creature takes Radiant damage equal to your Charisma modifier plus your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md).
+Whenever an enemy starts its turn in the aura, that creature takes Radiant damage equal to your Charisma modifier plus your [[proficiency-xphb]].
 
 #### Sunlight
 
-The aura is filled with [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md) that is sunlight.
+The aura is filled with [[bright-light-xphb]] that is sunlight.

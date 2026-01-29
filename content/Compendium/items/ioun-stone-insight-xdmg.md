@@ -19,7 +19,7 @@ When you take a [Magic](Compendium/rules/actions.md#Magic) action to toss an *Io
 
 Each *Ioun Stone* orbiting your head is considered to be an object you are wearing. The orbiting stone avoids contact with other creatures and objects, adjusting its orbit to avoid collisions and thwarting all attempts by other creatures to attack or snatch it.
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [Attunement](Compendium/rules/variant-rules/attunement-xphb.md) to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
+As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [[attunement-xphb]] to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
 
 Your Wisdom increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head.
 

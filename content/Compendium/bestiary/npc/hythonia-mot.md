@@ -58,8 +58,8 @@ While the medusa's victims have dwindled, tales of the medusa queen and the divi
 "cr": "17"
 "traits":
   - "desc": "Hythonia's spellcasting ability is Charisma (spell save DC 18). She can\
-      \ innately cast [animate objects](Compendium/spells/animate-objects-xphb.md)\
-      \ once per day requiring no material components.\n\n**1/day:** [animate objects](Compendium/spells/animate-objects-xphb.md)"
+      \ innately cast [[animate-objects-xphb]]\
+      \ once per day requiring no material components.\n\n**1/day:** [[animate-objects-xphb]]"
     "name": "Innate Spellcasting"
   - "desc": "If Hythonia fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -72,7 +72,7 @@ While the medusa's victims have dwindled, tales of the medusa queen and the divi
       \ The [restrained](Compendium/rules/conditions.md#Restrained) creature must\
       \ repeat the saving throw at the end of its next turn, becoming [petrified](Compendium/rules/conditions.md#Petrified)\
       \ on a failure or ending the effect on a success. The petrification lasts until\
-      \ the creature is freed by the [greater restoration](Compendium/spells/greater-restoration-xphb.md)\
+      \ the creature is freed by the [[greater-restoration-xphb]]\
       \ spell or other magic. Unless [surprised](Compendium/rules/conditions.md#Surprised),\
       \ a creature can avert its eyes to avoid the saving throw at the start of its\
       \ turn. If the creature does so, it can't see Hythonia until the start of its\
@@ -116,7 +116,7 @@ While the medusa's victims have dwindled, tales of the medusa queen and the divi
       \ damage and become [poisoned](Compendium/rules/conditions.md#Poisoned) until\
       \ the end of its next turn. While [poisoned](Compendium/rules/conditions.md#Poisoned)\
       \ in this way, the creature has disadvantage on Intelligence checks and Intelligence\
-      \ saving throws, and it behaves as if under the effect of the [confusion](Compendium/spells/confusion-xphb.md)\
+      \ saving throws, and it behaves as if under the effect of the [[confusion-xphb]]\
       \ spell.  "
     "name": ""
 "regional_effects":

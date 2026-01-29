@@ -20,7 +20,7 @@ Soldiers are found in many of Ravnica's guilds. The soldier stat block represent
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[chain mail](Compendium/items/chain-mail-xphb.md), [shield](Compendium/items/shield-xphb.md)"
+"ac_class": "[[chain-mail-xphb]], [[shield-xphb]]"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "1"

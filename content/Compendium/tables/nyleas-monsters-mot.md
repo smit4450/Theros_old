@@ -14,17 +14,17 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/2 | [Scout](Compendium/bestiary/humanoid/scout-xmm.md) |
-| 1 | [Dryad](Compendium/bestiary/fey/dryad-xmm.md) |
-| 1 | Nyxborn [brown bear](Compendium/bestiary/beast/brown-bear-xmm.md)* |
-| 2 | Nyxborn [saber-toothed tiger](Compendium/bestiary/beast/saber-toothed-tiger-xmm.md)* |
-| 2 | [Satyr thornbearer](Compendium/bestiary/fey/satyr-thornbearer-mot.md) |
-| 3 | [Archer](Compendium/bestiary/humanoid/archer-vgm.md) |
-| 5 | [Shambling mound](Compendium/bestiary/plant/shambling-mound-xmm.md) |
-| 5 | [Unicorn](Compendium/bestiary/celestial/unicorn-xmm.md)* |
-| 9 | [Treant](Compendium/bestiary/plant/treant-xmm.md) |
-| 12 | [Ironscale hydra](Compendium/bestiary/monstrosity/ironscale-hydra-mot.md) |
-| 19 | [Polukranos](Compendium/bestiary/npc/polukranos-mot.md) |
+| 1/2 | [[scout-xmm]] |
+| 1 | [[dryad-xmm]] |
+| 1 | Nyxborn [[brown-bear-xmm]]* |
+| 2 | Nyxborn [[saber-toothed-tiger-xmm]]* |
+| 2 | [[satyr-thornbearer-mot]] |
+| 3 | [[archer-vgm]] |
+| 5 | [[shambling-mound-xmm]] |
+| 5 | [[unicorn-xmm]]* |
+| 9 | [[treant-xmm]] |
+| 12 | [[ironscale-hydra-mot]] |
+| 19 | [[polukranos-mot]] |
 ^nyleas-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

@@ -29,21 +29,21 @@ aliases:
 
 
 
-You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to lightning damage while you wear this armor.
+You have [[resistance-xphb]] to lightning damage while you wear this armor.
 
 **Variants**:
-- [[#Breastplate of Lightning Resistance|Breastplate of Lightning Resistance]]
-- [[#Chain Mail of Lightning Resistance|Chain Mail of Lightning Resistance]]
-- [[#Chain Shirt of Lightning Resistance|Chain Shirt of Lightning Resistance]]
-- [[#Half Plate Armor of Lightning Resistance|Half Plate Armor of Lightning Resistance]]
-- [[#Hide Armor of Lightning Resistance|Hide Armor of Lightning Resistance]]
-- [[#Leather Armor of Lightning Resistance|Leather Armor of Lightning Resistance]]
-- [[#Padded Armor of Lightning Resistance|Padded Armor of Lightning Resistance]]
-- [[#Plate Armor of Lightning Resistance|Plate Armor of Lightning Resistance]]
-- [[#Ring Mail of Lightning Resistance|Ring Mail of Lightning Resistance]]
-- [[#Scale Mail of Lightning Resistance|Scale Mail of Lightning Resistance]]
-- [[#Splint Armor of Lightning Resistance|Splint Armor of Lightning Resistance]]
-- [[#Studded Leather Armor of Lightning Resistance|Studded Leather Armor of Lightning Resistance]]
+-  [[#Breastplate of Lightning Resistance]]
+-  [[#Chain Mail of Lightning Resistance]]
+-  [[#Chain Shirt of Lightning Resistance]]
+-  [[#Half Plate Armor of Lightning Resistance]]
+-  [[#Hide Armor of Lightning Resistance]]
+-  [[#Leather Armor of Lightning Resistance]]
+-  [[#Padded Armor of Lightning Resistance]]
+-  [[#Plate Armor of Lightning Resistance]]
+-  [[#Ring Mail of Lightning Resistance]]
+-  [[#Scale Mail of Lightning Resistance]]
+-  [[#Splint Armor of Lightning Resistance]]
+-  [[#Studded Leather Armor of Lightning Resistance]]
 
 ### Breastplate of Lightning Resistance
 

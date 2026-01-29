@@ -57,8 +57,8 @@ A nymph doesn't require food, drink, or sleep.
 "traits":
   - "desc": "The lampad's spellcasting ability is Charisma (+6 to hit with spell\
       \ attacks). It can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** [chill touch](Compendium/spells/chill-touch-xphb.md)\
-      \ (see \"Actions\" below), [gentle repose](Compendium/spells/gentle-repose-xphb.md)"
+      \ components:\n\n**At will:** [[chill-touch-xphb]]\
+      \ (see \"Actions\" below), [[gentle-repose-xphb]]"
     "name": "Innate Spellcasting"
   - "desc": "Once on its turn, the lampad can use 10 feet of its movement to step\
       \ magically into one creature's corpse within its reach and emerge from a second\

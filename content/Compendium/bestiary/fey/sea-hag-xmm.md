@@ -20,7 +20,7 @@ aliases: ["Sea Hag"]
 *Hag of Despair and the Dismal Deep*
 
 - **Habitat.** Coastal, Underwater  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana]]  
 
 Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos and undermine joy however they can, undertaking elaborate deceptions to sow discord for its own sake. The hags' true forms are supernaturally vile, and their baleful gazes can strike down creatures [frightened](Compendium/rules/conditions.md#Frightened) by their appearance.
 
@@ -62,10 +62,10 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
   - "desc": "While within 30 feet of at least two hag allies, the hag can cast one\
       \ of the following spells, requiring no Material components, using the spell's\
       \ normal casting time, and using Intelligence as the spellcasting ability (spell\
-      \ save DC 11): [Augury](Compendium/spells/augury-xphb.md), [Find Familiar](Compendium/spells/find-familiar-xphb.md),\
-      \ [Identify](Compendium/spells/identify-xphb.md), [Locate Object](Compendium/spells/locate-object-xphb.md),\
-      \ [Scrying](Compendium/spells/scrying-xphb.md), or [Unseen Servant](Compendium/spells/unseen-servant-xphb.md).\
-      \ The hag must finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md)\
+      \ save DC 11): [[augury-xphb]], [[find-familiar-xphb]],\
+      \ [[identify-xphb]], [[locate-object-xphb]],\
+      \ [[scrying-xphb]], or [[unseen-servant-xphb]].\
+      \ The hag must finish a [[long-rest-xphb]]\
       \ before using this trait to cast that spell again.\n"
     "name": "Coven Magic"
   - "desc": "The hag can breathe air and water."
@@ -83,10 +83,10 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
   - "desc": "*Wisdom Saving Throw:* DC 11, one [Frightened](Compendium/rules/conditions.md#Frightened)\
       \ creature the hag can see within 30 feet. *Failure:* If the target has 20 [Hit\
       \ Points](Compendium/rules/variant-rules/hit-points-xphb.md) or fewer, it drops\
-      \ to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). Otherwise,\
+      \ to 0 [[hit-points-xphb]]. Otherwise,\
       \ the target takes 13 (3d8) Psychic damage."
     "name": "Death Glare (Recharge 5-6)"
-  - "desc": "The hag casts [Disguise Self](Compendium/spells/disguise-self-xphb.md),\
+  - "desc": "The hag casts [[disguise-self-xphb]],\
       \ using Constitution as the spellcasting ability (spell save DC 13). The spell's\
       \ duration is 24 hours.\n"
     "name": "Illusory Appearance"

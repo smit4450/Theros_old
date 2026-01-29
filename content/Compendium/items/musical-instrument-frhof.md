@@ -17,8 +17,8 @@ aliases:
 
 **Items in this group:**
 
-- [Bandore](Compendium/items/bandore-frhof.md)
-- [Cittern](Compendium/items/cittern-frhof.md)
-- [Yarting](Compendium/items/yarting-frhof.md)
+- [[bandore-frhof]]
+- [[cittern-frhof]]
+- [[yarting-frhof]]
 
 *Source: FRHoF p. 132*

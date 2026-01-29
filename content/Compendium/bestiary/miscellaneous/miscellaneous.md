@@ -6,6 +6,6 @@ cssclasses:
 ---
 # Index of Miscellaneous
 
-- [[empyrean-iota-xmm|Empyrean Iota]]
-- [[empyrean-xmm|Empyrean]]
-- [[otherworldly-steed-xphb|Otherworldly Steed]]
+-  [[empyrean-iota-xmm]]
+-  [[empyrean-xmm]]
+-  [[otherworldly-steed-xphb]]

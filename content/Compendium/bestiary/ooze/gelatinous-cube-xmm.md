@@ -62,8 +62,8 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
 "traits":
   - "desc": "The cube fills its entire space and is transparent. Other creatures can\
       \ enter that space, but a creature that does so is subjected to the cube's Engulf\
-      \ and has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
-      \ on the saving throw.\n\nCreatures inside the cube have [Total Cover](Compendium/rules/variant-rules/cover-xphb.md),\
+      \ and has [[disadvantage-xphb]]\
+      \ on the saving throw.\n\nCreatures inside the cube have [[cover-xphb]],\
       \ and the cube can hold one Large creature or up to four Medium or Small creatures\
       \ inside itself at a time.\n\nAs an action, a creature within 5 feet of the\
       \ cube can pull a creature or an object out of the cube by succeeding on a DC\
@@ -77,10 +77,10 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 12 (3d6 + 2) Acid damage."
     "name": "Pseudopod"
-  - "desc": "The cube moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+  - "desc": "The cube moves up to its [[speed-xphb]]\
       \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).\
       \ The cube can move through the spaces of Large or smaller creatures if it has\
-      \ room inside itself to contain them (see the Ooze [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)\
+      \ room inside itself to contain them (see the Ooze [[cube-area-of-effect-xphb]]\
       \ trait). *Dexterity Saving Throw:* DC 12, each creature whose space the cube\
       \ enters for the first time during this move. *Failure:* 10 (3d6) Acid damage,\
       \ and the target is engulfed. An engulfed target is suffocating, can't cast\

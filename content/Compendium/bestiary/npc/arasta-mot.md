@@ -129,7 +129,7 @@ See "Myths of Nylea" in chapter 2 for more details on the tragedy of Arasta.
 "legendary_actions":
   - "desc": "Arasta makes one attack with her claws."
     "name": "Claws"
-  - "desc": "Arasta causes two [swarms of spiders](Compendium/bestiary/beast/swarm-of-insects-xmm.md)\
+  - "desc": "Arasta causes two [[swarm-of-insects-xmm]]\
       \ to appear in unoccupied spaces within 5 feet of her."
     "name": "Swarm (Costs 2 Actions)"
   - "desc": "Each creature [restrained](Compendium/rules/conditions.md#Restrained)\

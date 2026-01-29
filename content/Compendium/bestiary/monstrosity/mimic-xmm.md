@@ -127,10 +127,10 @@ Weapon rack
   - "desc": "The mimic adheres to anything that touches it. A Huge or smaller creature\
       \ adhered to the mimic has the [Grappled](Compendium/rules/conditions.md#Grappled)\
       \ condition (escape DC 13). Ability checks made to escape this grapple have\
-      \ [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)."
+      \ [[disadvantage-xphb]]."
     "name": "Adhesive (Object Form Only)"
 "actions":
-  - "desc": "*Melee Attack Roll:* +5 (with [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "*Melee Attack Roll:* +5 (with [[advantage-xphb]]\
       \ if the target is [Grappled](Compendium/rules/conditions.md#Grappled) by the\
       \ mimic), reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage—or 12 (2d8 + 3)\
       \ Piercing damage if the target is [Grappled](Compendium/rules/conditions.md#Grappled)\
@@ -139,7 +139,7 @@ Weapon rack
   - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning\
       \ damage plus 4 (1d8) Acid damage. If the target is a Large or smaller creature,\
       \ it has the [Grappled](Compendium/rules/conditions.md#Grappled) condition (escape\
-      \ DC 13). Ability checks made to escape this grapple have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)."
+      \ DC 13). Ability checks made to escape this grapple have [[disadvantage-xphb]]."
     "name": "Pseudopod"
 "bonus_actions":
   - "desc": "The mimic shape-shifts to resemble a Medium or Small object while retaining\

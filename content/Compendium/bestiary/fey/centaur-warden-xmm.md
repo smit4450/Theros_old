@@ -24,7 +24,7 @@ Centaur wardens often lead groups of centaur troopers and act as intermediaries 
 *Defenders of the Feywild*
 
 - **Habitat.** Forest, Grassland, Planar (Feywild)  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [[random-magic-items-armaments]], Individual  
 
 Centaurs are defenders of forests, plains, and sites of primeval power. With upper bodies like humans' and the lower bodies of horses, centaurs charge into battle against those who would harm their allies.
 ## Statblock
@@ -70,11 +70,11 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
       \ condition until the start of the centaur's next turn."
     "name": "Sun Ray"
   - "desc": "The centaur casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 15):\n\n**At will:** [Druidcraft](Compendium/spells/druidcraft-xphb.md),\
-      \ [Speak with Animals](Compendium/spells/speak-with-animals-xphb.md)"
+      \ ability (spell save DC 15):\n\n**At will:** [[druidcraft-xphb]],\
+      \ [[speak-with-animals-xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The centaur moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+  - "desc": "The centaur moves up to its [[speed-xphb]]\
       \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).\
       \ Each creature within 5 feet of the centaur as it moves is targeted once by\
       \ the following effect. *Strength Saving Throw:* DC 15. *Failure:* 11 (2d6\

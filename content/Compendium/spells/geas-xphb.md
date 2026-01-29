@@ -35,10 +35,10 @@ While [Charmed](Compendium/rules/conditions.md#Charmed), the creature takes `5d1
 
 You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
 
-A [Remove Curse](Compendium/spells/remove-curse-xphb.md), [Greater Restoration](Compendium/spells/greater-restoration-xphb.md), or [Wish](Compendium/spells/wish-xphb.md) spell ends this spell.
+A [[remove-curse-xphb]], [[greater-restoration-xphb]], or [[wish-xphb]] spell ends this spell.
 
 **Using a Higher-Level Spell Slot.** If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above.
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Warlock (Fiend Patron)](Compendium/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]; [[list-spells-classes-paladin]]; [Warlock (Fiend Patron)](Compendium/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 
 *Source: Player's Handbook (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

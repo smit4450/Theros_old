@@ -34,18 +34,18 @@ Bound into this armor is a cantrip. The cantrip is determined when the armor is 
 The spell's saving throw DC is 13, and its attack bonus is `+5`.
 
 **Variants**:
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Breastplate]] Breastplate)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Chain Mail]] Chain Mail)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Chain Shirt]] Chain Shirt)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Half Plate Armor]] Half Plate Armor)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Hide Armor]] Hide Armor)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Leather Armor]] Leather Armor)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Padded Armor]] Padded Armor)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Plate Armor]] Plate Armor)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Ring Mail]] Ring Mail)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Scale Mail]] Scale Mail)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Splint Armor]] Splint Armor)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Studded Leather Armor]] Studded Leather Armor)
+-  [[#Enspelled (Cantrip]] Breastplate)
+-  [[#Enspelled (Cantrip]] Chain Mail)
+-  [[#Enspelled (Cantrip]] Chain Shirt)
+-  [[#Enspelled (Cantrip]] Half Plate Armor)
+-  [[#Enspelled (Cantrip]] Hide Armor)
+-  [[#Enspelled (Cantrip]] Leather Armor)
+-  [[#Enspelled (Cantrip]] Padded Armor)
+-  [[#Enspelled (Cantrip]] Plate Armor)
+-  [[#Enspelled (Cantrip]] Ring Mail)
+-  [[#Enspelled (Cantrip]] Scale Mail)
+-  [[#Enspelled (Cantrip]] Splint Armor)
+-  [[#Enspelled (Cantrip]] Studded Leather Armor)
 
 ### Enspelled (Cantrip) Breastplate
 

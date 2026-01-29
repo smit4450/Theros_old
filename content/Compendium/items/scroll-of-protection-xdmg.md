@@ -17,20 +17,20 @@ Each Scroll of Protection works against creatures of a specific creature type ch
 
 | dice: 1d100 | Creature Type |
 |-------------|---------------|
-| 01-10 | [Aberrations](Compendium/items/scroll-of-protection-aberrations-xdmg.md) |
-| 11-15 | [Beasts](Compendium/items/scroll-of-protection-beasts-xdmg.md) |
-| 16-20 | [Celestials](Compendium/items/scroll-of-protection-celestials-xdmg.md) |
-| 21-25 | [Constructs](Compendium/items/scroll-of-protection-constructs-xdmg.md) |
-| 26-35 | [Dragons](Compendium/items/scroll-of-protection-dragons-xdmg.md) |
-| 36-45 | [Elementals](Compendium/items/scroll-of-protection-elementals-xdmg.md) |
-| 46-50 | [Humanoids](Compendium/items/scroll-of-protection-humanoids-xdmg.md) |
-| 51-60 | [Fey](Compendium/items/scroll-of-protection-fey-xdmg.md) |
-| 61-70 | [Fiends](Compendium/items/scroll-of-protection-fiends-xdmg.md) |
-| 71-75 | [Giants](Compendium/items/scroll-of-protection-giants-xdmg.md) |
-| 76-80 | [Monstrosities](Compendium/items/scroll-of-protection-monstrosities-xdmg.md) |
-| 81-85 | [Oozes](Compendium/items/scroll-of-protection-oozes-xdmg.md) |
-| 86-90 | [Plants](Compendium/items/scroll-of-protection-plants-xdmg.md) |
-| 91-00 | [Undead](Compendium/items/scroll-of-protection-undead-xdmg.md) |
+| 01-10 | [[scroll-of-protection-aberrations-xdmg]] |
+| 11-15 | [[scroll-of-protection-beasts-xdmg]] |
+| 16-20 | [[scroll-of-protection-celestials-xdmg]] |
+| 21-25 | [[scroll-of-protection-constructs-xdmg]] |
+| 26-35 | [[scroll-of-protection-dragons-xdmg]] |
+| 36-45 | [[scroll-of-protection-elementals-xdmg]] |
+| 46-50 | [[scroll-of-protection-humanoids-xdmg]] |
+| 51-60 | [[scroll-of-protection-fey-xdmg]] |
+| 61-70 | [[scroll-of-protection-fiends-xdmg]] |
+| 71-75 | [[scroll-of-protection-giants-xdmg]] |
+| 76-80 | [[scroll-of-protection-monstrosities-xdmg]] |
+| 81-85 | [[scroll-of-protection-oozes-xdmg]] |
+| 86-90 | [[scroll-of-protection-plants-xdmg]] |
+| 91-00 | [[scroll-of-protection-undead-xdmg]] |
 ^1-creature-type
 
 Using a [Magic](Compendium/rules/actions.md#Magic) action to read the scroll creates a 5-foot Emanation originating from you. For 5 minutes, creatures of the specified type can't enter or affect anything in the area. However, if you move in such a way that a creature of the specified type would be inside the area, the effect ends.
@@ -39,19 +39,19 @@ As a [Magic](Compendium/rules/actions.md#Magic) action, a creature within 5 feet
 
 **Items in this group:**
 
-- [Scroll of Protection (Aberrations)](Compendium/items/scroll-of-protection-aberrations-xdmg.md)
-- [Scroll of Protection (Beasts)](Compendium/items/scroll-of-protection-beasts-xdmg.md)
-- [Scroll of Protection (Celestials)](Compendium/items/scroll-of-protection-celestials-xdmg.md)
-- [Scroll of Protection (Constructs)](Compendium/items/scroll-of-protection-constructs-xdmg.md)
-- [Scroll of Protection (Dragons)](Compendium/items/scroll-of-protection-dragons-xdmg.md)
-- [Scroll of Protection (Elementals)](Compendium/items/scroll-of-protection-elementals-xdmg.md)
-- [Scroll of Protection (Humanoids)](Compendium/items/scroll-of-protection-humanoids-xdmg.md)
-- [Scroll of Protection (Fey)](Compendium/items/scroll-of-protection-fey-xdmg.md)
-- [Scroll of Protection (Fiends)](Compendium/items/scroll-of-protection-fiends-xdmg.md)
-- [Scroll of Protection (Giants)](Compendium/items/scroll-of-protection-giants-xdmg.md)
-- [Scroll of Protection (Monstrosities)](Compendium/items/scroll-of-protection-monstrosities-xdmg.md)
-- [Scroll of Protection (Oozes)](Compendium/items/scroll-of-protection-oozes-xdmg.md)
-- [Scroll of Protection (Plants)](Compendium/items/scroll-of-protection-plants-xdmg.md)
-- [Scroll of Protection (Undead)](Compendium/items/scroll-of-protection-undead-xdmg.md)
+- [[scroll-of-protection-aberrations-xdmg]]
+- [[scroll-of-protection-beasts-xdmg]]
+- [[scroll-of-protection-celestials-xdmg]]
+- [[scroll-of-protection-constructs-xdmg]]
+- [[scroll-of-protection-dragons-xdmg]]
+- [[scroll-of-protection-elementals-xdmg]]
+- [[scroll-of-protection-humanoids-xdmg]]
+- [[scroll-of-protection-fey-xdmg]]
+- [[scroll-of-protection-fiends-xdmg]]
+- [[scroll-of-protection-giants-xdmg]]
+- [[scroll-of-protection-monstrosities-xdmg]]
+- [[scroll-of-protection-oozes-xdmg]]
+- [[scroll-of-protection-plants-xdmg]]
+- [[scroll-of-protection-undead-xdmg]]
 
 *Source: Dungeon Master's Guide (2024) p. 302*

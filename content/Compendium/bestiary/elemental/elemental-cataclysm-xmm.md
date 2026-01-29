@@ -93,16 +93,16 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
     "name": "Elemental Burst"
   - "desc": "The cataclysm creates one of the following effects at random (roll 1d4):\n\
       \n- **1 Clinging Flames.** *Dexterity Saving Throw:* DC 23, each creature in\
-      \ a 60-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ a 60-foot-radius [[sphere-area-of-effect-xphb]]\
       \ centered on a point the cataclysm can see within 150 feet. *Failure:* 45 (13d6)\
       \ Fire damage. *Success:* Half damage. *Failure or Success:* The target starts\
-      \ [burning](Compendium/traps-hazards/burning-xphb.md).  \n- **2 Freezing Waves.**\
-      \ *Strength Saving Throw:* DC 23, each creature in a 90-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ [[burning-xphb]].  \n- **2 Freezing Waves.**\
+      \ *Strength Saving Throw:* DC 23, each creature in a 90-foot [[cone-area-of-effect-xphb]].\
       \ *Failure:* 22 (5d8) Bludgeoning damage plus 22 (5d8) Cold damage, and\
       \ the target has the [Prone](Compendium/rules/conditions.md#Prone) condition.\
-      \ *Success:* Half damage only. *Failure or Success:* The target's [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+      \ *Success:* Half damage only. *Failure or Success:* The target's [[speed-xphb]]\
       \ is reduced to 0 until the end of its next turn.  \n- **3 Raging Storm.** A\
-      \ storm cloud fills a 60-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ storm cloud fills a 60-foot-radius [[sphere-area-of-effect-xphb]]\
       \ centered on a point the cataclysm can see within 150 feet. The cloud lasts\
       \ for 1 minute or until the cataclysm uses Cataclysmic Event again. Creatures\
       \ entirely in the cloud have the [Blinded](Compendium/rules/conditions.md#Blinded)\
@@ -111,17 +111,17 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
       \ creature that enters the cloud for the first time on a turn or starts its\
       \ turn there. *Failure:* 18 (4d8) Lightning damage plus 18 (4d8) Thunder\
       \ damage. *Success:* Half damage.  \n- **4 Swallowing Earth.** *Strength Saving\
-      \ Throw:* DC 23, each creature in a 90-foot [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)\
+      \ Throw:* DC 23, each creature in a 90-foot [[cube-area-of-effect-xphb]]\
       \ originating from a point on the ground within 150 feet. *Failure:* 18 (4d8)\
       \ Bludgeoning damage plus 18 (4d8) Acid damage, and the target has the [Prone](Compendium/rules/conditions.md#Prone)\
       \ condition and is buried under rubble. A buried target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
-      \ condition, has [Total Cover](Compendium/rules/variant-rules/cover-xphb.md),\
+      \ condition, has [[cover-xphb]],\
       \ and is suffocating. As an action, a buried creature or another creature within\
       \ 5 feet of it can make a DC 18 Strength ([Athletics](Compendium/rules/skills.md#Athletics))\
       \ check. On a successful check, the creature is no longer buried. *Success:*\
       \ Half damage only.  "
     "name": "Cataclysmic Event (Recharge 4-6)"
-  - "desc": "The cataclysm casts the [Control Weather](Compendium/spells/control-weather-xphb.md)\
+  - "desc": "The cataclysm casts the [[control-weather-xphb]]\
       \ spell, requiring no spell components and using Constitution as the spellcasting\
       \ ability.\n"
     "name": "Control Weather"
@@ -132,8 +132,8 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
 "legendary_actions":
   - "desc": "The cataclysm makes one Elemental Burst attack."
     "name": "Eruption"
-  - "desc": "The cataclysm moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
-      \ [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md), or [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md)\
+  - "desc": "The cataclysm moves up to its [[speed-xphb]],\
+      \ [[fly-speed-xphb]], or [[swim-speed-xphb]]\
       \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).\
       \ Each creature within 5 feet of the cataclysm as it moves is targeted once\
       \ by the following effect. *Constitution Saving Throw:* DC 23. *Failure:* The\

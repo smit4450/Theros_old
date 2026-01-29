@@ -14,9 +14,9 @@ aliases:
 
 | Type | Amount | Storage | Weight | Cost |
 |------|--------|---------|--------|------|
-| [Arrows](Compendium/items/arrows-20-xphb.md) | 20 | [Quiver](Compendium/items/quiver-xphb.md) | 1 lb. | 1 GP |
-| [Bolts](Compendium/items/bolts-20-xphb.md) | 20 | [Case](Compendium/items/crossbow-bolt-case-xphb.md) | 1½ lb. | 1 GP |
-| [Bullets, Firearm](Compendium/items/firearm-bullets-10-xphb.md) | 10 | [Pouch](Compendium/items/pouch-xphb.md) | 2 lb. | 3 GP |
-| [Bullets, Sling](Compendium/items/sling-bullet-xphb.md) | 20 | [Pouch](Compendium/items/pouch-xphb.md) | 1½ lb. | 4 CP |
-| [Needles](Compendium/items/needles-50-xphb.md) | 50 | [Pouch](Compendium/items/pouch-xphb.md) | 1 lb. | 1 GP |
+| [[arrows-20-xphb]] ]] | 1 lb. | 1 GP |
+| [[bolts-20-xphb]] ]] | 1½ lb. | 1 GP |
+| [[firearm-bullets-10-xphb]] ]] | 2 lb. | 3 GP |
+| [[sling-bullet-xphb]] ]] | 1½ lb. | 4 CP |
+| [[needles-50-xphb]] ]] | 1 lb. | 1 GP |
 ^ammunition

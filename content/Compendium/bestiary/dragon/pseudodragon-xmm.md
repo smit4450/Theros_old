@@ -24,7 +24,7 @@ aliases: ["Pseudodragon"]
 *Fickle, Pint-Sized Dragon*
 
 - **Habitat.** Coastal, Desert, Forest, Hill, Mountain, Urban  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana]]  
 
 Pseudodragons dwell in scenic wildernesses, preferably where life is easy and prey is small and slow. There they behave like contented wyrms, creating tiny lairs amid ancient trees and rugged cliffs. They fill these lairs with shiny rocks, colorful shells, and unattended treasures that catch their attention, and they guard these hoards fiercely.
 
@@ -81,7 +81,7 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
 "languages": "understands Common and Draconic but can't speak"
 "cr": "1/4"
 "traits":
-  - "desc": "The pseudodragon has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The pseudodragon has [[advantage-xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":

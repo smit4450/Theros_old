@@ -36,7 +36,7 @@ You alter your physical form. Choose one of the following options. Its effects l
 
 ## Aquatic Adaptation
 
-You sprout gills and grow webs between your fingers. You can breathe underwater and gain a [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md) equal to your [Speed](Compendium/rules/variant-rules/speed-xphb.md).
+You sprout gills and grow webs between your fingers. You can breathe underwater and gain a [[swim-speed-xphb]] equal to your [[speed-xphb]].
 
 ## Change Appearance
 
@@ -44,10 +44,10 @@ You alter your appearance. You decide what you look like, including your height,
 
 ## Natural Weapons
 
-You grow claws (Slashing), fangs (Piercing), horns (Piercing), or hooves (Bludgeoning). When you use your [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md) to deal damage with that new growth, it deals `1d6` damage of the type in parentheses instead of dealing the normal damage for your [Unarmed Strike](Compendium/rules/variant-rules/unarmed-strike-xphb.md), and you use your spellcasting ability modifier for the attack and damage rolls rather than using Strength.
+You grow claws (Slashing), fangs (Piercing), horns (Piercing), or hooves (Bludgeoning). When you use your [[unarmed-strike-xphb]] to deal damage with that new growth, it deals `1d6` damage of the type in parentheses instead of dealing the normal damage for your [[unarmed-strike-xphb]], and you use your spellcasting ability modifier for the attack and damage rolls rather than using Strength.
 
 ## Summary
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](Compendium/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](Compendium/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer]]; [[list-spells-classes-wizard]]
 
 *Source: Player's Handbook (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -92,7 +92,7 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
       \ damage plus 14 (4d6) Poison damage."
     "name": "Pistol"
 "bonus_actions":
-  - "desc": "The bandit gives itself [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The bandit gives itself [[advantage-xphb]]\
       \ on the next attack roll it makes during the current turn. If that attack hits,\
       \ the target takes an extra 28 (8d6) Poison damage."
     "name": "Deadly Aim"

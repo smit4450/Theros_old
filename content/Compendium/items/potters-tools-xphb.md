@@ -17,6 +17,6 @@ aliases:
 
 - **Ability.** Intelligence  
 - **Utilize.** Discern what a ceramic object held in the past 24 hours (DC 15)  
-- **Craft.** [Jug](Compendium/items/jug-xphb.md), [Lamp](Compendium/items/lamp-xphb.md)  
+- **Craft.** [[jug-xphb]], [[lamp-xphb]]  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

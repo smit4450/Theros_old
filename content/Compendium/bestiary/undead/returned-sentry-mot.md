@@ -24,7 +24,7 @@ Returned reenter the world blank and undead. No longer possessing the ability to
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
-"ac_class": "[leather armor](Compendium/items/leather-armor-xphb.md), [shield](Compendium/items/shield-xphb.md)"
+"ac_class": "[[leather-armor-xphb]], [[shield-xphb]]"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "2"

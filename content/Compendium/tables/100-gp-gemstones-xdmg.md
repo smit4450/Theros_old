@@ -14,14 +14,14 @@ aliases:
 
 | dice: 1d10 | Stone |
 |------------|-------|
-| 1 | [Amber](Compendium/items/amber-xdmg.md) (watery gold to rich gold) |
-| 2 | [Amethyst](Compendium/items/amethyst-xdmg.md) (deep purple) |
-| 3 | [Chrysoberyl](Compendium/items/chrysoberyl-xdmg.md) (yellow green to pale green) |
-| 4 | [Coral](Compendium/items/coral-xdmg.md) (crimson) |
-| 5 | [Garnet](Compendium/items/garnet-xdmg.md) (red, brown green, or violet) |
-| 6 | [Jade](Compendium/items/jade-xdmg.md) (light green, deep green, or white) |
-| 7 | [Jet](Compendium/items/jet-xdmg.md) (deep black) |
-| 8 | [Pearl](Compendium/items/pearl-xdmg.md) (lustrous white, yellow, or pink) |
-| 9 | [Spinel](Compendium/items/spinel-xdmg.md) (red, red brown, or deep green) |
-| 10 | [Tourmaline](Compendium/items/tourmaline-xdmg.md) (pale green, blue, brown, or red) |
+| 1 | [[amber-xdmg]] (watery gold to rich gold) |
+| 2 | [[amethyst-xdmg]] (deep purple) |
+| 3 | [[chrysoberyl-xdmg]] (yellow green to pale green) |
+| 4 | [[coral-xdmg]] (crimson) |
+| 5 | [[garnet-xdmg]] (red, brown green, or violet) |
+| 6 | [[jade-xdmg]] (light green, deep green, or white) |
+| 7 | [[jet-xdmg]] (deep black) |
+| 8 | [[pearl-xdmg]] (lustrous white, yellow, or pink) |
+| 9 | [[spinel-xdmg]] (red, red brown, or deep green) |
+| 10 | [[tourmaline-xdmg]] (pale green, blue, brown, or red) |
 ^100-gp-gemstones

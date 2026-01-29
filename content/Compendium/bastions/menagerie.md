@@ -28,19 +28,19 @@ Creatures in your Menagerie count as Bastion Defenders. Deduct any you lose from
 
 | Creature | Size | Cost |
 |----------|------|------|
-| [Ape](Compendium/bestiary/beast/ape-xmm.md) | Medium | 500 GP |
-| [Black Bear](Compendium/bestiary/beast/black-bear-xmm.md) | Medium | 500 GP |
-| [Brown Bear](Compendium/bestiary/beast/brown-bear-xmm.md) | Large | 1,000 GP |
-| [Constrictor Snake](Compendium/bestiary/beast/constrictor-snake-xmm.md) | Large | 250 GP |
-| [Crocodile](Compendium/bestiary/beast/crocodile-xmm.md) | Large | 500 GP |
-| [Dire Wolf](Compendium/bestiary/beast/dire-wolf-xmm.md) | Large | 1,000 GP |
-| [Giant Vulture](Compendium/bestiary/monstrosity/giant-vulture-xmm.md) | Large | 1,000 GP |
-| [Hyena](Compendium/bestiary/beast/hyena-xmm.md) | Medium | 50 GP |
-| [Jackal](Compendium/bestiary/beast/jackal-xmm.md) | Small | 50 GP |
-| [Lion](Compendium/bestiary/beast/lion-xmm.md) | Large | 1,000 GP |
-| [Owlbear](Compendium/bestiary/monstrosity/owlbear-xmm.md) | Large | 3,500 GP |
-| [Panther](Compendium/bestiary/beast/panther-xmm.md) | Medium | 250 GP |
-| [Tiger](Compendium/bestiary/beast/tiger-xmm.md) | Large | 1,000 GP |
+| [[ape-xmm]] | Medium | 500 GP |
+| [[black-bear-xmm]] | Medium | 500 GP |
+| [[brown-bear-xmm]] | Large | 1,000 GP |
+| [[constrictor-snake-xmm]] | Large | 250 GP |
+| [[crocodile-xmm]] | Large | 500 GP |
+| [[dire-wolf-xmm]] | Large | 1,000 GP |
+| [[giant-vulture-xmm]] | Large | 1,000 GP |
+| [[hyena-xmm]] | Medium | 50 GP |
+| [[jackal-xmm]] | Small | 50 GP |
+| [[lion-xmm]] | Large | 1,000 GP |
+| [[owlbear-xmm]] | Large | 3,500 GP |
+| [[panther-xmm]] | Medium | 250 GP |
+| [[tiger-xmm]] | Large | 1,000 GP |
 ^menagerie-creatures
 
 With the DM's consent, you can add different creatures than those shown in the Menagerie Creatures table to your Menagerie. The cost of a creature depends on its Challenge Rating, as shown on the Creature Costs by Challenge Rating table. Typically only Beasts and some Monstrosities can be kept in a Menagerie, though the DM might allow other creatures.

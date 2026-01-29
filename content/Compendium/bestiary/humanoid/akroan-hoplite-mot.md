@@ -66,7 +66,7 @@ The three Hoplite Unit Names tables present the sorts of titles used by hoplite 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[breastplate](Compendium/items/breastplate-xphb.md), [shield](Compendium/items/shield-xphb.md)"
+"ac_class": "[[breastplate-xphb]], [[shield-xphb]]"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "3"

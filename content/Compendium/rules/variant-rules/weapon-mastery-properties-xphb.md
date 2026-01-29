@@ -30,7 +30,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 ## Sap
 
-If you hit a creature with this weapon, that creature has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on its next attack roll before the start of your next turn.
+If you hit a creature with this weapon, that creature has [[disadvantage-xphb]] on its next attack roll before the start of your next turn.
 
 ## Slow
 
@@ -42,4 +42,4 @@ If you hit a creature with this weapon, you can force the creature to make a Con
 
 ## Vex
 
-If you hit a creature with this weapon and deal damage to the creature, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on your next attack roll against that creature before the end of your next turn.
+If you hit a creature with this weapon and deal damage to the creature, you have [[advantage-xphb]] on your next attack roll against that creature before the end of your next turn.

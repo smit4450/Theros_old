@@ -13,6 +13,6 @@ aliases:
 
 You gain the following benefits.
 
-**Initiative Proficiency.** When you roll [Initiative](Compendium/rules/variant-rules/initiative-xphb.md), you can add your [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) to the roll.
+**Initiative Proficiency.** When you roll [[initiative-xphb]], you can add your [[proficiency-xphb]] to the roll.
 
-**Initiative Swap.** Immediately after you roll [Initiative](Compendium/rules/variant-rules/initiative-xphb.md), you can swap your [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) with the [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) of one willing ally in the same combat. You can't make this swap if you or the ally has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+**Initiative Swap.** Immediately after you roll [[initiative-xphb]], you can swap your [[initiative-xphb]] with the [[initiative-xphb]] of one willing ally in the same combat. You can't make this swap if you or the ally has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.

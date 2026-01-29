@@ -47,23 +47,23 @@ aliases: ["Annis Hag (Coven; Nature)"]
 "traits":
   - "desc": "While all three members of a hag coven are within 30 feet of one another,\
       \ they can each cast the following spells from the wizard's spell list but must\
-      \ share the spell slots among themselves:\n\n**1st level (4 slots):** [entangle](Compendium/spells/entangle-xphb.md),\
-      \ [speak with animals](Compendium/spells/speak-with-animals-xphb.md)\n\n**2nd\
-      \ level (3 slots):** [flaming sphere](Compendium/spells/flaming-sphere-xphb.md),\
-      \ [moonbeam](Compendium/spells/moonbeam-xphb.md), [spike growth](Compendium/spells/spike-growth-xphb.md)\n\
-      \n**3rd level (3 slots):** [call lightning](Compendium/spells/call-lightning-xphb.md),\
-      \ [plant growth](Compendium/spells/plant-growth-xphb.md)\n\n**4th level (3 slots):**\
-      \ [dominate beast](Compendium/spells/dominate-beast-xphb.md), [grasping vine](Compendium/spells/grasping-vine-xphb.md)\n\
-      \n**5th level (2 slots):** [insect plague](Compendium/spells/insect-plague-xphb.md),\
-      \ [tree stride](Compendium/spells/tree-stride-xphb.md)\n\n**6th level (1 slots):**\
-      \ [wall of thorns](Compendium/spells/wall-of-thorns-xphb.md)\n\nFor casting\
+      \ share the spell slots among themselves:\n\n**1st level (4 slots):** [[entangle-xphb]],\
+      \ [[speak-with-animals-xphb]]\n\n**2nd\
+      \ level (3 slots):** [[flaming-sphere-xphb]],\
+      \ [[moonbeam-xphb]], [[spike-growth-xphb]]\n\
+      \n**3rd level (3 slots):** [[call-lightning-xphb]],\
+      \ [[plant-growth-xphb]]\n\n**4th level (3 slots):**\
+      \ [[dominate-beast-xphb]], [[grasping-vine-xphb]]\n\
+      \n**5th level (2 slots):** [[insect-plague-xphb]],\
+      \ [[tree-stride-xphb]]\n\n**6th level (1 slots):**\
+      \ [[wall-of-thorns-xphb]]\n\nFor casting\
       \ these spells, each hag is a 12th-level spellcaster that uses Intelligence\
       \ as her spellcasting ability. The spell save DC 13, and the spell attack bonus\
       \ is +5."
     "name": "Shared Spellcasting (Coven Only)"
   - "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 13).\
-      \ She can innately cast the following spells:\n\n**3/day each:** [disguise self](Compendium/spells/disguise-self-xphb.md)\
-      \ (including the form of a Medium humanoid), [fog cloud](Compendium/spells/fog-cloud-xphb.md)"
+      \ She can innately cast the following spells:\n\n**3/day each:** [[disguise-self-xphb]]\
+      \ (including the form of a Medium humanoid), [[fog-cloud-xphb]]"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "The annis makes three attacks: one with her bite and two with her claws."

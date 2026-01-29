@@ -14,14 +14,14 @@ aliases:
 
 | dice: 1d10 | Object |
 |------------|--------|
-| 1 | [Gold ring set with bloodstones](Compendium/items/gold-ring-set-with-bloodstones-xdmg.md) |
-| 2 | [Carved ivory statuette](Compendium/items/carved-ivory-statuette-xdmg.md) |
-| 3 | [Bejeweled gold bracelet](Compendium/items/bejeweled-gold-bracelet-xdmg.md) |
-| 4 | [Silver necklace with a gemstone pendant](Compendium/items/silver-necklace-with-a-gemstone-pendant-xdmg.md) |
-| 5 | [Bronze crown](Compendium/items/bronze-crown-xdmg.md) |
-| 6 | [Silk vestments with gold embroidery](Compendium/items/silk-vestments-with-gold-embroidery-xdmg.md) |
-| 7 | [Well-made tapestry that is 10 feet by 10 feet](Compendium/items/well-made-tapestry-that-is-10-feet-by-10-feet-xdmg.md) |
-| 8 | [Brass mug with jade inlay](Compendium/items/brass-mug-with-jade-inlay-xdmg.md) |
-| 9 | [Box of turquoise animal figurines](Compendium/items/box-of-turquoise-animal-figurines-xdmg.md) |
-| 10 | [Gold birdcage with electrum filigree](Compendium/items/gold-birdcage-with-electrum-filigree-xdmg.md) |
+| 1 | [[gold-ring-set-with-bloodstones-xdmg]] |
+| 2 | [[carved-ivory-statuette-xdmg]] |
+| 3 | [[bejeweled-gold-bracelet-xdmg]] |
+| 4 | [[silver-necklace-with-a-gemstone-pendant-xdmg]] |
+| 5 | [[bronze-crown-xdmg]] |
+| 6 | [[silk-vestments-with-gold-embroidery-xdmg]] |
+| 7 | [[well-made-tapestry-that-is-10-feet-by-10-feet-xdmg]] |
+| 8 | [[brass-mug-with-jade-inlay-xdmg]] |
+| 9 | [[box-of-turquoise-animal-figurines-xdmg]] |
+| 10 | [[gold-birdcage-with-electrum-filigree-xdmg]] |
 ^250-gp-art-objects

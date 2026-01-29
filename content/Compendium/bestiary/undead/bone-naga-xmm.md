@@ -19,7 +19,7 @@ aliases: ["Bone Naga"]
 *Deathless Serpentine Mind Bender*
 
 - **Habitat.** Underdark  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics]]  
 
 Nagas are immortal but not invincible, and powerful magic can end their lives. Bone nagas are skeletal terrors raised from the remains of magically slain nagas or nagas that were killed but that hadn't yet rejuvenated. They are granted unlife through rituals practiced by cultists, yuan-ti, and morbid spirit nagas. These Undead nagas possess magical abilities similar to those they had in life, along with an eerie gaze that can beguile other creatures.
 
@@ -63,9 +63,9 @@ In rare cases, bone nagas continue to pursue the goals they had while alive inst
     "name": "Serpentine Gaze"
   - "desc": "The naga casts one of the following spells, requiring no Material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\n\
-      **At will:** [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\
-      \n**1/day each:** [Command](Compendium/spells/command-xphb.md), [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md),\
-      \ [Lightning Bolt](Compendium/spells/lightning-bolt-xphb.md)"
+      **At will:** [[mage-hand-xphb]], [[thaumaturgy-xphb]]\n\
+      \n**1/day each:** [[command-xphb]], [[detect-thoughts-xphb]],\
+      \ [[lightning-bolt-xphb]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

@@ -72,15 +72,15 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
 "cr": "4"
 "traits":
   - "desc": "If the demon dies outside the Abyss, its body dissolves into ichor, and\
-      \ it gains a new body instantly, reviving with all its [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ it gains a new body instantly, reviving with all its [[hit-points-xphb]]\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
   - "desc": "The demon can move through other creatures and objects as if they were\
-      \ [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
+      \ [[difficult-terrain-xphb]].\
       \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
-  - "desc": "While in [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md),\
-      \ the demon has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in [[bright-light-xphb]],\
+      \ the demon has [[disadvantage-xphb]]\
       \ on ability checks and attack rolls."
     "name": "Light Sensitivity"
 "actions":
@@ -88,8 +88,8 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
       \ damage."
     "name": "Umbral Claw"
 "bonus_actions":
-  - "desc": "While in [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](Compendium/rules/variant-rules/darkness-xphb.md), the demon\
+  - "desc": "While in [[dim-light-xphb]]\
+      \ or [[darkness-xphb]], the demon\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":

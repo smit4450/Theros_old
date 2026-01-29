@@ -23,9 +23,9 @@ aliases:
 | 49–66 | While you're attuned to the Artifact, your appearance changes as the DM decides. |
 | 67–72 | While attuned to the Artifact, you emit a sour stench noticeable from up to 10 feet away. |
 | 73–76 | Whenever you touch a nonmagical gem or an art object while attuned to this Artifact, the value of the gem or art object is reduced by half. This affects a particular object only once. |
-| 77–80 | While you're attuned to the Artifact, all [Holy Water](Compendium/items/holy-water-xphb.md) within 10 feet of you is destroyed. |
+| 77–80 | While you're attuned to the Artifact, all [[holy-water-xphb]] within 10 feet of you is destroyed. |
 | 81–84 | While you're attuned to the Artifact, nonmagical flames are extinguished within 30 feet of you. |
 | 85–88 | While you're attuned to the Artifact, other creatures can't take Short or Long Rests while within 300 feet of you. |
 | 89–92 | While attuned to the Artifact, you kill any nonmagical vegetation you touch that isn't a creature. |
-| 93–00 | While you're attuned to the Artifact, Beasts within 30 feet of you that have a Challenge Rating of 6 or lower are [Hostile](Compendium/rules/variant-rules/hostile-attitude-xphb.md) toward you. |
+| 93–00 | While you're attuned to the Artifact, Beasts within 30 feet of you that have a Challenge Rating of 6 or lower are [[hostile-attitude-xphb]] toward you. |
 ^minor-detrimental-properties

@@ -80,7 +80,7 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
     "name": "Talons"
 "bonus_actions":
   - "desc": "If the roc has a creature [Grappled](Compendium/rules/conditions.md#Grappled),\
-      \ the roc flies up to half its [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md)\
+      \ the roc flies up to half its [[fly-speed-xphb]]\
       \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack)\
       \ and drops that creature."
     "name": "Swoop (Recharge 5-6)"

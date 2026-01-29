@@ -10,7 +10,7 @@ aliases:
 # Monster Lists
 *Source: Monster Manual (2025), p. 374* 
 
-This appendix provides conversions for stat blocks that have changed between the 2014 "Monster Manual" and this book, as well as lists of monsters organized by habitat, creature type, group, and [Challenge Rating](Compendium/rules/variant-rules/challenge-rating-xphb.md).
+This appendix provides conversions for stat blocks that have changed between the 2014 "Monster Manual" and this book, as well as lists of monsters organized by habitat, creature type, group, and [[challenge-rating-xphb]].
 
 ![](Compendium/books/monster-manual-2025/img/027-28-001-monster-story-time.webp#center)
 
@@ -18,1122 +18,1122 @@ This appendix provides conversions for stat blocks that have changed between the
 
 Every monster in 2014 "Monster Manual" either appears in this book or has a CR-appropriate replacement. If you're using material published prior to this book and are unable to locate a stat block herein, consult the Stat Block Conversions table to find the equivalent stat block you should use.
 
-![Monster Conversions; Stat Block Conversions](Compendium/tables/monster-conversions-stat-block-conversions-xmm.md)
+![[monster-conversions-stat-block-conversions-xmm]]
 
 ## Monsters by Habitat
 
 The following tables organize the monster stat blocks in this book by habitat. These tables omit monsters that don't inhabit natural habitats, such as many Celestials and Fiends.
 
-![Monsters by Habitat; Any Habitat Monsters](Compendium/tables/monsters-by-habitat-any-habitat-monsters-xmm.md)
+![[monsters-by-habitat-any-habitat-monsters-xmm]]
 
-![Monsters by Habitat; Arctic Monsters](Compendium/tables/monsters-by-habitat-arctic-monsters-xmm.md)
+![[monsters-by-habitat-arctic-monsters-xmm]]
 
-![Monsters by Habitat; Coastal Monsters](Compendium/tables/monsters-by-habitat-coastal-monsters-xmm.md)
+![[monsters-by-habitat-coastal-monsters-xmm]]
 
-![Monsters by Habitat; Desert Monsters](Compendium/tables/monsters-by-habitat-desert-monsters-xmm.md)
+![[monsters-by-habitat-desert-monsters-xmm]]
 
-![Monsters by Habitat; Forest Monsters](Compendium/tables/monsters-by-habitat-forest-monsters-xmm.md)
+![[monsters-by-habitat-forest-monsters-xmm]]
 
-![Monsters by Habitat; Grassland Monsters](Compendium/tables/monsters-by-habitat-grassland-monsters-xmm.md)
+![[monsters-by-habitat-grassland-monsters-xmm]]
 
-![Monsters by Habitat; Hill Monsters](Compendium/tables/monsters-by-habitat-hill-monsters-xmm.md)
+![[monsters-by-habitat-hill-monsters-xmm]]
 
-![Monsters by Habitat; Mountain Monsters](Compendium/tables/monsters-by-habitat-mountain-monsters-xmm.md)
+![[monsters-by-habitat-mountain-monsters-xmm]]
 
-![Monsters by Habitat; Swamp Monsters](Compendium/tables/monsters-by-habitat-swamp-monsters-xmm.md)
+![[monsters-by-habitat-swamp-monsters-xmm]]
 
-![Monsters by Habitat; Underdark Monsters](Compendium/tables/monsters-by-habitat-underdark-monsters-xmm.md)
+![[monsters-by-habitat-underdark-monsters-xmm]]
 
-![Monsters by Habitat; Underwater Monsters](Compendium/tables/monsters-by-habitat-underwater-monsters-xmm.md)
+![[monsters-by-habitat-underwater-monsters-xmm]]
 
-![Monsters by Habitat; Urban Monsters](Compendium/tables/monsters-by-habitat-urban-monsters-xmm.md)
+![[monsters-by-habitat-urban-monsters-xmm]]
 
 ## Monsters by Creature Type
 
 The following list organizes the monster stat blocks in this book by creature type.
 
--     - [Aboleth](Compendium/bestiary/aberration/aboleth-xmm.md)    
-        - [Beholder](Compendium/bestiary/aberration/beholder-xmm.md)    
-        - [Blue Slaad](Compendium/bestiary/aberration/blue-slaad-xmm.md)    
-        - [Chuul](Compendium/bestiary/aberration/chuul-xmm.md)    
-        - [Cloaker](Compendium/bestiary/aberration/cloaker-xmm.md)    
-        - [Darkmantle](Compendium/bestiary/aberration/darkmantle-xmm.md)    
-        - [Death Slaad](Compendium/bestiary/aberration/death-slaad-xmm.md)    
-        - [Flumph](Compendium/bestiary/aberration/flumph-xmm.md)    
-        - [Gibbering Mouther](Compendium/bestiary/aberration/gibbering-mouther-xmm.md)    
-        - [Githyanki Dracomancer](Compendium/bestiary/aberration/githyanki-dracomancer-xmm.md)    
-        - [Githyanki Knight](Compendium/bestiary/aberration/githyanki-knight-xmm.md)    
-        - [Githyanki Warrior](Compendium/bestiary/aberration/githyanki-warrior-xmm.md)    
-        - [Githzerai Monk](Compendium/bestiary/aberration/githzerai-monk-xmm.md)    
-        - [Githzerai Psion](Compendium/bestiary/aberration/githzerai-psion-xmm.md)    
-        - [Githzerai Zerth](Compendium/bestiary/aberration/githzerai-zerth-xmm.md)    
-        - [Gray Slaad](Compendium/bestiary/aberration/gray-slaad-xmm.md)    
-        - [Green Slaad](Compendium/bestiary/aberration/green-slaad-xmm.md)    
-        - [Grell](Compendium/bestiary/aberration/grell-xmm.md)    
-        - [Grick](Compendium/bestiary/aberration/grick-xmm.md)    
-        - [Grick Ancient](Compendium/bestiary/aberration/grick-ancient-xmm.md)    
-        - [Grimlock](Compendium/bestiary/aberration/grimlock-xmm.md)    
-        - [Intellect Devourer](Compendium/bestiary/aberration/intellect-devourer-xmm.md)    
-        - [Kuo-toa](Compendium/bestiary/aberration/kuo-toa-xmm.md)    
-        - [Kuo-toa Archpriest](Compendium/bestiary/aberration/kuo-toa-archpriest-xmm.md)    
-        - [Kuo-toa Monitor](Compendium/bestiary/aberration/kuo-toa-monitor-xmm.md)    
-        - [Kuo-toa Whip](Compendium/bestiary/aberration/kuo-toa-whip-xmm.md)    
-        - [Mind Flayer](Compendium/bestiary/aberration/mind-flayer-xmm.md)    
-        - [Mind Flayer Arcanist](Compendium/bestiary/aberration/mind-flayer-arcanist-xmm.md)    
-        - [Nothic](Compendium/bestiary/aberration/nothic-xmm.md)    
-        - [Otyugh](Compendium/bestiary/aberration/otyugh-xmm.md)    
-        - [Piercer](Compendium/bestiary/aberration/piercer-xmm.md)    
-        - [Red Slaad](Compendium/bestiary/aberration/red-slaad-xmm.md)    
-        - [Roper](Compendium/bestiary/aberration/roper-xmm.md)    
-        - [Slaad Tadpole](Compendium/bestiary/aberration/slaad-tadpole-xmm.md)    
-        - [Spectator](Compendium/bestiary/aberration/spectator-xmm.md)    
--     - [Allosaurus](Compendium/bestiary/beast/allosaurus-xmm.md)    
-        - [Ankylosaurus](Compendium/bestiary/beast/ankylosaurus-xmm.md)    
-        - [Ape](Compendium/bestiary/beast/ape-xmm.md)    
-        - [Archelon](Compendium/bestiary/beast/archelon-xmm.md)    
-        - [Baboon](Compendium/bestiary/beast/baboon-xmm.md)    
-        - [Badger](Compendium/bestiary/beast/badger-xmm.md)    
-        - [Bat](Compendium/bestiary/beast/bat-xmm.md)    
-        - [Black Bear](Compendium/bestiary/beast/black-bear-xmm.md)    
-        - [Blood Hawk](Compendium/bestiary/beast/blood-hawk-xmm.md)    
-        - [Boar](Compendium/bestiary/beast/boar-xmm.md)    
-        - [Brown Bear](Compendium/bestiary/beast/brown-bear-xmm.md)    
-        - [Camel](Compendium/bestiary/beast/camel-xmm.md)    
-        - [Cat](Compendium/bestiary/beast/cat-xmm.md)    
-        - [Constrictor Snake](Compendium/bestiary/beast/constrictor-snake-xmm.md)    
-        - [Crab](Compendium/bestiary/beast/crab-xmm.md)    
-        - [Crocodile](Compendium/bestiary/beast/crocodile-xmm.md)    
-        - [Deer](Compendium/bestiary/beast/deer-xmm.md)    
-        - [Dire Wolf](Compendium/bestiary/beast/dire-wolf-xmm.md)    
-        - [Draft Horse](Compendium/bestiary/beast/draft-horse-xmm.md)    
-        - [Eagle](Compendium/bestiary/beast/eagle-xmm.md)    
-        - [Elephant](Compendium/bestiary/beast/elephant-xmm.md)    
-        - [Elk](Compendium/bestiary/beast/elk-xmm.md)    
-        - [Frog](Compendium/bestiary/beast/frog-xmm.md)    
-        - [Giant Ape](Compendium/bestiary/beast/giant-ape-xmm.md)    
-        - [Giant Badger](Compendium/bestiary/beast/giant-badger-xmm.md)    
-        - [Giant Bat](Compendium/bestiary/beast/giant-bat-xmm.md)    
-        - [Giant Boar](Compendium/bestiary/beast/giant-boar-xmm.md)    
-        - [Giant Centipede](Compendium/bestiary/beast/giant-centipede-xmm.md)    
-        - [Giant Constrictor Snake](Compendium/bestiary/beast/giant-constrictor-snake-xmm.md)    
-        - [Giant Crab](Compendium/bestiary/beast/giant-crab-xmm.md)    
-        - [Giant Crocodile](Compendium/bestiary/beast/giant-crocodile-xmm.md)    
-        - [Giant Fire Beetle](Compendium/bestiary/beast/giant-fire-beetle-xmm.md)    
-        - [Giant Frog](Compendium/bestiary/beast/giant-frog-xmm.md)    
-        - [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md)    
-        - [Giant Hyena](Compendium/bestiary/beast/giant-hyena-xmm.md)    
-        - [Giant Lizard](Compendium/bestiary/beast/giant-lizard-xmm.md)    
-        - [Giant Octopus](Compendium/bestiary/beast/giant-octopus-xmm.md)    
-        - [Giant Rat](Compendium/bestiary/beast/giant-rat-xmm.md)    
-        - [Giant Scorpion](Compendium/bestiary/beast/giant-scorpion-xmm.md)    
-        - [Giant Seahorse](Compendium/bestiary/beast/giant-seahorse-xmm.md)    
-        - [Giant Shark](Compendium/bestiary/beast/giant-shark-xmm.md)    
-        - [Giant Spider](Compendium/bestiary/beast/giant-spider-xmm.md)    
-        - [Giant Squid](Compendium/bestiary/beast/giant-squid-xmm.md)    
-        - [Giant Toad](Compendium/bestiary/beast/giant-toad-xmm.md)    
-        - [Giant Venomous Snake](Compendium/bestiary/beast/giant-venomous-snake-xmm.md)    
-        - [Giant Wasp](Compendium/bestiary/beast/giant-wasp-xmm.md)    
-        - [Giant Weasel](Compendium/bestiary/beast/giant-weasel-xmm.md)    
-        - [Giant Wolf Spider](Compendium/bestiary/beast/giant-wolf-spider-xmm.md)    
-        - [Goat](Compendium/bestiary/beast/goat-xmm.md)    
-        - [Hawk](Compendium/bestiary/beast/hawk-xmm.md)    
-        - [Hippopotamus](Compendium/bestiary/beast/hippopotamus-xmm.md)    
-        - [Hunter Shark](Compendium/bestiary/beast/hunter-shark-xmm.md)    
-        - [Hyena](Compendium/bestiary/beast/hyena-xmm.md)    
-        - [Jackal](Compendium/bestiary/beast/jackal-xmm.md)    
-        - [Killer Whale](Compendium/bestiary/beast/killer-whale-xmm.md)    
-        - [Lion](Compendium/bestiary/beast/lion-xmm.md)    
-        - [Lizard](Compendium/bestiary/beast/lizard-xmm.md)    
-        - [Mammoth](Compendium/bestiary/beast/mammoth-xmm.md)    
-        - [Mastiff](Compendium/bestiary/beast/mastiff-xmm.md)    
-        - [Mule](Compendium/bestiary/beast/mule-xmm.md)    
-        - [Octopus](Compendium/bestiary/beast/octopus-xmm.md)    
-        - [Owl](Compendium/bestiary/beast/owl-xmm.md)    
-        - [Panther](Compendium/bestiary/beast/panther-xmm.md)    
-        - [Piranha](Compendium/bestiary/beast/piranha-xmm.md)    
-        - [Plesiosaurus](Compendium/bestiary/beast/plesiosaurus-xmm.md)    
-        - [Polar Bear](Compendium/bestiary/beast/polar-bear-xmm.md)    
-        - [Pony](Compendium/bestiary/beast/pony-xmm.md)    
-        - [Pteranodon](Compendium/bestiary/beast/pteranodon-xmm.md)    
-        - [Rat](Compendium/bestiary/beast/rat-xmm.md)    
-        - [Raven](Compendium/bestiary/beast/raven-xmm.md)    
-        - [Reef Shark](Compendium/bestiary/beast/reef-shark-xmm.md)    
-        - [Rhinoceros](Compendium/bestiary/beast/rhinoceros-xmm.md)    
-        - [Riding Horse](Compendium/bestiary/beast/riding-horse-xmm.md)    
-        - [Saber-Toothed Tiger](Compendium/bestiary/beast/saber-toothed-tiger-xmm.md)    
-        - [Scorpion](Compendium/bestiary/beast/scorpion-xmm.md)    
-        - [Seahorse](Compendium/bestiary/beast/seahorse-xmm.md)    
-        - [Spider](Compendium/bestiary/beast/spider-xmm.md)    
-        - [Swarm of Bats](Compendium/bestiary/beast/swarm-of-bats-xmm.md)    
-        - [Swarm of Insects](Compendium/bestiary/beast/swarm-of-insects-xmm.md)    
-        - [Swarm of Piranhas](Compendium/bestiary/beast/swarm-of-piranhas-xmm.md)    
-        - [Swarm of Rats](Compendium/bestiary/beast/swarm-of-rats-xmm.md)    
-        - [Swarm of Ravens](Compendium/bestiary/beast/swarm-of-ravens-xmm.md)    
-        - [Swarm of Venomous Snakes](Compendium/bestiary/beast/swarm-of-venomous-snakes-xmm.md)    
-        - [Tiger](Compendium/bestiary/beast/tiger-xmm.md)    
-        - [Triceratops](Compendium/bestiary/beast/triceratops-xmm.md)    
-        - [Tyrannosaurus Rex](Compendium/bestiary/beast/tyrannosaurus-rex-xmm.md)    
-        - [Venomous Snake](Compendium/bestiary/beast/venomous-snake-xmm.md)    
-        - [Vulture](Compendium/bestiary/beast/vulture-xmm.md)    
-        - [Warhorse](Compendium/bestiary/beast/warhorse-xmm.md)    
-        - [Weasel](Compendium/bestiary/beast/weasel-xmm.md)    
-        - [Wolf](Compendium/bestiary/beast/wolf-xmm.md)    
--     - [Animal Lord](Compendium/bestiary/celestial/animal-lord-xmm.md)    
-        - [Couatl](Compendium/bestiary/celestial/couatl-xmm.md)    
-        - [Deva](Compendium/bestiary/celestial/deva-xmm.md)    
-        - [Giant Eagle](Compendium/bestiary/celestial/giant-eagle-xmm.md)    
-        - [Giant Elk](Compendium/bestiary/celestial/giant-elk-xmm.md)    
-        - [Giant Owl](Compendium/bestiary/celestial/giant-owl-xmm.md)    
-        - [Guardian Naga](Compendium/bestiary/celestial/guardian-naga-xmm.md)    
-        - [Pegasus](Compendium/bestiary/celestial/pegasus-xmm.md)    
-        - [Planetar](Compendium/bestiary/celestial/planetar-xmm.md)    
-        - [Solar](Compendium/bestiary/celestial/solar-xmm.md)    
-        - [Sphinx of Lore](Compendium/bestiary/celestial/sphinx-of-lore-xmm.md)    
-        - [Sphinx of Secrets](Compendium/bestiary/celestial/sphinx-of-secrets-xmm.md)    
-        - [Sphinx of Valor](Compendium/bestiary/celestial/sphinx-of-valor-xmm.md)    
-        - [Sphinx of Wonder](Compendium/bestiary/celestial/sphinx-of-wonder-xmm.md)    
-        - [Unicorn](Compendium/bestiary/celestial/unicorn-xmm.md)    
--     - [Animated Armor](Compendium/bestiary/construct/animated-armor-xmm.md)    
-        - [Animated Broom](Compendium/bestiary/construct/animated-broom-xmm.md)    
-        - [Animated Flying Sword](Compendium/bestiary/construct/animated-flying-sword-xmm.md)    
-        - [Animated Rug of Smothering](Compendium/bestiary/construct/animated-rug-of-smothering-xmm.md)    
-        - [Brazen Gorgon](Compendium/bestiary/construct/brazen-gorgon-xmm.md)    
-        - [Clay Golem](Compendium/bestiary/construct/clay-golem-xmm.md)    
-        - [Colossus](Compendium/bestiary/construct/colossus-xmm.md)    
-        - [Flesh Golem](Compendium/bestiary/construct/flesh-golem-xmm.md)    
-        - [Gorgon](Compendium/bestiary/construct/gorgon-xmm.md)    
-        - [Helmed Horror](Compendium/bestiary/construct/helmed-horror-xmm.md)    
-        - [Homunculus](Compendium/bestiary/construct/homunculus-xmm.md)    
-        - [Iron Golem](Compendium/bestiary/construct/iron-golem-xmm.md)    
-        - [Modron Duodrone](Compendium/bestiary/construct/modron-duodrone-xmm.md)    
-        - [Modron Monodrone](Compendium/bestiary/construct/modron-monodrone-xmm.md)    
-        - [Modron Pentadrone](Compendium/bestiary/construct/modron-pentadrone-xmm.md)    
-        - [Modron Quadrone](Compendium/bestiary/construct/modron-quadrone-xmm.md)    
-        - [Modron Tridrone](Compendium/bestiary/construct/modron-tridrone-xmm.md)    
-        - [Scarecrow](Compendium/bestiary/construct/scarecrow-xmm.md)    
-        - [Shield Guardian](Compendium/bestiary/construct/shield-guardian-xmm.md)    
-        - [Stone Golem](Compendium/bestiary/construct/stone-golem-xmm.md)    
--     - [Adult Black Dragon](Compendium/bestiary/dragon/adult-black-dragon-xmm.md)    
-        - [Adult Blue Dragon](Compendium/bestiary/dragon/adult-blue-dragon-xmm.md)    
-        - [Adult Brass Dragon](Compendium/bestiary/dragon/adult-brass-dragon-xmm.md)    
-        - [Adult Bronze Dragon](Compendium/bestiary/dragon/adult-bronze-dragon-xmm.md)    
-        - [Adult Copper Dragon](Compendium/bestiary/dragon/adult-copper-dragon-xmm.md)    
-        - [Adult Gold Dragon](Compendium/bestiary/dragon/adult-gold-dragon-xmm.md)    
-        - [Adult Green Dragon](Compendium/bestiary/dragon/adult-green-dragon-xmm.md)    
-        - [Adult Red Dragon](Compendium/bestiary/dragon/adult-red-dragon-xmm.md)    
-        - [Adult Silver Dragon](Compendium/bestiary/dragon/adult-silver-dragon-xmm.md)    
-        - [Adult White Dragon](Compendium/bestiary/dragon/adult-white-dragon-xmm.md)    
-        - [Ancient Black Dragon](Compendium/bestiary/dragon/ancient-black-dragon-xmm.md)    
-        - [Ancient Blue Dragon](Compendium/bestiary/dragon/ancient-blue-dragon-xmm.md)    
-        - [Ancient Brass Dragon](Compendium/bestiary/dragon/ancient-brass-dragon-xmm.md)    
-        - [Ancient Bronze Dragon](Compendium/bestiary/dragon/ancient-bronze-dragon-xmm.md)    
-        - [Ancient Copper Dragon](Compendium/bestiary/dragon/ancient-copper-dragon-xmm.md)    
-        - [Ancient Gold Dragon](Compendium/bestiary/dragon/ancient-gold-dragon-xmm.md)    
-        - [Ancient Green Dragon](Compendium/bestiary/dragon/ancient-green-dragon-xmm.md)    
-        - [Ancient Red Dragon](Compendium/bestiary/dragon/ancient-red-dragon-xmm.md)    
-        - [Ancient Silver Dragon](Compendium/bestiary/dragon/ancient-silver-dragon-xmm.md)    
-        - [Ancient White Dragon](Compendium/bestiary/dragon/ancient-white-dragon-xmm.md)    
-        - [Black Dragon Wyrmling](Compendium/bestiary/dragon/black-dragon-wyrmling-xmm.md)    
-        - [Blue Dragon Wyrmling](Compendium/bestiary/dragon/blue-dragon-wyrmling-xmm.md)    
-        - [Brass Dragon Wyrmling](Compendium/bestiary/dragon/brass-dragon-wyrmling-xmm.md)    
-        - [Bronze Dragon Wyrmling](Compendium/bestiary/dragon/bronze-dragon-wyrmling-xmm.md)    
-        - [Copper Dragon Wyrmling](Compendium/bestiary/dragon/copper-dragon-wyrmling-xmm.md)    
-        - [Dragon Turtle](Compendium/bestiary/dragon/dragon-turtle-xmm.md)    
-        - [Faerie Dragon Adult](Compendium/bestiary/dragon/faerie-dragon-adult-xmm.md)    
-        - [Faerie Dragon Youth](Compendium/bestiary/dragon/faerie-dragon-youth-xmm.md)    
-        - [Gold Dragon Wyrmling](Compendium/bestiary/dragon/gold-dragon-wyrmling-xmm.md)    
-        - [Green Dragon Wyrmling](Compendium/bestiary/dragon/green-dragon-wyrmling-xmm.md)    
-        - [Half-Dragon](Compendium/bestiary/dragon/half-dragon-xmm.md)    
-        - [Juvenile Shadow Dragon](Compendium/bestiary/dragon/juvenile-shadow-dragon-xmm.md)    
-        - [Kobold Warrior](Compendium/bestiary/dragon/kobold-warrior-xmm.md)    
-        - [Pseudodragon](Compendium/bestiary/dragon/pseudodragon-xmm.md)    
-        - [Red Dragon Wyrmling](Compendium/bestiary/dragon/red-dragon-wyrmling-xmm.md)    
-        - [Shadow Dragon](Compendium/bestiary/dragon/shadow-dragon-xmm.md)    
-        - [Silver Dragon Wyrmling](Compendium/bestiary/dragon/silver-dragon-wyrmling-xmm.md)    
-        - [White Dragon Wyrmling](Compendium/bestiary/dragon/white-dragon-wyrmling-xmm.md)    
-        - [Winged Kobold](Compendium/bestiary/dragon/winged-kobold-xmm.md)    
-        - [Wyvern](Compendium/bestiary/dragon/wyvern-xmm.md)    
-        - [Young Black Dragon](Compendium/bestiary/dragon/young-black-dragon-xmm.md)    
-        - [Young Blue Dragon](Compendium/bestiary/dragon/young-blue-dragon-xmm.md)    
-        - [Young Brass Dragon](Compendium/bestiary/dragon/young-brass-dragon-xmm.md)    
-        - [Young Bronze Dragon](Compendium/bestiary/dragon/young-bronze-dragon-xmm.md)    
-        - [Young Copper Dragon](Compendium/bestiary/dragon/young-copper-dragon-xmm.md)    
-        - [Young Gold Dragon](Compendium/bestiary/dragon/young-gold-dragon-xmm.md)    
-        - [Young Green Dragon](Compendium/bestiary/dragon/young-green-dragon-xmm.md)    
-        - [Young Red Dragon](Compendium/bestiary/dragon/young-red-dragon-xmm.md)    
-        - [Young Silver Dragon](Compendium/bestiary/dragon/young-silver-dragon-xmm.md)    
-        - [Young White Dragon](Compendium/bestiary/dragon/young-white-dragon-xmm.md)    
--     - [Aarakocra Aeromancer](Compendium/bestiary/elemental/aarakocra-aeromancer-xmm.md)    
-        - [Aarakocra Skirmisher](Compendium/bestiary/elemental/aarakocra-skirmisher-xmm.md)    
-        - [Air Elemental](Compendium/bestiary/elemental/air-elemental-xmm.md)    
-        - [Azer Pyromancer](Compendium/bestiary/elemental/azer-pyromancer-xmm.md)    
-        - [Azer Sentinel](Compendium/bestiary/elemental/azer-sentinel-xmm.md)    
-        - [Dao](Compendium/bestiary/elemental/dao-xmm.md)    
-        - [Djinni](Compendium/bestiary/elemental/djinni-xmm.md)    
-        - [Dust Mephit](Compendium/bestiary/elemental/dust-mephit-xmm.md)    
-        - [Earth Elemental](Compendium/bestiary/elemental/earth-elemental-xmm.md)    
-        - [Efreeti](Compendium/bestiary/elemental/efreeti-xmm.md)    
-        - [Elemental Cataclysm](Compendium/bestiary/elemental/elemental-cataclysm-xmm.md)    
-        - [Fire Elemental](Compendium/bestiary/elemental/fire-elemental-xmm.md)    
-        - [Galeb Duhr](Compendium/bestiary/elemental/galeb-duhr-xmm.md)    
-        - [Gargoyle](Compendium/bestiary/elemental/gargoyle-xmm.md)    
-        - [Ice Mephit](Compendium/bestiary/elemental/ice-mephit-xmm.md)    
-        - [Invisible Stalker](Compendium/bestiary/elemental/invisible-stalker-xmm.md)    
-        - [Lizardfolk Geomancer](Compendium/bestiary/elemental/lizardfolk-geomancer-xmm.md)    
-        - [Lizardfolk Sovereign](Compendium/bestiary/elemental/lizardfolk-sovereign-xmm.md)    
-        - [Magma Mephit](Compendium/bestiary/elemental/magma-mephit-xmm.md)    
-        - [Magmin](Compendium/bestiary/elemental/magmin-xmm.md)    
-        - [Marid](Compendium/bestiary/elemental/marid-xmm.md)    
-        - [Merfolk Skirmisher](Compendium/bestiary/elemental/merfolk-skirmisher-xmm.md)    
-        - [Merfolk Wavebender](Compendium/bestiary/elemental/merfolk-wavebender-xmm.md)    
-        - [Mud Mephit](Compendium/bestiary/elemental/mud-mephit-xmm.md)    
-        - [Salamander](Compendium/bestiary/elemental/salamander-xmm.md)    
-        - [Salamander Fire Snake](Compendium/bestiary/elemental/salamander-fire-snake-xmm.md)    
-        - [Salamander Inferno Master](Compendium/bestiary/elemental/salamander-inferno-master-xmm.md)    
-        - [Smoke Mephit](Compendium/bestiary/elemental/smoke-mephit-xmm.md)    
-        - [Steam Mephit](Compendium/bestiary/elemental/steam-mephit-xmm.md)    
-        - [Water Elemental](Compendium/bestiary/elemental/water-elemental-xmm.md)    
-        - [Water Weird](Compendium/bestiary/elemental/water-weird-xmm.md)    
-        - [Xorn](Compendium/bestiary/elemental/xorn-xmm.md)    
--     - [Arch-hag](Compendium/bestiary/fey/arch-hag-xmm.md)    
-        - [Blink Dog](Compendium/bestiary/fey/blink-dog-xmm.md)    
-        - [Bugbear Stalker](Compendium/bestiary/fey/bugbear-stalker-xmm.md)    
-        - [Bugbear Warrior](Compendium/bestiary/fey/bugbear-warrior-xmm.md)    
-        - [Bullywug Bog Sage](Compendium/bestiary/fey/bullywug-bog-sage-xmm.md)    
-        - [Bullywug Warrior](Compendium/bestiary/fey/bullywug-warrior-xmm.md)    
-        - [Centaur Trooper](Compendium/bestiary/fey/centaur-trooper-xmm.md)    
-        - [Centaur Warden](Compendium/bestiary/fey/centaur-warden-xmm.md)    
-        - [Dire Worg](Compendium/bestiary/fey/dire-worg-xmm.md)    
-        - [Dryad](Compendium/bestiary/fey/dryad-xmm.md)    
-        - [Goblin Boss](Compendium/bestiary/fey/goblin-boss-xmm.md)    
-        - [Goblin Hexer](Compendium/bestiary/fey/goblin-hexer-xmm.md)    
-        - [Goblin Minion](Compendium/bestiary/fey/goblin-minion-xmm.md)    
-        - [Goblin Warrior](Compendium/bestiary/fey/goblin-warrior-xmm.md)    
-        - [Green Hag](Compendium/bestiary/fey/green-hag-xmm.md)    
-        - [Hobgoblin Captain](Compendium/bestiary/fey/hobgoblin-captain-xmm.md)    
-        - [Hobgoblin Warlord](Compendium/bestiary/fey/hobgoblin-warlord-xmm.md)    
-        - [Hobgoblin Warrior](Compendium/bestiary/fey/hobgoblin-warrior-xmm.md)    
-        - [Pixie](Compendium/bestiary/fey/pixie-xmm.md)    
-        - [Pixie Wonderbringer](Compendium/bestiary/fey/pixie-wonderbringer-xmm.md)    
-        - [Satyr](Compendium/bestiary/fey/satyr-xmm.md)    
-        - [Satyr Revelmaster](Compendium/bestiary/fey/satyr-revelmaster-xmm.md)    
-        - [Sea Hag](Compendium/bestiary/fey/sea-hag-xmm.md)    
-        - [Sprite](Compendium/bestiary/fey/sprite-xmm.md)    
-        - [Worg](Compendium/bestiary/fey/worg-xmm.md)    
--     - [Arcanaloth](Compendium/bestiary/fiend/arcanaloth-xmm.md)    
-        - [Balor](Compendium/bestiary/fiend/balor-xmm.md)    
-        - [Barbed Devil](Compendium/bestiary/fiend/barbed-devil-xmm.md)    
-        - [Barlgura](Compendium/bestiary/fiend/barlgura-xmm.md)    
-        - [Bearded Devil](Compendium/bestiary/fiend/bearded-devil-xmm.md)    
-        - [Bone Devil](Compendium/bestiary/fiend/bone-devil-xmm.md)    
-        - [Cambion](Compendium/bestiary/fiend/cambion-xmm.md)    
-        - [Chain Devil](Compendium/bestiary/fiend/chain-devil-xmm.md)    
-        - [Chasme](Compendium/bestiary/fiend/chasme-xmm.md)    
-        - [Dretch](Compendium/bestiary/fiend/dretch-xmm.md)    
-        - [Erinyes](Compendium/bestiary/fiend/erinyes-xmm.md)    
-        - [Glabrezu](Compendium/bestiary/fiend/glabrezu-xmm.md)    
-        - [Gnoll Demoniac](Compendium/bestiary/fiend/gnoll-demoniac-xmm.md)    
-        - [Gnoll Fang of Yeenoghu](Compendium/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md)    
-        - [Gnoll Pack Lord](Compendium/bestiary/fiend/gnoll-pack-lord-xmm.md)    
-        - [Gnoll Warrior](Compendium/bestiary/fiend/gnoll-warrior-xmm.md)    
-        - [Goristro](Compendium/bestiary/fiend/goristro-xmm.md)    
-        - [Hell Hound](Compendium/bestiary/fiend/hell-hound-xmm.md)    
-        - [Hezrou](Compendium/bestiary/fiend/hezrou-xmm.md)    
-        - [Horned Devil](Compendium/bestiary/fiend/horned-devil-xmm.md)    
-        - [Ice Devil](Compendium/bestiary/fiend/ice-devil-xmm.md)    
-        - [Imp](Compendium/bestiary/fiend/imp-xmm.md)    
-        - [Incubus](Compendium/bestiary/fiend/incubus-xmm.md)    
-        - [Jackalwere](Compendium/bestiary/fiend/jackalwere-xmm.md)    
-        - [Lamia](Compendium/bestiary/fiend/lamia-xmm.md)    
-        - [Larva](Compendium/bestiary/fiend/larva-xmm.md)    
-        - [Lemure](Compendium/bestiary/fiend/lemure-xmm.md)    
-        - [Manes](Compendium/bestiary/fiend/manes-xmm.md)    
-        - [Manes Vaporspawn](Compendium/bestiary/fiend/manes-vaporspawn-xmm.md)    
-        - [Marilith](Compendium/bestiary/fiend/marilith-xmm.md)    
-        - [Mezzoloth](Compendium/bestiary/fiend/mezzoloth-xmm.md)    
-        - [Nalfeshnee](Compendium/bestiary/fiend/nalfeshnee-xmm.md)    
-        - [Night Hag](Compendium/bestiary/fiend/night-hag-xmm.md)    
-        - [Nightmare](Compendium/bestiary/fiend/nightmare-xmm.md)    
-        - [Nycaloth](Compendium/bestiary/fiend/nycaloth-xmm.md)    
-        - [Oni](Compendium/bestiary/fiend/oni-xmm.md)    
-        - [Pit Fiend](Compendium/bestiary/fiend/pit-fiend-xmm.md)    
-        - [Quasit](Compendium/bestiary/fiend/quasit-xmm.md)    
-        - [Rakshasa](Compendium/bestiary/fiend/rakshasa-xmm.md)    
-        - [Sahuagin Baron](Compendium/bestiary/fiend/sahuagin-baron-xmm.md)    
-        - [Sahuagin Priest](Compendium/bestiary/fiend/sahuagin-priest-xmm.md)    
-        - [Sahuagin Warrior](Compendium/bestiary/fiend/sahuagin-warrior-xmm.md)    
-        - [Shadow Demon](Compendium/bestiary/fiend/shadow-demon-xmm.md)    
-        - [Spined Devil](Compendium/bestiary/fiend/spined-devil-xmm.md)    
-        - [Spirit Naga](Compendium/bestiary/fiend/spirit-naga-xmm.md)    
-        - [Succubus](Compendium/bestiary/fiend/succubus-xmm.md)    
-        - [Swarm of Dretches](Compendium/bestiary/fiend/swarm-of-dretches-xmm.md)    
-        - [Swarm of Larvae](Compendium/bestiary/fiend/swarm-of-larvae-xmm.md)    
-        - [Swarm of Lemures](Compendium/bestiary/fiend/swarm-of-lemures-xmm.md)    
-        - [Ultroloth](Compendium/bestiary/fiend/ultroloth-xmm.md)    
-        - [Vrock](Compendium/bestiary/fiend/vrock-xmm.md)    
-        - [Yochlol](Compendium/bestiary/fiend/yochlol-xmm.md)    
--     - [Cloud Giant](Compendium/bestiary/giant/cloud-giant-xmm.md)    
-        - [Cyclops Oracle](Compendium/bestiary/giant/cyclops-oracle-xmm.md)    
-        - [Cyclops Sentry](Compendium/bestiary/giant/cyclops-sentry-xmm.md)    
-        - [Ettin](Compendium/bestiary/giant/ettin-xmm.md)    
-        - [Fire Giant](Compendium/bestiary/giant/fire-giant-xmm.md)    
-        - [Fomorian](Compendium/bestiary/giant/fomorian-xmm.md)    
-        - [Frost Giant](Compendium/bestiary/giant/frost-giant-xmm.md)    
-        - [Hill Giant](Compendium/bestiary/giant/hill-giant-xmm.md)    
-        - [Ogre](Compendium/bestiary/giant/ogre-xmm.md)    
-        - [Ogrillon Ogre](Compendium/bestiary/giant/ogrillon-ogre-xmm.md)    
-        - [Stone Giant](Compendium/bestiary/giant/stone-giant-xmm.md)    
-        - [Storm Giant](Compendium/bestiary/giant/storm-giant-xmm.md)    
-        - [Troll](Compendium/bestiary/giant/troll-xmm.md)    
-        - [Troll Limb](Compendium/bestiary/giant/troll-limb-xmm.md)    
--     - [Aberrant Cultist](Compendium/bestiary/humanoid/aberrant-cultist-xmm.md)    
-        - [Archmage](Compendium/bestiary/humanoid/archmage-xmm.md)    
-        - [Archpriest](Compendium/bestiary/humanoid/archpriest-xmm.md)    
-        - [Assassin](Compendium/bestiary/humanoid/assassin-xmm.md)    
-        - [Bandit](Compendium/bestiary/humanoid/bandit-xmm.md)    
-        - [Bandit Captain](Compendium/bestiary/humanoid/bandit-captain-xmm.md)    
-        - [Bandit Crime Lord](Compendium/bestiary/humanoid/bandit-crime-lord-xmm.md)    
-        - [Bandit Deceiver](Compendium/bestiary/humanoid/bandit-deceiver-xmm.md)    
-        - [Berserker](Compendium/bestiary/humanoid/berserker-xmm.md)    
-        - [Berserker Commander](Compendium/bestiary/humanoid/berserker-commander-xmm.md)    
-        - [Commoner](Compendium/bestiary/humanoid/commoner-xmm.md)    
-        - [Cultist](Compendium/bestiary/humanoid/cultist-xmm.md)    
-        - [Cultist Fanatic](Compendium/bestiary/humanoid/cultist-fanatic-xmm.md)    
-        - [Cultist Hierophant](Compendium/bestiary/humanoid/cultist-hierophant-xmm.md)    
-        - [Death Cultist](Compendium/bestiary/humanoid/death-cultist-xmm.md)    
-        - [Druid](Compendium/bestiary/humanoid/druid-xmm.md)    
-        - [Elemental Cultist](Compendium/bestiary/humanoid/elemental-cultist-xmm.md)    
-        - [Fiend Cultist](Compendium/bestiary/humanoid/fiend-cultist-xmm.md)    
-        - [Gladiator](Compendium/bestiary/humanoid/gladiator-xmm.md)    
-        - [Guard](Compendium/bestiary/humanoid/guard-xmm.md)    
-        - [Guard Captain](Compendium/bestiary/humanoid/guard-captain-xmm.md)    
-        - [Knight](Compendium/bestiary/humanoid/knight-xmm.md)    
-        - [Mage](Compendium/bestiary/humanoid/mage-xmm.md)    
-        - [Mage Apprentice](Compendium/bestiary/humanoid/mage-apprentice-xmm.md)    
-        - [Noble](Compendium/bestiary/humanoid/noble-xmm.md)    
-        - [Noble Prodigy](Compendium/bestiary/humanoid/noble-prodigy-xmm.md)    
-        - [Performer](Compendium/bestiary/humanoid/performer-xmm.md)    
-        - [Performer Legend](Compendium/bestiary/humanoid/performer-legend-xmm.md)    
-        - [Performer Maestro](Compendium/bestiary/humanoid/performer-maestro-xmm.md)    
-        - [Pirate](Compendium/bestiary/humanoid/pirate-xmm.md)    
-        - [Pirate Admiral](Compendium/bestiary/humanoid/pirate-admiral-xmm.md)    
-        - [Pirate Captain](Compendium/bestiary/humanoid/pirate-captain-xmm.md)    
-        - [Priest](Compendium/bestiary/humanoid/priest-xmm.md)    
-        - [Priest Acolyte](Compendium/bestiary/humanoid/priest-acolyte-xmm.md)    
-        - [Questing Knight](Compendium/bestiary/humanoid/questing-knight-xmm.md)    
-        - [Scout](Compendium/bestiary/humanoid/scout-xmm.md)    
-        - [Scout Captain](Compendium/bestiary/humanoid/scout-captain-xmm.md)    
-        - [Spy](Compendium/bestiary/humanoid/spy-xmm.md)    
-        - [Spy Master](Compendium/bestiary/humanoid/spy-master-xmm.md)    
-        - [Tough](Compendium/bestiary/humanoid/tough-xmm.md)    
-        - [Tough Boss](Compendium/bestiary/humanoid/tough-boss-xmm.md)    
-        - [Vampire Familiar](Compendium/bestiary/humanoid/vampire-familiar-xmm.md)    
-        - [Warrior Commander](Compendium/bestiary/humanoid/warrior-commander-xmm.md)    
-        - [Warrior Infantry](Compendium/bestiary/humanoid/warrior-infantry-xmm.md)    
-        - [Warrior Veteran](Compendium/bestiary/humanoid/warrior-veteran-xmm.md)    
--     - [Abominable Yeti](Compendium/bestiary/monstrosity/abominable-yeti-xmm.md)    
-        - [Ankheg](Compendium/bestiary/monstrosity/ankheg-xmm.md)    
-        - [Axe Beak](Compendium/bestiary/monstrosity/axe-beak-xmm.md)    
-        - [Basilisk](Compendium/bestiary/monstrosity/basilisk-xmm.md)    
-        - [Behir](Compendium/bestiary/monstrosity/behir-xmm.md)    
-        - [Bulette](Compendium/bestiary/monstrosity/bulette-xmm.md)    
-        - [Bulette Pup](Compendium/bestiary/monstrosity/bulette-pup-xmm.md)    
-        - [Carrion Crawler](Compendium/bestiary/monstrosity/carrion-crawler-xmm.md)    
-        - [Chimera](Compendium/bestiary/monstrosity/chimera-xmm.md)    
-        - [Cockatrice](Compendium/bestiary/monstrosity/cockatrice-xmm.md)    
-        - [Cockatrice Regent](Compendium/bestiary/monstrosity/cockatrice-regent-xmm.md)    
-        - [Death Dog](Compendium/bestiary/monstrosity/death-dog-xmm.md)    
-        - [Displacer Beast](Compendium/bestiary/monstrosity/displacer-beast-xmm.md)    
-        - [Doppelganger](Compendium/bestiary/monstrosity/doppelganger-xmm.md)    
-        - [Drider](Compendium/bestiary/monstrosity/drider-xmm.md)    
-        - [Ettercap](Compendium/bestiary/monstrosity/ettercap-xmm.md)    
-        - [Flying Snake](Compendium/bestiary/monstrosity/flying-snake-xmm.md)    
-        - [Giant Axe Beak](Compendium/bestiary/monstrosity/giant-axe-beak-xmm.md)    
-        - [Giant Vulture](Compendium/bestiary/monstrosity/giant-vulture-xmm.md)    
-        - [Griffon](Compendium/bestiary/monstrosity/griffon-xmm.md)    
-        - [Harpy](Compendium/bestiary/monstrosity/harpy-xmm.md)    
-        - [Hippogriff](Compendium/bestiary/monstrosity/hippogriff-xmm.md)    
-        - [Hook Horror](Compendium/bestiary/monstrosity/hook-horror-xmm.md)    
-        - [Hydra](Compendium/bestiary/monstrosity/hydra-xmm.md)    
-        - [Kenku](Compendium/bestiary/monstrosity/kenku-xmm.md)    
-        - [Kraken](Compendium/bestiary/monstrosity/kraken-xmm.md)    
-        - [Manticore](Compendium/bestiary/monstrosity/manticore-xmm.md)    
-        - [Medusa](Compendium/bestiary/monstrosity/medusa-xmm.md)    
-        - [Merrow](Compendium/bestiary/monstrosity/merrow-xmm.md)    
-        - [Mimic](Compendium/bestiary/monstrosity/mimic-xmm.md)    
-        - [Minotaur of Baphomet](Compendium/bestiary/monstrosity/minotaur-of-baphomet-xmm.md)    
-        - [Owlbear](Compendium/bestiary/monstrosity/owlbear-xmm.md)    
-        - [Peryton](Compendium/bestiary/monstrosity/peryton-xmm.md)    
-        - [Phase Spider](Compendium/bestiary/monstrosity/phase-spider-xmm.md)    
-        - [Primeval Owlbear](Compendium/bestiary/monstrosity/primeval-owlbear-xmm.md)    
-        - [Purple Worm](Compendium/bestiary/monstrosity/purple-worm-xmm.md)    
-        - [Quaggoth](Compendium/bestiary/monstrosity/quaggoth-xmm.md)    
-        - [Quaggoth Thonot](Compendium/bestiary/monstrosity/quaggoth-thonot-xmm.md)    
-        - [Remorhaz](Compendium/bestiary/monstrosity/remorhaz-xmm.md)    
-        - [Roc](Compendium/bestiary/monstrosity/roc-xmm.md)    
-        - [Rust Monster](Compendium/bestiary/monstrosity/rust-monster-xmm.md)    
-        - [Stirge](Compendium/bestiary/monstrosity/stirge-xmm.md)    
-        - [Swarm of Stirges](Compendium/bestiary/monstrosity/swarm-of-stirges-xmm.md)    
-        - [Tarrasque](Compendium/bestiary/monstrosity/tarrasque-xmm.md)    
-        - [Thri-kreen Marauder](Compendium/bestiary/monstrosity/thri-kreen-marauder-xmm.md)    
-        - [Thri-kreen Psion](Compendium/bestiary/monstrosity/thri-kreen-psion-xmm.md)    
-        - [Troglodyte](Compendium/bestiary/monstrosity/troglodyte-xmm.md)    
-        - [Umber Hulk](Compendium/bestiary/monstrosity/umber-hulk-xmm.md)    
-        - [Werebear](Compendium/bestiary/monstrosity/werebear-xmm.md)    
-        - [Wereboar](Compendium/bestiary/monstrosity/wereboar-xmm.md)    
-        - [Wererat](Compendium/bestiary/monstrosity/wererat-xmm.md)    
-        - [Weretiger](Compendium/bestiary/monstrosity/weretiger-xmm.md)    
-        - [Werewolf](Compendium/bestiary/monstrosity/werewolf-xmm.md)    
-        - [Winter Wolf](Compendium/bestiary/monstrosity/winter-wolf-xmm.md)    
-        - [Yeti](Compendium/bestiary/monstrosity/yeti-xmm.md)    
-        - [Young Remorhaz](Compendium/bestiary/monstrosity/young-remorhaz-xmm.md)    
-        - [Yuan-ti Abomination](Compendium/bestiary/monstrosity/yuan-ti-abomination-xmm.md)    
-        - [Yuan-ti Infiltrator](Compendium/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md)    
-        - [Yuan-ti Malison (Type 1)](Compendium/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md)    
-        - [Yuan-ti Malison (Type 2)](Compendium/bestiary/monstrosity/yuan-ti-malison-type-2-xmm.md)    
-        - [Yuan-ti Malison (Type 3)](Compendium/bestiary/monstrosity/yuan-ti-malison-type-3-xmm.md)    
--     - [Black Pudding](Compendium/bestiary/ooze/black-pudding-xmm.md)    
-        - [Blob of Annihilation](Compendium/bestiary/ooze/blob-of-annihilation-xmm.md)    
-        - [Gelatinous Cube](Compendium/bestiary/ooze/gelatinous-cube-xmm.md)    
-        - [Gray Ooze](Compendium/bestiary/ooze/gray-ooze-xmm.md)    
-        - [Ochre Jelly](Compendium/bestiary/ooze/ochre-jelly-xmm.md)    
-        - [Psychic Gray Ooze](Compendium/bestiary/ooze/psychic-gray-ooze-xmm.md)    
--     - [Awakened Shrub](Compendium/bestiary/plant/awakened-shrub-xmm.md)    
-        - [Awakened Tree](Compendium/bestiary/plant/awakened-tree-xmm.md)    
-        - [Gas Spore Fungus](Compendium/bestiary/plant/gas-spore-fungus-xmm.md)    
-        - [Gulthias Blight](Compendium/bestiary/plant/gulthias-blight-xmm.md)    
-        - [Myconid Adult](Compendium/bestiary/plant/myconid-adult-xmm.md)    
-        - [Myconid Sovereign](Compendium/bestiary/plant/myconid-sovereign-xmm.md)    
-        - [Myconid Spore Servant](Compendium/bestiary/plant/myconid-spore-servant-xmm.md)    
-        - [Myconid Sprout](Compendium/bestiary/plant/myconid-sprout-xmm.md)    
-        - [Needle Blight](Compendium/bestiary/plant/needle-blight-xmm.md)    
-        - [Shambling Mound](Compendium/bestiary/plant/shambling-mound-xmm.md)    
-        - [Shrieker Fungus](Compendium/bestiary/plant/shrieker-fungus-xmm.md)    
-        - [Treant](Compendium/bestiary/plant/treant-xmm.md)    
-        - [Tree Blight](Compendium/bestiary/plant/tree-blight-xmm.md)    
-        - [Twig Blight](Compendium/bestiary/plant/twig-blight-xmm.md)    
-        - [Vine Blight](Compendium/bestiary/plant/vine-blight-xmm.md)    
-        - [Violet Fungus](Compendium/bestiary/plant/violet-fungus-xmm.md)    
-        - [Violet Fungus Necrohulk](Compendium/bestiary/plant/violet-fungus-necrohulk-xmm.md)    
--     - [Banshee](Compendium/bestiary/undead/banshee-xmm.md)    
-        - [Beholder Zombie](Compendium/bestiary/undead/beholder-zombie-xmm.md)    
-        - [Bone Naga](Compendium/bestiary/undead/bone-naga-xmm.md)    
-        - [Crawling Claw](Compendium/bestiary/undead/crawling-claw-xmm.md)    
-        - [Death Knight](Compendium/bestiary/undead/death-knight-xmm.md)    
-        - [Death Knight Aspirant](Compendium/bestiary/undead/death-knight-aspirant-xmm.md)    
-        - [Death Tyrant](Compendium/bestiary/undead/death-tyrant-xmm.md)    
-        - [Demilich](Compendium/bestiary/undead/demilich-xmm.md)    
-        - [Dracolich](Compendium/bestiary/undead/dracolich-xmm.md)    
-        - [Flameskull](Compendium/bestiary/undead/flameskull-xmm.md)    
-        - [Flaming Skeleton](Compendium/bestiary/undead/flaming-skeleton-xmm.md)    
-        - [Ghast](Compendium/bestiary/undead/ghast-xmm.md)    
-        - [Ghast Gravecaller](Compendium/bestiary/undead/ghast-gravecaller-xmm.md)    
-        - [Ghost](Compendium/bestiary/undead/ghost-xmm.md)    
-        - [Ghoul](Compendium/bestiary/undead/ghoul-xmm.md)    
-        - [Graveyard Revenant](Compendium/bestiary/undead/graveyard-revenant-xmm.md)    
-        - [Haunting Revenant](Compendium/bestiary/undead/haunting-revenant-xmm.md)    
-        - [Lacedon Ghoul](Compendium/bestiary/undead/lacedon-ghoul-xmm.md)    
-        - [Lich](Compendium/bestiary/undead/lich-xmm.md)    
-        - [Minotaur Skeleton](Compendium/bestiary/undead/minotaur-skeleton-xmm.md)    
-        - [Mummy](Compendium/bestiary/undead/mummy-xmm.md)    
-        - [Mummy Lord](Compendium/bestiary/undead/mummy-lord-xmm.md)    
-        - [Ogre Zombie](Compendium/bestiary/undead/ogre-zombie-xmm.md)    
-        - [Poltergeist](Compendium/bestiary/undead/poltergeist-xmm.md)    
-        - [Revenant](Compendium/bestiary/undead/revenant-xmm.md)    
-        - [Shadow](Compendium/bestiary/undead/shadow-xmm.md)    
-        - [Skeleton](Compendium/bestiary/undead/skeleton-xmm.md)    
-        - [Specter](Compendium/bestiary/undead/specter-xmm.md)    
-        - [Swarm of Crawling Claws](Compendium/bestiary/undead/swarm-of-crawling-claws-xmm.md)    
-        - [Vampire](Compendium/bestiary/undead/vampire-xmm.md)    
-        - [Vampire Nightbringer](Compendium/bestiary/undead/vampire-nightbringer-xmm.md)    
-        - [Vampire Spawn](Compendium/bestiary/undead/vampire-spawn-xmm.md)    
-        - [Vampire Umbral Lord](Compendium/bestiary/undead/vampire-umbral-lord-xmm.md)    
-        - [Warhorse Skeleton](Compendium/bestiary/undead/warhorse-skeleton-xmm.md)    
-        - [Wight](Compendium/bestiary/undead/wight-xmm.md)    
-        - [Will-o'-Wisp](Compendium/bestiary/undead/will-o-wisp-xmm.md)    
-        - [Wraith](Compendium/bestiary/undead/wraith-xmm.md)    
-        - [Zombie](Compendium/bestiary/undead/zombie-xmm.md)    
+-     - [[aboleth-xmm]]    
+        - [[beholder-xmm]]    
+        - [[blue-slaad-xmm]]    
+        - [[chuul-xmm]]    
+        - [[cloaker-xmm]]    
+        - [[darkmantle-xmm]]    
+        - [[death-slaad-xmm]]    
+        - [[flumph-xmm]]    
+        - [[gibbering-mouther-xmm]]    
+        - [[githyanki-dracomancer-xmm]]    
+        - [[githyanki-knight-xmm]]    
+        - [[githyanki-warrior-xmm]]    
+        - [[githzerai-monk-xmm]]    
+        - [[githzerai-psion-xmm]]    
+        - [[githzerai-zerth-xmm]]    
+        - [[gray-slaad-xmm]]    
+        - [[green-slaad-xmm]]    
+        - [[grell-xmm]]    
+        - [[grick-xmm]]    
+        - [[grick-ancient-xmm]]    
+        - [[grimlock-xmm]]    
+        - [[intellect-devourer-xmm]]    
+        - [[kuo-toa-xmm]]    
+        - [[kuo-toa-archpriest-xmm]]    
+        - [[kuo-toa-monitor-xmm]]    
+        - [[kuo-toa-whip-xmm]]    
+        - [[mind-flayer-xmm]]    
+        - [[mind-flayer-arcanist-xmm]]    
+        - [[nothic-xmm]]    
+        - [[otyugh-xmm]]    
+        - [[piercer-xmm]]    
+        - [[red-slaad-xmm]]    
+        - [[roper-xmm]]    
+        - [[slaad-tadpole-xmm]]    
+        - [[spectator-xmm]]    
+-     - [[allosaurus-xmm]]    
+        - [[ankylosaurus-xmm]]    
+        - [[ape-xmm]]    
+        - [[archelon-xmm]]    
+        - [[baboon-xmm]]    
+        - [[badger-xmm]]    
+        - [[bat-xmm]]    
+        - [[black-bear-xmm]]    
+        - [[blood-hawk-xmm]]    
+        - [[boar-xmm]]    
+        - [[brown-bear-xmm]]    
+        - [[camel-xmm]]    
+        - [[cat-xmm]]    
+        - [[constrictor-snake-xmm]]    
+        - [[crab-xmm]]    
+        - [[crocodile-xmm]]    
+        - [[deer-xmm]]    
+        - [[dire-wolf-xmm]]    
+        - [[draft-horse-xmm]]    
+        - [[eagle-xmm]]    
+        - [[elephant-xmm]]    
+        - [[elk-xmm]]    
+        - [[frog-xmm]]    
+        - [[giant-ape-xmm]]    
+        - [[giant-badger-xmm]]    
+        - [[giant-bat-xmm]]    
+        - [[giant-boar-xmm]]    
+        - [[giant-centipede-xmm]]    
+        - [[giant-constrictor-snake-xmm]]    
+        - [[giant-crab-xmm]]    
+        - [[giant-crocodile-xmm]]    
+        - [[giant-fire-beetle-xmm]]    
+        - [[giant-frog-xmm]]    
+        - [[giant-goat-xmm]]    
+        - [[giant-hyena-xmm]]    
+        - [[giant-lizard-xmm]]    
+        - [[giant-octopus-xmm]]    
+        - [[giant-rat-xmm]]    
+        - [[giant-scorpion-xmm]]    
+        - [[giant-seahorse-xmm]]    
+        - [[giant-shark-xmm]]    
+        - [[giant-spider-xmm]]    
+        - [[giant-squid-xmm]]    
+        - [[giant-toad-xmm]]    
+        - [[giant-venomous-snake-xmm]]    
+        - [[giant-wasp-xmm]]    
+        - [[giant-weasel-xmm]]    
+        - [[giant-wolf-spider-xmm]]    
+        - [[goat-xmm]]    
+        - [[hawk-xmm]]    
+        - [[hippopotamus-xmm]]    
+        - [[hunter-shark-xmm]]    
+        - [[hyena-xmm]]    
+        - [[jackal-xmm]]    
+        - [[killer-whale-xmm]]    
+        - [[lion-xmm]]    
+        - [[lizard-xmm]]    
+        - [[mammoth-xmm]]    
+        - [[mastiff-xmm]]    
+        - [[mule-xmm]]    
+        - [[octopus-xmm]]    
+        - [[owl-xmm]]    
+        - [[panther-xmm]]    
+        - [[piranha-xmm]]    
+        - [[plesiosaurus-xmm]]    
+        - [[polar-bear-xmm]]    
+        - [[pony-xmm]]    
+        - [[pteranodon-xmm]]    
+        - [[rat-xmm]]    
+        - [[raven-xmm]]    
+        - [[reef-shark-xmm]]    
+        - [[rhinoceros-xmm]]    
+        - [[riding-horse-xmm]]    
+        - [[saber-toothed-tiger-xmm]]    
+        - [[scorpion-xmm]]    
+        - [[seahorse-xmm]]    
+        - [[spider-xmm]]    
+        - [[swarm-of-bats-xmm]]    
+        - [[swarm-of-insects-xmm]]    
+        - [[swarm-of-piranhas-xmm]]    
+        - [[swarm-of-rats-xmm]]    
+        - [[swarm-of-ravens-xmm]]    
+        - [[swarm-of-venomous-snakes-xmm]]    
+        - [[tiger-xmm]]    
+        - [[triceratops-xmm]]    
+        - [[tyrannosaurus-rex-xmm]]    
+        - [[venomous-snake-xmm]]    
+        - [[vulture-xmm]]    
+        - [[warhorse-xmm]]    
+        - [[weasel-xmm]]    
+        - [[wolf-xmm]]    
+-     - [[animal-lord-xmm]]    
+        - [[couatl-xmm]]    
+        - [[deva-xmm]]    
+        - [[giant-eagle-xmm]]    
+        - [[giant-elk-xmm]]    
+        - [[giant-owl-xmm]]    
+        - [[guardian-naga-xmm]]    
+        - [[pegasus-xmm]]    
+        - [[planetar-xmm]]    
+        - [[solar-xmm]]    
+        - [[sphinx-of-lore-xmm]]    
+        - [[sphinx-of-secrets-xmm]]    
+        - [[sphinx-of-valor-xmm]]    
+        - [[sphinx-of-wonder-xmm]]    
+        - [[unicorn-xmm]]    
+-     - [[animated-armor-xmm]]    
+        - [[animated-broom-xmm]]    
+        - [[animated-flying-sword-xmm]]    
+        - [[animated-rug-of-smothering-xmm]]    
+        - [[brazen-gorgon-xmm]]    
+        - [[clay-golem-xmm]]    
+        - [[colossus-xmm]]    
+        - [[flesh-golem-xmm]]    
+        - [[gorgon-xmm]]    
+        - [[helmed-horror-xmm]]    
+        - [[homunculus-xmm]]    
+        - [[iron-golem-xmm]]    
+        - [[modron-duodrone-xmm]]    
+        - [[modron-monodrone-xmm]]    
+        - [[modron-pentadrone-xmm]]    
+        - [[modron-quadrone-xmm]]    
+        - [[modron-tridrone-xmm]]    
+        - [[scarecrow-xmm]]    
+        - [[shield-guardian-xmm]]    
+        - [[stone-golem-xmm]]    
+-     - [[adult-black-dragon-xmm]]    
+        - [[adult-blue-dragon-xmm]]    
+        - [[adult-brass-dragon-xmm]]    
+        - [[adult-bronze-dragon-xmm]]    
+        - [[adult-copper-dragon-xmm]]    
+        - [[adult-gold-dragon-xmm]]    
+        - [[adult-green-dragon-xmm]]    
+        - [[adult-red-dragon-xmm]]    
+        - [[adult-silver-dragon-xmm]]    
+        - [[adult-white-dragon-xmm]]    
+        - [[ancient-black-dragon-xmm]]    
+        - [[ancient-blue-dragon-xmm]]    
+        - [[ancient-brass-dragon-xmm]]    
+        - [[ancient-bronze-dragon-xmm]]    
+        - [[ancient-copper-dragon-xmm]]    
+        - [[ancient-gold-dragon-xmm]]    
+        - [[ancient-green-dragon-xmm]]    
+        - [[ancient-red-dragon-xmm]]    
+        - [[ancient-silver-dragon-xmm]]    
+        - [[ancient-white-dragon-xmm]]    
+        - [[black-dragon-wyrmling-xmm]]    
+        - [[blue-dragon-wyrmling-xmm]]    
+        - [[brass-dragon-wyrmling-xmm]]    
+        - [[bronze-dragon-wyrmling-xmm]]    
+        - [[copper-dragon-wyrmling-xmm]]    
+        - [[dragon-turtle-xmm]]    
+        - [[faerie-dragon-adult-xmm]]    
+        - [[faerie-dragon-youth-xmm]]    
+        - [[gold-dragon-wyrmling-xmm]]    
+        - [[green-dragon-wyrmling-xmm]]    
+        - [[half-dragon-xmm]]    
+        - [[juvenile-shadow-dragon-xmm]]    
+        - [[kobold-warrior-xmm]]    
+        - [[pseudodragon-xmm]]    
+        - [[red-dragon-wyrmling-xmm]]    
+        - [[shadow-dragon-xmm]]    
+        - [[silver-dragon-wyrmling-xmm]]    
+        - [[white-dragon-wyrmling-xmm]]    
+        - [[winged-kobold-xmm]]    
+        - [[wyvern-xmm]]    
+        - [[young-black-dragon-xmm]]    
+        - [[young-blue-dragon-xmm]]    
+        - [[young-brass-dragon-xmm]]    
+        - [[young-bronze-dragon-xmm]]    
+        - [[young-copper-dragon-xmm]]    
+        - [[young-gold-dragon-xmm]]    
+        - [[young-green-dragon-xmm]]    
+        - [[young-red-dragon-xmm]]    
+        - [[young-silver-dragon-xmm]]    
+        - [[young-white-dragon-xmm]]    
+-     - [[aarakocra-aeromancer-xmm]]    
+        - [[aarakocra-skirmisher-xmm]]    
+        - [[air-elemental-xmm]]    
+        - [[azer-pyromancer-xmm]]    
+        - [[azer-sentinel-xmm]]    
+        - [[dao-xmm]]    
+        - [[djinni-xmm]]    
+        - [[dust-mephit-xmm]]    
+        - [[earth-elemental-xmm]]    
+        - [[efreeti-xmm]]    
+        - [[elemental-cataclysm-xmm]]    
+        - [[fire-elemental-xmm]]    
+        - [[galeb-duhr-xmm]]    
+        - [[gargoyle-xmm]]    
+        - [[ice-mephit-xmm]]    
+        - [[invisible-stalker-xmm]]    
+        - [[lizardfolk-geomancer-xmm]]    
+        - [[lizardfolk-sovereign-xmm]]    
+        - [[magma-mephit-xmm]]    
+        - [[magmin-xmm]]    
+        - [[marid-xmm]]    
+        - [[merfolk-skirmisher-xmm]]    
+        - [[merfolk-wavebender-xmm]]    
+        - [[mud-mephit-xmm]]    
+        - [[salamander-xmm]]    
+        - [[salamander-fire-snake-xmm]]    
+        - [[salamander-inferno-master-xmm]]    
+        - [[smoke-mephit-xmm]]    
+        - [[steam-mephit-xmm]]    
+        - [[water-elemental-xmm]]    
+        - [[water-weird-xmm]]    
+        - [[xorn-xmm]]    
+-     - [[arch-hag-xmm]]    
+        - [[blink-dog-xmm]]    
+        - [[bugbear-stalker-xmm]]    
+        - [[bugbear-warrior-xmm]]    
+        - [[bullywug-bog-sage-xmm]]    
+        - [[bullywug-warrior-xmm]]    
+        - [[centaur-trooper-xmm]]    
+        - [[centaur-warden-xmm]]    
+        - [[dire-worg-xmm]]    
+        - [[dryad-xmm]]    
+        - [[goblin-boss-xmm]]    
+        - [[goblin-hexer-xmm]]    
+        - [[goblin-minion-xmm]]    
+        - [[goblin-warrior-xmm]]    
+        - [[green-hag-xmm]]    
+        - [[hobgoblin-captain-xmm]]    
+        - [[hobgoblin-warlord-xmm]]    
+        - [[hobgoblin-warrior-xmm]]    
+        - [[pixie-xmm]]    
+        - [[pixie-wonderbringer-xmm]]    
+        - [[satyr-xmm]]    
+        - [[satyr-revelmaster-xmm]]    
+        - [[sea-hag-xmm]]    
+        - [[sprite-xmm]]    
+        - [[worg-xmm]]    
+-     - [[arcanaloth-xmm]]    
+        - [[balor-xmm]]    
+        - [[barbed-devil-xmm]]    
+        - [[barlgura-xmm]]    
+        - [[bearded-devil-xmm]]    
+        - [[bone-devil-xmm]]    
+        - [[cambion-xmm]]    
+        - [[chain-devil-xmm]]    
+        - [[chasme-xmm]]    
+        - [[dretch-xmm]]    
+        - [[erinyes-xmm]]    
+        - [[glabrezu-xmm]]    
+        - [[gnoll-demoniac-xmm]]    
+        - [[gnoll-fang-of-yeenoghu-xmm]]    
+        - [[gnoll-pack-lord-xmm]]    
+        - [[gnoll-warrior-xmm]]    
+        - [[goristro-xmm]]    
+        - [[hell-hound-xmm]]    
+        - [[hezrou-xmm]]    
+        - [[horned-devil-xmm]]    
+        - [[ice-devil-xmm]]    
+        - [[imp-xmm]]    
+        - [[incubus-xmm]]    
+        - [[jackalwere-xmm]]    
+        - [[lamia-xmm]]    
+        - [[larva-xmm]]    
+        - [[lemure-xmm]]    
+        - [[manes-xmm]]    
+        - [[manes-vaporspawn-xmm]]    
+        - [[marilith-xmm]]    
+        - [[mezzoloth-xmm]]    
+        - [[nalfeshnee-xmm]]    
+        - [[night-hag-xmm]]    
+        - [[nightmare-xmm]]    
+        - [[nycaloth-xmm]]    
+        - [[oni-xmm]]    
+        - [[pit-fiend-xmm]]    
+        - [[quasit-xmm]]    
+        - [[rakshasa-xmm]]    
+        - [[sahuagin-baron-xmm]]    
+        - [[sahuagin-priest-xmm]]    
+        - [[sahuagin-warrior-xmm]]    
+        - [[shadow-demon-xmm]]    
+        - [[spined-devil-xmm]]    
+        - [[spirit-naga-xmm]]    
+        - [[succubus-xmm]]    
+        - [[swarm-of-dretches-xmm]]    
+        - [[swarm-of-larvae-xmm]]    
+        - [[swarm-of-lemures-xmm]]    
+        - [[ultroloth-xmm]]    
+        - [[vrock-xmm]]    
+        - [[yochlol-xmm]]    
+-     - [[cloud-giant-xmm]]    
+        - [[cyclops-oracle-xmm]]    
+        - [[cyclops-sentry-xmm]]    
+        - [[ettin-xmm]]    
+        - [[fire-giant-xmm]]    
+        - [[fomorian-xmm]]    
+        - [[frost-giant-xmm]]    
+        - [[hill-giant-xmm]]    
+        - [[ogre-xmm]]    
+        - [[ogrillon-ogre-xmm]]    
+        - [[stone-giant-xmm]]    
+        - [[storm-giant-xmm]]    
+        - [[troll-xmm]]    
+        - [[troll-limb-xmm]]    
+-     - [[aberrant-cultist-xmm]]    
+        - [[archmage-xmm]]    
+        - [[archpriest-xmm]]    
+        - [[assassin-xmm]]    
+        - [[bandit-xmm]]    
+        - [[bandit-captain-xmm]]    
+        - [[bandit-crime-lord-xmm]]    
+        - [[bandit-deceiver-xmm]]    
+        - [[berserker-xmm]]    
+        - [[berserker-commander-xmm]]    
+        - [[commoner-xmm]]    
+        - [[cultist-xmm]]    
+        - [[cultist-fanatic-xmm]]    
+        - [[cultist-hierophant-xmm]]    
+        - [[death-cultist-xmm]]    
+        - [[druid-xmm]]    
+        - [[elemental-cultist-xmm]]    
+        - [[fiend-cultist-xmm]]    
+        - [[gladiator-xmm]]    
+        - [[guard-xmm]]    
+        - [[guard-captain-xmm]]    
+        - [[knight-xmm]]    
+        - [[mage-xmm]]    
+        - [[mage-apprentice-xmm]]    
+        - [[noble-xmm]]    
+        - [[noble-prodigy-xmm]]    
+        - [[performer-xmm]]    
+        - [[performer-legend-xmm]]    
+        - [[performer-maestro-xmm]]    
+        - [[pirate-xmm]]    
+        - [[pirate-admiral-xmm]]    
+        - [[pirate-captain-xmm]]    
+        - [[priest-xmm]]    
+        - [[priest-acolyte-xmm]]    
+        - [[questing-knight-xmm]]    
+        - [[scout-xmm]]    
+        - [[scout-captain-xmm]]    
+        - [[spy-xmm]]    
+        - [[spy-master-xmm]]    
+        - [[tough-xmm]]    
+        - [[tough-boss-xmm]]    
+        - [[vampire-familiar-xmm]]    
+        - [[warrior-commander-xmm]]    
+        - [[warrior-infantry-xmm]]    
+        - [[warrior-veteran-xmm]]    
+-     - [[abominable-yeti-xmm]]    
+        - [[ankheg-xmm]]    
+        - [[axe-beak-xmm]]    
+        - [[basilisk-xmm]]    
+        - [[behir-xmm]]    
+        - [[bulette-xmm]]    
+        - [[bulette-pup-xmm]]    
+        - [[carrion-crawler-xmm]]    
+        - [[chimera-xmm]]    
+        - [[cockatrice-xmm]]    
+        - [[cockatrice-regent-xmm]]    
+        - [[death-dog-xmm]]    
+        - [[displacer-beast-xmm]]    
+        - [[doppelganger-xmm]]    
+        - [[drider-xmm]]    
+        - [[ettercap-xmm]]    
+        - [[flying-snake-xmm]]    
+        - [[giant-axe-beak-xmm]]    
+        - [[giant-vulture-xmm]]    
+        - [[griffon-xmm]]    
+        - [[harpy-xmm]]    
+        - [[hippogriff-xmm]]    
+        - [[hook-horror-xmm]]    
+        - [[hydra-xmm]]    
+        - [[kenku-xmm]]    
+        - [[kraken-xmm]]    
+        - [[manticore-xmm]]    
+        - [[medusa-xmm]]    
+        - [[merrow-xmm]]    
+        - [[mimic-xmm]]    
+        - [[minotaur-of-baphomet-xmm]]    
+        - [[owlbear-xmm]]    
+        - [[peryton-xmm]]    
+        - [[phase-spider-xmm]]    
+        - [[primeval-owlbear-xmm]]    
+        - [[purple-worm-xmm]]    
+        - [[quaggoth-xmm]]    
+        - [[quaggoth-thonot-xmm]]    
+        - [[remorhaz-xmm]]    
+        - [[roc-xmm]]    
+        - [[rust-monster-xmm]]    
+        - [[stirge-xmm]]    
+        - [[swarm-of-stirges-xmm]]    
+        - [[tarrasque-xmm]]    
+        - [[thri-kreen-marauder-xmm]]    
+        - [[thri-kreen-psion-xmm]]    
+        - [[troglodyte-xmm]]    
+        - [[umber-hulk-xmm]]    
+        - [[werebear-xmm]]    
+        - [[wereboar-xmm]]    
+        - [[wererat-xmm]]    
+        - [[weretiger-xmm]]    
+        - [[werewolf-xmm]]    
+        - [[winter-wolf-xmm]]    
+        - [[yeti-xmm]]    
+        - [[young-remorhaz-xmm]]    
+        - [[yuan-ti-abomination-xmm]]    
+        - [[yuan-ti-infiltrator-xmm]]    
+        - [[yuan-ti-malison-type-1-xmm]]    
+        - [[yuan-ti-malison-type-2-xmm]]    
+        - [[yuan-ti-malison-type-3-xmm]]    
+-     - [[black-pudding-xmm]]    
+        - [[blob-of-annihilation-xmm]]    
+        - [[gelatinous-cube-xmm]]    
+        - [[gray-ooze-xmm]]    
+        - [[ochre-jelly-xmm]]    
+        - [[psychic-gray-ooze-xmm]]    
+-     - [[awakened-shrub-xmm]]    
+        - [[awakened-tree-xmm]]    
+        - [[gas-spore-fungus-xmm]]    
+        - [[gulthias-blight-xmm]]    
+        - [[myconid-adult-xmm]]    
+        - [[myconid-sovereign-xmm]]    
+        - [[myconid-spore-servant-xmm]]    
+        - [[myconid-sprout-xmm]]    
+        - [[needle-blight-xmm]]    
+        - [[shambling-mound-xmm]]    
+        - [[shrieker-fungus-xmm]]    
+        - [[treant-xmm]]    
+        - [[tree-blight-xmm]]    
+        - [[twig-blight-xmm]]    
+        - [[vine-blight-xmm]]    
+        - [[violet-fungus-xmm]]    
+        - [[violet-fungus-necrohulk-xmm]]    
+-     - [[banshee-xmm]]    
+        - [[beholder-zombie-xmm]]    
+        - [[bone-naga-xmm]]    
+        - [[crawling-claw-xmm]]    
+        - [[death-knight-xmm]]    
+        - [[death-knight-aspirant-xmm]]    
+        - [[death-tyrant-xmm]]    
+        - [[demilich-xmm]]    
+        - [[dracolich-xmm]]    
+        - [[flameskull-xmm]]    
+        - [[flaming-skeleton-xmm]]    
+        - [[ghast-xmm]]    
+        - [[ghast-gravecaller-xmm]]    
+        - [[ghost-xmm]]    
+        - [[ghoul-xmm]]    
+        - [[graveyard-revenant-xmm]]    
+        - [[haunting-revenant-xmm]]    
+        - [[lacedon-ghoul-xmm]]    
+        - [[lich-xmm]]    
+        - [[minotaur-skeleton-xmm]]    
+        - [[mummy-xmm]]    
+        - [[mummy-lord-xmm]]    
+        - [[ogre-zombie-xmm]]    
+        - [[poltergeist-xmm]]    
+        - [[revenant-xmm]]    
+        - [[shadow-xmm]]    
+        - [[skeleton-xmm]]    
+        - [[specter-xmm]]    
+        - [[swarm-of-crawling-claws-xmm]]    
+        - [[vampire-xmm]]    
+        - [[vampire-nightbringer-xmm]]    
+        - [[vampire-spawn-xmm]]    
+        - [[vampire-umbral-lord-xmm]]    
+        - [[warhorse-skeleton-xmm]]    
+        - [[wight-xmm]]    
+        - [[will-o-wisp-xmm]]    
+        - [[wraith-xmm]]    
+        - [[zombie-xmm]]    
 
 ## Monsters by Group
 
 The following lists present stat blocks that share descriptive tags or that are part of a group that's not reflected by their name.
 
--     - [Deva](Compendium/bestiary/celestial/deva-xmm.md)    
-        - [Planetar](Compendium/bestiary/celestial/planetar-xmm.md)    
-        - [Solar](Compendium/bestiary/celestial/solar-xmm.md)    
--     - [Beholder](Compendium/bestiary/aberration/beholder-xmm.md)    
-        - [Beholder Zombie](Compendium/bestiary/undead/beholder-zombie-xmm.md)    
-        - [Death Tyrant](Compendium/bestiary/undead/death-tyrant-xmm.md)    
-        - [Spectator](Compendium/bestiary/aberration/spectator-xmm.md)    
--     - [Balor](Compendium/bestiary/fiend/balor-xmm.md)    
-        - [Barlgura](Compendium/bestiary/fiend/barlgura-xmm.md)    
-        - [Chasme](Compendium/bestiary/fiend/chasme-xmm.md)    
-        - Dretches (all) ([Dretch](Compendium/bestiary/fiend/dretch-xmm.md), [Swarm of Dretches](Compendium/bestiary/fiend/swarm-of-dretches-xmm.md))    
-        - [Glabrezu](Compendium/bestiary/fiend/glabrezu-xmm.md)    
-        - [Goristro](Compendium/bestiary/fiend/goristro-xmm.md)    
-        - [Hezrou](Compendium/bestiary/fiend/hezrou-xmm.md)    
-        - Manes (all) ([Manes](Compendium/bestiary/fiend/manes-xmm.md), [Manes Vaporspawn](Compendium/bestiary/fiend/manes-vaporspawn-xmm.md))    
-        - [Marilith](Compendium/bestiary/fiend/marilith-xmm.md)    
-        - [Nalfeshnee](Compendium/bestiary/fiend/nalfeshnee-xmm.md)    
-        - [Quasit](Compendium/bestiary/fiend/quasit-xmm.md)    
-        - [Shadow Demon](Compendium/bestiary/fiend/shadow-demon-xmm.md)    
-        - [Vrock](Compendium/bestiary/fiend/vrock-xmm.md)    
-        - [Yochlol](Compendium/bestiary/fiend/yochlol-xmm.md)    
--     - [Barbed Devil](Compendium/bestiary/fiend/barbed-devil-xmm.md)    
-        - [Bearded Devil](Compendium/bestiary/fiend/bearded-devil-xmm.md)    
-        - [Bone Devil](Compendium/bestiary/fiend/bone-devil-xmm.md)    
-        - [Chain Devil](Compendium/bestiary/fiend/chain-devil-xmm.md)    
-        - [Erinyes](Compendium/bestiary/fiend/erinyes-xmm.md)    
-        - [Horned Devil](Compendium/bestiary/fiend/horned-devil-xmm.md)    
-        - [Ice Devil](Compendium/bestiary/fiend/ice-devil-xmm.md)    
-        - [Imp](Compendium/bestiary/fiend/imp-xmm.md)    
-        - [Lemure](Compendium/bestiary/fiend/lemure-xmm.md), [Swarm of Lemures](Compendium/bestiary/fiend/swarm-of-lemures-xmm.md)    
-        - [Pit Fiend](Compendium/bestiary/fiend/pit-fiend-xmm.md)    
-        - [Spined Devil](Compendium/bestiary/fiend/spined-devil-xmm.md)    
--     - [Allosaurus](Compendium/bestiary/beast/allosaurus-xmm.md)    
-        - [Ankylosaurus](Compendium/bestiary/beast/ankylosaurus-xmm.md)    
-        - [Archelon](Compendium/bestiary/beast/archelon-xmm.md)    
-        - [Plesiosaurus](Compendium/bestiary/beast/plesiosaurus-xmm.md)    
-        - [Pteranodon](Compendium/bestiary/beast/pteranodon-xmm.md)    
-        - [Triceratops](Compendium/bestiary/beast/triceratops-xmm.md)    
-        - [Tyrannosaurus Rex](Compendium/bestiary/beast/tyrannosaurus-rex-xmm.md)    
--     - Black dragons (all) ([Adult Black Dragon](Compendium/bestiary/dragon/adult-black-dragon-xmm.md), [Ancient Black Dragon](Compendium/bestiary/dragon/ancient-black-dragon-xmm.md), [Black Dragon Wyrmling](Compendium/bestiary/dragon/black-dragon-wyrmling-xmm.md), [Young Black Dragon](Compendium/bestiary/dragon/young-black-dragon-xmm.md))    
-        - Blue dragons (all) ([Adult Blue Dragon](Compendium/bestiary/dragon/adult-blue-dragon-xmm.md), [Ancient Blue Dragon](Compendium/bestiary/dragon/ancient-blue-dragon-xmm.md), [Blue Dragon Wyrmling](Compendium/bestiary/dragon/blue-dragon-wyrmling-xmm.md), [Young Blue Dragon](Compendium/bestiary/dragon/young-blue-dragon-xmm.md))    
-        - Green dragons (all) ([Adult Green Dragon](Compendium/bestiary/dragon/adult-green-dragon-xmm.md), [Ancient Green Dragon](Compendium/bestiary/dragon/ancient-green-dragon-xmm.md), [Green Dragon Wyrmling](Compendium/bestiary/dragon/green-dragon-wyrmling-xmm.md), [Young Green Dragon](Compendium/bestiary/dragon/young-green-dragon-xmm.md))    
-        - Red dragons (all) ([Adult Red Dragon](Compendium/bestiary/dragon/adult-red-dragon-xmm.md), [Ancient Red Dragon](Compendium/bestiary/dragon/ancient-red-dragon-xmm.md), [Red Dragon Wyrmling](Compendium/bestiary/dragon/red-dragon-wyrmling-xmm.md), [Young Red Dragon](Compendium/bestiary/dragon/young-red-dragon-xmm.md))    
-        - White dragons (all) ([Adult White Dragon](Compendium/bestiary/dragon/adult-white-dragon-xmm.md), [Ancient White Dragon](Compendium/bestiary/dragon/ancient-white-dragon-xmm.md), [White Dragon Wyrmling](Compendium/bestiary/dragon/white-dragon-wyrmling-xmm.md), [Young White Dragon](Compendium/bestiary/dragon/young-white-dragon-xmm.md))    
--     - Brass dragons (all) ([Adult Brass Dragon](Compendium/bestiary/dragon/adult-brass-dragon-xmm.md), [Ancient Brass Dragon](Compendium/bestiary/dragon/ancient-brass-dragon-xmm.md), [Brass Dragon Wyrmling](Compendium/bestiary/dragon/brass-dragon-wyrmling-xmm.md), [Young Brass Dragon](Compendium/bestiary/dragon/young-brass-dragon-xmm.md))    
-        - Bronze dragons (all) ([Adult Bronze Dragon](Compendium/bestiary/dragon/adult-bronze-dragon-xmm.md), [Ancient Bronze Dragon](Compendium/bestiary/dragon/ancient-bronze-dragon-xmm.md), [Bronze Dragon Wyrmling](Compendium/bestiary/dragon/bronze-dragon-wyrmling-xmm.md), [Young Bronze Dragon](Compendium/bestiary/dragon/young-bronze-dragon-xmm.md))    
-        - Copper dragons (all) ([Adult Copper Dragon](Compendium/bestiary/dragon/adult-copper-dragon-xmm.md), [Ancient Copper Dragon](Compendium/bestiary/dragon/ancient-copper-dragon-xmm.md), [Copper Dragon Wyrmling](Compendium/bestiary/dragon/copper-dragon-wyrmling-xmm.md), [Young Copper Dragon](Compendium/bestiary/dragon/young-copper-dragon-xmm.md))    
-        - Gold dragons (all) ([Adult Gold Dragon](Compendium/bestiary/dragon/adult-gold-dragon-xmm.md), [Ancient Gold Dragon](Compendium/bestiary/dragon/ancient-gold-dragon-xmm.md), [Gold Dragon Wyrmling](Compendium/bestiary/dragon/gold-dragon-wyrmling-xmm.md), [Young Gold Dragon](Compendium/bestiary/dragon/young-gold-dragon-xmm.md))    
-        - Silver dragons (all) ([Adult Silver Dragon](Compendium/bestiary/dragon/adult-silver-dragon-xmm.md), [Ancient Silver Dragon](Compendium/bestiary/dragon/ancient-silver-dragon-xmm.md), [Silver Dragon Wyrmling](Compendium/bestiary/dragon/silver-dragon-wyrmling-xmm.md), [Young Silver Dragon](Compendium/bestiary/dragon/young-silver-dragon-xmm.md))    
--     - [Dao](Compendium/bestiary/elemental/dao-xmm.md)    
-        - [Djinni](Compendium/bestiary/elemental/djinni-xmm.md)    
-        - [Efreeti](Compendium/bestiary/elemental/efreeti-xmm.md)    
-        - [Marid](Compendium/bestiary/elemental/marid-xmm.md)    
--     - Bugbears (all) ([Bugbear Stalker](Compendium/bestiary/fey/bugbear-stalker-xmm.md), [Bugbear Warrior](Compendium/bestiary/fey/bugbear-warrior-xmm.md))    
-        - Goblins (all) ([Goblin Boss](Compendium/bestiary/fey/goblin-boss-xmm.md), [Goblin Hexer](Compendium/bestiary/fey/goblin-hexer-xmm.md), [Goblin Minion](Compendium/bestiary/fey/goblin-minion-xmm.md), [Goblin Warrior](Compendium/bestiary/fey/goblin-warrior-xmm.md))    
-        - Hobgoblins (all) ([Hobgoblin Captain](Compendium/bestiary/fey/hobgoblin-captain-xmm.md), [Hobgoblin Warlord](Compendium/bestiary/fey/hobgoblin-warlord-xmm.md), [Hobgoblin Warrior](Compendium/bestiary/fey/hobgoblin-warrior-xmm.md))    
--     - [Werebear](Compendium/bestiary/monstrosity/werebear-xmm.md)    
-        - [Wereboar](Compendium/bestiary/monstrosity/wereboar-xmm.md)    
-        - [Wererat](Compendium/bestiary/monstrosity/wererat-xmm.md)    
-        - [Weretiger](Compendium/bestiary/monstrosity/weretiger-xmm.md)    
-        - [Werewolf](Compendium/bestiary/monstrosity/werewolf-xmm.md)    
--     - [Blob of Annihilation](Compendium/bestiary/ooze/blob-of-annihilation-xmm.md)    
-        - [Colossus](Compendium/bestiary/construct/colossus-xmm.md)    
-        - [Elemental Cataclysm](Compendium/bestiary/elemental/elemental-cataclysm-xmm.md)    
-        - Empyreans (all) ([Empyrean](Compendium/bestiary/miscellaneous/empyrean-xmm.md), [Empyrean Iota](Compendium/bestiary/miscellaneous/empyrean-iota-xmm.md))    
-        - [Kraken](Compendium/bestiary/monstrosity/kraken-xmm.md)    
-        - [Tarrasque](Compendium/bestiary/monstrosity/tarrasque-xmm.md)    
--     - [Arcanaloth](Compendium/bestiary/fiend/arcanaloth-xmm.md)    
-        - [Mezzoloth](Compendium/bestiary/fiend/mezzoloth-xmm.md)    
-        - [Nycaloth](Compendium/bestiary/fiend/nycaloth-xmm.md)    
-        - [Ultroloth](Compendium/bestiary/fiend/ultroloth-xmm.md)    
+-     - [[deva-xmm]]    
+        - [[planetar-xmm]]    
+        - [[solar-xmm]]    
+-     - [[beholder-xmm]]    
+        - [[beholder-zombie-xmm]]    
+        - [[death-tyrant-xmm]]    
+        - [[spectator-xmm]]    
+-     - [[balor-xmm]]    
+        - [[barlgura-xmm]]    
+        - [[chasme-xmm]]    
+        - Dretches (all) ([[dretch-xmm]], [[swarm-of-dretches-xmm]])    
+        - [[glabrezu-xmm]]    
+        - [[goristro-xmm]]    
+        - [[hezrou-xmm]]    
+        - Manes (all) ([[manes-xmm]], [[manes-vaporspawn-xmm]])    
+        - [[marilith-xmm]]    
+        - [[nalfeshnee-xmm]]    
+        - [[quasit-xmm]]    
+        - [[shadow-demon-xmm]]    
+        - [[vrock-xmm]]    
+        - [[yochlol-xmm]]    
+-     - [[barbed-devil-xmm]]    
+        - [[bearded-devil-xmm]]    
+        - [[bone-devil-xmm]]    
+        - [[chain-devil-xmm]]    
+        - [[erinyes-xmm]]    
+        - [[horned-devil-xmm]]    
+        - [[ice-devil-xmm]]    
+        - [[imp-xmm]]    
+        - [[lemure-xmm]], [[swarm-of-lemures-xmm]]    
+        - [[pit-fiend-xmm]]    
+        - [[spined-devil-xmm]]    
+-     - [[allosaurus-xmm]]    
+        - [[ankylosaurus-xmm]]    
+        - [[archelon-xmm]]    
+        - [[plesiosaurus-xmm]]    
+        - [[pteranodon-xmm]]    
+        - [[triceratops-xmm]]    
+        - [[tyrannosaurus-rex-xmm]]    
+-     - Black dragons (all) ([[adult-black-dragon-xmm]], [[ancient-black-dragon-xmm]], [[black-dragon-wyrmling-xmm]], [[young-black-dragon-xmm]])    
+        - Blue dragons (all) ([[adult-blue-dragon-xmm]], [[ancient-blue-dragon-xmm]], [[blue-dragon-wyrmling-xmm]], [[young-blue-dragon-xmm]])    
+        - Green dragons (all) ([[adult-green-dragon-xmm]], [[ancient-green-dragon-xmm]], [[green-dragon-wyrmling-xmm]], [[young-green-dragon-xmm]])    
+        - Red dragons (all) ([[adult-red-dragon-xmm]], [[ancient-red-dragon-xmm]], [[red-dragon-wyrmling-xmm]], [[young-red-dragon-xmm]])    
+        - White dragons (all) ([[adult-white-dragon-xmm]], [[ancient-white-dragon-xmm]], [[white-dragon-wyrmling-xmm]], [[young-white-dragon-xmm]])    
+-     - Brass dragons (all) ([[adult-brass-dragon-xmm]], [[ancient-brass-dragon-xmm]], [[brass-dragon-wyrmling-xmm]], [[young-brass-dragon-xmm]])    
+        - Bronze dragons (all) ([[adult-bronze-dragon-xmm]], [[ancient-bronze-dragon-xmm]], [[bronze-dragon-wyrmling-xmm]], [[young-bronze-dragon-xmm]])    
+        - Copper dragons (all) ([[adult-copper-dragon-xmm]], [[ancient-copper-dragon-xmm]], [[copper-dragon-wyrmling-xmm]], [[young-copper-dragon-xmm]])    
+        - Gold dragons (all) ([[adult-gold-dragon-xmm]], [[ancient-gold-dragon-xmm]], [[gold-dragon-wyrmling-xmm]], [[young-gold-dragon-xmm]])    
+        - Silver dragons (all) ([[adult-silver-dragon-xmm]], [[ancient-silver-dragon-xmm]], [[silver-dragon-wyrmling-xmm]], [[young-silver-dragon-xmm]])    
+-     - [[dao-xmm]]    
+        - [[djinni-xmm]]    
+        - [[efreeti-xmm]]    
+        - [[marid-xmm]]    
+-     - Bugbears (all) ([[bugbear-stalker-xmm]], [[bugbear-warrior-xmm]])    
+        - Goblins (all) ([[goblin-boss-xmm]], [[goblin-hexer-xmm]], [[goblin-minion-xmm]], [[goblin-warrior-xmm]])    
+        - Hobgoblins (all) ([[hobgoblin-captain-xmm]], [[hobgoblin-warlord-xmm]], [[hobgoblin-warrior-xmm]])    
+-     - [[werebear-xmm]]    
+        - [[wereboar-xmm]]    
+        - [[wererat-xmm]]    
+        - [[weretiger-xmm]]    
+        - [[werewolf-xmm]]    
+-     - [[blob-of-annihilation-xmm]]    
+        - [[colossus-xmm]]    
+        - [[elemental-cataclysm-xmm]]    
+        - Empyreans (all) ([[empyrean-xmm]], [[empyrean-iota-xmm]])    
+        - [[kraken-xmm]]    
+        - [[tarrasque-xmm]]    
+-     - [[arcanaloth-xmm]]    
+        - [[mezzoloth-xmm]]    
+        - [[nycaloth-xmm]]    
+        - [[ultroloth-xmm]]    
 
 ## Monsters by Challenge Rating
 
-The following list organizes the monster stat blocks in this book by [Challenge Rating](Compendium/rules/variant-rules/challenge-rating-xphb.md).
+The following list organizes the monster stat blocks in this book by [[challenge-rating-xphb]].
 
--     - [Awakened Shrub](Compendium/bestiary/plant/awakened-shrub-xmm.md)    
-        - [Baboon](Compendium/bestiary/beast/baboon-xmm.md)    
-        - [Badger](Compendium/bestiary/beast/badger-xmm.md)    
-        - [Bat](Compendium/bestiary/beast/bat-xmm.md)    
-        - [Cat](Compendium/bestiary/beast/cat-xmm.md)    
-        - [Commoner](Compendium/bestiary/humanoid/commoner-xmm.md)    
-        - [Crab](Compendium/bestiary/beast/crab-xmm.md)    
-        - [Crawling Claw](Compendium/bestiary/undead/crawling-claw-xmm.md)    
-        - [Deer](Compendium/bestiary/beast/deer-xmm.md)    
-        - [Eagle](Compendium/bestiary/beast/eagle-xmm.md)    
-        - [Frog](Compendium/bestiary/beast/frog-xmm.md)    
-        - [Giant Fire Beetle](Compendium/bestiary/beast/giant-fire-beetle-xmm.md)    
-        - [Goat](Compendium/bestiary/beast/goat-xmm.md)    
-        - [Hawk](Compendium/bestiary/beast/hawk-xmm.md)    
-        - [Homunculus](Compendium/bestiary/construct/homunculus-xmm.md)    
-        - [Hyena](Compendium/bestiary/beast/hyena-xmm.md)    
-        - [Jackal](Compendium/bestiary/beast/jackal-xmm.md)    
-        - [Larva](Compendium/bestiary/fiend/larva-xmm.md)    
-        - [Lemure](Compendium/bestiary/fiend/lemure-xmm.md)    
-        - [Lizard](Compendium/bestiary/beast/lizard-xmm.md)    
-        - [Myconid Sprout](Compendium/bestiary/plant/myconid-sprout-xmm.md)    
-        - [Octopus](Compendium/bestiary/beast/octopus-xmm.md)    
-        - [Owl](Compendium/bestiary/beast/owl-xmm.md)    
-        - [Piranha](Compendium/bestiary/beast/piranha-xmm.md)    
-        - [Rat](Compendium/bestiary/beast/rat-xmm.md)    
-        - [Raven](Compendium/bestiary/beast/raven-xmm.md)    
-        - [Scorpion](Compendium/bestiary/beast/scorpion-xmm.md)    
-        - [Seahorse](Compendium/bestiary/beast/seahorse-xmm.md)    
-        - [Shrieker Fungus](Compendium/bestiary/plant/shrieker-fungus-xmm.md)    
-        - [Spider](Compendium/bestiary/beast/spider-xmm.md)    
-        - [Vulture](Compendium/bestiary/beast/vulture-xmm.md)    
-        - [Weasel](Compendium/bestiary/beast/weasel-xmm.md)    
--     - [Bandit](Compendium/bestiary/humanoid/bandit-xmm.md)    
-        - [Blood Hawk](Compendium/bestiary/beast/blood-hawk-xmm.md)    
-        - [Camel](Compendium/bestiary/beast/camel-xmm.md)    
-        - [Cultist](Compendium/bestiary/humanoid/cultist-xmm.md)    
-        - [Flumph](Compendium/bestiary/aberration/flumph-xmm.md)    
-        - [Flying Snake](Compendium/bestiary/monstrosity/flying-snake-xmm.md)    
-        - [Giant Crab](Compendium/bestiary/beast/giant-crab-xmm.md)    
-        - [Giant Rat](Compendium/bestiary/beast/giant-rat-xmm.md)    
-        - [Giant Weasel](Compendium/bestiary/beast/giant-weasel-xmm.md)    
-        - [Goblin Minion](Compendium/bestiary/fey/goblin-minion-xmm.md)    
-        - [Guard](Compendium/bestiary/humanoid/guard-xmm.md)    
-        - [Kobold Warrior](Compendium/bestiary/dragon/kobold-warrior-xmm.md)    
-        - [Manes](Compendium/bestiary/fiend/manes-xmm.md)    
-        - [Mastiff](Compendium/bestiary/beast/mastiff-xmm.md)    
-        - [Merfolk Skirmisher](Compendium/bestiary/elemental/merfolk-skirmisher-xmm.md)    
-        - [Modron Monodrone](Compendium/bestiary/construct/modron-monodrone-xmm.md)    
-        - [Mule](Compendium/bestiary/beast/mule-xmm.md)    
-        - [Noble](Compendium/bestiary/humanoid/noble-xmm.md)    
-        - [Pony](Compendium/bestiary/beast/pony-xmm.md)    
-        - [Slaad Tadpole](Compendium/bestiary/aberration/slaad-tadpole-xmm.md)    
-        - [Stirge](Compendium/bestiary/monstrosity/stirge-xmm.md)    
-        - [Twig Blight](Compendium/bestiary/plant/twig-blight-xmm.md)    
-        - [Venomous Snake](Compendium/bestiary/beast/venomous-snake-xmm.md)    
-        - [Warrior Infantry](Compendium/bestiary/humanoid/warrior-infantry-xmm.md)    
--     - [Aarakocra Skirmisher](Compendium/bestiary/elemental/aarakocra-skirmisher-xmm.md)    
-        - [Animated Broom](Compendium/bestiary/construct/animated-broom-xmm.md)    
-        - [Animated Flying Sword](Compendium/bestiary/construct/animated-flying-sword-xmm.md)    
-        - [Axe Beak](Compendium/bestiary/monstrosity/axe-beak-xmm.md)    
-        - [Blink Dog](Compendium/bestiary/fey/blink-dog-xmm.md)    
-        - [Boar](Compendium/bestiary/beast/boar-xmm.md)    
-        - [Bullywug Warrior](Compendium/bestiary/fey/bullywug-warrior-xmm.md)    
-        - [Constrictor Snake](Compendium/bestiary/beast/constrictor-snake-xmm.md)    
-        - [Draft Horse](Compendium/bestiary/beast/draft-horse-xmm.md)    
-        - [Dretch](Compendium/bestiary/fiend/dretch-xmm.md)    
-        - [Elk](Compendium/bestiary/beast/elk-xmm.md)    
-        - [Giant Badger](Compendium/bestiary/beast/giant-badger-xmm.md)    
-        - [Giant Bat](Compendium/bestiary/beast/giant-bat-xmm.md)    
-        - [Giant Centipede](Compendium/bestiary/beast/giant-centipede-xmm.md)    
-        - [Giant Frog](Compendium/bestiary/beast/giant-frog-xmm.md)    
-        - [Giant Lizard](Compendium/bestiary/beast/giant-lizard-xmm.md)    
-        - [Giant Owl](Compendium/bestiary/celestial/giant-owl-xmm.md)    
-        - [Giant Venomous Snake](Compendium/bestiary/beast/giant-venomous-snake-xmm.md)    
-        - [Giant Wolf Spider](Compendium/bestiary/beast/giant-wolf-spider-xmm.md)    
-        - [Goblin Warrior](Compendium/bestiary/fey/goblin-warrior-xmm.md)    
-        - [Grimlock](Compendium/bestiary/aberration/grimlock-xmm.md)    
-        - [Kenku](Compendium/bestiary/monstrosity/kenku-xmm.md)    
-        - [Kuo-toa](Compendium/bestiary/aberration/kuo-toa-xmm.md)    
-        - [Modron Duodrone](Compendium/bestiary/construct/modron-duodrone-xmm.md)    
-        - [Mud Mephit](Compendium/bestiary/elemental/mud-mephit-xmm.md)    
-        - [Needle Blight](Compendium/bestiary/plant/needle-blight-xmm.md)    
-        - [Panther](Compendium/bestiary/beast/panther-xmm.md)    
-        - [Pixie](Compendium/bestiary/fey/pixie-xmm.md)    
-        - [Priest Acolyte](Compendium/bestiary/humanoid/priest-acolyte-xmm.md)    
-        - [Pseudodragon](Compendium/bestiary/dragon/pseudodragon-xmm.md)    
-        - [Pteranodon](Compendium/bestiary/beast/pteranodon-xmm.md)    
-        - [Riding Horse](Compendium/bestiary/beast/riding-horse-xmm.md)    
-        - [Skeleton](Compendium/bestiary/undead/skeleton-xmm.md)    
-        - [Smoke Mephit](Compendium/bestiary/elemental/smoke-mephit-xmm.md)    
-        - [Sprite](Compendium/bestiary/fey/sprite-xmm.md)    
-        - [Steam Mephit](Compendium/bestiary/elemental/steam-mephit-xmm.md)    
-        - [Swarm of Bats](Compendium/bestiary/beast/swarm-of-bats-xmm.md)    
-        - [Swarm of Rats](Compendium/bestiary/beast/swarm-of-rats-xmm.md)    
-        - [Swarm of Ravens](Compendium/bestiary/beast/swarm-of-ravens-xmm.md)    
-        - [Troglodyte](Compendium/bestiary/monstrosity/troglodyte-xmm.md)    
-        - [Violet Fungus](Compendium/bestiary/plant/violet-fungus-xmm.md)    
-        - [Winged Kobold](Compendium/bestiary/dragon/winged-kobold-xmm.md)    
-        - [Wolf](Compendium/bestiary/beast/wolf-xmm.md)    
-        - [Zombie](Compendium/bestiary/undead/zombie-xmm.md)    
--     - [Ape](Compendium/bestiary/beast/ape-xmm.md)    
-        - [Black Bear](Compendium/bestiary/beast/black-bear-xmm.md)    
-        - [Cockatrice](Compendium/bestiary/monstrosity/cockatrice-xmm.md)    
-        - [Crocodile](Compendium/bestiary/beast/crocodile-xmm.md)    
-        - [Darkmantle](Compendium/bestiary/aberration/darkmantle-xmm.md)    
-        - [Dust Mephit](Compendium/bestiary/elemental/dust-mephit-xmm.md)    
-        - [Gas Spore Fungus](Compendium/bestiary/plant/gas-spore-fungus-xmm.md)    
-        - [Giant Goat](Compendium/bestiary/beast/giant-goat-xmm.md)    
-        - [Giant Seahorse](Compendium/bestiary/beast/giant-seahorse-xmm.md)    
-        - [Giant Wasp](Compendium/bestiary/beast/giant-wasp-xmm.md)    
-        - [Gnoll Warrior](Compendium/bestiary/fiend/gnoll-warrior-xmm.md)    
-        - [Gray Ooze](Compendium/bestiary/ooze/gray-ooze-xmm.md)    
-        - [Hobgoblin Warrior](Compendium/bestiary/fey/hobgoblin-warrior-xmm.md)    
-        - [Ice Mephit](Compendium/bestiary/elemental/ice-mephit-xmm.md)    
-        - [Jackalwere](Compendium/bestiary/fiend/jackalwere-xmm.md)    
-        - [Magma Mephit](Compendium/bestiary/elemental/magma-mephit-xmm.md)    
-        - [Magmin](Compendium/bestiary/elemental/magmin-xmm.md)    
-        - [Modron Tridrone](Compendium/bestiary/construct/modron-tridrone-xmm.md)    
-        - [Myconid Adult](Compendium/bestiary/plant/myconid-adult-xmm.md)    
-        - [Performer](Compendium/bestiary/humanoid/performer-xmm.md)    
-        - [Piercer](Compendium/bestiary/aberration/piercer-xmm.md)    
-        - [Reef Shark](Compendium/bestiary/beast/reef-shark-xmm.md)    
-        - [Rust Monster](Compendium/bestiary/monstrosity/rust-monster-xmm.md)    
-        - [Sahuagin Warrior](Compendium/bestiary/fiend/sahuagin-warrior-xmm.md)    
-        - [Satyr](Compendium/bestiary/fey/satyr-xmm.md)    
-        - [Scout](Compendium/bestiary/humanoid/scout-xmm.md)    
-        - [Shadow](Compendium/bestiary/undead/shadow-xmm.md)    
-        - [Swarm of Insects](Compendium/bestiary/beast/swarm-of-insects-xmm.md)    
-        - [Tough](Compendium/bestiary/humanoid/tough-xmm.md)    
-        - [Troll Limb](Compendium/bestiary/giant/troll-limb-xmm.md)    
-        - [Vine Blight](Compendium/bestiary/plant/vine-blight-xmm.md)    
-        - [Warhorse](Compendium/bestiary/beast/warhorse-xmm.md)    
-        - [Warhorse Skeleton](Compendium/bestiary/undead/warhorse-skeleton-xmm.md)    
-        - [Worg](Compendium/bestiary/fey/worg-xmm.md)    
--     - [Animated Armor](Compendium/bestiary/construct/animated-armor-xmm.md)    
-        - [Brass Dragon Wyrmling](Compendium/bestiary/dragon/brass-dragon-wyrmling-xmm.md)    
-        - [Brown Bear](Compendium/bestiary/beast/brown-bear-xmm.md)    
-        - [Bugbear Warrior](Compendium/bestiary/fey/bugbear-warrior-xmm.md)    
-        - [Copper Dragon Wyrmling](Compendium/bestiary/dragon/copper-dragon-wyrmling-xmm.md)    
-        - [Death Dog](Compendium/bestiary/monstrosity/death-dog-xmm.md)    
-        - [Dire Wolf](Compendium/bestiary/beast/dire-wolf-xmm.md)    
-        - [Dryad](Compendium/bestiary/fey/dryad-xmm.md)    
-        - [Empyrean Iota](Compendium/bestiary/miscellaneous/empyrean-iota-xmm.md)    
-        - [Faerie Dragon Youth](Compendium/bestiary/dragon/faerie-dragon-youth-xmm.md)    
-        - [Ghoul](Compendium/bestiary/undead/ghoul-xmm.md)    
-        - [Giant Eagle](Compendium/bestiary/celestial/giant-eagle-xmm.md)    
-        - [Giant Hyena](Compendium/bestiary/beast/giant-hyena-xmm.md)    
-        - [Giant Octopus](Compendium/bestiary/beast/giant-octopus-xmm.md)    
-        - [Giant Spider](Compendium/bestiary/beast/giant-spider-xmm.md)    
-        - [Giant Toad](Compendium/bestiary/beast/giant-toad-xmm.md)    
-        - [Giant Vulture](Compendium/bestiary/monstrosity/giant-vulture-xmm.md)    
-        - [Goblin Boss](Compendium/bestiary/fey/goblin-boss-xmm.md)    
-        - [Harpy](Compendium/bestiary/monstrosity/harpy-xmm.md)    
-        - [Hippogriff](Compendium/bestiary/monstrosity/hippogriff-xmm.md)    
-        - [Imp](Compendium/bestiary/fiend/imp-xmm.md)    
-        - [Kuo-toa Whip](Compendium/bestiary/aberration/kuo-toa-whip-xmm.md)    
-        - [Lacedon Ghoul](Compendium/bestiary/undead/lacedon-ghoul-xmm.md)    
-        - [Lion](Compendium/bestiary/beast/lion-xmm.md)    
-        - [Manes Vaporspawn](Compendium/bestiary/fiend/manes-vaporspawn-xmm.md)    
-        - [Modron Quadrone](Compendium/bestiary/construct/modron-quadrone-xmm.md)    
-        - [Myconid Spore Servant](Compendium/bestiary/plant/myconid-spore-servant-xmm.md)    
-        - [Ogrillon Ogre](Compendium/bestiary/giant/ogrillon-ogre-xmm.md)    
-        - [Pirate](Compendium/bestiary/humanoid/pirate-xmm.md)    
-        - [Psychic Gray Ooze](Compendium/bestiary/ooze/psychic-gray-ooze-xmm.md)    
-        - [Quasit](Compendium/bestiary/fiend/quasit-xmm.md)    
-        - [Salamander Fire Snake](Compendium/bestiary/elemental/salamander-fire-snake-xmm.md)    
-        - [Scarecrow](Compendium/bestiary/construct/scarecrow-xmm.md)    
-        - [Specter](Compendium/bestiary/undead/specter-xmm.md)    
-        - [Sphinx of Wonder](Compendium/bestiary/celestial/sphinx-of-wonder-xmm.md)    
-        - [Spy](Compendium/bestiary/humanoid/spy-xmm.md)    
-        - [Swarm of Larvae](Compendium/bestiary/fiend/swarm-of-larvae-xmm.md)    
-        - [Swarm of Piranhas](Compendium/bestiary/beast/swarm-of-piranhas-xmm.md)    
-        - [Thri-kreen Marauder](Compendium/bestiary/monstrosity/thri-kreen-marauder-xmm.md)    
-        - [Tiger](Compendium/bestiary/beast/tiger-xmm.md)    
-        - [Yuan-ti Infiltrator](Compendium/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md)    
--     - [Allosaurus](Compendium/bestiary/beast/allosaurus-xmm.md)    
-        - [Animated Rug of Smothering](Compendium/bestiary/construct/animated-rug-of-smothering-xmm.md)    
-        - [Ankheg](Compendium/bestiary/monstrosity/ankheg-xmm.md)    
-        - [Awakened Tree](Compendium/bestiary/plant/awakened-tree-xmm.md)    
-        - [Azer Sentinel](Compendium/bestiary/elemental/azer-sentinel-xmm.md)    
-        - [Bandit Captain](Compendium/bestiary/humanoid/bandit-captain-xmm.md)    
-        - [Berserker](Compendium/bestiary/humanoid/berserker-xmm.md)    
-        - [Black Dragon Wyrmling](Compendium/bestiary/dragon/black-dragon-wyrmling-xmm.md)    
-        - [Bronze Dragon Wyrmling](Compendium/bestiary/dragon/bronze-dragon-wyrmling-xmm.md)    
-        - [Bulette Pup](Compendium/bestiary/monstrosity/bulette-pup-xmm.md)    
-        - [Carrion Crawler](Compendium/bestiary/monstrosity/carrion-crawler-xmm.md)    
-        - [Centaur Trooper](Compendium/bestiary/fey/centaur-trooper-xmm.md)    
-        - [Cultist Fanatic](Compendium/bestiary/humanoid/cultist-fanatic-xmm.md)    
-        - [Druid](Compendium/bestiary/humanoid/druid-xmm.md)    
-        - [Ettercap](Compendium/bestiary/monstrosity/ettercap-xmm.md)    
-        - [Faerie Dragon Adult](Compendium/bestiary/dragon/faerie-dragon-adult-xmm.md)    
-        - [Gargoyle](Compendium/bestiary/elemental/gargoyle-xmm.md)    
-        - [Gelatinous Cube](Compendium/bestiary/ooze/gelatinous-cube-xmm.md)    
-        - [Ghast](Compendium/bestiary/undead/ghast-xmm.md)    
-        - [Giant Boar](Compendium/bestiary/beast/giant-boar-xmm.md)    
-        - [Giant Constrictor Snake](Compendium/bestiary/beast/giant-constrictor-snake-xmm.md)    
-        - [Giant Elk](Compendium/bestiary/celestial/giant-elk-xmm.md)    
-        - [Gibbering Mouther](Compendium/bestiary/aberration/gibbering-mouther-xmm.md)    
-        - [Githzerai Monk](Compendium/bestiary/aberration/githzerai-monk-xmm.md)    
-        - [Gnoll Pack Lord](Compendium/bestiary/fiend/gnoll-pack-lord-xmm.md)    
-        - [Green Dragon Wyrmling](Compendium/bestiary/dragon/green-dragon-wyrmling-xmm.md)    
-        - [Grick](Compendium/bestiary/aberration/grick-xmm.md)    
-        - [Griffon](Compendium/bestiary/monstrosity/griffon-xmm.md)    
-        - [Hunter Shark](Compendium/bestiary/beast/hunter-shark-xmm.md)    
-        - [Intellect Devourer](Compendium/bestiary/aberration/intellect-devourer-xmm.md)    
-        - [Lizardfolk Geomancer](Compendium/bestiary/elemental/lizardfolk-geomancer-xmm.md)    
-        - [Mage Apprentice](Compendium/bestiary/humanoid/mage-apprentice-xmm.md)    
-        - [Merrow](Compendium/bestiary/monstrosity/merrow-xmm.md)    
-        - [Mimic](Compendium/bestiary/monstrosity/mimic-xmm.md)    
-        - [Minotaur Skeleton](Compendium/bestiary/undead/minotaur-skeleton-xmm.md)    
-        - [Modron Pentadrone](Compendium/bestiary/construct/modron-pentadrone-xmm.md)    
-        - [Myconid Sovereign](Compendium/bestiary/plant/myconid-sovereign-xmm.md)    
-        - [Nothic](Compendium/bestiary/aberration/nothic-xmm.md)    
-        - [Ochre Jelly](Compendium/bestiary/ooze/ochre-jelly-xmm.md)    
-        - [Ogre](Compendium/bestiary/giant/ogre-xmm.md)    
-        - [Ogre Zombie](Compendium/bestiary/undead/ogre-zombie-xmm.md)    
-        - [Pegasus](Compendium/bestiary/celestial/pegasus-xmm.md)    
-        - [Peryton](Compendium/bestiary/monstrosity/peryton-xmm.md)    
-        - [Plesiosaurus](Compendium/bestiary/beast/plesiosaurus-xmm.md)    
-        - [Polar Bear](Compendium/bestiary/beast/polar-bear-xmm.md)    
-        - [Poltergeist](Compendium/bestiary/undead/poltergeist-xmm.md)    
-        - [Priest](Compendium/bestiary/humanoid/priest-xmm.md)    
-        - [Quaggoth](Compendium/bestiary/monstrosity/quaggoth-xmm.md)    
-        - [Rhinoceros](Compendium/bestiary/beast/rhinoceros-xmm.md)    
-        - [Saber-Toothed Tiger](Compendium/bestiary/beast/saber-toothed-tiger-xmm.md)    
-        - [Sahuagin Priest](Compendium/bestiary/fiend/sahuagin-priest-xmm.md)    
-        - [Sea Hag](Compendium/bestiary/fey/sea-hag-xmm.md)    
-        - [Silver Dragon Wyrmling](Compendium/bestiary/dragon/silver-dragon-wyrmling-xmm.md)    
-        - [Spined Devil](Compendium/bestiary/fiend/spined-devil-xmm.md)    
-        - [Swarm of Stirges](Compendium/bestiary/monstrosity/swarm-of-stirges-xmm.md)    
-        - [Swarm of Venomous Snakes](Compendium/bestiary/beast/swarm-of-venomous-snakes-xmm.md)    
-        - [Wererat](Compendium/bestiary/monstrosity/wererat-xmm.md)    
-        - [White Dragon Wyrmling](Compendium/bestiary/dragon/white-dragon-wyrmling-xmm.md)    
-        - [Will-o'-Wisp](Compendium/bestiary/undead/will-o-wisp-xmm.md)    
--     - [Ankylosaurus](Compendium/bestiary/beast/ankylosaurus-xmm.md)    
-        - [Basilisk](Compendium/bestiary/monstrosity/basilisk-xmm.md)    
-        - [Bearded Devil](Compendium/bestiary/fiend/bearded-devil-xmm.md)    
-        - [Blue Dragon Wyrmling](Compendium/bestiary/dragon/blue-dragon-wyrmling-xmm.md)    
-        - [Bugbear Stalker](Compendium/bestiary/fey/bugbear-stalker-xmm.md)    
-        - [Displacer Beast](Compendium/bestiary/monstrosity/displacer-beast-xmm.md)    
-        - [Doppelganger](Compendium/bestiary/monstrosity/doppelganger-xmm.md)    
-        - [Flaming Skeleton](Compendium/bestiary/undead/flaming-skeleton-xmm.md)    
-        - [Giant Scorpion](Compendium/bestiary/beast/giant-scorpion-xmm.md)    
-        - [Githyanki Warrior](Compendium/bestiary/aberration/githyanki-warrior-xmm.md)    
-        - [Goblin Hexer](Compendium/bestiary/fey/goblin-hexer-xmm.md)    
-        - [Gold Dragon Wyrmling](Compendium/bestiary/dragon/gold-dragon-wyrmling-xmm.md)    
-        - [Green Hag](Compendium/bestiary/fey/green-hag-xmm.md)    
-        - [Grell](Compendium/bestiary/aberration/grell-xmm.md)    
-        - [Hell Hound](Compendium/bestiary/fiend/hell-hound-xmm.md)    
-        - [Hobgoblin Captain](Compendium/bestiary/fey/hobgoblin-captain-xmm.md)    
-        - [Hook Horror](Compendium/bestiary/monstrosity/hook-horror-xmm.md)    
-        - [Killer Whale](Compendium/bestiary/beast/killer-whale-xmm.md)    
-        - [Knight](Compendium/bestiary/humanoid/knight-xmm.md)    
-        - [Kuo-toa Monitor](Compendium/bestiary/aberration/kuo-toa-monitor-xmm.md)    
-        - [Manticore](Compendium/bestiary/monstrosity/manticore-xmm.md)    
-        - [Minotaur of Baphomet](Compendium/bestiary/monstrosity/minotaur-of-baphomet-xmm.md)    
-        - [Mummy](Compendium/bestiary/undead/mummy-xmm.md)    
-        - [Nightmare](Compendium/bestiary/fiend/nightmare-xmm.md)    
-        - [Owlbear](Compendium/bestiary/monstrosity/owlbear-xmm.md)    
-        - [Phase Spider](Compendium/bestiary/monstrosity/phase-spider-xmm.md)    
-        - [Quaggoth Thonot](Compendium/bestiary/monstrosity/quaggoth-thonot-xmm.md)    
-        - [Scout Captain](Compendium/bestiary/humanoid/scout-captain-xmm.md)    
-        - [Spectator](Compendium/bestiary/aberration/spectator-xmm.md)    
-        - [Swarm of Crawling Claws](Compendium/bestiary/undead/swarm-of-crawling-claws-xmm.md)    
-        - [Swarm of Lemures](Compendium/bestiary/fiend/swarm-of-lemures-xmm.md)    
-        - [Vampire Familiar](Compendium/bestiary/humanoid/vampire-familiar-xmm.md)    
-        - [Warrior Veteran](Compendium/bestiary/humanoid/warrior-veteran-xmm.md)    
-        - [Water Weird](Compendium/bestiary/elemental/water-weird-xmm.md)    
-        - [Werewolf](Compendium/bestiary/monstrosity/werewolf-xmm.md)    
-        - [Wight](Compendium/bestiary/undead/wight-xmm.md)    
-        - [Winter Wolf](Compendium/bestiary/monstrosity/winter-wolf-xmm.md)    
-        - [Yeti](Compendium/bestiary/monstrosity/yeti-xmm.md)    
-        - [Yuan-ti Malison (Type 1)](Compendium/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md)    
-        - [Yuan-ti Malison (Type 2)](Compendium/bestiary/monstrosity/yuan-ti-malison-type-2-xmm.md)    
-        - [Yuan-ti Malison (Type 3)](Compendium/bestiary/monstrosity/yuan-ti-malison-type-3-xmm.md)    
--     - [Aarakocra Aeromancer](Compendium/bestiary/elemental/aarakocra-aeromancer-xmm.md)    
-        - [Archelon](Compendium/bestiary/beast/archelon-xmm.md)    
-        - [Banshee](Compendium/bestiary/undead/banshee-xmm.md)    
-        - [Black Pudding](Compendium/bestiary/ooze/black-pudding-xmm.md)    
-        - [Bone Naga](Compendium/bestiary/undead/bone-naga-xmm.md)    
-        - [Bullywug Bog Sage](Compendium/bestiary/fey/bullywug-bog-sage-xmm.md)    
-        - [Chuul](Compendium/bestiary/aberration/chuul-xmm.md)    
-        - [Couatl](Compendium/bestiary/celestial/couatl-xmm.md)    
-        - [Elephant](Compendium/bestiary/beast/elephant-xmm.md)    
-        - [Ettin](Compendium/bestiary/giant/ettin-xmm.md)    
-        - [Flameskull](Compendium/bestiary/undead/flameskull-xmm.md)    
-        - [Ghost](Compendium/bestiary/undead/ghost-xmm.md)    
-        - [Gnoll Fang of Yeenoghu](Compendium/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md)    
-        - [Guard Captain](Compendium/bestiary/humanoid/guard-captain-xmm.md)    
-        - [Helmed Horror](Compendium/bestiary/construct/helmed-horror-xmm.md)    
-        - [Hippopotamus](Compendium/bestiary/beast/hippopotamus-xmm.md)    
-        - [Incubus](Compendium/bestiary/fiend/incubus-xmm.md)    
-        - [Juvenile Shadow Dragon](Compendium/bestiary/dragon/juvenile-shadow-dragon-xmm.md)    
-        - [Lamia](Compendium/bestiary/fiend/lamia-xmm.md)    
-        - [Lizardfolk Sovereign](Compendium/bestiary/elemental/lizardfolk-sovereign-xmm.md)    
-        - [Red Dragon Wyrmling](Compendium/bestiary/dragon/red-dragon-wyrmling-xmm.md)    
-        - [Shadow Demon](Compendium/bestiary/fiend/shadow-demon-xmm.md)    
-        - [Succubus](Compendium/bestiary/fiend/succubus-xmm.md)    
-        - [Swarm of Dretches](Compendium/bestiary/fiend/swarm-of-dretches-xmm.md)    
-        - [Tough Boss](Compendium/bestiary/humanoid/tough-boss-xmm.md)    
-        - [Wereboar](Compendium/bestiary/monstrosity/wereboar-xmm.md)    
-        - [Weretiger](Compendium/bestiary/monstrosity/weretiger-xmm.md)    
--     - [Air Elemental](Compendium/bestiary/elemental/air-elemental-xmm.md)    
-        - [Barbed Devil](Compendium/bestiary/fiend/barbed-devil-xmm.md)    
-        - [Barlgura](Compendium/bestiary/fiend/barlgura-xmm.md)    
-        - [Beholder Zombie](Compendium/bestiary/undead/beholder-zombie-xmm.md)    
-        - [Bulette](Compendium/bestiary/monstrosity/bulette-xmm.md)    
-        - [Cambion](Compendium/bestiary/fiend/cambion-xmm.md)    
-        - [Earth Elemental](Compendium/bestiary/elemental/earth-elemental-xmm.md)    
-        - [Fire Elemental](Compendium/bestiary/elemental/fire-elemental-xmm.md)    
-        - [Flesh Golem](Compendium/bestiary/construct/flesh-golem-xmm.md)    
-        - [Giant Axe Beak](Compendium/bestiary/monstrosity/giant-axe-beak-xmm.md)    
-        - [Giant Crocodile](Compendium/bestiary/beast/giant-crocodile-xmm.md)    
-        - [Giant Shark](Compendium/bestiary/beast/giant-shark-xmm.md)    
-        - [Gladiator](Compendium/bestiary/humanoid/gladiator-xmm.md)    
-        - [Gorgon](Compendium/bestiary/construct/gorgon-xmm.md)    
-        - [Half-Dragon](Compendium/bestiary/dragon/half-dragon-xmm.md)    
-        - [Hill Giant](Compendium/bestiary/giant/hill-giant-xmm.md)    
-        - [Mezzoloth](Compendium/bestiary/fiend/mezzoloth-xmm.md)    
-        - [Night Hag](Compendium/bestiary/fiend/night-hag-xmm.md)    
-        - [Otyugh](Compendium/bestiary/aberration/otyugh-xmm.md)    
-        - [Pixie Wonderbringer](Compendium/bestiary/fey/pixie-wonderbringer-xmm.md)    
-        - [Red Slaad](Compendium/bestiary/aberration/red-slaad-xmm.md)    
-        - [Revenant](Compendium/bestiary/undead/revenant-xmm.md)    
-        - [Roper](Compendium/bestiary/aberration/roper-xmm.md)    
-        - [Sahuagin Baron](Compendium/bestiary/fiend/sahuagin-baron-xmm.md)    
-        - [Salamander](Compendium/bestiary/elemental/salamander-xmm.md)    
-        - [Shambling Mound](Compendium/bestiary/plant/shambling-mound-xmm.md)    
-        - [Triceratops](Compendium/bestiary/beast/triceratops-xmm.md)    
-        - [Troll](Compendium/bestiary/giant/troll-xmm.md)    
-        - [Umber Hulk](Compendium/bestiary/monstrosity/umber-hulk-xmm.md)    
-        - [Unicorn](Compendium/bestiary/celestial/unicorn-xmm.md)    
-        - [Vampire Spawn](Compendium/bestiary/undead/vampire-spawn-xmm.md)    
-        - [Water Elemental](Compendium/bestiary/elemental/water-elemental-xmm.md)    
-        - [Werebear](Compendium/bestiary/monstrosity/werebear-xmm.md)    
-        - [Wraith](Compendium/bestiary/undead/wraith-xmm.md)    
-        - [Xorn](Compendium/bestiary/elemental/xorn-xmm.md)    
-        - [Young Remorhaz](Compendium/bestiary/monstrosity/young-remorhaz-xmm.md)    
--     - [Azer Pyromancer](Compendium/bestiary/elemental/azer-pyromancer-xmm.md)    
-        - [Chasme](Compendium/bestiary/fiend/chasme-xmm.md)    
-        - [Chimera](Compendium/bestiary/monstrosity/chimera-xmm.md)    
-        - [Cyclops Sentry](Compendium/bestiary/giant/cyclops-sentry-xmm.md)    
-        - [Drider](Compendium/bestiary/monstrosity/drider-xmm.md)    
-        - [Galeb Duhr](Compendium/bestiary/elemental/galeb-duhr-xmm.md)    
-        - [Ghast Gravecaller](Compendium/bestiary/undead/ghast-gravecaller-xmm.md)    
-        - [Giant Squid](Compendium/bestiary/beast/giant-squid-xmm.md)    
-        - [Githzerai Zerth](Compendium/bestiary/aberration/githzerai-zerth-xmm.md)    
-        - [Hobgoblin Warlord](Compendium/bestiary/fey/hobgoblin-warlord-xmm.md)    
-        - [Invisible Stalker](Compendium/bestiary/elemental/invisible-stalker-xmm.md)    
-        - [Kuo-toa Archpriest](Compendium/bestiary/aberration/kuo-toa-archpriest-xmm.md)    
-        - [Mage](Compendium/bestiary/humanoid/mage-xmm.md)    
-        - [Mammoth](Compendium/bestiary/beast/mammoth-xmm.md)    
-        - [Medusa](Compendium/bestiary/monstrosity/medusa-xmm.md)    
-        - [Merfolk Wavebender](Compendium/bestiary/elemental/merfolk-wavebender-xmm.md)    
-        - [Performer Maestro](Compendium/bestiary/humanoid/performer-maestro-xmm.md)    
-        - [Pirate Captain](Compendium/bestiary/humanoid/pirate-captain-xmm.md)    
-        - [Satyr Revelmaster](Compendium/bestiary/fey/satyr-revelmaster-xmm.md)    
-        - [Vrock](Compendium/bestiary/fiend/vrock-xmm.md)    
-        - [Wyvern](Compendium/bestiary/dragon/wyvern-xmm.md)    
-        - [Young Brass Dragon](Compendium/bestiary/dragon/young-brass-dragon-xmm.md)    
-        - [Young White Dragon](Compendium/bestiary/dragon/young-white-dragon-xmm.md)    
--     - [Bandit Deceiver](Compendium/bestiary/humanoid/bandit-deceiver-xmm.md)    
-        - [Blue Slaad](Compendium/bestiary/aberration/blue-slaad-xmm.md)    
-        - [Centaur Warden](Compendium/bestiary/fey/centaur-warden-xmm.md)    
-        - [Giant Ape](Compendium/bestiary/beast/giant-ape-xmm.md)    
-        - [Graveyard Revenant](Compendium/bestiary/undead/graveyard-revenant-xmm.md)    
-        - [Grick Ancient](Compendium/bestiary/aberration/grick-ancient-xmm.md)    
-        - [Mind Flayer](Compendium/bestiary/aberration/mind-flayer-xmm.md)    
-        - [Oni](Compendium/bestiary/fiend/oni-xmm.md)    
-        - [Primeval Owlbear](Compendium/bestiary/monstrosity/primeval-owlbear-xmm.md)    
-        - [Shield Guardian](Compendium/bestiary/construct/shield-guardian-xmm.md)    
-        - [Stone Giant](Compendium/bestiary/giant/stone-giant-xmm.md)    
-        - [Tree Blight](Compendium/bestiary/plant/tree-blight-xmm.md)    
-        - [Violet Fungus Necrohulk](Compendium/bestiary/plant/violet-fungus-necrohulk-xmm.md)    
-        - [Young Black Dragon](Compendium/bestiary/dragon/young-black-dragon-xmm.md)    
-        - [Young Copper Dragon](Compendium/bestiary/dragon/young-copper-dragon-xmm.md)    
-        - [Yuan-ti Abomination](Compendium/bestiary/monstrosity/yuan-ti-abomination-xmm.md)    
--     - [Aberrant Cultist](Compendium/bestiary/humanoid/aberrant-cultist-xmm.md)    
-        - [Assassin](Compendium/bestiary/humanoid/assassin-xmm.md)    
-        - [Berserker Commander](Compendium/bestiary/humanoid/berserker-commander-xmm.md)    
-        - [Chain Devil](Compendium/bestiary/fiend/chain-devil-xmm.md)    
-        - [Cloaker](Compendium/bestiary/aberration/cloaker-xmm.md)    
-        - [Cockatrice Regent](Compendium/bestiary/monstrosity/cockatrice-regent-xmm.md)    
-        - [Death Cultist](Compendium/bestiary/humanoid/death-cultist-xmm.md)    
-        - [Elemental Cultist](Compendium/bestiary/humanoid/elemental-cultist-xmm.md)    
-        - [Fiend Cultist](Compendium/bestiary/humanoid/fiend-cultist-xmm.md)    
-        - [Fomorian](Compendium/bestiary/giant/fomorian-xmm.md)    
-        - [Frost Giant](Compendium/bestiary/giant/frost-giant-xmm.md)    
-        - [Githyanki Knight](Compendium/bestiary/aberration/githyanki-knight-xmm.md)    
-        - [Gnoll Demoniac](Compendium/bestiary/fiend/gnoll-demoniac-xmm.md)    
-        - [Green Slaad](Compendium/bestiary/aberration/green-slaad-xmm.md)    
-        - [Hezrou](Compendium/bestiary/fiend/hezrou-xmm.md)    
-        - [Hydra](Compendium/bestiary/monstrosity/hydra-xmm.md)    
-        - [Sphinx of Secrets](Compendium/bestiary/celestial/sphinx-of-secrets-xmm.md)    
-        - [Spirit Naga](Compendium/bestiary/fiend/spirit-naga-xmm.md)    
-        - [Thri-kreen Psion](Compendium/bestiary/monstrosity/thri-kreen-psion-xmm.md)    
-        - [Tyrannosaurus Rex](Compendium/bestiary/beast/tyrannosaurus-rex-xmm.md)    
-        - [Vampire Nightbringer](Compendium/bestiary/undead/vampire-nightbringer-xmm.md)    
-        - [Young Bronze Dragon](Compendium/bestiary/dragon/young-bronze-dragon-xmm.md)    
-        - [Young Green Dragon](Compendium/bestiary/dragon/young-green-dragon-xmm.md)    
--     - [Abominable Yeti](Compendium/bestiary/monstrosity/abominable-yeti-xmm.md)    
-        - [Bone Devil](Compendium/bestiary/fiend/bone-devil-xmm.md)    
-        - [Brazen Gorgon](Compendium/bestiary/construct/brazen-gorgon-xmm.md)    
-        - [Clay Golem](Compendium/bestiary/construct/clay-golem-xmm.md)    
-        - [Cloud Giant](Compendium/bestiary/giant/cloud-giant-xmm.md)    
-        - [Fire Giant](Compendium/bestiary/giant/fire-giant-xmm.md)    
-        - [Glabrezu](Compendium/bestiary/fiend/glabrezu-xmm.md)    
-        - [Gray Slaad](Compendium/bestiary/aberration/gray-slaad-xmm.md)    
-        - [Nycaloth](Compendium/bestiary/fiend/nycaloth-xmm.md)    
-        - [Treant](Compendium/bestiary/plant/treant-xmm.md)    
-        - [Young Blue Dragon](Compendium/bestiary/dragon/young-blue-dragon-xmm.md)    
-        - [Young Silver Dragon](Compendium/bestiary/dragon/young-silver-dragon-xmm.md)    
--     - [Aboleth](Compendium/bestiary/aberration/aboleth-xmm.md)    
-        - [Cultist Hierophant](Compendium/bestiary/humanoid/cultist-hierophant-xmm.md)    
-        - [Cyclops Oracle](Compendium/bestiary/giant/cyclops-oracle-xmm.md)    
-        - [Death Slaad](Compendium/bestiary/aberration/death-slaad-xmm.md)    
-        - [Deva](Compendium/bestiary/celestial/deva-xmm.md)    
-        - [Dire Worg](Compendium/bestiary/fey/dire-worg-xmm.md)    
-        - [Guardian Naga](Compendium/bestiary/celestial/guardian-naga-xmm.md)    
-        - [Haunting Revenant](Compendium/bestiary/undead/haunting-revenant-xmm.md)    
-        - [Noble Prodigy](Compendium/bestiary/humanoid/noble-prodigy-xmm.md)    
-        - [Performer Legend](Compendium/bestiary/humanoid/performer-legend-xmm.md)    
-        - [Spy Master](Compendium/bestiary/humanoid/spy-master-xmm.md)    
-        - [Stone Golem](Compendium/bestiary/construct/stone-golem-xmm.md)    
-        - [Warrior Commander](Compendium/bestiary/humanoid/warrior-commander-xmm.md)    
-        - [Yochlol](Compendium/bestiary/fiend/yochlol-xmm.md)    
-        - [Young Gold Dragon](Compendium/bestiary/dragon/young-gold-dragon-xmm.md)    
-        - [Young Red Dragon](Compendium/bestiary/dragon/young-red-dragon-xmm.md)    
--     - [Bandit Crime Lord](Compendium/bestiary/humanoid/bandit-crime-lord-xmm.md)    
-        - [Behir](Compendium/bestiary/monstrosity/behir-xmm.md)    
-        - [Dao](Compendium/bestiary/elemental/dao-xmm.md)    
-        - [Death Knight Aspirant](Compendium/bestiary/undead/death-knight-aspirant-xmm.md)    
-        - [Djinni](Compendium/bestiary/elemental/djinni-xmm.md)    
-        - [Efreeti](Compendium/bestiary/elemental/efreeti-xmm.md)    
-        - [Horned Devil](Compendium/bestiary/fiend/horned-devil-xmm.md)    
-        - [Marid](Compendium/bestiary/elemental/marid-xmm.md)    
-        - [Mind Flayer Arcanist](Compendium/bestiary/aberration/mind-flayer-arcanist-xmm.md)    
-        - [Remorhaz](Compendium/bestiary/monstrosity/remorhaz-xmm.md)    
-        - [Roc](Compendium/bestiary/monstrosity/roc-xmm.md)    
-        - [Sphinx of Lore](Compendium/bestiary/celestial/sphinx-of-lore-xmm.md)    
--     - [Arcanaloth](Compendium/bestiary/fiend/arcanaloth-xmm.md)    
-        - [Archmage](Compendium/bestiary/humanoid/archmage-xmm.md)    
-        - [Archpriest](Compendium/bestiary/humanoid/archpriest-xmm.md)    
-        - [Erinyes](Compendium/bestiary/fiend/erinyes-xmm.md)    
-        - [Githzerai Psion](Compendium/bestiary/aberration/githzerai-psion-xmm.md)    
-        - [Pirate Admiral](Compendium/bestiary/humanoid/pirate-admiral-xmm.md)    
-        - [Questing Knight](Compendium/bestiary/humanoid/questing-knight-xmm.md)    
--     - [Adult Brass Dragon](Compendium/bestiary/dragon/adult-brass-dragon-xmm.md)    
-        - [Adult White Dragon](Compendium/bestiary/dragon/adult-white-dragon-xmm.md)    
-        - [Beholder](Compendium/bestiary/aberration/beholder-xmm.md)    
-        - [Nalfeshnee](Compendium/bestiary/fiend/nalfeshnee-xmm.md)    
-        - [Rakshasa](Compendium/bestiary/fiend/rakshasa-xmm.md)    
-        - [Shadow Dragon](Compendium/bestiary/dragon/shadow-dragon-xmm.md)    
-        - [Storm Giant](Compendium/bestiary/giant/storm-giant-xmm.md)    
-        - [Ultroloth](Compendium/bestiary/fiend/ultroloth-xmm.md)    
-        - [Vampire](Compendium/bestiary/undead/vampire-xmm.md)    
--     - [Adult Black Dragon](Compendium/bestiary/dragon/adult-black-dragon-xmm.md)    
-        - [Adult Copper Dragon](Compendium/bestiary/dragon/adult-copper-dragon-xmm.md)    
-        - [Death Tyrant](Compendium/bestiary/undead/death-tyrant-xmm.md)    
-        - [Ice Devil](Compendium/bestiary/fiend/ice-devil-xmm.md)    
--     - [Adult Bronze Dragon](Compendium/bestiary/dragon/adult-bronze-dragon-xmm.md)    
-        - [Adult Green Dragon](Compendium/bestiary/dragon/adult-green-dragon-xmm.md)    
-        - [Mummy Lord](Compendium/bestiary/undead/mummy-lord-xmm.md)    
-        - [Purple Worm](Compendium/bestiary/monstrosity/purple-worm-xmm.md)    
-        - [Salamander Inferno Master](Compendium/bestiary/elemental/salamander-inferno-master-xmm.md)    
-        - [Vampire Umbral Lord](Compendium/bestiary/undead/vampire-umbral-lord-xmm.md)    
--     - [Adult Blue Dragon](Compendium/bestiary/dragon/adult-blue-dragon-xmm.md)    
-        - [Adult Silver Dragon](Compendium/bestiary/dragon/adult-silver-dragon-xmm.md)    
-        - [Githyanki Dracomancer](Compendium/bestiary/aberration/githyanki-dracomancer-xmm.md)    
-        - [Gulthias Blight](Compendium/bestiary/plant/gulthias-blight-xmm.md)    
-        - [Iron Golem](Compendium/bestiary/construct/iron-golem-xmm.md)    
-        - [Marilith](Compendium/bestiary/fiend/marilith-xmm.md)    
-        - [Planetar](Compendium/bestiary/celestial/planetar-xmm.md)    
--     - [Adult Gold Dragon](Compendium/bestiary/dragon/adult-gold-dragon-xmm.md)    
-        - [Adult Red Dragon](Compendium/bestiary/dragon/adult-red-dragon-xmm.md)    
-        - [Death Knight](Compendium/bestiary/undead/death-knight-xmm.md)    
-        - [Dracolich](Compendium/bestiary/undead/dracolich-xmm.md)    
-        - [Dragon Turtle](Compendium/bestiary/dragon/dragon-turtle-xmm.md)    
-        - [Goristro](Compendium/bestiary/fiend/goristro-xmm.md)    
-        - [Sphinx of Valor](Compendium/bestiary/celestial/sphinx-of-valor-xmm.md)    
--     - [Demilich](Compendium/bestiary/undead/demilich-xmm.md)    
--     - [Balor](Compendium/bestiary/fiend/balor-xmm.md)    
--     - [Ancient Brass Dragon](Compendium/bestiary/dragon/ancient-brass-dragon-xmm.md)    
-        - [Ancient White Dragon](Compendium/bestiary/dragon/ancient-white-dragon-xmm.md)    
-        - [Animal Lord](Compendium/bestiary/celestial/animal-lord-xmm.md)    
-        - [Pit Fiend](Compendium/bestiary/fiend/pit-fiend-xmm.md)    
--     - [Ancient Black Dragon](Compendium/bestiary/dragon/ancient-black-dragon-xmm.md)    
-        - [Ancient Copper Dragon](Compendium/bestiary/dragon/ancient-copper-dragon-xmm.md)    
-        - [Arch-hag](Compendium/bestiary/fey/arch-hag-xmm.md)    
-        - [Lich](Compendium/bestiary/undead/lich-xmm.md)    
-        - [Solar](Compendium/bestiary/celestial/solar-xmm.md)    
--     - [Ancient Bronze Dragon](Compendium/bestiary/dragon/ancient-bronze-dragon-xmm.md)    
-        - [Ancient Green Dragon](Compendium/bestiary/dragon/ancient-green-dragon-xmm.md)    
-        - [Elemental Cataclysm](Compendium/bestiary/elemental/elemental-cataclysm-xmm.md)    
--     - [Ancient Blue Dragon](Compendium/bestiary/dragon/ancient-blue-dragon-xmm.md)    
-        - [Ancient Silver Dragon](Compendium/bestiary/dragon/ancient-silver-dragon-xmm.md)    
-        - [Blob of Annihilation](Compendium/bestiary/ooze/blob-of-annihilation-xmm.md)    
-        - [Empyrean](Compendium/bestiary/miscellaneous/empyrean-xmm.md)    
-        - [Kraken](Compendium/bestiary/monstrosity/kraken-xmm.md)    
--     - [Ancient Gold Dragon](Compendium/bestiary/dragon/ancient-gold-dragon-xmm.md)    
-        - [Ancient Red Dragon](Compendium/bestiary/dragon/ancient-red-dragon-xmm.md)    
--     - [Colossus](Compendium/bestiary/construct/colossus-xmm.md)    
--     - [Tarrasque](Compendium/bestiary/monstrosity/tarrasque-xmm.md)
+-     - [[awakened-shrub-xmm]]    
+        - [[baboon-xmm]]    
+        - [[badger-xmm]]    
+        - [[bat-xmm]]    
+        - [[cat-xmm]]    
+        - [[commoner-xmm]]    
+        - [[crab-xmm]]    
+        - [[crawling-claw-xmm]]    
+        - [[deer-xmm]]    
+        - [[eagle-xmm]]    
+        - [[frog-xmm]]    
+        - [[giant-fire-beetle-xmm]]    
+        - [[goat-xmm]]    
+        - [[hawk-xmm]]    
+        - [[homunculus-xmm]]    
+        - [[hyena-xmm]]    
+        - [[jackal-xmm]]    
+        - [[larva-xmm]]    
+        - [[lemure-xmm]]    
+        - [[lizard-xmm]]    
+        - [[myconid-sprout-xmm]]    
+        - [[octopus-xmm]]    
+        - [[owl-xmm]]    
+        - [[piranha-xmm]]    
+        - [[rat-xmm]]    
+        - [[raven-xmm]]    
+        - [[scorpion-xmm]]    
+        - [[seahorse-xmm]]    
+        - [[shrieker-fungus-xmm]]    
+        - [[spider-xmm]]    
+        - [[vulture-xmm]]    
+        - [[weasel-xmm]]    
+-     - [[bandit-xmm]]    
+        - [[blood-hawk-xmm]]    
+        - [[camel-xmm]]    
+        - [[cultist-xmm]]    
+        - [[flumph-xmm]]    
+        - [[flying-snake-xmm]]    
+        - [[giant-crab-xmm]]    
+        - [[giant-rat-xmm]]    
+        - [[giant-weasel-xmm]]    
+        - [[goblin-minion-xmm]]    
+        - [[guard-xmm]]    
+        - [[kobold-warrior-xmm]]    
+        - [[manes-xmm]]    
+        - [[mastiff-xmm]]    
+        - [[merfolk-skirmisher-xmm]]    
+        - [[modron-monodrone-xmm]]    
+        - [[mule-xmm]]    
+        - [[noble-xmm]]    
+        - [[pony-xmm]]    
+        - [[slaad-tadpole-xmm]]    
+        - [[stirge-xmm]]    
+        - [[twig-blight-xmm]]    
+        - [[venomous-snake-xmm]]    
+        - [[warrior-infantry-xmm]]    
+-     - [[aarakocra-skirmisher-xmm]]    
+        - [[animated-broom-xmm]]    
+        - [[animated-flying-sword-xmm]]    
+        - [[axe-beak-xmm]]    
+        - [[blink-dog-xmm]]    
+        - [[boar-xmm]]    
+        - [[bullywug-warrior-xmm]]    
+        - [[constrictor-snake-xmm]]    
+        - [[draft-horse-xmm]]    
+        - [[dretch-xmm]]    
+        - [[elk-xmm]]    
+        - [[giant-badger-xmm]]    
+        - [[giant-bat-xmm]]    
+        - [[giant-centipede-xmm]]    
+        - [[giant-frog-xmm]]    
+        - [[giant-lizard-xmm]]    
+        - [[giant-owl-xmm]]    
+        - [[giant-venomous-snake-xmm]]    
+        - [[giant-wolf-spider-xmm]]    
+        - [[goblin-warrior-xmm]]    
+        - [[grimlock-xmm]]    
+        - [[kenku-xmm]]    
+        - [[kuo-toa-xmm]]    
+        - [[modron-duodrone-xmm]]    
+        - [[mud-mephit-xmm]]    
+        - [[needle-blight-xmm]]    
+        - [[panther-xmm]]    
+        - [[pixie-xmm]]    
+        - [[priest-acolyte-xmm]]    
+        - [[pseudodragon-xmm]]    
+        - [[pteranodon-xmm]]    
+        - [[riding-horse-xmm]]    
+        - [[skeleton-xmm]]    
+        - [[smoke-mephit-xmm]]    
+        - [[sprite-xmm]]    
+        - [[steam-mephit-xmm]]    
+        - [[swarm-of-bats-xmm]]    
+        - [[swarm-of-rats-xmm]]    
+        - [[swarm-of-ravens-xmm]]    
+        - [[troglodyte-xmm]]    
+        - [[violet-fungus-xmm]]    
+        - [[winged-kobold-xmm]]    
+        - [[wolf-xmm]]    
+        - [[zombie-xmm]]    
+-     - [[ape-xmm]]    
+        - [[black-bear-xmm]]    
+        - [[cockatrice-xmm]]    
+        - [[crocodile-xmm]]    
+        - [[darkmantle-xmm]]    
+        - [[dust-mephit-xmm]]    
+        - [[gas-spore-fungus-xmm]]    
+        - [[giant-goat-xmm]]    
+        - [[giant-seahorse-xmm]]    
+        - [[giant-wasp-xmm]]    
+        - [[gnoll-warrior-xmm]]    
+        - [[gray-ooze-xmm]]    
+        - [[hobgoblin-warrior-xmm]]    
+        - [[ice-mephit-xmm]]    
+        - [[jackalwere-xmm]]    
+        - [[magma-mephit-xmm]]    
+        - [[magmin-xmm]]    
+        - [[modron-tridrone-xmm]]    
+        - [[myconid-adult-xmm]]    
+        - [[performer-xmm]]    
+        - [[piercer-xmm]]    
+        - [[reef-shark-xmm]]    
+        - [[rust-monster-xmm]]    
+        - [[sahuagin-warrior-xmm]]    
+        - [[satyr-xmm]]    
+        - [[scout-xmm]]    
+        - [[shadow-xmm]]    
+        - [[swarm-of-insects-xmm]]    
+        - [[tough-xmm]]    
+        - [[troll-limb-xmm]]    
+        - [[vine-blight-xmm]]    
+        - [[warhorse-xmm]]    
+        - [[warhorse-skeleton-xmm]]    
+        - [[worg-xmm]]    
+-     - [[animated-armor-xmm]]    
+        - [[brass-dragon-wyrmling-xmm]]    
+        - [[brown-bear-xmm]]    
+        - [[bugbear-warrior-xmm]]    
+        - [[copper-dragon-wyrmling-xmm]]    
+        - [[death-dog-xmm]]    
+        - [[dire-wolf-xmm]]    
+        - [[dryad-xmm]]    
+        - [[empyrean-iota-xmm]]    
+        - [[faerie-dragon-youth-xmm]]    
+        - [[ghoul-xmm]]    
+        - [[giant-eagle-xmm]]    
+        - [[giant-hyena-xmm]]    
+        - [[giant-octopus-xmm]]    
+        - [[giant-spider-xmm]]    
+        - [[giant-toad-xmm]]    
+        - [[giant-vulture-xmm]]    
+        - [[goblin-boss-xmm]]    
+        - [[harpy-xmm]]    
+        - [[hippogriff-xmm]]    
+        - [[imp-xmm]]    
+        - [[kuo-toa-whip-xmm]]    
+        - [[lacedon-ghoul-xmm]]    
+        - [[lion-xmm]]    
+        - [[manes-vaporspawn-xmm]]    
+        - [[modron-quadrone-xmm]]    
+        - [[myconid-spore-servant-xmm]]    
+        - [[ogrillon-ogre-xmm]]    
+        - [[pirate-xmm]]    
+        - [[psychic-gray-ooze-xmm]]    
+        - [[quasit-xmm]]    
+        - [[salamander-fire-snake-xmm]]    
+        - [[scarecrow-xmm]]    
+        - [[specter-xmm]]    
+        - [[sphinx-of-wonder-xmm]]    
+        - [[spy-xmm]]    
+        - [[swarm-of-larvae-xmm]]    
+        - [[swarm-of-piranhas-xmm]]    
+        - [[thri-kreen-marauder-xmm]]    
+        - [[tiger-xmm]]    
+        - [[yuan-ti-infiltrator-xmm]]    
+-     - [[allosaurus-xmm]]    
+        - [[animated-rug-of-smothering-xmm]]    
+        - [[ankheg-xmm]]    
+        - [[awakened-tree-xmm]]    
+        - [[azer-sentinel-xmm]]    
+        - [[bandit-captain-xmm]]    
+        - [[berserker-xmm]]    
+        - [[black-dragon-wyrmling-xmm]]    
+        - [[bronze-dragon-wyrmling-xmm]]    
+        - [[bulette-pup-xmm]]    
+        - [[carrion-crawler-xmm]]    
+        - [[centaur-trooper-xmm]]    
+        - [[cultist-fanatic-xmm]]    
+        - [[druid-xmm]]    
+        - [[ettercap-xmm]]    
+        - [[faerie-dragon-adult-xmm]]    
+        - [[gargoyle-xmm]]    
+        - [[gelatinous-cube-xmm]]    
+        - [[ghast-xmm]]    
+        - [[giant-boar-xmm]]    
+        - [[giant-constrictor-snake-xmm]]    
+        - [[giant-elk-xmm]]    
+        - [[gibbering-mouther-xmm]]    
+        - [[githzerai-monk-xmm]]    
+        - [[gnoll-pack-lord-xmm]]    
+        - [[green-dragon-wyrmling-xmm]]    
+        - [[grick-xmm]]    
+        - [[griffon-xmm]]    
+        - [[hunter-shark-xmm]]    
+        - [[intellect-devourer-xmm]]    
+        - [[lizardfolk-geomancer-xmm]]    
+        - [[mage-apprentice-xmm]]    
+        - [[merrow-xmm]]    
+        - [[mimic-xmm]]    
+        - [[minotaur-skeleton-xmm]]    
+        - [[modron-pentadrone-xmm]]    
+        - [[myconid-sovereign-xmm]]    
+        - [[nothic-xmm]]    
+        - [[ochre-jelly-xmm]]    
+        - [[ogre-xmm]]    
+        - [[ogre-zombie-xmm]]    
+        - [[pegasus-xmm]]    
+        - [[peryton-xmm]]    
+        - [[plesiosaurus-xmm]]    
+        - [[polar-bear-xmm]]    
+        - [[poltergeist-xmm]]    
+        - [[priest-xmm]]    
+        - [[quaggoth-xmm]]    
+        - [[rhinoceros-xmm]]    
+        - [[saber-toothed-tiger-xmm]]    
+        - [[sahuagin-priest-xmm]]    
+        - [[sea-hag-xmm]]    
+        - [[silver-dragon-wyrmling-xmm]]    
+        - [[spined-devil-xmm]]    
+        - [[swarm-of-stirges-xmm]]    
+        - [[swarm-of-venomous-snakes-xmm]]    
+        - [[wererat-xmm]]    
+        - [[white-dragon-wyrmling-xmm]]    
+        - [[will-o-wisp-xmm]]    
+-     - [[ankylosaurus-xmm]]    
+        - [[basilisk-xmm]]    
+        - [[bearded-devil-xmm]]    
+        - [[blue-dragon-wyrmling-xmm]]    
+        - [[bugbear-stalker-xmm]]    
+        - [[displacer-beast-xmm]]    
+        - [[doppelganger-xmm]]    
+        - [[flaming-skeleton-xmm]]    
+        - [[giant-scorpion-xmm]]    
+        - [[githyanki-warrior-xmm]]    
+        - [[goblin-hexer-xmm]]    
+        - [[gold-dragon-wyrmling-xmm]]    
+        - [[green-hag-xmm]]    
+        - [[grell-xmm]]    
+        - [[hell-hound-xmm]]    
+        - [[hobgoblin-captain-xmm]]    
+        - [[hook-horror-xmm]]    
+        - [[killer-whale-xmm]]    
+        - [[knight-xmm]]    
+        - [[kuo-toa-monitor-xmm]]    
+        - [[manticore-xmm]]    
+        - [[minotaur-of-baphomet-xmm]]    
+        - [[mummy-xmm]]    
+        - [[nightmare-xmm]]    
+        - [[owlbear-xmm]]    
+        - [[phase-spider-xmm]]    
+        - [[quaggoth-thonot-xmm]]    
+        - [[scout-captain-xmm]]    
+        - [[spectator-xmm]]    
+        - [[swarm-of-crawling-claws-xmm]]    
+        - [[swarm-of-lemures-xmm]]    
+        - [[vampire-familiar-xmm]]    
+        - [[warrior-veteran-xmm]]    
+        - [[water-weird-xmm]]    
+        - [[werewolf-xmm]]    
+        - [[wight-xmm]]    
+        - [[winter-wolf-xmm]]    
+        - [[yeti-xmm]]    
+        - [[yuan-ti-malison-type-1-xmm]]    
+        - [[yuan-ti-malison-type-2-xmm]]    
+        - [[yuan-ti-malison-type-3-xmm]]    
+-     - [[aarakocra-aeromancer-xmm]]    
+        - [[archelon-xmm]]    
+        - [[banshee-xmm]]    
+        - [[black-pudding-xmm]]    
+        - [[bone-naga-xmm]]    
+        - [[bullywug-bog-sage-xmm]]    
+        - [[chuul-xmm]]    
+        - [[couatl-xmm]]    
+        - [[elephant-xmm]]    
+        - [[ettin-xmm]]    
+        - [[flameskull-xmm]]    
+        - [[ghost-xmm]]    
+        - [[gnoll-fang-of-yeenoghu-xmm]]    
+        - [[guard-captain-xmm]]    
+        - [[helmed-horror-xmm]]    
+        - [[hippopotamus-xmm]]    
+        - [[incubus-xmm]]    
+        - [[juvenile-shadow-dragon-xmm]]    
+        - [[lamia-xmm]]    
+        - [[lizardfolk-sovereign-xmm]]    
+        - [[red-dragon-wyrmling-xmm]]    
+        - [[shadow-demon-xmm]]    
+        - [[succubus-xmm]]    
+        - [[swarm-of-dretches-xmm]]    
+        - [[tough-boss-xmm]]    
+        - [[wereboar-xmm]]    
+        - [[weretiger-xmm]]    
+-     - [[air-elemental-xmm]]    
+        - [[barbed-devil-xmm]]    
+        - [[barlgura-xmm]]    
+        - [[beholder-zombie-xmm]]    
+        - [[bulette-xmm]]    
+        - [[cambion-xmm]]    
+        - [[earth-elemental-xmm]]    
+        - [[fire-elemental-xmm]]    
+        - [[flesh-golem-xmm]]    
+        - [[giant-axe-beak-xmm]]    
+        - [[giant-crocodile-xmm]]    
+        - [[giant-shark-xmm]]    
+        - [[gladiator-xmm]]    
+        - [[gorgon-xmm]]    
+        - [[half-dragon-xmm]]    
+        - [[hill-giant-xmm]]    
+        - [[mezzoloth-xmm]]    
+        - [[night-hag-xmm]]    
+        - [[otyugh-xmm]]    
+        - [[pixie-wonderbringer-xmm]]    
+        - [[red-slaad-xmm]]    
+        - [[revenant-xmm]]    
+        - [[roper-xmm]]    
+        - [[sahuagin-baron-xmm]]    
+        - [[salamander-xmm]]    
+        - [[shambling-mound-xmm]]    
+        - [[triceratops-xmm]]    
+        - [[troll-xmm]]    
+        - [[umber-hulk-xmm]]    
+        - [[unicorn-xmm]]    
+        - [[vampire-spawn-xmm]]    
+        - [[water-elemental-xmm]]    
+        - [[werebear-xmm]]    
+        - [[wraith-xmm]]    
+        - [[xorn-xmm]]    
+        - [[young-remorhaz-xmm]]    
+-     - [[azer-pyromancer-xmm]]    
+        - [[chasme-xmm]]    
+        - [[chimera-xmm]]    
+        - [[cyclops-sentry-xmm]]    
+        - [[drider-xmm]]    
+        - [[galeb-duhr-xmm]]    
+        - [[ghast-gravecaller-xmm]]    
+        - [[giant-squid-xmm]]    
+        - [[githzerai-zerth-xmm]]    
+        - [[hobgoblin-warlord-xmm]]    
+        - [[invisible-stalker-xmm]]    
+        - [[kuo-toa-archpriest-xmm]]    
+        - [[mage-xmm]]    
+        - [[mammoth-xmm]]    
+        - [[medusa-xmm]]    
+        - [[merfolk-wavebender-xmm]]    
+        - [[performer-maestro-xmm]]    
+        - [[pirate-captain-xmm]]    
+        - [[satyr-revelmaster-xmm]]    
+        - [[vrock-xmm]]    
+        - [[wyvern-xmm]]    
+        - [[young-brass-dragon-xmm]]    
+        - [[young-white-dragon-xmm]]    
+-     - [[bandit-deceiver-xmm]]    
+        - [[blue-slaad-xmm]]    
+        - [[centaur-warden-xmm]]    
+        - [[giant-ape-xmm]]    
+        - [[graveyard-revenant-xmm]]    
+        - [[grick-ancient-xmm]]    
+        - [[mind-flayer-xmm]]    
+        - [[oni-xmm]]    
+        - [[primeval-owlbear-xmm]]    
+        - [[shield-guardian-xmm]]    
+        - [[stone-giant-xmm]]    
+        - [[tree-blight-xmm]]    
+        - [[violet-fungus-necrohulk-xmm]]    
+        - [[young-black-dragon-xmm]]    
+        - [[young-copper-dragon-xmm]]    
+        - [[yuan-ti-abomination-xmm]]    
+-     - [[aberrant-cultist-xmm]]    
+        - [[assassin-xmm]]    
+        - [[berserker-commander-xmm]]    
+        - [[chain-devil-xmm]]    
+        - [[cloaker-xmm]]    
+        - [[cockatrice-regent-xmm]]    
+        - [[death-cultist-xmm]]    
+        - [[elemental-cultist-xmm]]    
+        - [[fiend-cultist-xmm]]    
+        - [[fomorian-xmm]]    
+        - [[frost-giant-xmm]]    
+        - [[githyanki-knight-xmm]]    
+        - [[gnoll-demoniac-xmm]]    
+        - [[green-slaad-xmm]]    
+        - [[hezrou-xmm]]    
+        - [[hydra-xmm]]    
+        - [[sphinx-of-secrets-xmm]]    
+        - [[spirit-naga-xmm]]    
+        - [[thri-kreen-psion-xmm]]    
+        - [[tyrannosaurus-rex-xmm]]    
+        - [[vampire-nightbringer-xmm]]    
+        - [[young-bronze-dragon-xmm]]    
+        - [[young-green-dragon-xmm]]    
+-     - [[abominable-yeti-xmm]]    
+        - [[bone-devil-xmm]]    
+        - [[brazen-gorgon-xmm]]    
+        - [[clay-golem-xmm]]    
+        - [[cloud-giant-xmm]]    
+        - [[fire-giant-xmm]]    
+        - [[glabrezu-xmm]]    
+        - [[gray-slaad-xmm]]    
+        - [[nycaloth-xmm]]    
+        - [[treant-xmm]]    
+        - [[young-blue-dragon-xmm]]    
+        - [[young-silver-dragon-xmm]]    
+-     - [[aboleth-xmm]]    
+        - [[cultist-hierophant-xmm]]    
+        - [[cyclops-oracle-xmm]]    
+        - [[death-slaad-xmm]]    
+        - [[deva-xmm]]    
+        - [[dire-worg-xmm]]    
+        - [[guardian-naga-xmm]]    
+        - [[haunting-revenant-xmm]]    
+        - [[noble-prodigy-xmm]]    
+        - [[performer-legend-xmm]]    
+        - [[spy-master-xmm]]    
+        - [[stone-golem-xmm]]    
+        - [[warrior-commander-xmm]]    
+        - [[yochlol-xmm]]    
+        - [[young-gold-dragon-xmm]]    
+        - [[young-red-dragon-xmm]]    
+-     - [[bandit-crime-lord-xmm]]    
+        - [[behir-xmm]]    
+        - [[dao-xmm]]    
+        - [[death-knight-aspirant-xmm]]    
+        - [[djinni-xmm]]    
+        - [[efreeti-xmm]]    
+        - [[horned-devil-xmm]]    
+        - [[marid-xmm]]    
+        - [[mind-flayer-arcanist-xmm]]    
+        - [[remorhaz-xmm]]    
+        - [[roc-xmm]]    
+        - [[sphinx-of-lore-xmm]]    
+-     - [[arcanaloth-xmm]]    
+        - [[archmage-xmm]]    
+        - [[archpriest-xmm]]    
+        - [[erinyes-xmm]]    
+        - [[githzerai-psion-xmm]]    
+        - [[pirate-admiral-xmm]]    
+        - [[questing-knight-xmm]]    
+-     - [[adult-brass-dragon-xmm]]    
+        - [[adult-white-dragon-xmm]]    
+        - [[beholder-xmm]]    
+        - [[nalfeshnee-xmm]]    
+        - [[rakshasa-xmm]]    
+        - [[shadow-dragon-xmm]]    
+        - [[storm-giant-xmm]]    
+        - [[ultroloth-xmm]]    
+        - [[vampire-xmm]]    
+-     - [[adult-black-dragon-xmm]]    
+        - [[adult-copper-dragon-xmm]]    
+        - [[death-tyrant-xmm]]    
+        - [[ice-devil-xmm]]    
+-     - [[adult-bronze-dragon-xmm]]    
+        - [[adult-green-dragon-xmm]]    
+        - [[mummy-lord-xmm]]    
+        - [[purple-worm-xmm]]    
+        - [[salamander-inferno-master-xmm]]    
+        - [[vampire-umbral-lord-xmm]]    
+-     - [[adult-blue-dragon-xmm]]    
+        - [[adult-silver-dragon-xmm]]    
+        - [[githyanki-dracomancer-xmm]]    
+        - [[gulthias-blight-xmm]]    
+        - [[iron-golem-xmm]]    
+        - [[marilith-xmm]]    
+        - [[planetar-xmm]]    
+-     - [[adult-gold-dragon-xmm]]    
+        - [[adult-red-dragon-xmm]]    
+        - [[death-knight-xmm]]    
+        - [[dracolich-xmm]]    
+        - [[dragon-turtle-xmm]]    
+        - [[goristro-xmm]]    
+        - [[sphinx-of-valor-xmm]]    
+-     - [[demilich-xmm]]    
+-     - [[balor-xmm]]    
+-     - [[ancient-brass-dragon-xmm]]    
+        - [[ancient-white-dragon-xmm]]    
+        - [[animal-lord-xmm]]    
+        - [[pit-fiend-xmm]]    
+-     - [[ancient-black-dragon-xmm]]    
+        - [[ancient-copper-dragon-xmm]]    
+        - [[arch-hag-xmm]]    
+        - [[lich-xmm]]    
+        - [[solar-xmm]]    
+-     - [[ancient-bronze-dragon-xmm]]    
+        - [[ancient-green-dragon-xmm]]    
+        - [[elemental-cataclysm-xmm]]    
+-     - [[ancient-blue-dragon-xmm]]    
+        - [[ancient-silver-dragon-xmm]]    
+        - [[blob-of-annihilation-xmm]]    
+        - [[empyrean-xmm]]    
+        - [[kraken-xmm]]    
+-     - [[ancient-gold-dragon-xmm]]    
+        - [[ancient-red-dragon-xmm]]    
+-     - [[colossus-xmm]]    
+-     - [[tarrasque-xmm]]

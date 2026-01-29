@@ -9,7 +9,7 @@ aliases:
 - Oath of the Ancients
 ---
 # Oath of the Ancients
-*[[paladin-xphb|Paladin]]: Paladin Subclass*  
+* [[paladin-xphb]]: Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 115*  
 
 > [!tldr] Class and Feature Progression
@@ -66,11 +66,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [Ensnaring Strike](Compendium/spells/ensnaring-strike-xphb.md), [Speak with Animals](Compendium/spells/speak-with-animals-xphb.md) |
-| 5th | [Misty Step](Compendium/spells/misty-step-xphb.md), [Moonbeam](Compendium/spells/moonbeam-xphb.md) |
-| 9th | [Plant Growth](Compendium/spells/plant-growth-xphb.md), [Protection from Energy](Compendium/spells/protection-from-energy-xphb.md) |
-| 13th | [Ice Storm](Compendium/spells/ice-storm-xphb.md), [Stoneskin](Compendium/spells/stoneskin-xphb.md) |
-| 17th | [Commune with Nature](Compendium/spells/commune-with-nature-xphb.md), [Tree Stride](Compendium/spells/tree-stride-xphb.md) |
+| 3rd | [[ensnaring-strike-xphb]], [[speak-with-animals-xphb]] |
+| 5th | [[misty-step-xphb]], [[moonbeam-xphb]] |
+| 9th | [[plant-growth-xphb]], [[protection-from-energy-xphb]] |
+| 13th | [[ice-storm-xphb]], [[stoneskin-xphb]] |
+| 17th | [[commune-with-nature-xphb]], [[tree-stride-xphb]] |
 ^oath-of-the-ancients-spells
 
 ### Nature's Wrath (Level 3)
@@ -79,26 +79,26 @@ As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend one use o
 
 ### Aura of Warding (Level 7)
 
-Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Necrotic, Psychic, and Radiant damage while in your Aura of Protection.
+Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have [[resistance-xphb]] to Necrotic, Psychic, and Radiant damage while in your Aura of Protection.
 
 ### Undying Sentinel (Level 15)
 
-When you are reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) and not killed outright, you can drop to 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) instead, and you regain a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) equal to three times your Paladin level. Once you use this feature, you can't do so again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+When you are reduced to 0 [[hit-points-xphb]] and not killed outright, you can drop to 1 [[hit-points-xphb]] instead, and you regain a number of [[hit-points-xphb]] equal to three times your Paladin level. Once you use this feature, you can't do so again until you finish a [[long-rest-xphb]].
 
 Additionally, you can't be aged magically, and you cease visibly aging.
 
 ### Elder Champion (Level 20)
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can imbue your Aura of Protection with primal power, granting the benefits below for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a [[bonus-action-xphb]], you can imbue your Aura of Protection with primal power, granting the benefits below for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]]. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 #### Diminish Defiance
 
-Enemies in the aura have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on saving throws against your spells and Channel Divinity options.
+Enemies in the aura have [[disadvantage-xphb]] on saving throws against your spells and Channel Divinity options.
 
 #### Regeneration
 
-At the start of each of your turns, you regain 10 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).
+At the start of each of your turns, you regain 10 [[hit-points-xphb]].
 
 #### Swift Spells
 
-Whenever you cast a spell that has a casting time of an action, you can cast it using a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md) instead.
+Whenever you cast a spell that has a casting time of an action, you can cast it using a [[bonus-action-xphb]] instead.

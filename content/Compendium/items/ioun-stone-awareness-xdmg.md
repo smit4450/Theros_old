@@ -19,8 +19,8 @@ When you take a [Magic](Compendium/rules/actions.md#Magic) action to toss an *Io
 
 Each *Ioun Stone* orbiting your head is considered to be an object you are wearing. The orbiting stone avoids contact with other creatures and objects, adjusting its orbit to avoid collisions and thwarting all attempts by other creatures to attack or snatch it.
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [Attunement](Compendium/rules/variant-rules/attunement-xphb.md) to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
+As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [[attunement-xphb]] to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
 
-While this dark-blue rhomboid orbits your head, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) rolls and Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks.
+While this dark-blue rhomboid orbits your head, you have [[advantage-xphb]] on [[initiative-xphb]] rolls and Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks.
 
 *Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

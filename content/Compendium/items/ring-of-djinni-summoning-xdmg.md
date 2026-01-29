@@ -14,9 +14,9 @@ aliases:
 ![](Compendium/items/img/ring-of-djinni-summoning.webp#right)
 
 
-While wearing this ring, you can take a [Magic](Compendium/rules/actions.md#Magic) action to summon a particular [Djinni](Compendium/bestiary/elemental/djinni-xmm.md) from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of yourself. It remains as long as you maintain [Concentration](Compendium/rules/conditions.md#Concentration), to a maximum of 1 hour, or until it drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md).
+While wearing this ring, you can take a [Magic](Compendium/rules/actions.md#Magic) action to summon a particular [[djinni-xmm]] from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of yourself. It remains as long as you maintain [Concentration](Compendium/rules/conditions.md#Concentration), to a maximum of 1 hour, or until it drops to 0 [[hit-points-xphb]].
 
-While summoned, the djinni is [Friendly](Compendium/rules/variant-rules/friendly-attitude-xphb.md) to you and your allies, and it obeys your commands. If you fail to command it, the djinni defends itself against attackers but takes no other actions.
+While summoned, the djinni is [[friendly-attitude-xphb]] to you and your allies, and it obeys your commands. If you fail to command it, the djinni defends itself against attackers but takes no other actions.
 
 After the djinni departs, it can't be summoned again for 24 hours, and the ring becomes nonmagical if the djinni dies.
 

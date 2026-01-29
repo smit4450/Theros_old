@@ -135,7 +135,7 @@ Your piety score to Pharika decreases if you diminish Pharika's influence in the
 
 ### Benefits of Piety
 
-- [Pharika's Devotee](Compendium/rewards/pharikas-devotee-mot.md)  
-- [Pharika's Votary](Compendium/rewards/pharikas-votary-mot.md)  
-- [Pharika's Disciple](Compendium/rewards/pharikas-disciple-mot.md)  
-- [Champion of Affliction](Compendium/rewards/champion-of-affliction-mot.md)
+- [[pharikas-devotee-mot]]  
+- [[pharikas-votary-mot]]  
+- [[pharikas-disciple-mot]]  
+- [[champion-of-affliction-mot]]

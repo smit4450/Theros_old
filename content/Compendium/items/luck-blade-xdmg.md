@@ -28,20 +28,20 @@ You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon
 
 ## Luck
 
-If the weapon is on your person, you can call on its luck (no action required) to reroll one failed [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) if you don't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. You must use the second roll. Once used, this property can't be used again until the next dawn.
+If the weapon is on your person, you can call on its luck (no action required) to reroll one failed [[d20-test-xphb]] if you don't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. You must use the second roll. Once used, this property can't be used again until the next dawn.
 
 ## Wish
 
-The weapon has `1d3` charges. While holding it, you can expend 1 charge and cast [Wish](Compendium/spells/wish-xphb.md) from it. Once used, this property can't be used again until the next dawn. The weapon loses this property if it has no charges.
+The weapon has `1d3` charges. While holding it, you can expend 1 charge and cast [[wish-xphb]] from it. Once used, this property can't be used again until the next dawn. The weapon loses this property if it has no charges.
 
 **Variants**:
-- [[#Luck Glaive|Luck Glaive]]
-- [[#Luck Greatsword|Luck Greatsword]]
-- [[#Luck Longsword|Luck Longsword]]
-- [[#Luck Rapier|Luck Rapier]]
-- [[#Luck Scimitar|Luck Scimitar]]
-- [[#Luck Shortsword|Luck Shortsword]]
-- [[#Luck Sickle|Luck Sickle]]
+-  [[#Luck Glaive]]
+-  [[#Luck Greatsword]]
+-  [[#Luck Longsword]]
+-  [[#Luck Rapier]]
+-  [[#Luck Scimitar]]
+-  [[#Luck Shortsword]]
+-  [[#Luck Sickle]]
 
 ### Luck Glaive
 

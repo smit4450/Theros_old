@@ -58,16 +58,16 @@ Many dragon turtles live in secluded lairs or ruins deep underwater, and they mi
       \ Tail attack."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +13, reach 15 ft. *Hit:* 23 (3d10 + 7) Piercing\
-      \ damage plus 7 (2d6) Fire damage. Being underwater doesn't grant [Resistance](Compendium/rules/variant-rules/resistance-xphb.md)\
+      \ damage plus 7 (2d6) Fire damage. Being underwater doesn't grant [[resistance-xphb]]\
       \ to this Fire damage."
     "name": "Bite"
   - "desc": "*Melee Attack Roll:* +13, reach 15 ft. *Hit:* 18 (2d10 + 7) Bludgeoning\
       \ damage. If the target is a Huge or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
       \ condition."
     "name": "Tail"
-  - "desc": "*Constitution Saving Throw:* DC 19, each creature in a 60-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Constitution Saving Throw:* DC 19, each creature in a 60-foot [[cone-area-of-effect-xphb]].\
       \ *Failure:* 56 (16d6) Fire damage. *Success:* Half damage. *Failure or Success:*\
-      \ Being underwater doesn't grant [Resistance](Compendium/rules/variant-rules/resistance-xphb.md)\
+      \ Being underwater doesn't grant [[resistance-xphb]]\
       \ to this Fire damage."
     "name": "Steam Breath (Recharge 5-6)"
 "source":

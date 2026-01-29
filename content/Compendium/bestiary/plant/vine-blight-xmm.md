@@ -65,7 +65,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
       \ Bludgeoning damage at the start of each of its turns, and the blight can't\
       \ make Constricting Vine attacks."
     "name": "Constricting Vine"
-  - "desc": "The blight casts the [Entangle](Compendium/spells/entangle-xphb.md) spell,\
+  - "desc": "The blight casts the [[entangle-xphb]] spell,\
       \ using Constitution as the spellcasting ability (spell save DC 12).\n"
     "name": "Entangling Plants (Recharge 5-6)"
 "source":

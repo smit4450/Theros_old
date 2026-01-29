@@ -19,4 +19,4 @@ You gain the following benefits.
 
 **Retaliate.** Immediately after a creature within 5 feet of you hits you with a melee attack, you can make an [Opportunity Attack](Compendium/rules/actions.md#Opportunity Attack) against that creature.
 
-**Versatile Merc.** When you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md), choose a skill in which you have proficiency. You have [Expertise](Compendium/rules/variant-rules/expertise-xphb.md) in that skill until you finish your next [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md).
+**Versatile Merc.** When you finish a [[long-rest-xphb]], choose a skill in which you have proficiency. You have [[expertise-xphb]] in that skill until you finish your next [[long-rest-xphb]].

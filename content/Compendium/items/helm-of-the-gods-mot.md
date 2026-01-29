@@ -21,21 +21,21 @@ The helm has 3 charges. To cast a spell from the helm, you must expend 1 charge,
 
 | God | Spell |
 |-----|-------|
-| Athreos | [protection from evil and good](Compendium/spells/protection-from-evil-and-good-xphb.md) |
-| Ephara | [sanctuary](Compendium/spells/sanctuary-xphb.md) |
-| Erebos | [inflict wounds](Compendium/spells/inflict-wounds-xphb.md) |
-| Heliod | [guiding bolt](Compendium/spells/guiding-bolt-xphb.md) |
-| Iroas | [heroism](Compendium/spells/heroism-xphb.md) |
-| Karametra | [goodberry](Compendium/spells/goodberry-xphb.md) |
-| Keranos | [thunderous smite](Compendium/spells/thunderous-smite-xphb.md) |
-| Klothys | [entangle](Compendium/spells/entangle-xphb.md) |
-| Kruphix | [dissonant whispers](Compendium/spells/dissonant-whispers-xphb.md) |
-| Mogis | [hellish rebuke](Compendium/spells/hellish-rebuke-xphb.md) |
-| Nylea | [faerie fire](Compendium/spells/faerie-fire-xphb.md) |
-| Pharika | [lesser restoration](Compendium/spells/lesser-restoration-xphb.md) |
-| Phenax | [charm person](Compendium/spells/charm-person-xphb.md) |
-| Purphoros | [searing smite](Compendium/spells/searing-smite-xphb.md) |
-| Thassa | [identify](Compendium/spells/identify-xphb.md) |
+| Athreos | [[protection-from-evil-and-good-xphb]] |
+| Ephara | [[sanctuary-xphb]] |
+| Erebos | [[inflict-wounds-xphb]] |
+| Heliod | [[guiding-bolt-xphb]] |
+| Iroas | [[heroism-xphb]] |
+| Karametra | [[goodberry-xphb]] |
+| Keranos | [[thunderous-smite-xphb]] |
+| Klothys | [[entangle-xphb]] |
+| Kruphix | [[dissonant-whispers-xphb]] |
+| Mogis | [[hellish-rebuke-xphb]] |
+| Nylea | [[faerie-fire-xphb]] |
+| Pharika | [[lesser-restoration-xphb]] |
+| Phenax | [[charm-person-xphb]] |
+| Purphoros | [[searing-smite-xphb]] |
+| Thassa | [[identify-xphb]] |
 ^god-spell
 
 *Source: Mythic Odysseys of Theros p. 196*

@@ -62,12 +62,12 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "languages": "Primordial (Aquan, Ignan)"
 "cr": "1/4"
 "traits":
-  - "desc": "Attack rolls against the mephit are made with [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md)\
+  - "desc": "Attack rolls against the mephit are made with [[disadvantage-xphb]]\
       \ unless the mephit has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated)\
       \ condition."
     "name": "Blurred Form"
   - "desc": "The mephit explodes when it dies. *Dexterity Saving Throw:* DC 10, each\
-      \ creature in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ creature in a 5-foot [[emanation-area-of-effect-xphb]]\
       \ originating from the mephit. *Failure:* 5 (2d4) Fire damage. *Success:*\
       \ Half damage."
     "name": "Death Burst"
@@ -75,10 +75,10 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 2 (1d4) Slashing damage\
       \ plus 2 (1d4) Fire damage."
     "name": "Claw"
-  - "desc": "*Constitution Saving Throw:* DC 10, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* 5 (2d4) Fire damage, and the target's [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+  - "desc": "*Constitution Saving Throw:* DC 10, each creature in a 15-foot [[cone-area-of-effect-xphb]].\
+      \ *Failure:* 5 (2d4) Fire damage, and the target's [[speed-xphb]]\
       \ decreases by 10 feet until the end of the mephit's next turn. *Success:* Half\
-      \ damage only. *Failure or Success:* Being underwater doesn't grant [Resistance](Compendium/rules/variant-rules/resistance-xphb.md)\
+      \ damage only. *Failure or Success:* Being underwater doesn't grant [[resistance-xphb]]\
       \ to this Fire damage."
     "name": "Steam Breath (Recharge 6)"
 "source":

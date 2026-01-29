@@ -55,7 +55,7 @@ Owing to their draconic instincts, chimeras are greedy creatures that hoard trea
       \ It can replace the Claw attack with a use of Fire Breath if available."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing\
-      \ damage, or 18 (4d6 + 4) Piercing damage if the chimera had [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ damage, or 18 (4d6 + 4) Piercing damage if the chimera had [[advantage-xphb]]\
       \ on the attack roll."
     "name": "Bite"
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 7 (1d6 + 4) Slashing\
@@ -65,7 +65,7 @@ Owing to their draconic instincts, chimeras are greedy creatures that hoard trea
       \ damage. If the target is a Medium or smaller creature, it has the [Prone](Compendium/rules/conditions.md#Prone)\
       \ condition."
     "name": "Ram"
-  - "desc": "*Dexterity Saving Throw:* DC 15, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 15, each creature in a 15-foot [[cone-area-of-effect-xphb]].\
       \ *Failure:* 31 (7d8) Fire damage. *Success:* Half damage."
     "name": "Fire Breath (Recharge 5-6)"
 "source":

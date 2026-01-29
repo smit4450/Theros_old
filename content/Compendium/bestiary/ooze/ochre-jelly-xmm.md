@@ -76,12 +76,12 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 12 (3d6 + 2) Acid damage."
     "name": "Pseudopod"
 "reactions":
-  - "desc": "Trigger: While the jelly is Large or Medium and has 10+ [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
+  - "desc": "Trigger: While the jelly is Large or Medium and has 10+ [[hit-points-xphb]],\
       \ it becomes [Bloodied](Compendium/rules/conditions.md#Bloodied) or is subjected\
       \ to Lightning or Slashing damage. _Response:_ The jelly splits into two new\
       \ Ochre Jellies. Each new jelly is one size smaller than the original jelly\
-      \ and acts on its [Initiative](Compendium/rules/variant-rules/initiative-xphb.md).\
-      \ The original jelly's [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ and acts on its [[initiative-xphb]].\
+      \ The original jelly's [[hit-points-xphb]]\
       \ are divided evenly between the new jellies (round down)."
     "name": "Split"
 "source":

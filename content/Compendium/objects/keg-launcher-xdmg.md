@@ -31,6 +31,6 @@ title: Keg Launcher
 
 ## Actions
 
-***Toxic Keg (Requires Load and Aim).*** *Constitution Saving Throw:* DC 15, each creature in a 20-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point 30 to 300 feet from the launcher. *Failure:* 14 (`4d6`) Poison damage. *Success:* Half damage.
+***Toxic Keg (Requires Load and Aim).*** *Constitution Saving Throw:* DC 15, each creature in a 20-foot-radius [[sphere-area-of-effect-xphb]] centered on a point 30 to 300 feet from the launcher. *Failure:* 14 (`4d6`) Poison damage. *Success:* Half damage.
 ```
 ^statblock

@@ -1,102 +1,102 @@
 Bastions:
-* [[Necropoikos|Red Wizard Necropolis]] -> [[Necropoikos]]
+*  [[Necropoikos]] -> [[Necropoikos]]
 
 Backgrounds:
-* [[Akroan Deserter|Chondathan Freebooter]] -> [[Akroan Deserter]]
-* [[Ashlands Dweller|Dead Magic Dweller]] -> [[Ashlands Dweller]]
-* [[Akroan Lukros|Flaming Fist Mercenary]] -> [[Akroan Lukros]]
-* [[Oreskos Swiftclaw|Mulhorandi Tomb Raider]] -> [[Oreskos Swiftclaw]]
-* [[Setessan Peregrine|Rashemi Wanderer]] -> [[Setessan Peregrine]]
+*  [[Akroan Deserter]] -> [[Akroan Deserter]]
+*  [[Ashlands Dweller]] -> [[Ashlands Dweller]]
+*  [[Akroan Lukros]] -> [[Akroan Lukros]]
+*  [[Oreskos Swiftclaw]] -> [[Oreskos Swiftclaw]]
+*  [[Setessan Peregrine]] -> [[Setessan Peregrine]]
 
 Feats:
-* [[Order's Resilience|Order's Resilience]] -> fine
-* [[Street Justice|Street Justice]] -> fine
+*  [[Order's Resilience]] -> fine
+*  [[Street Justice]] -> fine
 
 Subclasses:
-* [[cleric-xphb-knowledge-domain-frhof|Knowledge Domain]] -> changed list of gods
-* [[Phalanx Captain|Banneret]] -> [[Phalanx Captain]]
-* [[Agent of Death|Scion of the Three]] -> [[Agent of Death]]
-* [[Bladesinger|Bladesinger]] -> Elven to Meletian
-* [[Path of the Nykthos|Path of the World Tree]] -> [[Path of the Nykthos]]
-* [[College of Glamour|College of Glamour]] Feywild -> Sylvan
-* [[Warrior of Shadow|Warrior of Shadow]] Shadowfell -> Underworld
-* [[Fey Wanderer|Fey Wanderer]]
-* [[Gloom Stalker|Gloom Stalker]] Shadowfell -> Underworld
-* [[Aberrant Sorcery|Aberrant Sorcery]] -> removed out of world references
-* [[Anvilwrought Sorcery|Clockwork Sorcery]] -> [[Anvilwrought Sorcery]] (Hieromancy instead??)
-* [[Wild Magic Sorcery|Wild Magic Sorcery]]
-* [[Archfey Patron|Archfey Patron]] Fey -> Sylvan
-* [[Fiend Patron|Fiend Patron]] -> Underworld
-* [[Celestial Patron|Celestial Patron]]
-* [[Great Old One Patron|Great Old One Patron]] -> Titans
-* [[Circle of the Stars|Circle of the Stars]] -> Nyx
+*  [[cleric-xphb-knowledge-domain-frhof]] -> changed list of gods
+*  [[Phalanx Captain]] -> [[Phalanx Captain]]
+*  [[Agent of Death]] -> [[Agent of Death]]
+*  [[Bladesinger]] -> Elven to Meletian
+*  [[Path of the Nykthos]] -> [[Path of the Nykthos]]
+*  [[College of Glamour]] Feywild -> Sylvan
+*  [[Warrior of Shadow]] Shadowfell -> Underworld
+*  [[Fey Wanderer]]
+*  [[Gloom Stalker]] Shadowfell -> Underworld
+*  [[Aberrant Sorcery]] -> removed out of world references
+*  [[Anvilwrought Sorcery]] -> [[Anvilwrought Sorcery]] (Hieromancy instead??)
+*  [[Wild Magic Sorcery]]
+*  [[Archfey Patron]] Fey -> Sylvan
+*  [[Fiend Patron]] -> Underworld
+*  [[Celestial Patron]]
+*  [[Great Old One Patron]] -> Titans
+*  [[Circle of the Stars]] -> Nyx
 
 #### By topic:
 
 Spellfire:
-* [[Spellfire Sorcery|Spellfire Sorcery]]
-* [[Spellfire Adept|Spellfire Adept]]
-* [[Spellfire Initiate|Spellfire Initiate]]
+*  [[Spellfire Sorcery]]
+*  [[Spellfire Adept]]
+*  [[Spellfire Initiate]]
 
 Zhentarim:
-* [[Ruffian|Zhentarim Ruffian]]
-* [[Dirty Tactics|Zhentarim Tactics]]
-* [[zhentarim-mercenary-frhof|Zhentarim Mercenary]]
-* [[zhentarim-travel-station-frhof|Zhentarim Travel Station]] -> Phenax
-* [[shadowmasters-exile-frhof|Shadowmasters Exile]]
+*  [[Ruffian]]
+*  [[Dirty Tactics]]
+*  [[zhentarim-mercenary-frhof]]
+*  [[zhentarim-travel-station-frhof]] -> Phenax
+*  [[shadowmasters-exile-frhof]]
 
 Purple/amethyst dragon:
-* [[Commandant|Purple Dragon Commandant]]
-* [[Vanguard|Purple Dragon Rook]]
-* [[purple-dragon-squire-frhof|Purple Dragon Squire]] -> idk
-* [[amethyst-dragon-den-frhof|Amethyst Dragon Den]] -> Triton?
+*  [[Commandant]]
+*  [[Vanguard]]
+*  [[purple-dragon-squire-frhof]] -> idk
+*  [[amethyst-dragon-den-frhof]] -> Triton?
 
 Dragon/ Cult of the Dragon:
-* [[cult-of-the-dragon-initiate-frhof|Cult of the Dragon Initiate]]
-* [[dragonscarred-frhof|Dragonscarred]]
-* [[dragon-cultist-frhof|Dragon Cultist]] -> idk
-* [[cult-of-the-dragon-archive-frhof|Cult of the Dragon Archive]] -> idk
+*  [[cult-of-the-dragon-initiate-frhof]]
+*  [[dragonscarred-frhof]]
+*  [[dragon-cultist-frhof]] -> idk
+*  [[cult-of-the-dragon-archive-frhof]] -> idk
 
 Emerald Enclave:
-* [[Druid Fledgling|Emerald Enclave Fledgling]]
-* [[Circle Magic|Enclave Magic]]
-* [[Grove|Emerald Enclave Grove]] -> idk
-* [[Grove|Emerald Enclave Grove]] -> Nissa/Setessa/etc
+*  [[Druid Fledgling]]
+*  [[Circle Magic]]
+*  [[Grove]] -> idk
+*  [[Grove]] -> Nissa/Setessa/etc
 
 Harper:
-* [[harper-agent-frhof|Harper Agent]]
-* [[Teamwork|Harper Teamwork]]
-* [[harper-frhof|Harper]] -> idk
-* [[harper-hideout-frhof|Harper Hideout]] -> idk
+*  [[harper-agent-frhof]]
+*  [[Teamwork]]
+*  [[harper-frhof]] -> idk
+*  [[harper-hideout-frhof]] -> idk
 
 Genies:
-* [[Oath of the Elements|Oath of the Noble Genies]] -> [[Oath of the Elements]]
-* [[genie-magic-frhof|Genie Magic]]
-* [[genie-touched-frhof|Genie Touched]] -> idk
+*  [[Oath of the Elements]] -> [[Oath of the Elements]]
+*  [[genie-magic-frhof]]
+*  [[genie-touched-frhof]] -> idk
 
 Lords Alliance:
-* [[lords-alliance-noble-residence-frhof|Lords' Alliance Noble Residence]] -> idk
-* [[Phalanx Captain's Resolve|Lordly Resolve]]
-* [[Inspiring Warrior|Lords' Alliance Agent]]
-* [[lords-alliance-vassal-frhof|Lords' Alliance Vassal]] -> idk
+*  [[lords-alliance-noble-residence-frhof]] -> idk
+*  [[Phalanx Captain's Resolve]]
+*  [[Inspiring Warrior]]
+*  [[lords-alliance-vassal-frhof]] -> idk
 
 Mythal:
-* [[Hieromancer Initiate|Mythal Touched]]
-* [[mythalkeeper-frhof|Mythalkeeper]] -> idk
+*  [[Hieromancer Initiate]]
+*  [[mythalkeeper-frhof]] -> idk
 
 Gauntlet:
-* [[Stand Firm|Tyro of the Gauntlet]]
-* [[knight-of-the-gauntlet-frhof|Knight of the Gauntlet]] -> idk
-* [[order-of-the-gauntlet-tournament-field-frhof|Order of the Gauntlet Tournament Field]] -> idk
+*  [[Stand Firm]]
+*  [[knight-of-the-gauntlet-frhof]] -> idk
+*  [[order-of-the-gauntlet-tournament-field-frhof]] -> idk
 
 Winter:
-* [[Winter Walker|Winter Walker]]
-* [[ice-fisher-frhof|Ice Fisher]] -> idk
+*  [[Winter Walker]]
+*  [[ice-fisher-frhof]] -> idk
 
 Fey/Moonshae:
-* [[College of the Moon|College of the Moon]]
-* [[Fey Trickster|Fairy Trickster]]
-* [[moonwell-pilgrim-frhof|Moonwell Pilgrim]] -> idk
+*  [[College of the Moon]]
+*  [[Fey Trickster]]
+*  [[moonwell-pilgrim-frhof]] -> idk
 
 
 

@@ -21,7 +21,7 @@ Spy masters have extensive experience in gathering secrets while leaving no evid
 *Infiltrators and Informants*
 
 - **Habitat.** Any  
-- **Treasure.** [Implements](Compendium/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [[random-magic-items-implements]], Individual  
 
 Spies gather information and disseminate lies, manipulating people to gain the results the spies' patrons desire. They're trained to manipulate, infiltrate, and—when necessary—escape in a hurry. Many adopt disguises, aliases, or code names to maintain anonymity. Roll on or choose a result from the Spy Personas table to inspire a spy's disguise.
 
@@ -84,7 +84,7 @@ Spies gather information and disseminate lies, manipulating people to gain the r
       \ damage plus 9 (2d8) Poison damage."
     "name": "Hand Crossbow"
   - "desc": "The spy throws a bomb to a point it can see within 30 feet of itself.\
-      \ *Constitution Saving Throw:* DC 16, each creature in a 20-foot-radius [Sphere](Compendium/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ *Constitution Saving Throw:* DC 16, each creature in a 20-foot-radius [[sphere-area-of-effect-xphb]]\
       \ centered on that point. *Failure:* 28 (8d6) Poison damage, and the target\
       \ has the [Blinded](Compendium/rules/conditions.md#Blinded) condition until\
       \ the end of the spy's next turn. *Success:* Half damage only."

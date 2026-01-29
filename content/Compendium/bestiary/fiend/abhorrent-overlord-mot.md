@@ -52,8 +52,8 @@ Abhorrent overlords are gaunt, bipedal creatures whose gray, leathery skin is in
 "traits":
   - "desc": "The abhorrent overlord's spellcasting ability is Charisma (spell save\
       \ DC 15). It can innately cast the following spells, requiring no material components:\n\
-      \n**1/day each:** [confusion](Compendium/spells/confusion-xphb.md), [crown of\
-      \ madness](Compendium/spells/crown-of-madness-xphb.md), [suggestion](Compendium/spells/suggestion-xphb.md)"
+      \n**1/day each:** [[confusion-xphb]], [crown of\
+      \ madness](Compendium/spells/crown-of-madness-xphb.md), [[suggestion-xphb]]"
     "name": "Innate Spellcasting"
   - "desc": "The abhorrent overlord can sense the presence of gold within 1,000 feet\
       \ of itself. It can determine which location has the greatest amount of gold\

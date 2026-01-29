@@ -61,7 +61,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 "languages": "Elvish, Sylvan"
 "cr": "1"
 "traits":
-  - "desc": "The dryad has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The dryad has [[advantage-xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The dryad can communicate with Beasts and Plants as if they shared a\
@@ -69,7 +69,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
     "name": "Speak with Beasts and Plants"
 "actions":
   - "desc": "The dryad makes one Vine Lash or Thorn Burst attack, and it can use Spellcasting\
-      \ to cast [Charm Monster](Compendium/spells/charm-monster-xphb.md)."
+      \ to cast [[charm-monster-xphb]]."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 8 (1d8 + 4) Slashing\
       \ damage."
@@ -79,10 +79,10 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
     "name": "Thorn Burst"
   - "desc": "The dryad casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 14):\n\n**At\
-      \ will:** [Animal Friendship](Compendium/spells/animal-friendship-xphb.md),\
-      \ [Charm Monster](Compendium/spells/charm-monster-xphb.md) (lasts 24 hours;\
-      \ ends early if the dryad casts the spell again), [Druidcraft](Compendium/spells/druidcraft-xphb.md)\n\
-      \n**1/day each:** [Entangle](Compendium/spells/entangle-xphb.md), [Pass without\
+      \ will:** [[animal-friendship-xphb]],\
+      \ [[charm-monster-xphb]] (lasts 24 hours;\
+      \ ends early if the dryad casts the spell again), [[druidcraft-xphb]]\n\
+      \n**1/day each:** [[entangle-xphb]], [Pass without\
       \ Trace](Compendium/spells/pass-without-trace-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":

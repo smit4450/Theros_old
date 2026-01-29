@@ -72,10 +72,10 @@ While many hydras claim their own territories, wicked deities might use them to 
       \ dead. At the end of each of its turns when it has at least one living head,\
       \ the hydra grows two heads for each of its heads that died since its last turn,\
       \ unless it has taken Fire damage since its last turn. The hydra regains 20\
-      \ [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) when it grows\
+      \ [[hit-points-xphb]] when it grows\
       \ new heads."
     "name": "Multiple Heads"
-  - "desc": "For each head the hydra has beyond one, it gets an extra [Reaction](Compendium/rules/variant-rules/reaction-xphb.md)\
+  - "desc": "For each head the hydra has beyond one, it gets an extra [[reaction-xphb]]\
       \ that can be used only for [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack)."
     "name": "Reactive Heads"
 "actions":

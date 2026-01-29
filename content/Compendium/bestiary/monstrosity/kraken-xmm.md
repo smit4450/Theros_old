@@ -117,7 +117,7 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
       \ 23 (3d8 + 10) Piercing damage. If the target is Large or smaller, it is\
       \ swallowed and no longer [Grappled](Compendium/rules/conditions.md#Grappled).\
       \ A swallowed creature has the [Restrained](Compendium/rules/conditions.md#Restrained)\
-      \ condition, has [Total Cover](Compendium/rules/variant-rules/cover-xphb.md)\
+      \ condition, has [[cover-xphb]]\
       \ against attacks and other effects outside the kraken, and takes 24 (7d6)\
       \ Acid damage at the start of each of its turns.\n\nIf the kraken takes 50 damage\
       \ or more on a single turn from a creature inside it, the kraken must succeed\
@@ -144,11 +144,11 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
 "legendary_actions":
   - "desc": "The kraken uses Lightning Strike."
     "name": "Storm Bolt"
-  - "desc": "*Constitution Saving Throw:* DC 23, each creature in a 15-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "*Constitution Saving Throw:* DC 23, each creature in a 15-foot [[emanation-area-of-effect-xphb]]\
       \ originating from the kraken while it is underwater. *Failure:* The target\
       \ has the [Blinded](Compendium/rules/conditions.md#Blinded) and [Poisoned](Compendium/rules/conditions.md#Poisoned)\
       \ conditions until the end of the kraken's next turn. The kraken then moves\
-      \ up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md). *Failure\
+      \ up to its [[speed-xphb]]. *Failure\
       \ or Success:* The kraken can't take this action again until the start of its\
       \ next turn."
     "name": "Toxic Ink"

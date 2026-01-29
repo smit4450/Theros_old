@@ -19,7 +19,7 @@ aliases: ["Helmed Horror"]
 *Armor with a Warrior's Purpose*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](Compendium/tables/random-magic-items-armaments.md)  
+- **Treasure.** [[random-magic-items-armaments]]  
 
 Helmed horrors are suits of armor animated by magic. Rather than being unreasoning automatons, these armored shells possess the guile of soldiers and resilience against destructive magic. While their name suggests sinister intentions, these creatures serve their creators loyally. Helmed horrors are also sometimes called doom guards or spirit armors. Most show no evidence of a personality, but exceptions exist.
 
@@ -67,12 +67,12 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
 "languages": "understands Common plus one other language but can't speak"
 "cr": "4"
 "traits":
-  - "desc": "The helmed horror has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The helmed horror has [[advantage-xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The helmed horror is immune to three spells chosen by its creator. Typical\
-      \ choices include [Heat Metal](Compendium/spells/heat-metal-xphb.md), [Lightning\
-      \ Bolt](Compendium/spells/lightning-bolt-xphb.md), and [Magic Missile](Compendium/spells/magic-missile-xphb.md)."
+      \ choices include [[heat-metal-xphb]], [Lightning\
+      \ Bolt](Compendium/spells/lightning-bolt-xphb.md), and [[magic-missile-xphb]]."
     "name": "Spell Immunity"
 "actions":
   - "desc": "The helmed horror makes two Arcane Sword attacks."

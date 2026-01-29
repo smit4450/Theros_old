@@ -28,14 +28,14 @@ Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be 
 If the armor normally imposes disadvantage on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks or has a Strength requirement, the mithral version of the armor doesn't.
 
 **Variants**:
-- [[#Mithral Breastplate|Mithral Breastplate]]
-- [[#Mithral Chain Mail|Mithral Chain Mail]]
-- [[#Mithral Chain Shirt|Mithral Chain Shirt]]
-- [[#Mithral Half Plate Armor|Mithral Half Plate Armor]]
-- [[#Mithral Plate Armor|Mithral Plate Armor]]
-- [[#Mithral Ring Mail|Mithral Ring Mail]]
-- [[#Mithral Scale Mail|Mithral Scale Mail]]
-- [[#Mithral Splint Armor|Mithral Splint Armor]]
+-  [[#Mithral Breastplate]]
+-  [[#Mithral Chain Mail]]
+-  [[#Mithral Chain Shirt]]
+-  [[#Mithral Half Plate Armor]]
+-  [[#Mithral Plate Armor]]
+-  [[#Mithral Ring Mail]]
+-  [[#Mithral Scale Mail]]
+-  [[#Mithral Splint Armor]]
 
 ### Mithral Breastplate
 

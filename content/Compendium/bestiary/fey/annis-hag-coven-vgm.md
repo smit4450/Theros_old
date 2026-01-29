@@ -47,23 +47,23 @@ aliases: ["Annis Hag (Coven)"]
 "traits":
   - "desc": "While all three members of a hag coven are within 30 feet of one another,\
       \ they can each cast the following spells from the wizard's spell list but must\
-      \ share the spell slots among themselves:\n\n**1st level (4 slots):** [identify](Compendium/spells/identify-xphb.md),\
-      \ [ray of sickness](Compendium/spells/ray-of-sickness-xphb.md)\n\n**2nd level\
-      \ (3 slots):** [hold person](Compendium/spells/hold-person-xphb.md), [locate\
+      \ share the spell slots among themselves:\n\n**1st level (4 slots):** [[identify-xphb]],\
+      \ [[ray-of-sickness-xphb]]\n\n**2nd level\
+      \ (3 slots):** [[hold-person-xphb]], [locate\
       \ object](Compendium/spells/locate-object-xphb.md)\n\n**3rd level (3 slots):**\
-      \ [bestow curse](Compendium/spells/bestow-curse-xphb.md), [counterspell](Compendium/spells/counterspell-xphb.md),\
-      \ [lightning bolt](Compendium/spells/lightning-bolt-xphb.md)\n\n**4th level\
-      \ (3 slots):** [phantasmal killer](Compendium/spells/phantasmal-killer-xphb.md),\
-      \ [polymorph](Compendium/spells/polymorph-xphb.md)\n\n**5th level (2 slots):**\
-      \ [contact other plane](Compendium/spells/contact-other-plane-xphb.md), [scrying](Compendium/spells/scrying-xphb.md)\n\
-      \n**6th level (1 slots):** [eyebite](Compendium/spells/eyebite-xphb.md)\n\n\
+      \ [[bestow-curse-xphb]], [[counterspell-xphb]],\
+      \ [[lightning-bolt-xphb]]\n\n**4th level\
+      \ (3 slots):** [[phantasmal-killer-xphb]],\
+      \ [[polymorph-xphb]]\n\n**5th level (2 slots):**\
+      \ [[contact-other-plane-xphb]], [[scrying-xphb]]\n\
+      \n**6th level (1 slots):** [[eyebite-xphb]]\n\n\
       For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence\
       \ as her spellcasting ability. The spell save DC 13, and the spell attack bonus\
       \ is +5."
     "name": "Shared Spellcasting (Coven Only)"
   - "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 13).\
-      \ She can innately cast the following spells:\n\n**3/day each:** [disguise self](Compendium/spells/disguise-self-xphb.md)\
-      \ (including the form of a Medium humanoid), [fog cloud](Compendium/spells/fog-cloud-xphb.md)"
+      \ She can innately cast the following spells:\n\n**3/day each:** [[disguise-self-xphb]]\
+      \ (including the form of a Medium humanoid), [[fog-cloud-xphb]]"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "The annis makes three attacks: one with her bite and two with her claws."

@@ -21,7 +21,7 @@ Pirate captains command crews of pirates, dictating their destinations and targe
 *Freebooters and Fortune Hunters*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Implements](Compendium/tables/random-magic-items-implements.md)  
+- **Treasure.** Individual, [[random-magic-items-implements]]  
 
 The term "pirate" encompasses a broad range of seafarers, including vicious sea rovers, dogged privateers, cursed treasure hunters, and others who seek riches and fame on the seas.
 
@@ -80,7 +80,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
   - "desc": "The pirate makes three attacks, using Rapier or Pistol in any combination."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 13 (2d8 + 4) Piercing\
-      \ damage, and the pirate has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+      \ damage, and the pirate has [[advantage-xphb]]\
       \ on the next attack roll it makes before the end of this turn."
     "name": "Rapier"
   - "desc": "*Ranged Attack Roll:* +7, range 30/90 ft. *Hit:* 15 (2d10 + 4) Piercing\

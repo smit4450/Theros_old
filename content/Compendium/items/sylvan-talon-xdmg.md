@@ -27,15 +27,15 @@ While this weapon is on your person, you understand the non-written communicatio
 
 ## Secret Message
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can use the weapon to cast [Message](Compendium/spells/message-xphb.md). Once this property is used, it can't be used again until the next dawn.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can use the weapon to cast [[message-xphb]]. Once this property is used, it can't be used again until the next dawn.
 
 **Variants**:
-- [[#Sylvan Talon Dagger|Sylvan Talon Dagger]]
-- [[#Sylvan Talon Rapier|Sylvan Talon Rapier]]
-- [[#Sylvan Talon Scimitar|Sylvan Talon Scimitar]]
-- [[#Sylvan Talon Shortsword|Sylvan Talon Shortsword]]
-- [[#Sylvan Talon Sickle|Sylvan Talon Sickle]]
-- [[#Sylvan Talon Spear|Sylvan Talon Spear]]
+-  [[#Sylvan Talon Dagger]]
+-  [[#Sylvan Talon Rapier]]
+-  [[#Sylvan Talon Scimitar]]
+-  [[#Sylvan Talon Shortsword]]
+-  [[#Sylvan Talon Sickle]]
+-  [[#Sylvan Talon Spear]]
 
 ### Sylvan Talon Dagger
 

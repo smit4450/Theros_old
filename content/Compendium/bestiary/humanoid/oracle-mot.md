@@ -48,11 +48,11 @@ Oracles posses the ability to interpret the patterns and language of Nyx, divini
 "traits":
   - "desc": "The oracle's spellcasting ability is Wisdom (spell save DC 13, +5 to\
       \ hit with spell attacks). It can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** [guidance](Compendium/spells/guidance-xphb.md),\
-      \ [light](Compendium/spells/light-xphb.md), [thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\
-      \n**3/day each:** [bless](Compendium/spells/bless-xphb.md), [guiding bolt](Compendium/spells/guiding-bolt-xphb.md),\
-      \ [healing word](Compendium/spells/healing-word-xphb.md), [hold person](Compendium/spells/hold-person-xphb.md)\n\
-      \n**1/day each:** [augury](Compendium/spells/augury-xphb.md), [scrying](Compendium/spells/scrying-xphb.md)"
+      \ no material components:\n\n**At will:** [[guidance-xphb]],\
+      \ [[light-xphb]], [[thaumaturgy-xphb]]\n\
+      \n**3/day each:** [[bless-xphb]], [[guiding-bolt-xphb]],\
+      \ [[healing-word-xphb]], [[hold-person-xphb]]\n\
+      \n**1/day each:** [[augury-xphb]], [[scrying-xphb]]"
     "name": "Innate Spellcasting"
   - "desc": "While the oracle is wearing no armor and wielding no shield, its AC includes\
       \ its Wisdom modifier. In addition, a creature that hits the oracle with a melee\

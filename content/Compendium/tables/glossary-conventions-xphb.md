@@ -20,13 +20,13 @@ aliases:
 | CN | Chaotic Neutral |
 | Con. | Constitution |
 | CP | Copper Piece(s) |
-| CR | [Challenge Rating](Compendium/rules/variant-rules/challenge-rating-xphb.md) |
-| DC | [Difficulty Class](Compendium/rules/variant-rules/difficulty-class-xphb.md) |
+| CR | [[challenge-rating-xphb]] |
+| DC | [[difficulty-class-xphb]] |
 | Dex. | Dexterity |
 | DM | Dungeon Master |
 | EP | Electrum Piece(s) |
 | GP | Gold Piece(s) |
-| HP | [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)(s) |
+| HP | [[hit-points-xphb]](s) |
 | Int. | Intelligence |
 | LE | Lawful Evil |
 | LG | Lawful Good |
@@ -36,12 +36,12 @@ aliases:
 | NE | Neutral Evil |
 | NG | Neutral Good |
 | NPC | Nonplayer character |
-| PB | [Proficiency Bonus](Compendium/rules/variant-rules/proficiency-xphb.md) |
+| PB | [[proficiency-xphb]] |
 | PP | Platinum Piece(s) |
-| R | [Ritual](Compendium/rules/variant-rules/ritual-xphb.md) |
+| R | [[ritual-xphb]] |
 | S | Somatic component |
 | SP | Silver Piece(s) |
 | Str. | Strength |
 | V | Verbal component |
 | Wis. | Wisdom |
-| XP | [Experience Point](Compendium/rules/variant-rules/experience-points-xphb.md)(s) |
+| XP | [[experience-points-xphb]](s) |

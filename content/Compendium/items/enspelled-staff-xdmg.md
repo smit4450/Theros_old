@@ -22,14 +22,14 @@ aliases:
 
 **Items in this group:**
 
-- [Enspelled Staff (Cantrip)](Compendium/items/enspelled-staff-cantrip-xdmg.md)
-- [Enspelled Staff (Level 1)](Compendium/items/enspelled-staff-level-1-xdmg.md)
-- [Enspelled Staff (Level 2)](Compendium/items/enspelled-staff-level-2-xdmg.md)
-- [Enspelled Staff (Level 3)](Compendium/items/enspelled-staff-level-3-xdmg.md)
-- [Enspelled Staff (Level 4)](Compendium/items/enspelled-staff-level-4-xdmg.md)
-- [Enspelled Staff (Level 5)](Compendium/items/enspelled-staff-level-5-xdmg.md)
-- [Enspelled Staff (Level 6)](Compendium/items/enspelled-staff-level-6-xdmg.md)
-- [Enspelled Staff (Level 7)](Compendium/items/enspelled-staff-level-7-xdmg.md)
-- [Enspelled Staff (Level 8)](Compendium/items/enspelled-staff-level-8-xdmg.md)
+- [[enspelled-staff-cantrip-xdmg]]
+- [[enspelled-staff-level-1-xdmg]]
+- [[enspelled-staff-level-2-xdmg]]
+- [[enspelled-staff-level-3-xdmg]]
+- [[enspelled-staff-level-4-xdmg]]
+- [[enspelled-staff-level-5-xdmg]]
+- [[enspelled-staff-level-6-xdmg]]
+- [[enspelled-staff-level-7-xdmg]]
+- [[enspelled-staff-level-8-xdmg]]
 
 *Source: Dungeon Master's Guide (2024) p. 258*

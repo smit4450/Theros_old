@@ -21,7 +21,7 @@ Empyrean iotas are the thoughts, memories, or indirect attentions of deities per
 *Scions of the Gods*
 
 - **Habitat.** Any  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics]]  
 
 Empyreans are the spawn of deities. While not gods themselves, they possess divine influence and powers related to their divine parents. Some empyreans are near-demigods with fantastic might and the power to reshape mortal lives. Others are little more than divine thoughts or moments of immortal attention made manifest. Whether empyreans are idealized beings or vestiges of divinity, their appearances are influenced by their creators. Roll on or choose a result from the Empyrean Influences table to inspire what aspects of an empyrean's heritage manifest in its physical form.
 
@@ -75,10 +75,10 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 "cr": "1"
 "traits":
   - "desc": "The empyrean can move through other creatures and objects as if they\
-      \ were [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md).\
+      \ were [[difficult-terrain-xphb]].\
       \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
-  - "desc": "The empyrean has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The empyrean has [[advantage-xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -87,11 +87,11 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
     "name": "Otherworldly Strike"
   - "desc": "The empyrean casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability:\n\n**1/day each:**\
-      \ [Bless](Compendium/spells/bless-xphb.md), [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md)\
+      \ [[bless-xphb]], [[lesser-restoration-xphb]]\
       \ (as an action)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The empyrean casts [Healing Word](Compendium/spells/healing-word-xphb.md),\
+  - "desc": "The empyrean casts [[healing-word-xphb]],\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Healing Word (1/Day)"
 "source":

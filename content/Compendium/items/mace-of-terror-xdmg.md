@@ -11,7 +11,7 @@ aliases:
 - "Mace of Terror"
 ---
 # Mace of Terror
-*Weapon ([mace](Compendium/items/mace-xphb.md)), rare (requires attunement)*  
+*Weapon ([[mace-xphb]]), rare (requires attunement)*  
 ![](Compendium/items/img/mace-of-terror.webp#right)
 
 - **Damage**: 1d6 bludgeoning

@@ -19,7 +19,7 @@ aliases: ["Cloud Giant"]
 *Giant of the Loftiest Heights*
 
 - **Habitat.** Mountain  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md)  
+- **Treasure.** [[random-magic-items-arcana]]  
 
 Cloud giants use the power of the skies to observe and subtly influence the world. These giants resemble humans with hair ranging from silver to blue and with skin in cloudlike shades from stark white to twilight hues. Curved canines grow in their upper jaws, extending past their lower lips. In battle, they attack with weapons wreathed in storm clouds and throw roaring thunderheads.
 
@@ -55,7 +55,7 @@ Most cloud giants inhabit citadels crowning tremendous mountains or magical pala
 "actions":
   - "desc": "The giant makes two attacks, using Thunderous Mace or Thundercloud in\
       \ any combination. It can replace one attack with a use of Spellcasting to cast\
-      \ [Fog Cloud](Compendium/spells/fog-cloud-xphb.md)."
+      \ [[fog-cloud-xphb]]."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +12, reach 10 ft. *Hit:* 21 (3d8 + 8) Bludgeoning\
       \ damage plus 7 (2d6) Thunder damage."
@@ -66,12 +66,12 @@ Most cloud giants inhabit citadels crowning tremendous mountains or magical pala
     "name": "Thundercloud"
   - "desc": "The giant casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 15):\n\n**At\
-      \ will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md), [Fog Cloud](Compendium/spells/fog-cloud-xphb.md),\
-      \ [Light](Compendium/spells/light-xphb.md)\n\n**1/day each:** [Control Weather](Compendium/spells/control-weather-xphb.md),\
-      \ [Gaseous Form](Compendium/spells/gaseous-form-xphb.md), [Telekinesis](Compendium/spells/telekinesis-xphb.md)"
+      \ will:** [[detect-magic-xphb]], [[fog-cloud-xphb]],\
+      \ [[light-xphb]]\n\n**1/day each:** [[control-weather-xphb]],\
+      \ [[gaseous-form-xphb]], [[telekinesis-xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The giant casts the [Misty Step](Compendium/spells/misty-step-xphb.md)\
+  - "desc": "The giant casts the [[misty-step-xphb]]\
       \ spell, using the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step"
 "source":

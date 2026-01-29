@@ -14,15 +14,15 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1 | [Death dog](Compendium/bestiary/monstrosity/death-dog-xmm.md) |
-| 2 | [Berserker](Compendium/bestiary/humanoid/berserker-xmm.md) |
-| 3 | [Fleecemane lion](Compendium/bestiary/monstrosity/fleecemane-lion-mot.md) |
-| 3 | [Manticore](Compendium/bestiary/monstrosity/manticore-xmm.md) |
-| 3 | [Minotaur](Compendium/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) |
-| 5 | [Catoblepas](Compendium/bestiary/monstrosity/catoblepas-vgm.md)* |
-| 6 | [Cyclops](Compendium/bestiary/giant/cyclops-sentry-xmm.md)* |
-| 7 | [Theran chimera](Compendium/bestiary/monstrosity/theran-chimera-mot.md) |
-| 8 | [Blackguard](Compendium/bestiary/humanoid/blackguard-vgm.md) |
+| 1 | [[death-dog-xmm]] |
+| 2 | [[berserker-xmm]] |
+| 3 | [[fleecemane-lion-mot]] |
+| 3 | [[manticore-xmm]] |
+| 3 | [[minotaur-of-baphomet-xmm]] |
+| 5 | [[catoblepas-vgm]]* |
+| 6 | [[cyclops-sentry-xmm]]* |
+| 7 | [[theran-chimera-mot]] |
+| 8 | [[blackguard-vgm]] |
 ^mogiss-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

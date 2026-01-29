@@ -14,34 +14,34 @@ aliases:
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–03 | [Amulet of Health](Compendium/items/amulet-of-health-xdmg.md) |
-| 04–07 | [Armor, +1](Compendium/items/1-armor-xdmg.md) |
-| 08–09 | [Bowl of Commanding Water Elementals](Compendium/items/bowl-of-commanding-water-elementals-xdmg.md) |
-| 10–11 | [Brazier of Commanding Fire Elementals](Compendium/items/brazier-of-commanding-fire-elementals-xdmg.md) |
-| 12–13 | [Censer of Controlling Air Elementals](Compendium/items/censer-of-controlling-air-elementals-xdmg.md) |
-| 14–16 | [Elixir of Health](Compendium/items/elixir-of-health-xdmg.md) |
-| 17–19 | [Enspelled Staff](Compendium/items/enspelled-staff-xdmg.md) (level 2 or 3 spell) |
-| 20–22 | [Horn of Blasting](Compendium/items/horn-of-blasting-xdmg.md) |
-| 23–25 | [Horn of Valhalla](Compendium/items/horn-of-valhalla-xdmg.md) ([brass](Compendium/items/horn-of-valhalla-brass-xdmg.md) or [silver](Compendium/items/horn-of-valhalla-silver-xdmg.md)) |
-| 26–28 | [Ioun Stone](Compendium/items/ioun-stone-xdmg.md) ([reserve](Compendium/items/ioun-stone-reserve-xdmg.md) or [sustenance](Compendium/items/ioun-stone-sustenance-xdmg.md)) |
-| 29–31 | [Mace of Disruption](Compendium/items/mace-of-disruption-xdmg.md) |
-| 32–34 | [Mace of Smiting](Compendium/items/mace-of-smiting-xdmg.md) |
-| 35–37 | [Mace of Terror](Compendium/items/mace-of-terror-xdmg.md) |
-| 38–40 | [Necklace of Prayer Beads](Compendium/items/necklace-of-prayer-beads-xdmg.md) |
-| 41–43 | [Periapt of Proof against Poison](Compendium/items/periapt-of-proof-against-poison-xdmg.md) |
-| 44–51 | [Potion of Healing (superior)](Compendium/items/potion-of-superior-healing-xdmg.md) |
-| 52–54 | [Ring of Animal Influence](Compendium/items/ring-of-animal-influence-xdmg.md) |
-| 55–58 | [Ring of Resistance](Compendium/items/ring-of-resistance-xdmg.md) |
-| 59–61 | [Ring of Spell Storing](Compendium/items/ring-of-spell-storing-xdmg.md) |
-| 62–65 | [Scroll of Protection](Compendium/items/scroll-of-protection-xdmg.md) |
-| 66–73 | [Spell Scroll](Compendium/items/spell-scroll-xdmg.md) ([level 4](Compendium/items/spell-scroll-level-4-xdmg.md) or [level 5](Compendium/items/spell-scroll-level-5-xdmg.md) spell) |
-| 74–76 | [Staff of Charming](Compendium/items/staff-of-charming-xdmg.md) |
-| 77–79 | [Staff of Healing](Compendium/items/staff-of-healing-xdmg.md) |
-| 80–82 | [Staff of Swarming Insects](Compendium/items/staff-of-swarming-insects-xdmg.md) |
-| 83–85 | [Staff of the Woodlands](Compendium/items/staff-of-the-woodlands-xdmg.md) |
-| 86–88 | [Staff of Withering](Compendium/items/staff-of-withering-xdmg.md) |
-| 89–90 | [Stone of Controlling Earth Elementals](Compendium/items/stone-of-controlling-earth-elementals-xdmg.md) |
-| 91–93 | [Tentacle Rod](Compendium/items/tentacle-rod-xdmg.md) |
-| 94–96 | [Wand of Paralysis](Compendium/items/wand-of-paralysis-xdmg.md) |
-| 97–00 | [Wand of the War Mage, +2](Compendium/items/2-wand-of-the-war-mage-xdmg.md) |
+| 01–03 | [[amulet-of-health-xdmg]] |
+| 04–07 | [[1-armor-xdmg]] |
+| 08–09 | [[bowl-of-commanding-water-elementals-xdmg]] |
+| 10–11 | [[brazier-of-commanding-fire-elementals-xdmg]] |
+| 12–13 | [[censer-of-controlling-air-elementals-xdmg]] |
+| 14–16 | [[elixir-of-health-xdmg]] |
+| 17–19 | [[enspelled-staff-xdmg]] (level 2 or 3 spell) |
+| 20–22 | [[horn-of-blasting-xdmg]] |
+| 23–25 | [[horn-of-valhalla-xdmg]] ([[horn-of-valhalla-brass-xdmg]] or [[horn-of-valhalla-silver-xdmg]]) |
+| 26–28 | [[ioun-stone-xdmg]] ([[ioun-stone-reserve-xdmg]] or [[ioun-stone-sustenance-xdmg]]) |
+| 29–31 | [[mace-of-disruption-xdmg]] |
+| 32–34 | [[mace-of-smiting-xdmg]] |
+| 35–37 | [[mace-of-terror-xdmg]] |
+| 38–40 | [[necklace-of-prayer-beads-xdmg]] |
+| 41–43 | [[periapt-of-proof-against-poison-xdmg]] |
+| 44–51 | [[potion-of-superior-healing-xdmg]] |
+| 52–54 | [[ring-of-animal-influence-xdmg]] |
+| 55–58 | [[ring-of-resistance-xdmg]] |
+| 59–61 | [[ring-of-spell-storing-xdmg]] |
+| 62–65 | [[scroll-of-protection-xdmg]] |
+| 66–73 | [[spell-scroll-xdmg]] ([[spell-scroll-level-4-xdmg]] or [[spell-scroll-level-5-xdmg]] spell) |
+| 74–76 | [[staff-of-charming-xdmg]] |
+| 77–79 | [[staff-of-healing-xdmg]] |
+| 80–82 | [[staff-of-swarming-insects-xdmg]] |
+| 83–85 | [[staff-of-the-woodlands-xdmg]] |
+| 86–88 | [[staff-of-withering-xdmg]] |
+| 89–90 | [[stone-of-controlling-earth-elementals-xdmg]] |
+| 91–93 | [[tentacle-rod-xdmg]] |
+| 94–96 | [[wand-of-paralysis-xdmg]] |
+| 97–00 | [[2-wand-of-the-war-mage-xdmg]] |
 ^relics-rare

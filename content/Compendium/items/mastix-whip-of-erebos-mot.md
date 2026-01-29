@@ -11,7 +11,7 @@ aliases:
 - "Mastix, Whip of Erebos"
 ---
 # Mastix, Whip of Erebos
-*Weapon ([whip](Compendium/items/whip-xphb.md)), artifact (requires attunement)*  
+*Weapon ([[whip-xphb]]), artifact (requires attunement)*  
 ![](Compendium/items/img/mastix-whip-of-erebos.webp#right)
 
 - **Damage**: 1d4 slashing
@@ -40,7 +40,7 @@ See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on random
 
 ## Erebos's Claim
 
-While carrying the whip, you can use an action to cast either [circle of death](Compendium/spells/circle-of-death-xphb.md) or [dominate monster](Compendium/spells/dominate-monster-xphb.md) (targeting only undead) from the whip. The save DC for these spells is 18. Once you use the whip to cast a spell, that spell can't be cast from it again until the next dusk.
+While carrying the whip, you can use an action to cast either [[circle-of-death-xphb]] or [[dominate-monster-xphb]] (targeting only undead) from the whip. The save DC for these spells is 18. Once you use the whip to cast a spell, that spell can't be cast from it again until the next dusk.
 
 ## Destroying the Whip
 

@@ -34,18 +34,18 @@ Bound into this armor is a level 7 spell. The spell is determined when the armor
 The spell's saving throw DC is 18, and its attack bonus is `+10`.
 
 **Variants**:
-- [[#Enspelled (Level 7|Enspelled (Level 7) Breastplate]] Breastplate)
-- [[#Enspelled (Level 7|Enspelled (Level 7) Chain Mail]] Chain Mail)
-- [[#Enspelled (Level 7|Enspelled (Level 7) Chain Shirt]] Chain Shirt)
-- [[#Enspelled (Level 7|Enspelled (Level 7) Half Plate Armor]] Half Plate Armor)
-- [[#Enspelled (Level 7|Enspelled (Level 7) Hide Armor]] Hide Armor)
-- [[#Enspelled (Level 7|Enspelled (Level 7) Leather Armor]] Leather Armor)
-- [[#Enspelled (Level 7|Enspelled (Level 7) Padded Armor]] Padded Armor)
-- [[#Enspelled (Level 7|Enspelled (Level 7) Plate Armor]] Plate Armor)
-- [[#Enspelled (Level 7|Enspelled (Level 7) Ring Mail]] Ring Mail)
-- [[#Enspelled (Level 7|Enspelled (Level 7) Scale Mail]] Scale Mail)
-- [[#Enspelled (Level 7|Enspelled (Level 7) Splint Armor]] Splint Armor)
-- [[#Enspelled (Level 7|Enspelled (Level 7) Studded Leather Armor]] Studded Leather Armor)
+-  [[#Enspelled (Level 7]] Breastplate)
+-  [[#Enspelled (Level 7]] Chain Mail)
+-  [[#Enspelled (Level 7]] Chain Shirt)
+-  [[#Enspelled (Level 7]] Half Plate Armor)
+-  [[#Enspelled (Level 7]] Hide Armor)
+-  [[#Enspelled (Level 7]] Leather Armor)
+-  [[#Enspelled (Level 7]] Padded Armor)
+-  [[#Enspelled (Level 7]] Plate Armor)
+-  [[#Enspelled (Level 7]] Ring Mail)
+-  [[#Enspelled (Level 7]] Scale Mail)
+-  [[#Enspelled (Level 7]] Splint Armor)
+-  [[#Enspelled (Level 7]] Studded Leather Armor)
 
 ### Enspelled (Level 7) Breastplate
 

@@ -11,7 +11,7 @@ aliases:
 - "Akmon, Hammer of Purphoros"
 ---
 # Akmon, Hammer of Purphoros
-*Weapon ([warhammer](Compendium/items/warhammer-xphb.md)), artifact (requires attunement)*  
+*Weapon ([[warhammer-xphb]]), artifact (requires attunement)*  
 ![](Compendium/items/img/akmon-hammer-of-purphoros.webp#right)
 
 - **Damage**:
@@ -40,11 +40,11 @@ See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on random
 
 ## Reforged
 
-While holding the hammer, you have resistance to fire damage and are immune to [exhaustion](Compendium/rules/conditions.md#Exhaustion). Additionally, you have proficiency with [smith's tools](Compendium/items/smiths-tools-xphb.md) and have advantage on all ability checks made using them.
+While holding the hammer, you have resistance to fire damage and are immune to [exhaustion](Compendium/rules/conditions.md#Exhaustion). Additionally, you have proficiency with [[smiths-tools-xphb]] and have advantage on all ability checks made using them.
 
 ## Spells
 
-While the hammer is on your person, you can use an action to cast one of the following spells (save DC 18): [animate objects](Compendium/spells/animate-objects-xphb.md), [heat metal](Compendium/spells/heat-metal-xphb.md), [fabricate](Compendium/spells/fabricate-xphb.md), [magic weapon](Compendium/spells/magic-weapon-xphb.md), [mending](Compendium/spells/mending-xphb.md), [shatter](Compendium/spells/shatter-xphb.md). Once you use the hammer to cast a spell, the spell can't be cast again from it until the next dusk.
+While the hammer is on your person, you can use an action to cast one of the following spells (save DC 18): [[animate-objects-xphb]], [[heat-metal-xphb]], [[fabricate-xphb]], [[magic-weapon-xphb]], [[mending-xphb]], [[shatter-xphb]]. Once you use the hammer to cast a spell, the spell can't be cast again from it until the next dusk.
 
 ## Destroying the Hammer
 

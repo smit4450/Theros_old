@@ -24,7 +24,7 @@ Even though the age of archons is long past, many wonder if the few surviving ar
 "type": "celestial"
 "alignment": "Lawful Good"
 "ac": !!int "18"
-"ac_class": "[plate](Compendium/items/plate-armor-xphb.md)"
+"ac_class": "[[plate-armor-xphb]]"
 "hp": !!int "144"
 "hit_dice": "17d8 + 68"
 "modifier": !!int "2"
@@ -60,10 +60,10 @@ Even though the age of archons is long past, many wonder if the few surviving ar
 "traits":
   - "desc": "The archon's spellcasting ability is Wisdom (spell save DC 17, +9 to\
       \ hit with spell attacks). The archon can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [command](Compendium/spells/command-xphb.md),\
-      \ [guiding bolt](Compendium/spells/guiding-bolt-xphb.md), [spare the dying](Compendium/spells/spare-the-dying-xphb.md)\n\
-      \n**1/day each:** [crusader's mantle](Compendium/spells/crusaders-mantle-xphb.md),\
-      \ [spirit guardians](Compendium/spells/spirit-guardians-xphb.md)"
+      \ requiring no material components:\n\n**At will:** [[command-xphb]],\
+      \ [[guiding-bolt-xphb]], [[spare-the-dying-xphb]]\n\
+      \n**1/day each:** [[crusaders-mantle-xphb]],\
+      \ [[spirit-guardians-xphb]]"
     "name": "Innate Spellcasting"
   - "desc": "The archon has advantage on saving throws against spells and other magical\
       \ effects."
@@ -95,7 +95,7 @@ Even though the age of archons is long past, many wonder if the few surviving ar
   \ actions. The archon of falling stars regains all expended uses at the start of\
   \ each of its turns."
 "legendary_actions":
-  - "desc": "The archon makes a radiant spear attack or casts [guiding bolt](Compendium/spells/guiding-bolt-xphb.md)."
+  - "desc": "The archon makes a radiant spear attack or casts [[guiding-bolt-xphb]]."
     "name": "Attack"
   - "desc": "The archon makes a radiant spear attack, and then its mount can use its\
       \ reaction to make a melee weapon attack."

@@ -14,7 +14,7 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 
 ## Armor Class
 
-The Object [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) table suggests ACs for various substances.
+The Object [[armor-class-xphb]] table suggests ACs for various substances.
 
 **Object Armor Class**
 
@@ -31,7 +31,7 @@ The Object [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) tab
 
 ## Hit Points
 
-An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
+An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests [[hit-points-xphb]] for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's [[hit-points-xphb]] separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
 
 **Object Hit Points**
 
@@ -45,7 +45,7 @@ An object is destroyed when it has 0 Hit Points. The Object Hit Points table sug
 
 ## Damage Types and Objects
 
-Objects have [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to Poison and Psychic damage. The DM might decide that some [damage types](Compendium/rules/variant-rules/damage-types-xphb.md) are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have [Vulnerability](Compendium/rules/variant-rules/vulnerability-xphb.md) to Fire damage.
+Objects have [[immunity-xphb]] to Poison and Psychic damage. The DM might decide that some [[damage-types-xphb]] are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have [[vulnerability-xphb]] to Fire damage.
 
 ## Damage Threshold
 

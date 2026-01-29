@@ -14,16 +14,16 @@ aliases:
 
 | Challenge | Creature |
 |-----------|----------|
-| 1/2 | [Hippocamp](Compendium/bestiary/monstrosity/hippocamp-mot.md) |
-| 1 | Siren ([harpy](Compendium/bestiary/monstrosity/harpy-xmm.md))* |
-| 2 | [Naiad](Compendium/bestiary/fey/naiad-mot.md) |
-| 2 | [Triton shorestalker](Compendium/bestiary/humanoid/triton-shorestalker-mot.md) |
-| 5 | [Water elemental](Compendium/bestiary/elemental/water-elemental-xmm.md) |
-| 8 | [Triton master of waves](Compendium/bestiary/humanoid/triton-master-of-waves-mot.md) |
-| 13 | [Storm giant](Compendium/bestiary/giant/storm-giant-xmm.md) |
-| 17 | [Dragon turtle](Compendium/bestiary/dragon/dragon-turtle-xmm.md) |
-| 23 | [Kraken](Compendium/bestiary/monstrosity/kraken-xmm.md)* |
-| 26 | [Tromokratis](Compendium/bestiary/npc/tromokratis-mot.md) |
+| 1/2 | [[hippocamp-mot]] |
+| 1 | Siren ([[harpy-xmm]])* |
+| 2 | [[naiad-mot]] |
+| 2 | [[triton-shorestalker-mot]] |
+| 5 | [[water-elemental-xmm]] |
+| 8 | [[triton-master-of-waves-mot]] |
+| 13 | [[storm-giant-xmm]] |
+| 17 | [[dragon-turtle-xmm]] |
+| 23 | [[kraken-xmm]]* |
+| 26 | [[tromokratis-mot]] |
 ^thassas-monsters
 
 * See "chapter 6" for details about these creatures in Theros.

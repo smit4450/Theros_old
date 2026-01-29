@@ -10,7 +10,7 @@ aliases:
 - Knowledge Domain
 ---
 # Knowledge Domain
-*[[cleric-xphb|Cleric]]: Cleric Subclass*  
+* [[cleric-xphb]]: Cleric Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression
@@ -57,7 +57,7 @@ Gods of knowledge vary from masters of arcane magic to patrons of craft and inve
 
 ### Blessings of Knowledge (Level 3)
 
-You gain proficiency with one type of [Artisan's Tools](Compendium/items/artisans-tools-xphb.md) of your choice and in two of the following skills of your choice: [Arcana](Compendium/rules/skills.md#Arcana), [History](Compendium/rules/skills.md#History), [Nature](Compendium/rules/skills.md#Nature), or [Religion](Compendium/rules/skills.md#Religion). You have [Expertise](Compendium/rules/variant-rules/expertise-xphb.md) in those two skills.
+You gain proficiency with one type of [[artisans-tools-xphb]] of your choice and in two of the following skills of your choice: [Arcana](Compendium/rules/skills.md#Arcana), [History](Compendium/rules/skills.md#History), [Nature](Compendium/rules/skills.md#Nature), or [Religion](Compendium/rules/skills.md#Religion). You have [[expertise-xphb]] in those two skills.
 
 ### Knowledge Domain Spells (Level 3)
 
@@ -65,10 +65,10 @@ When you reach a Cleric level specified in the Knowledge Domain Spells table, yo
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 3 | [Command](Compendium/spells/command-xphb.md), [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md)*, [Detect Magic](Compendium/spells/detect-magic-xphb.md)*, [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md)*, [Identify](Compendium/spells/identify-xphb.md)*, [Mind Spike](Compendium/spells/mind-spike-xphb.md)* |
-| 5 | [Dispel Magic](Compendium/spells/dispel-magic-xphb.md), [Nondetection](Compendium/spells/nondetection-xphb.md), [Tongues](Compendium/spells/tongues-xphb.md)* |
-| 7 | [Arcane Eye](Compendium/spells/arcane-eye-xphb.md)*, [Banishment](Compendium/spells/banishment-xphb.md), [Confusion](Compendium/spells/confusion-xphb.md) |
-| 9 | [Legend Lore](Compendium/spells/legend-lore-xphb.md)*, [Scrying](Compendium/spells/scrying-xphb.md)*, [Synaptic Static](Compendium/spells/synaptic-static-xphb.md) |
+| 3 | [[command-xphb]], [[comprehend-languages-xphb]]*, [[detect-magic-xphb]]*, [[detect-thoughts-xphb]]*, [[identify-xphb]]*, [[mind-spike-xphb]]* |
+| 5 | [[dispel-magic-xphb]], [[nondetection-xphb]], [[tongues-xphb]]* |
+| 7 | [[arcane-eye-xphb]]*, [[banishment-xphb]], [[confusion-xphb]] |
+| 9 | [[legend-lore-xphb]]*, [[scrying-xphb]]*, [[synaptic-static-xphb]] |
 ^cleric-level-spells
 
 *Spell of the Divination school
@@ -79,10 +79,10 @@ As a Magic action, you can expend one use of your Channel Divinity to manifest y
 
 ### Unfettered Mind (Level 6)
 
-You gain [telepathy](Compendium/rules/variant-rules/telepathy-xphb.md) out to 60 feet. When you use this [telepathy](Compendium/rules/variant-rules/telepathy-xphb.md), you can simultaneously contact a number of creatures equal to your Wisdom modifier (minimum of one).
+You gain [[telepathy-xphb]] out to 60 feet. When you use this [[telepathy-xphb]], you can simultaneously contact a number of creatures equal to your Wisdom modifier (minimum of one).
 
 Additionally, you gain proficiency in Intelligence saving throws. If you already have this proficiency, you instead gain saving throw proficiency with one ability in which you lack it.
 
 ### Divine Foreknowledge (Level 17)
 
-As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you magically expand your mind to the future. For 1 hour, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on [D20 Tests](Compendium/rules/variant-rules/d20-test-xphb.md). Once you use this feature, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md). You can also restore your use of this feature by expending a level 6+ spell slot (no action required).
+As a [[bonus-action-xphb]], you magically expand your mind to the future. For 1 hour, you have [[advantage-xphb]] on [[d20-test-xphb]]. Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]]. You can also restore your use of this feature by expending a level 6+ spell slot (no action required).

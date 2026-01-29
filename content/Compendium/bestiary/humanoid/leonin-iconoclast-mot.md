@@ -58,7 +58,7 @@ Most leonin hunters are tribal warriors, but those who hunt the servants of the 
 "traits":
   - "desc": "The leonin's spellcasting ability is Wisdom (spell save DC 14). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **1/day each:** [banishment](Compendium/spells/banishment-xphb.md), [detect\
+      **1/day each:** [[banishment-xphb]], [detect\
       \ evil and good](Compendium/spells/detect-evil-and-good-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "If the leonin is subjected to an effect that allows it to make a Dexterity\

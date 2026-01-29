@@ -28,23 +28,23 @@ aliases:
 ![](Compendium/items/img/mariners-armor.webp#right)
 
 
-While wearing this armor, you have a [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md) equal to your [Speed](Compendium/rules/variant-rules/speed-xphb.md). In addition, if you start your turn underwater with 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md), you immediately regain `1d4` [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md). The armor can't heal anyone again until the next dawn.
+While wearing this armor, you have a [[swim-speed-xphb]] equal to your [[speed-xphb]]. In addition, if you start your turn underwater with 0 [[hit-points-xphb]], you immediately regain `1d4` [[hit-points-xphb]]. The armor can't heal anyone again until the next dawn.
 
 The armor is decorated with fish and shell motifs.
 
 **Variants**:
-- [[#Mariner's Breastplate|Mariner's Breastplate]]
-- [[#Mariner's Chain Mail|Mariner's Chain Mail]]
-- [[#Mariner's Chain Shirt|Mariner's Chain Shirt]]
-- [[#Mariner's Half Plate Armor|Mariner's Half Plate Armor]]
-- [[#Mariner's Hide Armor|Mariner's Hide Armor]]
-- [[#Mariner's Leather Armor|Mariner's Leather Armor]]
-- [[#Mariner's Padded Armor|Mariner's Padded Armor]]
-- [[#Mariner's Plate Armor|Mariner's Plate Armor]]
-- [[#Mariner's Ring Mail|Mariner's Ring Mail]]
-- [[#Mariner's Scale Mail|Mariner's Scale Mail]]
-- [[#Mariner's Splint Armor|Mariner's Splint Armor]]
-- [[#Mariner's Studded Leather Armor|Mariner's Studded Leather Armor]]
+-  [[#Mariner's Breastplate]]
+-  [[#Mariner's Chain Mail]]
+-  [[#Mariner's Chain Shirt]]
+-  [[#Mariner's Half Plate Armor]]
+-  [[#Mariner's Hide Armor]]
+-  [[#Mariner's Leather Armor]]
+-  [[#Mariner's Padded Armor]]
+-  [[#Mariner's Plate Armor]]
+-  [[#Mariner's Ring Mail]]
+-  [[#Mariner's Scale Mail]]
+-  [[#Mariner's Splint Armor]]
+-  [[#Mariner's Studded Leather Armor]]
 
 ### Mariner's Breastplate
 

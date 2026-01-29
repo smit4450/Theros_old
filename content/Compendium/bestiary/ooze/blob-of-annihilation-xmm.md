@@ -37,11 +37,11 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 
 | dice: 1d10 | The Blob Contains... |
 |------------|----------------------|
-| 1 | An [Amulet of the Planes](Compendium/items/amulet-of-the-planes-xdmg.md). |
+| 1 | An [[amulet-of-the-planes-xdmg]]. |
 | 2 | An Artifact of the DM's choice. |
 | 3 | The corpses of two gods who were entangled in battle when the blob consumed them. |
 | 4 | A Cubic Gate. |
-| 5 | A [Deck of Many Things](Compendium/items/deck-of-many-things-xdmg.md). |
+| 5 | A [[deck-of-many-things-xdmg]]. |
 | 6 | A magic key that opens a door in Sigil that no other key and no spell can open. |
 | 7 | The preserved corpse of an empyrean. |
 | 8 | The remains of half a kraken. |
@@ -82,7 +82,7 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 "languages": ""
 "cr": "23"
 "traits":
-  - "desc": "If the blob is reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md),\
+  - "desc": "If the blob is reduced to 0 [[hit-points-xphb]],\
       \ it implodes and ejects any creatures and objects engulfed by it into the Astral\
       \ Sea. The blob itself vanishes, leaving behind a layer of slime on everything\
       \ that was within 600 feet of it. In 1d20 years, the blob reconstitutes on\
@@ -90,7 +90,7 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
     "name": "Astral Implosion"
   - "desc": "If the blob fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
-  - "desc": "The blob has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The blob has [[advantage-xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -100,17 +100,17 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
   - "desc": "*Melee Attack Roll:* +15, reach 30 ft. *Hit:* 24 (3d10 + 8) Force\
       \ damage."
     "name": "Pseudopod"
-  - "desc": "The blob moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
+  - "desc": "The blob moves up to its [[speed-xphb]]\
       \ and can move through the spaces of Huge or smaller creatures and objects.\
       \ *Strength Saving Throw:* DC 23, each creature or object whose space the blob\
       \ enters for the first time during this move. *Failure:* The target is engulfed.\
-      \ While engulfed, a target has [Total Cover](Compendium/rules/variant-rules/cover-xphb.md)\
+      \ While engulfed, a target has [[cover-xphb]]\
       \ against attacks and other effects outside the blob, and when the blob moves,\
       \ the engulfed target moves with it. A nonmagical object is destroyed after\
       \ spending 1 minute engulfed.\n\nWhile engulfed, a creature takes 21 (6d6)\
       \ Force damage at the start of each of its turns, is suffocating, has the [Restrained](Compendium/rules/conditions.md#Restrained)\
       \ condition, and repeats the save at the end of each of its turns. An engulfed\
-      \ creature that is reduced to 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ creature that is reduced to 0 [[hit-points-xphb]]\
       \ dissolves into ash, which is ejected into the Astral Sea. *Success:* The target\
       \ escapes and enters the nearest unoccupied space."
     "name": "Engulf"

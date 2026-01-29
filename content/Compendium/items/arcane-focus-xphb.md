@@ -15,10 +15,10 @@ aliases:
 
 **Items in this group:**
 
-- [Crystal](Compendium/items/crystal-xphb.md)
-- [Orb](Compendium/items/orb-xphb.md)
-- [Rod](Compendium/items/rod-xphb.md)
-- [Staff](Compendium/items/staff-xphb.md)
-- [Wand](Compendium/items/wand-xphb.md)
+- [[crystal-xphb]]
+- [[orb-xphb]]
+- [[rod-xphb]]
+- [[staff-xphb]]
+- [[wand-xphb]]
 
 *Source: Player's Handbook (2024) p. 224*

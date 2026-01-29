@@ -22,7 +22,7 @@ aliases: ["Guardian Naga"]
 *Enduring Serpentine Lore Keeper*
 
 - **Habitat.** Desert, Forest, Planar (Upper Planes)  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics]]  
 
 Guardian nagas are immortal, serpentine scholars that possess perfect memories. They collect the histories and lore of those they live among, guarding cultures' stories and passing them on to new generations with infallible accuracy. Guardian nagas that outlive their host civilizations might linger in whatever ruins remain, preserving the civilizations' stories so their lost people might live on.
 
@@ -80,7 +80,7 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
 "cr": "10"
 "traits":
   - "desc": "If the naga dies, it returns to life in 1d6 days and regains all its\
-      \ [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) unless [Dispel\
+      \ [[hit-points-xphb]] unless [Dispel\
       \ Evil and Good](Compendium/spells/dispel-evil-and-good-xphb.md) is cast on\
       \ its remains."
     "name": "Celestial Restoration"
@@ -98,10 +98,10 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
     "name": "Poisonous Spittle"
   - "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [Thaumaturgy](Compendium/spells/thaumaturgy-xphb.md)\n\n**1/day\
-      \ each:** [Clairvoyance](Compendium/spells/clairvoyance-xphb.md), [Cure Wounds](Compendium/spells/cure-wounds-xphb.md)\
-      \ (level 6 version), [Flame Strike](Compendium/spells/flame-strike-xphb.md)\
-      \ (level 6 version), [Geas](Compendium/spells/geas-xphb.md), [True Seeing](Compendium/spells/true-seeing-xphb.md)"
+      \n**At will:** [[thaumaturgy-xphb]]\n\n**1/day\
+      \ each:** [[clairvoyance-xphb]], [[cure-wounds-xphb]]\
+      \ (level 6 version), [[flame-strike-xphb]]\
+      \ (level 6 version), [[geas-xphb]], [[true-seeing-xphb]]"
     "name": "Spellcasting"
 "source":
   - "XMM"

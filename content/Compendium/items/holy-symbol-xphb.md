@@ -15,8 +15,8 @@ aliases:
 
 **Items in this group:**
 
-- [Amulet](Compendium/items/amulet-xphb.md)
-- [Emblem](Compendium/items/emblem-xphb.md)
-- [Reliquary](Compendium/items/reliquary-xphb.md)
+- [[amulet-xphb]]
+- [[emblem-xphb]]
+- [[reliquary-xphb]]
 
 *Source: Player's Handbook (2024) p. 226*

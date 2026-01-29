@@ -20,7 +20,7 @@ These armored skeletal spirits guard the borders of the Underworld and its vario
 "type": "undead"
 "alignment": "Lawful Neutral"
 "ac": !!int "18"
-"ac_class": "[plate](Compendium/items/plate-armor-xphb.md)"
+"ac_class": "[[plate-armor-xphb]]"
 "hp": !!int "104"
 "hit_dice": "11d10 + 44"
 "modifier": !!int "2"

@@ -17,6 +17,6 @@ aliases:
 
 - **Ability.** Intelligence  
 - **Utilize.** Discern a gem's value (DC 15)  
-- **Craft.** [Arcane Focus](Compendium/items/arcane-focus-xphb.md), [Holy Symbol](Compendium/items/holy-symbol-xphb.md)  
+- **Craft.** [[arcane-focus-xphb]], [[holy-symbol-xphb]]  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

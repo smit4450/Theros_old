@@ -21,7 +21,7 @@ Mages are accomplished spellcasters whose lives have been shaped by magic. They 
 *Magical Scholars and Spellcasters*
 
 - **Habitat.** Any  
-- **Treasure.** [Arcana](Compendium/tables/random-magic-items-arcana.md), Individual  
+- **Treasure.** [[random-magic-items-arcana]], Individual  
 
 Mages are magical wonder-workers, ranging from spellcasting overlords to reclusive witches. They study mystical secrets and possess insight into monsters, legends, omens, and other lore. Mages often gather allies or hire assistants to aid them in their research or to attain magical might.
 
@@ -87,20 +87,20 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
       \ 16 (3d8 + 3) Force damage."
     "name": "Arcane Burst"
   - "desc": "The mage casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 14):\n\n**At will:** [Detect Magic](Compendium/spells/detect-magic-xphb.md),\
-      \ [Light](Compendium/spells/light-xphb.md), [Mage Armor](Compendium/spells/mage-armor-xphb.md)\
-      \ (included in AC), [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Prestidigitation](Compendium/spells/prestidigitation-xphb.md)\n\
-      \n**2/day each:** [Fireball](Compendium/spells/fireball-xphb.md) (level 4 version),\
-      \ [Invisibility](Compendium/spells/invisibility-xphb.md)\n\n**1/day each:**\
-      \ [Cone of Cold](Compendium/spells/cone-of-cold-xphb.md), [Fly](Compendium/spells/fly-xphb.md)"
+      \ spellcasting ability (spell save DC 14):\n\n**At will:** [[detect-magic-xphb]],\
+      \ [[light-xphb]], [[mage-armor-xphb]]\
+      \ (included in AC), [[mage-hand-xphb]], [[prestidigitation-xphb]]\n\
+      \n**2/day each:** [[fireball-xphb]] (level 4 version),\
+      \ [[invisibility-xphb]]\n\n**1/day each:**\
+      \ [[cone-of-cold-xphb]], [[fly-xphb]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The mage casts [Misty Step](Compendium/spells/misty-step-xphb.md), using\
+  - "desc": "The mage casts [[misty-step-xphb]], using\
       \ the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step (3/Day)"
 "reactions":
-  - "desc": "The mage casts [Counterspell](Compendium/spells/counterspell-xphb.md)\
-      \ or [Shield](Compendium/spells/shield-xphb.md) in response to the spell's trigger,\
+  - "desc": "The mage casts [[counterspell-xphb]]\
+      \ or [[shield-xphb]] in response to the spell's trigger,\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Protective Magic (3/Day)"
 "source":

@@ -11,9 +11,9 @@ aliases: ["Guard"]
 ![](Compendium/backgrounds/img/guard.webp#right)
 
 - **Ability Scores.** Strength, Intelligence, Wisdom  
-- **Feat.** [[Alert|Alert]]  
+- **Feat.**  [[Alert]]  
 - **Skill Proficiencies.** [Athletics](Compendium/rules/skills.md#Athletics), [Perception](Compendium/rules/skills.md#Perception)  
-- **Tool Proficiency.** Choose one kind of [Gaming Set](Compendium/items/gaming-set-xphb.md)  
-- **Equipment.** Choose A or B: (A) [Spear](Compendium/items/spear-xphb.md), [Light Crossbow](Compendium/items/light-crossbow-xphb.md), 20 [Bolts](Compendium/items/bolt-xphb.md), [Gaming Set](Compendium/items/gaming-set-xphb.md) (same as above), [Hooded Lantern](Compendium/items/hooded-lantern-xphb.md), [Manacles](Compendium/items/manacles-xphb.md), [Quiver](Compendium/items/quiver-xphb.md), [Traveler's Clothes](Compendium/items/travelers-clothes-xphb.md), 12 GP; or (B) 50 GP  
+- **Tool Proficiency.** Choose one kind of [[gaming-set-xphb]]  
+- **Equipment.** Choose A or B: (A) [[spear-xphb]], [[light-crossbow-xphb]], 20 [[bolt-xphb]], [[gaming-set-xphb]] (same as above), [[hooded-lantern-xphb]], [[manacles-xphb]], [[quiver-xphb]], [[travelers-clothes-xphb]], 12 GP; or (B) 50 GP  
 
 Your feet ache when you remember the countless hours you spent at your post in the tower. You were trained to keep one eye looking outside the wall, watching for marauders sweeping from the nearby forest, and your other eye looking inside the wall, searching for cutpurses and troublemakers.

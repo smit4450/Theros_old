@@ -19,7 +19,7 @@ aliases: ["Clay Golem"]
 *Guardian of Home and Heart*
 
 - **Habitat.** Urban  
-- **Treasure.** [Relics](Compendium/tables/random-magic-items-relics.md)  
+- **Treasure.** [[random-magic-items-relics]]  
 
 Clay golems are magical defenders made from earth and clay to protect places or communities. The materials used in creating clay golems originate from near the location the golems protect and often have special significance to their creators, such as clay from a holy site or bricks from a magical ruin. While some clay golems are masterfully sculpted to resemble living beings, others have only vaguely humanlike forms.
 
@@ -62,7 +62,7 @@ These golems obey their creators' orders and protect what their makers value mos
 "cr": "9"
 "traits":
   - "desc": "Whenever the golem is subjected to Acid damage, it takes no damage and\
-      \ instead regains a number of [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ instead regains a number of [[hit-points-xphb]]\
       \ equal to the Acid damage dealt."
     "name": "Acid Absorption"
   - "desc": "Whenever the golem starts its turn [Bloodied](Compendium/rules/conditions.md#Bloodied),\
@@ -74,7 +74,7 @@ These golems obey their creators' orders and protect what their makers value mos
     "name": "Berserk"
   - "desc": "The golem can't shape-shift."
     "name": "Immutable Form"
-  - "desc": "The golem has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The golem has [[advantage-xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -82,7 +82,7 @@ These golems obey their creators' orders and protect what their makers value mos
       \ used Hasten this turn."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +9, reach 5 ft. *Hit:* 10 (1d10 + 5) Bludgeoning\
-      \ damage plus 6 (1d12) Acid damage, and the target's [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md)\
+      \ damage plus 6 (1d12) Acid damage, and the target's [[hit-points-xphb]]\
       \ maximum decreases by an amount equal to the Acid damage taken."
     "name": "Slam"
 "bonus_actions":

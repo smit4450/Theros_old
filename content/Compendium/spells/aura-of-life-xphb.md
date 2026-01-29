@@ -25,8 +25,8 @@ aliases: ["Aura of Life"]
 - **Components:** V
 - **Duration:** Concentration, up to 10 minutes
 
-An aura radiates from you in a 30-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md) for the duration. While in the aura, you and your allies have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to Necrotic damage, and your [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md) maximums can't be reduced. If an ally with 0 [Hit Points](Compendium/rules/variant-rules/hit-points-xphb.md) starts its turn in the aura, that ally regains 1 [Hit Point](Compendium/rules/variant-rules/hit-points-xphb.md).
+An aura radiates from you in a 30-foot [[emanation-area-of-effect-xphb]] for the duration. While in the aura, you and your allies have [[resistance-xphb]] to Necrotic damage, and your [[hit-points-xphb]] maximums can't be reduced. If an ally with 0 [[hit-points-xphb]] starts its turn in the aura, that ally regains 1 [[hit-points-xphb]].
 
-**Classes**: [Bard](Compendium/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md)
+**Classes**: [[list-spells-classes-bard]]; [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric]]; [[list-spells-classes-paladin]]
 
 *Source: Player's Handbook (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

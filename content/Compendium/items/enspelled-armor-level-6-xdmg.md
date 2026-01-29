@@ -34,18 +34,18 @@ Bound into this armor is a level 6 spell. The spell is determined when the armor
 The spell's saving throw DC is 17, and its attack bonus is `+9`.
 
 **Variants**:
-- [[#Enspelled (Level 6|Enspelled (Level 6) Breastplate]] Breastplate)
-- [[#Enspelled (Level 6|Enspelled (Level 6) Chain Mail]] Chain Mail)
-- [[#Enspelled (Level 6|Enspelled (Level 6) Chain Shirt]] Chain Shirt)
-- [[#Enspelled (Level 6|Enspelled (Level 6) Half Plate Armor]] Half Plate Armor)
-- [[#Enspelled (Level 6|Enspelled (Level 6) Hide Armor]] Hide Armor)
-- [[#Enspelled (Level 6|Enspelled (Level 6) Leather Armor]] Leather Armor)
-- [[#Enspelled (Level 6|Enspelled (Level 6) Padded Armor]] Padded Armor)
-- [[#Enspelled (Level 6|Enspelled (Level 6) Plate Armor]] Plate Armor)
-- [[#Enspelled (Level 6|Enspelled (Level 6) Ring Mail]] Ring Mail)
-- [[#Enspelled (Level 6|Enspelled (Level 6) Scale Mail]] Scale Mail)
-- [[#Enspelled (Level 6|Enspelled (Level 6) Splint Armor]] Splint Armor)
-- [[#Enspelled (Level 6|Enspelled (Level 6) Studded Leather Armor]] Studded Leather Armor)
+-  [[#Enspelled (Level 6]] Breastplate)
+-  [[#Enspelled (Level 6]] Chain Mail)
+-  [[#Enspelled (Level 6]] Chain Shirt)
+-  [[#Enspelled (Level 6]] Half Plate Armor)
+-  [[#Enspelled (Level 6]] Hide Armor)
+-  [[#Enspelled (Level 6]] Leather Armor)
+-  [[#Enspelled (Level 6]] Padded Armor)
+-  [[#Enspelled (Level 6]] Plate Armor)
+-  [[#Enspelled (Level 6]] Ring Mail)
+-  [[#Enspelled (Level 6]] Scale Mail)
+-  [[#Enspelled (Level 6]] Splint Armor)
+-  [[#Enspelled (Level 6]] Studded Leather Armor)
 
 ### Enspelled (Level 6) Breastplate
 

@@ -64,7 +64,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "cr": "1/2"
 "traits":
   - "desc": "The mephit explodes when it dies. *Dexterity Saving Throw:* DC 11, each\
-      \ creature in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ creature in a 5-foot [[emanation-area-of-effect-xphb]]\
       \ originating from the mephit. *Failure:* 7 (2d6) Fire damage. *Success:*\
       \ Half damage."
     "name": "Death Burst"
@@ -72,7 +72,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 3 (1d4 + 1) Slashing\
       \ damage plus 3 (1d6) Fire damage."
     "name": "Claw"
-  - "desc": "*Dexterity Saving Throw:* DC 11, each creature in a 15-foot [Cone](Compendium/rules/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 11, each creature in a 15-foot [[cone-area-of-effect-xphb]].\
       \ *Failure:* 7 (2d6) Fire damage. *Success:* Half damage."
     "name": "Fire Breath (Recharge 6)"
 "source":

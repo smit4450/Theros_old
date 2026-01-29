@@ -14,16 +14,16 @@ aliases:
 
 | Class | Likes... | Primary Ability | Complexity |
 |-------|----------|-----------------|------------|
-| [Barbarian](Compendium/classes/barbarian-xphb.md) | Battle | Strength | Average |
-| [Bard](Compendium/classes/bard-xphb.md) | Performing | Charisma | High |
-| [Cleric](Compendium/classes/cleric-xphb.md) | Gods | Wisdom | Average |
-| [Druid](Compendium/classes/druid-xphb.md) | Nature | Wisdom | High |
-| [Fighter](Compendium/classes/fighter-xphb.md) | Weapons | Strength or Dexterity | Low |
-| [Monk](Compendium/classes/monk-xphb.md) | Unarmed combat | Dexterity and Wisdom | High |
-| [Paladin](Compendium/classes/paladin-xphb.md) | Defense | Strength and Charisma | Average |
-| [Ranger](Compendium/classes/ranger-xphb.md) | Survival | Dexterity and Wisdom | Average |
-| [Rogue](Compendium/classes/rogue-xphb.md) | Stealth | Dexterity | Low |
-| [Sorcerer](Compendium/classes/sorcerer-xphb.md) | Power | Charisma | High |
-| [Warlock](Compendium/classes/warlock-xphb.md) | Occult lore | Charisma | High |
-| [Wizard](Compendium/classes/wizard-xphb.md) | Spellbooks | Intelligence | Average |
+| [[barbarian-xphb]] | Battle | Strength | Average |
+| [[bard-xphb]] | Performing | Charisma | High |
+| [[cleric-xphb]] | Gods | Wisdom | Average |
+| [[druid-xphb]] | Nature | Wisdom | High |
+| [[fighter-xphb]] | Weapons | Strength or Dexterity | Low |
+| [[monk-xphb]] | Unarmed combat | Dexterity and Wisdom | High |
+| [[paladin-xphb]] | Defense | Strength and Charisma | Average |
+| [[ranger-xphb]] | Survival | Dexterity and Wisdom | Average |
+| [[rogue-xphb]] | Stealth | Dexterity | Low |
+| [[sorcerer-xphb]] | Power | Charisma | High |
+| [[warlock-xphb]] | Occult lore | Charisma | High |
+| [[wizard-xphb]] | Spellbooks | Intelligence | Average |
 ^class-overview

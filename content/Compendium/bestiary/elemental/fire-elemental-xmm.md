@@ -75,18 +75,18 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 "cr": "5"
 "traits":
   - "desc": "At the end of each of the elemental's turns, each creature in a 10-foot\
-      \ [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ [[emanation-area-of-effect-xphb]]\
       \ originating from the elemental takes 5 (1d10) Fire damage. Creatures and\
-      \ flammable objects in the [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ start [burning](Compendium/traps-hazards/burning-xphb.md)."
+      \ flammable objects in the [[emanation-area-of-effect-xphb]]\
+      \ start [[burning-xphb]]."
     "name": "Fire Aura"
   - "desc": "The elemental can move through a space as narrow as 1 inch without expending\
       \ extra movement to do so, and it can enter a creature's space and stop there.\
       \ The first time it enters a creature's space on a turn, that creature takes\
       \ 5 (1d10) Fire damage."
     "name": "Fire Form"
-  - "desc": "The elemental sheds [Bright Light](Compendium/rules/variant-rules/bright-light-xphb.md)\
-      \ in a 30-foot radius and [Dim Light](Compendium/rules/variant-rules/dim-light-xphb.md)\
+  - "desc": "The elemental sheds [[bright-light-xphb]]\
+      \ in a 30-foot radius and [[dim-light-xphb]]\
       \ for an additional 30 feet."
     "name": "Illumination"
   - "desc": "The elemental takes 3 (1d6) Cold damage for every 5 feet the elemental\
@@ -96,7 +96,7 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
   - "desc": "The elemental makes two Burn attacks."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 10 (2d6 + 3) Fire damage.\
-      \ If the target is a creature or a flammable object, it starts [burning](Compendium/traps-hazards/burning-xphb.md)."
+      \ If the target is a creature or a flammable object, it starts [[burning-xphb]]."
     "name": "Burn"
 "source":
   - "XMM"

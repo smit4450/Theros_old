@@ -30,7 +30,7 @@ Stone golems are typically created to protect places of significance to a group,
 | dice: 1d6 | The Stone Golem Follows Orders To... |
 |-----------|--------------------------------------|
 | 1 | Allow only those wearing ritual garb to pass. |
-| 2 | Cast [Slow](Compendium/spells/slow-xphb.md) on and aid in apprehending anyone who touches a city's prized relic. |
+| 2 | Cast [[slow-xphb]] on and aid in apprehending anyone who touches a city's prized relic. |
 | 3 | Destroy a dam or bridge at the command of one bearing a ruler's medallion of office. |
 | 4 | Obey whoever places a missing crest in its chest, then deactivate for a year. |
 | 5 | Reveal a hidden passage to those who recite a leader's final words. |
@@ -69,7 +69,7 @@ Stone golems are typically created to protect places of significance to a group,
 "traits":
   - "desc": "The golem can't shape-shift."
     "name": "Immutable Form"
-  - "desc": "The golem has [Advantage](Compendium/rules/variant-rules/advantage-xphb.md)\
+  - "desc": "The golem has [[advantage-xphb]]\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -81,7 +81,7 @@ Stone golems are typically created to protect places of significance to a group,
   - "desc": "*Ranged Attack Roll:* +9, range 120 ft. *Hit:* 22 (4d10) Force damage."
     "name": "Force Bolt"
 "bonus_actions":
-  - "desc": "The golem casts the [Slow](Compendium/spells/slow-xphb.md) spell, requiring\
+  - "desc": "The golem casts the [[slow-xphb]] spell, requiring\
       \ no spell components and using Constitution as the spellcasting ability (spell\
       \ save DC 17).\n"
     "name": "Slow (Recharge 5-6)"

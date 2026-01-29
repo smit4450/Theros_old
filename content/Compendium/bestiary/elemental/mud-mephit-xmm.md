@@ -63,7 +63,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "cr": "1/4"
 "traits":
   - "desc": "The mephit explodes when it dies. *Dexterity Saving Throw:* DC 11, each\
-      \ creature in a 5-foot [Emanation](Compendium/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ creature in a 5-foot [[emanation-area-of-effect-xphb]]\
       \ originating from the mephit. *Failure:* The target has the [Restrained](Compendium/rules/conditions.md#Restrained)\
       \ condition until the end of its next turn."
     "name": "Death Burst"

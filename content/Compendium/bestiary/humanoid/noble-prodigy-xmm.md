@@ -65,15 +65,15 @@ Nobles encompass a variety of people with social influence. They might be rulers
     "name": "Beguiling Strike"
   - "desc": "The noble casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 16):\n\n**At\
-      \ will:** [Mage Armor](Compendium/spells/mage-armor-xphb.md) (included in AC),\
-      \ [Mage Hand](Compendium/spells/mage-hand-xphb.md), [Minor Illusion](Compendium/spells/minor-illusion-xphb.md)\n\
-      \n**1/day each:** [Befuddlement](Compendium/spells/befuddlement-xphb.md), [Detect\
-      \ Thoughts](Compendium/spells/detect-thoughts-xphb.md), [Fly](Compendium/spells/fly-xphb.md),\
-      \ [Scrying](Compendium/spells/scrying-xphb.md), [Shatter](Compendium/spells/shatter-xphb.md)\
+      \ will:** [[mage-armor-xphb]] (included in AC),\
+      \ [[mage-hand-xphb]], [[minor-illusion-xphb]]\n\
+      \n**1/day each:** [[befuddlement-xphb]], [Detect\
+      \ Thoughts](Compendium/spells/detect-thoughts-xphb.md), [[fly-xphb]],\
+      \ [[scrying-xphb]], [[shatter-xphb]]\
       \ (level 7 version)"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The noble casts [Shield](Compendium/spells/shield-xphb.md) in response\
+  - "desc": "The noble casts [[shield-xphb]] in response\
       \ to that spell's trigger, using the same spellcasting ability as Spellcasting.\n"
     "name": "Shield (2/Day)"
 "source":
