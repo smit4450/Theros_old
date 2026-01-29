@@ -14,7 +14,7 @@ aliases:
 ![](Compendium/items/img/club.webp#right)
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Light](Item%20Properties.md#Light)
 - **Cost**: 1 sp
 - **Weight**: 2.0 lbs.
 

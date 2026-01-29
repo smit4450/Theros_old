@@ -12,7 +12,7 @@ aliases: ["Merchant"]
 
 - **Ability Scores.** Constitution, Intelligence, Charisma  
 - **Feat.**  [[Lucky]]  
-- **Skill Proficiencies.** [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Persuasion](Compendium/rules/skills.md#Persuasion)  
+- **Skill Proficiencies.** [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Persuasion](Skills.md#Persuasion)  
 - **Tool Proficiency.** [[Navigator's Tools]]  
 - **Equipment.** Choose A or B: (A) [[Navigator's Tools]], [[Pouch]], [[Traveler's Clothes]], 22 GP; or (B) 50 GP  
 

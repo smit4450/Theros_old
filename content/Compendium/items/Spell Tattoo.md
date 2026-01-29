@@ -21,7 +21,7 @@ You can also cast the spell once without a spell slot and spell components. Once
 > 
 > The Thayan art of magical tattooing is highly guarded by its practitioners, and thus, Thayan Spell Tattoos can't be crafted like other magic items. To learn how to ink Thayan Spell Tattoos, you must have a Renown Score of 50+ with the Red Wizards.
 > 
-> To ink a Thayan Spell Tattoo, you must have proficiency in the [Arcana](Compendium/rules/skills.md#Arcana) skill and with [[calligraphers-supplies-xphb]] and have the[Calligrapher's Supplies](Calligrapher's%20Supplies.md)erial components required by the spell; if the spell consumes its Material components, they are consumed when you complete the tattoo. Inking a Thayan Spell Tattoo takes the same amount of "time and money" as scribing a [[Spell Scroll]] of an equivalent level.
+> To ink a Thayan Spell Tattoo, you must have proficiency in the [Arcana](Skills.md#Arcana) skill and with [[calligraphers-supplies-xphb]] and have the[Calligrapher's Supplies](Calligrapher's%20Supplies.md)erial components required by the spell; if the spell consumes its Material components, they are consumed when you complete the tattoo. Inking a Thayan Spell Tattoo takes the same amount of "time and money" as scribing a [[Spell Scroll]] of an equivalent level.
 ^inking-thayan-spell-tattoos
 
 *Source: FRHoF p. 176*

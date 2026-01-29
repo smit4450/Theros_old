@@ -293,7 +293,7 @@ An ability check is a test to see whether a character succeeds at a task the cha
 
 #### Proficiency
 
-When the rules or a published adventure calls for an ability check, a skill or tool proficiency is often called out: for example, "a character who succeeds on a DC 15 Intelligence ([Arcana](Compendium/rules/skills.md#Arcana)) check can puzzle out the magic involved." Sometimes the rules allow for any one of two or more proficiencies to apply to a check. When deciding what check a character should make, be generous in determining if the character's Proficiency Bonus comes into play. You might specifically ask for an Intelligence ([Arcana](Compendium/rules/skills.md#Arcana)) check, or you can ask for an Intelligence check and let the player negotiate with you to see if one of the character's skill or tool proficiencies applies.
+When the rules or a published adventure calls for an ability check, a skill or tool proficiency is often called out: for example, "a character who succeeds on a DC 15 Intelligence ([Arcana](Skills.md#Arcana)) check can puzzle out the magic involved." Sometimes the rules allow for any one of two or more proficiencies to apply to a check. When deciding what check a character should make, be generous in determining if the character's Proficiency Bonus comes into play. You might specifically ask for an Intelligence ([Arcana](Skills.md#Arcana)) check, or you can ask for an Intelligence check and let the player negotiate with you to see if one of the character's skill or tool proficiencies applies.
 
 #### Trying Again
 
@@ -305,19 +305,19 @@ If failure has no consequences and a character can try and try again, you can sk
 
 Group checks are a tool you can use when the party is trying to accomplish something together and the most skilled characters can cover for characters who are less adept at the task. To make a group ability check, everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds. Otherwise, the group fails.
 
-Group checks aren't appropriate when one character's failure would spell disaster for the whole party, such as if the characters are creeping across a castle courtyard while trying not to alert the guards. In that case, one noisy character will draw the guards' attention, and there's not much that stealthier characters can do about it, so relying on individual checks makes more sense. Similarly, don't use a group check when a single successful check is sufficient, as is the case when finding a hidden compartment with a Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check.
+Group checks aren't appropriate when one character's failure would spell disaster for the whole party, such as if the characters are creeping across a castle courtyard while trying not to alert the guards. In that case, one noisy character will draw the guards' attention, and there's not much that stealthier characters can do about it, so relying on individual checks makes more sense. Similarly, don't use a group check when a single successful check is sufficient, as is the case when finding a hidden compartment with a Wisdom ([Perception](Skills.md#Perception)) check.
 
 Consider using group checks in situations such as the following:
 
-- **Research Tasks.** The characters are trying to learn about an ancient prophecy from an archive. The characters can make a group Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check to find sources in the archive; characters who are knowledgeable about such topics and about research methods in general can tell the other characters the most likely places to direct their search. If the group check is successful, the characters find enough different sources to paint a clear picture of the prophecy; otherwise, their information is incomplete.  
+- **Research Tasks.** The characters are trying to learn about an ancient prophecy from an archive. The characters can make a group Intelligence ([Investigation](Skills.md#Investigation)) check to find sources in the archive; characters who are knowledgeable about such topics and about research methods in general can tell the other characters the most likely places to direct their search. If the group check is successful, the characters find enough different sources to paint a clear picture of the prophecy; otherwise, their information is incomplete.  
 - **Roped Together.** The characters are tied together as they scale a cliff or cross a rickety rope bridge. If one or two characters fail their checks, the successful characters can stop their fall and prevent disaster, but if more than half the party fails, the whole group falls. You could also apply this idea to something like a long swim, where strong swimmers can help weaker ones.  
-- **Social Situations.** One character offends someone at a diplomatic event, and a noble demands the adventurers be escorted from the premises. The characters can make a group Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) check to avoid getting thrown out; they just need a few convincing arguments and the ability to smooth over any gaffes. You could apply this same principle to other Charisma checks using [Deception](Compendium/rules/skills.md#Deception), [Intimidation](Compendium/rules/skills.md#Intimidation), or [Performance](Compendium/rules/skills.md#Performance).  
+- **Social Situations.** One character offends someone at a diplomatic event, and a noble demands the adventurers be escorted from the premises. The characters can make a group Charisma ([Persuasion](Skills.md#Persuasion)) check to avoid getting thrown out; they just need a few convincing arguments and the ability to smooth over any gaffes. You could apply this same principle to other Charisma checks using [Deception](Skills.md#Deception), [Intimidation](Skills.md#Intimidation), or [Performance](Skills.md#Performance).  
 
 #### Passive Checks
 
 Ability checks normally represent a character's active effort to accomplish something, but occasionally you need a passive measure of how good a character is at doing a thing. Passive Perception is the most common example. (See ""Perception"" later in this chapter.) You can extend the concept of a passive ability check to other abilities and skills.
 
-For example, if your game features a lot of social interaction, you can record each character's Passive Insight score, calculated in much the same way as Passive Perception: 10 plus all modifiers that normally apply to a Wisdom ([Insight](Compendium/rules/skills.md#Insight)) check.
+For example, if your game features a lot of social interaction, you can record each character's Passive Insight score, calculated in much the same way as Passive Perception: 10 plus all modifiers that normally apply to a Wisdom ([Insight](Skills.md#Insight)) check.
 
 ### Attack Rolls
 
@@ -353,9 +353,9 @@ For some ability checks and most saving throws, the rules default to the followi
 
 <span class='abilityGeneric'>**DC.**</span>
 
-This formula often sets the saving throw DC when a creature is casting a spell or using a special ability, but it can also apply to ability checks that are contests between two creatures. For example, if one creature is holding a door shut, use its Strength modifier and Proficiency Bonus to set the DC for opening the door. When another creature tries to force the door open, the creature makes a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check against that DC.
+This formula often sets the saving throw DC when a creature is casting a spell or using a special ability, but it can also apply to ability checks that are contests between two creatures. For example, if one creature is holding a door shut, use its Strength modifier and Proficiency Bonus to set the DC for opening the door. When another creature tries to force the door open, the creature makes a Strength ([Athletics](Skills.md#Athletics)) check against that DC.
 
-Another way to handle similar situations is to have one creature's ability check set the DC for another creature's check. That's how hiding works, for example: a hiding creature's total Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) check sets the DC for Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks made to find the hidden creature.
+Another way to handle similar situations is to have one creature's ability check set the DC for another creature's check. That's how hiding works, for example: a hiding creature's total Dexterity ([Stealth](Skills.md#Stealth)) check sets the DC for Wisdom ([Perception](Skills.md#Perception)) checks made to find the hidden creature.
 
 ### Advantage and Disadvantage
 
@@ -391,14 +391,14 @@ As a DM, you can use a variety of approaches when adjudicating success and failu
 When a character fails a [[D20 Test]] by only 1 or 2, you can offer to let the character succeed at the cost of a complication or hindrance. Such complications can run along any of the following lines:
 
 - A character gets her sword past an enemy's defenses and turns a near miss into a hit, but she then drops the sword.  
-- A character narrowly escapes the full brunt of a [[fireball-xphb]] spell but has the [Prone](Compendium/rules/conditions.md#Prone) condition.  
+- A character narrowly escapes the full brunt of a [[fireball-xphb]] spell but has the [Prone](Conditions.md#Prone) condition.  
 - A character fails to intimidate a kobold prisoner, but the kobold reveals its secrets anyway while shrieking at the top of its lungs, alerting other nearby monsters.  
 
 By putting the choice of success at a cost in the players' hands, and even letting them choose the setbacks, you can give players more agency in crafting the story of their characters' deeds.
 
 #### Degrees of Failure
 
-Sometimes a failed [[D20 Test]] has different consequences depending on the degree of failure. For example, a character who fails to disarm a trapped chest might accidentally spring the trap if the check fails by 5 or more, whereas a lesser failure means the trap wasn't triggered during the botched disarm attempt. Consider adding similar distinctions to other checks. Perhaps a failed Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) check means a queen won't help, whereas a failure of 5 or more means she throws the character in the dungeon for such a display of impudence.
+Sometimes a failed [[D20 Test]] has different consequences depending on the degree of failure. For example, a character who fails to disarm a trapped chest might accidentally spring the trap if the check fails by 5 or more, whereas a lesser failure means the trap wasn't triggered during the botched disarm attempt. Consider adding similar distinctions to other checks. Perhaps a failed Charisma ([Persuasion](Skills.md#Persuasion)) check means a queen won't help, whereas a failure of 5 or more means she throws the character in the dungeon for such a display of impudence.
 
 #### Degrees of Success
 
@@ -406,7 +406,7 @@ A successful [[D20 Test]] can have degrees of success. For example, when charact
 
 #### Critical Success or Failure
 
-Rolling a 20 or a 1 on an ability check or a saving throw doesn't normally have any special effect. However, you can take such an exceptional roll into account when adjudicating the outcome. It's up to you to determine how this manifests in the game. One approach is to increase the impact of the success or failure. For example, rolling a 1 on a failed attempt to pick a lock might jam the lock, and rolling a 20 on a successful Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check might reveal an extra clue.
+Rolling a 20 or a 1 on an ability check or a saving throw doesn't normally have any special effect. However, you can take such an exceptional roll into account when adjudicating the outcome. It's up to you to determine how this manifests in the game. One approach is to increase the impact of the success or failure. For example, rolling a 1 on a failed attempt to pick a lock might jam the lock, and rolling a 20 on a successful Intelligence ([Investigation](Skills.md#Investigation)) check might reveal an extra clue.
 
 For attack rolls, the rules cover what happens on a natural 20 (it's a [[Critical Hit]]) or a natural 1 (it always misses). Resist the temptation to add additional negative consequences to a natural 1 on an attack roll: the automatic failure is bad enough. And characters typically make so many attack rolls that they're bound to roll dozens of natural 1s over time. What might seem like an interesting consequence, like breaking the weapon used for the attack, will quickly get tiresome.
 
@@ -510,7 +510,7 @@ You decide the extent to which ability checks shape the outcome of a social inte
 
 #### Using the Help Action
 
-When a character uses the [Help](Compendium/rules/actions.md#Help) action to help another character influence an NPC or a monster, encourage the player of the helpful character to contribute to the conversation or, at the very least, describe what their character is doing or saying to contribute to the other character's success.
+When a character uses the [Help](Actions.md#Help) action to help another character influence an NPC or a monster, encourage the player of the helpful character to contribute to the conversation or, at the very least, describe what their character is doing or saying to contribute to the other character's success.
 
 ## Running Exploration
 
@@ -552,9 +552,9 @@ Use similar principles to track the passage of hours, such as when characters di
 
 ### Actions in Exploration
 
-Most of what characters do during exploration, aside from movement, relates to just a few actions: [Search](Compendium/rules/actions.md#Search), [Study](Compendium/rules/actions.md#Study), and [Utilize](Compendium/rules/actions.md#Utilize). Characters also often use the [Help](Compendium/rules/actions.md#Help) action to assist each other in these actions. Other actions come up only rarely.
+Most of what characters do during exploration, aside from movement, relates to just a few actions: [Search](Actions.md#Search), [Study](Actions.md#Study), and [Utilize](Actions.md#Utilize). Characters also often use the [Help](Actions.md#Help) action to assist each other in these actions. Other actions come up only rarely.
 
-It's seldom necessary to rely on the action rules during exploration, except to remember that a character can do only one thing at a time. A character who's busy taking the [Search](Compendium/rules/actions.md#Search) action to look for a secret door can't simultaneously take the [Help](Compendium/rules/actions.md#Help) action to assist another character who's taking the Study action to find important information in a book.
+It's seldom necessary to rely on the action rules during exploration, except to remember that a character can do only one thing at a time. A character who's busy taking the [Search](Actions.md#Search) action to look for a secret door can't simultaneously take the [Help](Actions.md#Help) action to assist another character who's taking the Study action to find important information in a book.
 
 #### Taking Turns
 
@@ -568,27 +568,27 @@ You can build tension in an exploration encounter by shifting focus right before
 
 When a character tries to do something during exploration, you decide whether that action requires an ability check to determine success (as described in the earlier ""Resolving Outcomes"" section).
 
-Certain situations might call for a balance between ability checks and roleplaying. For example, puzzles are an opportunity for players to do some problem-solving, but players can also lean on their characters' talents and attributes to provide direction. A character who succeeds on an Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check might notice a clue that gives the players a hint to the puzzle's solution.
+Certain situations might call for a balance between ability checks and roleplaying. For example, puzzles are an opportunity for players to do some problem-solving, but players can also lean on their characters' talents and attributes to provide direction. A character who succeeds on an Intelligence ([Investigation](Skills.md#Investigation)) check might notice a clue that gives the players a hint to the puzzle's solution.
 
 ### Perception
 
 ![In a courtyard full of mon...](Compendium/books/dungeon-masters-guide-2024/img/013-01-008-monster-courtyard.webp#center "In a courtyard full of monsters, will characters even notice that the tree has eyes?")
 
-As the DM, you're the interface between your players and the world of the game. You tell them what their characters perceive, so it's important to make sure you're telling them important information about their surroundings. The Perception skill and Wisdom checks made using it are key tools for you. This section offers guidance to help you use the [Perception](Compendium/rules/skills.md#Perception) rules in the "Player's Handbook".
+As the DM, you're the interface between your players and the world of the game. You tell them what their characters perceive, so it's important to make sure you're telling them important information about their surroundings. The Perception skill and Wisdom checks made using it are key tools for you. This section offers guidance to help you use the [Perception](Skills.md#Perception) rules in the "Player's Handbook".
 
 #### When to Call for a Check
 
-An important time to call for a Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check is when another creature is using the [Stealth](Compendium/rules/skills.md#Stealth) skill to hide. Noticing a hidden creature is never trivially easy or automatically impossible, so characters can always try Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks to do so.
+An important time to call for a Wisdom ([Perception](Skills.md#Perception)) check is when another creature is using the [Stealth](Skills.md#Stealth) skill to hide. Noticing a hidden creature is never trivially easy or automatically impossible, so characters can always try Wisdom ([Perception](Skills.md#Perception)) checks to do so.
 
 ##### Using Passive Perception
 
-Sometimes, asking players to make Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks for their characters tips them off that there's something they should be searching for, giving them a clue you'd rather they didn't have. In those circumstances, use characters' [[Passive Perception]] scores instead.
+Sometimes, asking players to make Wisdom ([Perception](Skills.md#Perception)) checks for their characters tips them off that there's something they should be searching for, giving them a clue you'd rather they didn't have. In those circumstances, use characters' [[Passive Perception]] scores instead.
 
 ##### Using the Investigation Skill
 
-The [Investigation](Compendium/rules/skills.md#Investigation) skill applies to situations where a character is using reason and deduction to arrive at a conclusion about something under examination. Investigation applies when characters are trying to figure out how a thing works—how to open a trick door, how to get into a secret compartment, and so on.
+The [Investigation](Skills.md#Investigation) skill applies to situations where a character is using reason and deduction to arrive at a conclusion about something under examination. Investigation applies when characters are trying to figure out how a thing works—how to open a trick door, how to get into a secret compartment, and so on.
 
-Don't use the Investigation skill to determine if a character notices something—that's the purview of Perception. For example, a successful Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check allows a character to find a secret door or something that betrays its presence, such as thin seams marking the edges of the door. If the secret door is locked, a successful Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check would allow a character to figure out the trick to opening it—by turning a nearby statue so it faces the door, for example.
+Don't use the Investigation skill to determine if a character notices something—that's the purview of Perception. For example, a successful Wisdom ([Perception](Skills.md#Perception)) check allows a character to find a secret door or something that betrays its presence, such as thin seams marking the edges of the door. If the secret door is locked, a successful Intelligence ([Investigation](Skills.md#Investigation)) check would allow a character to figure out the trick to opening it—by turning a nearby statue so it faces the door, for example.
 
 #### Hidden Things in Adventures
 
@@ -683,7 +683,7 @@ The group must move at a Slow pace if any group member's Speed is reduced to hal
 
 ##### Extended Travel
 
-Characters can push themselves to travel for more than 8 hours per day, at the risk of tiring. At the end of each additional hour of travel beyond 8 hours, each character must succeed on a Constitution saving throw or gain 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level. The DC is 10 plus 1 for each hour past 8 hours.
+Characters can push themselves to travel for more than 8 hours per day, at the risk of tiring. At the end of each additional hour of travel beyond 8 hours, each character must succeed on a Constitution saving throw or gain 1 [Exhaustion](Conditions.md#Exhaustion) level. The DC is 10 plus 1 for each hour past 8 hours.
 
 ##### Special Movement
 
@@ -731,13 +731,13 @@ The Encounter Distance column in the "Travel Terrain" table gives the range at w
 
 #### Foraging
 
-Characters without water and [[Rations]] can stave off [[dehydration-xphb]] and [[malnutrition-xphb]] by gathering food and water as they travel. A foraging character makes a Wisdom ([Survival](Compendium/rules/skills.md#Survival)) check once per journey stage (or once per day if a stage is shorter than a day). The DC is determined by the abundance of food and water in the region, as shown in the Foraging DC column of the "Travel Terrain" table. If multiple characters forage, each character makes a separate check.
+Characters without water and [[Rations]] can stave off [[dehydration-xphb]] and [[malnutrition-xphb]] by gathering food and water as they travel. A foraging character makes a Wisdom ([Survival](Skills.md#Survival)) check once per journey stage (or once per day if a stage is shorter than a day). The DC is determined by the abundance of food and water in the region, as shown in the Foraging DC column of the "Travel Terrain" table. If multiple characters forage, each character makes a separate check.
 
 A foraging character finds nothing on a failed check. On a successful check, roll `1d6` and add the character's Wisdom modifier to determine how much food (in pounds) the character finds per day of the journey stage, then repeat the roll for water (in gallons).
 
 > [!note] Do Players Need to Track Rations?
 > 
-> You might decide that tracking [[Rations]] is unnecessary in your game. Even if the characters are in a desert, you can assume that a character with proficiency in the [Survival](Compendium/rules/skills.md#Survival) skill can find enough food and water to sustain the party. Make sure you work that into your narration of the journey so the player feels good about choosing that skill proficiency. You can also assume the characters can load their mounts with enough Rations for their journey, or they can use magic (such as the [[create-food-and-water-xphb]] spell) to sustain them.
+> You might decide that tracking [[Rations]] is unnecessary in your game. Even if the characters are in a desert, you can assume that a character with proficiency in the [Survival](Skills.md#Survival) skill can find enough food and water to sustain the party. Make sure you work that into your narration of the journey so the player feels good about choosing that skill proficiency. You can also assume the characters can load their mounts with enough Rations for their journey, or they can use magic (such as the [[create-food-and-water-xphb]] spell) to sustain them.
 > 
 > On the other hand, having players track Rations seems appropriate for a more realistic campaign. Characters in such a campaign should approach a long wilderness journey as a challenge in logistics: how many pack animals do they need to carry the food for the journey, and how do they feed the animals?
 > 
@@ -754,7 +754,7 @@ If the characters aren't following an established path or traveling with a landm
 - Traveling at night  
 - Traveling at sea while unable to see the sky or any familiar land  
 
-Let the players know when the characters are at risk of getting lost, then have the characters choose one of their number to make a Wisdom ([Survival](Compendium/rules/skills.md#Survival)) check against a DC appropriate to the terrain, as shown in the Navigation DC column of the "Travel Terrain" table. Another member of the group can take the [Help](Compendium/rules/actions.md#Help) action to assist this check as normal.
+Let the players know when the characters are at risk of getting lost, then have the characters choose one of their number to make a Wisdom ([Survival](Skills.md#Survival)) check against a DC appropriate to the terrain, as shown in the Navigation DC column of the "Travel Terrain" table. Another member of the group can take the [Help](Actions.md#Help) action to assist this check as normal.
 
 If the check fails, the party goes off course. You decide what this looks like: they might follow the wrong branch of a river, orient themselves to the wrong mountain peak on the horizon, or get turned around in the forest. As a baseline, assume that getting lost extends the length of the current journey stage by `1d6 × 10` percent. It might also affect subsequent stages of the journey.
 
@@ -766,18 +766,18 @@ In addition to the chance of a delay (adding a few hours, a day, or a couple of 
 
 - **Combat Encounter.** The characters encounter one or more Hostile creatures. For example, marching through a burning forest instead of circling around it might prompt an encounter with raging fire elementals.  
 - **Damage.** The characters take damage. For example, a character who tumbles over a waterfall might take Bludgeoning damage. See ""Improvising Damage"" in this chapter for guidelines on determining how much damage is appropriate.  
-- **Exhaustion.** The obstacle fatigues the characters, causing them to gain [Exhaustion](Compendium/rules/conditions.md#Exhaustion) levels. For example, marching through a blizzard instead of taking shelter might cause each character to gain `1d4` [Exhaustion](Compendium/rules/conditions.md#Exhaustion) levels.  
-- **Another Condition.** The obstacle imposes another condition on the characters. For example, wading through a fetid swamp rather than skirting around it might impose the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition, which lasts until removed by magic.  
+- **Exhaustion.** The obstacle fatigues the characters, causing them to gain [Exhaustion](Conditions.md#Exhaustion) levels. For example, marching through a blizzard instead of taking shelter might cause each character to gain `1d4` [Exhaustion](Conditions.md#Exhaustion) levels.  
+- **Another Condition.** The obstacle imposes another condition on the characters. For example, wading through a fetid swamp rather than skirting around it might impose the [Poisoned](Conditions.md#Poisoned) condition, which lasts until removed by magic.  
 
 #### Searches
 
 This challenge often comes up in the last stage of a journey: the characters have to find their destination, which might be an island, an old mine, an ancient ruin, a magical pool, a hag's cottage, or some other feature.
 
-The Search DC column of the "Travel Terrain" table suggests DCs for Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks made to find something in different types of terrain. You can adjust these DCs based on the specific terrain features and the nature of what the characters are trying to find, using the guidelines for setting DCs earlier in this chapter.
+The Search DC column of the "Travel Terrain" table suggests DCs for Wisdom ([Perception](Skills.md#Perception)) checks made to find something in different types of terrain. You can adjust these DCs based on the specific terrain features and the nature of what the characters are trying to find, using the guidelines for setting DCs earlier in this chapter.
 
 #### Tracking
 
-A specific instance of searching on a journey is when adventurers choose their path by following the tracks of other creatures. To track, one or more trackers must succeed on a Wisdom ([Survival](Compendium/rules/skills.md#Survival)) check. You might require trackers to make a new check in any of the following circumstances:
+A specific instance of searching on a journey is when adventurers choose their path by following the tracks of other creatures. To track, one or more trackers must succeed on a Wisdom ([Survival](Skills.md#Survival)) check. You might require trackers to make a new check in any of the following circumstances:
 
 - **Resting.** The trackers resume tracking after finishing a [[Short Rest]] or [[Long Rest]].  
 - **Shifting Weather or Terrain.** The weather or terrain changes in a way that makes tracking harder.  
@@ -880,7 +880,7 @@ Some DMs prefer to track how much damage a monster has taken, adding to that num
 
 ### Using and Tracking Conditions
 
-Many rules and features in the game apply conditions to creatures. You can also apply conditions on the fly when it makes sense to do so. For example, the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition can reflect a variety of impairments, from influenza to intoxication.
+Many rules and features in the game apply conditions to creatures. You can also apply conditions on the fly when it makes sense to do so. For example, the [Poisoned](Conditions.md#Poisoned) condition can reflect a variety of impairments, from influenza to intoxication.
 
 You can track monsters' conditions wherever you track their Hit Points. Players should track any conditions affecting their characters. Character conditions can also be marked on index cards or a whiteboard.
 
@@ -955,7 +955,7 @@ As the characters fight monsters, you can reveal information to help the players
 
 #### Loss of Hit Points
 
-You can give players a sense of how well they're doing against a creature by describing, in narrative terms, how hurt the creature is. For example, if the creature is [Bloodied](Compendium/rules/conditions.md#Bloodied), you might say the creature has visible wounds and appears beaten down. Such information gives the players a sense of progress and might spur them to press the attack. On the other hand, if the characters aren't damaging the creature much, let the players know the creature doesn't look hurt. That might encourage the players to change their plan.
+You can give players a sense of how well they're doing against a creature by describing, in narrative terms, how hurt the creature is. For example, if the creature is [Bloodied](Conditions.md#Bloodied), you might say the creature has visible wounds and appears beaten down. Such information gives the players a sense of progress and might spur them to press the attack. On the other hand, if the characters aren't damaging the creature much, let the players know the creature doesn't look hurt. That might encourage the players to change their plan.
 
 #### Abilities, Strengths, and Weaknesses
 
@@ -963,11 +963,11 @@ Share information with the players about the characteristics of creatures they f
 
 #### Actions in Combat
 
-When a monster takes an action in combat, the players need to have some idea what's going on both in the fictional reality of the game and in terms of the rules of the game. This means that when an enemy with a Crossbow takes the [Ready](Compendium/rules/actions.md#Ready) action to cover the area in front of a door, the players should have a pretty good idea that if their characters move in front of that door, the enemy will shoot them. A monster's description in the "Monster Manual" often explains what's happening in the world while the monster is using its special actions. The Describing Actions table has descriptions you can use to explain what's going on when a creature takes one of the common actions available to all creatures.
+When a monster takes an action in combat, the players need to have some idea what's going on both in the fictional reality of the game and in terms of the rules of the game. This means that when an enemy with a Crossbow takes the [Ready](Actions.md#Ready) action to cover the area in front of a door, the players should have a pretty good idea that if their characters move in front of that door, the enemy will shoot them. A monster's description in the "Monster Manual" often explains what's happening in the world while the monster is using its special actions. The Describing Actions table has descriptions you can use to explain what's going on when a creature takes one of the common actions available to all creatures.
 
 ![[actions-in-combat-describing-actions-xdmg]]
 
-You can combine those narrative descriptions with game rules: "Dispensing with attacks, your foe hurries across the room, taking the [Dash](Compendium/rules/actions.md#Dash) action."
+You can combine those narrative descriptions with game rules: "Dispensing with attacks, your foe hurries across the room, taking the [Dash](Actions.md#Dash) action."
 
 #### Monsters Casting Spells
 
@@ -983,7 +983,7 @@ Sometimes even the best-planned combat encounter can turn into a slog, where no 
 
 #### Don't Repeat Game States
 
-When characters do something to change the tactical situation, don't respond by putting things back to the way they were before. For example, if a character takes the [Disengage](Compendium/rules/actions.md#Disengage) action to move away from a group of monsters, don't respond by having those same monsters chase the character. Move the monsters somewhere else.
+When characters do something to change the tactical situation, don't respond by putting things back to the way they were before. For example, if a character takes the [Disengage](Actions.md#Disengage) action to move away from a group of monsters, don't respond by having those same monsters chase the character. Move the monsters somewhere else.
 
 #### Hasten a Monster's Demise
 
@@ -1003,7 +1003,7 @@ Consider changing a battle's terrain to introduce a new element and give combata
 
 #### Change the Monster
 
-You can transform one monster into another to keep a fight interesting. Maybe a [[worg-xmm]] splits open, and a [[gibbering-mouther-xmm]] spills out to take its place. Or a cultist is consumed in a pillar of infernal flame, and a devil erupts from the ashes. You can also alter a monster's stat block in subtle ways in the middle of combat; for example, you might decide that a monster flies into a frenzy when it's [Bloodied](Compendium/rules/conditions.md#Bloodied), giving it [[Advantage]] on its attack rolls—and giving the characters Advantage on their attack rolls against it as well, speeding the fight to an end.
+You can transform one monster into another to keep a fight interesting. Maybe a [[worg-xmm]] splits open, and a [[gibbering-mouther-xmm]] spills out to take its place. Or a cultist is consumed in a pillar of infernal flame, and a devil erupts from the ashes. You can also alter a monster's stat block in subtle ways in the middle of combat; for example, you might decide that a monster flies into a frenzy when it's [Bloodied](Conditions.md#Bloodied), giving it [[Advantage]] on its attack rolls—and giving the characters Advantage on their attack rolls against it as well, speeding the fight to an end.
 
 ### Adjusting Difficulty
 
@@ -1017,8 +1017,8 @@ If you can't decide whether a creature is willing to fight, have it make a DC 10
 
 When creatures that are already engaged in battle realize they're likely to lose, they usually try to exit that battle. A monster is likely to flee if either of the following is true:
 
-- The monster starts its turn [Bloodied](Compendium/rules/conditions.md#Bloodied) and more than half its allies are dead or have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, while no one is dead or Incapacitated on the other side.  
-- The monster starts its turn Bloodied and has the [Frightened](Compendium/rules/conditions.md#Frightened) condition.  
+- The monster starts its turn [Bloodied](Conditions.md#Bloodied) and more than half its allies are dead or have the [Incapacitated](Conditions.md#Incapacitated) condition, while no one is dead or Incapacitated on the other side.  
+- The monster starts its turn Bloodied and has the [Frightened](Conditions.md#Frightened) condition.  
 
 In those circumstances, you can decide the monster flees, or you can have it make a DC 10 Wisdom saving throw and flee or parley on a failed save. In general, if it is obvious to you that a creature is going to lose, assume it's obvious to that creature as well.
 

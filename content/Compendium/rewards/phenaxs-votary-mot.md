@@ -13,6 +13,6 @@ aliases:
 
 *Piety 10+ Phenax trait*
 
-Your words are inspired by Theros's greatest liar. You have advantage on Charisma ([Deception](Compendium/rules/skills.md#Deception)) checks.
+Your words are inspired by Theros's greatest liar. You have advantage on Charisma ([Deception](Skills.md#Deception)) checks.
 
 *Source: Mythic Odysseys of Theros p. 73*

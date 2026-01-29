@@ -13,7 +13,7 @@ aliases:
 |    |    |
 |----|----|
 | AC | Armor Class |
-| C | [Concentration](Compendium/rules/conditions.md#Concentration) |
+| C | [Concentration](Conditions.md#Concentration) |
 | CE | Chaotic Evil |
 | CG | Chaotic Good |
 | Cha. | Charisma |

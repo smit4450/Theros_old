@@ -17,5 +17,5 @@ aliases:
 | 1 | Hearing and standard vision out to 30 feet |
 | 2 | Hearing and standard vision out to 60 feet |
 | 3 | Hearing and standard vision out to 120 feet |
-| 4 | Hearing and [Darkvision](Compendium/rules/senses.md#Darkvision) out to 120 feet |
+| 4 | Hearing and [Darkvision](Senses.md#Darkvision) out to 120 feet |
 ^sentient-items-senses

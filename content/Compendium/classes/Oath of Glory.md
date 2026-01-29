@@ -79,7 +79,7 @@ Immediately after you cast [[divine-smite-xphb]], you can expend one use of your
 
 ### Peerless Athlete (Level 3)
 
-As a [[Bonus Action]], you can expend one use of your Channel Divinity to augment your athleticism. For 1 hour, you have [[Advantage]] on Strength ([Athletics](Compendium/rules/skills.md#Athletics)) and Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) checks, and the distance of your Long and High Jumps increases by 10 feet (this extra distance costs movement as normal).
+As a [[Bonus Action]], you can expend one use of your Channel Divinity to augment your athleticism. For 1 hour, you have [[Advantage]] on Strength ([Athletics](Skills.md#Athletics)) and Dexterity ([Acrobatics](Skills.md#Acrobatics)) checks, and the distance of your Long and High Jumps increases by 10 feet (this extra distance costs movement as normal).
 
 ### Aura of Alacrity (Level 7)
 

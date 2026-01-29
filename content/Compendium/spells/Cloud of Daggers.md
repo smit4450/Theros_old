@@ -33,7 +33,7 @@ aliases: ["Cloud of Daggers"]
 
 You conjure spinning daggers in a 5-foot [[Cube (Area of Effect)]] centered on a point within range. Each creature in that area takes `4d4` Slashing damage. A creature also takes this damage if it enters the [[Cube (Area of Effect)]] or ends its turn there or if the [[Cube (Area of Effect)]] moves into its space. A creature takes this damage only once per turn.
 
-On your later turns, you can take a [Magic](Compendium/rules/actions.md#Magic) action to teleport the [[Cube (Area of Effect)]] up to 30 feet.
+On your later turns, you can take a [Magic](Actions.md#Magic) action to teleport the [[Cube (Area of Effect)]] up to 30 feet.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `2d4` for each spell slot level above 2.
 

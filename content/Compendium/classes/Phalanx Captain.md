@@ -68,7 +68,7 @@ You learn one language from the language tables in the Player's Handbook or chap
 
 #### Well Spoken
 
-You gain proficiency in one of the following skills of your choice: [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Persuasion](Compendium/rules/skills.md#Persuasion), or [Performance](Compendium/rules/skills.md#Performance).
+You gain proficiency in one of the following skills of your choice: [Insight](Skills.md#Insight), [Intimidation](Skills.md#Intimidation), [Persuasion](Skills.md#Persuasion), or [Performance](Skills.md#Performance).
 
 ### Group Recovery (Level 3)
 

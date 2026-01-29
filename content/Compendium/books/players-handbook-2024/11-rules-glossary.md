@@ -15,7 +15,7 @@ aliases:
 The glossary uses the following conventions:
 
 - **Tags in Brackets.** Some entries have a tag in brackets after the entry's name, as in "Attack [Action]." A tag—Action, Area of Effect, Attitude, Condition, or Hazard—indicates that a rule is part of a family of rules. The tags also have glossary entries.  
-- **"You.** " The game's rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That "you" refers to the creature or object that the rule applies to in a particular moment of play. For example, the "you" in the [Prone](Compendium/rules/conditions.md#Prone) condition is a creature that currently has that condition.  
+- **"You.** " The game's rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That "you" refers to the creature or object that the rule applies to in a particular moment of play. For example, the "you" in the [Prone](Conditions.md#Prone) condition is a creature that currently has that condition.  
 - **"See Also.** " Some glossary entries include a See also section that points to other entries in the glossary, to chapters in this book, or both.  
 - **No Obsolete Terms.** The glossary contains definitions of current rules terms only. If you're looking for a term from an earlier version of the fifth edition rules, consult the index.  
 - **Abbreviations.** The abbreviations listed below appear in this glossary and elsewhere in the rules.  
@@ -59,7 +59,7 @@ Here are definitions of various rules.
 > ![[Armor Training]]
 
 > [!embed-action]- Attack
-> ![Attack](Compendium/rules/actions.md#Attack)
+> ![Attack](Actions.md#Attack)
 
 > [!embed-variantrule]- Attack Roll
 > ![[Attack Roll]]
@@ -71,13 +71,13 @@ Here are definitions of various rules.
 > ![[Attunement]]
 
 > [!embed-condition]- Blinded
-> ![Blinded](Compendium/rules/conditions.md#Blinded)
+> ![Blinded](Conditions.md#Blinded)
 
 > [!embed-sense]- Blindsight
-> ![Blindsight](Compendium/rules/senses.md#Blindsight)
+> ![Blindsight](Senses.md#Blindsight)
 
 > [!embed-status]- Bloodied
-> ![Bloodied](Compendium/rules/conditions.md#Bloodied)
+> ![Bloodied](Conditions.md#Bloodied)
 
 > [!embed-variantrule]- Bonus Action
 > ![[Bonus Action]]
@@ -110,7 +110,7 @@ Here are definitions of various rules.
 > ![[Character Sheet]]
 
 > [!embed-condition]- Charmed
-> ![Charmed](Compendium/rules/conditions.md#Charmed)
+> ![Charmed](Conditions.md#Charmed)
 
 > [!embed-variantrule]- Climbing
 > ![[Climbing]]
@@ -119,7 +119,7 @@ Here are definitions of various rules.
 > ![[Climb Speed]]
 
 > [!embed-status]- Concentration
-> ![Concentration](Compendium/rules/conditions.md#Concentration)
+> ![Concentration](Conditions.md#Concentration)
 
 > [!embed-variantrule]- Condition
 > ![[Condition]]
@@ -170,16 +170,16 @@ Here are definitions of various rules.
 > ![[darkness-xphb]]
 
 > [!embed-sense]- Darkvision
-> ![Darkvision](Compendium/rules/senses.md#Darkvision)
+> ![Darkvision](Senses.md#Darkvision)
 
 > [!embed-action]- Dash
-> ![Dash](Compendium/rules/actions.md#Dash)
+> ![Dash](Actions.md#Dash)
 
 > [!embed-variantrule]- Dead
 > ![[Dead]]
 
 > [!embed-condition]- Deafened
-> ![Deafened](Compendium/rules/conditions.md#Deafened)
+> ![Deafened](Conditions.md#Deafened)
 
 > [!embed-variantrule]- Death Saving Throw
 > ![[Death Saving Throw]]
@@ -200,10 +200,10 @@ Here are definitions of various rules.
 > ![[Disadvantage]]
 
 > [!embed-action]- Disengage
-> ![Disengage](Compendium/rules/actions.md#Disengage)
+> ![Disengage](Actions.md#Disengage)
 
 > [!embed-action]- Dodge
-> ![Dodge](Compendium/rules/actions.md#Dodge)
+> ![Dodge](Actions.md#Dodge)
 
 > [!embed-variantrule]- Emanation [Area of Effect]
 > ![[Emanation (Area of Effect)]]
@@ -215,7 +215,7 @@ Here are definitions of various rules.
 > ![[Enemy]]
 
 > [!embed-condition]- Exhaustion
-> ![Exhaustion](Compendium/rules/conditions.md#Exhaustion)
+> ![Exhaustion](Conditions.md#Exhaustion)
 
 > [!embed-variantrule]- Experience Points
 > ![[Experience Points]]
@@ -236,10 +236,10 @@ Here are definitions of various rules.
 > ![[Friendly (Attitude)]]
 
 > [!embed-condition]- Frightened
-> ![Frightened](Compendium/rules/conditions.md#Frightened)
+> ![Frightened](Conditions.md#Frightened)
 
 > [!embed-condition]- Grappled
-> ![Grappled](Compendium/rules/conditions.md#Grappled)
+> ![Grappled](Conditions.md#Grappled)
 
 > [!embed-variantrule]- Grappling
 > ![[Grappling]]
@@ -254,13 +254,13 @@ Here are definitions of various rules.
 > ![[Heavily Obscured]]
 
 > [!embed-action]- Help
-> ![Help](Compendium/rules/actions.md#Help)
+> ![Help](Actions.md#Help)
 
 > [!embed-variantrule]- Heroic Inspiration
 > ![[Heroic Inspiration]]
 
 > [!embed-action]- Hide
-> ![Hide](Compendium/rules/actions.md#Hide)
+> ![Hide](Actions.md#Hide)
 
 > [!embed-variantrule]- High Jump
 > ![[High Jump]]
@@ -287,19 +287,19 @@ Here are definitions of various rules.
 > ![[Improvised Weapons]]
 
 > [!embed-condition]- Incapacitated
-> ![Incapacitated](Compendium/rules/conditions.md#Incapacitated)
+> ![Incapacitated](Conditions.md#Incapacitated)
 
 > [!embed-variantrule]- Indifferent [Attitude]
 > ![[Indifferent (Attitude)]]
 
 > [!embed-action]- Influence
-> ![Influence](Compendium/rules/actions.md#Influence)
+> ![Influence](Actions.md#Influence)
 
 > [!embed-variantrule]- Initiative
 > ![[Initiative]]
 
 > [!embed-condition]- Invisible
-> ![Invisible](Compendium/rules/conditions.md#Invisible)
+> ![Invisible](Conditions.md#Invisible)
 
 > [!embed-variantrule]- Jumping
 > ![[Jumping]]
@@ -320,7 +320,7 @@ Here are definitions of various rules.
 > ![[Long Rest]]
 
 > [!embed-action]- Magic
-> ![Magic](Compendium/rules/actions.md#Magic)
+> ![Magic](Actions.md#Magic)
 
 > [!embed-variantrule]- Magical Effect
 > ![[Magical Effect]]
@@ -344,7 +344,7 @@ Here are definitions of various rules.
 > ![Opportunity Attack](Compendium/rules/actions.md#Opportunity Attack)
 
 > [!embed-condition]- Paralyzed
-> ![Paralyzed](Compendium/rules/conditions.md#Paralyzed)
+> ![Paralyzed](Conditions.md#Paralyzed)
 
 > [!embed-variantrule]- Passive Perception
 > ![[Passive Perception]]
@@ -353,13 +353,13 @@ Here are definitions of various rules.
 > ![[Per Day]]
 
 > [!embed-condition]- Petrified
-> ![Petrified](Compendium/rules/conditions.md#Petrified)
+> ![Petrified](Conditions.md#Petrified)
 
 > [!embed-variantrule]- Player Character
 > ![[Player Character]]
 
 > [!embed-condition]- Poisoned
-> ![Poisoned](Compendium/rules/conditions.md#Poisoned)
+> ![Poisoned](Conditions.md#Poisoned)
 
 > [!embed-variantrule]- Possession
 > ![[Possession]]
@@ -368,19 +368,19 @@ Here are definitions of various rules.
 > ![[Proficiency]]
 
 > [!embed-condition]- Prone
-> ![Prone](Compendium/rules/conditions.md#Prone)
+> ![Prone](Conditions.md#Prone)
 
 > [!embed-variantrule]- Reaction
 > ![[Reaction]]
 
 > [!embed-action]- Ready
-> ![Ready](Compendium/rules/actions.md#Ready)
+> ![Ready](Actions.md#Ready)
 
 > [!embed-variantrule]- Resistance
 > ![[resistance-xphb]]
 
 > [!embed-condition]- Restrained
-> ![Restrained](Compendium/rules/conditions.md#Restrained)
+> ![Restrained](Conditions.md#Restrained)
 
 > [!embed-variantrule]- Ritual
 > ![[Ritual]]
@@ -395,7 +395,7 @@ Here are definitions of various rules.
 > ![[Saving Throw]]
 
 > [!embed-action]- Search
-> ![Search](Compendium/rules/actions.md#Search)
+> ![Search](Actions.md#Search)
 
 > [!embed-variantrule]- Shape-Shifting
 > ![[Shape-Shifting]]
@@ -434,16 +434,16 @@ Here are definitions of various rules.
 > ![[Stat Block]]
 
 > [!embed-action]- Study
-> ![Study](Compendium/rules/actions.md#Study)
+> ![Study](Actions.md#Study)
 
 > [!embed-condition]- Stunned
-> ![Stunned](Compendium/rules/conditions.md#Stunned)
+> ![Stunned](Conditions.md#Stunned)
 
 > [!embed-hazard]- Suffocation
 > ![[suffocation-xphb]]
 
 > [!embed-status]- Surprised
-> ![Surprised](Compendium/rules/conditions.md#Surprised)
+> ![Surprised](Conditions.md#Surprised)
 
 > [!embed-variantrule]- Swimming
 > ![[Swimming]]
@@ -464,22 +464,22 @@ Here are definitions of various rules.
 > ![[Temporary Hit Points]]
 
 > [!embed-sense]- Tremorsense
-> ![Tremorsense](Compendium/rules/senses.md#Tremorsense)
+> ![Tremorsense](Senses.md#Tremorsense)
 
 > [!embed-sense]- Truesight
-> ![Truesight](Compendium/rules/senses.md#Truesight)
+> ![Truesight](Senses.md#Truesight)
 
 > [!embed-variantrule]- Unarmed Strike
 > ![[Unarmed Strike]]
 
 > [!embed-condition]- Unconscious
-> ![Unconscious](Compendium/rules/conditions.md#Unconscious)
+> ![Unconscious](Conditions.md#Unconscious)
 
 > [!embed-variantrule]- Unoccupied Space
 > ![[Unoccupied Space]]
 
 > [!embed-action]- Utilize
-> ![Utilize](Compendium/rules/actions.md#Utilize)
+> ![Utilize](Actions.md#Utilize)
 
 > [!embed-variantrule]- Vulnerability
 > ![[Vulnerability]]

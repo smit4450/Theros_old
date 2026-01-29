@@ -159,7 +159,7 @@ A magic weapon is typically a magical version of a weapon from the "Player's Han
 
 ##### Ammunition
 
-If a magic weapon has the [Ammunition](Compendium/rules/item-properties.md#Ammunition) property, ammunition fired from it is considered magical for the purpose of any rule that cares whether a weapon is magical or not.
+If a magic weapon has the [Ammunition](Item%20Properties.md#Ammunition) property, ammunition fired from it is considered magical for the purpose of any rule that cares whether a weapon is magical or not.
 
 #### Wondrous Items
 
@@ -271,7 +271,7 @@ The "Player's Handbook" contains rules on "brewing Potions of Healing" and "scri
 
 #### Arcana Proficiency
 
-To craft a magic item, you and any assistants must have proficiency in the [Arcana](Compendium/rules/skills.md#Arcana) skill.
+To craft a magic item, you and any assistants must have proficiency in the [Arcana](Skills.md#Arcana) skill.
 
 #### Tools
 
@@ -398,7 +398,7 @@ If its bearer refuses to comply with the item's demands, the item can do any of 
 
 - Make it impossible for its bearer to attune to it.  
 - Suppress one or more of its activated properties.  
-- Attempt to take control of its bearer, whereupon the bearer makes a Charisma saving throw (DC 12 plus the item's Charisma modifier). On a failed save, the bearer has the [Charmed](Compendium/rules/conditions.md#Charmed) condition for `1d12` hours. While Charmed in this way, the bearer must try to follow the item's commands. If the bearer takes damage, it repeats the save, ending the effect on a success. Whether or not the attempt to control its bearer succeeds, the item can't use this power again until the next dawn.  
+- Attempt to take control of its bearer, whereupon the bearer makes a Charisma saving throw (DC 12 plus the item's Charisma modifier). On a failed save, the bearer has the [Charmed](Conditions.md#Charmed) condition for `1d12` hours. While Charmed in this way, the bearer must try to follow the item's commands. If the bearer takes damage, it repeats the save, ending the effect on a success. Whether or not the attempt to control its bearer succeeds, the item can't use this power again until the next dawn.  
 
 ## Magic Items A-Z
 

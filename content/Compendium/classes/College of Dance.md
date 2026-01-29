@@ -58,7 +58,7 @@ While you aren't wearing armor or wielding a [[Shield]], you gain the following 
 
 ### Dance Virtuoso (Level 3)
 
-You have [[Advantage]] on any Charisma ([Performance](Compendium/rules/skills.md#Performance)) check you make that involves you dancing.
+You have [[Advantage]] on any Charisma ([Performance](Skills.md#Performance)) check you make that involves you dancing.
 
 ### Unarmored Defense (Level 3)
 
@@ -80,10 +80,10 @@ None of this feature's movement provokes [Opportunity Attacks](Compendium/rules/
 
 ### Tandem Footwork (Level 6)
 
-When you roll [[Initiative]], you can expend one use of your Bardic Inspiration if you don't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 feet of you who can see or hear you gains a bonus to [[Initiative]] equal to the number rolled.
+When you roll [[Initiative]], you can expend one use of your Bardic Inspiration if you don't have the [Incapacitated](Conditions.md#Incapacitated) condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 feet of you who can see or hear you gains a bonus to [[Initiative]] equal to the number rolled.
 
 ### Leading Evasion (Level 14)
 
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. If any creatures within 5 feet of you are making the same Dexterity saving throw, you can share this benefit with them for that save.
 
-You can't use this feature if you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+You can't use this feature if you have the [Incapacitated](Conditions.md#Incapacitated) condition.

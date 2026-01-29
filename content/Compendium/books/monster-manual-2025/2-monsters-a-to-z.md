@@ -937,7 +937,7 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
 
 Basilisks are ponderous predators with eight clawed legs, crystalline spines, and mighty jaws. Rather than chasing prey, they use their supernatural gaze to turn creatures to stone and then consume these victims at their leisure. While basilisks are most comfortable in subterranean lairs, many are captured and kept by unscrupulous folk seeking guardians for their treasures.
 
-The remains of [Petrified](Compendium/rules/conditions.md#Petrified) creatures litter the area where a basilisk hunts. These might be mundane creatures or more unusual beings that had dire encounters with a basilisk. Roll on or choose a result from the [Petrified](Compendium/rules/conditions.md#Petrified) Basilisk Victims table to inspire the statues that might appear in a basilisk's hunting grounds. There is a 50 percent chance that any of these statues are missing limbs or broken into pieces.
+The remains of [Petrified](Conditions.md#Petrified) creatures litter the area where a basilisk hunts. These might be mundane creatures or more unusual beings that had dire encounters with a basilisk. Roll on or choose a result from the [Petrified](Conditions.md#Petrified) Basilisk Victims table to inspire the statues that might appear in a basilisk's hunting grounds. There is a 50 percent chance that any of these statues are missing limbs or broken into pieces.
 
 > [!quote] A quote from X the Mystic's  
 > 
@@ -1017,7 +1017,7 @@ Beholders possess utterly alien minds. Most exhibit paranoid, narcissistic, and 
 
 Few creatures loathe beholders more than other beholders. Every beholder views itself as the physical and intellectual pinnacle of its species. To them, all other beholders are aberrant rivals to be dominated or destroyed. Conflicts between beholders can last for decades and lay waste to vast subterranean realms.
 
-Beholders are a particular threat to adventurers because both gravitate toward mysterious ruins and sites of great magic. Many beholders collect the magic items and [petrified](Compendium/rules/conditions.md#Petrified) bodies of heroes they've defeated, displaying them as trophies.
+Beholders are a particular threat to adventurers because both gravitate toward mysterious ruins and sites of great magic. Many beholders collect the magic items and [petrified](Conditions.md#Petrified) bodies of heroes they've defeated, displaying them as trophies.
 
 **Beholder Lairs.** Beholders lurk in cavern complexes they've carved using their eye rays deep in the Underdark or in lairs created for them by their servants.
 
@@ -1435,7 +1435,7 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
 
 Ravenous corpse eaters, carrion crawlers gravitate toward places of slaughter and decay. In such charnel environs, they feast on the dead with no qualms about their meals' origins or freshness.
 
-Carrion crawlers have segmented bodies like gigantic cutworms. From beneath their multipart maws protrude eight thin, lashing tentacles. Creatures struck by these tentacles risk being [paralyzed](Compendium/rules/conditions.md#Paralyzed) and consumed.
+Carrion crawlers have segmented bodies like gigantic cutworms. From beneath their multipart maws protrude eight thin, lashing tentacles. Creatures struck by these tentacles risk being [paralyzed](Conditions.md#Paralyzed) and consumed.
 
 Carrion crawlers scour sewers, battlefields, necropolises, and fetid wildernesses for corpses, clinging to ceilings to ambush smaller prey and to avoid competing hunters. They're drawn to light and the scent of blood, recognizing them as signs of food.
 
@@ -1934,7 +1934,7 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
 
 Death dogs are plagues on the arid lands they inhabit. These vicious, two-headed canines ambush creatures they perceive as weaker than themselves, favoring the wounded or infirm. They attack recklessly, infecting as many creatures as possible with their diseased jaws. If driven off, death dogs linger close to their victims, letting infection weaken their prey before they attack again.
 
-Legends tie death dogs to malicious death gods, the underworld, and cursed rulers. These stories are based on the malady death dogs spread. Roll on or choose a result from the Death Dog Malady Symptoms table to inspire symptoms spread by a death dog's bite. These symptoms are cosmetic and don't alter the effects of the death dog's Bite action. The symptoms vanish when a creature no longer has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition from a death dog's Bite.
+Legends tie death dogs to malicious death gods, the underworld, and cursed rulers. These stories are based on the malady death dogs spread. Roll on or choose a result from the Death Dog Malady Symptoms table to inspire symptoms spread by a death dog's bite. These symptoms are cosmetic and don't alter the effects of the death dog's Bite action. The symptoms vanish when a creature no longer has the [Poisoned](Conditions.md#Poisoned) condition from a death dog's Bite.
 
 > [!quote] A quote from Tablet Fragment  
 > 
@@ -2237,7 +2237,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 | 1 | An acres-large clonal colony—a stand of identical, interconnected trees. |
 | 2 | A fortress-like tree, like a baobab or sequoia. |
 | 3 | A living lock—a plant that seals evil below or blocks the path to a dungeon. |
-| 4 | A lonely tree that stands atop a windswept mountain or amid a [petrified](Compendium/rules/conditions.md#Petrified) forest. |
+| 4 | A lonely tree that stands atop a windswept mountain or amid a [petrified](Conditions.md#Petrified) forest. |
 | 5 | A plant with magic fruit or remarkable seeds. |
 | 6 | A shambling mound or treant that the dryad lives in or around as a Fey symbiote. |
 ^dryad-sanctuaries
@@ -2754,7 +2754,7 @@ Gargoyles have a variety of appearances. Roll on or choose a result from the Gar
 | 1 | Burls and bark on a giant tree. |
 | 2 | Monuments in a graveyard or memorial. |
 | 3 | Outcroppings on a cliff or rock formation |
-| 4 | The [petrified](Compendium/rules/conditions.md#Petrified) victims of a basilisk or medusa. |
+| 4 | The [petrified](Conditions.md#Petrified) victims of a basilisk or medusa. |
 | 5 | Reliefs on a sculpted gate or wall. |
 | 6 | Rubble in a ruin or junkyard. |
 | 7 | Stalactites or icicles on a cavern ceiling. |
@@ -3098,7 +3098,7 @@ Gorgons are created by magic-users to serve as guardians. The process for creati
 
 When magic-users create gorgons, they often enchant them to ignore those who confront the creature with a specific command key, usually a password or a specific signal. Once a gorgon is set to guard an area, it attacks any who enter until they flee or are destroyed. Should someone provide the command key, the monster ignores that intruder so long as the intruder remains in its sight. But if the intruder ventures out of sight and then returns without again presenting the command key, the gorgon attacks. Those in a gorgon's territory must remain vigilant and aware of the monster's exact position, or they risk being attacked by a gorgon they thought was no longer a threat.
 
-Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [petrified](Compendium/rules/conditions.md#Petrified) trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
+Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [petrified](Conditions.md#Petrified) trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
 
 **Gorgon Command Keys**
 
@@ -3777,9 +3777,9 @@ Intellect devourers serve their mind flayer creators by consuming other creature
 - **Habitat.** Urban  
 - **Treasure.** None  
 
-Magic and malice give form to invisible stalkers, bodiless spirits of the air. These elusive beings pass unseen with nothing more than a stirring of air. They control powerful winds capable of moving objects and battering foes. Magic-users conjure these creatures to serve as killers and thieves. [Invisible](Compendium/rules/conditions.md#Invisible) stalkers relentlessly pursue their quarry, and they rarely leave evidence of their crimes.
+Magic and malice give form to invisible stalkers, bodiless spirits of the air. These elusive beings pass unseen with nothing more than a stirring of air. They control powerful winds capable of moving objects and battering foes. Magic-users conjure these creatures to serve as killers and thieves. [Invisible](Conditions.md#Invisible) stalkers relentlessly pursue their quarry, and they rarely leave evidence of their crimes.
 
-In rare cases, an invisible stalker lingers in the world without a spellcaster controlling it. Roll on or choose a result from the Uncontrolled [Invisible](Compendium/rules/conditions.md#Invisible) Stalkers table to inspire why one of these monsters lurks in an area without a direct command.
+In rare cases, an invisible stalker lingers in the world without a spellcaster controlling it. Roll on or choose a result from the Uncontrolled [Invisible](Conditions.md#Invisible) Stalkers table to inspire why one of these monsters lurks in an area without a direct command.
 
 **Uncontrolled Invisible Stalkers**
 
@@ -4282,7 +4282,7 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
 - **Habitat.** Desert  
 - **Treasure.** Any  
 
-With their hair of living snakes and their infamous petrifying gazes, medusas are hubristic creatures that inhabit sites of fallen glory. They often dwell beyond the fringes of civilization or travel in disguise, leaving trails of [petrified](Compendium/rules/conditions.md#Petrified) victims. Some medusas dominate groups of monsters or criminals, controlling them with threats of [petrified](Compendium/rules/conditions.md#Petrified) doom, while others recruit servants that are immune to being [petrified](Compendium/rules/conditions.md#Petrified), such as gargoyles and gorgons.
+With their hair of living snakes and their infamous petrifying gazes, medusas are hubristic creatures that inhabit sites of fallen glory. They often dwell beyond the fringes of civilization or travel in disguise, leaving trails of [petrified](Conditions.md#Petrified) victims. Some medusas dominate groups of monsters or criminals, controlling them with threats of [petrified](Conditions.md#Petrified) doom, while others recruit servants that are immune to being [petrified](Conditions.md#Petrified), such as gargoyles and gorgons.
 
 Medusas are born or created through preternatural circumstances. Roll on or choose a result from the Medusa Fates table to inspire what led to a medusa's creation.
 
@@ -5364,7 +5364,7 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 - **Habitat.** Planar (Abyss)  
 - **Treasure.** None  
 
-Tirelessly destructive, quasits sow discord through nasty pranks, sabotage, and ambushes. These tiny demons use chaos and violence to terrorize others. By shape-shifting into harmless but ill-omened creatures or by turning [invisible](Compendium/rules/conditions.md#Invisible), quasits sneak into places where they spy for villainous masters or set vicious traps. Quasits delight in hiding in dark places and—when least expected—bursting forth to slash foes with their [poisoned](Compendium/rules/conditions.md#Poisoned) claws.
+Tirelessly destructive, quasits sow discord through nasty pranks, sabotage, and ambushes. These tiny demons use chaos and violence to terrorize others. By shape-shifting into harmless but ill-omened creatures or by turning [invisible](Conditions.md#Invisible), quasits sneak into places where they spy for villainous masters or set vicious traps. Quasits delight in hiding in dark places and—when least expected—bursting forth to slash foes with their [poisoned](Conditions.md#Poisoned) claws.
 
 Quasits are usually overlooked and underestimated by other demons. This drives them to prove themselves through cruel acts or by seeking paths to the Material Plane. Among mortals, quasits sow senseless chaos, and they might find kindred evil spirits among violent cultists and magic-users.
 
@@ -5670,7 +5670,7 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
 - **Habitat.** Coastal, Underwater  
 - **Treasure.** [[random-magic-items-arcana]]  
 
-Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos and undermine joy however they can, undertaking elaborate deceptions to sow discord for its own sake. The hags' true forms are supernaturally vile, and their baleful gazes can strike down creatures [frightened](Compendium/rules/conditions.md#Frightened) by their appearance.
+Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos and undermine joy however they can, undertaking elaborate deceptions to sow discord for its own sake. The hags' true forms are supernaturally vile, and their baleful gazes can strike down creatures [frightened](Conditions.md#Frightened) by their appearance.
 
 Sea hags cloak themselves in illusions to work their schemes. Roll on or choose a result from the Sea Hag Disguises table to inspire a sea hag's illusion and how they might use it to wreak chaos and destruction.
 
@@ -5897,9 +5897,9 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 > [!note] Slaad Control Gems
 > 
-> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [Charmed](Compendium/rules/conditions.md#Charmed) condition and obeys the gem's bearer. The slaad ceases to be [Charmed](Compendium/rules/conditions.md#Charmed) if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater-restoration-xphb]] spell cast on a slaad destroys the gem, and the slaad ceases to be [Charmed](Compendium/rules/conditions.md#Charmed).
+> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [Charmed](Conditions.md#Charmed) condition and obeys the gem's bearer. The slaad ceases to be [Charmed](Conditions.md#Charmed) if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater-restoration-xphb]] spell cast on a slaad destroys the gem, and the slaad ceases to be [Charmed](Conditions.md#Charmed).
 > 
-> One can obtain a slaad's control gem using a [[wish-xphb]] or [[imprisonment-xphb]] spell. If the slaad fails its saving throw against [[imprisonment-xphb]], the caster gains the gem, and the slaad isn't imprisoned. An [Incapacitated](Compendium/rules/conditions.md#Incapacitated) slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([Medicine](Compendium/rules/skills.md#Medicine)) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
+> One can obtain a slaad's control gem using a [[wish-xphb]] or [[imprisonment-xphb]] spell. If the slaad fails its saving throw against [[imprisonment-xphb]], the caster gains the gem, and the slaad isn't imprisoned. An [Incapacitated](Conditions.md#Incapacitated) slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([Medicine](Skills.md#Medicine)) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
 ^slaad-control-gems
 
 > [!quote] A quote from Jebeel Sloom  
@@ -6126,7 +6126,7 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 
 Sprites dwell in mystical forests touched by the magic of the Feywild, living peacefully with most other Fey and friends of nature. These foot-tall spirits of nature resemble elves with exaggerated, whimsical features and gossamer wings.
 
-Sprites can sense the innate goodness or wickedness of other creatures. Those that enter their realms with good intentions might be treated to tiny feasts and celebrations. The wicked face nasty tricks and bold ambushes at the hands of [invisible](Compendium/rules/conditions.md#Invisible) sprite defenders. These woodland guardians enchant the arrows of their tiny bows with charming magic that can pierce the heart of the fiercest foe.
+Sprites can sense the innate goodness or wickedness of other creatures. Those that enter their realms with good intentions might be treated to tiny feasts and celebrations. The wicked face nasty tricks and bold ambushes at the hands of [invisible](Conditions.md#Invisible) sprite defenders. These woodland guardians enchant the arrows of their tiny bows with charming magic that can pierce the heart of the fiercest foe.
 
 Sprites oppose any creatures that seek to harm places of natural magic and beauty. This can put them into conflict with would-be settlers, monsters like ettercaps, and despoilers such as goblinoids and hags. They frequently aid other good creatures of the forest, including treants and unicorns, in defending their homes.
 

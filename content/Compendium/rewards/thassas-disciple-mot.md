@@ -13,6 +13,6 @@ aliases:
 
 *Piety 25+ Thassa trait*
 
-You are inspired by the tempestuous, uncontrollable nature of the sea; you have advantage on saving throws against being [charmed](Compendium/rules/conditions.md#Charmed) or [restrained](Compendium/rules/conditions.md#Restrained).
+You are inspired by the tempestuous, uncontrollable nature of the sea; you have advantage on saving throws against being [charmed](Conditions.md#Charmed) or [restrained](Conditions.md#Restrained).
 
 *Source: Mythic Odysseys of Theros p. 79*

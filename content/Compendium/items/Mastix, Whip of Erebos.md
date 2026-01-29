@@ -15,7 +15,7 @@ aliases:
 ![](Compendium/items/img/mastix-whip-of-erebos.webp#right)
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Reach](Compendium/rules/item-properties.md#Reach)
+- **Properties**: [Finesse](Item%20Properties.md#Finesse), [Reach](Item%20Properties.md#Reach)
 - **Weight**: 3.0 lbs.
 
 Erebos wields Mastix, a whip capable of extending like an impossibly long shadow. In the hands of the god of the dead, the whip snares the reluctant dead and drags them into his realm. When Erebos grants his weapon to a mortal follower, it's typically to reclaim a powerful soul or to humiliate Heliod.

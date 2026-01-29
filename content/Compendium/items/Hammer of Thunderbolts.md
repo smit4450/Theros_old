@@ -20,9 +20,9 @@ aliases:
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
 
-The weapon has 5 charges. You can expend 1 charge and make a ranged attack with the weapon, hurling it as if it had [Thrown](Compendium/rules/item-properties.md#Thrown) with a normal range of 20 feet and a long range of 60 feet.
+The weapon has 5 charges. You can expend 1 charge and make a ranged attack with the weapon, hurling it as if it had [Thrown](Item%20Properties.md#Thrown) with a normal range of 20 feet and a long range of 60 feet.
 
-If the attack hits, the weapon unleashes a thunderclap audible out to 300 feet. The target and every creature within 30 feet of it other than you must succeed on a DC 17 Constitution saving throw or have the [Stunned](Compendium/rules/conditions.md#Stunned) condition until the end of your next turn. Immediately after hitting or missing, the weapon flies back to your hand. The weapon regains `1d4 + 1` expended charges daily at dawn.
+If the attack hits, the weapon unleashes a thunderclap audible out to 300 feet. The target and every creature within 30 feet of it other than you must succeed on a DC 17 Constitution saving throw or have the [Stunned](Conditions.md#Stunned) condition until the end of your next turn. Immediately after hitting or missing, the weapon flies back to your hand. The weapon regains `1d4 + 1` expended charges daily at dawn.
 
 ## Giant's Bane
 
@@ -38,7 +38,7 @@ While you are attuned to the weapon and wearing either a [[Belt of Giant Strengt
 ### Maul of Thunderbolts
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Item%20Properties.md#Heavy), [Two-Handed](Item%20Properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Warhammer of Thunderbolts
@@ -46,7 +46,7 @@ While you are attuned to the weapon and wearing either a [[Belt of Giant Strengt
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 5.0 lbs.
 
 

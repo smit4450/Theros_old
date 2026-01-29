@@ -17,7 +17,7 @@ aliases:
 The Ring of Elemental Command (earth) is linked to the Elemental Plane of Earth. Every Ring of Elemental Command has the following two properties:
 
 - **Elemental Bane.** While wearing the ring, you have [[Advantage]] on attack rolls against Elementals and they have [[Disadvantage]] on attack rolls against you.  
-- **Elemental Compulsion.** While wearing the ring, you can take a [Magic](Compendium/rules/actions.md#Magic) action to try to compel an Elemental you see within 60 feet of yourself. The Elemental makes a DC 18 Wisdom saving throw. On a failed save, the Elemental has the [Charmed](Compendium/rules/conditions.md#Charmed) condition until the start your next turn, and you determine what it does with its move and action on its next turn.  
+- **Elemental Compulsion.** While wearing the ring, you can take a [Magic](Actions.md#Magic) action to try to compel an Elemental you see within 60 feet of yourself. The Elemental makes a DC 18 Wisdom saving throw. On a failed save, the Elemental has the [Charmed](Conditions.md#Charmed) condition until the start your next turn, and you determine what it does with its move and action on its next turn.  
 
 ## Elemental Focus
 

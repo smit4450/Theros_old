@@ -16,7 +16,7 @@ aliases:
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Item%20Properties.md#Ammunition), [Two-Handed](Item%20Properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 Nylea wields the shortbow Ephixis, the bow whose arrows herald the turning of the seasons. Nylea is quick to let her favored followers borrow her bow, particularly when they intend to use it to perform great deeds, put an end to foul creatures, or cast down the arrogant.

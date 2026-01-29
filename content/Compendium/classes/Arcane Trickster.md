@@ -88,11 +88,11 @@ You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Wizard spel
 
 ### Mage Hand Legerdemain (Level 3)
 
-When you cast [[mage-hand-xphb]], you can cast it as a [[Bonus Action]], and you can make the spectral hand [Invisible](Compendium/rules/conditions.md#Invisible). You can control the hand as a [[Bonus Action]], and through it, you can make Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) checks.
+When you cast [[mage-hand-xphb]], you can cast it as a [[Bonus Action]], and you can make the spectral hand [Invisible](Conditions.md#Invisible). You can control the hand as a [[Bonus Action]], and through it, you can make Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) checks.
 
 ### Magical Ambush (Level 9)
 
-If you have the [Invisible](Compendium/rules/conditions.md#Invisible) condition when you cast a spell on a creature, it has [[Disadvantage]] on any saving throw it makes against the spell on the same turn.
+If you have the [Invisible](Conditions.md#Invisible) condition when you cast a spell on a creature, it has [[Disadvantage]] on any saving throw it makes against the spell on the same turn.
 
 ### Versatile Trickster (Level 13)
 

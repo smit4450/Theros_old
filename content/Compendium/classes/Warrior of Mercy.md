@@ -58,11 +58,11 @@ Once per turn when you hit a creature with an [[Unarmed Strike]] and deal damage
 
 ### Hand of Healing (Level 3)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend 1 Focus Point to touch a creature and restore a number of [[Hit Points]] equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use your Flurry of Blows, you can replace one of the Unarmed Strikes with a use of this feature without expending a Focus Point for the healing.
+As a [Magic](Actions.md#Magic) action, you can expend 1 Focus Point to touch a creature and restore a number of [[Hit Points]] equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use your Flurry of Blows, you can replace one of the Unarmed Strikes with a use of this feature without expending a Focus Point for the healing.
 
 ### Implements of Mercy (Level 3)
 
-You gain proficiency in the [Insight](Compendium/rules/skills.md#Insight) and [Medicine](Compendium/rules/skills.md#Medicine) skills and proficiency with the [[Herbalism Kit]].
+You gain proficiency in the [Insight](Skills.md#Insight) and [Medicine](Skills.md#Medicine) skills and proficiency with the [[Herbalism Kit]].
 
 ### Physician's Touch (Level 6)
 
@@ -70,11 +70,11 @@ Your Hand of Harm and Hand of Healing improve, as detailed below.
 
 #### Hand of Harm
 
-When you use Hand of Harm on a creature, you can also give that creature the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition until the end of your next turn.
+When you use Hand of Harm on a creature, you can also give that creature the [Poisoned](Conditions.md#Poisoned) condition until the end of your next turn.
 
 #### Hand of Healing
 
-When you use Hand of Healing, you can also end one of the following conditions on the creature you heal: [Blinded](Compendium/rules/conditions.md#Blinded), [Deafened](Compendium/rules/conditions.md#Deafened), [Paralyzed](Compendium/rules/conditions.md#Paralyzed), [Poisoned](Compendium/rules/conditions.md#Poisoned), or [Stunned](Compendium/rules/conditions.md#Stunned).
+When you use Hand of Healing, you can also end one of the following conditions on the creature you heal: [Blinded](Conditions.md#Blinded), [Deafened](Conditions.md#Deafened), [Paralyzed](Conditions.md#Paralyzed), [Poisoned](Conditions.md#Poisoned), or [Stunned](Conditions.md#Stunned).
 
 ### Flurry of Healing and Harm (Level 11)
 
@@ -86,6 +86,6 @@ You can use these benefits a total number of times equal to your Wisdom modifier
 
 ### Hand of Ultimate Mercy (Level 17)
 
-Your mastery of life energy opens the door to the ultimate mercy. As a [Magic](Compendium/rules/actions.md#Magic) action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 Focus Points. The creature then returns to life with a number of [[Hit Points]] equal to `4d10` plus your Wisdom modifier. If the creature died with any of the following conditions, the creature revives with the conditions removed: [Blinded](Compendium/rules/conditions.md#Blinded), [Deafened](Compendium/rules/conditions.md#Deafened), [Paralyzed](Compendium/rules/conditions.md#Paralyzed), [Poisoned](Compendium/rules/conditions.md#Poisoned), and [Stunned](Compendium/rules/conditions.md#Stunned).
+Your mastery of life energy opens the door to the ultimate mercy. As a [Magic](Actions.md#Magic) action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 Focus Points. The creature then returns to life with a number of [[Hit Points]] equal to `4d10` plus your Wisdom modifier. If the creature died with any of the following conditions, the creature revives with the conditions removed: [Blinded](Conditions.md#Blinded), [Deafened](Conditions.md#Deafened), [Paralyzed](Conditions.md#Paralyzed), [Poisoned](Conditions.md#Poisoned), and [Stunned](Conditions.md#Stunned).
 
 Once you use this feature, you can't use it again until you finish a [[Long Rest]].

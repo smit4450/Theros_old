@@ -17,7 +17,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 Kas was a powerful warrior who served "Vecna" and whose loyalty was rewarded with this sword. As Kas's power grew, so did his hubris. The sword urged Kas to destroy Vecna and usurp his throne. Legend says Vecna's destruction came at Kas's hand, but Vecna also wrought his rebellious lieutenant's doom, leaving only Kas's sword behind.
@@ -59,7 +59,7 @@ While the sword is on your person, you gain the following benefits:
 
 ## Sentience
 
-The Sword of Kas is a sentient Chaotic Evil weapon with an Intelligence of 15, a Wisdom of 13, and a Charisma of 16. It has hearing and [Darkvision](Compendium/rules/senses.md#Darkvision) out to 120 feet.
+The Sword of Kas is a sentient Chaotic Evil weapon with an Intelligence of 15, a Wisdom of 13, and a Charisma of 16. It has hearing and [Darkvision](Senses.md#Darkvision) out to 120 feet.
 
 The weapon communicates telepathically with its wielder and speaks Common.
 

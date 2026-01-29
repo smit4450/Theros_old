@@ -17,7 +17,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 Bound into this staff is a cantrip. The cantrip is determined when the staff is created and can be of any school of magic. The staff has 6 charges and regains `1d6` expended charges daily at dawn. While holding the staff, you can expend 1 charge to cast its spell. If you expend the staff 's last charge, roll `1d20`. On a 1, the staff loses its properties and becomes a nonmagical [[Quarterstaff]].

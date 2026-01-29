@@ -51,7 +51,7 @@ aliases:
 ## Starting Wizard
 
 - **Saving Throw Proficiencies**: Intelligence, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [Arcana](Compendium/rules/skills.md#Arcana), [History](Compendium/rules/skills.md#History), [Insight](Compendium/rules/skills.md#Insight), [Investigation](Compendium/rules/skills.md#Investigation), [Medicine](Compendium/rules/skills.md#Medicine), [Nature](Compendium/rules/skills.md#Nature), or [Religion](Compendium/rules/skills.md#Religion)
+- **Skill Proficiencies**: *Choose 2:* [Arcana](Skills.md#Arcana), [History](Skills.md#History), [Insight](Skills.md#Insight), [Investigation](Skills.md#Investigation), [Medicine](Skills.md#Medicine), [Nature](Skills.md#Nature), or [Religion](Skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
 
 **Starting Equipment:** *Choose A or B:* (A) 2 [[Dagger]], [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], Spellbook, [[Scholar's Pack]], and 5 GP; or (B) 55 GP
@@ -134,7 +134,7 @@ Once you use this feature, you can't do so again until you finish a [[Long Rest]
 
 ### Scholar (Level 2)
 
-While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: [Arcana](Compendium/rules/skills.md#Arcana), [History](Compendium/rules/skills.md#History), [Investigation](Compendium/rules/skills.md#Investigation), [Medicine](Compendium/rules/skills.md#Medicine), [Nature](Compendium/rules/skills.md#Nature), or [Religion](Compendium/rules/skills.md#Religion). You have [[Expertise]] in the chosen skill.
+While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: [Arcana](Skills.md#Arcana), [History](Skills.md#History), [Investigation](Skills.md#Investigation), [Medicine](Skills.md#Medicine), [Nature](Skills.md#Nature), or [Religion](Skills.md#Religion). You have [[Expertise]] in the chosen skill.
 
 ### Wizard Subclass (Level 3)
 

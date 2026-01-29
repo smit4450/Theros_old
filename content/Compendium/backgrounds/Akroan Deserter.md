@@ -12,7 +12,7 @@ aliases: ["Chondathan Freebooter"]
 
 - **Ability Scores.** Strength, Dexterity, Wisdom  
 - **Feat.**  [[Skilled]]  
-- **Skill Proficiencies.** [Athletics](Compendium/rules/skills.md#Athletics) and [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)  
+- **Skill Proficiencies.** [Athletics](Skills.md#Athletics) and [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)  
 - **Tool Proficiencies.** [[Weaver's Tools]]  
 - **Equipment.** Choose A or B: (A) [[Dagger]], [[Weaver's Tools]], [[Backpack]], [[Ball Bearings]], [[Basket]], [[Bedroll]], [[Bucket]], [[Rations]] (3 days' worth), [[Rope]], [[Signal Whistle]], [[Traveler's Clothes]], 38 GP; or (B) 50 GP  
 

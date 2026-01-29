@@ -80,7 +80,7 @@ When you cast any level 1+ spell from your Psionic Spells feature, you can cast 
 
 ### Psychic Defenses (Level 6)
 
-You have [[resistance-xphb]] to Psychic damage, and you have [[Advantage]] on saving throws to avoid or end the [Charmed](Compendium/rules/conditions.md#Charmed) or [Frightened](Compendium/rules/conditions.md#Frightened) condition.
+You have [[resistance-xphb]] to Psychic damage, and you have [[Advantage]] on saving throws to avoid or end the [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened) condition.
 
 ### Revelation in Flesh (Level 14)
 
@@ -96,14 +96,14 @@ You gain a [[Fly Speed]] equal to your [[Speed]], and you can hover. As you fly,
 
 #### See the Invisible
 
-You can see any [Invisible](Compendium/rules/conditions.md#Invisible) creature within 60 feet of yourself that isn't behind [[cover-xphb]]. Your eyes also turn black or become writhing sensory tendrils.
+You can see any [Invisible](Conditions.md#Invisible) creature within 60 feet of yourself that isn't behind [[cover-xphb]]. Your eyes also turn black or become writhing sensory tendrils.
 
 #### Wormlike Movement
 
-Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch, and you can spend 5 feet of movement to escape from nonmagical restraints or the [Grappled](Compendium/rules/conditions.md#Grappled) condition.
+Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch, and you can spend 5 feet of movement to escape from nonmagical restraints or the [Grappled](Conditions.md#Grappled) condition.
 
 ### Warping Implosion (Level 18)
 
-You can unleash a space-warping anomaly. As a [Magic](Compendium/rules/actions.md#Magic) action, you teleport to an unoccupied space you can see within 120 feet of yourself. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes `3d10` Force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage only.
+You can unleash a space-warping anomaly. As a [Magic](Actions.md#Magic) action, you teleport to an unoccupied space you can see within 120 feet of yourself. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes `3d10` Force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage only.
 
 Once you use this feature, you can't do so again until you finish a [[Long Rest]] unless you spend 5 Sorcery Points (no action required) to restore your use of it.

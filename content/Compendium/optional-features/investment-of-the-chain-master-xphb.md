@@ -21,7 +21,7 @@ The familiar gains either a [[Fly Speed]] or a [[Swim Speed]] (your choice) of 4
 
 ## Quick Attack
 
-As a [[Bonus Action]], you can command the familiar to take the [Attack](Compendium/rules/actions.md#Attack) action.
+As a [[Bonus Action]], you can command the familiar to take the [Attack](Actions.md#Attack) action.
 
 ## Necrotic or Radiant Damage
 

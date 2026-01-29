@@ -17,7 +17,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 This staff has 6 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls.
@@ -40,7 +40,7 @@ While holding the staff, you can cast one of the spells on the following table f
 
 ## Tree Form
 
-You can take a [Magic](Compendium/rules/actions.md#Magic) action to plant one end of the staff in earth in an unoccupied space and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of Transmutation magic that can be discerned with the [[detect-magic-xphb]] spell. While touching the tree and using a [Magic](Compendium/rules/actions.md#Magic) action, you return the staff to its normal form. Any creature in the tree falls when the tree reverts to a staff.
+You can take a [Magic](Actions.md#Magic) action to plant one end of the staff in earth in an unoccupied space and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of Transmutation magic that can be discerned with the [[detect-magic-xphb]] spell. While touching the tree and using a [Magic](Actions.md#Magic) action, you return the staff to its normal form. Any creature in the tree falls when the tree reverts to a staff.
 
 ## Regaining Charges
 

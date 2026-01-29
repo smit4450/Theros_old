@@ -26,7 +26,7 @@ Benefits granted by the Book of Exalted Deeds last only as long as you strive to
 
 ## Celestial Calm
 
-While attuned to the book, you have [[Immunity]] to the [Charmed](Compendium/rules/conditions.md#Charmed) and [Frightened](Compendium/rules/conditions.md#Frightened) conditions and [[resistance-xphb]] to Psychic damage. These benefits become permanent after you spend the requisite amount of time reading and studying the book.
+While attuned to the book, you have [[Immunity]] to the [Charmed](Conditions.md#Charmed) and [Frightened](Conditions.md#Frightened) conditions and [[resistance-xphb]] to Psychic damage. These benefits become permanent after you spend the requisite amount of time reading and studying the book.
 
 ## Divine Wisdom
 
@@ -38,7 +38,7 @@ After you spend the requisite amount of time reading and studying the book, any 
 
 ## Halo
 
-After you spend the requisite amount of time reading and studying the book, you gain a protective halo. This halo sheds [[Bright Light]] in a 10-foot radius and [[Dim Light]] for an additional 10 feet. You can dismiss or manifest the halo as a [[Bonus Action]]. While present, the halo gives you [[Advantage]] on Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) checks. In addition, Fiends and Undead within the halo's [[Bright Light]] make attack rolls against you with [[Disadvantage]].
+After you spend the requisite amount of time reading and studying the book, you gain a protective halo. This halo sheds [[Bright Light]] in a 10-foot radius and [[Dim Light]] for an additional 10 feet. You can dismiss or manifest the halo as a [[Bonus Action]]. While present, the halo gives you [[Advantage]] on Charisma ([Persuasion](Skills.md#Persuasion)) checks. In addition, Fiends and Undead within the halo's [[Bright Light]] make attack rolls against you with [[Disadvantage]].
 
 ## Random Properties
 

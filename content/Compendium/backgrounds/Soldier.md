@@ -12,7 +12,7 @@ aliases: ["Soldier"]
 
 - **Ability Scores.** Strength, Dexterity, Constitution  
 - **Feat.**  [[Savage Attacker]]  
-- **Skill Proficiencies.** [Athletics](Compendium/rules/skills.md#Athletics), [Intimidation](Compendium/rules/skills.md#Intimidation)  
+- **Skill Proficiencies.** [Athletics](Skills.md#Athletics), [Intimidation](Skills.md#Intimidation)  
 - **Tool Proficiency.** Choose one kind of [[Gaming Set]]  
 - **Equipment.** Choose A or B: (A) [[Spear]], [[Shortbow]], [[Arrow]], [[Gaming Set]] (same as above), [[Healer's Kit]], [[Quiver]], [[Traveler's Clothes]], 14 GP; or (B) 50 GP  
 

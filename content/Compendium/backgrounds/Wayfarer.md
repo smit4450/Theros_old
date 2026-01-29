@@ -12,7 +12,7 @@ aliases: ["Wayfarer"]
 
 - **Ability Scores.** Dexterity, Wisdom, Charisma  
 - **Feat.**  [[Lucky]]  
-- **Skill Proficiencies.** [Insight](Compendium/rules/skills.md#Insight), [Stealth](Compendium/rules/skills.md#Stealth)  
+- **Skill Proficiencies.** [Insight](Skills.md#Insight), [Stealth](Skills.md#Stealth)  
 - **Tool Proficiency.** [[Thieves' Tools]]  
 - **Equipment.** Choose A or B: (A) [[Dagger]], [[Thieves' Tools]], [[Gaming Set]] (any), [[Bedroll]], [[Pouch]], [[Traveler's Clothes]], 16 GP; or (B) 50 GP  
 

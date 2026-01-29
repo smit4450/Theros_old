@@ -14,7 +14,7 @@ aliases:
 ![](Compendium/items/img/pike.webp#right)
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Item%20Properties.md#Heavy), [Reach](Item%20Properties.md#Reach), [Two-Handed](Item%20Properties.md#Two-Handed)
 - **Cost**: 5 gp
 - **Weight**: 18.0 lbs.
 

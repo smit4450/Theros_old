@@ -51,7 +51,7 @@ aliases:
 ## Starting Rogue
 
 - **Saving Throw Proficiencies**: Dexterity, Intelligence
-- **Skill Proficiencies**: *Choose 4:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [Deception](Compendium/rules/skills.md#Deception), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Investigation](Compendium/rules/skills.md#Investigation), [Perception](Compendium/rules/skills.md#Perception), [Persuasion](Compendium/rules/skills.md#Persuasion), [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand), or [Stealth](Compendium/rules/skills.md#Stealth)
+- **Skill Proficiencies**: *Choose 4:* [Acrobatics](Skills.md#Acrobatics), [Athletics](Skills.md#Athletics), [Deception](Skills.md#Deception), [Insight](Skills.md#Insight), [Intimidation](Skills.md#Intimidation), [Investigation](Skills.md#Investigation), [Perception](Skills.md#Perception), [Persuasion](Skills.md#Persuasion), [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand), or [Stealth](Skills.md#Stealth)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons that have the Finesse or Light property
 - **Tool Proficiencies**: [[Thieves' Tools]]
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
@@ -60,7 +60,7 @@ aliases:
 
 ## Multiclassing Rogue
 
-- **Skill Proficiencies**: *Choose 1:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [Deception](Compendium/rules/skills.md#Deception), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Investigation](Compendium/rules/skills.md#Investigation), [Perception](Compendium/rules/skills.md#Perception), [Persuasion](Compendium/rules/skills.md#Persuasion), [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand), or [Stealth](Compendium/rules/skills.md#Stealth)
+- **Skill Proficiencies**: *Choose 1:* [Acrobatics](Skills.md#Acrobatics), [Athletics](Skills.md#Athletics), [Deception](Skills.md#Deception), [Insight](Skills.md#Insight), [Intimidation](Skills.md#Intimidation), [Investigation](Skills.md#Investigation), [Perception](Skills.md#Perception), [Persuasion](Skills.md#Persuasion), [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand), or [Stealth](Skills.md#Stealth)
 - **Tool Proficiencies**: [[Thieves' Tools]]
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
@@ -76,7 +76,7 @@ Some Rogues began their careers as criminals, while others used their cunning to
 
 ### Expertise (Level 1)
 
-You gain [[Expertise]] in two of your skill proficiencies of your choice. [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand) and [Stealth](Compendium/rules/skills.md#Stealth) are recommended if you have proficiency in them.
+You gain [[Expertise]] in two of your skill proficiencies of your choice. [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand) and [Stealth](Skills.md#Stealth) are recommended if you have proficiency in them.
 
 At Rogue level 6, you gain [[Expertise]] in two more of your skill proficiencies of your choice.
 
@@ -84,7 +84,7 @@ At Rogue level 6, you gain [[Expertise]] in two more of your skill proficiencies
 
 You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `1d6` damage to one creature you hit with an attack roll if you have [[Advantage]] on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.
 
-You don't need [[Advantage]] on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, and you don't have [[Disadvantage]] on the attack roll.
+You don't need [[Advantage]] on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the [Incapacitated](Conditions.md#Incapacitated) condition, and you don't have [[Disadvantage]] on the attack roll.
 
 The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
 
@@ -100,7 +100,7 @@ Whenever you finish a [[Long Rest]], you can change the kinds of weapons you cho
 
 ### Cunning Action (Level 2)
 
-Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a [[Bonus Action]]: [Dash](Compendium/rules/actions.md#Dash), [Disengage](Compendium/rules/actions.md#Disengage), or [Hide](Compendium/rules/actions.md#Hide).
+Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a [[Bonus Action]]: [Dash](Actions.md#Dash), [Disengage](Actions.md#Disengage), or [Hide](Actions.md#Hide).
 
 ### Rogue Subclass (Level 3)
 
@@ -122,13 +122,13 @@ If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your De
 
 ### Poison (Cost: 1d6) (Level 5)
 
-You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 minute. At the end of each of its turns, the [Poisoned](Compendium/rules/conditions.md#Poisoned) target repeats the save, ending the effect on itself on a success.
+You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the [Poisoned](Conditions.md#Poisoned) condition for 1 minute. At the end of each of its turns, the [Poisoned](Conditions.md#Poisoned) target repeats the save, ending the effect on itself on a success.
 
 To use this effect, you must have a [[Poisoner's Kit]] on your person.
 
 ### Trip (Cost: 1d6) (Level 5)
 
-If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the [Prone](Compendium/rules/conditions.md#Prone) condition.
+If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the [Prone](Conditions.md#Prone) condition.
 
 ### Withdraw (Cost: 1d6) (Level 5)
 
@@ -144,7 +144,7 @@ You gain [[Expertise]] in two of your Skill Proficiencies of your choice.
 
 ### Evasion (Level 7)
 
-You can nimbly dodge out of the way of certain dangers. When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+You can nimbly dodge out of the way of certain dangers. When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the [Incapacitated](Conditions.md#Incapacitated) condition.
 
 ### Reliable Talent (Level 7)
 
@@ -184,11 +184,11 @@ The target must succeed on a Constitution saving throw, or on its next turn, it 
 
 ### Knock Out (Cost: 6d6) (Level 14)
 
-The target must succeed on a Constitution saving throw, or it has the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition for 1 minute or until it takes any damage. The [Unconscious](Compendium/rules/conditions.md#Unconscious) target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+The target must succeed on a Constitution saving throw, or it has the [Unconscious](Conditions.md#Unconscious) condition for 1 minute or until it takes any damage. The [Unconscious](Conditions.md#Unconscious) target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 ### Obscure (Cost: 3d6) (Level 14)
 
-The target must succeed on a Dexterity saving throw, or it has the [Blinded](Compendium/rules/conditions.md#Blinded) condition until the end of its next turn.
+The target must succeed on a Dexterity saving throw, or it has the [Blinded](Conditions.md#Blinded) condition until the end of its next turn.
 
 ### Slippery Mind (Level 15)
 
@@ -204,7 +204,7 @@ You gain a feature from your Rogue Subclass.
 
 ### Elusive (Level 18)
 
-You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[Advantage]] against you unless you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have [[Advantage]] against you unless you have the [Incapacitated](Conditions.md#Incapacitated) condition.
 
 ### Epic Boon (Level 19)
 

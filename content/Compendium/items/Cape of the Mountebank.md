@@ -12,7 +12,7 @@ aliases:
 ![](Compendium/items/img/cape-of-the-mountebank.webp#right)
 
 
-This cape smells faintly of brimstone. While wearing it, you can use it to cast [[dimension-door-xphb]] as a [Magic](Compendium/rules/actions.md#Magic) action. This property can't be used again until the next dawn.
+This cape smells faintly of brimstone. While wearing it, you can use it to cast [[dimension-door-xphb]] as a [Magic](Actions.md#Magic) action. This property can't be used again until the next dawn.
 
 When you teleport with that spell, you leave behind a cloud of smoke. The space you left is [[Lightly Obscured]] by that smoke until the end of your next turn.
 

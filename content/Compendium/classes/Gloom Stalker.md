@@ -85,9 +85,9 @@ When you reach a Ranger level specified in the Gloom Stalker Spells table, you t
 
 ### Umbral Sight (Level 3)
 
-You gain [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](Compendium/rules/senses.md#Darkvision) when you gain this feature, its range increases by 60 feet.
+You gain [Darkvision](Senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](Senses.md#Darkvision) when you gain this feature, its range increases by 60 feet.
 
-You are also adept at evading creatures that rely on [Darkvision](Compendium/rules/senses.md#Darkvision). While entirely in [[darkness-xphb]], you have the [Invisible](Compendium/rules/conditions.md#Invisible) condition to any creature that relies on [Darkvision](Compendium/rules/senses.md#Darkvision) to see you in that [[darkness-xphb]].
+You are also adept at evading creatures that rely on [Darkvision](Senses.md#Darkvision). While entirely in [[darkness-xphb]], you have the [Invisible](Conditions.md#Invisible) condition to any creature that relies on [Darkvision](Senses.md#Darkvision) to see you in that [[darkness-xphb]].
 
 ### Iron Mind (Level 7)
 
@@ -103,7 +103,7 @@ You can make another attack with the same weapon against a different creature th
 
 #### Mass Fear
 
-The target and each creature within 10 feet of it must make a Wisdom saving throw against your spell save DC. On a failed save, a creature has the [Frightened](Compendium/rules/conditions.md#Frightened) condition until the start of your next turn.
+The target and each creature within 10 feet of it must make a Wisdom saving throw against your spell save DC. On a failed save, a creature has the [Frightened](Conditions.md#Frightened) condition until the start of your next turn.
 
 ### Shadowy Dodge (Level 15)
 

@@ -17,4 +17,4 @@ aliases:
 
 **Encourage Ally.** As a [[Bonus Action]], you bolster one ally you can see within 30 feet. The ally gains [[Temporary Hit Points]] equal to `2d6` plus the modifier of the ability score increased by this feat. You can take this [[Bonus Action]] a number of times equal to your [[Proficiency]], and you regain all uses when you finish a [[Long Rest]].
 
-**Last Stand.** You have [[Advantage]] on attack rolls while [Bloodied](Compendium/rules/conditions.md#Bloodied).
+**Last Stand.** You have [[Advantage]] on attack rolls while [Bloodied](Conditions.md#Bloodied).

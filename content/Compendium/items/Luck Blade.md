@@ -28,7 +28,7 @@ You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon
 
 ## Luck
 
-If the weapon is on your person, you can call on its luck (no action required) to reroll one failed [[D20 Test]] if you don't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. You must use the second roll. Once used, this property can't be used again until the next dawn.
+If the weapon is on your person, you can call on its luck (no action required) to reroll one failed [[D20 Test]] if you don't have the [Incapacitated](Conditions.md#Incapacitated) condition. You must use the second roll. Once used, this property can't be used again until the next dawn.
 
 ## Wish
 
@@ -46,13 +46,13 @@ The weapon has `1d3` charges. While holding it, you can expend 1 charge and cast
 ### Luck Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Item%20Properties.md#Heavy), [Reach](Item%20Properties.md#Reach), [Two-Handed](Item%20Properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Luck Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Item%20Properties.md#Heavy), [Two-Handed](Item%20Properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Luck Longsword
@@ -60,31 +60,31 @@ The weapon has `1d3` charges. While holding it, you can expend 1 charge and cast
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Luck Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](Item%20Properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Luck Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Finesse](Item%20Properties.md#Finesse), [Light](Item%20Properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Luck Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Finesse](Item%20Properties.md#Finesse), [Light](Item%20Properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Luck Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Light](Item%20Properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 

@@ -74,7 +74,7 @@ You can increase your powers of perception. As a [[Bonus Action]], choose one of
 
 #### Darkvision
 
-You gain [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 120 feet.
+You gain [Darkvision](Senses.md#Darkvision) with a range of 120 feet.
 
 #### Greater Comprehension
 

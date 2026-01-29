@@ -28,9 +28,9 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 | Hit Points | Effect |
 |------------|--------|
 | 0-20 | The target dies. |
-| 21-30 | The target has the [Blinded](Compendium/rules/conditions.md#Blinded), [Deafened](Compendium/rules/conditions.md#Deafened), and [Stunned](Compendium/rules/conditions.md#Stunned) conditions for 1 hour. |
-| 31-40 | The target has the [Blinded](Compendium/rules/conditions.md#Blinded) and [Deafened](Compendium/rules/conditions.md#Deafened) conditions for 10 minutes. |
-| 41-50 | The target has the [Deafened](Compendium/rules/conditions.md#Deafened) condition for 1 minute. |
+| 21-30 | The target has the [Blinded](Conditions.md#Blinded), [Deafened](Conditions.md#Deafened), and [Stunned](Conditions.md#Stunned) conditions for 1 hour. |
+| 31-40 | The target has the [Blinded](Conditions.md#Blinded) and [Deafened](Conditions.md#Deafened) conditions for 10 minutes. |
+| 41-50 | The target has the [Deafened](Conditions.md#Deafened) condition for 1 minute. |
 ^divine-word-effects
 
 **Classes**: [[Bard Spells]]; [[Cleric Spells]]

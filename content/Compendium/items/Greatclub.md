@@ -14,7 +14,7 @@ aliases:
 ![](Compendium/items/img/greatclub.webp#right)
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Two-Handed](Item%20Properties.md#Two-Handed)
 - **Cost**: 2 sp
 - **Weight**: 10.0 lbs.
 

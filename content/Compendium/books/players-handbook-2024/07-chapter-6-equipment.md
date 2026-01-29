@@ -74,7 +74,7 @@ You have [[Disadvantage]] on attack rolls with a Heavy weapon if it's a Melee we
 
 #### Light
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[Shortsword]] in one hand and a [[Dagger]] in the other using the [Attack](Compendium/rules/actions.md#Attack) action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
+When you take the [Attack](Actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[Shortsword]] in one hand and a [[Dagger]] in the other using the [Attack](Actions.md#Attack) action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
 
 #### Loading
 
@@ -82,7 +82,7 @@ You can fire only one piece of ammunition from a Loading weapon when you use an 
 
 #### Range
 
-A Range weapon has a range in parentheses after the [Ammunition](Compendium/rules/item-properties.md#Ammunition) or [Thrown](Compendium/rules/item-properties.md#Thrown) property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [[Disadvantage]] on the attack roll. You can't attack a target beyond the long range.
+A Range weapon has a range in parentheses after the [Ammunition](Item%20Properties.md#Ammunition) or [Thrown](Item%20Properties.md#Thrown) property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [[Disadvantage]] on the attack roll. You can't attack a target beyond the long range.
 
 #### Reach
 
@@ -114,7 +114,7 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 
 #### Nick
 
-When you make the extra attack of the [Light](Compendium/rules/item-properties.md#Light) property, you can make it as part of the [Attack](Compendium/rules/actions.md#Attack) action instead of as a Bonus Action. You can make this extra attack only once per turn.
+When you make the extra attack of the [Light](Item%20Properties.md#Light) property, you can make it as part of the [Attack](Actions.md#Attack) action instead of as a Bonus Action. You can make this extra attack only once per turn.
 
 #### Push
 
@@ -130,7 +130,7 @@ If you hit a creature with this weapon and deal damage to it, you can reduce its
 
 #### Topple
 
-If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the [Prone](Compendium/rules/conditions.md#Prone) condition.
+If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the [Prone](Conditions.md#Prone) condition.
 
 #### Vex
 
@@ -145,7 +145,7 @@ The Armor table lists the game's main armor. The table includes the cost and wei
 **Armor Class (AC**). The table's Armor Class column tells you what your base AC is when you wear a type of armor. For example, if you wear Leather Armor, your base AC is 11 plus your Dexterity modifier, whereas your AC is 16 in Chain Mail.
 
 - **Strength.** If the table shows a Strength score in the Strength column for an armor type, that armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.  
-- **Stealth.** If the table shows "Disadvantage" in the Stealth column for an armor type, the wearer has [[Disadvantage]] on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks.  
+- **Stealth.** If the table shows "Disadvantage" in the Stealth column for an armor type, the wearer has [[Disadvantage]] on Dexterity ([Stealth](Skills.md#Stealth)) checks.  
 
 ![[armor-xphb]]
 
@@ -185,7 +185,7 @@ A creature can wear only one suit of armor at a time and wield only one Shield a
 A tool helps you make specialized ability checks, craft certain items, or both. A tool's description includes the tool's cost and weight, as well as the following entries:
 
 - **Ability.** This entry lists the ability to use when making an ability check with the tool.  
-- **Utilize.** This entry lists things you can do with the tool when you take the [Utilize](Compendium/rules/actions.md#Utilize) action. You can do one of those things each time you take the action. This entry also provides the DC for the action.  
+- **Utilize.** This entry lists things you can do with the tool when you take the [Utilize](Actions.md#Utilize) action. You can do one of those things each time you take the action. This entry also provides the DC for the action.  
 - **Craft.** This entry lists what, if anything, you can craft with the tool. For crafting rules, see ""Crafting Equipment"" later in the chapter.  
 - **Variants.** This entry appears if the tool has variants, which are listed. Each requires a separate proficiency.  
 
@@ -240,7 +240,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 - **Ability.** Dexterity  
 - **Weight.** 5 lb.  
-- **Utilize.** Modify footwear to give [[Advantage]] on the wearer's next Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check (DC 10)  
+- **Utilize.** Modify footwear to give [[Advantage]] on the wearer's next Dexterity ([Acrobatics](Skills.md#Acrobatics)) check (DC 10)  
 - **Craft.** [[Climber's Kit]]  
 
 #### Cook's Utensils (1 GP)
@@ -387,21 +387,21 @@ The Adventuring Gear table in this section includes gear that adventurers often 
 
 ### Acid (25 GP)
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action, you can replace one of your attacks with throwing a vial of Acid. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take `2d6` Acid damage.
+When you take the [Attack](Actions.md#Attack) action, you can replace one of your attacks with throwing a vial of Acid. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take `2d6` Acid damage.
 
 ### Alchemist's Fire (50 GP)
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take `1d4` Fire damage and start [[burning-xphb]].
+When you take the [Attack](Actions.md#Attack) action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take `1d4` Fire damage and start [[burning-xphb]].
 
 ### Ammunition (Varies)
 
-Ammunition is required by a weapon that has the [Ammunition](Compendium/rules/item-properties.md#Ammunition) property. A weapon's description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy them. The table also lists the item that is typically used to store each type; storage must be bought separately.
+Ammunition is required by a weapon that has the [Ammunition](Item%20Properties.md#Ammunition) property. A weapon's description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy them. The table also lists the item that is typically used to store each type; storage must be bought separately.
 
 ![[ammunition-varies-ammunition-xphb]]
 
 ### Antitoxin (50 GP)
 
-As a Bonus Action, you can drink a vial of Antitoxin to gain [[Advantage]] on saving throws to avoid or end the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 hour.
+As a Bonus Action, you can drink a vial of Antitoxin to gain [[Advantage]] on saving throws to avoid or end the [Poisoned](Conditions.md#Poisoned) condition for 1 hour.
 
 ### Arcane Focus (Varies)
 
@@ -415,7 +415,7 @@ A Backpack holds up to 30 pounds within 1 cubic foot. It can also serve as a sad
 
 ### Ball Bearings (1 GP)
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the [Prone](Compendium/rules/conditions.md#Prone) condition. It takes 10 minutes to recover the Ball Bearings.
+As a [Utilize](Actions.md#Utilize) action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the [Prone](Conditions.md#Prone) condition. It takes 10 minutes to recover the Ball Bearings.
 
 ### Barrel (2 GP)
 
@@ -431,7 +431,7 @@ A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatic
 
 ### Bell (1 GP)
 
-When rung as a [Utilize](Compendium/rules/actions.md#Utilize) action, a Bell produces a sound that can be heard up to 60 feet away.
+When rung as a [Utilize](Actions.md#Utilize) action, a Bell produces a sound that can be heard up to 60 feet away.
 
 ### Blanket (5 SP)
 
@@ -443,7 +443,7 @@ A Block and Tackle allows you to hoist up to four times the weight you can norma
 
 ### Book (25 GP)
 
-A Book contains fiction or nonfiction. If you consult an accurate nonfiction Book about its topic, you gain a +5 bonus to Intelligence ([Arcana](Compendium/rules/skills.md#Arcana), [History](Compendium/rules/skills.md#History), [Nature](Compendium/rules/skills.md#Nature), or [Religion](Compendium/rules/skills.md#Religion)) checks you make about that topic.
+A Book contains fiction or nonfiction. If you consult an accurate nonfiction Book about its topic, you gain a +5 bonus to Intelligence ([Arcana](Skills.md#Arcana), [History](Skills.md#History), [Nature](Skills.md#Nature), or [Religion](Skills.md#Religion)) checks you make about that topic.
 
 ### Bottle, Glass (2 GP)
 
@@ -459,7 +459,7 @@ A Burglar's Pack contains the following items: [[Backpack]], [[Ball Bearings]], 
 
 ### Caltrops (1 GP)
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can spread Caltrops from their bag to cover a 5-foot-square area within 5 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 15 Dexterity saving throw or take 1 Piercing damage and have its Speed reduced to 0 until the start of its next turn. It takes 10 minutes to recover the Caltrops.
+As a [Utilize](Actions.md#Utilize) action, you can spread Caltrops from their bag to cover a 5-foot-square area within 5 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 15 Dexterity saving throw or take 1 Piercing damage and have its Speed reduced to 0 until the start of its next turn. It takes 10 minutes to recover the Caltrops.
 
 ### Candle (1 CP)
 
@@ -475,7 +475,7 @@ A Map or Scroll Case holds up to 10 sheets of [[Paper]] or 5 sheets of [[Parchme
 
 ### Chain (5 GP)
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the [Grappled](Compendium/rules/conditions.md#Grappled), [Incapacitated](Compendium/rules/conditions.md#Incapacitated), or [Restrained](Compendium/rules/conditions.md#Restrained) condition if you succeed on a DC 13 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check as an action. Bursting the Chain requires a successful DC 20 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check as an action.
+As a [Utilize](Actions.md#Utilize) action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the [Grappled](Conditions.md#Grappled), [Incapacitated](Conditions.md#Incapacitated), or [Restrained](Conditions.md#Restrained) condition if you succeed on a DC 13 Strength ([Athletics](Skills.md#Athletics)) check. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity ([Acrobatics](Skills.md#Acrobatics)) check as an action. Bursting the Chain requires a successful DC 20 Strength ([Athletics](Skills.md#Athletics)) check as an action.
 
 ### Chest (5 GP)
 
@@ -483,7 +483,7 @@ A Chest holds up to 12 cubic feet of contents.
 
 ### Climber's Kit (25 GP)
 
-A Climber's Kit includes boot tips, gloves, pitons, and a harness. As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can use the Climber's Kit to anchor yourself; when you do, you can't fall more than 25 feet from the anchor point, and you can't move more than 25 feet from there without undoing the anchor as a Bonus Action.
+A Climber's Kit includes boot tips, gloves, pitons, and a harness. As a [Utilize](Actions.md#Utilize) action, you can use the Climber's Kit to anchor yourself; when you do, you can't fall more than 25 feet from the anchor point, and you can't move more than 25 feet from there without undoing the anchor as a Bonus Action.
 
 ### Clothes, Fine (15 GP)
 
@@ -533,11 +533,11 @@ A Flask holds up to 1 pint.
 
 ### Grappling Hook (2 GP)
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can throw the Grappling Hook at a railing, a ledge, or another catch within 50 feet of yourself, and the hook catches on if you succeed on a DC 13 Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check. If you tied a [[Rope]] to the hook, you can then climb it.
+As a [Utilize](Actions.md#Utilize) action, you can throw the Grappling Hook at a railing, a ledge, or another catch within 50 feet of yourself, and the hook catches on if you succeed on a DC 13 Dexterity ([Acrobatics](Skills.md#Acrobatics)) check. If you tied a [[Rope]] to the hook, you can then climb it.
 
 ### Healer's Kit (5 GP)
 
-A Healer's Kit has ten uses. As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can expend one of its uses to stabilize an [Unconscious](Compendium/rules/conditions.md#Unconscious) creature that has 0 Hit Points without needing to make a Wisdom ([Medicine](Compendium/rules/skills.md#Medicine)) check.
+A Healer's Kit has ten uses. As a [Utilize](Actions.md#Utilize) action, you can expend one of its uses to stabilize an [Unconscious](Conditions.md#Unconscious) creature that has 0 Hit Points without needing to make a Wisdom ([Medicine](Skills.md#Medicine)) check.
 
 ### Holy Symbol (Varies)
 
@@ -549,11 +549,11 @@ The table indicates whether a Holy Symbol needs to be held, worn, or borne on fa
 
 ### Holy Water (25 GP)
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action, you can replace one of your attacks with throwing a flask of Holy Water. Target one creature you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take `2d8` Radiant damage if it is a Fiend or an Undead.
+When you take the [Attack](Actions.md#Attack) action, you can replace one of your attacks with throwing a flask of Holy Water. Target one creature you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take `2d8` Radiant damage if it is a Fiend or an Undead.
 
 ### Hunting Trap (5 GP)
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can set a Hunting Trap, which is a sawtooth steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take `1d4` Piercing damage and have its Speed reduced to 0 until the start of its next turn. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet). A creature can use its action to make a DC 13 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check, freeing itself or another creature within its reach on a success. Each failed check deals 1 Piercing damage to the trapped creature.
+As a [Utilize](Actions.md#Utilize) action, you can set a Hunting Trap, which is a sawtooth steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take `1d4` Piercing damage and have its Speed reduced to 0 until the start of its next turn. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet). A creature can use its action to make a DC 13 Strength ([Athletics](Skills.md#Athletics)) check, freeing itself or another creature within its reach on a success. Each failed check deals 1 Piercing damage to the trapped creature.
 
 ### Ink (10 GP)
 
@@ -595,13 +595,13 @@ A Magnifying Glass grants [[Advantage]] on any ability check made to appraise or
 
 ### Manacles (2 GP)
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the [Grappled](Compendium/rules/conditions.md#Grappled), [Incapacitated](Compendium/rules/conditions.md#Incapacitated), or [Restrained](Compendium/rules/conditions.md#Restrained) condition if you succeed on a DC 13 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check. While bound, a creature has [[Disadvantage]] on attack rolls, and the creature is [Restrained](Compendium/rules/conditions.md#Restrained) if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check as an action. Bursting them requires a successful DC 25 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check as an action.
+As a [Utilize](Actions.md#Utilize) action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the [Grappled](Conditions.md#Grappled), [Incapacitated](Conditions.md#Incapacitated), or [Restrained](Conditions.md#Restrained) condition if you succeed on a DC 13 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check. While bound, a creature has [[Disadvantage]] on attack rolls, and the creature is [Restrained](Conditions.md#Restrained) if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check as an action. Bursting them requires a successful DC 25 Strength ([Athletics](Skills.md#Athletics)) check as an action.
 
 Each set of Manacles comes with a key. Without the key, a creature can use [[Thieves' Tools]] to pick the Manacles' lock with a successful DC 15 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check.
 
 ### Map (1 GP)
 
-If you consult an accurate Map, you gain a +5 bonus to Wisdom ([Survival](Compendium/rules/skills.md#Survival)) checks you make to find your way in the place represented on it.
+If you consult an accurate Map, you gain a +5 bonus to Wisdom ([Survival](Skills.md#Survival)) checks you make to find your way in the place represented on it.
 
 ### Mirror (5 GP)
 
@@ -609,9 +609,9 @@ A handheld steel Mirror is useful for personal cosmetics but also for peeking ar
 
 ### Net (1 GP)
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action, you can replace one of your attacks with throwing a Net. Target a creature you can see within 15 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or have the [Restrained](Compendium/rules/conditions.md#Restrained) condition until it escapes. The target succeeds automatically if it is Huge or larger.
+When you take the [Attack](Actions.md#Attack) action, you can replace one of your attacks with throwing a Net. Target a creature you can see within 15 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or have the [Restrained](Conditions.md#Restrained) condition until it escapes. The target succeeds automatically if it is Huge or larger.
 
-To escape, the target or a creature within 5 feet of it must take an action to make a DC 10 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check, freeing the Restrained creature on a success. Destroying the Net (AC 10; 5 HP; Immunity to Bludgeoning, Poison, and Psychic damage) also frees the target, ending the effect.
+To escape, the target or a creature within 5 feet of it must take an action to make a DC 10 Strength ([Athletics](Skills.md#Athletics)) check, freeing the Restrained creature on a success. Destroying the Net (AC 10; 5 HP; Immunity to Bludgeoning, Poison, and Psychic damage) also frees the target, ending the effect.
 
 ### Oil (1 SP)
 
@@ -619,15 +619,15 @@ You can douse a creature, object, or space with Oil or use it as fuel, as detail
 
 #### Dousing a Creature or an Object
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action, you can replace one of your attacks with throwing an Oil flask. Target one creature or object within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or be covered in oil. If the target takes Fire damage before the oil dries (after 1 minute), the target takes an extra 5 Fire damage from burning oil.
+When you take the [Attack](Actions.md#Attack) action, you can replace one of your attacks with throwing an Oil flask. Target one creature or object within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or be covered in oil. If the target takes Fire damage before the oil dries (after 1 minute), the target takes an extra 5 Fire damage from burning oil.
 
 #### Dousing a Space
 
-You can take the [Utilize](Compendium/rules/actions.md#Utilize) action to pour an Oil flask on level ground to cover a 5-foot-square area within 5 feet of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn.
+You can take the [Utilize](Actions.md#Utilize) action to pour an Oil flask on level ground to cover a 5-foot-square area within 5 feet of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn.
 
 #### Fuel
 
-Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a [Utilize](Compendium/rules/actions.md#Utilize) action) and rekindle it again until it has burned for a total of 6 hours.
+Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a [Utilize](Actions.md#Utilize) action) and rekindle it again until it has burned for a total of 6 hours.
 
 ### Paper (2 SP)
 
@@ -639,7 +639,7 @@ One sheet of Parchment can hold about 250 handwritten words.
 
 ### Perfume (5 GP)
 
-Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have [[Advantage]] on Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) checks made to influence an [[Indifferent (Attitude)]] Humanoid within 5 feet of yourself.
+Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have [[Advantage]] on Charisma ([Persuasion](Skills.md#Persuasion)) checks made to influence an [[Indifferent (Attitude)]] Humanoid within 5 feet of yourself.
 
 ### Poison, Basic (100 GP)
 
@@ -647,7 +647,7 @@ As a Bonus Action, you can use a vial of Basic Poison to coat one weapon or up t
 
 ### Pole (5 CP)
 
-A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check as part of a [[High Jump]] or [[Long Jump]], you can use the Pole to vault, giving yourself [[Advantage]] on the check.
+A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength ([Athletics](Skills.md#Athletics)) check as part of a [[High Jump]] or [[Long Jump]], you can use the Pole to vault, giving yourself [[Advantage]] on the check.
 
 ### Pot, Iron (2 GP)
 
@@ -683,9 +683,9 @@ A Robe has vocational or ceremonial significance. Some events and locations admi
 
 ### Rope (1 GP)
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check. The Rope can be burst with a successful DC 20 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check.
+As a [Utilize](Actions.md#Utilize) action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check. The Rope can be burst with a successful DC 20 Strength ([Athletics](Skills.md#Athletics)) check.
 
-You can bind an unwilling creature with the Rope only if the creature has the [Grappled](Compendium/rules/conditions.md#Grappled), [Incapacitated](Compendium/rules/conditions.md#Incapacitated), or [Restrained](Compendium/rules/conditions.md#Restrained) condition. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check as an action.
+You can bind an unwilling creature with the Rope only if the creature has the [Grappled](Conditions.md#Grappled), [Incapacitated](Conditions.md#Incapacitated), or [Restrained](Conditions.md#Restrained) condition. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity ([Acrobatics](Skills.md#Acrobatics)) check as an action.
 
 ### Sack (1 CP)
 
@@ -701,7 +701,7 @@ Working for 1 hour, you can use a Shovel to dig a hole that is 5 feet on each si
 
 ### Signal Whistle (5 CP)
 
-When blown as a [Utilize](Compendium/rules/actions.md#Utilize) action, a Signal Whistle produces a sound that can be heard up to 600 feet away.
+When blown as a [Utilize](Actions.md#Utilize) action, a Signal Whistle produces a sound that can be heard up to 600 feet away.
 
 ### Spell Scroll (Cantrip, 30 GP Level 1, 50 GP)
 
@@ -711,7 +711,7 @@ If the spell requires a saving throw or an attack roll, the spell save DC is 13,
 
 ### Spikes, Iron (1 GP)
 
-Iron Spikes come in bundles of ten. As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can use a blunt object, such as a [[Light Hammer]], to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [[Rope]] or [[Chain]] to the Spike.
+Iron Spikes come in bundles of ten. As a [Utilize](Actions.md#Utilize) action, you can use a blunt object, such as a [[Light Hammer]], to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [[Rope]] or [[Chain]] to the Spike.
 
 ### Spyglass (1,000 GP)
 
@@ -719,7 +719,7 @@ Objects viewed through a Spyglass are magnified to twice their size.
 
 ### String (1 SP)
 
-String is 10 feet long. You can tie a knot in it as a [Utilize](Compendium/rules/actions.md#Utilize) action.
+String is 10 feet long. You can tie a knot in it as a [Utilize](Actions.md#Utilize) action.
 
 ### Tent (2 GP)
 
@@ -731,7 +731,7 @@ A Tinderbox is a small container holding flint, fire steel, and tinder (usually 
 
 ### Torch (1 CP)
 
-A Torch burns for 1 hour, casting [[Bright Light]] in a 20-foot radius and [[Dim Light]] for an additional 20 feet. When you take the [Attack](Compendium/rules/actions.md#Attack) action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
+A Torch burns for 1 hour, casting [[Bright Light]] in a 20-foot radius and [[Dim Light]] for an additional 20 feet. When you take the [Attack](Actions.md#Attack) action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
 
 ### Vial (1 GP)
 
@@ -939,7 +939,7 @@ Scribing a scroll takes an amount of time and money based on the level of the sp
 
 #### Prerequisites for the Scribe
 
-To scribe a scroll, you must have proficiency in the [Arcana](Compendium/rules/skills.md#Arcana) skill or with [[Calligrapher's Supplies]] and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll's spell uses your spell save DC and spell attack bonus.
+To scribe a scroll, you must have proficiency in the [Arcana](Skills.md#Arcana) skill or with [[Calligrapher's Supplies]] and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll's spell uses your spell save DC and spell attack bonus.
 
 #### Cantrips
 

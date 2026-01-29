@@ -12,7 +12,7 @@ aliases: ["Mulhorandi Tomb Raider"]
 
 - **Ability Scores.** Dexterity, Constitution, Intelligence  
 - **Feat.**  [[Lucky]]  
-- **Skill Proficiencies.** [Investigation](Compendium/rules/skills.md#Investigation) and [Religion](Compendium/rules/skills.md#Religion)  
+- **Skill Proficiencies.** [Investigation](Skills.md#Investigation) and [Religion](Skills.md#Religion)  
 - **Tool Proficiencies.** [[Mason's Tools]]  
 - **Equipment.** Choose A or B: (A) [[Dagger]], [[Light Hammer]], [[Mason's Tools]], [[Backpack]], [[Bedroll]], [[Crowbar]], [[Ladder]], [[Pole]], 2 [[Pouch]], [[Rope]], [[String]], [[Tinderbox]], 5 [[Torch]], [[Traveler's Clothes]], [[Waterskin]] 26 GP; or (B) 50 GP  
 

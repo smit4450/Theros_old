@@ -39,7 +39,7 @@ If you create a span greater than 20 feet in length, you must halve the size of 
 
 The wall is an object made of stone that can be damaged and thus breached. Each panel has AC 15 and 30 [[Hit Points]] per inch of thickness, and it has [[Immunity]] to Poison and Psychic damage. Reducing a panel to 0 [[Hit Points]] destroys it and might cause connected panels to collapse at the DM's discretion.
 
-If you maintain your [Concentration](Compendium/rules/conditions.md#Concentration) on this spell for its full duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
+If you maintain your [Concentration](Conditions.md#Concentration) on this spell for its full duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
 
 **Classes**: [[Bard Spells]]; [Druid (Circle of the Land, Arid Land)](Spells%20for%20Circle%20of%20the%20Land.md "subclass=XPHB;class=XPHB"); [[Druid Spells]]; [[Sorcerer Spells]]; [Wizard (Evoker)](Spells%20for%20Evoker.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 

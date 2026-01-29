@@ -35,13 +35,13 @@ When you attack a creature with this magic weapon and roll a 20 on the `d20` for
 ### Glaive of Life Stealing
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Item%20Properties.md#Heavy), [Reach](Item%20Properties.md#Reach), [Two-Handed](Item%20Properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Greatsword of Life Stealing
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Item%20Properties.md#Heavy), [Two-Handed](Item%20Properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Longsword of Life Stealing
@@ -49,25 +49,25 @@ When you attack a creature with this magic weapon and roll a 20 on the `d20` for
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Rapier of Life Stealing
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](Item%20Properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Scimitar of Life Stealing
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Finesse](Item%20Properties.md#Finesse), [Light](Item%20Properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Shortsword of Life Stealing
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Finesse](Item%20Properties.md#Finesse), [Light](Item%20Properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 

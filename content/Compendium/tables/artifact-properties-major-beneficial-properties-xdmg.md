@@ -22,5 +22,5 @@ aliases:
 | 61–70 | As 51–60 above, except the spell is level 5. |
 | 71–80 | As 51–60 above, except the spell is level 6. |
 | 81–90 | As 51–60 above, except the spell is level 7. |
-| 91–00 | While attuned to the Artifact, you have Immunity to the [Blinded](Compendium/rules/conditions.md#Blinded), [Deafened](Compendium/rules/conditions.md#Deafened), [Petrified](Compendium/rules/conditions.md#Petrified), and [Stunned](Compendium/rules/conditions.md#Stunned) conditions. |
+| 91–00 | While attuned to the Artifact, you have Immunity to the [Blinded](Conditions.md#Blinded), [Deafened](Conditions.md#Deafened), [Petrified](Conditions.md#Petrified), and [Stunned](Conditions.md#Stunned) conditions. |
 ^major-beneficial-properties

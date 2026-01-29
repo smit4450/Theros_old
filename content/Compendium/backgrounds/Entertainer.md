@@ -12,7 +12,7 @@ aliases: ["Entertainer"]
 
 - **Ability Scores.** Strength, Dexterity, Charisma  
 - **Feat.**  [[Musician]]  
-- **Skill Proficiencies.** [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Performance](Compendium/rules/skills.md#Performance)  
+- **Skill Proficiencies.** [Acrobatics](Skills.md#Acrobatics), [Performance](Skills.md#Performance)  
 - **Tool Proficiency.** Choose one kind of [[Musical Instrument]]  
 - **Equipment.** Choose A or B: (A) [[Musical Instrument]] (same as above), [[Costume]], [[Mirror]], [[Perfume]], [[Traveler's Clothes]], 11 GP; or (B) 50 GP  
 

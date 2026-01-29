@@ -17,4 +17,4 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Strength or Constitution by 1, to a maximum of 30.
 
-**Defense of Body and Mind.** While you are [Bloodied](Compendium/rules/conditions.md#Bloodied), you have [[resistance-xphb]] to every damage type except Force.
+**Defense of Body and Mind.** While you are [Bloodied](Conditions.md#Bloodied), you have [[resistance-xphb]] to every damage type except Force.

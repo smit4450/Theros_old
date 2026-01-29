@@ -137,7 +137,7 @@ Every magic item you wear or carry disintegrates. Artifacts in your possession v
 
 ## Throne
 
-You gain proficiency and [[Expertise]] in your choice of [History](Compendium/rules/skills.md#History), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), or [Persuasion](Compendium/rules/skills.md#Persuasion). In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently home to one or more monsters, which must be cleared out before you can claim the keep as yours.
+You gain proficiency and [[Expertise]] in your choice of [History](Skills.md#History), [Insight](Skills.md#Insight), [Intimidation](Skills.md#Intimidation), or [Persuasion](Skills.md#Persuasion). In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently home to one or more monsters, which must be cleared out before you can claim the keep as yours.
 
 ## Void
 

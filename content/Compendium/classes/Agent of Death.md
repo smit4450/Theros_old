@@ -56,7 +56,7 @@ Underground cults to [[Phenax]], [[Mogis]], and [[Erebos]] often count Agents of
 
 ### Bloodthirst (Level 3)
 
-When an enemy you can see within 30 feet of yourself takes damage and is [Bloodied](Compendium/rules/conditions.md#Bloodied) after taking that damage but not killed outright, you can take a [[Reaction]] and [[Teleportation]] to an unoccupied space you can see within 5 feet of that enemy. You can then make one melee attack. You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
+When an enemy you can see within 30 feet of yourself takes damage and is [Bloodied](Conditions.md#Bloodied) after taking that damage but not killed outright, you can take a [[Reaction]] and [[Teleportation]] to an unoccupied space you can see within 5 feet of that enemy. You can then make one melee attack. You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
 ### Dread Allegiance (Level 3)
 
@@ -76,9 +76,9 @@ You gain the following [Cunning Strike](Compendium/classes/rogue-xphb.md#Cunning
 #### Terrify (Cost: `1d6`)
 _Source: FRHoF_
 
-The target must succeed on a Wisdom saving throw, or it has the [Frightened](Compendium/rules/conditions.md#Frightened) condition for 1 minute. While the target is Frightened in this way, you have [[Advantage]] on attack rolls against the target.
+The target must succeed on a Wisdom saving throw, or it has the [Frightened](Conditions.md#Frightened) condition for 1 minute. While the target is Frightened in this way, you have [[Advantage]] on attack rolls against the target.
 
-The [Frightened](Compendium/rules/conditions.md#Frightened) target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+The [Frightened](Conditions.md#Frightened) target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 ### Aura of Malevolence (Level 13)
 

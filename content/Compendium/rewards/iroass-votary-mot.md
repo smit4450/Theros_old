@@ -15,6 +15,6 @@ aliases:
 
 You can cast [[crusaders-mantle-xphb]] with this trait. Once you cast the spell in this way, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for this spell.
 
-In addition, you have advantage on saving throws against being [frightened](Compendium/rules/conditions.md#Frightened).
+In addition, you have advantage on saving throws against being [frightened](Conditions.md#Frightened).
 
 *Source: Mythic Odysseys of Theros p. 49*

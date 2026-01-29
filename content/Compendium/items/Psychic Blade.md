@@ -15,6 +15,6 @@ aliases:
 
 - **Damage**: 1d6 psychic
 - **Range**: 60/120
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Thrown](Compendium/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](Item%20Properties.md#Finesse), [Thrown](Item%20Properties.md#Thrown)
 
 *Source: Player's Handbook (2024) p. 136*

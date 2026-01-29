@@ -14,7 +14,7 @@ aliases:
 ![](Compendium/items/img/shortsword.webp#right)
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Finesse](Item%20Properties.md#Finesse), [Light](Item%20Properties.md#Light)
 - **Cost**: 10 gp
 - **Weight**: 2.0 lbs.
 

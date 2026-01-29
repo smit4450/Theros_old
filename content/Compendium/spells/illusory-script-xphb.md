@@ -40,7 +40,7 @@ You write on parchment, paper, or another suitable material and imbue it with an
 
 If the spell is dispelled, the original script and the illusion both disappear.
 
-A creature that has [Truesight](Compendium/rules/senses.md#Truesight) can read the hidden message.
+A creature that has [Truesight](Senses.md#Truesight) can read the hidden message.
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Warlock Spells]]; [Wizard (Illusionist)](Spells%20for%20Illusionist.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 

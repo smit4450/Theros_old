@@ -33,9 +33,9 @@ aliases: ["Haste"]
 - **Components:** V, S, M (a shaving of licorice root)
 - **Duration:** Concentration, up to 1 minute
 
-Choose a willing creature that you can see within range. Until the spell ends, the target's [[Speed]] is doubled, it gains a +2 bonus to [[Armor Class]], it has [[Advantage]] on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the [Attack](Compendium/rules/actions.md#Attack) (one attack only), [Dash](Compendium/rules/actions.md#Dash), [Disengage](Compendium/rules/actions.md#Disengage), [Hide](Compendium/rules/actions.md#Hide), or [Utilize](Compendium/rules/actions.md#Utilize) action.
+Choose a willing creature that you can see within range. Until the spell ends, the target's [[Speed]] is doubled, it gains a +2 bonus to [[Armor Class]], it has [[Advantage]] on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the [Attack](Actions.md#Attack) (one attack only), [Dash](Actions.md#Dash), [Disengage](Actions.md#Disengage), [Hide](Actions.md#Hide), or [Utilize](Actions.md#Utilize) action.
 
-When the spell ends, the target is [Incapacitated](Compendium/rules/conditions.md#Incapacitated) and has a [[Speed]] of 0 until the end of its next turn, as a wave of lethargy washes over it.
+When the spell ends, the target is [Incapacitated](Conditions.md#Incapacitated) and has a [[Speed]] of 0 until the end of its next turn, as a wave of lethargy washes over it.
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Glory)](Spells%20for%20Oath%20of%20Glory.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Vengeance)](Spells%20for%20Oath%20of%20Vengeance.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [[Wizard Spells]]
 

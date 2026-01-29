@@ -31,7 +31,7 @@ aliases: ["Cacophonic Shield"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-Thunderous reverberations fill a 10-foot [[Emanation (Area of Effect)]] originating from you for the duration. Whenever the [[Emanation (Area of Effect)]] enters a creature's space and whenever a creature enters the [[Emanation (Area of Effect)]] or ends its turn there, the creature makes a Constitution saving throw. On a failed save, the creature takes `3d6` Thunder damage and has the [Deafened](Compendium/rules/conditions.md#Deafened) condition until the start of your next turn. On a successful save, the creature takes half as much damage only. A creature makes this save only once per turn. When you cast this spell, you can designate creatures to be unaffected by it.
+Thunderous reverberations fill a 10-foot [[Emanation (Area of Effect)]] originating from you for the duration. Whenever the [[Emanation (Area of Effect)]] enters a creature's space and whenever a creature enters the [[Emanation (Area of Effect)]] or ends its turn there, the creature makes a Constitution saving throw. On a failed save, the creature takes `3d6` Thunder damage and has the [Deafened](Conditions.md#Deafened) condition until the start of your next turn. On a successful save, the creature takes half as much damage only. A creature makes this save only once per turn. When you cast this spell, you can designate creatures to be unaffected by it.
 
 In addition, you have [[resistance-xphb]] to Thunder damage, and ranged attack rolls against you are made with [[Disadvantage]].
 

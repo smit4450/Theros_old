@@ -56,7 +56,7 @@ The College of Glamour traces its origins to the beguiling magic of the Skola Va
 
 You always have the [[Charm Person]] and [[mirror-image-xphb]] spells prepared.
 
-In addition, immediately after you cast an Enchantment or Illusion spell using a spell slot, you can cause a creature you can see within 60 feet of yourself to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the [Charmed](Compendium/rules/conditions.md#Charmed) or [Frightened](Compendium/rules/conditions.md#Frightened) condition (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+In addition, immediately after you cast an Enchantment or Illusion spell using a spell slot, you can cause a creature you can see within 60 feet of yourself to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened) condition (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 Once you use this benefit, you can't use it again until you finish a [[Long Rest]]. You can also restore your use of it by expending one use of your Bardic Inspiration (no action required).
 
@@ -68,14 +68,14 @@ You can weave fey magic into a song or dance to fill others with vigor. As a [[B
 
 You always have the [[Command]] spell prepared.
 
-As a [[Bonus Action]], you cast [[Command]] without expending a spell slot, and you take on an unearthly appearance for 1 minute or until your [Concentration](Compendium/rules/conditions.md#Concentration) ends. During this time, you can cast [[Command]] as a [[Bonus Action]] without expending a spell slot.
+As a [[Bonus Action]], you cast [[Command]] without expending a spell slot, and you take on an unearthly appearance for 1 minute or until your [Concentration](Conditions.md#Concentration) ends. During this time, you can cast [[Command]] as a [[Bonus Action]] without expending a spell slot.
 
-Any creature [Charmed](Compendium/rules/conditions.md#Charmed) by you automatically fails its saving throw against the [[Command]] you cast with this feature.
+Any creature [Charmed](Conditions.md#Charmed) by you automatically fails its saving throw against the [[Command]] you cast with this feature.
 
 Once you use this feature, you can't use it again until you finish a [[Long Rest]]. You can also restore your use of it by expending a level 3+ spell slot (no action required).
 
 ### Unbreakable Majesty (Level 14)
 
-As a [[Bonus Action]], you can assume a magically majestic presence for 1 minute or until you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. For the duration, whenever any creature hits you with an attack roll for the first time on a turn, the attacker must succeed on a Charisma saving throw against your spell save DC, or the attack misses instead, as the creature recoils from your majesty.
+As a [[Bonus Action]], you can assume a magically majestic presence for 1 minute or until you have the [Incapacitated](Conditions.md#Incapacitated) condition. For the duration, whenever any creature hits you with an attack roll for the first time on a turn, the attacker must succeed on a Charisma saving throw against your spell save DC, or the attack misses instead, as the creature recoils from your majesty.
 
 Once you assume this majestic presence, you can't do so again until you finish a [[Short Rest]] or [[Long Rest]].

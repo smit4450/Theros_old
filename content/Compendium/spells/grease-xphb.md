@@ -32,7 +32,7 @@ aliases: ["Grease"]
 
 Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into [[Difficult Terrain]] for the duration.
 
-When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the [Prone](Compendium/rules/conditions.md#Prone) condition. A creature that enters the area or ends its turn there must also succeed on that save or fall [Prone](Compendium/rules/conditions.md#Prone).
+When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the [Prone](Conditions.md#Prone) condition. A creature that enters the area or ends its turn there must also succeed on that save or fall [Prone](Conditions.md#Prone).
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [[Wizard Spells]]
 

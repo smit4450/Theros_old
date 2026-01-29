@@ -58,7 +58,7 @@ If you use Reckless Attack while your Rage is active, you deal extra damage to t
 
 ### Mindless Rage (Level 6)
 
-You have [[Immunity]] to the [Charmed](Compendium/rules/conditions.md#Charmed) and [Frightened](Compendium/rules/conditions.md#Frightened) conditions while your Rage is active. If you're [Charmed](Compendium/rules/conditions.md#Charmed) or [Frightened](Compendium/rules/conditions.md#Frightened) when you enter your Rage, the condition ends on you.
+You have [[Immunity]] to the [Charmed](Conditions.md#Charmed) and [Frightened](Conditions.md#Frightened) conditions while your Rage is active. If you're [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened) when you enter your Rage, the condition ends on you.
 
 ### Retaliation (Level 10)
 
@@ -66,6 +66,6 @@ When you take damage from a creature that is within 5 feet of you, you can take 
 
 ### Intimidating Presence (Level 14)
 
-As a [[Bonus Action]], you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot [[Emanation (Area of Effect)]] originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and [[Proficiency]]). On a failed save, a creature has the [Frightened](Compendium/rules/conditions.md#Frightened) condition for 1 minute. At the end of each of the [Frightened](Compendium/rules/conditions.md#Frightened) creature's turns, the creature repeats the save, ending the effect on itself on a success.
+As a [[Bonus Action]], you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot [[Emanation (Area of Effect)]] originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and [[Proficiency]]). On a failed save, a creature has the [Frightened](Conditions.md#Frightened) condition for 1 minute. At the end of each of the [Frightened](Conditions.md#Frightened) creature's turns, the creature repeats the save, ending the effect on itself on a success.
 
 Once you use this feature, you can't use it again until you finish a [[Long Rest]] unless you expend a use of your Rage (no action required) to restore your use of it.

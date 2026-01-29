@@ -33,7 +33,7 @@ aliases: ["Greater Invisibility"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-A creature you touch has the [Invisible](Compendium/rules/conditions.md#Invisible) condition until the spell ends.
+A creature you touch has the [Invisible](Conditions.md#Invisible) condition until the spell ends.
 
 **Classes**: [[Bard Spells]]; [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Ranger (Gloom Stalker)](Spells%20for%20Gloom%20Stalker.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [Warlock (Archfey Patron)](Spells%20for%20Archfey%20Patron.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](Spells%20for%20Illusionist.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 

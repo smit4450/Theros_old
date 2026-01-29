@@ -56,7 +56,7 @@ Wielders of spellfire tend to have a penchant for wandering. Many travel between
 
 ### Spellfire Burst (Level 3)
 
-When you spend at least 1 Sorcery Point as part of the [Magic](Compendium/rules/actions.md#Magic) action or a [[Bonus Action]] on your turn, you can unleash one of the following magical effects of your choice. You can do so only once per turn.
+When you spend at least 1 Sorcery Point as part of the [Magic](Actions.md#Magic) action or a [[Bonus Action]] on your turn, you can unleash one of the following magical effects of your choice. You can do so only once per turn.
 
 ### Bolstering Flames (Level 3)
 
@@ -105,4 +105,4 @@ You gain a [[Fly Speed]] of 60 feet and can hover.
 #### Spell Avoidance
 _Source: FRHoF_
 
-When you're subjected to a spell or magical effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this benefit if you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+When you're subjected to a spell or magical effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this benefit if you have the [Incapacitated](Conditions.md#Incapacitated) condition.

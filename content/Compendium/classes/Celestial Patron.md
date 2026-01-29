@@ -82,6 +82,6 @@ You gain [[Temporary Hit Points]] whenever you use your Magical Cunning feature 
 
 ### Searing Vengeance (Level 14)
 
-When you or an ally within 60 feet of you is about to make a [[Death Saving Throw]], you can unleash radiant energy to save the creature. The creature regains [[Hit Points]] equal to half its [[Hit Points]] maximum and can end the [Prone](Compendium/rules/conditions.md#Prone) condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to `2d8` plus your Charisma modifier, and each has the [Blinded](Compendium/rules/conditions.md#Blinded) condition until the end of the current turn.
+When you or an ally within 60 feet of you is about to make a [[Death Saving Throw]], you can unleash radiant energy to save the creature. The creature regains [[Hit Points]] equal to half its [[Hit Points]] maximum and can end the [Prone](Conditions.md#Prone) condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to `2d8` plus your Charisma modifier, and each has the [Blinded](Conditions.md#Blinded) condition until the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a [[Long Rest]].

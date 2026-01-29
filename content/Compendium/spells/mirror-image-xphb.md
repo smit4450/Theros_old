@@ -41,7 +41,7 @@ Three illusory duplicates of yourself appear in your space. Until the spell ends
 
 Each time a creature hits you with an attack roll during the spell's duration, roll a `d6` for each of your remaining duplicates. If any of the d6s rolls a 3 or higher, one of the duplicates is hit instead of you, and the duplicate is destroyed. The duplicates otherwise ignore all other damage and effects. The spell ends when all three duplicates are destroyed.
 
-A creature is unaffected by this spell if it has the [Blinded](Compendium/rules/conditions.md#Blinded) condition, [Blindsight](Compendium/rules/senses.md#Blindsight), or [Truesight](Compendium/rules/senses.md#Truesight).
+A creature is unaffected by this spell if it has the [Blinded](Conditions.md#Blinded) condition, [Blindsight](Senses.md#Blindsight), or [Truesight](Senses.md#Truesight).
 
 **Classes**: [Bard (College of Glamour)](Spells%20for%20College%20of%20Glamour.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Noble Genies)](Spells%20for%20Oath%20of%20the%20Noble%20Genies.md "subclass=FRHoF;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [[Warlock Spells]]; [Wizard (Illusionist)](Spells%20for%20Illusionist.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 

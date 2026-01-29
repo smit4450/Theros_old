@@ -12,7 +12,7 @@ aliases: ["Noble"]
 
 - **Ability Scores.** Strength, Intelligence, Charisma  
 - **Feat.**  [[Skilled]]  
-- **Skill Proficiencies.** [History](Compendium/rules/skills.md#History), [Persuasion](Compendium/rules/skills.md#Persuasion)  
+- **Skill Proficiencies.** [History](Skills.md#History), [Persuasion](Skills.md#Persuasion)  
 - **Tool Proficiency.** Choose one kind of [[Gaming Set]]  
 - **Equipment.** Choose A or B: (A) [[Gaming Set]] (same as above), [[Fine Clothes]], [[Perfume]], 29 GP; or (B) 50 GP  
 

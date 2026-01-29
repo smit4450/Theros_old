@@ -22,7 +22,7 @@ aliases:
 
 When you attack an object with this magic weapon and hit, maximize your weapon damage dice against the target.
 
-When you attack a creature with this weapon and roll a 20 on the `d20` for the attack roll, that target takes an extra 14 Slashing damage and gains 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level.
+When you attack a creature with this weapon and roll a 20 on the `d20` for the attack roll, that target takes an extra 14 Slashing damage and gains 1 [Exhaustion](Conditions.md#Exhaustion) level.
 
 **Variants**:
 -  [[#Glaive of Sharpness]]
@@ -33,13 +33,13 @@ When you attack a creature with this weapon and roll a 20 on the `d20` for the a
 ### Glaive of Sharpness
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Item%20Properties.md#Heavy), [Reach](Item%20Properties.md#Reach), [Two-Handed](Item%20Properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Greatsword of Sharpness
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Item%20Properties.md#Heavy), [Two-Handed](Item%20Properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Longsword of Sharpness
@@ -47,13 +47,13 @@ When you attack a creature with this weapon and roll a 20 on the `d20` for the a
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Scimitar of Sharpness
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Finesse](Item%20Properties.md#Finesse), [Light](Item%20Properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 

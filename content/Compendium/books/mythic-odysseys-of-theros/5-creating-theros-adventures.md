@@ -116,7 +116,7 @@ The [[Augury]] spell requests an omen. At your option, you can simply provide th
 - **Other Messages.** An omen can also have a more direct meaning beyond simply "weal" or "woe." You can use omens to nudge the characters to an adventure location, to lead them to an oracle who lives far from the polis, or to hint at the true identity of a villain. Nylea might cause a flock of birds to suddenly rush eastward, inviting her champion to follow in that direction, or an animal might snarl whenever the villain's name is spoken. Omens should communicate important messages from the gods, something meaningful enough that deities have deigned to interfere in mortal efforts. The gods don't provide omens to address unimportant questions (unless the characters use a spell for this purpose).  
 - **Interpreting Omens.** A degree of mystery surrounds every omen, but the more complex an omen is, the more confusing mortals might find it. In addition, it's sometimes not clear whether a strange occurrence in the natural world is the work of the gods or has some other origin.  
 
-If a character struggles to interpret the meaning of an omen, you might allow them to make a DC 14 Intelligence or Wisdom check (perhaps modified by proficiency in [Arcana](Compendium/rules/skills.md#Arcana), [Nature](Compendium/rules/skills.md#Nature), or [Religion](Compendium/rules/skills.md#Religion)) to determine the nature of simple omens, with a success indicating that the correct message has been gleaned. Alternatively, characters might need to seek out oracles to interpret complicated omens for them.
+If a character struggles to interpret the meaning of an omen, you might allow them to make a DC 14 Intelligence or Wisdom check (perhaps modified by proficiency in [Arcana](Skills.md#Arcana), [Nature](Skills.md#Nature), or [Religion](Skills.md#Religion)) to determine the nature of simple omens, with a success indicating that the correct message has been gleaned. Alternatively, characters might need to seek out oracles to interpret complicated omens for them.
 
 - **Omen Examples.** The tables on the following pages provide examples of phenomena that could serve as omens of the various gods. Although they each have their own areas of concern, any god can manipulate the natural world as they please. You can choose a god to closely align the omen with and roll either a `d6` or a `d8` to get an omen associated with that god, or you can roll a `d100` to get an omen from any of the god's omen tables at random.  
 
@@ -192,14 +192,14 @@ You can use these additional blessings for your campaign, or use them to inspire
 
 ##### Blessing of Farsight (Requires Piety 3+)
 
-You have advantage on Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks that rely on sight.
+You have advantage on Wisdom ([Perception](Skills.md#Perception)) checks that rely on sight.
 
 - **Blessing of Protection (Requires Piety 3+).** As a bonus action, you can invoke your god's protection, providing you with a +1 bonus to your AC for 1 minute. Once you use this blessing, you can't use it again until the next dawn.  
 - **Blessing of Resilience (Requires Piety 3+).** When you are about to take acid, cold, fire, lightning, or thunder damage, you can use your reaction to gain resistance to that damage type until the end of your next turn. Once you use this blessing, you can't use it again until the next dawn.  
 
 ##### Eyes of Nyx (Requires Piety 10+)
 
-As an action, you can imbue your eyes with enhanced vision for 10 minutes. While the blessing is active, your eyes look like the starry void of Nyx, and you can see [invisible](Compendium/rules/conditions.md#Invisible) creatures and objects within 60 feet of you that are within your line of sight. Once you use this blessing, you can't use it again until the next dusk.
+As an action, you can imbue your eyes with enhanced vision for 10 minutes. While the blessing is active, your eyes look like the starry void of Nyx, and you can see [invisible](Conditions.md#Invisible) creatures and objects within 60 feet of you that are within your line of sight. Once you use this blessing, you can't use it again until the next dusk.
 
 - **Weapon of Nyx (Requires Piety 10+).** You can use a bonus action to cause one weapon you are holding to surge with divine power for 1 minute. On a hit, the weapon deals an extra `1d8` radiant damage. (Depending on your god, it might deal a different damage type—necrotic for Erebos, lightning for Keranos, or fire for Purphoros, for example.) Once you use this blessing, you can't use it again until you finish a long rest.  
 
@@ -1636,11 +1636,11 @@ All things eventually reach their end and pass into the Underworld. That doesn't
 
 > [!note] What Happens When You Die?
 > 
-> When a soul arrives in the Underworld, it has all the memories and skills it enjoyed in life. In all respects, it is identical to its living self, including its game statistics. Though souls can enjoy the acts of eating, drinking, and sleeping, they don't require them. They feel hunger and thirst and might be tormented by deprivation, but they don't suffer the effects of [exhaustion](Compendium/rules/conditions.md#Exhaustion) because of it.
+> When a soul arrives in the Underworld, it has all the memories and skills it enjoyed in life. In all respects, it is identical to its living self, including its game statistics. Though souls can enjoy the acts of eating, drinking, and sleeping, they don't require them. They feel hunger and thirst and might be tormented by deprivation, but they don't suffer the effects of [exhaustion](Conditions.md#Exhaustion) because of it.
 > 
-> Every time a soul dies in the Underworld, it reanimates at the start of its next turn with 1 hit point per Hit Die it possesses, and it gains one level of [exhaustion](Compendium/rules/conditions.md#Exhaustion) that can't be removed unless the soul returns to life, at which point all [exhaustion](Compendium/rules/conditions.md#Exhaustion) gained in this way vanishes. With each level of permanent [exhaustion](Compendium/rules/conditions.md#Exhaustion), the soul becomes faded and dull, its eyes glazing over more and more until they are blank, staring pools.
+> Every time a soul dies in the Underworld, it reanimates at the start of its next turn with 1 hit point per Hit Die it possesses, and it gains one level of [exhaustion](Conditions.md#Exhaustion) that can't be removed unless the soul returns to life, at which point all [exhaustion](Conditions.md#Exhaustion) gained in this way vanishes. With each level of permanent [exhaustion](Conditions.md#Exhaustion), the soul becomes faded and dull, its eyes glazing over more and more until they are blank, staring pools.
 > 
-> A soul that suffers level 6 [exhaustion](Compendium/rules/conditions.md#Exhaustion) from the continued application of this effect petrifies into a statue called a misera, and it doesn't rise again.
+> A soul that suffers level 6 [exhaustion](Conditions.md#Exhaustion) from the continued application of this effect petrifies into a statue called a misera, and it doesn't rise again.
 ^what-happens-when-you-die
 
 ### Living Descent
@@ -1700,7 +1700,7 @@ When a spirit reaches the Underworld, they find that they're far from alone. The
 
 **Glazers** are vacant, misery-worn souls who have endured decades of existence in the Underworld. Most have spent far more time dead than they did alive and remember life as little more than a faded dream.
 
-**Misera** are souls permanently turned to stone after enduring numerous deaths in the Underworld. These corpses of the dead linger where they [petrified](Compendium/rules/conditions.md#Petrified) until they crumble to dust.
+**Misera** are souls permanently turned to stone after enduring numerous deaths in the Underworld. These corpses of the dead linger where they [petrified](Conditions.md#Petrified) until they crumble to dust.
 
 ### Paths of Escape
 

@@ -35,9 +35,9 @@ aliases: ["Friends"]
 - **Components:** S, M (some makeup)
 - **Duration:** Concentration, up to 1 minute
 
-You magically emanate a sense of friendship toward one creature you can see within range. The target must succeed on a Wisdom saving throw or have the [Charmed](Compendium/rules/conditions.md#Charmed) condition for the duration. The target succeeds automatically if it isn't a Humanoid, if you're fighting it, or if you have cast this spell on it within the past 24 hours.
+You magically emanate a sense of friendship toward one creature you can see within range. The target must succeed on a Wisdom saving throw or have the [Charmed](Conditions.md#Charmed) condition for the duration. The target succeeds automatically if it isn't a Humanoid, if you're fighting it, or if you have cast this spell on it within the past 24 hours.
 
-The spell ends early if the target takes damage or if you make an attack roll, deal damage, or force anyone to make a saving throw. When the spell ends, the target knows it was [Charmed](Compendium/rules/conditions.md#Charmed) by you.
+The spell ends early if the target takes damage or if you make an attack roll, deal damage, or force anyone to make a saving throw. When the spell ends, the target knows it was [Charmed](Conditions.md#Charmed) by you.
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [[Warlock Spells]]; [[Wizard Spells]]
 

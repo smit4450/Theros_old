@@ -13,8 +13,8 @@ aliases:
 
 You gain the following benefits.
 
-**Entreat.** You gain proficiency in one of the following skills: [Insight](Compendium/rules/skills.md#Insight), [Performance](Compendium/rules/skills.md#Performance), or [Persuasion](Compendium/rules/skills.md#Persuasion).
+**Entreat.** You gain proficiency in one of the following skills: [Insight](Skills.md#Insight), [Performance](Skills.md#Performance), or [Persuasion](Skills.md#Persuasion).
 
-**Rallying Cry.** When you roll [[Initiative]] and don't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, you can choose a number of creatures equal to your [[Proficiency]] that you can see within 30 feet of yourself. Those creatures gain [[Heroic Inspiration]].
+**Rallying Cry.** When you roll [[Initiative]] and don't have the [Incapacitated](Conditions.md#Incapacitated) condition, you can choose a number of creatures equal to your [[Proficiency]] that you can see within 30 feet of yourself. Those creatures gain [[Heroic Inspiration]].
 
 Once you use this benefit, you can't do so again until you finish a [[Long Rest]].

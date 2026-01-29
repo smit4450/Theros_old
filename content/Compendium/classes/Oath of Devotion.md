@@ -77,7 +77,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Sacred Weapon (Level 3)
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action, you can expend one use of your Channel Divinity to imbue one Melee weapon that you are holding with positive energy. For 10 minutes or until you use this feature again, you add your Charisma modifier to attack rolls you make with that weapon (minimum bonus of +1), and each time you hit with it, you cause it to deal its normal damage type or Radiant damage.
+When you take the [Attack](Actions.md#Attack) action, you can expend one use of your Channel Divinity to imbue one Melee weapon that you are holding with positive energy. For 10 minutes or until you use this feature again, you add your Charisma modifier to attack rolls you make with that weapon (minimum bonus of +1), and each time you hit with it, you cause it to deal its normal damage type or Radiant damage.
 
 The weapon also emits [[Bright Light]] in a 20-foot radius and [[Dim Light]] 20 feet beyond that.
 
@@ -85,7 +85,7 @@ You can end this effect early (no action required). This effect also ends if you
 
 ### Aura of Devotion (Level 7)
 
-You and your allies have [[Immunity]] to the [Charmed](Compendium/rules/conditions.md#Charmed) condition while in your Aura of Protection. If a [Charmed](Compendium/rules/conditions.md#Charmed) ally enters the aura, that condition has no effect on that ally while there.
+You and your allies have [[Immunity]] to the [Charmed](Conditions.md#Charmed) condition while in your Aura of Protection. If a [Charmed](Conditions.md#Charmed) ally enters the aura, that condition has no effect on that ally while there.
 
 ### Smite of Protection (Level 15)
 

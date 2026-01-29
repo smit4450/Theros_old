@@ -64,7 +64,7 @@ While the Bladesong is active, you gain the following benefits. You can invoke t
 
 #### Agility
 
-You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1), and your [[Speed]] increases by 10 feet. In addition, you have [[Advantage]] on Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) checks.
+You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1), and your [[Speed]] increases by 10 feet. In addition, you have [[Advantage]] on Dexterity ([Acrobatics](Skills.md#Acrobatics)) checks.
 
 #### Bladework
 
@@ -72,17 +72,17 @@ Whenever you attack with a weapon with which you have proficiency, you can use y
 
 #### Focus
 
-When you make a Constitution saving throw to maintain [Concentration](Compendium/rules/conditions.md#Concentration), you can add your Intelligence modifier to the total.
+When you make a Constitution saving throw to maintain [Concentration](Conditions.md#Concentration), you can add your Intelligence modifier to the total.
 
 ### Training in War and Song (Level 3)
 
 You gain proficiency with all Melee Martial weapons that don't have the Two-Handed or Heavy property. You can use a Melee weapon with which you have proficiency as a [[Spellcasting Focus]] for your Wizard spells.
 
-You also gain proficiency in one of the following skills of your choice: [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [Performance](Compendium/rules/skills.md#Performance), or [Persuasion](Compendium/rules/skills.md#Persuasion).
+You also gain proficiency in one of the following skills of your choice: [Acrobatics](Skills.md#Acrobatics), [Athletics](Skills.md#Athletics), [Performance](Skills.md#Performance), or [Persuasion](Skills.md#Persuasion).
 
 ### Extra Attack (Level 6)
 
-You can attack twice, instead of once, whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn. Moreover, you can cast one of your Wizard cantrips that has a casting time of an action in place of one of those attacks.
+You can attack twice, instead of once, whenever you take the [Attack](Actions.md#Attack) action on your turn. Moreover, you can cast one of your Wizard cantrips that has a casting time of an action in place of one of those attacks.
 
 ### Song of Defense (Level 10)
 

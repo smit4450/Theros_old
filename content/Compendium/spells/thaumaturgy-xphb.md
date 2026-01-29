@@ -33,7 +33,7 @@ You alter the appearance of your eyes for 1 minute.
 
 ## Booming Voice
 
-Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have [[Advantage]] on Charisma ([Intimidation](Compendium/rules/skills.md#Intimidation)) checks.
+Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have [[Advantage]] on Charisma ([Intimidation](Skills.md#Intimidation)) checks.
 
 ## Fire Play
 

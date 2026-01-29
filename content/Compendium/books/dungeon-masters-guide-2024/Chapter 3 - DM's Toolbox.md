@@ -74,11 +74,11 @@ When a chase begins, determine the starting distance between the quarry and the 
 
 ### Running the Chase
 
-Participants in the chase are strongly motivated to take the [Dash](Compendium/rules/actions.md#Dash) action every round. Pursuers who stop to cast spells and make attacks run the risk of losing their quarry, and a quarry that doesn't take the Dash action is likely to be caught.
+Participants in the chase are strongly motivated to take the [Dash](Actions.md#Dash) action every round. Pursuers who stop to cast spells and make attacks run the risk of losing their quarry, and a quarry that doesn't take the Dash action is likely to be caught.
 
 #### Dashing
 
-A chase participant can take the [Dash](Compendium/rules/actions.md#Dash) action a number of times equal to 3 plus its Constitution modifier (minimum of once). Each additional Dash action it takes during the chase requires the creature to succeed on a DC 10 Constitution saving throw at the end of its turn or gain 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level. A participant drops out of the chase if it has 5 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) levels. A creature can remove the [Exhaustion](Compendium/rules/conditions.md#Exhaustion) levels it gained during the chase by finishing a [[Short Rest]] or [[Long Rest]].
+A chase participant can take the [Dash](Actions.md#Dash) action a number of times equal to 3 plus its Constitution modifier (minimum of once). Each additional Dash action it takes during the chase requires the creature to succeed on a DC 10 Constitution saving throw at the end of its turn or gain 1 [Exhaustion](Conditions.md#Exhaustion) level. A participant drops out of the chase if it has 5 [Exhaustion](Conditions.md#Exhaustion) levels. A creature can remove the [Exhaustion](Conditions.md#Exhaustion) levels it gained during the chase by finishing a [[Short Rest]] or [[Long Rest]].
 
 #### Spells and Attacks
 
@@ -90,7 +90,7 @@ Chase participants can't normally make [Opportunity Attacks](Compendium/rules/ac
 
 A chase ends when one side or the other stops, when each quarry escapes, or when the pursuers are close enough to their quarry to catch it.
 
-If neither side gives up the chase, the quarry makes a Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) check on Initiative count 0 each round, after every participant in the chase has taken its turn. If the quarry is never out of the lead pursuer's sight, the check fails automatically. Otherwise, compare the check's total to the [[Passive Perception]] scores of the pursuers. If the quarry consists of multiple creatures, they all make the check separately, so it's possible for one quarry to escape while others remain in the chase.
+If neither side gives up the chase, the quarry makes a Dexterity ([Stealth](Skills.md#Stealth)) check on Initiative count 0 each round, after every participant in the chase has taken its turn. If the quarry is never out of the lead pursuer's sight, the check fails automatically. Otherwise, compare the check's total to the [[Passive Perception]] scores of the pursuers. If the quarry consists of multiple creatures, they all make the check separately, so it's possible for one quarry to escape while others remain in the chase.
 
 The quarry can gain [[Advantage]] or [[Disadvantage]] on its check based on the circumstances, as shown in the Escape Factors table.
 
@@ -189,13 +189,13 @@ You can change any or all of the languages the creature knows. You might want to
 
 #### Proficiencies
 
-You can give a creature any skill proficiencies you want and give it [[Expertise]] if you want it to be very skilled. If you want a creature to be good at hiding, give it Expertise in the [Stealth](Compendium/rules/skills.md#Stealth) skill. If its keen senses make it an excellent tracker or otherwise adept at finding hidden foes, give it Expertise in the [Perception](Compendium/rules/skills.md#Perception) skill. (You can also increase its Wisdom, as noted above.)
+You can give a creature any skill proficiencies you want and give it [[Expertise]] if you want it to be very skilled. If you want a creature to be good at hiding, give it Expertise in the [Stealth](Skills.md#Stealth) skill. If its keen senses make it an excellent tracker or otherwise adept at finding hidden foes, give it Expertise in the [Perception](Skills.md#Perception) skill. (You can also increase its Wisdom, as noted above.)
 
 You can also swap a monster's saving throw proficiencies. If it has none, you can add one or two.
 
 #### Senses
 
-[Blindsight](Compendium/rules/senses.md#Blindsight), [Darkvision](Compendium/rules/senses.md#Darkvision), [Tremorsense](Compendium/rules/senses.md#Tremorsense), and [Truesight](Compendium/rules/senses.md#Truesight) have no bearing on a creature's Challenge Rating. You can add or remove them freely.
+[Blindsight](Senses.md#Blindsight), [Darkvision](Senses.md#Darkvision), [Tremorsense](Senses.md#Tremorsense), and [Truesight](Senses.md#Truesight) have no bearing on a creature's Challenge Rating. You can add or remove them freely.
 
 #### Spells
 
@@ -225,20 +225,20 @@ You can also use traits from other stat blocks in the "Monster Manual", provided
 - **Disciple of the Nine Hells.** When the creature dies, its body disgorges a [[Hostile (Attitude)]] [[imp-xmm]] in the same space.  
 - **Disintegration.** When the creature dies, its body and nonmagical possessions turn to dust. Any magic items it possessed are left behind in its space.  
 - **Emissary of Juiblex.** When the creature dies, its body disgorges a [[Hostile (Attitude)]] [[Ochre Jelly]] in the same space.  
-- **Fey Ancestry.** The creature has Advantage on saving throws it makes to avoid or end the [Charmed](Compendium/rules/conditions.md#Charmed) condition, and magic can't put it to sleep.  
+- **Fey Ancestry.** The creature has Advantage on saving throws it makes to avoid or end the [Charmed](Conditions.md#Charmed) condition, and magic can't put it to sleep.  
 - **Forbiddance.** The creature can't enter a residence without an invitation from one of its occupants.  
 - **Gloom Shroud.** Imperceptible energy channeled from the "Underworld" extends from the creature in a 20-foot [[Emanation (Area of Effect)]]. Other creatures in that area have [[Disadvantage]] on Charisma checks and Charisma saving throws.  
 - **Light.** The creature sheds [[Bright Light]] in a 10-foot radius and [[Dim Light]] for an additional 10 feet. As a [[Bonus Action]], the creature can suppress this light or cause it to return. The light winks out if the creature dies.  
-- **Mimicry.** The creature can mimic Beast sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](Compendium/rules/skills.md#Insight)) check.  
-- **Poison Tolerant.** The creature has Advantage on saving throws it makes to avoid or end the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition.  
+- **Mimicry.** The creature can mimic Beast sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](Skills.md#Insight)) check.  
+- **Poison Tolerant.** The creature has Advantage on saving throws it makes to avoid or end the [Poisoned](Conditions.md#Poisoned) condition.  
 - **Resonant Connection.** The creature has a supernatural connection to another creature or an object and knows the most direct route to it, provided the two are within 1 mile of each other.  
 - **Siege Monster.** The creature deals double damage to objects and structures.  
 - **Slaad Host.** When the creature dies, a [[Hostile (Attitude)]] [[slaad-tadpole-xmm]] bursts from its innards in the same space.  
-- **Steadfast.** The creature has [[Immunity]] to the [Frightened](Compendium/rules/conditions.md#Frightened) condition while it can see an ally within 30 feet of itself.  
+- **Steadfast.** The creature has [[Immunity]] to the [Frightened](Conditions.md#Frightened) condition while it can see an ally within 30 feet of itself.  
 - **Telepathic Bond.** The creature is linked psychically to another creature. While both are on the same plane of existence, they can communicate telepathically with each other.  
 - **Telepathic Shroud.** The creature is immune to any effect that would sense its emotions or read its thoughts, as well as to spells from the school of Divination. As a Bonus Action, the creature can suppress this trait or reactivate it.  
 - **Ventriloquism.** Whenever the creature speaks, it can choose a point within 30 feet of itself; its voice emanates from that point.  
-- **Warrior's Wrath.** The creature has Advantage on melee attack rolls against any [Bloodied](Compendium/rules/conditions.md#Bloodied) creature.  
+- **Warrior's Wrath.** The creature has Advantage on melee attack rolls against any [Bloodied](Conditions.md#Bloodied) creature.  
 - **Wild Talent.** Choose one cantrip; the creature can cast that cantrip without spell components, using Intelligence, Wisdom, or Charisma as the spellcasting ability.  
 
 ## Creating a Magic Item
@@ -418,7 +418,7 @@ If you and your players agree to avoid character death in your game, you might c
 
 ##### Comatose
 
-The character has 1 Hit Point and the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition. The character can regain Hit Points as normal, but the character remains Unconscious until they are targeted by a [[greater-restoration-xphb]] spell or experience a sudden awakening (see below).
+The character has 1 Hit Point and the [Unconscious](Conditions.md#Unconscious) condition. The character can regain Hit Points as normal, but the character remains Unconscious until they are targeted by a [[greater-restoration-xphb]] spell or experience a sudden awakening (see below).
 
 ##### Sudden Awakening
 
@@ -477,13 +477,13 @@ Adventurers interact with doors often in a D&D campaign. This section gives rule
 
 The Doors table provides the AC and Hit Points for common doors, which are Medium objects.
 
-With the [Utilize](Compendium/rules/actions.md#Utilize) action, a creature can try to force open a door that is barred or locked, doing so with a successful Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check. The table provides the DC of the check. For bigger doors, double or triple the Hit Points and increase the DC of the check by 5.
+With the [Utilize](Actions.md#Utilize) action, a creature can try to force open a door that is barred or locked, doing so with a successful Strength ([Athletics](Skills.md#Athletics)) check. The table provides the DC of the check. For bigger doors, double or triple the Hit Points and increase the DC of the check by 5.
 
 ![[doors-xdmg]]
 
 #### Barred Door
 
-A barred door has no lock. A creature on the barred side of the door can take the [Utilize](Compendium/rules/actions.md#Utilize) action to lift the bar from its braces, allowing the door to be opened.
+A barred door has no lock. A creature on the barred side of the door can take the [Utilize](Actions.md#Utilize) action to lift the bar from its braces, allowing the door to be opened.
 
 #### Locked Door
 
@@ -497,9 +497,9 @@ Characters who don't have the key to a locked door can try to pick the lock usin
 
 A secret door is crafted to blend into the wall that surrounds it. Sometimes faint cracks in the wall or scuff marks on the floor betray the secret door's presence. Other than the fact that it's hidden, a secret door is similar to a common door.
 
-With the [Search](Compendium/rules/actions.md#Search) action, a character can search for a secret door along a 10-foot-square section of wall and make a Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check. On a successful check, the character finds any secret door hidden in that section of wall as well as the mechanism to open the door. The DC of the check depends on how well the secret door is hidden, as shown in the Secret Doors table.
+With the [Search](Actions.md#Search) action, a character can search for a secret door along a 10-foot-square section of wall and make a Wisdom ([Perception](Skills.md#Perception)) check. On a successful check, the character finds any secret door hidden in that section of wall as well as the mechanism to open the door. The DC of the check depends on how well the secret door is hidden, as shown in the Secret Doors table.
 
-You can instead call for an Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check if the challenge involves deducing that a door is present from noticeable clues, rather than spotting those clues in the first place. See ""Perception"" in "chapter 2" for more advice.
+You can instead call for an Intelligence ([Investigation](Skills.md#Investigation)) check if the challenge involves deducing that a door is present from noticeable clues, rather than spotting those clues in the first place. See ""Perception"" in "chapter 2" for more advice.
 
 ![[secret-doors-xdmg]]
 
@@ -511,7 +511,7 @@ Adventurers often fail to locate secret doors. For this reason, don't hide impor
 
 Typically made of iron or wood, a portcullis blocks a passage or an archway until it is raised into the ceiling by a winch and chain. Creatures within 5 feet of a lowered portcullis can make ranged attacks or cast spells through it, and they have [[cover-xphb]] against attacks, spells, and other effects originating from the opposite side. A portcullis can also be attacked and destroyed, using the AC and Hit Points of a metal door (if iron) or a wooden door (if wood).
 
-Winching a portcullis up or down requires the [Utilize](Compendium/rules/actions.md#Utilize) action. If a creature can't reach the winch (usually because it's on the other side of the portcullis), lifting the portcullis requires the [Utilize](Compendium/rules/actions.md#Utilize) action and a successful Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check. The DC of the check depends on the type of portcullis, as shown in the Portcullises table.
+Winching a portcullis up or down requires the [Utilize](Actions.md#Utilize) action. If a creature can't reach the winch (usually because it's on the other side of the portcullis), lifting the portcullis requires the [Utilize](Actions.md#Utilize) action and a successful Strength ([Athletics](Skills.md#Athletics)) check. The DC of the check depends on the type of portcullis, as shown in the Portcullises table.
 
 ![[portcullises-xdmg]]
 
@@ -634,15 +634,15 @@ If you plan to use any of these rules, discuss them with your players at the sta
 
 ### Fear Effects
 
-Whenever the characters encounter something that is supernaturally frightful, use the [Frightened](Compendium/rules/conditions.md#Frightened) condition as the baseline effect. Fear effects typically require a Wisdom saving throw, with a save DC set based on how terrifying the situation is. The Sample Fear DCs table provides some examples.
+Whenever the characters encounter something that is supernaturally frightful, use the [Frightened](Conditions.md#Frightened) condition as the baseline effect. Fear effects typically require a Wisdom saving throw, with a save DC set based on how terrifying the situation is. The Sample Fear DCs table provides some examples.
 
 ![[fear-effects-sample-fear-dcs-xdmg]]
 
-Typically, a [Frightened](Compendium/rules/conditions.md#Frightened) creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Typically, a [Frightened](Conditions.md#Frightened) creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 At your discretion, a Frightened creature might be subject to other effects as long as the Frightened condition lasts. Consider these examples:
 
-- The Frightened creature must take the [Dash](Compendium/rules/actions.md#Dash) action on each of its turns and uses its movement to get farther away from the source of its fear.  
+- The Frightened creature must take the [Dash](Actions.md#Dash) action on each of its turns and uses its movement to get farther away from the source of its fear.  
 - Attack rolls against the Frightened creature have [[Advantage]].  
 - The Frightened creature can do only one of the following on each of its turns: move, take an action, or take a Bonus Action.  
 
@@ -660,7 +660,7 @@ Exposure to mental stress can cause prolonged effects. Consider the following po
 
 ##### Short-Term Effects
 
-The character has the [Frightened](Compendium/rules/conditions.md#Frightened), [Incapacitated](Compendium/rules/conditions.md#Incapacitated), or [Stunned](Compendium/rules/conditions.md#Stunned) condition for `1d10` minutes. This condition might be accompanied by alarming behavior or hallucinations. These effects can be suppressed with the [[Calm Emotions]] spell or removed by the [[lesser-restoration-xphb]] spell.
+The character has the [Frightened](Conditions.md#Frightened), [Incapacitated](Conditions.md#Incapacitated), or [Stunned](Conditions.md#Stunned) condition for `1d10` minutes. This condition might be accompanied by alarming behavior or hallucinations. These effects can be suppressed with the [[Calm Emotions]] spell or removed by the [[lesser-restoration-xphb]] spell.
 
 ##### Long-Term Effects
 
@@ -738,7 +738,7 @@ Setting fire to a container full of Gunpowder causes it to explode. When a conta
 
 ### Alien Technology
 
-When adventurers find a piece of technology that isn't from their world or time period, they can deduce what it is with a successful Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check, with the DC depending on the complexity of the item: DC 10 for a relatively simple item like a calculator or a lighter, or DC 20 for a complex item such as a computer, a chainsaw, or a hovercraft. You may require a separate Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check to determine whether a character can activate or operate the technology; a character who has observed the item in use or has operated a similar item either has [[Advantage]] on the check or succeeds on the check automatically (your choice).
+When adventurers find a piece of technology that isn't from their world or time period, they can deduce what it is with a successful Intelligence ([Investigation](Skills.md#Investigation)) check, with the DC depending on the complexity of the item: DC 10 for a relatively simple item like a calculator or a lighter, or DC 20 for a complex item such as a computer, a chainsaw, or a hovercraft. You may require a separate Intelligence ([Investigation](Skills.md#Investigation)) check to determine whether a character can activate or operate the technology; a character who has observed the item in use or has operated a similar item either has [[Advantage]] on the check or succeeds on the check automatically (your choice).
 
 ## Gods and Other Powers
 
@@ -1085,7 +1085,7 @@ In some settings, laws prohibit the possession and use of poison, but an illicit
 
 ### Harvesting Poison
 
-A character can attempt to harvest poison from a venomous creature that is dead or has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. The effort takes `1d6` minutes, after which the character makes a DC 20 Intelligence ([Nature](Compendium/rules/skills.md#Nature)) check using a [[Poisoner's Kit]]. On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
+A character can attempt to harvest poison from a venomous creature that is dead or has the [Incapacitated](Conditions.md#Incapacitated) condition. The effort takes `1d6` minutes, after which the character makes a DC 20 Intelligence ([Nature](Skills.md#Nature)) check using a [[Poisoner's Kit]]. On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
 
 ### Sample Poisons
 

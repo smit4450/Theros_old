@@ -14,7 +14,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, it removes any [Exhaustion](Compendium/rules/conditions.md#Exhaustion) levels you have and ends the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition on you. For the next 24 hours, you regain the maximum number of [[Hit Points]] for any [[Hit Point Dice]] you spend.
+When you drink this potion, it removes any [Exhaustion](Conditions.md#Exhaustion) levels you have and ends the [Poisoned](Conditions.md#Poisoned) condition on you. For the next 24 hours, you regain the maximum number of [[Hit Points]] for any [[Hit Point Dice]] you spend.
 
 This potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.
 

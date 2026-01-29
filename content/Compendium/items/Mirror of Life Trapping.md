@@ -15,7 +15,7 @@ aliases:
 
 When this 4-foot-tall, 2-foot-wide mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, HP 10, [[Immunity]] to Poison and Psychic damage, and [[Vulnerability]] to Bludgeoning damage. It shatters and is destroyed when reduced to 0 [[Hit Points]].
 
-If the mirror is hanging on a vertical surface and you are within 5 feet of it, you can take a [Magic](Compendium/rules/actions.md#Magic) action and use a command word to activate it. It remains activated until you take a [Magic](Compendium/rules/actions.md#Magic) action and repeat the command word to deactivate it.
+If the mirror is hanging on a vertical surface and you are within 5 feet of it, you can take a [Magic](Actions.md#Magic) action and use a command word to activate it. It remains activated until you take a [Magic](Actions.md#Magic) action and repeat the command word to deactivate it.
 
 Any creature other than you that sees its reflection in the activated mirror while within 30 feet of the mirror must succeed on a DC 15 Charisma saving throw or be trapped, along with anything it is wearing or carrying, in one of the mirror's twelve extradimensional cells. A creature that knows the mirror's nature makes the save with [[Advantage]], and Constructs succeed on the save automatically.
 
@@ -23,9 +23,9 @@ An extradimensional cell is an infinite expanse filled with thick fog that reduc
 
 If the mirror traps a creature but its twelve extradimensional cells are already occupied, the mirror frees one trapped creature at random to accommodate the new prisoner. A freed creature appears in an unoccupied space within sight of the mirror but facing away from it. If the mirror is shattered, all creatures it contains are freed and appear in unoccupied spaces near it.
 
-While within 5 feet of the mirror, you can take a [Magic](Compendium/rules/actions.md#Magic) action to name one creature trapped in it or call out a particular cell by number. The creature named or contained in the named cell appears as an image on the mirror's surface. You and the creature can then communicate.
+While within 5 feet of the mirror, you can take a [Magic](Actions.md#Magic) action to name one creature trapped in it or call out a particular cell by number. The creature named or contained in the named cell appears as an image on the mirror's surface. You and the creature can then communicate.
 
-In a similar way, you can take a [Magic](Compendium/rules/actions.md#Magic) action and use a second command word to free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
+In a similar way, you can take a [Magic](Actions.md#Magic) action and use a second command word to free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
 
 Placing the mirror inside an extradimensional space created by a [[bag-of-holding-xdmg]], Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed in[Bag of Holding](Bag%20of%20Holding.md)nd not behind [[cover-xphb]] is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 

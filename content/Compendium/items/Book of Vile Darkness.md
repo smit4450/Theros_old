@@ -20,7 +20,7 @@ Most believe the lich-god "Vecna" authored the Book of Vile Darkness. He recorde
 
 Other practitioners of evil have added their own input to the book's catalog of vile knowledge. Their additions are clear, for the writers of later works stitched whatever they were writing into the tome or, in some cases, made notations and additions to existing text. There are places where pages are missing, torn, or covered so completely with ink, blood, and scratches that the original text can't be divined.
 
-[Nature](Compendium/rules/skills.md#Nature) can't abide the book's presence. Ordinary plants wither in its presence, common animals are unwilling to approach it, and the book gradually destroys whatever it touches. Even stone cracks and turns to powder if the book rests on it long enough.
+[Nature](Skills.md#Nature) can't abide the book's presence. Ordinary plants wither in its presence, common animals are unwilling to approach it, and the book gradually destroys whatever it touches. Even stone cracks and turns to powder if the book rests on it long enough.
 
 Whenever a creature that isn't a Fiend or an Undead attunes to the Book of Vile Darkness, that creature makes a DC 17 Charisma saving throw. On a failed save, the creature is magically transformed into a [[larva-xmm]] under the DM's control. Only a [[wish-xphb]] spell can reverse this vile transformation.
 
@@ -34,7 +34,7 @@ One ability score of your choice increases by 2, to a maximum of 24. Another abi
 
 ## Tireless Form
 
-While the book is on your person, you have [[Immunity]] to the [Exhaustion](Compendium/rules/conditions.md#Exhaustion) condition.
+While the book is on your person, you have [[Immunity]] to the [Exhaustion](Conditions.md#Exhaustion) condition.
 
 ## Random Properties
 
@@ -64,7 +64,7 @@ At the DM's discretion, the book might reveal secrets no mortal should know, suc
 
 ## Vile Speech
 
-While the book is on your person, you can take a [Magic](Compendium/rules/actions.md#Magic) action to recite words from its pages in a foul, dead language. Each time you do so, you take `1d12` Psychic damage, and each creature within 15 feet of you takes `3d6` Psychic damage unless the creature is a Fiend or an Undead.
+While the book is on your person, you can take a [Magic](Actions.md#Magic) action to recite words from its pages in a foul, dead language. Each time you do so, you take `1d12` Psychic damage, and each creature within 15 feet of you takes `3d6` Psychic damage unless the creature is a Fiend or an Undead.
 
 ## Destroying the Book
 

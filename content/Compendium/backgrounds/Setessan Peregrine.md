@@ -12,7 +12,7 @@ aliases: ["Rashemi Wanderer"]
 
 - **Ability Scores.** Strength, Constitution, Charisma  
 - **Feat.**  [[Compendium/feats/Tough]]  
-- **Skill Proficiencies.** [Intimidation](Compendium/rules/skills.md#Intimidation) and [Perception](Compendium/rules/skills.md#Perception)  
+- **Skill Proficiencies.** [Intimidation](Skills.md#Intimidation) and [Perception](Skills.md#Perception)  
 - **Tool Proficiencies.** [[Cartographer's Tools]]  
 - **Equipment.** Choose A or B: (A) [[Cartographer's Tools]], [[Backpack]], [[Bedroll]], [[Hooded Lantern]], [[Oil]] (3 flasks), [[Rope]], [[Tinderbox]], [[Traveler's Clothes]], [[Waterskin]], 23 GP; or (B) 50 GP  
 

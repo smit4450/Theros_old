@@ -21,9 +21,9 @@ aliases: ["Invisible Stalker"]
 - **Habitat.** Urban  
 - **Treasure.** None  
 
-Magic and malice give form to invisible stalkers, bodiless spirits of the air. These elusive beings pass unseen with nothing more than a stirring of air. They control powerful winds capable of moving objects and battering foes. Magic-users conjure these creatures to serve as killers and thieves. [Invisible](Compendium/rules/conditions.md#Invisible) stalkers relentlessly pursue their quarry, and they rarely leave evidence of their crimes.
+Magic and malice give form to invisible stalkers, bodiless spirits of the air. These elusive beings pass unseen with nothing more than a stirring of air. They control powerful winds capable of moving objects and battering foes. Magic-users conjure these creatures to serve as killers and thieves. [Invisible](Conditions.md#Invisible) stalkers relentlessly pursue their quarry, and they rarely leave evidence of their crimes.
 
-In rare cases, an invisible stalker lingers in the world without a spellcaster controlling it. Roll on or choose a result from the Uncontrolled [Invisible](Compendium/rules/conditions.md#Invisible) Stalkers table to inspire why one of these monsters lurks in an area without a direct command.
+In rare cases, an invisible stalker lingers in the world without a spellcaster controlling it. Roll on or choose a result from the Uncontrolled [Invisible](Conditions.md#Invisible) Stalkers table to inspire why one of these monsters lurks in an area without a direct command.
 
 **Uncontrolled Invisible Stalkers**
 

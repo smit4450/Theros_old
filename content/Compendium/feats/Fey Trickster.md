@@ -17,7 +17,7 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Dexterity or Charisma by 1, to a maximum of 20.
 
-**Fey Trod Trotter.** When you take the [Disengage](Compendium/rules/actions.md#Disengage) action on your turn, [[Difficult Terrain]] doesn't cost you extra movement for the rest of that turn.
+**Fey Trod Trotter.** When you take the [Disengage](Actions.md#Disengage) action on your turn, [[Difficult Terrain]] doesn't cost you extra movement for the rest of that turn.
 
 **Flustering Strike.** When you hit a creature with an attack roll, you can attempt to fluster the target. The target must succeed on a Wisdom saving throw (DC 8 plus the ability modifier of the score increased by this feat and your [[Proficiency]]) or have [[Disadvantage]] on saving throws until the end of your next turn.
 

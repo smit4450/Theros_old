@@ -29,7 +29,7 @@ aliases: ["Calm Emotions"]
 
 Each Humanoid in a 20-foot-radius [[Sphere (Area of Effect)]] centered on a point you choose within range must succeed on a Charisma saving throw or be affected by one of the following effects (choose for each creature):
 
-- The creature has [[Immunity]] to the [Charmed](Compendium/rules/conditions.md#Charmed) and [Frightened](Compendium/rules/conditions.md#Frightened) conditions until the spell ends. If the creature was already [Charmed](Compendium/rules/conditions.md#Charmed) or [Frightened](Compendium/rules/conditions.md#Frightened), those conditions are suppressed for the duration.  
+- The creature has [[Immunity]] to the [Charmed](Conditions.md#Charmed) and [Frightened](Conditions.md#Frightened) conditions until the spell ends. If the creature was already [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened), those conditions are suppressed for the duration.  
 - The creature becomes [[Indifferent (Attitude)]] about creatures of your choice that it's [[Hostile (Attitude)]] toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature's attitude returns to normal.  
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [[Cleric Spells]]; [Sorcerer (Aberrant Sorcery)](Spells%20for%20Aberrant%20Sorcery.md "subclass=XPHB;class=XPHB"); [Warlock (Archfey Patron)](Spells%20for%20Archfey%20Patron.md "subclass=XPHB;class=XPHB")

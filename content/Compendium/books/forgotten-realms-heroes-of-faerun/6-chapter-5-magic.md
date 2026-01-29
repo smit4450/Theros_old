@@ -93,7 +93,7 @@ A Circle spell has one primary caster ("you" in these rules). Unless otherwise s
 
 #### Initiating a Circle Spell
 
-You take a [Magic](Compendium/rules/actions.md#Magic) action to initiate casting a Circle spell. When you do so, choose which Circle casting option (see "Circle Casting Options" below) you're using for this casting; you must also meet any of the other requirements described in that option's text. Until the Circle spell's casting is complete (see below), you must maintain [Concentration](Compendium/rules/conditions.md#Concentration) on the spell.
+You take a [Magic](Actions.md#Magic) action to initiate casting a Circle spell. When you do so, choose which Circle casting option (see "Circle Casting Options" below) you're using for this casting; you must also meet any of the other requirements described in that option's text. Until the Circle spell's casting is complete (see below), you must maintain [Concentration](Conditions.md#Concentration) on the spell.
 
 If a Reaction would trigger when a creature casts a spell—such as the Reaction taken to cast [[counterspell-xphb]]—it also triggers when you take this action to initiate a Circle spell.
 
@@ -101,13 +101,13 @@ If a Reaction would trigger when a creature casts a spell—such as the Reaction
 
 Casting a Circle spell requires that one or more other spellcasters, called secondary casters, lend their magic to the spell. A secondary caster must have either the Spellcasting or Pact Magic feature to participate in a Circle spell.
 
-After you initiate the spell, each secondary caster takes the [Magic](Compendium/rules/actions.md#Magic) action to contribute to the spell. A secondary caster can take this action only while within 30 feet of you and before the start of your next turn.
+After you initiate the spell, each secondary caster takes the [Magic](Actions.md#Magic) action to contribute to the spell. A secondary caster can take this action only while within 30 feet of you and before the start of your next turn.
 
 #### Completing the Casting
 
 If the spell has a casting time of an action, the Circle spell's effects occur immediately after the final secondary caster takes the required action to contribute to the spell. You decide which secondary caster is the final one.
 
-If the spell has a casting time of 1 minute or more, you and each secondary caster must take the [Magic](Compendium/rules/actions.md#Magic) action on each of your turns for the entire casting time, and you must each maintain Concentration while you do so. In this case, if any caster's Concentration is broken, the spell fails.
+If the spell has a casting time of 1 minute or more, you and each secondary caster must take the [Magic](Actions.md#Magic) action on each of your turns for the entire casting time, and you must each maintain Concentration while you do so. In this case, if any caster's Concentration is broken, the spell fails.
 
 > [!note] NPC Secondary Casters
 > 
@@ -132,7 +132,7 @@ When you cast a spell with a range of at least 5 feet, you can increase the rang
 
 #### Distribute
 
-When you cast a spell that requires [Concentration](Compendium/rules/conditions.md#Concentration), you can distribute the mental load of the spell among you and the secondary casters. Once the casting is complete, you and all secondary casters can maintain Concentration on this spell. As long as at least one caster who contributed to the spell maintains this Concentration, the spell's effects remain active.
+When you cast a spell that requires [Concentration](Conditions.md#Concentration), you can distribute the mental load of the spell among you and the secondary casters. Once the casting is complete, you and all secondary casters can maintain Concentration on this spell. As long as at least one caster who contributed to the spell maintains this Concentration, the spell's effects remain active.
 
 #### Expand
 

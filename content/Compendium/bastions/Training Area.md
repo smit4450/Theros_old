@@ -25,7 +25,7 @@ When a Training Area becomes part of your Bastion, choose one trainer from the "
 | Trainer Type | Empower Effect |
 |--------------|----------------|
 | Battle Expert | When you take damage from an attack made with an [[Unarmed Strike]] or a weapon, you can take a Reaction to reduce this damage by `1d4`. |
-| Skills Expert | You gain proficiency in one of the following skills of your choice: [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [Performance](Compendium/rules/skills.md#Performance), [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand), or [Stealth](Compendium/rules/skills.md#Stealth). |
+| Skills Expert | You gain proficiency in one of the following skills of your choice: [Acrobatics](Skills.md#Acrobatics), [Athletics](Skills.md#Athletics), [Performance](Skills.md#Performance), [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand), or [Stealth](Skills.md#Stealth). |
 | Tools Expert | You gain proficiency with one tool of your choice. |
 | Unarmed Combat Expert | When you hit with your [[Unarmed Strike]] and deal damage, the attack deals an extra `1d4` Bludgeoning damage. |
 | Weapon Expert | Choose a kind of Simple or Martial weapon, such as [[Spear]] or [[Longbow]]. If you aren't proficient with the weapon, you gain proficiency with it. If you already have proficiency with the weapon, you can use its mastery property. |

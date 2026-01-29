@@ -44,13 +44,13 @@ You can break the curse in the usual ways. Alternatively, casting [[Banishment]]
 ### Glaive of Vengeance
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Heavy](Item%20Properties.md#Heavy), [Reach](Item%20Properties.md#Reach), [Two-Handed](Item%20Properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Greatsword of Vengeance
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Heavy](Item%20Properties.md#Heavy), [Two-Handed](Item%20Properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Longsword of Vengeance
@@ -58,25 +58,25 @@ You can break the curse in the usual ways. Alternatively, casting [[Banishment]]
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Rapier of Vengeance
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Finesse](Compendium/rules/item-properties.md#Finesse)
+- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Finesse](Item%20Properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Scimitar of Vengeance
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Finesse](Item%20Properties.md#Finesse), [Light](Item%20Properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Shortsword of Vengeance
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Finesse](Item%20Properties.md#Finesse), [Light](Item%20Properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 

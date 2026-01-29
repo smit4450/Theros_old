@@ -15,6 +15,6 @@ aliases:
 
 You can cast [[create-food-and-water-xphb]] with this trait. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell.
 
-In addition, you have advantage on saving throws against being [poisoned](Compendium/rules/conditions.md#Poisoned).
+In addition, you have advantage on saving throws against being [poisoned](Conditions.md#Poisoned).
 
 *Source: Mythic Odysseys of Theros p. 52*

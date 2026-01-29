@@ -16,7 +16,7 @@ While you have the Blinded condition, you experience the following effects.
 
 **Can't See.** You can't see and automatically fail any ability check that requires sight.
 
-**Attacks Affected.** [Attack](Compendium/rules/actions.md#Attack) rolls against you have [[Advantage]], and your attack rolls have [[Disadvantage]].
+**Attacks Affected.** [Attack](Actions.md#Attack) rolls against you have [[Advantage]], and your attack rolls have [[Disadvantage]].
 
 ## Bloodied
 _Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -41,7 +41,7 @@ Some spells and other effects require Concentration to remain active, as specifi
 
 **Damage.** If you take damage, you must succeed on a Constitution [[Saving Throw]] to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
 
-**Incapacitated or Dead.** Your Concentration ends if you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition or you die.
+**Incapacitated or Dead.** Your Concentration ends if you have the [Incapacitated](Conditions.md#Incapacitated) condition or you die.
 
 ## Deafened
 _Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -90,7 +90,7 @@ While you have the Incapacitated condition, you experience the following effects
 
 **Inactive.** You can't take any [[Action]], [[Bonus Action]], or [[Reaction]].
 
-**No Concentration.** Your [Concentration](Compendium/rules/conditions.md#Concentration) is broken.
+**No Concentration.** Your [Concentration](Conditions.md#Concentration) is broken.
 
 **Speechless.** You can't speak.
 
@@ -105,20 +105,20 @@ While you have the Invisible condition, you experience the following effects.
 
 **Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
 
-**Attacks Affected.** [Attack](Compendium/rules/actions.md#Attack) rolls against you have [[Disadvantage]], and your attack rolls have [[Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+**Attacks Affected.** [Attack](Actions.md#Attack) rolls against you have [[Disadvantage]], and your attack rolls have [[Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
 
 ## Paralyzed
 _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Paralyzed condition, you experience the following effects.
 
-**Incapacitated.** You have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+**Incapacitated.** You have the [Incapacitated](Conditions.md#Incapacitated) condition.
 
 **Speed 0.** Your [[Speed]] is 0 and can't increase.
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [[Saving Throw]].
 
-**Attacks Affected.** [Attack](Compendium/rules/actions.md#Attack) rolls against you have [[Advantage]].
+**Attacks Affected.** [Attack](Actions.md#Attack) rolls against you have [[Advantage]].
 
 **Automatic Critical Hits.** Any attack roll that hits you is a [[Critical Hit]] if the attacker is within 5 feet of you.
 
@@ -129,17 +129,17 @@ While you have the Petrified condition, you experience the following effects.
 
 **Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
 
-**Incapacitated.** You have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+**Incapacitated.** You have the [Incapacitated](Conditions.md#Incapacitated) condition.
 
 **Speed 0.** Your [[Speed]] is 0 and can't increase.
 
-**Attacks Affected.** [Attack](Compendium/rules/actions.md#Attack) rolls against you have [[Advantage]].
+**Attacks Affected.** [Attack](Actions.md#Attack) rolls against you have [[Advantage]].
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [[Saving Throw]].
 
 **Resist Damage.** You have [[Resistance]] to all damage.
 
-**Poison Immunity.** You have [[Immunity]] to the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition.
+**Poison Immunity.** You have [[Immunity]] to the [Poisoned](Conditions.md#Poisoned) condition.
 
 ## Poisoned
 _Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -164,7 +164,7 @@ While you have the Restrained condition, you experience the following effects.
 
 **Speed 0.** Your [[Speed]] is 0 and can't increase.
 
-**Attacks Affected.** [Attack](Compendium/rules/actions.md#Attack) rolls against you have [[Advantage]], and your attack rolls have [[Disadvantage]].
+**Attacks Affected.** [Attack](Actions.md#Attack) rolls against you have [[Advantage]], and your attack rolls have [[Disadvantage]].
 
 **Saving Throws Affected.** You have [[Disadvantage]] on Dexterity [[Saving Throw]].
 
@@ -173,11 +173,11 @@ _Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems 
 
 While you have the Stunned condition, you experience the following effects.
 
-**Incapacitated.** You have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+**Incapacitated.** You have the [Incapacitated](Conditions.md#Incapacitated) condition.
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [[Saving Throw]].
 
-**Attacks Affected.** [Attack](Compendium/rules/actions.md#Attack) rolls against you have [[Advantage]].
+**Attacks Affected.** [Attack](Actions.md#Attack) rolls against you have [[Advantage]].
 
 ## Surprised
 _Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -189,11 +189,11 @@ _Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems 
 
 While you have the Unconscious condition, you experience the following effects.
 
-**Inert.** You have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) and [Prone](Compendium/rules/conditions.md#Prone) conditions, and you drop whatever you're holding. When this condition ends, you remain [Prone](Compendium/rules/conditions.md#Prone).
+**Inert.** You have the [Incapacitated](Conditions.md#Incapacitated) and [Prone](Conditions.md#Prone) conditions, and you drop whatever you're holding. When this condition ends, you remain [Prone](Conditions.md#Prone).
 
 **Speed 0.** Your [[Speed]] is 0 and can't increase.
 
-**Attacks Affected.** [Attack](Compendium/rules/actions.md#Attack) rolls against you have [[Advantage]].
+**Attacks Affected.** [Attack](Actions.md#Attack) rolls against you have [[Advantage]].
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [[Saving Throw]].
 

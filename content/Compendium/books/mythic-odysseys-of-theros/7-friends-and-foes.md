@@ -102,7 +102,7 @@ The medusas of Theros differ from those in the "Monster Manual" in that they hav
 
 #### Constrict
 
-*Melee Weapon Attack:* `+3` to hit, reach 10 ft., one target. *Hit:* 7 (`2d6`) bludgeoning damage, and the target is [grappled](Compendium/rules/conditions.md#Grappled) (escape DC 11) if it is a Large or smaller creature. Until this grapple ends, the target is [restrained](Compendium/rules/conditions.md#Restrained), and the [[Medusa]] can't constrict another target.
+*Melee Weapon Attack:* `+3` to hit, reach 10 ft., one target. *Hit:* 7 (`2d6`) bludgeoning damage, and the target is [grappled](Conditions.md#Grappled) (escape DC 11) if it is a Large or smaller creature. Until this grapple ends, the target is [restrained](Conditions.md#Restrained), and the [[Medusa]] can't constrict another target.
 
 - **Multiattack.** The [[Medusa]] makes either three melee attacks—one with its snake hair, one to constrict, and one with its shortsword—or two ranged attacks with its longbow.  
 
@@ -218,7 +218,7 @@ But those who enter her domain unbidden almost never go unnoticed, for [[Arasta]
 
 - **Lair Actions.** On initiative count 20 (losing initiative ties), [[Arasta]] can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row.  
 
-- [[Arasta]] learns about any creature touching her webs. Each creature [restrained](Compendium/rules/conditions.md#Restrained) by a web or [[Arasta]]'s Web of Hair must make a DC 21 Intelligence saving throw. On a failed save, [[Arasta]] gains knowledge of a creature's name, race, where they consider home, and what brought them to her web.  
+- [[Arasta]] learns about any creature touching her webs. Each creature [restrained](Conditions.md#Restrained) by a web or [[Arasta]]'s Web of Hair must make a DC 21 Intelligence saving throw. On a failed save, [[Arasta]] gains knowledge of a creature's name, race, where they consider home, and what brought them to her web.  
 - [[Arasta]] casts the [[giant-insect-xphb]] spell (spiders only). It lasts until she uses this lair action again or until she dies.  
 
 - **Regional Effects.** The region containing [[Arasta]]'s lair is warped by her presence, which creates one or more of the following effects:  
@@ -247,9 +247,9 @@ Fighting [[Arasta]] as a mythic encounter is equivalent to taking on two challen
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/192-06-34.webp#center)
 
-Theros's reclusive medusas often delight in collecting and expanding their galleries of [petrified](Compendium/rules/conditions.md#Petrified) victims. Unlike other medusas, [[Hythonia]] isn't merely a collector; she's an artist.
+Theros's reclusive medusas often delight in collecting and expanding their galleries of [petrified](Conditions.md#Petrified) victims. Unlike other medusas, [[Hythonia]] isn't merely a collector; she's an artist.
 
-When [[Hythonia]] came to the island of Skathos, the inhabitants worshiped her as an avatar of the god Pharika. The cultists eagerly offered themselves up to the [[Medusa]]'s petrifying gaze in hopes of gaining Pharika's favor. Seeing herself surrounded by willing devotees, [[Hythonia]] formulated a cruel plan. After encouraging them to engage in wild rituals, [[Hythonia]] began turning her followers to stone, weaving their forms to create a grisly throne made of their [petrified](Compendium/rules/conditions.md#Petrified) bodies.
+When [[Hythonia]] came to the island of Skathos, the inhabitants worshiped her as an avatar of the god Pharika. The cultists eagerly offered themselves up to the [[Medusa]]'s petrifying gaze in hopes of gaining Pharika's favor. Seeing herself surrounded by willing devotees, [[Hythonia]] formulated a cruel plan. After encouraging them to engage in wild rituals, [[Hythonia]] began turning her followers to stone, weaving their forms to create a grisly throne made of their [petrified](Conditions.md#Petrified) bodies.
 
 While the [[Medusa]]'s victims have dwindled, tales of the [[Medusa]] queen and the divine secrets she hoards have not. [[Hythonia]] eagerly trades the mysteries she knows but demands a constant price: a beautiful individual to become part of her throne.
 
@@ -260,14 +260,14 @@ While the [[Medusa]]'s victims have dwindled, tales of the [[Medusa]] queen and 
 - **Island of Potent Magic.** Although Skathos's location remains a mystery, stories tell of the island's magical plants and [[Hythonia]]'s various treasures. [[Hythonia]] encourages such rumors by letting lone survivors escape her realm, letting the ravings of survivors tempt more playthings into her clutches.  
 - **Lair Actions.** On initiative count 20 (losing initiative ties), [[Hythonia]] can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row:  
 
-- [[Hythonia]] briefly animates creatures that have been [petrified](Compendium/rules/conditions.md#Petrified) by her gaze. Each statue attacks one creature within 5 feet of it, with a +11 bonus to hit and dealing 10 (`3d6`) bludgeoning damage on a hit. If a Medium or smaller creature takes this damage, it is also [grappled](Compendium/rules/conditions.md#Grappled) (escape DC 15).  
-- [[Hythonia]] causes spectral snakes to erupt from a point she can see within 150 feet of her. Each creature within 20 feet of that point must succeed on a DC 19 Constitution saving throw or take 5 (`2d4`) piercing damage and become [poisoned](Compendium/rules/conditions.md#Poisoned) until the end of its next turn. While [poisoned](Compendium/rules/conditions.md#Poisoned) in this way, the creature has disadvantage on Intelligence checks and Intelligence saving throws, and it behaves as if under the effect of the [[Confusion]] spell.  
+- [[Hythonia]] briefly animates creatures that have been [petrified](Conditions.md#Petrified) by her gaze. Each statue attacks one creature within 5 feet of it, with a +11 bonus to hit and dealing 10 (`3d6`) bludgeoning damage on a hit. If a Medium or smaller creature takes this damage, it is also [grappled](Conditions.md#Grappled) (escape DC 15).  
+- [[Hythonia]] causes spectral snakes to erupt from a point she can see within 150 feet of her. Each creature within 20 feet of that point must succeed on a DC 19 Constitution saving throw or take 5 (`2d4`) piercing damage and become [poisoned](Conditions.md#Poisoned) until the end of its next turn. While [poisoned](Conditions.md#Poisoned) in this way, the creature has disadvantage on Intelligence checks and Intelligence saving throws, and it behaves as if under the effect of the [[Confusion]] spell.  
 
 - **Regional Effects.** The region containing [[Hythonia]]'s lair is warped by her presence, which creates one or more of the following effects:  
 
 - A large population of snakes dwells in the region.  
 - Trees within 1 mile of the lair are petrified wood. Plants that stay within 500 feet of the lair for 1 day turn to stone.  
-- Small bodies of water within 1 mile of the lair become poisonous. A creature that drinks the water must succeed on a DC 19 Constitution saving throw or become [poisoned](Compendium/rules/conditions.md#Poisoned) for 8 hours. An affected creature can repeat the saving throw at the end of each hour.  
+- Small bodies of water within 1 mile of the lair become poisonous. A creature that drinks the water must succeed on a DC 19 Constitution saving throw or become [poisoned](Conditions.md#Poisoned) for 8 hours. An affected creature can repeat the saving throw at the end of each hour.  
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/193-06-35.webp#center)
 

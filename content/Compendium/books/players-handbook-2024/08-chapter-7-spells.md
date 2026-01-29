@@ -78,11 +78,11 @@ If a spell is on a class's spell list, the class's name appears in parentheses a
 
 ### Casting Time
 
-Most spells require the [Magic](Compendium/rules/actions.md#Magic) action to cast, but some spells require a Bonus Action, a Reaction, or 1 minute or more. A spell's Casting Time entry specifies which of those is required.
+Most spells require the [Magic](Actions.md#Magic) action to cast, but some spells require a Bonus Action, a Reaction, or 1 minute or more. A spell's Casting Time entry specifies which of those is required.
 
 #### One Spell with a Spell Slot per Turn
 
-On a turn, you can expend only one spell slot to cast a spell. This rule means you can't, for example, cast a spell with a spell slot using the [Magic](Compendium/rules/actions.md#Magic) action and another one using a Bonus Action on the same turn.
+On a turn, you can expend only one spell slot to cast a spell. This rule means you can't, for example, cast a spell with a spell slot using the [Magic](Actions.md#Magic) action and another one using a Bonus Action on the same turn.
 
 #### Reaction and Bonus Action Triggers
 
@@ -90,7 +90,7 @@ A spell that has a casting time of a Reaction is cast in response to a trigger t
 
 #### Longer Casting Times
 
-Certain spells—including a spell cast as a [[Ritual]]—require more time to cast: minutes or even hours. While you cast a spell with a casting time of 1 minute or more, you must take the [Magic](Compendium/rules/actions.md#Magic) action on each of your turns, and you must maintain [Concentration](Compendium/rules/conditions.md#Concentration) while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot. To cast the spell again, you must start over.
+Certain spells—including a spell cast as a [[Ritual]]—require more time to cast: minutes or even hours. While you cast a spell with a casting time of 1 minute or more, you must take the [Magic](Actions.md#Magic) action on each of your turns, and you must maintain [Concentration](Conditions.md#Concentration) while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot. To cast the spell again, you must start over.
 
 ### Range
 
@@ -133,9 +133,9 @@ If a spell doesn't consume its materials and doesn't specify a cost for them, a 
 
 A spell's duration is the length of time the spell persists after it is cast. A duration typically takes one of the following forms:
 
-- **Concentration.** A duration that requires Concentration follows the [Concentration](Compendium/rules/conditions.md#Concentration) rules.  
+- **Concentration.** A duration that requires Concentration follows the [Concentration](Conditions.md#Concentration) rules.  
 - **Instantaneous.** An instantaneous duration means the spell's magic appears only for a moment and then disappears.  
-- **Time Span.** A duration that provides a time span specifies how long the spell lasts in rounds, minutes, hours, or the like. For example, a Duration entry might say "1 minute," meaning the spell ends after 1 minute has passed. While a time-span spell that you cast is ongoing, you can dismiss it (no action required) if you don't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.  
+- **Time Span.** A duration that provides a time span specifies how long the spell lasts in rounds, minutes, hours, or the like. For example, a Duration entry might say "1 minute," meaning the spell ends after 1 minute has passed. While a time-span spell that you cast is ongoing, you can dismiss it (no action required) if you don't have the [Incapacitated](Conditions.md#Incapacitated) condition.  
 
 ### Effects
 
@@ -187,7 +187,7 @@ The effects of different spells add together while their durations overlap. In c
 
 > [!note] Identifying an Ongoing Spell
 > 
-> You can try to identify a non-instantaneous spell by its observable effects if its duration is ongoing. To identify it, you must take the [Study](Compendium/rules/actions.md#Study) action and succeed on a DC 15 Intelligence ([Arcana](Compendium/rules/skills.md#Arcana)) check.
+> You can try to identify a non-instantaneous spell by its observable effects if its duration is ongoing. To identify it, you must take the [Study](Actions.md#Study) action and succeed on a DC 15 Intelligence ([Arcana](Skills.md#Arcana)) check.
 ^identifying-an-ongoing-spell
 
 ## Spell Descriptions

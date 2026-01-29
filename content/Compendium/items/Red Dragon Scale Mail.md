@@ -21,6 +21,6 @@ Dragon Scale Mail is made of the scales of one kind of dragon. Sometimes dragons
 
 While wearing this armor, you gain a +1 bonus to [[Armor Class]], you have [[Advantage]] on saving throws against the breath weapons of Dragons, and you have [[resistance-xphb]] to fire damage.
 
-Additionally, you can focus your senses as a [Magic](Compendium/rules/actions.md#Magic) action to discern the distance and direction to the closest red dragon within 30 miles of yourself. This action can't be used again until the next dawn.
+Additionally, you can focus your senses as a [Magic](Actions.md#Magic) action to discern the distance and direction to the closest red dragon within 30 miles of yourself. This action can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

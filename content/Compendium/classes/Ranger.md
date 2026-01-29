@@ -51,7 +51,7 @@ aliases:
 ## Starting Ranger
 
 - **Saving Throw Proficiencies**: Dexterity, Strength
-- **Skill Proficiencies**: *Choose 3:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Compendium/rules/skills.md#Athletics), [Insight](Compendium/rules/skills.md#Insight), [Investigation](Compendium/rules/skills.md#Investigation), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), [Stealth](Compendium/rules/skills.md#Stealth), or [Survival](Compendium/rules/skills.md#Survival)
+- **Skill Proficiencies**: *Choose 3:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Skills.md#Athletics), [Insight](Skills.md#Insight), [Investigation](Skills.md#Investigation), [Nature](Skills.md#Nature), [Perception](Skills.md#Perception), [Stealth](Skills.md#Stealth), or [Survival](Skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Shield]]
 
@@ -59,7 +59,7 @@ aliases:
 
 ## Multiclassing Ranger
 
-- **Skill Proficiencies**: *Choose 1:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Compendium/rules/skills.md#Athletics), [Insight](Compendium/rules/skills.md#Insight), [Investigation](Compendium/rules/skills.md#Investigation), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), [Stealth](Compendium/rules/skills.md#Stealth), or [Survival](Compendium/rules/skills.md#Survival)
+- **Skill Proficiencies**: *Choose 1:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Skills.md#Athletics), [Insight](Skills.md#Insight), [Investigation](Skills.md#Investigation), [Nature](Skills.md#Nature), [Perception](Skills.md#Perception), [Stealth](Skills.md#Stealth), or [Survival](Skills.md#Survival)
 - **Weapon Proficiencies**: Martial weapons
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Shield]]
 
@@ -137,7 +137,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](Actions.md#Attack) action on your turn.
 
 ### Roving (Level 6)
 
@@ -161,11 +161,11 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 #### Temporary Hit Points
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can give yourself a number of [[Temporary Hit Points]] equal to `1d8` plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
+As a [Magic](Actions.md#Magic) action, you can give yourself a number of [[Temporary Hit Points]] equal to `1d8` plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
 #### Decrease Exhaustion
 
-Whenever you finish a [[Short Rest]], your [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level, if any, decreases by 1.
+Whenever you finish a [[Short Rest]], your [Exhaustion](Conditions.md#Exhaustion) level, if any, decreases by 1.
 
 ### Subclass Feature (Level 11)
 
@@ -177,11 +177,11 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Relentless Hunter (Level 13)
 
-Taking damage can't break your [Concentration](Compendium/rules/conditions.md#Concentration) on Hunter's Mark.
+Taking damage can't break your [Concentration](Conditions.md#Concentration) on Hunter's Mark.
 
 ### Nature's Veil (Level 14)
 
-You invoke spirits of nature to magically hide yourself. As a [[Bonus Action]], you can give yourself the [Invisible](Compendium/rules/conditions.md#Invisible) condition until the end of your next turn.
+You invoke spirits of nature to magically hide yourself. As a [[Bonus Action]], you can give yourself the [Invisible](Conditions.md#Invisible) condition until the end of your next turn.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
@@ -199,7 +199,7 @@ You have [[Advantage]] on attack rolls against the creature currently marked by 
 
 ### Feral Senses (Level 18)
 
-Your connection to the forces of nature grants you [Blindsight](Compendium/rules/senses.md#Blindsight) with a range of 30 feet.
+Your connection to the forces of nature grants you [Blindsight](Senses.md#Blindsight) with a range of 30 feet.
 
 ### Epic Boon (Level 19)
 

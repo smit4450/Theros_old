@@ -18,7 +18,7 @@ aliases:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
 - **Range**: 30/120
-- **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](Item%20Properties.md#Thrown), [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 You have a +2 bonus to attack rolls and damage rolls made with this magic weapon.
@@ -31,7 +31,7 @@ In certain forms, the weapon has the following additional properties.
 
 ## Acrobatic Assist (Quarterstaff and 10-Foot Pole Forms Only)
 
-While holding this weapon, you have [[Advantage]] on Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) checks.
+While holding this weapon, you have [[Advantage]] on Dexterity ([Acrobatics](Skills.md#Acrobatics)) checks.
 
 ## Attack Deflection (Quarterstaff Form Only)
 
@@ -39,6 +39,6 @@ When you are hit by an attack while holding the weapon, you can take a [[Reactio
 
 ## Ranged Weapon (Quarterstaff Form Only)
 
-This weapon has [Thrown](Compendium/rules/item-properties.md#Thrown) with a normal range of 30 feet and a long range of 120 feet. Immediately after you make a ranged attack with the weapon, it flies back to your hand.
+This weapon has [Thrown](Item%20Properties.md#Thrown) with a normal range of 30 feet and a long range of 120 feet. Immediately after you make a ranged attack with the weapon, it flies back to your hand.
 
 *Source: Dungeon Master's Guide (2024) p. 291. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

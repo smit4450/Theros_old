@@ -35,7 +35,7 @@ aliases: ["Stinking Cloud"]
 
 You create a 20-foot-radius [[Sphere (Area of Effect)]] of yellow, nauseating gas centered on a point within range. The cloud is [[Heavily Obscured]]. The cloud lingers in the air for the duration or until a strong wind (such as the one created by [[gust-of-wind-xphb]]) disperses it.
 
-Each creature that starts its turn in the [[Sphere (Area of Effect)]] must succeed on a Constitution saving throw or have the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition until the end of the current turn. While [Poisoned](Compendium/rules/conditions.md#Poisoned) in this way, the creature can't take an action or a [[Bonus Action]].
+Each creature that starts its turn in the [[Sphere (Area of Effect)]] must succeed on a Constitution saving throw or have the [Poisoned](Conditions.md#Poisoned) condition until the end of the current turn. While [Poisoned](Conditions.md#Poisoned) in this way, the creature can't take an action or a [[Bonus Action]].
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Druid (Circle of the Land, Tropical Land)](Spells%20for%20Circle%20of%20the%20Land.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [Warlock (Fiend Patron)](Spells%20for%20Fiend%20Patron.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 

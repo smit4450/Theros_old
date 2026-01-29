@@ -58,7 +58,7 @@ Your attack rolls with weapons and Unarmed Strikes can score a [[Critical Hit]] 
 
 ### Remarkable Athlete (Level 3)
 
-Thanks to your athleticism, you have [[Advantage]] on [[Initiative]] rolls and Strength ([Athletics](Compendium/rules/skills.md#Athletics)) checks.
+Thanks to your athleticism, you have [[Advantage]] on [[Initiative]] rolls and Strength ([Athletics](Skills.md#Athletics)) checks.
 
 In addition, immediately after you score a [[Critical Hit]], you can move up to half your [[Speed]] without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
@@ -84,4 +84,4 @@ You have [[Advantage]] on [[Death Saving Throw]]. Moreover, when you roll 18–2
 
 #### Heroic Rally
 
-At the start of each of your turns, you regain [[Hit Points]] equal to 5 plus your Constitution modifier if you are [Bloodied](Compendium/rules/conditions.md#Bloodied) and have at least 1 [[Hit Points]].
+At the start of each of your turns, you regain [[Hit Points]] equal to 5 plus your Constitution modifier if you are [Bloodied](Conditions.md#Bloodied) and have at least 1 [[Hit Points]].

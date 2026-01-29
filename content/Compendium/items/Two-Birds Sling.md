@@ -15,7 +15,7 @@ aliases:
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition)
+- **Properties**: [Ammunition](Item%20Properties.md#Ammunition)
 
 You have a +1 bonus to attack and damage rolls made with this weapon.
 

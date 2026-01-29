@@ -70,7 +70,7 @@ Whenever a creature you can see starts its turn within 30 feet of you while your
 
 ### Legendary Visage (Level 10)
 
-During your turn, your reach is 10 feet greater with any Melee weapon that has the Heavy or Versatile property, as tendrils of the Nyx extend from you. When you hit with such a weapon on your turn, you can activate the [Push](Compendium/rules/item-mastery.md#Push) or [Topple](Compendium/rules/item-mastery.md#Topple) mastery property in addition to a different mastery property you're using with that weapon.
+During your turn, your reach is 10 feet greater with any Melee weapon that has the Heavy or Versatile property, as tendrils of the Nyx extend from you. When you hit with such a weapon on your turn, you can activate the [Push](Item%20Mastery.md#Push) or [Topple](Item%20Mastery.md#Topple) mastery property in addition to a different mastery property you're using with that weapon.
 
 ### Travel the Plane (Level 14)
 

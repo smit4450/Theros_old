@@ -15,6 +15,6 @@ aliases:
 
 This cloak shifts color and texture to blend with the terrain surrounding you. While wearing the cloak, you can use it as a [[Spellcasting Focus]] for your Druid and Ranger spells.
 
-While you are in an area that is [[Lightly Obscured]], you can [Hide](Compendium/rules/actions.md#Hide) as a [[Bonus Action]] even if you are being directly observed.
+While you are in an area that is [[Lightly Obscured]], you can [Hide](Actions.md#Hide) as a [[Bonus Action]] even if you are being directly observed.
 
 *Source: Dungeon Master's Guide (2024) p. 280*

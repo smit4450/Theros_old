@@ -25,9 +25,9 @@ aliases: ["Power Word Stun"]
 - **Components:** V
 - **Duration:** Instantaneous
 
-You overwhelm the mind of one creature you can see within range. If the target has 150 [[Hit Points]] or fewer, it has the [Stunned](Compendium/rules/conditions.md#Stunned) condition. Otherwise, its [[Speed]] is 0 until the start of your next turn.
+You overwhelm the mind of one creature you can see within range. If the target has 150 [[Hit Points]] or fewer, it has the [Stunned](Conditions.md#Stunned) condition. Otherwise, its [[Speed]] is 0 until the start of your next turn.
 
-The [Stunned](Compendium/rules/conditions.md#Stunned) target makes a Constitution saving throw at the end of each of its turns, ending the condition on itself on a success.
+The [Stunned](Conditions.md#Stunned) target makes a Constitution saving throw at the end of each of its turns, ending the condition on itself on a success.
 
 **Classes**: [[Bard Spells]]; [[Sorcerer Spells]]; [[Warlock Spells]]; [[Wizard Spells]]
 

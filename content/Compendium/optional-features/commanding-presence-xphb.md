@@ -11,4 +11,4 @@ aliases:
 # Commanding Presence
 *Source: Player's Handbook (2024) p. 95*  
 
-When you make a Charisma ([Intimidation](Compendium/rules/skills.md#Intimidation), [Performance](Compendium/rules/skills.md#Performance), or [Persuasion](Compendium/rules/skills.md#Persuasion)) check, you can expend one Superiority Die and add that die to the roll.
+When you make a Charisma ([Intimidation](Skills.md#Intimidation), [Performance](Skills.md#Performance), or [Persuasion](Skills.md#Persuasion)) check, you can expend one Superiority Die and add that die to the roll.

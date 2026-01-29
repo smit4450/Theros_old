@@ -66,7 +66,7 @@ The target must succeed on a Strength saving throw or be pushed up to 15 feet aw
 
 #### Topple
 
-The target must succeed on a Dexterity saving throw or have the [Prone](Compendium/rules/conditions.md#Prone) condition.
+The target must succeed on a Dexterity saving throw or have the [Prone](Conditions.md#Prone) condition.
 
 ### Wholeness of Body (Level 6)
 
@@ -80,6 +80,6 @@ When you take a [[Bonus Action]] other than Step of the Wind, you can also use S
 
 ### Quivering Palm (Level 17)
 
-You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an [[Unarmed Strike]], you can expend 4 Focus Points to start these imperceptible vibrations, which last for a number of days equal to your Monk level. The vibrations are harmless unless you take an action to end them. Alternatively, when you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn, you can forgo one of the attacks to end the vibrations. To end them, you and the target must be on the same plane of existence. When you end them, the target must make a Constitution saving throw, taking `10d12` Force damage on a failed save or half as much damage on a successful one.
+You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an [[Unarmed Strike]], you can expend 4 Focus Points to start these imperceptible vibrations, which last for a number of days equal to your Monk level. The vibrations are harmless unless you take an action to end them. Alternatively, when you take the [Attack](Actions.md#Attack) action on your turn, you can forgo one of the attacks to end the vibrations. To end them, you and the target must be on the same plane of existence. When you end them, the target must make a Constitution saving throw, taking `10d12` Force damage on a failed save or half as much damage on a successful one.
 
 You can have only one creature under the effect of this feature at a time. You can end the vibrations harmlessly (no action required).

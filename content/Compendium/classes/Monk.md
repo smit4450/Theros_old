@@ -51,7 +51,7 @@ aliases:
 ## Starting Monk
 
 - **Saving Throw Proficiencies**: Dexterity, Strength
-- **Skill Proficiencies**: *Choose 2:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [History](Compendium/rules/skills.md#History), [Insight](Compendium/rules/skills.md#Insight), [Religion](Compendium/rules/skills.md#Religion), or [Stealth](Compendium/rules/skills.md#Stealth)
+- **Skill Proficiencies**: *Choose 2:* [Acrobatics](Skills.md#Acrobatics), [Athletics](Skills.md#Athletics), [History](Skills.md#History), [Insight](Skills.md#Insight), [Religion](Skills.md#Religion), or [Stealth](Skills.md#Stealth)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons that have the Light property
 - **Tool Proficiencies**: Choose one type of [[Artisan's Tools]] or [[Musical Instrument]]
 
@@ -111,11 +111,11 @@ You can expend 1 Focus Point to make two Unarmed Strikes as a [[Bonus Action]].
 
 ### Patient Defense (Level 2)
 
-You can take the [Disengage](Compendium/rules/actions.md#Disengage) action as a [[Bonus Action]]. Alternatively, you can expend 1 Focus Point to take both the [Disengage](Compendium/rules/actions.md#Disengage) and the [Dodge](Compendium/rules/actions.md#Dodge) actions as a [[Bonus Action]].
+You can take the [Disengage](Actions.md#Disengage) action as a [[Bonus Action]]. Alternatively, you can expend 1 Focus Point to take both the [Disengage](Actions.md#Disengage) and the [Dodge](Actions.md#Dodge) actions as a [[Bonus Action]].
 
 ### Step of the Wind (Level 2)
 
-You can take the [Dash](Compendium/rules/actions.md#Dash) action as a [[Bonus Action]]. Alternatively, you can expend 1 Focus Point to take both the [Disengage](Compendium/rules/actions.md#Disengage) and [Dash](Compendium/rules/actions.md#Dash) actions as a [[Bonus Action]], and your jump distance is doubled for the turn.
+You can take the [Dash](Actions.md#Dash) action as a [[Bonus Action]]. Alternatively, you can expend 1 Focus Point to take both the [Disengage](Actions.md#Disengage) and [Dash](Actions.md#Dash) actions as a [[Bonus Action]], and your jump distance is doubled for the turn.
 
 ### Unarmored Movement (Level 2)
 
@@ -147,11 +147,11 @@ You can take a [[Reaction]] when you fall to reduce any damage you take from the
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](Actions.md#Attack) action on your turn.
 
 ### Stunning Strike (Level 5)
 
-Once per turn when you hit a creature with a Monk weapon or an [[Unarmed Strike]], you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the [Stunned](Compendium/rules/conditions.md#Stunned) condition until the start of your next turn. On a successful save, the target's [[Speed]] is halved until the start of your next turn, and the next attack roll made against the target before then has [[Advantage]].
+Once per turn when you hit a creature with a Monk weapon or an [[Unarmed Strike]], you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the [Stunned](Conditions.md#Stunned) condition until the start of your next turn. On a successful save, the target's [[Speed]] is halved until the start of your next turn, and the next attack roll made against the target before then has [[Advantage]].
 
 ### Empowered Strikes (Level 6)
 
@@ -165,7 +165,7 @@ You gain a feature from your Monk subclass.
 
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
 
-You don't benefit from this feature if you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+You don't benefit from this feature if you have the [Incapacitated](Conditions.md#Incapacitated) condition.
 
 ### Ability Score Improvement (Level 8)
 
@@ -193,9 +193,9 @@ When you expend a Focus Point to use Step of the Wind, you can choose a willing 
 
 ### Self-Restoration (Level 10)
 
-Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: [Charmed](Compendium/rules/conditions.md#Charmed), [Frightened](Compendium/rules/conditions.md#Frightened), or [Poisoned](Compendium/rules/conditions.md#Poisoned).
+Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: [Charmed](Conditions.md#Charmed), [Frightened](Conditions.md#Frightened), or [Poisoned](Conditions.md#Poisoned).
 
-In addition, forgoing food and drink doesn't give you levels of [Exhaustion](Compendium/rules/conditions.md#Exhaustion).
+In addition, forgoing food and drink doesn't give you levels of [Exhaustion](Conditions.md#Exhaustion).
 
 ### Subclass Feature (Level 11)
 
@@ -229,7 +229,7 @@ You gain a feature from your Monk subclass.
 
 ### Superior Defense (Level 18)
 
-At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. During that time, you have [[resistance-xphb]] to all damage except Force damage.
+At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [Incapacitated](Conditions.md#Incapacitated) condition. During that time, you have [[resistance-xphb]] to all damage except Force damage.
 
 ### Epic Boon (Level 19)
 

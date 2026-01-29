@@ -32,7 +32,7 @@ aliases: ["Expeditious Retreat"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-You take the [Dash](Compendium/rules/actions.md#Dash) action, and until the spell ends, you can take that action again as a [[Bonus Action]].
+You take the [Dash](Actions.md#Dash) action, and until the spell ends, you can take that action again as a [[Bonus Action]].
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [[Warlock Spells]]; [[Wizard Spells]]
 

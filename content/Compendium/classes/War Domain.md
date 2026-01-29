@@ -79,7 +79,7 @@ When you or a creature within 30 feet of you misses with an attack roll, you can
 
 ### War God's Blessing (Level 6)
 
-You can expend a use of your Channel Divinity to cast [[shield-of-faith-xphb]] or [[spiritual-weapon-xphb]] rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [Concentration](Compendium/rules/conditions.md#Concentration). Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, or die.
+You can expend a use of your Channel Divinity to cast [[shield-of-faith-xphb]] or [[spiritual-weapon-xphb]] rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [Concentration](Conditions.md#Concentration). Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [Incapacitated](Conditions.md#Incapacitated) condition, or die.
 
 ### Avatar of Battle (Level 17)
 

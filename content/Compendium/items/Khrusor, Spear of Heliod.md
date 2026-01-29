@@ -18,7 +18,7 @@ aliases:
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](Item%20Properties.md#Thrown), [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 Heliod wields Khrusor, a spear blessed with the power of the sun. In his hands, it can be pitched from Nyx to any point on Theros. When Heliod lends his weapon to a mortal, it's typically so they can perform some great work in his name or as a test of their worthiness.
@@ -46,7 +46,7 @@ The spear sheds bright light in a 30-foot radius and dim light for an additional
 
 ## Sun's Retaliation
 
-When you take damage from a creature within 5 feet of you, you can use your reaction to make a melee attack with the spear against that creature. On a hit, the spear deals damage as normal, and the creature is [blinded](Compendium/rules/conditions.md#Blinded) until the start of its next turn. This property of the spear can't be used again until the next dawn.
+When you take damage from a creature within 5 feet of you, you can use your reaction to make a melee attack with the spear against that creature. On a hit, the spear deals damage as normal, and the creature is [blinded](Conditions.md#Blinded) until the start of its next turn. This property of the spear can't be used again until the next dawn.
 
 ## Spells
 

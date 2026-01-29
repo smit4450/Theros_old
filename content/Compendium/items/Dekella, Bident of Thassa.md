@@ -18,7 +18,7 @@ aliases:
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](Item%20Properties.md#Thrown), [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 Thassa wields Dekella, a two-pronged weapon gifted to her by Purphoros. When the god of the sea bestows her weapon on a mortal, it's often so they might work her will far from the ocean, right some wrong affecting those she'd prefer not to harm, or give a mortal a glimpse of her terrible responsibilities.

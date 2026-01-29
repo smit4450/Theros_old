@@ -27,11 +27,11 @@ aliases: ["Flesh to Stone"]
 - **Components:** V, S, M (a cockatrice feather)
 - **Duration:** Concentration, up to 1 minute
 
-You attempt to turn one creature that you can see within range into stone. The target makes a Constitution saving throw. On a failed save, it has the [Restrained](Compendium/rules/conditions.md#Restrained) condition for the duration. On a successful save, its [[Speed]] is 0 until the start of your next turn. Constructs automatically succeed on the save.
+You attempt to turn one creature that you can see within range into stone. The target makes a Constitution saving throw. On a failed save, it has the [Restrained](Conditions.md#Restrained) condition for the duration. On a successful save, its [[Speed]] is 0 until the start of your next turn. Constructs automatically succeed on the save.
 
-A [Restrained](Compendium/rules/conditions.md#Restrained) target makes another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and has the [Petrified](Compendium/rules/conditions.md#Petrified) condition for the duration. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind.
+A [Restrained](Conditions.md#Restrained) target makes another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and has the [Petrified](Conditions.md#Petrified) condition for the duration. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind.
 
-If you maintain your [Concentration](Compendium/rules/conditions.md#Concentration) on this spell for the entire possible duration, the target is [Petrified](Compendium/rules/conditions.md#Petrified) until the condition is ended by [[greater-restoration-xphb]] or similar magic.
+If you maintain your [Concentration](Conditions.md#Concentration) on this spell for the entire possible duration, the target is [Petrified](Conditions.md#Petrified) until the condition is ended by [[greater-restoration-xphb]] or similar magic.
 
 **Classes**: [[Bard Spells]]; [[Druid Spells]]; [[Sorcerer Spells]]; [[Warlock Spells]]; [[Wizard Spells]]
 

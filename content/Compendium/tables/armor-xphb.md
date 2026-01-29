@@ -29,6 +29,6 @@ aliases:
 | &emsp;[[Chain Mail]] ]] | 55 lb. | 75 GP |
 | &emsp;[[Splint Armor]] ]] | 60 lb. | 200 GP |
 | &emsp;[[Plate Armor]] ]] | 65 lb. | 1,500 GP |
-| *Shield ([Utilize](Compendium/rules/actions.md#Utilize) Action to Don or Doff)* |
+| *Shield ([Utilize](Actions.md#Utilize) Action to Don or Doff)* |
 | &emsp;[[Shield]] | +2 | — | — | 6 lb. | 10 GP |
 ^armor

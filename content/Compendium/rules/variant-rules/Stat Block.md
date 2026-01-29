@@ -54,7 +54,7 @@ If the [[Monster]] has any equipment that can be given away or retrieved, it's l
 
 ## Senses
 
-This entry lists the [[Monster]] special senses, such as [Darkvision](Compendium/rules/senses.md#Darkvision), and its Passive [Perception](Compendium/rules/skills.md#Perception).
+This entry lists the [[Monster]] special senses, such as [Darkvision](Senses.md#Darkvision), and its Passive [Perception](Skills.md#Perception).
 
 ## Languages
 

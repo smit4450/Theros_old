@@ -89,19 +89,19 @@ You also possess a sylvan blessing. Choose it from the Nessian Gifts table or de
 
 Whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1).
 
-You also gain proficiency in one of these skills of your choice: [Deception](Compendium/rules/skills.md#Deception), [Performance](Compendium/rules/skills.md#Performance), or [Persuasion](Compendium/rules/skills.md#Persuasion).
+You also gain proficiency in one of these skills of your choice: [Deception](Skills.md#Deception), [Performance](Skills.md#Performance), or [Persuasion](Skills.md#Persuasion).
 
 ### Beguiling Twist (Level 7)
 
-The magic of the Skola Vale guards your mind. You have [[Advantage]] on saving throws to avoid or end the [Charmed](Compendium/rules/conditions.md#Charmed) or [Frightened](Compendium/rules/conditions.md#Frightened) condition.
+The magic of the Skola Vale guards your mind. You have [[Advantage]] on saving throws to avoid or end the [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened) condition.
 
-In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw to avoid or end the [Charmed](Compendium/rules/conditions.md#Charmed) or [Frightened](Compendium/rules/conditions.md#Frightened) condition, you can take a [[Reaction]] to force a different creature you can see within 120 feet of yourself to make a Wisdom save against your spell save DC. On a failed save, the target is [Charmed](Compendium/rules/conditions.md#Charmed) or [Frightened](Compendium/rules/conditions.md#Frightened) (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw to avoid or end the [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened) condition, you can take a [[Reaction]] to force a different creature you can see within 120 feet of yourself to make a Wisdom save against your spell save DC. On a failed save, the target is [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened) (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 ### Fey Reinforcements (Level 11)
 
 You can cast [[summon-fey-xphb]] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [[Long Rest]].
 
-Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](Compendium/rules/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting.
+Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](Conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting.
 
 ### Misty Wanderer (Level 15)
 

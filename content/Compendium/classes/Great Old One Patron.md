@@ -80,7 +80,7 @@ When you cast a Warlock spell that deals damage, you can change its damage type 
 
 When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has [[Disadvantage]] on attack rolls against you, and you have [[Advantage]] on attack rolls against that creature for the duration of the bond.
 
-Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]] unless you expend a Pact [Magic](Compendium/rules/actions.md#Magic) spell slot (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]] unless you expend a Pact [Magic](Actions.md#Magic) spell slot (no action required) to restore your use of it.
 
 ### Eldritch Hex (Level 10)
 
@@ -92,6 +92,6 @@ Your thoughts can't be read by telepathy or other means unless you allow it. You
 
 ### Create Thrall (Level 14)
 
-When you cast [[summon-aberration-xphb]], you can modify it so that it doesn't require [Concentration](Compendium/rules/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of [[Temporary Hit Points]] equal to your Warlock level plus your Charisma modifier.
+When you cast [[summon-aberration-xphb]], you can modify it so that it doesn't require [Concentration](Conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of [[Temporary Hit Points]] equal to your Warlock level plus your Charisma modifier.
 
 In addition, the first time each turn the Aberration hits a creature under the effect of your [[hex-xphb]], the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.

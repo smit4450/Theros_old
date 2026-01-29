@@ -10,7 +10,7 @@ aliases: ["Athlete"]
 *Source: Mythic Odysseys of Theros p. 31*  
 ![](Compendium/backgrounds/img/athlete.webp#right)
 
-- **Skill Proficiencies.** [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics)  
+- **Skill Proficiencies.** [Acrobatics](Skills.md#Acrobatics), [Athletics](Skills.md#Athletics)  
 - **Languages.** One of your choice  
 - **Tool Proficiencies.** Vehicles (land)  
 - **Equipment.** A bronze discus or leather ball, a lucky charm or past trophy, a set of [[Traveler's Clothes]], and a [[Pouch]] containing 10 gp  

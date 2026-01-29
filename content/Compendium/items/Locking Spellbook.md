@@ -17,6 +17,6 @@ aliases:
 
 *The wise wizard keeps a copy of all their spells safely tucked away in case of disaster. We supplement our spellbook with a trusty lock secure enough to dissuade curious goblins.*
 
-This 100-page leather-bound tome can be used as a Spellbook. It is closed with a lock that comes with a key. As a [Utilize](Compendium/rules/actions.md#Utilize) action, a creature can try to pick the lock using [[Thieves' Tools]], doing so with a successful DC 15 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check.
+This 100-page leather-bound tome can be used as a Spellbook. It is closed with a lock that comes with a key. As a [Utilize](Actions.md#Utilize) action, a creature can try to pick the lock using [[Thieves' Tools]], doing so with a successful DC 15 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check.
 
 *Source: FRHoF p. 132*

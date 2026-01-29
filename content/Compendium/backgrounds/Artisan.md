@@ -12,7 +12,7 @@ aliases: ["Artisan"]
 
 - **Ability Scores.** Strength, Dexterity, Intelligence  
 - **Feat.**  [[Crafter]]  
-- **Skill Proficiencies.** [Investigation](Compendium/rules/skills.md#Investigation), [Persuasion](Compendium/rules/skills.md#Persuasion)  
+- **Skill Proficiencies.** [Investigation](Skills.md#Investigation), [Persuasion](Skills.md#Persuasion)  
 - **Tool Proficiency.** Choose one kind of [[Artisan's Tools]]  
 - **Equipment.** Choose A or B: (A) [[Artisan's Tools]] (same as above), 2 [[Pouch]], [[Traveler's Clothes]], 32 GP; or (B) 50 GP  
 

@@ -82,7 +82,7 @@ You can propel your weapons with psionic force. Once on each of your turns, imme
 
 ### Telekinetic Movement (Level 3)
 
-You can move an object or a creature with your mind. As a [Magic](Compendium/rules/actions.md#Magic) action, choose one target you can see within 30 feet of yourself; the target must be a loose object that is Large or smaller or one willing creature other than you. You transport the target up to 30 feet to an unoccupied space you can see. Alternatively, if the target is a Tiny object, you can transport it to or from your hand.
+You can move an object or a creature with your mind. As a [Magic](Actions.md#Magic) action, choose one target you can see within 30 feet of yourself; the target must be a loose object that is Large or smaller or one willing creature other than you. You transport the target up to 30 feet to an unoccupied space you can see. Alternatively, if the target is a Tiny object, you can transport it to or from your hand.
 
 Once you take this action, you can't do so again until you finish a [[Short Rest]] or [[Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 
@@ -96,20 +96,20 @@ As a [[Bonus Action]], you gain a [[Fly Speed]] equal to twice your [[Speed]] un
 
 ### Telekinetic Thrust (Level 7)
 
-When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw (DC 8 plus your Intelligence modifier and [[Proficiency]]). On a failed save, you can give the target the [Prone](Compendium/rules/conditions.md#Prone) condition or transport it up to 10 feet horizontally.
+When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw (DC 8 plus your Intelligence modifier and [[Proficiency]]). On a failed save, you can give the target the [Prone](Conditions.md#Prone) condition or transport it up to 10 feet horizontally.
 
 ### Guarded Mind (Level 10)
 
-You have [[resistance-xphb]] to Psychic damage. Moreover, if you start your turn with the [Charmed](Compendium/rules/conditions.md#Charmed) or [Frightened](Compendium/rules/conditions.md#Frightened) condition, you can expend a Psionic Energy Die (no action required) and end every effect on yourself giving you those conditions.
+You have [[resistance-xphb]] to Psychic damage. Moreover, if you start your turn with the [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened) condition, you can expend a Psionic Energy Die (no action required) and end every effect on yourself giving you those conditions.
 
 ### Bulwark of Force (Level 15)
 
-You can shield yourself and others with telekinetic force. As a [[Bonus Action]], you can choose creatures, including yourself, within 30 feet of yourself, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures has [[cover-xphb]] for 1 minute or until you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+You can shield yourself and others with telekinetic force. As a [[Bonus Action]], you can choose creatures, including yourself, within 30 feet of yourself, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures has [[cover-xphb]] for 1 minute or until you have the [Incapacitated](Conditions.md#Incapacitated) condition.
 
 Once you use this feature, you can't do so again until you finish a [[Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 
 ### Telekinetic Master (Level 18)
 
-You always have the [[telekinesis-xphb]] spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence. On each of your turns while you maintain [Concentration](Compendium/rules/conditions.md#Concentration) on it, including the turn when you cast it, you can make one attack with a weapon as a [[Bonus Action]].
+You always have the [[telekinesis-xphb]] spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence. On each of your turns while you maintain [Concentration](Conditions.md#Concentration) on it, including the turn when you cast it, you can make one attack with a weapon as a [[Bonus Action]].
 
 Once you cast the spell with this feature, you can't do so in this way again until you finish a [[Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.

@@ -15,7 +15,7 @@ aliases:
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](Item%20Properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 Each time you make an attack roll with this magic weapon and hit, you can have it deal Lightning damage instead of Piercing damage.

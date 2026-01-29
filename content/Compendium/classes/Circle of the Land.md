@@ -98,7 +98,7 @@ Whenever you finish a [[Long Rest]], choose one type of land: arid, polar, tempe
 
 ### Land's Aid (Level 3)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius [[Sphere (Area of Effect)]] centered on that point. Each creature of your choice in the [[Sphere (Area of Effect)]] must make a Constitution saving throw against your spell save DC, taking `2d6` Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains `2d6` [[Hit Points]].
+As a [Magic](Actions.md#Magic) action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius [[Sphere (Area of Effect)]] centered on that point. Each creature of your choice in the [[Sphere (Area of Effect)]] must make a Constitution saving throw against your spell save DC, taking `2d6` Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains `2d6` [[Hit Points]].
 
 The damage and healing increase by `1d6` when you reach Druid levels 10 (`3d6`) and 14 (`4d6`).
 
@@ -110,7 +110,7 @@ In addition, when you finish a [[Short Rest]], you can choose expended spell slo
 
 ### Nature's Ward (Level 10)
 
-You are immune to the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition, and you have [[resistance-xphb]] to a damage type associated with your current land choice in the Circle Spells feature, as shown in the [Nature](Compendium/rules/skills.md#Nature)'s Ward table.
+You are immune to the [Poisoned](Conditions.md#Poisoned) condition, and you have [[resistance-xphb]] to a damage type associated with your current land choice in the Circle Spells feature, as shown in the [Nature](Skills.md#Nature)'s Ward table.
 
 **Nature's Ward**
 
@@ -124,6 +124,6 @@ You are immune to the [Poisoned](Compendium/rules/conditions.md#Poisoned) condit
 
 ### Nature's Sanctuary (Level 14)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [[Cube (Area of Effect)]] on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition or die. You and your allies have [[cover-xphb]] while in that area, and your allies gain the current [[resistance-xphb]] of your [Nature](Compendium/rules/skills.md#Nature)'s Ward while there.
+As a [Magic](Actions.md#Magic) action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [[Cube (Area of Effect)]] on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [Incapacitated](Conditions.md#Incapacitated) condition or die. You and your allies have [[cover-xphb]] while in that area, and your allies gain the current [[resistance-xphb]] of your [Nature](Skills.md#Nature)'s Ward while there.
 
 As a [[Bonus Action]], you can move the [[Cube (Area of Effect)]] up to 60 feet to ground within 120 feet of yourself.

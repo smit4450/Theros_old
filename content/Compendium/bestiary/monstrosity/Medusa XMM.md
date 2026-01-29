@@ -21,7 +21,7 @@ aliases: ["Medusa"]
 - **Habitat.** Desert  
 - **Treasure.** Any  
 
-With their hair of living snakes and their infamous petrifying gazes, medusas are hubristic creatures that inhabit sites of fallen glory. They often dwell beyond the fringes of civilization or travel in disguise, leaving trails of [petrified](Compendium/rules/conditions.md#Petrified) victims. Some medusas dominate groups of monsters or criminals, controlling them with threats of [petrified](Compendium/rules/conditions.md#Petrified) doom, while others recruit servants that are immune to being [petrified](Compendium/rules/conditions.md#Petrified), such as gargoyles and gorgons.
+With their hair of living snakes and their infamous petrifying gazes, medusas are hubristic creatures that inhabit sites of fallen glory. They often dwell beyond the fringes of civilization or travel in disguise, leaving trails of [petrified](Conditions.md#Petrified) victims. Some medusas dominate groups of monsters or criminals, controlling them with threats of [petrified](Conditions.md#Petrified) doom, while others recruit servants that are immune to being [petrified](Conditions.md#Petrified), such as gargoyles and gorgons.
 
 Medusas are born or created through preternatural circumstances. Roll on or choose a result from the Medusa Fates table to inspire what led to a medusa's creation.
 

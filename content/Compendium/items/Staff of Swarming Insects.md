@@ -17,14 +17,14 @@ aliases:
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 This staff has 10 charges.
 
 ## Insect Cloud
 
-While holding the staff , you can take a [Magic](Compendium/rules/actions.md#Magic) action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot [[Emanation (Area of Effect)]] originating from you. The insects remain for 10 minutes, making the area [[Heavily Obscured]] for creatures other than you. A strong wind (like that created by [[gust-of-wind-xphb]]) disperses the swarm and ends the effect.
+While holding the staff , you can take a [Magic](Actions.md#Magic) action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot [[Emanation (Area of Effect)]] originating from you. The insects remain for 10 minutes, making the area [[Heavily Obscured]] for creatures other than you. A strong wind (like that created by [[gust-of-wind-xphb]]) disperses the swarm and ends the effect.
 
 ## Spells
 

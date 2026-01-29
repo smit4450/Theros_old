@@ -54,7 +54,7 @@ Warriors of the Elements tap into the power of the Elemental Planes. Harnessing 
 
 ### Elemental Attunement (Level 3)
 
-At the start of your turn, you can expend 1 Focus Point to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. You gain the following benefits while this feature is active.
+At the start of your turn, you can expend 1 Focus Point to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the [Incapacitated](Conditions.md#Incapacitated) condition. You gain the following benefits while this feature is active.
 
 #### Reach
 
@@ -70,7 +70,7 @@ You know the [[elementalism-xphb]] spell. Wisdom is your spellcasting ability fo
 
 ### Elemental Burst (Level 6)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend 2 Focus Points to cause elemental energy to burst in a 20-foot-radius [[Sphere (Area of Effect)]] centered on a point within 120 feet of yourself. Choose a damage type: Acid, Cold, Fire, Lightning, or Thunder.
+As a [Magic](Actions.md#Magic) action, you can expend 2 Focus Points to cause elemental energy to burst in a 20-foot-radius [[Sphere (Area of Effect)]] centered on a point within 120 feet of yourself. Choose a damage type: Acid, Cold, Fire, Lightning, or Thunder.
 
 Each creature in the [[Sphere (Area of Effect)]] must make a Dexterity saving throw. On a failed save, a creature takes damage of the chosen type equal to three rolls of your Martial Arts die. On a successful save, a creature takes half as much damage.
 

@@ -51,7 +51,7 @@ aliases:
 ## Starting Barbarian
 
 - **Saving Throw Proficiencies**: Constitution, Strength
-- **Skill Proficiencies**: *Choose 2:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Compendium/rules/skills.md#Athletics), [Intimidation](Compendium/rules/skills.md#Intimidation), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), or [Survival](Compendium/rules/skills.md#Survival)
+- **Skill Proficiencies**: *Choose 2:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Skills.md#Athletics), [Intimidation](Skills.md#Intimidation), [Nature](Skills.md#Nature), [Perception](Skills.md#Perception), or [Survival](Skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Shield]]
 
@@ -94,11 +94,11 @@ You have [[Advantage]] on Strength checks and Strength saving throws.
 
 #### No Concentration or Spells
 
-You can't maintain [Concentration](Compendium/rules/conditions.md#Concentration), and you can't cast spells.
+You can't maintain [Concentration](Conditions.md#Concentration), and you can't cast spells.
 
 #### Duration
 
-The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
+The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the [Incapacitated](Conditions.md#Incapacitated) condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
 
 - Make an attack roll against an enemy.  
 - Force an enemy to make a saving throw.  
@@ -118,7 +118,7 @@ When you reach certain Barbarian levels, you gain the ability to use the [[Weapo
 
 ### Danger Sense (Level 2)
 
-You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have [[Advantage]] on Dexterity saving throws unless you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have [[Advantage]] on Dexterity saving throws unless you have the [Incapacitated](Conditions.md#Incapacitated) condition.
 
 ### Reckless Attack (Level 2)
 
@@ -132,7 +132,7 @@ You gain a Barbarian subclass of your choice. A subclass is a specialization tha
 
 You gain proficiency in another skill of your choice from the skill list available to Barbarians at level 1.
 
-In addition, while your Rage is active, you can channel primal power when you attempt certain tasks; whenever you make an ability check using one of the following skills, you can make it as a Strength check even if it normally uses a different ability: [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Intimidation](Compendium/rules/skills.md#Intimidation), [Perception](Compendium/rules/skills.md#Perception), [Stealth](Compendium/rules/skills.md#Stealth), or [Survival](Compendium/rules/skills.md#Survival). When you use this ability, your Strength represents primal power coursing through you, honing your agility, bearing, and senses.
+In addition, while your Rage is active, you can channel primal power when you attempt certain tasks; whenever you make an ability check using one of the following skills, you can make it as a Strength check even if it normally uses a different ability: [Acrobatics](Skills.md#Acrobatics), [Intimidation](Skills.md#Intimidation), [Perception](Skills.md#Perception), [Stealth](Skills.md#Stealth), or [Survival](Skills.md#Survival). When you use this ability, your Strength represents primal power coursing through you, honing your agility, bearing, and senses.
 
 ### Ability Score Improvement (Level 4)
 
@@ -140,7 +140,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](Actions.md#Attack) action on your turn.
 
 ### Fast Movement (Level 5)
 
@@ -208,7 +208,7 @@ You gain a feature from your Barbarian subclass.
 
 When you roll [[Initiative]], you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a [[Long Rest]].
 
-In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition (not just the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition) or don Heavy armor.
+In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the [Unconscious](Conditions.md#Unconscious) condition (not just the [Incapacitated](Conditions.md#Incapacitated) condition) or don Heavy armor.
 
 ### Ability Score Improvement (Level 16)
 

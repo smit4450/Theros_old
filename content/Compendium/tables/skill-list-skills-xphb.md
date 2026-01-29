@@ -14,22 +14,22 @@ aliases:
 
 | Skill | Ability | Example Uses |
 |-------|---------|--------------|
-| [Acrobatics](Compendium/rules/skills.md#Acrobatics) | Dexterity | Stay on your feet in a tricky situation, or perform an acrobatic stunt. |
+| [Acrobatics](Skills.md#Acrobatics) | Dexterity | Stay on your feet in a tricky situation, or perform an acrobatic stunt. |
 | [Animal Handling](Compendium/rules/skills.md#Animal Handling) | Wisdom | Calm or train an animal, or get an animal to behave in a certain way. |
-| [Arcana](Compendium/rules/skills.md#Arcana) | Intelligence | Recall lore about spells, magic items, and the planes of existence. |
-| [Athletics](Compendium/rules/skills.md#Athletics) | Strength | Jump farther than normal, stay afloat in rough water, or break something. |
-| [Deception](Compendium/rules/skills.md#Deception) | Charisma | Tell a convincing lie, or wear a disguise convincingly. |
-| [History](Compendium/rules/skills.md#History) | Intelligence | Recall lore about historical events, people, nations, and cultures. |
-| [Insight](Compendium/rules/skills.md#Insight) | Wisdom | Discern a person's mood and intentions. |
-| [Intimidation](Compendium/rules/skills.md#Intimidation) | Charisma | Awe or threaten someone into doing what you want. |
-| [Investigation](Compendium/rules/skills.md#Investigation) | Intelligence | Find obscure information in books, or deduce how something works. |
-| [Medicine](Compendium/rules/skills.md#Medicine) | Wisdom | Diagnose an illness, or determine what killed the recently slain. |
-| [Nature](Compendium/rules/skills.md#Nature) | Intelligence | Recall lore about terrain, plants, animals, and weather. |
-| [Perception](Compendium/rules/skills.md#Perception) | Wisdom | Using a combination of senses, notice something that's easy to miss. |
-| [Performance](Compendium/rules/skills.md#Performance) | Charisma | Act, tell a story, perform music, or dance. |
-| [Persuasion](Compendium/rules/skills.md#Persuasion) | Charisma | Honestly and graciously convince someone of something. |
-| [Religion](Compendium/rules/skills.md#Religion) | Intelligence | Recall lore about gods, religious rituals, and holy symbols. |
+| [Arcana](Skills.md#Arcana) | Intelligence | Recall lore about spells, magic items, and the planes of existence. |
+| [Athletics](Skills.md#Athletics) | Strength | Jump farther than normal, stay afloat in rough water, or break something. |
+| [Deception](Skills.md#Deception) | Charisma | Tell a convincing lie, or wear a disguise convincingly. |
+| [History](Skills.md#History) | Intelligence | Recall lore about historical events, people, nations, and cultures. |
+| [Insight](Skills.md#Insight) | Wisdom | Discern a person's mood and intentions. |
+| [Intimidation](Skills.md#Intimidation) | Charisma | Awe or threaten someone into doing what you want. |
+| [Investigation](Skills.md#Investigation) | Intelligence | Find obscure information in books, or deduce how something works. |
+| [Medicine](Skills.md#Medicine) | Wisdom | Diagnose an illness, or determine what killed the recently slain. |
+| [Nature](Skills.md#Nature) | Intelligence | Recall lore about terrain, plants, animals, and weather. |
+| [Perception](Skills.md#Perception) | Wisdom | Using a combination of senses, notice something that's easy to miss. |
+| [Performance](Skills.md#Performance) | Charisma | Act, tell a story, perform music, or dance. |
+| [Persuasion](Skills.md#Persuasion) | Charisma | Honestly and graciously convince someone of something. |
+| [Religion](Skills.md#Religion) | Intelligence | Recall lore about gods, religious rituals, and holy symbols. |
 | [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand) | Dexterity | Pick a pocket, conceal a handheld object, or perform legerdemain. |
-| [Stealth](Compendium/rules/skills.md#Stealth) | Dexterity | Escape notice by moving quietly and hiding behind things. |
-| [Survival](Compendium/rules/skills.md#Survival) | Wisdom | Follow tracks, forage, find a trail, or avoid natural hazards. |
+| [Stealth](Skills.md#Stealth) | Dexterity | Escape notice by moving quietly and hiding behind things. |
+| [Survival](Skills.md#Survival) | Wisdom | Follow tracks, forage, find a trail, or avoid natural hazards. |
 ^skills

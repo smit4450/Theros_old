@@ -14,7 +14,7 @@ aliases:
 ![](Compendium/items/img/maul.webp#right)
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Item%20Properties.md#Heavy), [Two-Handed](Item%20Properties.md#Two-Handed)
 - **Cost**: 10 gp
 - **Weight**: 10.0 lbs.
 

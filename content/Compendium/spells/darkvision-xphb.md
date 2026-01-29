@@ -33,7 +33,7 @@ aliases: ["Darkvision"]
 - **Components:** V, S, M (a dried carrot)
 - **Duration:** 8 hours
 
-For the duration, a willing creature you touch has [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 150 feet.
+For the duration, a willing creature you touch has [Darkvision](Senses.md#Darkvision) with a range of 150 feet.
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [[Druid Spells]]; [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [[Ranger Spells]]; [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [[Wizard Spells]]
 

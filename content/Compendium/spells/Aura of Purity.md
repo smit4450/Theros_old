@@ -23,7 +23,7 @@ aliases: ["Aura of Purity"]
 - **Components:** V
 - **Duration:** Concentration, up to 10 minutes
 
-An aura radiates from you in a 30-foot [[Emanation (Area of Effect)]] for the duration. While in the aura, you and your allies have [[resistance-xphb]] to Poison damage and [[Advantage]] on saving throws to avoid or end effects that include the [Blinded](Compendium/rules/conditions.md#Blinded), [Charmed](Compendium/rules/conditions.md#Charmed), [Deafened](Compendium/rules/conditions.md#Deafened), [Frightened](Compendium/rules/conditions.md#Frightened), [Paralyzed](Compendium/rules/conditions.md#Paralyzed), [Poisoned](Compendium/rules/conditions.md#Poisoned), or [Stunned](Compendium/rules/conditions.md#Stunned) condition.
+An aura radiates from you in a 30-foot [[Emanation (Area of Effect)]] for the duration. While in the aura, you and your allies have [[resistance-xphb]] to Poison damage and [[Advantage]] on saving throws to avoid or end effects that include the [Blinded](Conditions.md#Blinded), [Charmed](Conditions.md#Charmed), [Deafened](Conditions.md#Deafened), [Frightened](Conditions.md#Frightened), [Paralyzed](Conditions.md#Paralyzed), [Poisoned](Conditions.md#Poisoned), or [Stunned](Conditions.md#Stunned) condition.
 
 **Classes**: [[Bard Spells]]; [[Cleric Spells]]; [[Paladin Spells]]
 

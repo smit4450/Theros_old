@@ -51,7 +51,7 @@ aliases:
 ## Starting Fighter
 
 - **Saving Throw Proficiencies**: Constitution, Strength
-- **Skill Proficiencies**: *Choose 2:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Compendium/rules/skills.md#Athletics), [History](Compendium/rules/skills.md#History), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Perception](Compendium/rules/skills.md#Perception), [Persuasion](Compendium/rules/skills.md#Persuasion), or [Survival](Compendium/rules/skills.md#Survival)
+- **Skill Proficiencies**: *Choose 2:* [Acrobatics](Skills.md#Acrobatics), [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Skills.md#Athletics), [History](Skills.md#History), [Insight](Skills.md#Insight), [Intimidation](Skills.md#Intimidation), [Perception](Skills.md#Perception), [Persuasion](Skills.md#Persuasion), or [Survival](Skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy Armor), and [[Shield]]
 
@@ -92,7 +92,7 @@ When you reach certain Fighter levels, you gain the ability to use the [[Weapon 
 
 ### Action Surge (Level 2)
 
-You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the [Magic](Compendium/rules/actions.md#Magic) action.
+You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the [Magic](Actions.md#Magic) action.
 
 Once you use this feature, you can't do so again until you finish a [[Short Rest]] or [[Long Rest]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
@@ -110,7 +110,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](Actions.md#Attack) action on your turn.
 
 ### Tactical Shift (Level 5)
 
@@ -136,7 +136,7 @@ You can use this feature twice before a [[Long Rest]] starting at level 13 and t
 
 ### Tactical Master (Level 9)
 
-When you attack with a weapon whose mastery property you can use, you can replace that property with the [Push](Compendium/rules/item-mastery.md#Push), [Sap](Compendium/rules/item-mastery.md#Sap), or [Slow](Compendium/rules/item-mastery.md#Slow) property for that attack.
+When you attack with a weapon whose mastery property you can use, you can replace that property with the [Push](Item%20Mastery.md#Push), [Sap](Item%20Mastery.md#Sap), or [Slow](Item%20Mastery.md#Slow) property for that attack.
 
 ### Subclass Feature (Level 10)
 
@@ -144,7 +144,7 @@ You gain a feature from your Fighter Subclass.
 
 ### Two Extra Attacks (Level 11)
 
-You can attack three times instead of once whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
+You can attack three times instead of once whenever you take the [Attack](Actions.md#Attack) action on your turn.
 
 ### Ability Score Improvement (Level 12)
 
@@ -174,7 +174,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Action Surge (Level 17)
 
-You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the [Magic](Compendium/rules/actions.md#Magic) action.
+You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the [Magic](Actions.md#Magic) action.
 
 Once you use this feature, you can't do so again until you finish a [[Short Rest]] or [[Long Rest]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
@@ -194,4 +194,4 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 ### Three Extra Attacks (Level 20)
 
-You can attack four times instead of once whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
+You can attack four times instead of once whenever you take the [Attack](Actions.md#Attack) action on your turn.

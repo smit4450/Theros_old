@@ -310,11 +310,11 @@ For skills you have proficiency in, add your Proficiency Bonus to the ability mo
 
 ##### Passive Perception
 
-Sometimes your DM will determine whether your character notices something without asking you to make a Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check; the DM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you're not actively looking for something. Use this formula to determine your Passive Perception score:
+Sometimes your DM will determine whether your character notices something without asking you to make a Wisdom ([Perception](Skills.md#Perception)) check; the DM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you're not actively looking for something. Use this formula to determine your Passive Perception score:
 
 <span class='abilityGeneric'>**Passive Perception.**</span>
 
-Include all modifiers that apply to your Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks. For example, if your character has a Wisdom of 15 and proficiency in the [Perception](Compendium/rules/skills.md#Perception) skill, you have a Passive Perception of 14 (10 + 2 for your Wisdom modifier + 2 for proficiency).
+Include all modifiers that apply to your Wisdom ([Perception](Skills.md#Perception)) checks. For example, if your character has a Wisdom of 15 and proficiency in the [Perception](Skills.md#Perception) skill, you have a Passive Perception of 14 (10 + 2 for your Wisdom modifier + 2 for proficiency).
 
 ##### Hit Points
 

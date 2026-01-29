@@ -51,7 +51,7 @@ aliases:
 ## Starting Sorcerer
 
 - **Saving Throw Proficiencies**: Charisma, Constitution
-- **Skill Proficiencies**: *Choose 2:* [Arcana](Compendium/rules/skills.md#Arcana), [Deception](Compendium/rules/skills.md#Deception), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Persuasion](Compendium/rules/skills.md#Persuasion), or [Religion](Compendium/rules/skills.md#Religion)
+- **Skill Proficiencies**: *Choose 2:* [Arcana](Skills.md#Arcana), [Deception](Skills.md#Deception), [Insight](Skills.md#Insight), [Intimidation](Skills.md#Intimidation), [Persuasion](Skills.md#Persuasion), or [Religion](Skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
 
 **Starting Equipment:** *Choose A or B:* (A) [[Spear]], 2 [[Dagger]], [[Arcane Focus]] ([[Crystal]]), [[Dungeoneer's Pack]], and 28 GP; or (B) 50 GP

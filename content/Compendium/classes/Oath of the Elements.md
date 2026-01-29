@@ -68,7 +68,7 @@ Earth rises up around the target of your Divine Smite. The target has the Grappl
 
 ### Air Escape (Level 3)
 
-You [[Teleportation]] to an unoccupied space you can see within 30 feet of yourself and take on a semi-incorporeal form, which lasts until the end of your next turn. While in this form, you have [[resistance-xphb]] to Bludgeoning, Piercing, and Slashing damage, and you have [[Immunity]] to the [Grappled](Compendium/rules/conditions.md#Grappled), [Prone](Compendium/rules/conditions.md#Prone), and [Restrained](Compendium/rules/conditions.md#Restrained) conditions.
+You [[Teleportation]] to an unoccupied space you can see within 30 feet of yourself and take on a semi-incorporeal form, which lasts until the end of your next turn. While in this form, you have [[resistance-xphb]] to Bludgeoning, Piercing, and Slashing damage, and you have [[Immunity]] to the [Grappled](Conditions.md#Grappled), [Prone](Conditions.md#Prone), and [Restrained](Conditions.md#Restrained) conditions.
 
 ### Fire's Fury (Level 3)
 
@@ -95,7 +95,7 @@ When you reach a Paladin level specified in the Elemental Spells table, you ther
 
 When you aren't wearing any armor, your base [[Armor Class]] equals 10 plus your Dexterity and Charisma modifiers. You can use a Shield and still gain this benefit.
 
-You also gain proficiency in one of the following skills of your choice: [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Intimidation](Compendium/rules/skills.md#Intimidation), [Performance](Compendium/rules/skills.md#Performance), or [Persuasion](Compendium/rules/skills.md#Persuasion).
+You also gain proficiency in one of the following skills of your choice: [Acrobatics](Skills.md#Acrobatics), [Intimidation](Skills.md#Intimidation), [Performance](Skills.md#Performance), or [Persuasion](Skills.md#Persuasion).
 
 ### Aura of Elemental Shielding (Level 7)
 

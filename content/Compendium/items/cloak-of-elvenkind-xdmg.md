@@ -13,6 +13,6 @@ aliases:
 ![](Compendium/items/img/cloak-of-elvenkind.webp#right)
 
 
-While you wear this cloak, Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks made to perceive you have [[Disadvantage]], and you have [[Advantage]] on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks.
+While you wear this cloak, Wisdom ([Perception](Skills.md#Perception)) checks made to perceive you have [[Disadvantage]], and you have [[Advantage]] on Dexterity ([Stealth](Skills.md#Stealth)) checks.
 
 *Source: Dungeon Master's Guide (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

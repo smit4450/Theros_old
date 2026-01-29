@@ -17,7 +17,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 2.0 lbs.
 
 Purphoros's hammer works wonders and disasters, the god of the forge using it to craft ground-breaking marvels and dangerous inventions in equal measure. Purphoros rarely bestows Akmon on mortals but occasionally leaves it unattended at his forge in Mount Velus. When Purphoros does permit a mortal to use the hammer, it's usually so they might bring an important work into being, wreck a force of destruction, or forge something remarkable somewhere the god isn't welcome.
@@ -40,7 +40,7 @@ See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on random
 
 ## Reforged
 
-While holding the hammer, you have resistance to fire damage and are immune to [exhaustion](Compendium/rules/conditions.md#Exhaustion). Additionally, you have proficiency with [[Smith's Tools]] and have advantage on all ability checks made using them.
+While holding the hammer, you have resistance to fire damage and are immune to [exhaustion](Conditions.md#Exhaustion). Additionally, you have proficiency with [[Smith's Tools]] and have advantage on all ability checks made using them.
 
 ## Spells
 

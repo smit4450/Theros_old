@@ -31,7 +31,7 @@ The [[Sphere (Area of Effect)]] moves 10 feet away from you at the start of each
 
 ## Casting as a Circle Spell
 
-Casting this as a Circle spell requires a minimum of five secondary casters. In addition to the spell's usual components, you must provide a special component (a string of three black pearls from Pandemonium), which the spell consumes. The spell's range increases to 1 mile, and its duration increases to until dispelled (no [Concentration](Compendium/rules/conditions.md#Concentration) required). The spell ends early if any caster who participated in this casting contributes to another casting of [[doomtide-frhof]] as a Circle spell.
+Casting this as a Circle spell requires a minimum of five secondary casters. In addition to the spell's usual components, you must provide a special component (a string of three black pearls from Pandemonium), which the spell consumes. The spell's range increases to 1 mile, and its duration increases to until dispelled (no [Concentration](Conditions.md#Concentration) required). The spell ends early if any caster who participated in this casting contributes to another casting of [[doomtide-frhof]] as a Circle spell.
 
 When the spell is cast, each secondary caster must expend a level 3+ spell slot; otherwise, the spell fails.
 

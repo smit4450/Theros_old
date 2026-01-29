@@ -188,7 +188,7 @@ An ability check is named for the ability modifier it uses: a Strength check, an
 
 #### Proficiency Bonus
 
-Add your Proficiency Bonus to an ability check when the DM determines that a skill or tool proficiency is relevant to the check and you have that proficiency. For example, if a rule refers to a Strength ([Acrobatics](Compendium/rules/skills.md#Acrobatics) or [Athletics](Compendium/rules/skills.md#Athletics)) check, you can add your Proficiency Bonus to the check if you have proficiency in the [Acrobatics](Compendium/rules/skills.md#Acrobatics) or [Athletics](Compendium/rules/skills.md#Athletics) skill. See ""Proficiency"" later in this chapter for more information about skill and tool proficiencies.
+Add your Proficiency Bonus to an ability check when the DM determines that a skill or tool proficiency is relevant to the check and you have that proficiency. For example, if a rule refers to a Strength ([Acrobatics](Skills.md#Acrobatics) or [Athletics](Skills.md#Athletics)) check, you can add your Proficiency Bonus to the check if you have proficiency in the [Acrobatics](Skills.md#Acrobatics) or [Athletics](Skills.md#Athletics) skill. See ""Proficiency"" later in this chapter for more information about skill and tool proficiencies.
 
 #### Difficulty Class
 
@@ -226,7 +226,7 @@ The Attack Roll Abilities table shows which ability modifier to use for differen
 
 ![[ability-modifier-attack-roll-abilities-xphb]]
 
-Some features let you use different ability modifiers from those listed. For example, the [Finesse](Compendium/rules/item-properties.md#Finesse) property (see "chapter 6") lets you use Strength or Dexterity with a weapon that has that property.
+Some features let you use different ability modifiers from those listed. For example, the [Finesse](Item%20Properties.md#Finesse) property (see "chapter 6") lets you use Strength or Dexterity with a weapon that has that property.
 
 #### Proficiency Bonus
 
@@ -299,7 +299,7 @@ This bonus is applied to a [[D20 Test]] when the creature has proficiency in a s
 
 ### The Bonus Doesn't Stack
 
-Your Proficiency Bonus can't be added to a die roll or another number more than once. For example, if a rule allows you to make a Charisma ([Deception](Compendium/rules/skills.md#Deception) or [Persuasion](Compendium/rules/skills.md#Persuasion)) check, you add your Proficiency Bonus if you're proficient in either skill, but you don't add it twice if you're proficient in both skills.
+Your Proficiency Bonus can't be added to a die roll or another number more than once. For example, if a rule allows you to make a Charisma ([Deception](Skills.md#Deception) or [Persuasion](Skills.md#Persuasion)) check, you add your Proficiency Bonus if you're proficient in either skill, but you don't add it twice if you're proficient in both skills.
 
 Occasionally, a Proficiency Bonus might be multiplied or divided (doubled or halved, for example) before being added. For example, the [[Expertise]] feature doubles the Proficiency Bonus for certain ability checks. Whenever the bonus is used, it can be multiplied only once and divided only once.
 
@@ -307,7 +307,7 @@ Occasionally, a Proficiency Bonus might be multiplied or divided (doubled or hal
 
 Most ability checks involve using a skill, which represents a category of things creatures try to do with an ability check. The descriptions of the actions you take (see ""Actions"" later in this chapter) specify which skill applies if you make an ability check for that action, and many other rules note when a skill is relevant. The DM has the ultimate say on whether a skill is relevant in a situation.
 
-If a creature is proficient in a skill, the creature applies its Proficiency Bonus to ability checks involving that skill. Without proficiency in a skill, a creature can still make ability checks involving that skill but doesn't add its Proficiency Bonus. For example, if a character tries to climb a cliff, the DM might ask for a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check. If the character has [Athletics](Compendium/rules/skills.md#Athletics) proficiency, the character adds their Proficiency Bonus to the Strength check. If the character lacks that proficiency, they make the check without adding their Proficiency Bonus.
+If a creature is proficient in a skill, the creature applies its Proficiency Bonus to ability checks involving that skill. Without proficiency in a skill, a creature can still make ability checks involving that skill but doesn't add its Proficiency Bonus. For example, if a character tries to climb a cliff, the DM might ask for a Strength ([Athletics](Skills.md#Athletics)) check. If the character has [Athletics](Skills.md#Athletics) proficiency, the character adds their Proficiency Bonus to the Strength check. If the character lacks that proficiency, they make the check without adding their Proficiency Bonus.
 
 #### Skill List
 
@@ -321,7 +321,7 @@ A character's starting skill proficiencies are determined at character creation,
 
 > [!note] Skills with Different Abilities
 > 
-> Each skill proficiency is associated with an ability check. For example, the [Intimidation](Compendium/rules/skills.md#Intimidation) skill is associated with Charisma. In some situations, the DM might allow you to apply your skill proficiency to a different ability check. For example, if a character tries to intimidate someone through a show of physical strength, the DM might ask for a Strength ([Intimidation](Compendium/rules/skills.md#Intimidation)) check rather than a Charisma ([Intimidation](Compendium/rules/skills.md#Intimidation)) check. That character would make a Strength check and add their Proficiency Bonus if they have [Intimidation](Compendium/rules/skills.md#Intimidation) proficiency.
+> Each skill proficiency is associated with an ability check. For example, the [Intimidation](Skills.md#Intimidation) skill is associated with Charisma. In some situations, the DM might allow you to apply your skill proficiency to a different ability check. For example, if a character tries to intimidate someone through a show of physical strength, the DM might ask for a Strength ([Intimidation](Skills.md#Intimidation)) check rather than a Charisma ([Intimidation](Skills.md#Intimidation)) check. That character would make a Strength check and add their Proficiency Bonus if they have [Intimidation](Skills.md#Intimidation) proficiency.
 ^skills-with-different-abilities
 
 ### Saving Throw Proficiencies
@@ -349,7 +349,7 @@ Player characters and monsters can also do things not covered by these actions. 
 
 The game uses actions to govern how much you can do at one time. You can take only one action at a time. This principle is most important in combat, as explained in ""Combat"" later in this chapter.
 
-Actions can come up in other situations, too: in a social interaction, you can try to [Influence](Compendium/rules/actions.md#Influence) a creature or use the [Search](Compendium/rules/actions.md#Search) action to read the creature's body language, but you can't do both at the same time. And when you're exploring a dungeon, you can't simultaneously use the [Search](Compendium/rules/actions.md#Search) action to look for traps and use the [Help](Compendium/rules/actions.md#Help) action to aid another character who's trying to open a stuck door (with the [Utilize](Compendium/rules/actions.md#Utilize) action).
+Actions can come up in other situations, too: in a social interaction, you can try to [Influence](Actions.md#Influence) a creature or use the [Search](Actions.md#Search) action to read the creature's body language, but you can't do both at the same time. And when you're exploring a dungeon, you can't simultaneously use the [Search](Actions.md#Search) action to look for traps and use the [Help](Actions.md#Help) action to aid another character who's trying to open a stuck door (with the [Utilize](Actions.md#Utilize) action).
 
 ### Bonus Actions
 
@@ -398,9 +398,9 @@ If you offer NPCs something they want or play on their sympathies, fears, or goa
 
 ### Ability Checks
 
-Ability checks can be key in determining the outcome of a social interaction. Your roleplaying efforts can alter an NPC's attitude, but there might still be an element of chance if the DM wants dice to play a role in determining an NPC's response to you. In such situations, the DM will typically ask you to take the [Influence](Compendium/rules/actions.md#Influence) action.
+Ability checks can be key in determining the outcome of a social interaction. Your roleplaying efforts can alter an NPC's attitude, but there might still be an element of chance if the DM wants dice to play a role in determining an NPC's response to you. In such situations, the DM will typically ask you to take the [Influence](Actions.md#Influence) action.
 
-Pay attention to your skill proficiencies when thinking of how you will interact with an NPC; use an approach that relies on your group's skill proficiencies. For example, if the group needs to trick a guard into letting them into a castle, the Rogue who is proficient in [Deception](Compendium/rules/skills.md#Deception) should lead the discussion.
+Pay attention to your skill proficiencies when thinking of how you will interact with an NPC; use an approach that relies on your group's skill proficiencies. For example, if the group needs to trick a guard into letting them into a castle, the Rogue who is proficient in [Deception](Skills.md#Deception) should lead the discussion.
 
 ### Social Interaction Example
 
@@ -451,7 +451,7 @@ In this scene, players engage in a social interaction encounter. You and your gr
 
 > [!note] (1)—Ability Checks
 > 
-> Phillip's character, Gareth, makes a Wisdom ([Insight](Compendium/rules/skills.md#Insight)) check to determine whether he reads Ismark's unspoken cues. Wisdom is the ability that measures perceptiveness and intuition. Insight reflects a character's skill at reading other people's moods and intentions. The DM set the DC at 15, which Gareth beats. With a successful Wisdom ([Insight](Compendium/rules/skills.md#Insight)) check, Gareth gleans information that wasn't obvious, so it wasn't part of the DM's earlier narration. For more information, see ""Ability Scores"" and ""Proficiency"" earlier in this chapter and the [Search](Compendium/rules/actions.md#Search) action in the "rules glossary".
+> Phillip's character, Gareth, makes a Wisdom ([Insight](Skills.md#Insight)) check to determine whether he reads Ismark's unspoken cues. Wisdom is the ability that measures perceptiveness and intuition. Insight reflects a character's skill at reading other people's moods and intentions. The DM set the DC at 15, which Gareth beats. With a successful Wisdom ([Insight](Skills.md#Insight)) check, Gareth gleans information that wasn't obvious, so it wasn't part of the DM's earlier narration. For more information, see ""Ability Scores"" and ""Proficiency"" earlier in this chapter and the [Search](Actions.md#Search) action in the "rules glossary".
 ^1-ability-checks
 
 - **Amy.** "So Strahd wrote this letter, pretending to be the burgomaster, imploring us to come to Barovia and rescue Ireena Kolyana from a deadly affliction... which is him? Why would he do that?"  
@@ -469,7 +469,7 @@ In this scene, players engage in a social interaction encounter. You and your gr
 
 > [!note] (2)—Influencing NPCs
 > 
-> Gareth takes the [Influence](Compendium/rules/actions.md#Influence) action, which characters can take to influence an NPC. It's easier to influence an NPC who's already disposed to help you, as Ismark is here. Ismark's [[Friendly (Attitude)]] attitude gives Phillip Advantage on the roll. In this case, [[Advantage]] made the difference between success and failure.
+> Gareth takes the [Influence](Actions.md#Influence) action, which characters can take to influence an NPC. It's easier to influence an NPC who's already disposed to help you, as Ismark is here. Ismark's [[Friendly (Attitude)]] attitude gives Phillip Advantage on the roll. In this case, [[Advantage]] made the difference between success and failure.
 ^2-influencing-npcs
 
 - **Jared.** "You are too kind! First, I need your help transporting Ireena to the town of Vallaki."  
@@ -500,9 +500,9 @@ Some adventuring tasks—such as noticing danger, hitting an enemy, and targetin
 
 #### Obscured Areas
 
-An area might be Lightly or Heavily Obscured. In a Lightly Obscured area—such as an area with Dim Light, patchy fog, or moderate foliage—you have [[Disadvantage]] on Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks that rely on sight.
+An area might be Lightly or Heavily Obscured. In a Lightly Obscured area—such as an area with Dim Light, patchy fog, or moderate foliage—you have [[Disadvantage]] on Wisdom ([Perception](Skills.md#Perception)) checks that rely on sight.
 
-A Heavily Obscured area—such as an area with Darkness, heavy fog, or dense foliage—is opaque. You have the [Blinded](Compendium/rules/conditions.md#Blinded) condition when trying to see something there.
+A Heavily Obscured area—such as an area with Darkness, heavy fog, or dense foliage—is opaque. You have the [Blinded](Conditions.md#Blinded) condition when trying to see something there.
 
 #### Light
 
@@ -524,17 +524,17 @@ Darkness creates a [[Heavily Obscured]] area. Characters face Darkness outdoors 
 
 Some creatures have special senses that help them perceive things in certain situations. The rules glossary defines the following special senses:
 
-[Blindsight](Compendium/rules/senses.md#Blindsight)
+[Blindsight](Senses.md#Blindsight)
 
-[Darkvision](Compendium/rules/senses.md#Darkvision)
+[Darkvision](Senses.md#Darkvision)
 
-[Tremorsense](Compendium/rules/senses.md#Tremorsense)
+[Tremorsense](Senses.md#Tremorsense)
 
-[Truesight](Compendium/rules/senses.md#Truesight)
+[Truesight](Senses.md#Truesight)
 
 ### Hiding
 
-Adventurers and monsters often hide, whether to spy on one another, sneak past a guardian, or set an ambush. The Dungeon Master decides when circumstances are appropriate for hiding. When you try to hide, you take the [Hide](Compendium/rules/actions.md#Hide) action.
+Adventurers and monsters often hide, whether to spy on one another, sneak past a guardian, or set an ambush. The Dungeon Master decides when circumstances are appropriate for hiding. When you try to hide, you take the [Hide](Actions.md#Hide) action.
 
 ### Interacting with Objects
 
@@ -546,13 +546,13 @@ For the purpose of the rules, an object is a discrete, inanimate item like a win
 
 #### Time-Limited Object Interactions
 
-When time is short, such as in combat, interactions with objects are limited: one free interaction per turn. That interaction must occur during a creature's movement or action. Any additional interactions require the [Utilize](Compendium/rules/actions.md#Utilize) action, as explained in ""Combat"" later in this chapter.
+When time is short, such as in combat, interactions with objects are limited: one free interaction per turn. That interaction must occur during a creature's movement or action. Any additional interactions require the [Utilize](Actions.md#Utilize) action, as explained in ""Combat"" later in this chapter.
 
 #### Finding Hidden Objects
 
-When your character searches for hidden things, such as a secret door or a trap, the DM typically asks you to make a Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check, provided you describe the character searching in the hidden object's vicinity. On a success, you find the object, other important details, or both.
+When your character searches for hidden things, such as a secret door or a trap, the DM typically asks you to make a Wisdom ([Perception](Skills.md#Perception)) check, provided you describe the character searching in the hidden object's vicinity. On a success, you find the object, other important details, or both.
 
-If you describe your character searching nowhere near a hidden object, a Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check won't reveal the object, no matter the check's total.
+If you describe your character searching nowhere near a hidden object, a Wisdom ([Perception](Skills.md#Perception)) check won't reveal the object, no matter the check's total.
 
 #### Carrying Objects
 
@@ -597,15 +597,15 @@ Each travel pace has a game effect, as defined below.
 
 ##### Fast
 
-Traveling at a Fast pace imposes [[Disadvantage]] on a traveler's Wisdom ([Perception](Compendium/rules/skills.md#Perception) or [Survival](Compendium/rules/skills.md#Survival)) and Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks.
+Traveling at a Fast pace imposes [[Disadvantage]] on a traveler's Wisdom ([Perception](Skills.md#Perception) or [Survival](Skills.md#Survival)) and Dexterity ([Stealth](Skills.md#Stealth)) checks.
 
 ##### Normal
 
-Traveling at a Normal pace imposes [[Disadvantage]] on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks.
+Traveling at a Normal pace imposes [[Disadvantage]] on Dexterity ([Stealth](Skills.md#Stealth)) checks.
 
 ##### Slow
 
-Traveling at a Slow pace grants [[Advantage]] on Wisdom ([Perception](Compendium/rules/skills.md#Perception) or [Survival](Compendium/rules/skills.md#Survival)) checks.
+Traveling at a Slow pace grants [[Advantage]] on Wisdom ([Perception](Skills.md#Perception) or [Survival](Skills.md#Survival)) checks.
 
 #### Vehicles
 
@@ -685,7 +685,7 @@ This scene finds the player characters investigating a mysterious and potentiall
 
 > [!note] (4)—Finding Hidden Objects
 > 
-> Adventure environments are full of secrets: traps, concealed doors, loose floorboards, and hidden treasures. Characters often use Wisdom checks to find things—see the [Search](Compendium/rules/actions.md#Search) action in the "rules glossary"—but sometimes they stumble on them accidentally, as Auro did here.
+> Adventure environments are full of secrets: traps, concealed doors, loose floorboards, and hidden treasures. Characters often use Wisdom checks to find things—see the [Search](Actions.md#Search) action in the "rules glossary"—but sometimes they stumble on them accidentally, as Auro did here.
 ^4-finding-hidden-objects
 
 > [!note] (5)—Casting Spells
@@ -705,7 +705,7 @@ This scene finds the player characters investigating a mysterious and potentiall
 
 > [!note] (7)—Saving Throws
 > 
-> A saving throw is used to see whether a creature avoids or resists something. When the chest releases toxic gas, Phillip's and Amy's characters make Constitution saving throws. Constitution is one of the six abilities that measure creatures' capabilities, and it has to do with health and stamina. When they fail their saves, the gas causes them to have the [Paralyzed](Compendium/rules/conditions.md#Paralyzed) condition. See ""Conditions"" later in this chapter for more information.
+> A saving throw is used to see whether a creature avoids or resists something. When the chest releases toxic gas, Phillip's and Amy's characters make Constitution saving throws. Constitution is one of the six abilities that measure creatures' capabilities, and it has to do with health and stamina. When they fail their saves, the gas causes them to have the [Paralyzed](Conditions.md#Paralyzed) condition. See ""Conditions"" later in this chapter for more information.
 ^7-saving-throws
 
 ## Combat
@@ -758,13 +758,13 @@ Extended communication, such as a detailed explanation of something or an attemp
 
 You can interact with one object or feature of the environment for free, during either your move or action. For example, you could open a door during your move as you stride toward a foe.
 
-If you want to interact with a second object, you need to take the [Utilize](Compendium/rules/actions.md#Utilize) action. Some magic items and other special objects always require an action to use, as stated in their descriptions.
+If you want to interact with a second object, you need to take the [Utilize](Actions.md#Utilize) action. Some magic items and other special objects always require an action to use, as stated in their descriptions.
 
-The DM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the DM might require you to take the [Utilize](Compendium/rules/actions.md#Utilize) action to open a stuck door or turn a crank to lower a drawbridge.
+The DM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the DM might require you to take the [Utilize](Actions.md#Utilize) action to open a stuck door or turn a crank to lower a drawbridge.
 
 ##### Doing Nothing on Your Turn
 
-You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do, consider taking the defensive [Dodge](Compendium/rules/actions.md#Dodge) action or the [Ready](Compendium/rules/actions.md#Ready) action to delay acting.
+You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do, consider taking the defensive [Dodge](Actions.md#Dodge) action or the [Ready](Actions.md#Ready) action to delay acting.
 
 #### Ending Combat
 
@@ -809,7 +809,7 @@ You can break up your move, using some of its movement before and after any acti
 
 #### Dropping Prone
 
-On your turn, you can give yourself the [Prone](Compendium/rules/conditions.md#Prone) condition without using an action or any of your Speed, but you can't do so if your Speed is 0.
+On your turn, you can give yourself the [Prone](Conditions.md#Prone) condition without using an action or any of your Speed, but you can't do so if your Speed is 0.
 
 #### Creature Size
 
@@ -821,15 +821,15 @@ A character's size is determined by species, and a monster's size is specified i
 
 #### Moving around Other Creatures
 
-During your move, you can pass through the space of an ally, a creature that has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, a Tiny creature, or a creature that is two sizes larger or smaller than you.
+During your move, you can pass through the space of an ally, a creature that has the [Incapacitated](Conditions.md#Incapacitated) condition, a Tiny creature, or a creature that is two sizes larger or smaller than you.
 
 Another creature's space is [[Difficult Terrain]] for you unless that creature is Tiny or your ally.
 
-You can't willingly end a move in a space occupied by another creature. If you somehow end a turn in a space with another creature, you have the [Prone](Compendium/rules/conditions.md#Prone) condition unless you are Tiny or are of a larger size than the other creature.
+You can't willingly end a move in a space occupied by another creature. If you somehow end a turn in a space with another creature, you have the [Prone](Conditions.md#Prone) condition unless you are Tiny or are of a larger size than the other creature.
 
 ### Making an Attack
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action, you make an attack. Some other actions, Bonus Actions, and Reactions also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon, or make an attack roll as part of a spell, an attack has the following structure:
+When you take the [Attack](Actions.md#Attack) action, you make an attack. Some other actions, Bonus Actions, and Reactions also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon, or make an attack roll as part of a spell, an attack has the following structure:
 
 - **Choose a Target.** Pick a target within your attack's range: a creature, an object, or a location.  
 - **Determine Modifiers.** The DM determines whether the target has [[cover-xphb]] (see the next section) and whether you have [[Advantage]] or [[Disadvantage]] against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.  
@@ -864,7 +864,7 @@ Some ranged attacks, such as those made with a [[Longbow]], have two ranges. The
 
 #### Ranged Attacks in Close Combat
 
-Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack roll with a weapon, a spell, or some other means, you have [[Disadvantage]] on the roll if you are within 5 feet of an enemy who can see you and doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack roll with a weapon, a spell, or some other means, you have [[Disadvantage]] on the roll if you are within 5 feet of an enemy who can see you and doesn't have the [Incapacitated](Conditions.md#Incapacitated) condition.
 
 ### Melee Attacks
 
@@ -880,7 +880,7 @@ Combatants watch for enemies to drop their guard. If you move heedlessly past yo
 
 ##### Avoiding Opportunity Attack
 
-You can avoid provoking an Opportunity Attack by taking the [Disengage](Compendium/rules/actions.md#Disengage) action. You also don't provoke an Opportunity Attack when you [[Teleportation]] or when you are moved without using your movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy.
+You can avoid provoking an Opportunity Attack by taking the [Disengage](Actions.md#Disengage) action. You also don't provoke an Opportunity Attack when you [[Teleportation]] or when you are moved without using your movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy.
 
 ##### Making an Opportunity Attack
 
@@ -900,15 +900,15 @@ During your move, you can mount a creature that is within 5 feet of you or dismo
 
 You can control a mount only if it has been trained to accept a rider. Domesticated horses, mules, and similar creatures have such training.
 
-The [[Initiative]] of a controlled mount changes to match yours when you mount it. It moves on your turn as you direct it, and it has only three action options during that turn: [Dash](Compendium/rules/actions.md#Dash), [Disengage](Compendium/rules/actions.md#Disengage), and [Dodge](Compendium/rules/actions.md#Dodge). A controlled mount can move and act even on the turn that you mount it.
+The [[Initiative]] of a controlled mount changes to match yours when you mount it. It moves on your turn as you direct it, and it has only three action options during that turn: [Dash](Actions.md#Dash), [Disengage](Actions.md#Disengage), and [Dodge](Actions.md#Dodge). A controlled mount can move and act even on the turn that you mount it.
 
 In contrast, an independent mount—one that lets you ride but ignores your control—retains its place in the Initiative order and moves and acts as it likes.
 
 #### Falling Off
 
-If an effect is about to move your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off, landing with the [Prone](Compendium/rules/conditions.md#Prone) condition in an unoccupied space within 5 feet of the mount.
+If an effect is about to move your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off, landing with the [Prone](Conditions.md#Prone) condition in an unoccupied space within 5 feet of the mount.
 
-While mounted, you must make the same save if you're knocked [Prone](Compendium/rules/conditions.md#Prone) or the mount is.
+While mounted, you must make the same save if you're knocked [Prone](Conditions.md#Prone) or the mount is.
 
 ### Underwater Combat
 
@@ -993,7 +993,7 @@ When you receive healing, add the restored Hit Points to your current Hit Points
 
 ### Dropping to 0 Hit Points
 
-When a creature drops to 0 Hit Points, it either dies outright or falls [Unconscious](Compendium/rules/conditions.md#Unconscious), as explained below.
+When a creature drops to 0 Hit Points, it either dies outright or falls [Unconscious](Conditions.md#Unconscious), as explained below.
 
 #### Instant Death
 
@@ -1017,11 +1017,11 @@ If your character dies, others might find a magical way to revive your character
 
 #### Falling Unconscious
 
-If you reach 0 Hit Points and don't die instantly, you have the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition until you regain any Hit Points, and you now face making [[Death Saving Throw]] (see below).
+If you reach 0 Hit Points and don't die instantly, you have the [Unconscious](Conditions.md#Unconscious) condition until you regain any Hit Points, and you now face making [[Death Saving Throw]] (see below).
 
 > [!note] Knocking Out a Creature
 > 
-> When you would reduce a creature to 0 Hit Points with a melee attack, you can instead reduce the creature to 1 Hit Point and give it the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition. It then starts a [[Short Rest]], at the end of which that condition ends on it. The condition ends early if the creature regains any Hit Points or if someone takes an action to administer first aid to it, making a successful DC 10 Wisdom ([Medicine](Compendium/rules/skills.md#Medicine)) check.
+> When you would reduce a creature to 0 Hit Points with a melee attack, you can instead reduce the creature to 1 Hit Point and give it the [Unconscious](Conditions.md#Unconscious) condition. It then starts a [[Short Rest]], at the end of which that condition ends on it. The condition ends early if the creature regains any Hit Points or if someone takes an action to administer first aid to it, making a successful DC 10 Wisdom ([Medicine](Skills.md#Medicine)) check.
 ^knocking-out-a-creature
 
 #### Death Saving Throws
@@ -1044,9 +1044,9 @@ If you take any damage while you have 0 Hit Points, you suffer a Death Saving Th
 
 #### Stabilizing a Character
 
-You can take the [Help](Compendium/rules/actions.md#Help) action to try to stabilize a creature with 0 Hit Points, which requires a successful DC 10 Wisdom ([Medicine](Compendium/rules/skills.md#Medicine)) check.
+You can take the [Help](Actions.md#Help) action to try to stabilize a creature with 0 Hit Points, which requires a successful DC 10 Wisdom ([Medicine](Skills.md#Medicine)) check.
 
-A Stable creature doesn't make [[Death Saving Throw]] even though it has 0 Hit Points, but it still has the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition. If the creature takes damage, it stops being Stable and starts making [[Death Saving Throw]] again. A Stable creature that isn't healed regains 1 Hit Point after `1d4` hours.
+A Stable creature doesn't make [[Death Saving Throw]] even though it has 0 Hit Points, but it still has the [Unconscious](Conditions.md#Unconscious) condition. If the creature takes damage, it stops being Stable and starts making [[Death Saving Throw]] again. A Stable creature that isn't healed regains 1 Hit Point after `1d4` hours.
 
 ### Temporary Hit Points
 
@@ -1074,45 +1074,45 @@ If you have 0 Hit Points, receiving Temporary Hit Points doesn't restore you to 
 
 Many effects impose a condition, a temporary state that alters the recipient's capabilities. The following conditions are defined in the "rules glossary":
 
-[Blinded](Compendium/rules/conditions.md#Blinded)
+[Blinded](Conditions.md#Blinded)
 
-[Charmed](Compendium/rules/conditions.md#Charmed)
+[Charmed](Conditions.md#Charmed)
 
-[Deafened](Compendium/rules/conditions.md#Deafened)
+[Deafened](Conditions.md#Deafened)
 
-[Exhaustion](Compendium/rules/conditions.md#Exhaustion)
+[Exhaustion](Conditions.md#Exhaustion)
 
-[Frightened](Compendium/rules/conditions.md#Frightened)
+[Frightened](Conditions.md#Frightened)
 
-[Grappled](Compendium/rules/conditions.md#Grappled)
+[Grappled](Conditions.md#Grappled)
 
-[Incapacitated](Compendium/rules/conditions.md#Incapacitated)
+[Incapacitated](Conditions.md#Incapacitated)
 
-[Invisible](Compendium/rules/conditions.md#Invisible)
+[Invisible](Conditions.md#Invisible)
 
-[Paralyzed](Compendium/rules/conditions.md#Paralyzed)
+[Paralyzed](Conditions.md#Paralyzed)
 
-[Petrified](Compendium/rules/conditions.md#Petrified)
+[Petrified](Conditions.md#Petrified)
 
-[Poisoned](Compendium/rules/conditions.md#Poisoned)
+[Poisoned](Conditions.md#Poisoned)
 
-[Prone](Compendium/rules/conditions.md#Prone)
+[Prone](Conditions.md#Prone)
 
-[Restrained](Compendium/rules/conditions.md#Restrained)
+[Restrained](Conditions.md#Restrained)
 
-[Stunned](Compendium/rules/conditions.md#Stunned)
+[Stunned](Conditions.md#Stunned)
 
-[Unconscious](Compendium/rules/conditions.md#Unconscious)
+[Unconscious](Conditions.md#Unconscious)
 
 The definition of a condition specifies what happens to its recipient while affected by it, and some conditions apply other conditions.
 
 ### Duration
 
-A condition lasts either for a duration specified by the effect that imposed the condition or until the condition is countered (the [Prone](Compendium/rules/conditions.md#Prone) condition is countered by standing up, for example).
+A condition lasts either for a duration specified by the effect that imposed the condition or until the condition is countered (the [Prone](Conditions.md#Prone) condition is countered by standing up, for example).
 
 ### Conditions Don't Stack
 
-If multiple effects impose the same condition on you, each instance of the condition has its own duration, but the condition's effects don't get worse. Either you have a condition or you don't. The [Exhaustion](Compendium/rules/conditions.md#Exhaustion) condition is an exception; its effects get worse if you have the condition and receive it again.
+If multiple effects impose the same condition on you, each instance of the condition has its own duration, but the condition's effects don't get worse. Either you have a condition or you don't. The [Exhaustion](Conditions.md#Exhaustion) condition is an exception; its effects get worse if you have the condition and receive it again.
 
 ### Combat and Damage Example
 
@@ -1195,7 +1195,7 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 > [!note] (13)—Special Abilities
 > 
-> Auro's Sneak Attack lets him deal extra damage to the skeletons, and his Cunning Action lets him [Disengage](Compendium/rules/actions.md#Disengage) as a Bonus Action. These are examples of class features (described in "chapter 3") that let characters bend the rules.
+> Auro's Sneak Attack lets him deal extra damage to the skeletons, and his Cunning Action lets him [Disengage](Actions.md#Disengage) as a Bonus Action. These are examples of class features (described in "chapter 3") that let characters bend the rules.
 ^13-special-abilities
 
 > [!note] (14)—Vulnerability

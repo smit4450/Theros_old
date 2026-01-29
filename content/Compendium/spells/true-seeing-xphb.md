@@ -29,7 +29,7 @@ aliases: ["True Seeing"]
 - **Components:** V, S, M (mushroom powder worth 25+ GP, which the spell consumes)
 - **Duration:** 1 hour
 
-For the duration, the willing creature you touch has [Truesight](Compendium/rules/senses.md#Truesight) with a range of 120 feet.
+For the duration, the willing creature you touch has [Truesight](Senses.md#Truesight) with a range of 120 feet.
 
 **Classes**: [[Bard Spells]]; [[Cleric Spells]]; [[Sorcerer Spells]]; [[Warlock Spells]]; [Wizard (Diviner)](Spells%20for%20Diviner.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 

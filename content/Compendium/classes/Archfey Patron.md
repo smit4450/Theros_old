@@ -88,7 +88,7 @@ In addition, the following effects are now among your Steps of the Fey options.
 
 #### Disappearing Step
 
-You have the [Invisible](Compendium/rules/conditions.md#Invisible) condition until the start of your next turn or until immediately after you make an attack roll, deal damage, or cast a spell.
+You have the [Invisible](Conditions.md#Invisible) condition until the start of your next turn or until immediately after you make an attack roll, deal damage, or cast a spell.
 
 #### Dreadful Step
 
@@ -96,7 +96,7 @@ Creatures within 5 feet of the space you left or the space you appear in (your c
 
 ### Beguiling Defenses (Level 10)
 
-Your patron teaches you how to guard your mind and body. You are immune to the [Charmed](Compendium/rules/conditions.md#Charmed) condition.
+Your patron teaches you how to guard your mind and body. You are immune to the [Charmed](Conditions.md#Charmed) condition.
 
 In addition, immediately after a creature you can see hits you with an attack roll, you can take a [[Reaction]] to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take. Once you use this [[Reaction]], you can't use it again until you finish a [[Long Rest]] unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
 

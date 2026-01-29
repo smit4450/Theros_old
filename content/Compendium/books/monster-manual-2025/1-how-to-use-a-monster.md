@@ -155,7 +155,7 @@ Every monster has six ability scores along with corresponding ability score modi
 
 ### Skills
 
-The Skills entry specifies a monster's skill proficiencies, if any. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom ([Perception](Compendium/rules/skills.md#Perception)) and Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks. A skill bonus is the sum of a monster's relevant ability modifier and its [[Proficiency]]. Other modifiers might apply.
+The Skills entry specifies a monster's skill proficiencies, if any. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom ([Perception](Skills.md#Perception)) and Dexterity ([Stealth](Skills.md#Stealth)) checks. A skill bonus is the sum of a monster's relevant ability modifier and its [[Proficiency]]. Other modifiers might apply.
 
 ### Resistances and Vulnerabilities
 
@@ -258,7 +258,7 @@ A stat block usually provides both a number and a die expression for each instan
 
 #### Multiattack
 
-Some creatures can make more than one attack when they take the [Attack](Compendium/rules/actions.md#Attack) action. Such creatures have the Multiattack entry in the "Actions" section of their stat block. This entry details the attacks a creature can make, as well as any additional abilities it can use, as part of the [Attack](Compendium/rules/actions.md#Attack) action.
+Some creatures can make more than one attack when they take the [Attack](Actions.md#Attack) action. Such creatures have the Multiattack entry in the "Actions" section of their stat block. This entry details the attacks a creature can make, as well as any additional abilities it can use, as part of the [Attack](Actions.md#Attack) action.
 
 #### Spellcasting
 
@@ -272,7 +272,7 @@ The Spellcasting trait notes whether the monster's spellcasting ignores the need
 
 ##### Casting Times of 1+ Minutes
 
-If a spell has a casting time of 1 minute or more yet is listed in a spellcasting action, the monster doesn't cast the spell in just one action unless the action's description states otherwise; the monster must take the [Magic](Compendium/rules/actions.md#Magic) action on each of its turns and maintain [Concentration](Compendium/rules/conditions.md#Concentration) to cast the spell, as described in the "Player's Handbook".
+If a spell has a casting time of 1 minute or more yet is listed in a spellcasting action, the monster doesn't cast the spell in just one action unless the action's description states otherwise; the monster must take the [Magic](Actions.md#Magic) action on each of its turns and maintain [Concentration](Conditions.md#Concentration) to cast the spell, as described in the "Player's Handbook".
 
 ### Bonus Action
 
@@ -284,7 +284,7 @@ If the monster has Reaction options, those are listed in this section along with
 
 ### Legendary Actions
 
-If the monster has Legendary Action options, those are listed in this section. A Legendary Action is an action that a monster can take immediately after another creature's turn. Only one of these actions can be taken at a time and only after another creature's turn ends. The monster can't take a Legendary Action if it has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition or is otherwise unable to take actions.
+If the monster has Legendary Action options, those are listed in this section. A Legendary Action is an action that a monster can take immediately after another creature's turn. Only one of these actions can be taken at a time and only after another creature's turn ends. The monster can't take a Legendary Action if it has the [Incapacitated](Conditions.md#Incapacitated) condition or is otherwise unable to take actions.
 
 The monster has a limited number of Legendary Action uses, and that number is specified in the stat block. The monster expends one use whenever it takes a Legendary Action, and it regains all expended uses at the start of each of its turns.
 

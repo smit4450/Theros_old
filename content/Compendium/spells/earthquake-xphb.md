@@ -27,7 +27,7 @@ aliases: ["Earthquake"]
 
 Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The ground there is [[Difficult Terrain]].
 
-When you cast this spell and at the end of each of your turns for the duration, each creature on the ground in the area makes a Dexterity saving throw. On a failed save, a creature has the [Prone](Compendium/rules/conditions.md#Prone) condition, and its [Concentration](Compendium/rules/conditions.md#Concentration) is broken.
+When you cast this spell and at the end of each of your turns for the duration, each creature on the ground in the area makes a Dexterity saving throw. On a failed save, a creature has the [Prone](Conditions.md#Prone) condition, and its [Concentration](Conditions.md#Concentration) is broken.
 
 You can also cause the effects below.
 
@@ -39,7 +39,7 @@ A total of `1d6` fissures open in the spell's area at the end of the turn you ca
 
 The tremor deals 50 Bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each of your turns until the spell ends. If a structure drops to 0 [[Hit Points]], it collapses.
 
-A creature within a distance from a collapsing structure equal to half the structure's height makes a Dexterity saving throw. On a failed save, the creature takes `12d6` Bludgeoning damage, has the [Prone](Compendium/rules/conditions.md#Prone) condition, and is buried in the rubble, requiring a DC 20 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check as an action to escape. On a successful save, the creature takes half as much damage only.
+A creature within a distance from a collapsing structure equal to half the structure's height makes a Dexterity saving throw. On a failed save, the creature takes `12d6` Bludgeoning damage, has the [Prone](Conditions.md#Prone) condition, and is buried in the rubble, requiring a DC 20 Strength ([Athletics](Skills.md#Athletics)) check as an action to escape. On a successful save, the creature takes half as much damage only.
 
 ## Summary
 

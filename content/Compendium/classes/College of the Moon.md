@@ -68,7 +68,7 @@ Once per turn when you restore [[Hit Points]] to a creature with a spell, you ca
 
 You learn Druidic and one cantrip from the Druid spell list. It counts as a Bard spell for you but doesn't count against the number of cantrips you know. Whenever you gain a Bard level, you can replace this cantrip with another cantrip of your choice from the Druid spell list.
 
-Additionally, choose one of the following skills: [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Insight](Compendium/rules/skills.md#Insight), [Medicine](Compendium/rules/skills.md#Medicine), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), or [Survival](Compendium/rules/skills.md#Survival). You have proficiency in that skill.
+Additionally, choose one of the following skills: [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Insight](Skills.md#Insight), [Medicine](Skills.md#Medicine), [Nature](Skills.md#Nature), [Perception](Skills.md#Perception), or [Survival](Skills.md#Survival). You have proficiency in that skill.
 
 ### Blessing of Moonlight (Level 6)
 

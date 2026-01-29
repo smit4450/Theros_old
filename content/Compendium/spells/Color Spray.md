@@ -33,7 +33,7 @@ aliases: ["Color Spray"]
 - **Components:** V, S, M (a pinch of colorful sand)
 - **Duration:** Instantaneous
 
-You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot [[Cone (Area of Effect)]] originating from you must succeed on a Constitution saving throw or have the [Blinded](Compendium/rules/conditions.md#Blinded) condition until the end of your next turn.
+You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot [[Cone (Area of Effect)]] originating from you must succeed on a Constitution saving throw or have the [Blinded](Conditions.md#Blinded) condition until the end of your next turn.
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [Wizard (Illusionist)](Spells%20for%20Illusionist.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 

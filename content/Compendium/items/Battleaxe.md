@@ -16,7 +16,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Item%20Properties.md#Versatile)
 - **Cost**: 10 gp
 - **Weight**: 4.0 lbs.
 

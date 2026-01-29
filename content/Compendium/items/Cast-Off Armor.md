@@ -28,7 +28,7 @@ aliases:
 
 
 
-You can doff this armor as a [Magic](Compendium/rules/actions.md#Magic) action.
+You can doff this armor as a [Magic](Actions.md#Magic) action.
 
 **Variants**:
 -  [[#Cast-Off Breastplate]]

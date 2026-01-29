@@ -34,9 +34,9 @@ aliases: ["Feign Death"]
 
 You touch a willing creature and put it into a cataleptic state that is indistinguishable from death.
 
-For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [Blinded](Compendium/rules/conditions.md#Blinded) and [Incapacitated](Compendium/rules/conditions.md#Incapacitated) conditions, and its [[Speed]] is 0.
+For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [Blinded](Conditions.md#Blinded) and [Incapacitated](Conditions.md#Incapacitated) conditions, and its [[Speed]] is 0.
 
-The target also has [[resistance-xphb]] to all damage except Psychic damage, and it has [[Immunity]] to the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition.
+The target also has [[resistance-xphb]] to all damage except Psychic damage, and it has [[Immunity]] to the [Poisoned](Conditions.md#Poisoned) condition.
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [[Cleric Spells]]; [[Druid Spells]]; [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 

@@ -66,7 +66,7 @@ While your Rage is active, you have [[resistance-xphb]] to every damage type exc
 
 #### Eagle
 
-When you activate your Rage, you can take the [Disengage](Compendium/rules/actions.md#Disengage) and [Dash](Compendium/rules/actions.md#Dash) actions as part of that [[Bonus Action]]. While your Rage is active, you can take a [[Bonus Action]] to take both of those actions.
+When you activate your Rage, you can take the [Disengage](Actions.md#Disengage) and [Dash](Actions.md#Dash) actions as part of that [[Bonus Action]]. While your Rage is active, you can take a [[Bonus Action]] to take both of those actions.
 
 #### Wolf
 
@@ -78,7 +78,7 @@ You gain one of the following options of your choice. Whenever you finish a [[Lo
 
 #### Owl
 
-You have [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](Compendium/rules/senses.md#Darkvision), its range increases by 60 feet.
+You have [Darkvision](Senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](Senses.md#Darkvision), its range increases by 60 feet.
 
 #### Panther
 
@@ -106,4 +106,4 @@ While your Rage is active, any of your enemies within 5 feet of you have [[Disad
 
 #### Ram
 
-While your Rage is active, you can cause a Large or smaller creature to have the [Prone](Compendium/rules/conditions.md#Prone) condition when you hit it with a melee attack.
+While your Rage is active, you can cause a Large or smaller creature to have the [Prone](Conditions.md#Prone) condition when you hit it with a melee attack.

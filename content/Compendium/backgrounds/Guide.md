@@ -12,7 +12,7 @@ aliases: ["Guide"]
 
 - **Ability Scores.** Dexterity, Constitution, Wisdom  
 - **Feat.**  [[Magic Initiate]] (Druid)  
-- **Skill Proficiencies.** [Stealth](Compendium/rules/skills.md#Stealth), [Survival](Compendium/rules/skills.md#Survival)  
+- **Skill Proficiencies.** [Stealth](Skills.md#Stealth), [Survival](Skills.md#Survival)  
 - **Tool Proficiency.** [[Cartographer's Tools]]  
 - **Equipment.** Choose A or B: (A) [[Shortbow]], [[Arrow]], [[Cartographer's Tools]], [[Bedroll]], [[Quiver]], [[Tent]], [[Traveler's Clothes]], 3 GP; or (B) 50 GP  
 

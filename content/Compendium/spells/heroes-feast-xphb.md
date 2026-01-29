@@ -25,7 +25,7 @@ aliases: ["Heroes' Feast"]
 
 You conjure a feast that appears on a surface in an unoccupied 10-foot [[Cube (Area of Effect)]] next to you. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
 
-A creature that partakes gains several benefits, which last for 24 hours. The creature has [[resistance-xphb]] to Poison damage, and it has [[Immunity]] to the [Frightened](Compendium/rules/conditions.md#Frightened) and [Poisoned](Compendium/rules/conditions.md#Poisoned) conditions. Its [[Hit Points]] maximum also increases by `2d10`, and it gains the same number of [[Hit Points]].
+A creature that partakes gains several benefits, which last for 24 hours. The creature has [[resistance-xphb]] to Poison damage, and it has [[Immunity]] to the [Frightened](Conditions.md#Frightened) and [Poisoned](Conditions.md#Poisoned) conditions. Its [[Hit Points]] maximum also increases by `2d10`, and it gains the same number of [[Hit Points]].
 
 **Classes**: [[Bard Spells]]; [[Cleric Spells]]; [[Druid Spells]]
 

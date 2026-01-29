@@ -12,7 +12,7 @@ aliases: ["Criminal"]
 
 - **Ability Scores.** Dexterity, Constitution, Intelligence  
 - **Feat.**  [[Alert]]  
-- **Skill Proficiencies.** [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand), [Stealth](Compendium/rules/skills.md#Stealth)  
+- **Skill Proficiencies.** [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand), [Stealth](Skills.md#Stealth)  
 - **Tool Proficiency.** [[Thieves' Tools]]  
 - **Equipment.** Choose A or B: (A) [[Dagger]], [[Thieves' Tools]], [[Crowbar]], [[Pouch]], [[Traveler's Clothes]], 16 GP; or (B) 50 GP  
 

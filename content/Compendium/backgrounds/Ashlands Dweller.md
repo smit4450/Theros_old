@@ -12,7 +12,7 @@ aliases: ["Dead Magic Dweller"]
 
 - **Ability Scores.** Strength, Constitution, Wisdom  
 - **Feat.**  [[Healer]]  
-- **Skill Proficiencies.** [Medicine](Compendium/rules/skills.md#Medicine) and [Survival](Compendium/rules/skills.md#Survival)  
+- **Skill Proficiencies.** [Medicine](Skills.md#Medicine) and [Survival](Skills.md#Survival)  
 - **Tool Proficiencies.** [[Leatherworker's Tools]]  
 - **Equipment.** Choose A or B: (A) [[Greatclub]], [[Leatherworker's Tools]], [[Bedroll]], [[Blanket]], [[Healer's Kit]], [[Pole]], [[Rations]] (3 days' worth), [[Tent]], [[Tinderbox]], 5 [[Torch]], [[Traveler's Clothes]], [[Waterskin]], 32 GP; or (B) 50 GP  
 

@@ -21,18 +21,18 @@ While holding the hat, you can use it as a [[Spellcasting Focus]] for your Wizar
 
 ## Unknown Spell
 
-While holding the hat, you can try to cast a level 1+ spell you don't know. The spell must be on the Wizard spell list, it must be of a level you can cast, and it can't have Material components costing more than 1,000 GP. Once you decide on the spell, you must expend a spell slot of the spell's level. Then, to determine whether you cast the spell, make an Intelligence ([Arcana](Compendium/rules/skills.md#Arcana)) check (DC 10 plus the spell's level). On a successful check, you cast the spell using its normal casting time, and you can't use this property again until you finish a [[Short Rest]] or [[Long Rest]]. On a failed check, you fail to cast the spell and a random effect occurs instead, determined by rolling on the following table.
+While holding the hat, you can try to cast a level 1+ spell you don't know. The spell must be on the Wizard spell list, it must be of a level you can cast, and it can't have Material components costing more than 1,000 GP. Once you decide on the spell, you must expend a spell slot of the spell's level. Then, to determine whether you cast the spell, make an Intelligence ([Arcana](Skills.md#Arcana)) check (DC 10 plus the spell's level). On a successful check, you cast the spell using its normal casting time, and you can't use this property again until you finish a [[Short Rest]] or [[Long Rest]]. On a failed check, you fail to cast the spell and a random effect occurs instead, determined by rolling on the following table.
 
 Any spell you cast from the hat uses your spell save DC and spell attack bonus.
 
 | dice: 1d100 | Effect |
 |-------------|--------|
 | 01-50 | You cast a random spell determined by rolling `1d10`: on a **1**, [[enlarge-reduce-xphb]] (enlarge effect); on a **2**, [[enlarge-reduce-xphb]] (reduce effect); on a **3**, [[faerie-fire-xphb]]; on a **4**, [[fireball-xphb]]; on a **5**, [[gust-of-wind-xphb]]; on a **6**, [[invisibility-xphb]] (cast on yourself); on a **7**, [[lightning-bolt-xphb]]; on an **8**, [[phantasmal-force-xphb]]; on a **9**, [[polymorph-xphb]]; on a **10**, [[stinking-cloud-xphb]]. |
-| 51-55 | You have the [Stunned](Compendium/rules/conditions.md#Stunned) condition until the end of your next turn, believing something awesome just happened. |
+| 51-55 | You have the [Stunned](Conditions.md#Stunned) condition until the end of your next turn, believing something awesome just happened. |
 | 56-60 | A harmless swarm of butterflies fills a 10-foot [[Cube (Area of Effect)]] within 30 feet of yourself. The swarm disperses after 1 minute. |
 | 61-65 | You pull a nonmagical object out of the hat. Roll `1d4` to determine the object: on a **1**, a vial of Acid; on a **2**, a flask of Alchemist's Fire; on a **3**, a Crowbar; on a **4**, a lit Torch. |
-| 66-70 | You suffer a bout of "magic sickness" and have the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 hour. |
-| 71-75 | You have the [Petrified](Compendium/rules/conditions.md#Petrified) condition until the end of your next turn. |
+| 66-70 | You suffer a bout of "magic sickness" and have the [Poisoned](Conditions.md#Poisoned) condition for 1 hour. |
+| 71-75 | You have the [Petrified](Conditions.md#Petrified) condition until the end of your next turn. |
 | 76-80 | You pull a nonmagical object out of the hat. Roll `1d4` to determine the object: on a **1**, a [[Dagger]]; on a **2**, a [[Rope]] with a [[Grappling Hook]] tied to one end; on a **3**, a bag of [[Caltrops]]; on a **4**, a gem worth 50 GP. |
 | 81-85 | A creature appears in an unoccupied space as close to you as possible. The creature isn't under your control and acts as it normally would, and it disappears after 1 hour or when it drops to 0 [[Hit Points]]. Roll `1d4` to determine the creature: on a **1**, a [[camel-xmm]]; on a **2**, a [[Constrictor Snake]]; on a **3**, an [[Compendium/bestiary/beast/Elephant]]; on a **4**, a [[Compendium/bestiary/beast/Mule]]. |
 | 86-90 | A [[Hostile (Attitude)]] [[Swarm of Bats]] flies out of the hat, occupies your space, and attacks you. |

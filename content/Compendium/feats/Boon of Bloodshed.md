@@ -19,4 +19,4 @@ You gain the following benefits.
 
 **Killer's Fortune.** When an enemy you can see is reduced to 0 [[Hit Points]], you gain [[Advantage]] on the next attack roll you make before the end of your next turn.
 
-**Power from Pain.** Once per turn, when you make an attack roll while [Bloodied](Compendium/rules/conditions.md#Bloodied), you can deal extra damage to the target equal to your [[Proficiency]]. The extra damage's type is the same as the attack's type.
+**Power from Pain.** Once per turn, when you make an attack roll while [Bloodied](Conditions.md#Bloodied), you can deal extra damage to the target equal to your [[Proficiency]]. The extra damage's type is the same as the attack's type.

@@ -37,8 +37,8 @@ aliases: ["Greater Restoration"]
 
 You touch a creature and magically remove one of the following effects from it:
 
-- 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level  
-- The [Charmed](Compendium/rules/conditions.md#Charmed) or [Petrified](Compendium/rules/conditions.md#Petrified) condition  
+- 1 [Exhaustion](Conditions.md#Exhaustion) level  
+- The [Charmed](Conditions.md#Charmed) or [Petrified](Conditions.md#Petrified) condition  
 - A curse, including the target's [[Attunement]] to a cursed magic item  
 - Any reduction to one of the target's ability scores  
 - Any reduction to the target's [[Hit Points]] maximum  

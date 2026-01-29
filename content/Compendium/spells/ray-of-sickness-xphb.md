@@ -34,7 +34,7 @@ aliases: ["Ray of Sickness"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You shoot a greenish ray at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes `2d8` Poison damage and has the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition until the end of your next turn.
+You shoot a greenish ray at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes `2d8` Poison damage and has the [Poisoned](Conditions.md#Poisoned) condition until the end of your next turn.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 1.
 

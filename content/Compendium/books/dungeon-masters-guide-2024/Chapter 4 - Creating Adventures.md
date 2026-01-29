@@ -234,7 +234,7 @@ Make sure your players have clear objectives they can pursue at every stage of t
 
 - **Adviser NPCs.** A helpful NPC in a social interaction can offer advice and suggestions to the characters. Such an NPC might be the patron who initially sent the characters on the adventure, someone they met along the way, or a character's contact. When you're planning an adventure, include NPCs who can fill this role.  
 - **Evil Intrusion.** If things start grinding to a halt, have the characters encounter a minion or monster connected to the adventure's main threat. At the end of the encounter, perhaps the characters find information that gets them back on track. Plan one or two encounters like this ahead of time.  
-- **The DM's Role.** If the characters can't figure out how to solve an encounter or aren't sure what to do next, you can remind the players of things their characters have already learned or call for Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) or similar checks to see if their characters can remember and connect things that the players might be missing.  
+- **The DM's Role.** If the characters can't figure out how to solve an encounter or aren't sure what to do next, you can remind the players of things their characters have already learned or call for Intelligence ([Investigation](Skills.md#Investigation)) or similar checks to see if their characters can remember and connect things that the players might be missing.  
 
 ### Something for Everyone
 
@@ -543,7 +543,7 @@ Just outside the cave, the characters encounter six [[Twig Blight]].
 Use the Underdark Warren map in "Appendix B" for the corrupted cave. Ignore the secret door and the inner chambers behind it. Close off the tunnels leading off the map to the south, east, and north. The characters enter the cave in the southeast, following the stream. The cave's main features and inhabitants are as follows:
 
 - **Entrance.** A [[Shrieker Fungus]] just inside the cave entrance alerts the inhabitants to the characters' arrival. On watch near the entrance and quick to respond to the shriekers' cry are four [[bullywug-warrior-xmm]] who have fungal growths on them.  
-- **Berserk Bear.** In a side cave to the southeast is a [[Brown Bear]] that drank from the stream. It's upset because the water made it ill. If the characters can make it eat Borogrove's acorn or otherwise rid it the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition, the bear recovers immediately and leaves them alone.  
+- **Berserk Bear.** In a side cave to the southeast is a [[Brown Bear]] that drank from the stream. It's upset because the water made it ill. If the characters can make it eat Borogrove's acorn or otherwise rid it the [Poisoned](Conditions.md#Poisoned) condition, the bear recovers immediately and leaves them alone.  
 - **Ooze's Lair.** At the north end of the stream are a [[Gray Ooze]] and six [[stirge-xmm]]. After defeating these creatures, the characters can destroy the brain-like fungus in the water, which is the source of the corruption. If they do, each character earns a bonus 100 XP.  
 
 ##### Journey Home

@@ -26,7 +26,7 @@ You place a curse on a creature that you can see within range. Until the spell e
 
 If the target drops to 0 [[Hit Points]] before this spell ends, you can take a [[Bonus Action]] on a later turn to curse a new creature.
 
-**Using a Higher-Level Spell Slot.** Your [Concentration](Compendium/rules/conditions.md#Concentration) can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
+**Using a Higher-Level Spell Slot.** Your [Concentration](Conditions.md#Concentration) can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
 
 **Classes**: [Warlock (Great Old One Patron)](Spells%20for%20Great%20Old%20One%20Patron.md "subclass=XPHB;class=XPHB"); [[Warlock Spells]]
 

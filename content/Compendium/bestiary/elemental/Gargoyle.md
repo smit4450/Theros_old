@@ -49,7 +49,7 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
 | 1 | Burls and bark on a giant tree. |
 | 2 | Monuments in a graveyard or memorial. |
 | 3 | Outcroppings on a cliff or rock formation |
-| 4 | The [petrified](Compendium/rules/conditions.md#Petrified) victims of a basilisk or medusa. |
+| 4 | The [petrified](Conditions.md#Petrified) victims of a basilisk or medusa. |
 | 5 | Reliefs on a sculpted gate or wall. |
 | 6 | Rubble in a ruin or junkyard. |
 | 7 | Stalactites or icicles on a cavern ceiling. |

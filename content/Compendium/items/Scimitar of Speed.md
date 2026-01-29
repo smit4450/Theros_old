@@ -15,7 +15,7 @@ aliases:
 ![](Compendium/items/img/scimitar-of-speed.webp#right)
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Finesse](Item%20Properties.md#Finesse), [Light](Item%20Properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you can make one attack with it as a [[Bonus Action]] on each of your turns.

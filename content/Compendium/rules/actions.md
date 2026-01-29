@@ -49,7 +49,7 @@ _Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems 
 
 lf you take the Dodge action, you gain the following benefits: until the start of your next turn, any attack roll made against you has [[Disadvantage]] if you can see the attacker, and you make Dexterity [[Saving Throw]] with [[Advantage]].
 
-You lose these benefits if you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition or if your [[Speed]] is 0.
+You lose these benefits if you have the [Incapacitated](Conditions.md#Incapacitated) condition or if your [[Speed]] is 0.
 
 ## Don or Doff a Shield
 _Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -70,7 +70,7 @@ _Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-A Grappled creature can use its action to make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check against the grapple's escape DC, ending the [[Condition]] on itself on a success. The [[Condition]] also ends if the grappler has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
+A Grappled creature can use its action to make a Strength ([Athletics](Skills.md#Athletics)) or Dexterity ([Acrobatics](Skills.md#Acrobatics)) check against the grapple's escape DC, ending the [[Condition]] on itself on a success. The [[Condition]] also ends if the grappler has the [Incapacitated](Conditions.md#Incapacitated) condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
 
 ## Help
 _Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -92,9 +92,9 @@ _Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) check while you're [[Heavily Obscured]] or behind [[Cover]], and you must be out of any enemy's line of sight; if you can see a creature, you can discern whether it can see you.
+With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity ([Stealth](Skills.md#Stealth)) check while you're [[Heavily Obscured]] or behind [[Cover]], and you must be out of any enemy's line of sight; if you can see a creature, you can discern whether it can see you.
 
-On a successful check, you have the [Invisible](Compendium/rules/conditions.md#Invisible) condition. Make note of your check's total, which is the DC for a creature to find you with a Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check.
+On a successful check, you have the [Invisible](Conditions.md#Invisible) condition. Make note of your check's total, which is the DC for a creature to find you with a Wisdom ([Perception](Skills.md#Perception)) check.
 
 You stop being hidden immediately after any of the following occurs: you make a sound louder than a whisper, an enemy finds you, you make an attack roll, or you cast a spell with a Verbal component.
 
@@ -128,10 +128,10 @@ If you urge the monster to do something that it is hesitant to do, you must make
 
 | Ability Check | Interaction |
 |---------------|-------------|
-| Charisma ([Deception](Compendium/rules/skills.md#Deception)) | Deceiving a monster that understands you |
-| Charisma ([Intimidation](Compendium/rules/skills.md#Intimidation)) | Intimidating a monster |
-| Charisma ([Performance](Compendium/rules/skills.md#Performance)) | Amusing a monster |
-| Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) | Persuading a monster that understands you |
+| Charisma ([Deception](Skills.md#Deception)) | Deceiving a monster that understands you |
+| Charisma ([Intimidation](Skills.md#Intimidation)) | Intimidating a monster |
+| Charisma ([Performance](Skills.md#Performance)) | Amusing a monster |
+| Charisma ([Persuasion](Skills.md#Persuasion)) | Persuading a monster that understands you |
 | Wisdom ([Animal Handling](Compendium/rules/skills.md#Animal Handling)) | Gently coaxing a Beast or Monstrosity |
 ^influence-checks
 
@@ -142,7 +142,7 @@ _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems 
 
 When you take the Magic action, you cast a spell that has a casting time of an action or use a feature or magic item that requires a Magic action to be activated.
 
-If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain [Concentration](Compendium/rules/conditions.md#Concentration) while you do so. If your [Concentration](Compendium/rules/conditions.md#Concentration) is broken, the spell fails, but you don't expend a spell slot.
+If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain [Concentration](Conditions.md#Concentration) while you do so. If your [Concentration](Conditions.md#Concentration) is broken, the spell fails, but you don't expend a spell slot.
 
 ## Opportunity Attack
 _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -162,7 +162,7 @@ First, you decide what perceivable circumstance will trigger your [[Reaction]]. 
 
 When the trigger occurs, you can either take your [[Reaction]] right after the trigger finishes or ignore the trigger.
 
-When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your [[Reaction]] when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires [Concentration](Compendium/rules/conditions.md#Concentration), which you can maintain up to the start of your next turn. If your [Concentration](Compendium/rules/conditions.md#Concentration) is broken, the spell dissipates without taking effect.
+When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your [[Reaction]] when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires [Concentration](Conditions.md#Concentration), which you can maintain up to the start of your next turn. If your [Concentration](Conditions.md#Concentration) is broken, the spell dissipates without taking effect.
 
 ## Search
 _Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -175,10 +175,10 @@ When you take the Search action, you make a Wisdom check to discern something th
 
 | Skill | Thing to Detect |
 |-------|-----------------|
-| [Insight](Compendium/rules/skills.md#Insight) | Creature's state of mind |
-| [Medicine](Compendium/rules/skills.md#Medicine) | Creature's ailment or cause of death |
-| [Perception](Compendium/rules/skills.md#Perception) | Concealed creature or object |
-| [Survival](Compendium/rules/skills.md#Survival) | Tracks or food |
+| [Insight](Skills.md#Insight) | Creature's state of mind |
+| [Medicine](Skills.md#Medicine) | Creature's ailment or cause of death |
+| [Perception](Skills.md#Perception) | Concealed creature or object |
+| [Survival](Skills.md#Survival) | Tracks or food |
 ^search
 
 ## Study
@@ -194,11 +194,11 @@ The Areas of Knowledge table suggests which skills are applicable to various are
 
 | Skill | Areas |
 |-------|-------|
-| [Arcana](Compendium/rules/skills.md#Arcana) | Spells, magic items, eldritch symbols, magical traditions, planes of existence, and certain creatures (Aberrations, Constructs, Elementals, Fey, and Monstrosities) |
-| [History](Compendium/rules/skills.md#History) | Historic events and people, ancient civilizations, wars, and certain creatures (Giants and Humanoids) |
-| [Investigation](Compendium/rules/skills.md#Investigation) | Traps, ciphers, riddles, and gadgetry |
-| [Nature](Compendium/rules/skills.md#Nature) | Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants) |
-| [Religion](Compendium/rules/skills.md#Religion) | Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead) |
+| [Arcana](Skills.md#Arcana) | Spells, magic items, eldritch symbols, magical traditions, planes of existence, and certain creatures (Aberrations, Constructs, Elementals, Fey, and Monstrosities) |
+| [History](Skills.md#History) | Historic events and people, ancient civilizations, wars, and certain creatures (Giants and Humanoids) |
+| [Investigation](Skills.md#Investigation) | Traps, ciphers, riddles, and gadgetry |
+| [Nature](Skills.md#Nature) | Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants) |
+| [Religion](Skills.md#Religion) | Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead) |
 ^areas-of-knowledge
 
 ## Two-Weapon Fighting
@@ -206,13 +206,13 @@ _Source: Player's Handbook (2024) p. 213. Available in the <span title='Systems 
 
 - **Duration**: 1 bonus
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a [[Bonus Action]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[Shortsword]] in one hand and a [[dagger-xphb]] in the other using the [Attack](Compendium/rules/actions.md#Attack) action and a [[Bonus Action]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[Bonus Action]] unless that modifier is negative.
+When you take the [Attack](Actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a [[Bonus Action]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[Shortsword]] in one hand and a [[dagger-xphb]] in the other using the [Attack](Actions.md#Attack) action and a [[Bonus Action]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[Bonus Action]] unless that modifier is negative.
 
-See also: [Attack](Compendium/rules/actions.md#Attack)
+See also: [Attack](Actions.md#Attack)
 
 ## Utilize
 _Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
-You normally interact with an object while doing something else, such as when you draw a sword as part of the [Attack](Compendium/rules/actions.md#Attack) action. When an object requires an action for its use, you take the Utilize action.[Dagger](Dagger.md)
+You normally interact with an object while doing something else, such as when you draw a sword as part of the [Attack](Actions.md#Attack) action. When an object requires an action for its use, you take the Utilize action.[Dagger](Dagger.md)

@@ -21,9 +21,9 @@ aliases: ["Compulsion"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the [Charmed](Compendium/rules/conditions.md#Charmed) condition until the spell ends.
+Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the [Charmed](Conditions.md#Charmed) condition until the spell ends.
 
-For the duration, you can take a [[Bonus Action]] to designate a direction that is horizontal to you. Each [Charmed](Compendium/rules/conditions.md#Charmed) target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success.
+For the duration, you can take a [[Bonus Action]] to designate a direction that is horizontal to you. Each [Charmed](Conditions.md#Charmed) target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success.
 
 **Classes**: [[Bard Spells]]; [Paladin (Oath of Glory)](Spells%20for%20Oath%20of%20Glory.md "subclass=XPHB;class=XPHB")
 

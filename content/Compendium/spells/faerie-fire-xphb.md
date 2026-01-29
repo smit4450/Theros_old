@@ -29,9 +29,9 @@ aliases: ["Faerie Fire"]
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-Objects in a 20-foot [[Cube (Area of Effect)]] within range are outlined in blue, green, or violet light (your choice). Each creature in the [[Cube (Area of Effect)]] is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed [[Dim Light]] in a 10-foot radius and can't benefit from the [Invisible](Compendium/rules/conditions.md#Invisible) condition.
+Objects in a 20-foot [[Cube (Area of Effect)]] within range are outlined in blue, green, or violet light (your choice). Each creature in the [[Cube (Area of Effect)]] is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed [[Dim Light]] in a 10-foot radius and can't benefit from the [Invisible](Conditions.md#Invisible) condition.
 
-[Attack](Compendium/rules/actions.md#Attack) rolls against an affected creature or object have [[Advantage]] if the attacker can see it.
+[Attack](Actions.md#Attack) rolls against an affected creature or object have [[Advantage]] if the attacker can see it.
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Cleric (Light Domain)](Spells%20for%20Light%20Domain.md "subclass=XPHB;class=XPHB"); [[Druid Spells]]; [Warlock (Archfey Patron)](Spells%20for%20Archfey%20Patron.md "subclass=XPHB;class=XPHB")
 

@@ -75,7 +75,7 @@ When you hit a creature with an attack roll using a weapon, you can deal an extr
 
 Ice rimes you and your prey, protecting you and slowing them. When you cast [[hunters-mark-xphb]], you gain [[Temporary Hit Points]] equal to `1d10` plus your [[ranger-xphb]] level.
 
-Additionally, while a creature is marked[[Ranger|Ranger]]k-xphb]], it can't take the [Disengage](Compendium/rules/actions.md#Disengage) action.
+Additionally, while a creature is marked[[Ranger|Ranger]]k-xphb]], it can't take the [Disengage](Actions.md#Disengage) action.
 
 ### Winter Walker Spells (Level 3)
 
@@ -114,4 +114,4 @@ You have [[Immunity]] to Cold damage. When you first adopt this form and at the 
 #### Partially Incorporeal
 _Source: FRHoF_
 
-You have [[Immunity]] to the [Grappled](Compendium/rules/conditions.md#Grappled), [Prone](Compendium/rules/conditions.md#Prone), and [Restrained](Compendium/rules/conditions.md#Restrained) conditions. You can move through creatures and objects as if they were [[Difficult Terrain]], but you take `1d10` Force damage if you end your turn inside a creature or an object. If the form ends while you are inside a creature or an object, you are shunted to the nearest unoccupied space.
+You have [[Immunity]] to the [Grappled](Conditions.md#Grappled), [Prone](Conditions.md#Prone), and [Restrained](Conditions.md#Restrained) conditions. You can move through creatures and objects as if they were [[Difficult Terrain]], but you take `1d10` Force damage if you end your turn inside a creature or an object. If the form ends while you are inside a creature or an object, you are shunted to the nearest unoccupied space.

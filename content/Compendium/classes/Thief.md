@@ -62,7 +62,7 @@ Make a Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand))
 
 #### Use an Object
 
-Take the [Utilize](Compendium/rules/actions.md#Utilize) action, or take the [Magic](Compendium/rules/actions.md#Magic) action to use a magic item that requires that action.
+Take the [Utilize](Actions.md#Utilize) action, or take the [Magic](Actions.md#Magic) action to use a magic item that requires that action.
 
 ### Second-Story Work (Level 3)
 
@@ -82,7 +82,7 @@ You gain the following Cunning Strike option.
 
 #### Stealth Attack (Cost: 1d6)
 
-If you have the [Hide](Compendium/rules/actions.md#Hide) action's [Invisible](Compendium/rules/conditions.md#Invisible) condition, this attack doesn't end that condition on you if you end the turn behind [[cover-xphb]] or [[cover-xphb]].
+If you have the [Hide](Actions.md#Hide) action's [Invisible](Conditions.md#Invisible) condition, this attack doesn't end that condition on you if you end the turn behind [[cover-xphb]] or [[cover-xphb]].
 
 ### Use Magic Device (Level 13)
 
@@ -98,7 +98,7 @@ Whenever you use a magic item property that expends charges, roll `1d6`. On a ro
 
 #### Scrolls
 
-You can use any [[Spell Scroll]], using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence ([Arcana](Compendium/rules/skills.md#Arcana)) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
+You can use any [[Spell Scroll]], using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence ([Arcana](Skills.md#Arcana)) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
 
 ### Thief's Reflexes (Level 17)
 

@@ -14,7 +14,7 @@ aliases:
 
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Light](Item%20Properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 This reinforced [[Lute]] can be wielded as a magic Club that deals an extra `2d8` Thunder damage on a hit.

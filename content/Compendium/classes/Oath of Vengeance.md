@@ -75,7 +75,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Vow of Enmity (Level 3)
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have [[Advantage]] on attack rolls against the creature for 1 minute or until you use this feature again.
+When you take the [Attack](Actions.md#Attack) action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have [[Advantage]] on attack rolls against the creature for 1 minute or until you use this feature again.
 
 If the creature drops to 0 [[Hit Points]] before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required).
 
@@ -97,4 +97,4 @@ You sprout spectral wings on your back, have a [[Fly Speed]] of 60 feet, and can
 
 #### Frightful Aura
 
-Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the [Frightened](Compendium/rules/conditions.md#Frightened) condition for 1 minute or until it takes any damage. [Attack](Compendium/rules/actions.md#Attack) rolls against the [Frightened](Compendium/rules/conditions.md#Frightened) creature have [[Advantage]].
+Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the [Frightened](Conditions.md#Frightened) condition for 1 minute or until it takes any damage. [Attack](Actions.md#Attack) rolls against the [Frightened](Conditions.md#Frightened) creature have [[Advantage]].

@@ -19,11 +19,11 @@ If the vessel is opened, roll on the Pyxis of Pandemonium table to determine wha
 
 ## Curse
 
-Any creature that gains the benefit of a short rest from the vessel hears cloying telepathic whispers emanating from it. That creature must make a DC 17 Wisdom saving throw. On a failed save, the creature is [charmed](Compendium/rules/conditions.md#Charmed) by the vessel for 1 hour. The [charmed](Compendium/rules/conditions.md#Charmed) creature does everything it can to open the vessel as soon as possible. On a successful save, the creature is immune to the vessel's whispers for 24 hours.
+Any creature that gains the benefit of a short rest from the vessel hears cloying telepathic whispers emanating from it. That creature must make a DC 17 Wisdom saving throw. On a failed save, the creature is [charmed](Conditions.md#Charmed) by the vessel for 1 hour. The [charmed](Conditions.md#Charmed) creature does everything it can to open the vessel as soon as possible. On a successful save, the creature is immune to the vessel's whispers for 24 hours.
 
 | dice: d8 | Calamity |
 |----------|----------|
-| 1 | **Androphagia.** Each creature within 60 feet of the vessel must succeed on a DC 17 Wisdom saving throw or go berserk for 1 minute. The berserk creature must begin its turn using the [Attack](Compendium/rules/actions.md#Attack) action to make one melee or ranged attack (its choice) against the creature nearest to it. The berserk creature can repeat the save at the end of its turn, ending the effect on itself on a success. |
+| 1 | **Androphagia.** Each creature within 60 feet of the vessel must succeed on a DC 17 Wisdom saving throw or go berserk for 1 minute. The berserk creature must begin its turn using the [Attack](Actions.md#Attack) action to make one melee or ranged attack (its choice) against the creature nearest to it. The berserk creature can repeat the save at the end of its turn, ending the effect on itself on a success. |
 | 2 | **Bile Blight.** The vessel casts the [[harm-xphb]] spell on each creature within 30 feet of it. |
 | 3 | **Flood.** The vessel casts the [[tsunami-xphb]] spell at a point of the DM's choice within 120 feet of it. |
 | 4 | **Medusa's Gaze.** The vessel casts the [[flesh-to-stone-xphb]] spell on each creature within 30 feet of it. |

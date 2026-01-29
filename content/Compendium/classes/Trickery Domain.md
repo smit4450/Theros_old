@@ -71,11 +71,11 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ### Blessing of the Trickster (Level 3)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can choose yourself or a willing creature within 30 feet of yourself to have [[Advantage]] on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks. This blessing lasts until you finish a [[Long Rest]] or you use this feature again.
+As a [Magic](Actions.md#Magic) action, you can choose yourself or a willing creature within 30 feet of yourself to have [[Advantage]] on Dexterity ([Stealth](Skills.md#Stealth)) checks. This blessing lasts until you finish a [[Long Rest]] or you use this feature again.
 
 ### Invoke Duplicity (Level 3)
 
-As a [[Bonus Action]], you can expend one use of your Channel Divinity to create a perfect visual illusion of yourself in an unoccupied space you can see within 30 feet of yourself. The illusion is intangible and doesn't occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
+As a [[Bonus Action]], you can expend one use of your Channel Divinity to create a perfect visual illusion of yourself in an unoccupied space you can see within 30 feet of yourself. The illusion is intangible and doesn't occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have the [Incapacitated](Conditions.md#Incapacitated) condition. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
 
 #### Cast Spells
 

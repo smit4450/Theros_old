@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/spells/Conjure Woodland Beings.md",
+                "file": "Compendium/rules/Skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conjure Woodland Beings"
+              "title": "Skills"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compendium/lists/Transmutation Spells.md",
+                "file": "Compendium/rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Transmutation Spells"
+              "title": "Backlinks for Skills"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compendium/lists/Transmutation Spells.md",
+                "file": "Compendium/rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Transmutation Spells"
+              "title": "Outgoing links from Skills"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compendium/lists/Transmutation Spells.md",
+                "file": "Compendium/rules/Skills.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Transmutation Spells"
+              "title": "Outline of Skills"
             }
           },
           {
@@ -200,8 +200,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5b38395a0ae3a0a3",
+  "active": "119d1449dfb260d1",
   "lastOpenFiles": [
+    "Compendium/rules/Senses.md",
+    "Compendium/rules/Item Types.md",
+    "Compendium/rules/Item Properties.md",
+    "Compendium/rules/Item Mastery.md",
+    "Compendium/rules/Diseases.md",
+    "Compendium/rules/Conditions.md",
+    "Compendium/rules/Actions.md",
+    "Compendium/lists/Transmutation Spells.md",
     "Compendium/lists/Necromancy Spells.md",
     "Compendium/lists/Illusion Spells.md",
     "Compendium/lists/Evocation Spells.md",
@@ -219,14 +227,6 @@
     "Compendium/lists/Spells for Mogis's Votary.md",
     "Compendium/lists/Spells for Kruphix's Votary.md",
     "Compendium/lists/Spells for Kruphix's Disciple.md",
-    "Compendium/lists/Spells for Kruphix's Devotee.md",
-    "Compendium/lists/Spells for Klothys's Votary.md",
-    "Compendium/lists/Spells for Klothys's Devotee.md",
-    "Compendium/lists/Spells for Karametra's Votary.md",
-    "Compendium/lists/Spells for Iroas's Votary.md",
-    "Compendium/lists/Spells for Iroas's Devotee.md",
-    "Compendium/lists/Spells for Heliod's Votary.md",
-    "Compendium/lists/Spells for Erebos's Votary.md",
-    "Compendium/lists/Spells for Ephara's Disciple.md"
+    "Compendium/lists/Spells for Kruphix's Devotee.md"
   ]
 }

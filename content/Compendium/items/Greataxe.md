@@ -14,7 +14,7 @@ aliases:
 ![](Compendium/items/img/greataxe.webp#right)
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Item%20Properties.md#Heavy), [Two-Handed](Item%20Properties.md#Two-Handed)
 - **Cost**: 30 gp
 - **Weight**: 7.0 lbs.
 

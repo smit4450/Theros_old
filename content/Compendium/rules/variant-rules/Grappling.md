@@ -14,7 +14,7 @@ A creature can grapple another creature. Characters typically grapple by using a
 
 ## Grappled Condition
 
-Successfully grappling a creature gives it the [Grappled](Compendium/rules/conditions.md#Grappled) condition.
+Successfully grappling a creature gives it the [Grappled](Conditions.md#Grappled) condition.
 
 ## One Grapple per Hand
 
@@ -22,4 +22,4 @@ A creature must have a hand free to grapple another creature. Some stat blocks a
 
 ## Ending a Grapple
 
-A Grappled creature can use its action to make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check against the grapple's escape DC, ending the [[Condition]] on itself on a success. The [[Condition]] also ends if the grappler has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition or if the distance between the Grappled target and the grappler exceeds the grapple's range. In addition, the grappler can release the target at any time (no action required).
+A Grappled creature can use its action to make a Strength ([Athletics](Skills.md#Athletics)) or Dexterity ([Acrobatics](Skills.md#Acrobatics)) check against the grapple's escape DC, ending the [[Condition]] on itself on a success. The [[Condition]] also ends if the grappler has the [Incapacitated](Conditions.md#Incapacitated) condition or if the distance between the Grappled target and the grappler exceeds the grapple's range. In addition, the grappler can release the target at any time (no action required).

@@ -22,7 +22,7 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 
 ## Nick
 
-When you make the extra attack of the [Light](Compendium/rules/item-properties.md#Light) property, you can make it as part of the [Attack](Compendium/rules/actions.md#Attack) action instead of as a Bonus Action. You can make this extra attack only once per turn.
+When you make the extra attack of the [Light](Item%20Properties.md#Light) property, you can make it as part of the [Attack](Actions.md#Attack) action instead of as a Bonus Action. You can make this extra attack only once per turn.
 
 ## Push
 
@@ -38,7 +38,7 @@ If you hit a creature with this weapon and deal damage to it, you can reduce its
 
 ## Topple
 
-If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the [Prone](Compendium/rules/conditions.md#Prone) condition.
+If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the [Prone](Conditions.md#Prone) condition.
 
 ## Vex
 

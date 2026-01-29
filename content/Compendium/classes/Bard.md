@@ -51,7 +51,7 @@ aliases:
 ## Starting Bard
 
 - **Saving Throw Proficiencies**: Charisma, Dexterity
-- **Skill Proficiencies**: Choose 3 [[skills]]
+- **Skill Proficiencies**: Choose 3 [[Skills]]
 - **Weapon Proficiencies**: Simple weapons
 - **Tool Proficiencies**: Choose three [[Musical Instrument]]
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
@@ -60,7 +60,7 @@ aliases:
 
 ## Multiclassing Bard
 
-- **Skill Proficiencies**: Choose 1 [[skills]]
+- **Skill Proficiencies**: Choose 1 [[Skills]]
 - **Tool Proficiencies**: Choose one [[Musical Instrument]]
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
@@ -130,7 +130,7 @@ You can use a [[Musical Instrument]] as a [[Spellcasting Focus]] for your Bard s
 
 ### Expertise (Level 2)
 
-You gain [[Expertise]] in two of your skill proficiencies of your choice. [Performance](Compendium/rules/skills.md#Performance) and [Persuasion](Compendium/rules/skills.md#Persuasion) are recommended if you have proficiency in them.
+You gain [[Expertise]] in two of your skill proficiencies of your choice. [Performance](Skills.md#Performance) and [Persuasion](Skills.md#Persuasion) are recommended if you have proficiency in them.
 
 At Bard level 9, you gain [[Expertise]] in two more of your skill proficiencies of your choice.
 
@@ -138,7 +138,7 @@ At Bard level 9, you gain [[Expertise]] in two more of your skill proficiencies 
 
 You can add half your [[Proficiency]] (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your [[Proficiency]].
 
-For example, if you make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check and lack [Athletics](Compendium/rules/skills.md#Athletics) proficiency, you can add half your [[Proficiency]] to the check.
+For example, if you make a Strength ([Athletics](Skills.md#Athletics)) check and lack [Athletics](Skills.md#Athletics) proficiency, you can add half your [[Proficiency]] to the check.
 
 > [!note] A Bard's Repertoire
 > 
@@ -167,7 +167,7 @@ You gain a feature from your Bard Subclass.
 
 ### Countercharm (Level 7)
 
-You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the [Charmed](Compendium/rules/conditions.md#Charmed) or [Frightened](Compendium/rules/conditions.md#Frightened) condition, you can take a [[Reaction]] to cause the save to be rerolled, and the new roll has [[Advantage]].
+You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened) condition, you can take a [[Reaction]] to cause the save to be rerolled, and the new roll has [[Advantage]].
 
 ### Ability Score Improvement (Level 8)
 

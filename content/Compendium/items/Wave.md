@@ -18,7 +18,7 @@ aliases:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](Compendium/rules/item-properties.md#Thrown), [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](Item%20Properties.md#Thrown), [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 Held in the dungeon of White Plume Mountain, Wave is engraved with images of waves, shells, and sea creatures.
@@ -40,7 +40,7 @@ While holding Wave, you can cast the level 9 version of [[globe-of-invulnerabili
 
 ## Sentience
 
-Wave is a sentient weapon of Neutral alignment, with an Intelligence of 14, a Wisdom of 10, and a Charisma of 18. It has hearing and [Darkvision](Compendium/rules/senses.md#Darkvision) out to 120 feet.
+Wave is a sentient weapon of Neutral alignment, with an Intelligence of 14, a Wisdom of 10, and a Charisma of 18. It has hearing and [Darkvision](Senses.md#Darkvision) out to 120 feet.
 
 The weapon communicates telepathically with its wielder and speaks Aquan.
 

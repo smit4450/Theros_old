@@ -29,7 +29,7 @@ aliases: ["Symbol"]
 
 You inscribe a harmful glyph either on a surface (such as a section of floor or wall) or within an object that can be closed (such as a book or chest). The glyph can cover an area no larger than 10 feet in diameter. If you choose an object, it must remain in place; if it is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
-The glyph is nearly imperceptible and requires a successful Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check against your spell save DC to notice.
+The glyph is nearly imperceptible and requires a successful Wisdom ([Perception](Skills.md#Perception)) check against your spell save DC to notice.
 
 When you inscribe the glyph, you set its trigger and choose which effect the symbol bears: Death, Discord, Fear, Pain, Sleep, or Stunning. Each one is explained below.
 
@@ -51,19 +51,19 @@ Each target makes a Wisdom saving throw. On a failed save, a target argues with 
 
 ## Fear
 
-Each target must succeed on a Wisdom saving throw or have the [Frightened](Compendium/rules/conditions.md#Frightened) condition for 1 minute. While [Frightened](Compendium/rules/conditions.md#Frightened), the target must move at least 30 feet away from the glyph on each of its turns, if able.
+Each target must succeed on a Wisdom saving throw or have the [Frightened](Conditions.md#Frightened) condition for 1 minute. While [Frightened](Conditions.md#Frightened), the target must move at least 30 feet away from the glyph on each of its turns, if able.
 
 ## Pain
 
-Each target must succeed on a Constitution saving throw or have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition for 1 minute.
+Each target must succeed on a Constitution saving throw or have the [Incapacitated](Conditions.md#Incapacitated) condition for 1 minute.
 
 ## Sleep
 
-Each target must succeed on a Wisdom saving throw or have the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition for 10 minutes. A creature awakens if it takes damage or if someone takes an action to shake it awake.
+Each target must succeed on a Wisdom saving throw or have the [Unconscious](Conditions.md#Unconscious) condition for 10 minutes. A creature awakens if it takes damage or if someone takes an action to shake it awake.
 
 ## Stunning
 
-Each target must succeed on a Wisdom saving throw or have the [Stunned](Compendium/rules/conditions.md#Stunned) condition for 1 minute.
+Each target must succeed on a Wisdom saving throw or have the [Stunned](Conditions.md#Stunned) condition for 1 minute.
 
 ## Summary
 

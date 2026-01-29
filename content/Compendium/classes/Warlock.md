@@ -51,7 +51,7 @@ aliases:
 ## Starting Warlock
 
 - **Saving Throw Proficiencies**: Charisma, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [Arcana](Compendium/rules/skills.md#Arcana), [Deception](Compendium/rules/skills.md#Deception), [History](Compendium/rules/skills.md#History), [Intimidation](Compendium/rules/skills.md#Intimidation), [Investigation](Compendium/rules/skills.md#Investigation), [Nature](Compendium/rules/skills.md#Nature), or [Religion](Compendium/rules/skills.md#Religion)
+- **Skill Proficiencies**: *Choose 2:* [Arcana](Skills.md#Arcana), [Deception](Skills.md#Deception), [History](Skills.md#History), [Intimidation](Skills.md#Intimidation), [Investigation](Skills.md#Investigation), [Nature](Skills.md#Nature), or [Religion](Skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 

@@ -51,7 +51,7 @@ aliases:
 ## Starting Paladin
 
 - **Saving Throw Proficiencies**: Charisma, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [Athletics](Compendium/rules/skills.md#Athletics), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Medicine](Compendium/rules/skills.md#Medicine), [Persuasion](Compendium/rules/skills.md#Persuasion), or [Religion](Compendium/rules/skills.md#Religion)
+- **Skill Proficiencies**: *Choose 2:* [Athletics](Skills.md#Athletics), [Insight](Skills.md#Insight), [Intimidation](Skills.md#Intimidation), [Medicine](Skills.md#Medicine), [Persuasion](Skills.md#Persuasion), or [Religion](Skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy Armor), and [[Shield]]
 
@@ -78,7 +78,7 @@ Your blessed touch can heal wounds. You have a pool of healing power that replen
 
 As a [[Bonus Action]], you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of [[Hit Points]] to that creature, up to the maximum amount remaining in the pool.
 
-You can also expend 5 [[Hit Points]] from the pool of healing power to remove the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition from the creature; those points don't also restore [[Hit Points]] to the creature.
+You can also expend 5 [[Hit Points]] from the pool of healing power to remove the [Poisoned](Conditions.md#Poisoned) condition from the creature; those points don't also restore [[Hit Points]] to the creature.
 
 ### Spellcasting (Level 1)
 
@@ -132,7 +132,7 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 
 ### Divine Sense (Level 3)
 
-As a [[Bonus Action]], you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[hallow-xphb]] spell.
+As a [[Bonus Action]], you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the [Incapacitated](Conditions.md#Incapacitated) condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[hallow-xphb]] spell.
 
 ### Paladin Subclass (Level 3)
 
@@ -153,7 +153,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](Actions.md#Attack) action on your turn.
 
 ### Faithful Steed (Level 5)
 
@@ -163,7 +163,7 @@ You can also cast the spell once without expending a spell slot, and you regain 
 
 ### Aura of Protection (Level 6)
 
-You radiate a protective, unseeable aura in a 10-foot [[Emanation (Area of Effect)]] that originates from you. The aura is inactive while you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+You radiate a protective, unseeable aura in a 10-foot [[Emanation (Area of Effect)]] that originates from you. The aura is inactive while you have the [Incapacitated](Conditions.md#Incapacitated) condition.
 
 You and your allies in the aura gain a bonus to saving throws equal to your Charisma modifier (minimum bonus of +1).
 
@@ -179,11 +179,11 @@ You gain the  [[Ability Score Improvement]] Feat or another feat of your choice 
 
 ### Abjure Foes (Level 9)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your [[Holy Symbol]] or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the [Frightened](Compendium/rules/conditions.md#Frightened) condition for 1 minute or until it takes any damage. While [Frightened](Compendium/rules/conditions.md#Frightened) in this way, a target can do only one of the following on its turns: move, take an action, or take a [[Bonus Action]].
+As a [Magic](Actions.md#Magic) action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your [[Holy Symbol]] or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the [Frightened](Conditions.md#Frightened) condition for 1 minute or until it takes any damage. While [Frightened](Conditions.md#Frightened) in this way, a target can do only one of the following on its turns: move, take an action, or take a [[Bonus Action]].
 
 ### Aura of Courage (Level 10)
 
-You and your allies have [[Immunity]] to the [Frightened](Compendium/rules/conditions.md#Frightened) condition while in your Aura of Protection. If a [Frightened](Compendium/rules/conditions.md#Frightened) ally enters the aura, that condition has no effect on that ally while there.
+You and your allies have [[Immunity]] to the [Frightened](Conditions.md#Frightened) condition while in your Aura of Protection. If a [Frightened](Conditions.md#Frightened) ally enters the aura, that condition has no effect on that ally while there.
 
 ### Radiant Strikes (Level 11)
 
@@ -195,7 +195,7 @@ You gain the  [[Ability Score Improvement]] Feat or another feat of your choice 
 
 ### Restoring Touch (Level 14)
 
-When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: [Blinded](Compendium/rules/conditions.md#Blinded), [Charmed](Compendium/rules/conditions.md#Charmed), [Deafened](Compendium/rules/conditions.md#Deafened), [Frightened](Compendium/rules/conditions.md#Frightened), [Paralyzed](Compendium/rules/conditions.md#Paralyzed), or [Stunned](Compendium/rules/conditions.md#Stunned). You must expend 5 [[Hit Points]] from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore [[Hit Points]] to the creature.
+When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: [Blinded](Conditions.md#Blinded), [Charmed](Conditions.md#Charmed), [Deafened](Conditions.md#Deafened), [Frightened](Conditions.md#Frightened), [Paralyzed](Conditions.md#Paralyzed), or [Stunned](Conditions.md#Stunned). You must expend 5 [[Hit Points]] from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore [[Hit Points]] to the creature.
 
 ### Subclass Feature (Level 15)
 

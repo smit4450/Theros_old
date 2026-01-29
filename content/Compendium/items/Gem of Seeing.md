@@ -13,7 +13,7 @@ aliases:
 ![](Compendium/items/img/gem-of-seeing.webp#right)
 
 
-This gem has 3 charges. As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend 1 charge. For the next 10 minutes, you have [Truesight](Compendium/rules/senses.md#Truesight) out to 120 feet when you peer through the gem.
+This gem has 3 charges. As a [Magic](Actions.md#Magic) action, you can expend 1 charge. For the next 10 minutes, you have [Truesight](Senses.md#Truesight) out to 120 feet when you peer through the gem.
 
 The gem regains `1d3` expended charges daily at dawn.
 

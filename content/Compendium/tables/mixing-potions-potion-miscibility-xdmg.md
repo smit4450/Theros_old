@@ -21,5 +21,5 @@ aliases:
 | 26–35 | Both potions work, but with their numerical effects and durations halved. If a potion has no numerical effect and no duration, it instead loses its effect. |
 | 36–90 | Both potions work normally. |
 | 91–99 | Both potions work, but the numerical effects and duration of one potion are doubled. If neither potion has anything to double in this way, they work normally. |
-| 00 | Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a [[Potion of Healing]] might increase the drinker's Hit Point maximum by `2d4 + 2`, or a [[Potion of Invisibility]] might give the drinker the [Invisible](Compendium/rules/conditions.md#Invisible) condition indefinitely. At your discretion, a [[dispel-magic-xphb]] spell or similar magic might end this lasting effect. |
+| 00 | Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a [[Potion of Healing]] might increase the drinker's Hit Point maximum by `2d4 + 2`, or a [[Potion of Invisibility]] might give the drinker the [Invisible](Conditions.md#Invisible) condition indefinitely. At your discretion, a [[dispel-magic-xphb]] spell or similar magic might end this lasting effect. |
 ^potion-miscibility

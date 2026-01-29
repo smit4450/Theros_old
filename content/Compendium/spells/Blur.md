@@ -33,7 +33,7 @@ aliases: ["Blur"]
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-Your body becomes blurred. For the duration, any creature has [[Disadvantage]] on attack rolls against you. An attacker is immune to this effect if it perceives you with [Blindsight](Compendium/rules/senses.md#Blindsight) or [Truesight](Compendium/rules/senses.md#Truesight).
+Your body becomes blurred. For the duration, any creature has [[Disadvantage]] on attack rolls against you. An attacker is immune to this effect if it perceives you with [Blindsight](Senses.md#Blindsight) or [Truesight](Senses.md#Truesight).
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Druid (Circle of the Land, Arid Land)](Spells%20for%20Circle%20of%20the%20Land.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [Wizard (Illusionist)](Spells%20for%20Illusionist.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 

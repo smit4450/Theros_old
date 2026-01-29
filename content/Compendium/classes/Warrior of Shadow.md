@@ -62,7 +62,7 @@ You can expend 1 Focus Point to cast the [[darkness-xphb]] spell without spell c
 
 ### Darkvision (Level 3)
 
-You gain [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](Compendium/rules/senses.md#Darkvision), its range increases by 60 feet.
+You gain [Darkvision](Senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](Senses.md#Darkvision), its range increases by 60 feet.
 
 ### Shadowy Figments (Level 3)
 
@@ -78,11 +78,11 @@ You can draw on your Underworld connection to empower your teleportation. When y
 
 ### Cloak of Shadows (Level 17)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action while entirely within [[Dim Light]] or [[darkness-xphb]], you can expend 3 Focus Points to shroud yourself with shadows for 1 minute, until you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, or until you end your turn in [[Bright Light]]. While shrouded by these shadows, you gain the following benefits.
+As a [Magic](Actions.md#Magic) action while entirely within [[Dim Light]] or [[darkness-xphb]], you can expend 3 Focus Points to shroud yourself with shadows for 1 minute, until you have the [Incapacitated](Conditions.md#Incapacitated) condition, or until you end your turn in [[Bright Light]]. While shrouded by these shadows, you gain the following benefits.
 
 #### Invisibility
 
-You have the [Invisible](Compendium/rules/conditions.md#Invisible) condition.
+You have the [Invisible](Conditions.md#Invisible) condition.
 
 #### Partially Incorporeal
 

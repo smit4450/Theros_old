@@ -12,7 +12,7 @@ aliases: ["Guard"]
 
 - **Ability Scores.** Strength, Intelligence, Wisdom  
 - **Feat.**  [[Alert]]  
-- **Skill Proficiencies.** [Athletics](Compendium/rules/skills.md#Athletics), [Perception](Compendium/rules/skills.md#Perception)  
+- **Skill Proficiencies.** [Athletics](Skills.md#Athletics), [Perception](Skills.md#Perception)  
 - **Tool Proficiency.** Choose one kind of [[Gaming Set]]  
 - **Equipment.** Choose A or B: (A) [[Spear]], [[Light Crossbow]], 20 [[Bolt]], [[Gaming Set]] (same as above), [[Hooded Lantern]], [[Manacles]], [[Quiver]], [[Traveler's Clothes]], 12 GP; or (B) 50 GP  
 

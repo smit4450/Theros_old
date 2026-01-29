@@ -51,7 +51,7 @@ aliases:
 ## Starting Cleric
 
 - **Saving Throw Proficiencies**: Charisma, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [History](Compendium/rules/skills.md#History), [Insight](Compendium/rules/skills.md#Insight), [Medicine](Compendium/rules/skills.md#Medicine), [Persuasion](Compendium/rules/skills.md#Persuasion), or [Religion](Compendium/rules/skills.md#Religion)
+- **Skill Proficiencies**: *Choose 2:* [History](Skills.md#History), [Insight](Skills.md#Insight), [Medicine](Skills.md#Medicine), [Persuasion](Skills.md#Persuasion), or [Religion](Skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
 - **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Shield]]
 
@@ -117,7 +117,7 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 - **Thaumaturge**  
 
-    You know one extra cantrip from the Cleric spell list. In addition, your mystical connection to the divine gives you a bonus to your Intelligence ([Arcana](Compendium/rules/skills.md#Arcana) or [Religion](Compendium/rules/skills.md#Religion)) checks. The bonus equals your Wisdom modifier (minimum of +1).  
+    You know one extra cantrip from the Cleric spell list. In addition, your mystical connection to the divine gives you a bonus to your Intelligence ([Arcana](Skills.md#Arcana) or [Religion](Skills.md#Religion)) checks. The bonus equals your Wisdom modifier (minimum of +1).  
 
 ### Channel Divinity (Level 2)
 
@@ -129,13 +129,13 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 
 ### Divine Spark (Level 2)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll `1d8` and add your Wisdom modifier. You either restore [[Hit Points]] to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
+As a [Magic](Actions.md#Magic) action, you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll `1d8` and add your Wisdom modifier. You either restore [[Hit Points]] to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
 
 You roll an additional `d8` when you reach Cleric levels 7 (`2d8`), 13 (`3d8`), and 18 (`4d8`).
 
 ### Turn Undead (Level 2)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you present your [[Holy Symbol]] and censure Undead creatures. Each Undead of your choice within 30 feet of you must make a Wisdom saving throw. If the creature fails its save, it has the [Frightened](Compendium/rules/conditions.md#Frightened) and [Incapacitated](Compendium/rules/conditions.md#Incapacitated) conditions for 1 minute. For that duration, it tries to move as far from you as it can on its turns. This effect ends early on the creature if it takes any damage, if you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, or if you die.
+As a [Magic](Actions.md#Magic) action, you present your [[Holy Symbol]] and censure Undead creatures. Each Undead of your choice within 30 feet of you must make a Wisdom saving throw. If the creature fails its save, it has the [Frightened](Conditions.md#Frightened) and [Incapacitated](Conditions.md#Incapacitated) conditions for 1 minute. For that duration, it tries to move as far from you as it can on its turns. This effect ends early on the creature if it takes any damage, if you have the [Incapacitated](Conditions.md#Incapacitated) condition, or if you die.
 
 ### Cleric Subclass (Level 3)
 
@@ -171,7 +171,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Divine Intervention (Level 10)
 
-You can call on your deity or pantheon to intervene on your behalf. As a [Magic](Compendium/rules/actions.md#Magic) action, choose any Cleric spell of level 5 or lower that doesn't require a [[Reaction]] to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a [[Long Rest]].
+You can call on your deity or pantheon to intervene on your behalf. As a [Magic](Actions.md#Magic) action, choose any Cleric spell of level 5 or lower that doesn't require a [[Reaction]] to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a [[Long Rest]].
 
 ### Ability Score Improvement (Level 12)
 

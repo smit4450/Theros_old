@@ -29,11 +29,11 @@ A Moonblade has one rune on it for each bearer it has willingly served (typicall
 
 ## Minor Property
 
-In addition to its aforementioned properties, each Moonblade has a minor property determined by rolling on the [Magic](Compendium/rules/actions.md#Magic) Item's Minor Property table.
+In addition to its aforementioned properties, each Moonblade has a minor property determined by rolling on the [Magic](Actions.md#Magic) Item's Minor Property table.
 
 ## Sentience
 
-A Moonblade is a sentient weapon with an Intelligence of 12, a Wisdom of 10, and a Charisma of 12. It has hearing and [Darkvision](Compendium/rules/senses.md#Darkvision) out to 120 feet. Its alignment matches that of its creator.
+A Moonblade is a sentient weapon with an Intelligence of 12, a Wisdom of 10, and a Charisma of 12. It has hearing and [Darkvision](Senses.md#Darkvision) out to 120 feet. Its alignment matches that of its creator.
 
 The weapon communicates by transmitting emotions, sending a tingling sensation through the wielder's hand when it wants to communicate something it has sensed. It can communicate through visions or dreams when the wielder is either in a trance or asleep.
 
@@ -47,11 +47,11 @@ A Moonblade has a personality similar to that of its creator. Once a Moonblade h
 |-------------|----------|
 | 01-60 | Increase the weapon's bonus to attack rolls and damage rolls by 1, to a maximum of +3. Reroll if the *Moonblade* already has a +3 bonus. |
 | 61-75 | When you hit with an attack roll using the *Moonblade*, you deal an extra `1d6` Force damage. Each time the weapon gains this property after the first, the extra damage increases by `1d6`, to a maximum of `3d6`. Reroll if the *Moonblade* already deals an extra `3d6` Force damage on a hit. |
-| 76-80 | The *Moonblade* gains [Thrown](Compendium/rules/item-properties.md#Thrown) with a normal range of 20 feet and a long range of 60 feet. Each time you throw the weapon, it flies back to your hand after the attack. |
+| 76-80 | The *Moonblade* gains [Thrown](Item%20Properties.md#Thrown) with a normal range of 20 feet and a long range of 60 feet. Each time you throw the weapon, it flies back to your hand after the attack. |
 | 81-85 | The *Moonblade* scores a [[Critical Hit]] on a roll of 19 or 20 on the `d20`. |
-| 86-95 | You can take a [[Bonus Action]] to cause the *Moonblade* to flash brightly. Each other creature that is within 30 feet of you and not behind [[cover-xphb]] must succeed on a DC 15 Constitution saving throw or have the [Blinded](Compendium/rules/conditions.md#Blinded) condition for 1 minute. A creature repeats the save at the end of each of its turns, ending the effect on itself on a success. You can't use this property again until you finish a [[Short Rest]] or [[Long Rest]]. |
+| 86-95 | You can take a [[Bonus Action]] to cause the *Moonblade* to flash brightly. Each other creature that is within 30 feet of you and not behind [[cover-xphb]] must succeed on a DC 15 Constitution saving throw or have the [Blinded](Conditions.md#Blinded) condition for 1 minute. A creature repeats the save at the end of each of its turns, ending the effect on itself on a success. You can't use this property again until you finish a [[Short Rest]] or [[Long Rest]]. |
 | 96-99 | The Moonblade has the properties of a [[Ring of Spell Storing]]. |
-| 100 | You can take a [Magic](Compendium/rules/actions.md#Magic) action to conjure a spectral entity that resembles a shadowy elf if you don't already have one serving you. The entity appears in an unoccupied space within 120 feet of you. It uses the [[Shadow]] stat block with these changes: it is a Fey, has a Neutral alignment, and doesn't create new shadows. You control this entity, deciding how it acts and moves. It remains until it drops to 0 [[Hit Points]] or you dismiss it as a [Magic](Compendium/rules/actions.md#Magic) action. |
+| 100 | You can take a [Magic](Actions.md#Magic) action to conjure a spectral entity that resembles a shadowy elf if you don't already have one serving you. The entity appears in an unoccupied space within 120 feet of you. It uses the [[Shadow]] stat block with these changes: it is a Fey, has a Neutral alignment, and doesn't create new shadows. You control this entity, deciding how it acts and moves. It remains until it drops to 0 [[Hit Points]] or you dismiss it as a [Magic](Actions.md#Magic) action. |
 ^moonblade-properties
 
 **Variants**:
@@ -64,7 +64,7 @@ A Moonblade has a personality similar to that of its creator. Once a Moonblade h
 ### Moonblade Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Item%20Properties.md#Heavy), [Two-Handed](Item%20Properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Moonblade Longsword
@@ -72,25 +72,25 @@ A Moonblade has a personality similar to that of its creator. Once a Moonblade h
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Moonblade Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](Item%20Properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Moonblade Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Finesse](Item%20Properties.md#Finesse), [Light](Item%20Properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Moonblade Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Finesse](Item%20Properties.md#Finesse), [Light](Item%20Properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 

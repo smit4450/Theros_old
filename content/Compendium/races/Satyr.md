@@ -47,7 +47,7 @@ Whenever you make a long or high jump, you can roll a `d8` and add the number ro
 
 ### Reveler
 
-You have proficiency in the [Performance](Compendium/rules/skills.md#Performance) and [Persuasion](Compendium/rules/skills.md#Persuasion) skills, and you have proficiency with one [musical instrument](Musical%20Instrument.md)an speak, read, and write Common and Sylvan.
+You have proficiency in the [Performance](Skills.md#Performance) and [Persuasion](Skills.md#Persuasion) skills, and you have proficiency with one [musical instrument](Musical%20Instrument.md)an speak, read, and write Common and Sylvan.
 
 ## Description
 

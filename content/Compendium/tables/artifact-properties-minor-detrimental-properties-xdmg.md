@@ -17,8 +17,8 @@ aliases:
 | 01–08 | While attuned to the Artifact, you have Disadvantage on any ability check or saving throw that uses Strength or Constitution. |
 | 09–16 | While attuned to the Artifact, you have Disadvantage on Intelligence, Wisdom, and Charisma saving throws. |
 | 17–24 | While attuned to the Artifact, you have Vulnerability to Poison damage. |
-| 25–32 | While attuned to the Artifact, you have the [Blinded](Compendium/rules/conditions.md#Blinded) condition when you're more than 10 feet away from it. |
-| 33–40 | While attuned to the Artifact, you have the [Deafened](Compendium/rules/conditions.md#Deafened) condition when you're more than 10 feet away from it. |
+| 25–32 | While attuned to the Artifact, you have the [Blinded](Conditions.md#Blinded) condition when you're more than 10 feet away from it. |
+| 33–40 | While attuned to the Artifact, you have the [Deafened](Conditions.md#Deafened) condition when you're more than 10 feet away from it. |
 | 41–48 | While attuned to the Artifact, you lose all sense of smell. |
 | 49–66 | While you're attuned to the Artifact, your appearance changes as the DM decides. |
 | 67–72 | While attuned to the Artifact, you emit a sour stench noticeable from up to 10 feet away. |

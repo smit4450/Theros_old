@@ -13,7 +13,7 @@ aliases:
 | Futuristic Item | Damage | Properties | Mastery | Weight |
 |-----------------|--------|------------|---------|--------|
 | *Martial Ranged Weapons* |
-| &emsp;[[antimatter-rifle-xdmg]] | `6d8` Necrotic | [Ammunition](Compendium/rules/item-properties.md#Ammunition) (Range 120/360; Energy Cell), [Reload](Compendium/rules/item-properties.md#Reload) (2 shots), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed) | [Sap](Compendium/rules/item-mastery.md#Sap) | 10 lb. |
-| &emsp;[[laser-pistol-xdmg]] | `3d6` Radiant | [Ammunition](Compendium/rules/item-properties.md#Ammunition) (Range 40/120; Energy Cell), [Reload](Compendium/rules/item-properties.md#Reload) (50 shots) | [Vex](Compendium/rules/item-mastery.md#Vex) | 2 lb. |
-| &emsp;[[laser-rifle-xdmg]] | `3d8` Radiant | [Ammunition](Compendium/rules/item-properties.md#Ammunition) (Range 100/300; Energy Cell), [Reload](Compendium/rules/item-properties.md#Reload) (30 shots), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed) | [Slow](Compendium/rules/item-mastery.md#Slow) | 7 lb. |
+| &emsp;[[antimatter-rifle-xdmg]] | `6d8` Necrotic | [Ammunition](Item%20Properties.md#Ammunition) (Range 120/360; Energy Cell), [Reload](Item%20Properties.md#Reload) (2 shots), [Two-Handed](Item%20Properties.md#Two-Handed) | [Sap](Item%20Mastery.md#Sap) | 10 lb. |
+| &emsp;[[laser-pistol-xdmg]] | `3d6` Radiant | [Ammunition](Item%20Properties.md#Ammunition) (Range 40/120; Energy Cell), [Reload](Item%20Properties.md#Reload) (50 shots) | [Vex](Item%20Mastery.md#Vex) | 2 lb. |
+| &emsp;[[laser-rifle-xdmg]] | `3d8` Radiant | [Ammunition](Item%20Properties.md#Ammunition) (Range 100/300; Energy Cell), [Reload](Item%20Properties.md#Reload) (30 shots), [Two-Handed](Item%20Properties.md#Two-Handed) | [Slow](Item%20Mastery.md#Slow) | 7 lb. |
 ^futuristic-item-damage-properties-mastery-weight

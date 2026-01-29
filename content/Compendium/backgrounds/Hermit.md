@@ -12,7 +12,7 @@ aliases: ["Hermit"]
 
 - **Ability Scores.** Constitution, Wisdom, Charisma  
 - **Feat.**  [[Healer]]  
-- **Skill Proficiencies.** [Medicine](Compendium/rules/skills.md#Medicine), [Religion](Compendium/rules/skills.md#Religion)  
+- **Skill Proficiencies.** [Medicine](Skills.md#Medicine), [Religion](Skills.md#Religion)  
 - **Tool Proficiency.** [[Herbalism Kit]]  
 - **Equipment.** Choose A or B: (A) [[Quarterstaff]], [[Herbalism Kit]], [[Bedroll]], [[Book]] (philosophy), [[Lamp]], [[Oil]] (3 flasks), [[Traveler's Clothes]], 16 GP; or (B) 50 GP  
 

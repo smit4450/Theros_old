@@ -19,6 +19,6 @@ You gain the following benefits.
 
 **Climb Speed.** You gain a [[Climb Speed]] equal to your [[Speed]].
 
-**Hop Up.** When you have the [Prone](Compendium/rules/conditions.md#Prone) condition, you can right yourself with only 5 feet of movement.
+**Hop Up.** When you have the [Prone](Conditions.md#Prone) condition, you can right yourself with only 5 feet of movement.
 
 **Jumping.** You can make a running Long or [[High Jump]] after moving only 5 feet.

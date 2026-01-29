@@ -37,7 +37,7 @@ aliases: ["Lesser Restoration"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You touch a creature and end one condition on it: [Blinded](Compendium/rules/conditions.md#Blinded), [Deafened](Compendium/rules/conditions.md#Deafened), [Paralyzed](Compendium/rules/conditions.md#Paralyzed), or [Poisoned](Compendium/rules/conditions.md#Poisoned).
+You touch a creature and end one condition on it: [Blinded](Conditions.md#Blinded), [Deafened](Conditions.md#Deafened), [Paralyzed](Conditions.md#Paralyzed), or [Poisoned](Conditions.md#Poisoned).
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Cleric (Life Domain)](Spells%20for%20Life%20Domain.md "subclass=XPHB;class=XPHB"); [[Cleric Spells]]; [[Druid Spells]]; [[Paladin Spells]]; [[Ranger Spells]]; [Sorcerer (Clockwork Sorcery)](Spells%20for%20Clockwork%20Sorcery.md "subclass=XPHB;class=XPHB"); [Sorcerer (Spellfire Sorcery)](Spells%20for%20Spellfire%20Sorcery.md "subclass=FRHoF;class=XPHB"); [Warlock (Celestial Patron)](Spells%20for%20Celestial%20Patron.md "subclass=XPHB;class=XPHB")
 

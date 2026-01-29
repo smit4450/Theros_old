@@ -26,7 +26,7 @@ aliases: ["Silence"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-For the duration, no sound can be created within or pass through a 20-foot-radius [[Sphere (Area of Effect)]] centered on a point you choose within range. Any creature or object entirely inside the [[Sphere (Area of Effect)]] has [[Immunity]] to Thunder damage, and creatures have the [Deafened](Compendium/rules/conditions.md#Deafened) condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
+For the duration, no sound can be created within or pass through a 20-foot-radius [[Sphere (Area of Effect)]] centered on a point you choose within range. Any creature or object entirely inside the [[Sphere (Area of Effect)]] has [[Immunity]] to Thunder damage, and creatures have the [Deafened](Conditions.md#Deafened) condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [[Cleric Spells]]; [[Ranger Spells]]
 

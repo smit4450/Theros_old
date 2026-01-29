@@ -33,7 +33,7 @@ aliases: ["Laeral's Silver Lance"]
 - **Components:** V, S, M (a silver pin worth 250+ GP)
 - **Duration:** Instantaneous
 
-Silver energy bursts out from you in a 120-footlong, 5-foot-wide [[Line (Area of Effect)]]. Each creature of your choice in the [[Line (Area of Effect)]] makes a Strength saving throw. On a failed save, a creature takes `3d10` Force damage and has the [Prone](Compendium/rules/conditions.md#Prone) condition. On a successful save, a creature takes half as much damage only.
+Silver energy bursts out from you in a 120-footlong, 5-foot-wide [[Line (Area of Effect)]]. Each creature of your choice in the [[Line (Area of Effect)]] makes a Strength saving throw. On a failed save, a creature takes `3d10` Force damage and has the [Prone](Conditions.md#Prone) condition. On a successful save, a creature takes half as much damage only.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for every spell slot level above 3.
 
