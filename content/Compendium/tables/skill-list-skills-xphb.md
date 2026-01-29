@@ -15,7 +15,7 @@ aliases:
 | Skill | Ability | Example Uses |
 |-------|---------|--------------|
 | [Acrobatics](Compendium/rules/skills.md#Acrobatics) | Dexterity | Stay on your feet in a tricky situation, or perform an acrobatic stunt. |
-| [Animal Handling](Compendium/rules/skills.md#Animal%20Handling) | Wisdom | Calm or train an animal, or get an animal to behave in a certain way. |
+| [Animal Handling](Compendium/rules/skills.md#Animal Handling) | Wisdom | Calm or train an animal, or get an animal to behave in a certain way. |
 | [Arcana](Compendium/rules/skills.md#Arcana) | Intelligence | Recall lore about spells, magic items, and the planes of existence. |
 | [Athletics](Compendium/rules/skills.md#Athletics) | Strength | Jump farther than normal, stay afloat in rough water, or break something. |
 | [Deception](Compendium/rules/skills.md#Deception) | Charisma | Tell a convincing lie, or wear a disguise convincingly. |
@@ -29,7 +29,7 @@ aliases:
 | [Performance](Compendium/rules/skills.md#Performance) | Charisma | Act, tell a story, perform music, or dance. |
 | [Persuasion](Compendium/rules/skills.md#Persuasion) | Charisma | Honestly and graciously convince someone of something. |
 | [Religion](Compendium/rules/skills.md#Religion) | Intelligence | Recall lore about gods, religious rituals, and holy symbols. |
-| [Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand) | Dexterity | Pick a pocket, conceal a handheld object, or perform legerdemain. |
+| [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand) | Dexterity | Pick a pocket, conceal a handheld object, or perform legerdemain. |
 | [Stealth](Compendium/rules/skills.md#Stealth) | Dexterity | Escape notice by moving quietly and hiding behind things. |
 | [Survival](Compendium/rules/skills.md#Survival) | Wisdom | Follow tracks, forage, find a trail, or avoid natural hazards. |
 ^skills

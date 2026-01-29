@@ -51,17 +51,17 @@ aliases:
 ## Starting Ranger
 
 - **Saving Throw Proficiencies**: Dexterity, Strength
-- **Skill Proficiencies**: *Choose 3:* [Animal Handling](Compendium/rules/skills.md#Animal%20Handling), [Athletics](Compendium/rules/skills.md#Athletics), [Insight](Compendium/rules/skills.md#Insight), [Investigation](Compendium/rules/skills.md#Investigation), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), [Stealth](Compendium/rules/skills.md#Stealth), or [Survival](Compendium/rules/skills.md#Survival)
+- **Skill Proficiencies**: *Choose 3:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Compendium/rules/skills.md#Athletics), [Insight](Compendium/rules/skills.md#Insight), [Investigation](Compendium/rules/skills.md#Investigation), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), [Stealth](Compendium/rules/skills.md#Stealth), or [Survival](Compendium/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor), [Medium armor](Compendium/rules/item-types.md#Medium%20Armor), and [Shields](Compendium/items/shield-xphb.md)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [Shields](Compendium/items/shield-xphb.md)
 
 **Starting Equipment:** *Choose A or B:* (A) [Studded Leather Armor](Compendium/items/studded-leather-armor-xphb.md), [Scimitar](Compendium/items/scimitar-xphb.md), [Shortsword](Compendium/items/shortsword-xphb.md), [Longbow](Compendium/items/longbow-xphb.md), [20 Arrows](Compendium/items/arrows-20-xphb.md), [Quiver](Compendium/items/quiver-xphb.md), [Druidic Focus](Compendium/items/druidic-focus-xphb.md) ([sprig of mistletoe](Compendium/items/sprig-of-mistletoe-xphb.md)), [Explorer's Pack](Compendium/items/explorers-pack-xphb.md), and 7 GP; or (B) 150 GP
 
 ## Multiclassing Ranger
 
-- **Skill Proficiencies**: *Choose 1:* [Animal Handling](Compendium/rules/skills.md#Animal%20Handling), [Athletics](Compendium/rules/skills.md#Athletics), [Insight](Compendium/rules/skills.md#Insight), [Investigation](Compendium/rules/skills.md#Investigation), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), [Stealth](Compendium/rules/skills.md#Stealth), or [Survival](Compendium/rules/skills.md#Survival)
+- **Skill Proficiencies**: *Choose 1:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Compendium/rules/skills.md#Athletics), [Insight](Compendium/rules/skills.md#Insight), [Investigation](Compendium/rules/skills.md#Investigation), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), [Stealth](Compendium/rules/skills.md#Stealth), or [Survival](Compendium/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor), [Medium armor](Compendium/rules/item-types.md#Medium%20Armor), [Shields](Compendium/items/shield-xphb.md)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Shields](Compendium/items/shield-xphb.md)
 
 ## Ranger
 
@@ -133,7 +133,7 @@ You gain a Ranger subclass of your choice. A subclass is a specialization that g
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 
 ### Extra Attack (Level 5)
 
@@ -149,7 +149,7 @@ You gain a feature from your Ranger Subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Expertise (Level 9)
 
@@ -173,7 +173,7 @@ You gain a feature from your Ranger Subclass.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Relentless Hunter (Level 13)
 
@@ -191,7 +191,7 @@ You gain a feature from your Ranger Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Precise Hunter (Level 17)
 
@@ -203,7 +203,7 @@ Your connection to the forces of nature grants you [Blindsight](Compendium/rules
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Dimensional Travel](Boon%20of%20Dimensional%20Travel.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[Boon of Dimensional Travel|Boon of Dimensional Travel]] is recommended.
 
 ### Foe Slayer (Level 20)
 

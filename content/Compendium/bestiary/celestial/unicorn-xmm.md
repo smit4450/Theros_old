@@ -97,7 +97,7 @@ Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The unicorn moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack),\
+      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack),\
       \ and it makes one Radiant Horn attack."
     "name": "Charging Horn"
   - "desc": "The unicorn targets itself or one creature it can see within 60 feet\

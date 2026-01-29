@@ -32,18 +32,18 @@ aliases:
 You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to poison damage while you wear this armor.
 
 **Variants**:
-- [[#Breastplate of%20Poison%20Resistance|Breastplate of Poison Resistance]]
-- [[#Chain Mail%20of%20Poison%20Resistance|Chain Mail of Poison Resistance]]
-- [[#Chain Shirt%20of%20Poison%20Resistance|Chain Shirt of Poison Resistance]]
-- [[#Half Plate%20Armor%20of%20Poison%20Resistance|Half Plate Armor of Poison Resistance]]
-- [[#Hide Armor%20of%20Poison%20Resistance|Hide Armor of Poison Resistance]]
-- [[#Leather Armor%20of%20Poison%20Resistance|Leather Armor of Poison Resistance]]
-- [[#Padded Armor%20of%20Poison%20Resistance|Padded Armor of Poison Resistance]]
-- [[#Plate Armor%20of%20Poison%20Resistance|Plate Armor of Poison Resistance]]
-- [[#Ring Mail%20of%20Poison%20Resistance|Ring Mail of Poison Resistance]]
-- [[#Scale Mail%20of%20Poison%20Resistance|Scale Mail of Poison Resistance]]
-- [[#Splint Armor%20of%20Poison%20Resistance|Splint Armor of Poison Resistance]]
-- [[#Studded Leather%20Armor%20of%20Poison%20Resistance|Studded Leather Armor of Poison Resistance]]
+- [[#Breastplate of Poison Resistance|Breastplate of Poison Resistance]]
+- [[#Chain Mail of Poison Resistance|Chain Mail of Poison Resistance]]
+- [[#Chain Shirt of Poison Resistance|Chain Shirt of Poison Resistance]]
+- [[#Half Plate Armor of Poison Resistance|Half Plate Armor of Poison Resistance]]
+- [[#Hide Armor of Poison Resistance|Hide Armor of Poison Resistance]]
+- [[#Leather Armor of Poison Resistance|Leather Armor of Poison Resistance]]
+- [[#Padded Armor of Poison Resistance|Padded Armor of Poison Resistance]]
+- [[#Plate Armor of Poison Resistance|Plate Armor of Poison Resistance]]
+- [[#Ring Mail of Poison Resistance|Ring Mail of Poison Resistance]]
+- [[#Scale Mail of Poison Resistance|Scale Mail of Poison Resistance]]
+- [[#Splint Armor of Poison Resistance|Splint Armor of Poison Resistance]]
+- [[#Studded Leather Armor of Poison Resistance|Studded Leather Armor of Poison Resistance]]
 
 ### Breastplate of Poison Resistance
 

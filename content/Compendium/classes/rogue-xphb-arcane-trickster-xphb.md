@@ -9,7 +9,7 @@ aliases:
 - Arcane Trickster
 ---
 # Arcane Trickster
-*[Rogue](./rogue-xphb.md): Rogue Subclass*  
+*[[rogue-xphb|Rogue]]: Rogue Subclass*  
 *Source: Player's Handbook (2024) p. 132*  
 
 > [!tldr] Class and Feature Progression
@@ -88,7 +88,7 @@ You can use an [Arcane Focus](Compendium/items/arcane-focus-xphb.md) as a [Spell
 
 ### Mage Hand Legerdemain (Level 3)
 
-When you cast [Mage Hand](Compendium/spells/mage-hand-xphb.md), you can cast it as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), and you can make the spectral hand [Invisible](Compendium/rules/conditions.md#Invisible). You can control the hand as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), and through it, you can make Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)) checks.
+When you cast [Mage Hand](Compendium/spells/mage-hand-xphb.md), you can cast it as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), and you can make the spectral hand [Invisible](Compendium/rules/conditions.md#Invisible). You can control the hand as a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), and through it, you can make Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) checks.
 
 ### Magical Ambush (Level 9)
 

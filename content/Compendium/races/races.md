@@ -6,9 +6,9 @@ cssclasses:
 ---
 # Index of Races
 
-- [Centaur](./centaur-mot.md)
-- [Human](./human-xphb.md)
-- [Leonin](./leonin-mot.md)
-- [Minotaur](./minotaur-mot.md)
-- [Satyr](./satyr-mot.md)
-- [Triton](./triton-mot.md)
+- [[centaur-mot|Centaur]]
+- [[human-xphb|Human]]
+- [[leonin-mot|Leonin]]
+- [[minotaur-mot|Minotaur]]
+- [[satyr-mot|Satyr]]
+- [[triton-mot|Triton]]

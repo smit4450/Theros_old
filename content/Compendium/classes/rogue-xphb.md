@@ -51,18 +51,18 @@ aliases:
 ## Starting Rogue
 
 - **Saving Throw Proficiencies**: Dexterity, Intelligence
-- **Skill Proficiencies**: *Choose 4:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [Deception](Compendium/rules/skills.md#Deception), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Investigation](Compendium/rules/skills.md#Investigation), [Perception](Compendium/rules/skills.md#Perception), [Persuasion](Compendium/rules/skills.md#Persuasion), [Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand), or [Stealth](Compendium/rules/skills.md#Stealth)
+- **Skill Proficiencies**: *Choose 4:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [Deception](Compendium/rules/skills.md#Deception), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Investigation](Compendium/rules/skills.md#Investigation), [Perception](Compendium/rules/skills.md#Perception), [Persuasion](Compendium/rules/skills.md#Persuasion), [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand), or [Stealth](Compendium/rules/skills.md#Stealth)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons that have the Finesse or Light property
 - **Tool Proficiencies**: [Thieves' Tools](Compendium/items/thieves-tools-xphb.md)
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
 **Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Compendium/items/leather-armor-xphb.md), 2 [Daggers](Compendium/items/dagger-xphb.md), [Shortsword](Compendium/items/shortsword-xphb.md), [Shortbow](Compendium/items/shortbow-xphb.md), [20 Arrows](Compendium/items/arrows-20-xphb.md), [Quiver](Compendium/items/quiver-xphb.md), [Thieves' Tools](Compendium/items/thieves-tools-xphb.md), [Burglar's Pack](Compendium/items/burglars-pack-xphb.md), and 8 GP; or (B) 100 GP
 
 ## Multiclassing Rogue
 
-- **Skill Proficiencies**: *Choose 1:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [Deception](Compendium/rules/skills.md#Deception), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Investigation](Compendium/rules/skills.md#Investigation), [Perception](Compendium/rules/skills.md#Perception), [Persuasion](Compendium/rules/skills.md#Persuasion), [Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand), or [Stealth](Compendium/rules/skills.md#Stealth)
+- **Skill Proficiencies**: *Choose 1:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [Deception](Compendium/rules/skills.md#Deception), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Investigation](Compendium/rules/skills.md#Investigation), [Perception](Compendium/rules/skills.md#Perception), [Persuasion](Compendium/rules/skills.md#Persuasion), [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand), or [Stealth](Compendium/rules/skills.md#Stealth)
 - **Tool Proficiencies**: [Thieves' Tools](Compendium/items/thieves-tools-xphb.md)
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
 ## Rogue
 
@@ -76,7 +76,7 @@ Some Rogues began their careers as criminals, while others used their cunning to
 
 ### Expertise (Level 1)
 
-You gain [Expertise](Compendium/rules/variant-rules/expertise-xphb.md) in two of your skill proficiencies of your choice. [Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand) and [Stealth](Compendium/rules/skills.md#Stealth) are recommended if you have proficiency in them.
+You gain [Expertise](Compendium/rules/variant-rules/expertise-xphb.md) in two of your skill proficiencies of your choice. [Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand) and [Stealth](Compendium/rules/skills.md#Stealth) are recommended if you have proficiency in them.
 
 At Rogue level 6, you gain [Expertise](Compendium/rules/variant-rules/expertise-xphb.md) in two more of your skill proficiencies of your choice.
 
@@ -112,7 +112,7 @@ As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you gi
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
 
 ### Cunning Strike (Level 5)
 
@@ -132,7 +132,7 @@ If the target is Large or smaller, it must succeed on a Dexterity saving throw o
 
 ### Withdraw (Cost: 1d6) (Level 5)
 
-Immediately after the attack, you move up to half your [Speed](Compendium/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).
+Immediately after the attack, you move up to half your [Speed](Compendium/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
 ### Uncanny Dodge (Level 5)
 
@@ -152,7 +152,7 @@ Whenever you make an ability check that uses one of your skill or tool proficien
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 9)
 
@@ -160,7 +160,7 @@ You gain a feature from your Rogue Subclass.
 
 ### Ability Score Improvement (Level 10)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Improved Cunning Strike (Level 11)
 
@@ -168,7 +168,7 @@ You can use up to two Cunning Strike effects when you deal Sneak Attack damage, 
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 13)
 
@@ -196,7 +196,7 @@ Your cunning mind is exceptionally difficult to control. You gain proficiency in
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 17)
 
@@ -208,7 +208,7 @@ You're so evasive that attackers rarely gain the upper hand against you. No atta
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of the Night Spirit](Boon%20of%20the%20Night%20Spirit.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[Boon of the Night Spirit|Boon of the Night Spirit]] is recommended.
 
 ### Stroke of Luck (Level 20)
 

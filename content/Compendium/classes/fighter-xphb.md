@@ -51,16 +51,16 @@ aliases:
 ## Starting Fighter
 
 - **Saving Throw Proficiencies**: Constitution, Strength
-- **Skill Proficiencies**: *Choose 2:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Animal Handling](Compendium/rules/skills.md#Animal%20Handling), [Athletics](Compendium/rules/skills.md#Athletics), [History](Compendium/rules/skills.md#History), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Perception](Compendium/rules/skills.md#Perception), [Persuasion](Compendium/rules/skills.md#Persuasion), or [Survival](Compendium/rules/skills.md#Survival)
+- **Skill Proficiencies**: *Choose 2:* [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Compendium/rules/skills.md#Athletics), [History](Compendium/rules/skills.md#History), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Perception](Compendium/rules/skills.md#Perception), [Persuasion](Compendium/rules/skills.md#Persuasion), or [Survival](Compendium/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor), [Medium armor](Compendium/rules/item-types.md#Medium%20Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy%20Armor), and [Shields](Compendium/items/shield-xphb.md)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy Armor), and [Shields](Compendium/items/shield-xphb.md)
 
 **Starting Equipment:** *Choose A, B, or C:* (A) [Chain Mail](Compendium/items/chain-mail-xphb.md), [Greatsword](Compendium/items/greatsword-xphb.md), [Flail](Compendium/items/flail-xphb.md), 8 [Javelins](Compendium/items/javelin-xphb.md), [Dungeoneer's Pack](Compendium/items/dungeoneers-pack-xphb.md), and 4 GP; (B) [Studded Leather Armor](Compendium/items/studded-leather-armor-xphb.md), [Scimitar](Compendium/items/scimitar-xphb.md), [Shortsword](Compendium/items/shortsword-xphb.md), [Longbow](Compendium/items/longbow-xphb.md), [20 Arrows](Compendium/items/arrows-20-xphb.md), [Quiver](Compendium/items/quiver-xphb.md), [Dungeoneer's Pack](Compendium/items/dungeoneers-pack-xphb.md), and 11 GP; or (C) 155 GP
 
 ## Multiclassing Fighter
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor), [Medium armor](Compendium/rules/item-types.md#Medium%20Armor), [Shields](Compendium/items/shield-xphb.md)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Shields](Compendium/items/shield-xphb.md)
 
 ## Fighter
 
@@ -72,7 +72,7 @@ Fighters master various weapon techniques, and a well-equipped Fighter always ha
 
 ### Fighting Style (Level 1)
 
-You have honed your martial prowess and gain a Fighting Style feat of your choice. [Defense](Defense.md) is recommended.
+You have honed your martial prowess and gain a Fighting Style feat of your choice. [[Defense|Defense]] is recommended.
 
 Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
 
@@ -106,7 +106,7 @@ You gain a Fighter subclass of your choice. A subclass is a specialization that 
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
 
 ### Extra Attack (Level 5)
 
@@ -114,11 +114,11 @@ You can attack twice instead of once whenever you take the [Attack](Compendium/r
 
 ### Tactical Shift (Level 5)
 
-Whenever you activate your Second Wind with a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can move up to half your [Speed](Compendium/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).
+Whenever you activate your Second Wind with a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can move up to half your [Speed](Compendium/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
 ### Ability Score Improvement (Level 6)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 7)
 
@@ -126,7 +126,7 @@ You gain a feature from your Fighter Subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Indomitable (Level 9)
 
@@ -148,7 +148,7 @@ You can attack three times instead of once whenever you take the [Attack](Compen
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Indomitable (Level 13)
 
@@ -162,7 +162,7 @@ You study your opponents and learn from each attack you make. If you make an att
 
 ### Ability Score Improvement (Level 14)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 15)
 
@@ -170,7 +170,7 @@ You gain a feature from your Fighter Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Action Surge (Level 17)
 
@@ -190,7 +190,7 @@ You gain a feature from your Fighter Subclass.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Combat Prowess](Boon%20of%20Combat%20Prowess.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[Boon of Combat Prowess|Boon of Combat Prowess]] is recommended.
 
 ### Three Extra Attacks (Level 20)
 

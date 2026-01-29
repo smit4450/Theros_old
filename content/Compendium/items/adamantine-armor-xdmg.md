@@ -27,13 +27,13 @@ This suit of armor is reinforced with adamantine, one of the hardest substances 
 
 **Variants**:
 - [[#Adamantine Breastplate|Adamantine Breastplate]]
-- [[#Adamantine Chain%20Mail|Adamantine Chain Mail]]
-- [[#Adamantine Chain%20Shirt|Adamantine Chain Shirt]]
-- [[#Adamantine Half%20Plate%20Armor|Adamantine Half Plate Armor]]
-- [[#Adamantine Plate%20Armor|Adamantine Plate Armor]]
-- [[#Adamantine Ring%20Mail|Adamantine Ring Mail]]
-- [[#Adamantine Scale%20Mail|Adamantine Scale Mail]]
-- [[#Adamantine Splint%20Armor|Adamantine Splint Armor]]
+- [[#Adamantine Chain Mail|Adamantine Chain Mail]]
+- [[#Adamantine Chain Shirt|Adamantine Chain Shirt]]
+- [[#Adamantine Half Plate Armor|Adamantine Half Plate Armor]]
+- [[#Adamantine Plate Armor|Adamantine Plate Armor]]
+- [[#Adamantine Ring Mail|Adamantine Ring Mail]]
+- [[#Adamantine Scale Mail|Adamantine Scale Mail]]
+- [[#Adamantine Splint Armor|Adamantine Splint Armor]]
 
 ### Adamantine Breastplate
 

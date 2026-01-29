@@ -9,7 +9,7 @@ aliases:
 - Oath of Vengeance
 ---
 # Oath of Vengeance
-*[Paladin](./paladin-xphb.md): Paladin Subclass*  
+*[[paladin-xphb|Paladin]]: Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 116*  
 
 > [!tldr] Class and Feature Progression
@@ -81,7 +81,7 @@ If the creature drops to 0 [Hit Points](Compendium/rules/variant-rules/hit-point
 
 ### Relentless Avenger (Level 7)
 
-Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an [Opportunity Attack](Compendium/rules/actions.md#Opportunity%20Attack), you can reduce the creature's [Speed](Compendium/rules/variant-rules/speed-xphb.md) to 0 until the end of the current turn. You can then move up to half your [Speed](Compendium/rules/variant-rules/speed-xphb.md) as part of the same [Reaction](Compendium/rules/variant-rules/reaction-xphb.md). This movement doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).
+Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an [Opportunity Attack](Compendium/rules/actions.md#Opportunity Attack), you can reduce the creature's [Speed](Compendium/rules/variant-rules/speed-xphb.md) to 0 until the end of the current turn. You can then move up to half your [Speed](Compendium/rules/variant-rules/speed-xphb.md) as part of the same [Reaction](Compendium/rules/variant-rules/reaction-xphb.md). This movement doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
 ### Soul of Vengeance (Level 15)
 

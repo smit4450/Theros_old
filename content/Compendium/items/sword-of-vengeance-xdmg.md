@@ -21,7 +21,7 @@ aliases:
 *Cursed item, uncommon (requires attunement)*  
 
 
-- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items)
+- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items)
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
 
@@ -34,23 +34,23 @@ In addition, while the weapon is on your person, you must succeed on a DC 15 Wis
 You can break the curse in the usual ways. Alternatively, casting [Banishment](Compendium/spells/banishment-xphb.md) on the weapon forces the vengeful spirit to leave it. The weapon then becomes a +1 Weapon with no other properties.
 
 **Variants**:
-- [[#Glaive of%20Vengeance|Glaive of Vengeance]]
-- [[#Greatsword of%20Vengeance|Greatsword of Vengeance]]
-- [[#Longsword of%20Vengeance|Longsword of Vengeance]]
-- [[#Rapier of%20Vengeance|Rapier of Vengeance]]
-- [[#Scimitar of%20Vengeance|Scimitar of Vengeance]]
-- [[#Shortsword of%20Vengeance|Shortsword of Vengeance]]
+- [[#Glaive of Vengeance|Glaive of Vengeance]]
+- [[#Greatsword of Vengeance|Greatsword of Vengeance]]
+- [[#Longsword of Vengeance|Longsword of Vengeance]]
+- [[#Rapier of Vengeance|Rapier of Vengeance]]
+- [[#Scimitar of Vengeance|Scimitar of Vengeance]]
+- [[#Shortsword of Vengeance|Shortsword of Vengeance]]
 
 ### Glaive of Vengeance
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items), [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Heavy](Compendium/rules/item-properties.md#Heavy), [Reach](Compendium/rules/item-properties.md#Reach), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Greatsword of Vengeance
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items), [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Heavy](Compendium/rules/item-properties.md#Heavy), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Longsword of Vengeance
@@ -58,25 +58,25 @@ You can break the curse in the usual ways. Alternatively, casting [Banishment](C
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items), [Versatile](Compendium/rules/item-properties.md#Versatile)
+- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Versatile](Compendium/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Rapier of Vengeance
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items), [Finesse](Compendium/rules/item-properties.md#Finesse)
+- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Finesse](Compendium/rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Scimitar of Vengeance
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items), [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Shortsword of Vengeance
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items), [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
+- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items), [Finesse](Compendium/rules/item-properties.md#Finesse), [Light](Compendium/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 

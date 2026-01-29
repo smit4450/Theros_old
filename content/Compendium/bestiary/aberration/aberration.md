@@ -6,6 +6,6 @@ cssclasses:
 ---
 # Index of Aberration
 
-- [Aberrant Spirit](./aberrant-spirit-xphb.md)
-- [Nothic](./nothic-xmm.md)
-- [Woe Strider](./woe-strider-mot.md)
+- [[aberrant-spirit-xphb|Aberrant Spirit]]
+- [[nothic-xmm|Nothic]]
+- [[woe-strider-mot|Woe Strider]]

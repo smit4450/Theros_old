@@ -51,16 +51,16 @@ aliases:
 ## Starting Druid
 
 - **Saving Throw Proficiencies**: Intelligence, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [Animal Handling](Compendium/rules/skills.md#Animal%20Handling), [Arcana](Compendium/rules/skills.md#Arcana), [Insight](Compendium/rules/skills.md#Insight), [Medicine](Compendium/rules/skills.md#Medicine), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), [Religion](Compendium/rules/skills.md#Religion), or [Survival](Compendium/rules/skills.md#Survival)
+- **Skill Proficiencies**: *Choose 2:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Arcana](Compendium/rules/skills.md#Arcana), [Insight](Compendium/rules/skills.md#Insight), [Medicine](Compendium/rules/skills.md#Medicine), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), [Religion](Compendium/rules/skills.md#Religion), or [Survival](Compendium/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons
 - **Tool Proficiencies**: [Herbalism Kit](Compendium/items/herbalism-kit-xphb.md)
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor) and [Shields](Compendium/items/shield-xphb.md)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor) and [Shields](Compendium/items/shield-xphb.md)
 
 **Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Compendium/items/leather-armor-xphb.md), [Shield](Compendium/items/shield-xphb.md), [Sickle](Compendium/items/sickle-xphb.md), [Druidic Focus (Quarterstaff)](Compendium/items/druidic-focus-xphb.md), [Explorer's Pack](Compendium/items/explorers-pack-xphb.md), [Herbalism kit](Compendium/items/herbalism-kit-xphb.md), 9 GP; or (B) 50 GP
 
 ## Multiclassing Druid
 
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor), [Shields](Compendium/items/shield-xphb.md)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Shields](Compendium/items/shield-xphb.md)
 
 ## Druid
 
@@ -174,7 +174,7 @@ You gain a Druid subclass of your choice. A subclass is a specialization that gr
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
 ### Wild Resurgence (Level 5)
 
@@ -200,7 +200,7 @@ Once on each of your turns when you hit a creature with an attack roll using a w
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 10)
 
@@ -208,7 +208,7 @@ You gain a feature from your Druid Subclass.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 14)
 
@@ -228,7 +228,7 @@ The extra damage of your Primal Strike increases to `2d8`.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Beast Spells (Level 18)
 
@@ -236,7 +236,7 @@ While using Wild Shape, you can cast spells in Beast form, except for any spell 
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Dimensional Travel](Boon%20of%20Dimensional%20Travel.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[Boon of Dimensional Travel|Boon of Dimensional Travel]] is recommended.
 
 ### Archdruid (Level 20)
 

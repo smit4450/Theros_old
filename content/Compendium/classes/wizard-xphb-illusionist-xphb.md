@@ -9,7 +9,7 @@ aliases:
 - Illusionist
 ---
 # Illusionist
-*[Wizard](./wizard-xphb.md): Wizard Subclass*  
+*[[wizard-xphb|Wizard]]: Wizard Subclass*  
 *Source: Player's Handbook (2024) p. 175*  
 
 > [!tldr] Class and Feature Progression

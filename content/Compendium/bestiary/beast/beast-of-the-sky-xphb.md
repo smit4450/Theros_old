@@ -32,7 +32,7 @@ aliases: ["Beast of the Sky"]
   \ 12"
 "languages": "understands the languages you know"
 "traits":
-  - "desc": "The beast doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)\
+  - "desc": "The beast doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack)\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
   - "desc": "Add your Proficiency Bonus to any ability check or saving throw the beast\

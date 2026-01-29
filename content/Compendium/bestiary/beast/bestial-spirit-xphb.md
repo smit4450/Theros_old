@@ -33,7 +33,7 @@ aliases: ["Bestial Spirit"]
   \ 12"
 "languages": "understands the languages you know"
 "traits":
-  - "desc": "The spirit doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)\
+  - "desc": "The spirit doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack)\
       \ when it flies out of an enemy's reach."
     "name": "Flyby (Air Only)"
   - "desc": "The spirit has Advantage on an attack roll against a creature if at least\

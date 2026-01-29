@@ -6,22 +6,22 @@ cssclasses:
 ---
 # Index of Elemental
 
-- [Air Elemental](./air-elemental-xmm.md)
-- [Dust Mephit](./dust-mephit-xmm.md)
-- [Earth Elemental](./earth-elemental-xmm.md)
-- [Elemental Cataclysm](./elemental-cataclysm-xmm.md)
-- [Elemental Spirit (Air)](./elemental-spirit-air-xphb.md)
-- [Elemental Spirit (Earth)](./elemental-spirit-earth-xphb.md)
-- [Elemental Spirit (Fire)](./elemental-spirit-fire-xphb.md)
-- [Elemental Spirit (Water)](./elemental-spirit-water-xphb.md)
-- [Elemental Spirit](./elemental-spirit-xphb.md)
-- [Fire Elemental](./fire-elemental-xmm.md)
-- [Gargoyle](./gargoyle-xmm.md)
-- [Ice Mephit](./ice-mephit-xmm.md)
-- [Invisible Stalker](./invisible-stalker-xmm.md)
-- [Magma Mephit](./magma-mephit-xmm.md)
-- [Mud Mephit](./mud-mephit-xmm.md)
-- [Phoenix](./phoenix-mtf.md)
-- [Smoke Mephit](./smoke-mephit-xmm.md)
-- [Steam Mephit](./steam-mephit-xmm.md)
-- [Water Elemental](./water-elemental-xmm.md)
+- [[air-elemental-xmm|Air Elemental]]
+- [[dust-mephit-xmm|Dust Mephit]]
+- [[earth-elemental-xmm|Earth Elemental]]
+- [[elemental-cataclysm-xmm|Elemental Cataclysm]]
+- [[elemental-spirit-air-xphb|Elemental Spirit (Air)]]
+- [[elemental-spirit-earth-xphb|Elemental Spirit (Earth)]]
+- [[elemental-spirit-fire-xphb|Elemental Spirit (Fire)]]
+- [[elemental-spirit-water-xphb|Elemental Spirit (Water)]]
+- [[elemental-spirit-xphb|Elemental Spirit]]
+- [[fire-elemental-xmm|Fire Elemental]]
+- [[gargoyle-xmm|Gargoyle]]
+- [[ice-mephit-xmm|Ice Mephit]]
+- [[invisible-stalker-xmm|Invisible Stalker]]
+- [[magma-mephit-xmm|Magma Mephit]]
+- [[mud-mephit-xmm|Mud Mephit]]
+- [[phoenix-mtf|Phoenix]]
+- [[smoke-mephit-xmm|Smoke Mephit]]
+- [[steam-mephit-xmm|Steam Mephit]]
+- [[water-elemental-xmm|Water Elemental]]

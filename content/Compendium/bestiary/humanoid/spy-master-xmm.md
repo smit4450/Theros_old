@@ -67,7 +67,7 @@ Spies gather information and disseminate lies, manipulating people to gain the r
     "desc": "+8"
   - "name": "[Perception](Compendium/rules/skills.md#Perception)"
     "desc": "+11"
-  - "name": "[Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)"
     "desc": "+9"
   - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
     "desc": "+13"

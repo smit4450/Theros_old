@@ -9,7 +9,7 @@ aliases:
 - Champion
 ---
 # Champion
-*[Fighter](./fighter-xphb.md): Fighter Subclass*  
+*[[fighter-xphb|Fighter]]: Fighter Subclass*  
 *Source: Player's Handbook (2024) p. 96. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -60,7 +60,7 @@ Your attack rolls with weapons and Unarmed Strikes can score a [Critical Hit](Co
 
 Thanks to your athleticism, you have [Advantage](Compendium/rules/variant-rules/advantage-xphb.md) on [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) rolls and Strength ([Athletics](Compendium/rules/skills.md#Athletics)) checks.
 
-In addition, immediately after you score a [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md), you can move up to half your [Speed](Compendium/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).
+In addition, immediately after you score a [Critical Hit](Compendium/rules/variant-rules/critical-hit-xphb.md), you can move up to half your [Speed](Compendium/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
 ### Additional Fighting Style (Level 7)
 

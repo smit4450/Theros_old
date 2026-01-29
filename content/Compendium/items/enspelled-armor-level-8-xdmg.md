@@ -34,18 +34,18 @@ Bound into this armor is a level 8 spell. The spell is determined when the armor
 The spell's saving throw DC is 18, and its attack bonus is `+10`.
 
 **Variants**:
-- [[#Enspelled (Level%208|Enspelled (Level 8) Breastplate]]%20Breastplate)
-- [[#Enspelled (Level%208|Enspelled (Level 8) Chain Mail]]%20Chain%20Mail)
-- [[#Enspelled (Level%208|Enspelled (Level 8) Chain Shirt]]%20Chain%20Shirt)
-- [[#Enspelled (Level%208|Enspelled (Level 8) Half Plate Armor]]%20Half%20Plate%20Armor)
-- [[#Enspelled (Level%208|Enspelled (Level 8) Hide Armor]]%20Hide%20Armor)
-- [[#Enspelled (Level%208|Enspelled (Level 8) Leather Armor]]%20Leather%20Armor)
-- [[#Enspelled (Level%208|Enspelled (Level 8) Padded Armor]]%20Padded%20Armor)
-- [[#Enspelled (Level%208|Enspelled (Level 8) Plate Armor]]%20Plate%20Armor)
-- [[#Enspelled (Level%208|Enspelled (Level 8) Ring Mail]]%20Ring%20Mail)
-- [[#Enspelled (Level%208|Enspelled (Level 8) Scale Mail]]%20Scale%20Mail)
-- [[#Enspelled (Level%208|Enspelled (Level 8) Splint Armor]]%20Splint%20Armor)
-- [[#Enspelled (Level%208|Enspelled (Level 8) Studded Leather Armor]]%20Studded%20Leather%20Armor)
+- [[#Enspelled (Level 8|Enspelled (Level 8) Breastplate]] Breastplate)
+- [[#Enspelled (Level 8|Enspelled (Level 8) Chain Mail]] Chain Mail)
+- [[#Enspelled (Level 8|Enspelled (Level 8) Chain Shirt]] Chain Shirt)
+- [[#Enspelled (Level 8|Enspelled (Level 8) Half Plate Armor]] Half Plate Armor)
+- [[#Enspelled (Level 8|Enspelled (Level 8) Hide Armor]] Hide Armor)
+- [[#Enspelled (Level 8|Enspelled (Level 8) Leather Armor]] Leather Armor)
+- [[#Enspelled (Level 8|Enspelled (Level 8) Padded Armor]] Padded Armor)
+- [[#Enspelled (Level 8|Enspelled (Level 8) Plate Armor]] Plate Armor)
+- [[#Enspelled (Level 8|Enspelled (Level 8) Ring Mail]] Ring Mail)
+- [[#Enspelled (Level 8|Enspelled (Level 8) Scale Mail]] Scale Mail)
+- [[#Enspelled (Level 8|Enspelled (Level 8) Splint Armor]] Splint Armor)
+- [[#Enspelled (Level 8|Enspelled (Level 8) Studded Leather Armor]] Studded Leather Armor)
 
 ### Enspelled (Level 8) Breastplate
 

@@ -11,7 +11,7 @@ aliases: ["Guide"]
 ![](Compendium/backgrounds/img/guide.webp#right)
 
 - **Ability Scores.** Dexterity, Constitution, Wisdom  
-- **Feat.** [Magic Initiate](Magic%20Initiate.md) (Druid)  
+- **Feat.** [[Magic Initiate|Magic Initiate]] (Druid)  
 - **Skill Proficiencies.** [Stealth](Compendium/rules/skills.md#Stealth), [Survival](Compendium/rules/skills.md#Survival)  
 - **Tool Proficiency.** [Cartographer's Tools](Compendium/items/cartographers-tools-xphb.md)  
 - **Equipment.** Choose A or B: (A) [Shortbow](Compendium/items/shortbow-xphb.md), [20 Arrows](Compendium/items/arrow-xphb.md), [Cartographer's Tools](Compendium/items/cartographers-tools-xphb.md), [Bedroll](Compendium/items/bedroll-xphb.md), [Quiver](Compendium/items/quiver-xphb.md), [Tent](Compendium/items/tent-xphb.md), [Traveler's Clothes](Compendium/items/travelers-clothes-xphb.md), 3 GP; or (B) 50 GP  

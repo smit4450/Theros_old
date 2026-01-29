@@ -134,7 +134,7 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
     "name": "Eruption"
   - "desc": "The cataclysm moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md),\
       \ [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md), or [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).\
+      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).\
       \ Each creature within 5 feet of the cataclysm as it moves is targeted once\
       \ by the following effect. *Constitution Saving Throw:* DC 23. *Failure:* The\
       \ target has the [Prone](Compendium/rules/conditions.md#Prone) condition. *Failure\

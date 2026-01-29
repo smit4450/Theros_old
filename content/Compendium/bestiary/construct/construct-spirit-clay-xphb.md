@@ -44,7 +44,7 @@ aliases: ["Construct Spirit (Clay)"]
 "reactions":
   - "desc": "Trigger: The spirit takes damage from a creature. _Response:_ The spirit\
       \ makes a Slam attack against that creature if possible, or the spirit moves\
-      \ up to half its Speed toward that creature without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)."
+      \ up to half its Speed toward that creature without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack)."
     "name": "Berserk Lashing"
 "source":
   - "XPHB"

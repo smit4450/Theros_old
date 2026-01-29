@@ -139,7 +139,7 @@ You gain a Monk subclass of your choice. A subclass is a specialization that gra
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
 ### Slow Fall (Level 4)
 
@@ -169,7 +169,7 @@ You don't benefit from this feature if you have the [Incapacitated](Compendium/r
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Acrobatic Movement (Level 9)
 
@@ -189,7 +189,7 @@ When you expend a Focus Point to use Patient Defense, you gain a number of [Temp
 
 #### Step of the Wind
 
-When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).
+When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
 ### Self-Restoration (Level 10)
 
@@ -203,7 +203,7 @@ You gain a feature from your Monk subclass.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Deflect Energy (Level 13)
 
@@ -221,7 +221,7 @@ When you roll [Initiative](Compendium/rules/variant-rules/initiative-xphb.md) an
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 17)
 
@@ -233,7 +233,7 @@ At the start of your turn, you can expend 3 Focus Points to bolster yourself aga
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Irresistible Offense](Boon%20of%20Irresistible%20Offense.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[Boon of Irresistible Offense|Boon of Irresistible Offense]] is recommended.
 
 ### Body and Mind (Level 20)
 

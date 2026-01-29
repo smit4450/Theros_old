@@ -30,10 +30,10 @@ This ammunition is typically found or sold in quantities of ten or twenty pieces
 **Variants**:
 - [[#+3 Arrow|+3 Arrow]]
 - [[#+3 Bolt|+3 Bolt]]
-- [[#+3 Energy%20Cell|+3 Energy Cell]]
-- [[#+3 Firearm%20Bullet|+3 Firearm Bullet]]
+- [[#+3 Energy Cell|+3 Energy Cell]]
+- [[#+3 Firearm Bullet|+3 Firearm Bullet]]
 - [[#+3 Needle|+3 Needle]]
-- [[#+3 Sling%20Bullet|+3 Sling Bullet]]
+- [[#+3 Sling Bullet|+3 Sling Bullet]]
 
 ### +3 Arrow
 

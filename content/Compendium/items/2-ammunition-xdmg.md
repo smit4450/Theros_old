@@ -30,10 +30,10 @@ This ammunition is typically found or sold in quantities of ten or twenty pieces
 **Variants**:
 - [[#+2 Arrow|+2 Arrow]]
 - [[#+2 Bolt|+2 Bolt]]
-- [[#+2 Energy%20Cell|+2 Energy Cell]]
-- [[#+2 Firearm%20Bullet|+2 Firearm Bullet]]
+- [[#+2 Energy Cell|+2 Energy Cell]]
+- [[#+2 Firearm Bullet|+2 Firearm Bullet]]
 - [[#+2 Needle|+2 Needle]]
-- [[#+2 Sling%20Bullet|+2 Sling Bullet]]
+- [[#+2 Sling Bullet|+2 Sling Bullet]]
 
 ### +2 Arrow
 

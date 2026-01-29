@@ -157,7 +157,7 @@ You gain a Sorcerer subclass of your choice. A subclass is a specialization that
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
 ### Sorcerous Restoration (Level 5)
 
@@ -175,7 +175,7 @@ In addition, while your Innate Sorcery feature is active, you can use up to two 
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Metamagic (Level 10)
 
@@ -187,7 +187,7 @@ Whenever you gain a Sorcerer level, you can replace one of your Metamagic option
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 14)
 
@@ -195,7 +195,7 @@ You gain a feature from your Sorcerer subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Metamagic (Level 17)
 
@@ -211,7 +211,7 @@ You gain a feature from your Sorcerer subclass.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Dimensional Travel](Boon%20of%20Dimensional%20Travel.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[Boon of Dimensional Travel|Boon of Dimensional Travel]] is recommended.
 
 ### Arcane Apotheosis (Level 20)
 

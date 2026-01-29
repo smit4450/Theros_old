@@ -9,7 +9,7 @@ aliases:
 - Scion of the Three
 ---
 # Agent of Death
-*[Rogue](./rogue-xphb.md): Rogue Subclass*  
+*[[rogue-xphb|Rogue]]: Rogue Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression
@@ -71,7 +71,7 @@ Choose one of the gods of death: [[Phenax]], [[Mogis]], or [[Erebos]]. You gain 
 
 ### Strike Fear (Level 9)
 
-You gain the following [Cunning Strike](Compendium/classes/rogue-xphb.md#Cunning%20Strike%20(Level%205)) option.
+You gain the following [Cunning Strike](Compendium/classes/rogue-xphb.md#Cunning Strike (Level 5)) option.
 
 #### Terrify (Cost: `1d6`)
 _Source: FRHoF_
@@ -82,7 +82,7 @@ The [Frightened](Compendium/rules/conditions.md#Frightened) target repeats the s
 
 ### Aura of Malevolence (Level 13)
 
-You radiate malignant power associated with one of the gods of death. When you use [Bloodthirst](Agent%20of%20Death.md#Bloodthirst%20(Level%203)) and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) granted by your choice in the Dread Allegiance feature. [Damage](Compendium/rules/variant-rules/damage-xphb.md) dealt by this feature ignores [Resistance](Compendium/rules/variant-rules/resistance-xphb.md).
+You radiate malignant power associated with one of the gods of death. When you use [Bloodthirst](Agent of Death.md#Bloodthirst (Level 3)) and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) granted by your choice in the Dread Allegiance feature. [Damage](Compendium/rules/variant-rules/damage-xphb.md) dealt by this feature ignores [Resistance](Compendium/rules/variant-rules/resistance-xphb.md).
 
 ### Dread Incarnate (Level 17)
 
@@ -91,9 +91,9 @@ You gain the following benefits.
 #### Cutthroat
 _Source: FRHoF_
 
-You regain one expended use of [Bloodthirst](Agent%20of%20Death.md#Bloodthirst%20(Level%203)) when you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md).
+You regain one expended use of [Bloodthirst](Agent of Death.md#Bloodthirst (Level 3)) when you finish a [Short Rest](Compendium/rules/variant-rules/short-rest-xphb.md).
 
 #### Murderous Intent
 _Source: FRHoF_
 
-When you roll for your [Sneak Attack](Compendium/classes/rogue-xphb.md#Sneak%20Attack%20(Level%201)) damage, you can treat a roll of a 1 or 2 on the die as a 3.
+When you roll for your [Sneak Attack](Compendium/classes/rogue-xphb.md#Sneak Attack (Level 1)) damage, you can treat a roll of a 1 or 2 on the die as a 3.

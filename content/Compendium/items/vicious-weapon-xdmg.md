@@ -76,33 +76,33 @@ aliases:
 This magic weapon deals an extra `2d6` damage to any creature it hits. This extra damage is of the same type as the weapon's normal damage.
 
 **Variants**:
-- [[#Vicious Antimatter%20Rifle|Vicious Antimatter Rifle]]
-- [[#Vicious Automatic%20Rifle|Vicious Automatic Rifle]]
+- [[#Vicious Antimatter Rifle|Vicious Antimatter Rifle]]
+- [[#Vicious Automatic Rifle|Vicious Automatic Rifle]]
 - [[#Vicious Battleaxe|Vicious Battleaxe]]
 - [[#Vicious Blowgun|Vicious Blowgun]]
 - [[#Vicious Club|Vicious Club]]
 - [[#Vicious Dagger|Vicious Dagger]]
 - [[#Vicious Dart|Vicious Dart]]
-- [[#Vicious Double-Bladed%20Scimitar|Vicious Double-Bladed Scimitar]]
+- [[#Vicious Double-Bladed Scimitar|Vicious Double-Bladed Scimitar]]
 - [[#Vicious Flail|Vicious Flail]]
 - [[#Vicious Glaive|Vicious Glaive]]
 - [[#Vicious Greataxe|Vicious Greataxe]]
 - [[#Vicious Greatclub|Vicious Greatclub]]
 - [[#Vicious Greatsword|Vicious Greatsword]]
 - [[#Vicious Halberd|Vicious Halberd]]
-- [[#Vicious Hand%20Crossbow|Vicious Hand Crossbow]]
+- [[#Vicious Hand Crossbow|Vicious Hand Crossbow]]
 - [[#Vicious Handaxe|Vicious Handaxe]]
-- [[#Vicious Heavy%20Crossbow|Vicious Heavy Crossbow]]
-- [[#Vicious Hooked%20Shortspear|Vicious Hooked Shortspear]]
+- [[#Vicious Heavy Crossbow|Vicious Heavy Crossbow]]
+- [[#Vicious Hooked Shortspear|Vicious Hooked Shortspear]]
 - [[#Vicious Hoopak|Vicious Hoopak]]
-- [[#Vicious Hunting%20Rifle|Vicious Hunting Rifle]]
+- [[#Vicious Hunting Rifle|Vicious Hunting Rifle]]
 - [[#Vicious Javelin|Vicious Javelin]]
 - [[#Vicious Lance|Vicious Lance]]
-- [[#Vicious Laser%20Pistol|Vicious Laser Pistol]]
-- [[#Vicious Laser%20Rifle|Vicious Laser Rifle]]
-- [[#Vicious Light%20Crossbow|Vicious Light Crossbow]]
-- [[#Vicious Light%20Hammer|Vicious Light Hammer]]
-- [[#Vicious Light%20Repeating%20Crossbow|Vicious Light Repeating Crossbow]]
+- [[#Vicious Laser Pistol|Vicious Laser Pistol]]
+- [[#Vicious Laser Rifle|Vicious Laser Rifle]]
+- [[#Vicious Light Crossbow|Vicious Light Crossbow]]
+- [[#Vicious Light Hammer|Vicious Light Hammer]]
+- [[#Vicious Light Repeating Crossbow|Vicious Light Repeating Crossbow]]
 - [[#Vicious Longbow|Vicious Longbow]]
 - [[#Vicious Longsword|Vicious Longsword]]
 - [[#Vicious Mace|Vicious Mace]]
@@ -115,7 +115,7 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 - [[#Vicious Rapier|Vicious Rapier]]
 - [[#Vicious Revolver|Vicious Revolver]]
 - [[#Vicious Scimitar|Vicious Scimitar]]
-- [[#Vicious Semiautomatic%20Pistol|Vicious Semiautomatic Pistol]]
+- [[#Vicious Semiautomatic Pistol|Vicious Semiautomatic Pistol]]
 - [[#Vicious Shortbow|Vicious Shortbow]]
 - [[#Vicious Shortsword|Vicious Shortsword]]
 - [[#Vicious Shotgun|Vicious Shotgun]]
@@ -124,10 +124,10 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 - [[#Vicious Spear|Vicious Spear]]
 - [[#Vicious Staff|Vicious Staff]]
 - [[#Vicious Trident|Vicious Trident]]
-- [[#Vicious War%20Pick|Vicious War Pick]]
+- [[#Vicious War Pick|Vicious War Pick]]
 - [[#Vicious Warhammer|Vicious Warhammer]]
 - [[#Vicious Whip|Vicious Whip]]
-- [[#Vicious Wooden%20Staff|Vicious Wooden Staff]]
+- [[#Vicious Wooden Staff|Vicious Wooden Staff]]
 - [[#Vicious Yklwa|Vicious Yklwa]]
 
 ### Vicious Antimatter Rifle
@@ -141,7 +141,7 @@ This magic weapon deals an extra `2d6` damage to any creature it hits. This extr
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Burst Fire](Compendium/rules/item-properties.md#Burst%20Fire), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Burst Fire](Compendium/rules/item-properties.md#Burst Fire), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Vicious Battleaxe

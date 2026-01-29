@@ -6,114 +6,114 @@ cssclasses:
 ---
 # Index of Feats
 
-- [Ability Score Improvement](Ability%20Score%20Improvement.md)
-- [Actor](Actor.md)
-- [Alert](Alert.md)
-- [Archery](Archery.md)
-- [Athlete](Athlete.md)
-- [Blessed Warrior](Blessed%20Warrior.md)
-- [Blind Fighting](Blind%20Fighting.md)
-- [Boon of Bloodshed](Boon%20of%20Bloodshed.md)
-- [Boon of Bountiful Health](Boon%20of%20Bountiful%20Health.md)
-- [Boon of Combat Prowess](Boon%20of%20Combat%20Prowess.md)
-- [Boon of Communication](Boon%20of%20Communication.md)
-- [Boon of Desperate Resilience](Boon%20of%20Desperate%20Resilience.md)
-- [Boon of Dimensional Travel](Boon%20of%20Dimensional%20Travel.md)
-- [Boon of Energy Resistance](Boon%20of%20Energy%20Resistance.md)
-- [Boon of Exquisite Radiance](Boon%20of%20Exquisite%20Radiance.md)
-- [Boon of Fate](Boon%20of%20Fate.md)
-- [Boon of Fluid Forms](Boon%20of%20Fluid%20Forms.md)
-- [Boon of Fortitude](Boon%20of%20Fortitude.md)
-- [Boon of Fortune's Favor](Boon%20of%20Fortune's%20Favor.md)
-- [Boon of Irresistible Offense](Boon%20of%20Irresistible%20Offense.md)
-- [Boon of Poison Mastery](Boon%20of%20Poison%20Mastery.md)
-- [Boon of Recovery](Boon%20of%20Recovery.md)
-- [Boon of Revelry](Boon%20of%20Revelry.md)
-- [Boon of Skill](Boon%20of%20Skill.md)
-- [Boon of Speed](Boon%20of%20Speed.md)
-- [Boon of Spell Recall](Boon%20of%20Spell%20Recall.md)
-- [Boon of Terror](Boon%20of%20Terror.md)
-- [Boon of the Bright Sun](Boon%20of%20the%20Bright%20Sun.md)
-- [Boon of the Furious Storm](Boon%20of%20the%20Furious%20Storm.md)
-- [Boon of the Night Spirit](Boon%20of%20the%20Night%20Spirit.md)
-- [Boon of the Soul Drinker](Boon%20of%20the%20Soul%20Drinker.md)
-- [Boon of Truesight](Boon%20of%20Truesight.md)
-- [Charger](Charger.md)
-- [Chef](Chef.md)
-- [Cold Caster](Cold%20Caster.md)
-- [Crafter](Crafter.md)
-- [Crossbow Expert](Crossbow%20Expert.md)
-- [Crusher](Crusher.md)
-- [Cult of the Dragon Initiate](./cult-of-the-dragon-initiate-frhof.md)
-- [Defense](Defense.md)
-- [Defensive Duelist](Defensive%20Duelist.md)
-- [Dragonscarred](./dragonscarred-frhof.md)
-- [Druidic Warrior](Druidic%20Warrior.md)
-- [Dual Wielder](Dual%20Wielder.md)
-- [Dueling](Dueling.md)
-- [Durable](Durable.md)
-- [Elemental Adept](Elemental%20Adept.md)
-- [Emerald Enclave Fledgling](Druid%20Fledgling.md)
-- [Enclave Magic](Circle%20Magic.md)
-- [Fairy Trickster](Fey%20Trickster.md)
-- [Fey-Touched](Fey-Touched.md)
-- [Genie Magic](./genie-magic-frhof.md)
-- [Grappler](Grappler.md)
-- [Great Weapon Fighting](Great%20Weapon%20Fighting.md)
-- [Great Weapon Master](Great%20Weapon%20Master.md)
-- [Harper Agent](./harper-agent-frhof.md)
-- [Harper Teamwork](Teamwork.md)
-- [Healer](Healer.md)
-- [Heavily Armored](Heavily%20Armored.md)
-- [Heavy Armor Master](Heavy%20Armor%20Master.md)
-- [Inspiring Leader](Inspiring%20Leader.md)
-- [Interception](Interception.md)
-- [Keen Mind](Keen%20Mind.md)
-- [Lightly Armored](Lightly%20Armored.md)
-- [Lordly Resolve](Phalanx%20Captain's%20Resolve.md)
-- [Lords' Alliance Agent](Inspiring%20Warrior.md)
-- [Lucky](Lucky.md)
-- [Mage Slayer](Mage%20Slayer.md)
-- [Magic Initiate](Magic%20Initiate.md)
-- [Martial Weapon Training](Martial%20Weapon%20Training.md)
-- [Medium Armor Master](Medium%20Armor%20Master.md)
-- [Moderately Armored](Moderately%20Armored.md)
-- [Mounted Combatant](Mounted%20Combatant.md)
-- [Musician](Musician.md)
-- [Mythal Touched](Hieromancer%20Initiate.md)
-- [Observant](Observant.md)
-- [Order's Resilience](Order's%20Resilience.md)
-- [Piercer](Piercer.md)
-- [Poisoner](Poisoner.md)
-- [Polearm Master](Polearm%20Master.md)
-- [Protection](Protection.md)
-- [Purple Dragon Commandant](Commandant.md)
-- [Purple Dragon Rook](Vanguard.md)
-- [Resilient](Resilient.md)
-- [Ritual Caster](Ritual%20Caster.md)
-- [Savage Attacker](Savage%20Attacker.md)
-- [Sentinel](Sentinel.md)
-- [Shadow-Touched](Shadow-Touched.md)
-- [Sharpshooter](Sharpshooter.md)
-- [Shield Master](Shield%20Master.md)
-- [Skill Expert](Skill%20Expert.md)
-- [Skilled](Skilled.md)
-- [Skulker](Skulker.md)
-- [Slasher](Slasher.md)
-- [Speedy](Speedy.md)
-- [Spell Sniper](Spell%20Sniper.md)
-- [Spellfire Adept](Spellfire%20Adept.md)
-- [Spellfire Spark](Spellfire%20Spark.md)
-- [Street Justice](Street%20Justice.md)
-- [Tavern Brawler](Tavern%20Brawler.md)
-- [Telekinetic](Telekinetic.md)
-- [Telepathic](Telepathic.md)
-- [Thrown Weapon Fighting](Thrown%20Weapon%20Fighting.md)
-- [Tough](Tough.md)
-- [Two-Weapon Fighting](Two-Weapon%20Fighting.md)
-- [Tyro of the Gauntlet](Stand%20Firm.md)
-- [Unarmed Fighting](Unarmed%20Fighting.md)
-- [War Caster](War%20Caster.md)
-- [Weapon Master](Weapon%20Master.md)
-- [Zhentarim Ruffian](Ruffian.md)
-- [Zhentarim Tactics](Dirty%20Tactics.md)
+- [[Ability Score Improvement|Ability Score Improvement]]
+- [[Actor|Actor]]
+- [[Alert|Alert]]
+- [[Archery|Archery]]
+- [[Athlete|Athlete]]
+- [[Blessed Warrior|Blessed Warrior]]
+- [[Blind Fighting|Blind Fighting]]
+- [[Boon of Bloodshed|Boon of Bloodshed]]
+- [[Boon of Bountiful Health|Boon of Bountiful Health]]
+- [[Boon of Combat Prowess|Boon of Combat Prowess]]
+- [[Boon of Communication|Boon of Communication]]
+- [[Boon of Desperate Resilience|Boon of Desperate Resilience]]
+- [[Boon of Dimensional Travel|Boon of Dimensional Travel]]
+- [[Boon of Energy Resistance|Boon of Energy Resistance]]
+- [[Boon of Exquisite Radiance|Boon of Exquisite Radiance]]
+- [[Boon of Fate|Boon of Fate]]
+- [[Boon of Fluid Forms|Boon of Fluid Forms]]
+- [[Boon of Fortitude|Boon of Fortitude]]
+- [[Boon of Fortune's Favor|Boon of Fortune's Favor]]
+- [[Boon of Irresistible Offense|Boon of Irresistible Offense]]
+- [[Boon of Poison Mastery|Boon of Poison Mastery]]
+- [[Boon of Recovery|Boon of Recovery]]
+- [[Boon of Revelry|Boon of Revelry]]
+- [[Boon of Skill|Boon of Skill]]
+- [[Boon of Speed|Boon of Speed]]
+- [[Boon of Spell Recall|Boon of Spell Recall]]
+- [[Boon of Terror|Boon of Terror]]
+- [[Boon of the Bright Sun|Boon of the Bright Sun]]
+- [[Boon of the Furious Storm|Boon of the Furious Storm]]
+- [[Boon of the Night Spirit|Boon of the Night Spirit]]
+- [[Boon of the Soul Drinker|Boon of the Soul Drinker]]
+- [[Boon of Truesight|Boon of Truesight]]
+- [[Charger|Charger]]
+- [[Chef|Chef]]
+- [[Cold Caster|Cold Caster]]
+- [[Crafter|Crafter]]
+- [[Crossbow Expert|Crossbow Expert]]
+- [[Crusher|Crusher]]
+- [[cult-of-the-dragon-initiate-frhof|Cult of the Dragon Initiate]]
+- [[Defense|Defense]]
+- [[Defensive Duelist|Defensive Duelist]]
+- [[dragonscarred-frhof|Dragonscarred]]
+- [[Druidic Warrior|Druidic Warrior]]
+- [[Dual Wielder|Dual Wielder]]
+- [[Dueling|Dueling]]
+- [[Durable|Durable]]
+- [[Elemental Adept|Elemental Adept]]
+- [[Druid Fledgling|Emerald Enclave Fledgling]]
+- [[Circle Magic|Enclave Magic]]
+- [[Fey Trickster|Fairy Trickster]]
+- [[Fey-Touched|Fey-Touched]]
+- [[genie-magic-frhof|Genie Magic]]
+- [[Grappler|Grappler]]
+- [[Great Weapon Fighting|Great Weapon Fighting]]
+- [[Great Weapon Master|Great Weapon Master]]
+- [[harper-agent-frhof|Harper Agent]]
+- [[Teamwork|Harper Teamwork]]
+- [[Healer|Healer]]
+- [[Heavily Armored|Heavily Armored]]
+- [[Heavy Armor Master|Heavy Armor Master]]
+- [[Inspiring Leader|Inspiring Leader]]
+- [[Interception|Interception]]
+- [[Keen Mind|Keen Mind]]
+- [[Lightly Armored|Lightly Armored]]
+- [[Phalanx Captain's Resolve|Lordly Resolve]]
+- [[Inspiring Warrior|Lords' Alliance Agent]]
+- [[Lucky|Lucky]]
+- [[Mage Slayer|Mage Slayer]]
+- [[Magic Initiate|Magic Initiate]]
+- [[Martial Weapon Training|Martial Weapon Training]]
+- [[Medium Armor Master|Medium Armor Master]]
+- [[Moderately Armored|Moderately Armored]]
+- [[Mounted Combatant|Mounted Combatant]]
+- [[Musician|Musician]]
+- [[Hieromancer Initiate|Mythal Touched]]
+- [[Observant|Observant]]
+- [[Order's Resilience|Order's Resilience]]
+- [[Piercer|Piercer]]
+- [[Poisoner|Poisoner]]
+- [[Polearm Master|Polearm Master]]
+- [[Protection|Protection]]
+- [[Commandant|Purple Dragon Commandant]]
+- [[Vanguard|Purple Dragon Rook]]
+- [[Resilient|Resilient]]
+- [[Ritual Caster|Ritual Caster]]
+- [[Savage Attacker|Savage Attacker]]
+- [[Sentinel|Sentinel]]
+- [[Shadow-Touched|Shadow-Touched]]
+- [[Sharpshooter|Sharpshooter]]
+- [[Shield Master|Shield Master]]
+- [[Skill Expert|Skill Expert]]
+- [[Skilled|Skilled]]
+- [[Skulker|Skulker]]
+- [[Slasher|Slasher]]
+- [[Speedy|Speedy]]
+- [[Spell Sniper|Spell Sniper]]
+- [[Spellfire Adept|Spellfire Adept]]
+- [[Spellfire Spark|Spellfire Spark]]
+- [[Street Justice|Street Justice]]
+- [[Tavern Brawler|Tavern Brawler]]
+- [[Telekinetic|Telekinetic]]
+- [[Telepathic|Telepathic]]
+- [[Thrown Weapon Fighting|Thrown Weapon Fighting]]
+- [[Tough|Tough]]
+- [[Two-Weapon Fighting|Two-Weapon Fighting]]
+- [[Stand Firm|Tyro of the Gauntlet]]
+- [[Unarmed Fighting|Unarmed Fighting]]
+- [[War Caster|War Caster]]
+- [[Weapon Master|Weapon Master]]
+- [[Ruffian|Zhentarim Ruffian]]
+- [[Dirty Tactics|Zhentarim Tactics]]

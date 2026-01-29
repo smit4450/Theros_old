@@ -11,7 +11,7 @@ aliases: ["Acolyte"]
 ![](Compendium/backgrounds/img/acolyte.webp#right)
 
 - **Ability Scores.** Intelligence, Wisdom, Charisma  
-- **Feat.** [Magic Initiate](Magic%20Initiate.md) (Cleric)  
+- **Feat.** [[Magic Initiate|Magic Initiate]] (Cleric)  
 - **Skill Proficiencies.** [Insight](Compendium/rules/skills.md#Insight), [Religion](Compendium/rules/skills.md#Religion)  
 - **Tool Proficiency.** [Calligrapher's Supplies](Compendium/items/calligraphers-supplies-xphb.md)  
 - **Equipment.** Choose A or B: (A) [Calligrapher's Supplies](Compendium/items/calligraphers-supplies-xphb.md), [Book (prayers)](Compendium/items/book-xphb.md), [Holy Symbol](Compendium/items/holy-symbol-xphb.md), [Parchment](Compendium/items/parchment-xphb.md) (10 sheets), [Robe](Compendium/items/robe-xphb.md), 8 GP; or (B) 50 GP  

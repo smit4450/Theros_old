@@ -9,7 +9,7 @@ aliases:
 - Soulknife
 ---
 # Soulknife
-*[Rogue](./rogue-xphb.md): Rogue Subclass*  
+*[[rogue-xphb|Rogue]]: Rogue Subclass*  
 *Source: Player's Handbook (2024) p. 135*  
 
 > [!tldr] Class and Feature Progression
@@ -84,7 +84,7 @@ The first time you use this power after each [Long Rest](Compendium/rules/varian
 
 ### Psychic Blades (Level 3)
 
-You can manifest shimmering blades of psychic energy. Whenever you take the [Attack](Compendium/rules/actions.md#Attack) action or make an [Opportunity Attack](Compendium/rules/actions.md#Opportunity%20Attack), you can manifest a [Psychic Blade](Compendium/items/psychic-blade-xphb.md) in your free hand and make the attack with that blade. The magic blade has the following traits:
+You can manifest shimmering blades of psychic energy. Whenever you take the [Attack](Compendium/rules/actions.md#Attack) action or make an [Opportunity Attack](Compendium/rules/actions.md#Opportunity Attack), you can manifest a [Psychic Blade](Compendium/items/psychic-blade-xphb.md) in your free hand and make the attack with that blade. The magic blade has the following traits:
 
 > [!embed-item]- Psychic Blade
 > ![Psychic Blade](Compendium/items/psychic-blade-xphb.md)

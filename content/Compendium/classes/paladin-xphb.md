@@ -53,14 +53,14 @@ aliases:
 - **Saving Throw Proficiencies**: Charisma, Wisdom
 - **Skill Proficiencies**: *Choose 2:* [Athletics](Compendium/rules/skills.md#Athletics), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), [Medicine](Compendium/rules/skills.md#Medicine), [Persuasion](Compendium/rules/skills.md#Persuasion), or [Religion](Compendium/rules/skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor), [Medium armor](Compendium/rules/item-types.md#Medium%20Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy%20Armor), and [Shields](Compendium/items/shield-xphb.md)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy Armor), and [Shields](Compendium/items/shield-xphb.md)
 
 **Starting Equipment:** *Choose A or B:* (A) [Chain Mail](Compendium/items/chain-mail-xphb.md), [Shield](Compendium/items/shield-xphb.md), [Longsword](Compendium/items/longsword-xphb.md), 6 [Javelins](Compendium/items/javelin-xphb.md), [Holy Symbol](Compendium/items/holy-symbol-xphb.md), [Priest's Pack](Compendium/items/priests-pack-xphb.md), and 9 GP; or (B) 150 GP
 
 ## Multiclassing Paladin
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor), [Medium armor](Compendium/rules/item-types.md#Medium%20Armor), [Shields](Compendium/items/shield-xphb.md)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Shields](Compendium/items/shield-xphb.md)
 
 ## Paladin
 
@@ -149,7 +149,7 @@ You gain a Paladin subclass of your choice. A subclass is a specialization that 
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
 
 ### Extra Attack (Level 5)
 
@@ -175,7 +175,7 @@ You gain a feature from your Paladin Subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Abjure Foes (Level 9)
 
@@ -191,7 +191,7 @@ Your strikes now carry supernatural power. When you hit a target with an attack 
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Restoring Touch (Level 14)
 
@@ -203,7 +203,7 @@ You gain a feature from your Paladin Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Aura Expansion (Level 18)
 
@@ -211,7 +211,7 @@ Your Aura of Protection is now a 30-foot [Emanation](Compendium/rules/variant-ru
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Truesight](Boon%20of%20Truesight.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[Boon of Truesight|Boon of Truesight]] is recommended.
 
 ### Subclass Feature (Level 20)
 

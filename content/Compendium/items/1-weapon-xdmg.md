@@ -73,33 +73,33 @@ aliases:
 You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
 **Variants**:
-- [[#+1 Antimatter%20Rifle|+1 Antimatter Rifle]]
-- [[#+1 Automatic%20Rifle|+1 Automatic Rifle]]
+- [[#+1 Antimatter Rifle|+1 Antimatter Rifle]]
+- [[#+1 Automatic Rifle|+1 Automatic Rifle]]
 - [[#+1 Battleaxe|+1 Battleaxe]]
 - [[#+1 Blowgun|+1 Blowgun]]
 - [[#+1 Club|+1 Club]]
 - [[#+1 Dagger|+1 Dagger]]
 - [[#+1 Dart|+1 Dart]]
-- [[#+1 Double-Bladed%20Scimitar|+1 Double-Bladed Scimitar]]
+- [[#+1 Double-Bladed Scimitar|+1 Double-Bladed Scimitar]]
 - [[#+1 Flail|+1 Flail]]
 - [[#+1 Glaive|+1 Glaive]]
 - [[#+1 Greataxe|+1 Greataxe]]
 - [[#+1 Greatclub|+1 Greatclub]]
 - [[#+1 Greatsword|+1 Greatsword]]
 - [[#+1 Halberd|+1 Halberd]]
-- [[#+1 Hand%20Crossbow|+1 Hand Crossbow]]
+- [[#+1 Hand Crossbow|+1 Hand Crossbow]]
 - [[#+1 Handaxe|+1 Handaxe]]
-- [[#+1 Heavy%20Crossbow|+1 Heavy Crossbow]]
-- [[#+1 Hooked%20Shortspear|+1 Hooked Shortspear]]
+- [[#+1 Heavy Crossbow|+1 Heavy Crossbow]]
+- [[#+1 Hooked Shortspear|+1 Hooked Shortspear]]
 - [[#+1 Hoopak|+1 Hoopak]]
-- [[#+1 Hunting%20Rifle|+1 Hunting Rifle]]
+- [[#+1 Hunting Rifle|+1 Hunting Rifle]]
 - [[#+1 Javelin|+1 Javelin]]
 - [[#+1 Lance|+1 Lance]]
-- [[#+1 Laser%20Pistol|+1 Laser Pistol]]
-- [[#+1 Laser%20Rifle|+1 Laser Rifle]]
-- [[#+1 Light%20Crossbow|+1 Light Crossbow]]
-- [[#+1 Light%20Hammer|+1 Light Hammer]]
-- [[#+1 Light%20Repeating%20Crossbow|+1 Light Repeating Crossbow]]
+- [[#+1 Laser Pistol|+1 Laser Pistol]]
+- [[#+1 Laser Rifle|+1 Laser Rifle]]
+- [[#+1 Light Crossbow|+1 Light Crossbow]]
+- [[#+1 Light Hammer|+1 Light Hammer]]
+- [[#+1 Light Repeating Crossbow|+1 Light Repeating Crossbow]]
 - [[#+1 Longbow|+1 Longbow]]
 - [[#+1 Longsword|+1 Longsword]]
 - [[#+1 Mace|+1 Mace]]
@@ -112,7 +112,7 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 - [[#+1 Rapier|+1 Rapier]]
 - [[#+1 Revolver|+1 Revolver]]
 - [[#+1 Scimitar|+1 Scimitar]]
-- [[#+1 Semiautomatic%20Pistol|+1 Semiautomatic Pistol]]
+- [[#+1 Semiautomatic Pistol|+1 Semiautomatic Pistol]]
 - [[#+1 Shortbow|+1 Shortbow]]
 - [[#+1 Shortsword|+1 Shortsword]]
 - [[#+1 Shotgun|+1 Shotgun]]
@@ -120,7 +120,7 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 - [[#+1 Sling|+1 Sling]]
 - [[#+1 Spear|+1 Spear]]
 - [[#+1 Trident|+1 Trident]]
-- [[#+1 War%20Pick|+1 War Pick]]
+- [[#+1 War Pick|+1 War Pick]]
 - [[#+1 Warhammer|+1 Warhammer]]
 - [[#+1 Whip|+1 Whip]]
 - [[#+1 Yklwa|+1 Yklwa]]
@@ -136,7 +136,7 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Burst Fire](Compendium/rules/item-properties.md#Burst%20Fire), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Compendium/rules/item-properties.md#Ammunition), [Burst Fire](Compendium/rules/item-properties.md#Burst Fire), [Reload](Compendium/rules/item-properties.md#Reload), [Two-Handed](Compendium/rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### +1 Battleaxe

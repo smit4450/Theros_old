@@ -6,14 +6,14 @@ cssclasses:
 ---
 # Index of Plant
 
-- [Animated Tree](./animated-tree-egw.md)
-- [Awakened Shrub](./awakened-shrub-xmm.md)
-- [Awakened Tree](./awakened-tree-xmm.md)
-- [Gulthias Blight](./gulthias-blight-xmm.md)
-- [Needle Blight](./needle-blight-xmm.md)
-- [Shambling Mound](./shambling-mound-xmm.md)
-- [Shrieker Fungus](./shrieker-fungus-xmm.md)
-- [Treant](./treant-xmm.md)
-- [Tree Blight](./tree-blight-xmm.md)
-- [Twig Blight](./twig-blight-xmm.md)
-- [Vine Blight](./vine-blight-xmm.md)
+- [[animated-tree-egw|Animated Tree]]
+- [[awakened-shrub-xmm|Awakened Shrub]]
+- [[awakened-tree-xmm|Awakened Tree]]
+- [[gulthias-blight-xmm|Gulthias Blight]]
+- [[needle-blight-xmm|Needle Blight]]
+- [[shambling-mound-xmm|Shambling Mound]]
+- [[shrieker-fungus-xmm|Shrieker Fungus]]
+- [[treant-xmm|Treant]]
+- [[tree-blight-xmm|Tree Blight]]
+- [[twig-blight-xmm|Twig Blight]]
+- [[vine-blight-xmm|Vine Blight]]

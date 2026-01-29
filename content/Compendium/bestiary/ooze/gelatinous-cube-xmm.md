@@ -78,7 +78,7 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 12 (3d6 + 2) Acid damage."
     "name": "Pseudopod"
   - "desc": "The cube moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).\
+      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).\
       \ The cube can move through the spaces of Large or smaller creatures if it has\
       \ room inside itself to contain them (see the Ooze [Cube](Compendium/rules/variant-rules/cube-area-of-effect-xphb.md)\
       \ trait). *Dexterity Saving Throw:* DC 12, each creature whose space the cube\

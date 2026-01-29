@@ -34,18 +34,18 @@ Bound into this armor is a level 2 spell. The spell is determined when the armor
 The spell's saving throw DC is 13, and its attack bonus is `+5`.
 
 **Variants**:
-- [[#Enspelled (Level%202|Enspelled (Level 2) Breastplate]]%20Breastplate)
-- [[#Enspelled (Level%202|Enspelled (Level 2) Chain Mail]]%20Chain%20Mail)
-- [[#Enspelled (Level%202|Enspelled (Level 2) Chain Shirt]]%20Chain%20Shirt)
-- [[#Enspelled (Level%202|Enspelled (Level 2) Half Plate Armor]]%20Half%20Plate%20Armor)
-- [[#Enspelled (Level%202|Enspelled (Level 2) Hide Armor]]%20Hide%20Armor)
-- [[#Enspelled (Level%202|Enspelled (Level 2) Leather Armor]]%20Leather%20Armor)
-- [[#Enspelled (Level%202|Enspelled (Level 2) Padded Armor]]%20Padded%20Armor)
-- [[#Enspelled (Level%202|Enspelled (Level 2) Plate Armor]]%20Plate%20Armor)
-- [[#Enspelled (Level%202|Enspelled (Level 2) Ring Mail]]%20Ring%20Mail)
-- [[#Enspelled (Level%202|Enspelled (Level 2) Scale Mail]]%20Scale%20Mail)
-- [[#Enspelled (Level%202|Enspelled (Level 2) Splint Armor]]%20Splint%20Armor)
-- [[#Enspelled (Level%202|Enspelled (Level 2) Studded Leather Armor]]%20Studded%20Leather%20Armor)
+- [[#Enspelled (Level 2|Enspelled (Level 2) Breastplate]] Breastplate)
+- [[#Enspelled (Level 2|Enspelled (Level 2) Chain Mail]] Chain Mail)
+- [[#Enspelled (Level 2|Enspelled (Level 2) Chain Shirt]] Chain Shirt)
+- [[#Enspelled (Level 2|Enspelled (Level 2) Half Plate Armor]] Half Plate Armor)
+- [[#Enspelled (Level 2|Enspelled (Level 2) Hide Armor]] Hide Armor)
+- [[#Enspelled (Level 2|Enspelled (Level 2) Leather Armor]] Leather Armor)
+- [[#Enspelled (Level 2|Enspelled (Level 2) Padded Armor]] Padded Armor)
+- [[#Enspelled (Level 2|Enspelled (Level 2) Plate Armor]] Plate Armor)
+- [[#Enspelled (Level 2|Enspelled (Level 2) Ring Mail]] Ring Mail)
+- [[#Enspelled (Level 2|Enspelled (Level 2) Scale Mail]] Scale Mail)
+- [[#Enspelled (Level 2|Enspelled (Level 2) Splint Armor]] Splint Armor)
+- [[#Enspelled (Level 2|Enspelled (Level 2) Studded Leather Armor]] Studded Leather Armor)
 
 ### Enspelled (Level 2) Breastplate
 

@@ -9,7 +9,7 @@ aliases:
 - Banneret
 ---
 # Phalanx Captain
-*[Fighter](./fighter-xphb.md): Fighter Subclass*  
+*[[fighter-xphb|Fighter]]: Fighter Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression
@@ -88,7 +88,7 @@ The ally makes one attack with a weapon or an [Unarmed Strike](Compendium/rules/
 
 #### Move
 
-The ally moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md) without provoking an [Opportunity Attack](Compendium/rules/actions.md#Opportunity%20Attack).
+The ally moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md) without provoking an [Opportunity Attack](Compendium/rules/actions.md#Opportunity Attack).
 
 ### Shared Resilience (Level 15)
 

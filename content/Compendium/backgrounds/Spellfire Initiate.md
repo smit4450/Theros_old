@@ -11,7 +11,7 @@ aliases: ["Spellfire Initiate"]
 ![](Compendium/backgrounds/img/spellfire-initiate.webp#right)
 
 - **Ability Scores.** Constitution, Intelligence, Charisma  
-- **Feat.** [Spellfire Spark](Spellfire%20Spark.md)  
+- **Feat.** [[Spellfire Spark|Spellfire Spark]]  
 - **Skill Proficiencies.** [Arcana](Compendium/rules/skills.md#Arcana) and [Perception](Compendium/rules/skills.md#Perception)  
 - **Tool Proficiencies.** Choose one kind of [Gaming Set](Compendium/items/gaming-set-xphb.md)  
 - **Equipment.** Choose A or B: (A) [Gaming Set](Compendium/items/gaming-set-xphb.md) (same as above), [Arcane Focus](Compendium/items/arcane-focus-xphb.md) ([Crystal](Compendium/items/crystal-xphb.md) or [Wand](Compendium/items/wand-xphb.md)), 2 [Pouches](Compendium/items/pouch-xphb.md), [Traveler's Clothes](Compendium/items/travelers-clothes-xphb.md), 36 GP; or (B) 50 GP  

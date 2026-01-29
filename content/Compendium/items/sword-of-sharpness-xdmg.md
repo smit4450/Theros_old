@@ -25,10 +25,10 @@ When you attack an object with this magic weapon and hit, maximize your weapon d
 When you attack a creature with this weapon and roll a 20 on the `d20` for the attack roll, that target takes an extra 14 Slashing damage and gains 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level.
 
 **Variants**:
-- [[#Glaive of%20Sharpness|Glaive of Sharpness]]
-- [[#Greatsword of%20Sharpness|Greatsword of Sharpness]]
-- [[#Longsword of%20Sharpness|Longsword of Sharpness]]
-- [[#Scimitar of%20Sharpness|Scimitar of Sharpness]]
+- [[#Glaive of Sharpness|Glaive of Sharpness]]
+- [[#Greatsword of Sharpness|Greatsword of Sharpness]]
+- [[#Longsword of Sharpness|Longsword of Sharpness]]
+- [[#Scimitar of Sharpness|Scimitar of Sharpness]]
 
 ### Glaive of Sharpness
 

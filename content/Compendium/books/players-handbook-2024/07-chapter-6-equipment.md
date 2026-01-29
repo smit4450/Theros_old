@@ -86,7 +86,7 @@ A Range weapon has a range in parentheses after the [Ammunition](Compendium/rule
 
 #### Reach
 
-A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack) with it.
+A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) with it.
 
 #### Thrown
 
@@ -587,7 +587,7 @@ A Hooded Lantern burns [Oil](Compendium/items/oil-xphb.md) as fuel to cast [Brig
 
 ### Lock (10 GP)
 
-A Lock comes with a key. Without the key, a creature can use [Thieves' Tools](Compendium/items/thieves-tools-xphb.md) to pick this Lock with a successful DC 15 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)) check.
+A Lock comes with a key. Without the key, a creature can use [Thieves' Tools](Compendium/items/thieves-tools-xphb.md) to pick this Lock with a successful DC 15 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check.
 
 ### Magnifying Glass (100 GP)
 
@@ -595,9 +595,9 @@ A Magnifying Glass grants [Advantage](Compendium/rules/variant-rules/advantage-x
 
 ### Manacles (2 GP)
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the [Grappled](Compendium/rules/conditions.md#Grappled), [Incapacitated](Compendium/rules/conditions.md#Incapacitated), or [Restrained](Compendium/rules/conditions.md#Restrained) condition if you succeed on a DC 13 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)) check. While bound, a creature has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls, and the creature is [Restrained](Compendium/rules/conditions.md#Restrained) if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)) check as an action. Bursting them requires a successful DC 25 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check as an action.
+As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the [Grappled](Compendium/rules/conditions.md#Grappled), [Incapacitated](Compendium/rules/conditions.md#Incapacitated), or [Restrained](Compendium/rules/conditions.md#Restrained) condition if you succeed on a DC 13 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check. While bound, a creature has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on attack rolls, and the creature is [Restrained](Compendium/rules/conditions.md#Restrained) if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check as an action. Bursting them requires a successful DC 25 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check as an action.
 
-Each set of Manacles comes with a key. Without the key, a creature can use [Thieves' Tools](Compendium/items/thieves-tools-xphb.md) to pick the Manacles' lock with a successful DC 15 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)) check.
+Each set of Manacles comes with a key. Without the key, a creature can use [Thieves' Tools](Compendium/items/thieves-tools-xphb.md) to pick the Manacles' lock with a successful DC 15 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check.
 
 ### Map (1 GP)
 
@@ -683,7 +683,7 @@ A Robe has vocational or ceremonial significance. Some events and locations admi
 
 ### Rope (1 GP)
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)) check. The Rope can be burst with a successful DC 20 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check.
+As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check. The Rope can be burst with a successful DC 20 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check.
 
 You can bind an unwilling creature with the Rope only if the creature has the [Grappled](Compendium/rules/conditions.md#Grappled), [Incapacitated](Compendium/rules/conditions.md#Incapacitated), or [Restrained](Compendium/rules/conditions.md#Restrained) condition. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check as an action.
 

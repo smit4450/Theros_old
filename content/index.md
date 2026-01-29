@@ -46,18 +46,18 @@ Welcome to the Mythic Odysseys of Theros campaign hub, using the 2024 edition of
 - [Friends and Foes](Compendium/books/mythic-odysseys-of-theros/7-friends-and-foes.md) — allies, rivals, and mythic monsters with story hooks.
 
 ### Gods of Theros
-- [Heliod](Heliod.md)
-- [Iroas](Iroas.md)
-- [Karametra](Karametra.md).
-- [Erebos](Erebos.md)
-- [Phenax](Phenax.md)
-- [Pharika](Pharika.md).
-- [Nylea](Nylea.md)
-- [Purphoros](Purphoros.md)
-- [Klothys](Klothys.md).
-- [Thassa](theros-thassa-mot.md)
-- [Athreos](Athreos.md)
-- [Kruphix](Kruphix.md).
+- [[Heliod|Heliod]]
+- [[Iroas|Iroas]]
+- [[Karametra|Karametra]].
+- [[Erebos|Erebos]]
+- [[Phenax|Phenax]]
+- [[Pharika|Pharika]].
+- [[Nylea|Nylea]]
+- [[Purphoros|Purphoros]]
+- [[Klothys|Klothys]].
+- [[theros-thassa-mot|Thassa]]
+- [[Athreos|Athreos]]
+- [[Kruphix|Kruphix]].
 
 ### Regions & Story Hooks
 - [Theros Travel Atlas](Compendium/books/mythic-odysseys-of-theros/4-realms-of-gods-and-mortals.md#polis-profiles) — Akros, Meletis, and Setessa at a glance.

@@ -53,13 +53,13 @@ aliases:
 - **Saving Throw Proficiencies**: Charisma, Wisdom
 - **Skill Proficiencies**: *Choose 2:* [Arcana](Compendium/rules/skills.md#Arcana), [Deception](Compendium/rules/skills.md#Deception), [History](Compendium/rules/skills.md#History), [Intimidation](Compendium/rules/skills.md#Intimidation), [Investigation](Compendium/rules/skills.md#Investigation), [Nature](Compendium/rules/skills.md#Nature), or [Religion](Compendium/rules/skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
 **Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Compendium/items/leather-armor-xphb.md), [Sickle](Compendium/items/sickle-xphb.md), 2 [Daggers](Compendium/items/dagger-xphb.md), [Arcane Focus](Compendium/items/arcane-focus-xphb.md) ([orb](Compendium/items/orb-xphb.md)), [Book](Compendium/items/book-xphb.md) (occult lore), [Scholar's Pack](Compendium/items/scholars-pack-xphb.md), and 15 GP; or (B) 100 GP
 
 ## Multiclassing Warlock
 
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
 ## Warlock
 
@@ -137,7 +137,7 @@ You gain a Warlock subclass of your choice. A subclass is a specialization that 
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
 ### Subclass Feature (Level 6)
 
@@ -145,7 +145,7 @@ You gain a feature from your Warlock subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Contact Patron (Level 9)
 
@@ -169,7 +169,7 @@ Whenever you gain a Warlock level, you can replace one of your arcanum spells wi
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Mystic Arcanum (Level 13)
 
@@ -185,7 +185,7 @@ You gain a level 8 Warlock Spell of your choice.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Mystic Arcanum (Level 17)
 
@@ -193,7 +193,7 @@ You gain a level 9 Warlock Spell of your choice.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Fate](Boon%20of%20Fate.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[Boon of Fate|Boon of Fate]] is recommended.
 
 ### Eldritch Master (Level 20)
 
@@ -202,5 +202,5 @@ When you use your Magical Cunning feature, you regain all your expended Pact Mag
 ## Optional Features
 
 > [!example]- Optional Features: Eldritch Invocation
-> ![Eldritch Invocation](Compendium/lists/list-optfeaturetype-ei.md#Eldritch%20Invocation)
+> ![Eldritch Invocation](Compendium/lists/list-optfeaturetype-ei.md#Eldritch Invocation)
 ^list-optfeature-ei

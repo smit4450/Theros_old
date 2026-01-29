@@ -34,18 +34,18 @@ Bound into this armor is a level 1 spell. The spell is determined when the armor
 The spell's saving throw DC is 13, and its attack bonus is `+5`.
 
 **Variants**:
-- [[#Enspelled (Level%201|Enspelled (Level 1) Breastplate]]%20Breastplate)
-- [[#Enspelled (Level%201|Enspelled (Level 1) Chain Mail]]%20Chain%20Mail)
-- [[#Enspelled (Level%201|Enspelled (Level 1) Chain Shirt]]%20Chain%20Shirt)
-- [[#Enspelled (Level%201|Enspelled (Level 1) Half Plate Armor]]%20Half%20Plate%20Armor)
-- [[#Enspelled (Level%201|Enspelled (Level 1) Hide Armor]]%20Hide%20Armor)
-- [[#Enspelled (Level%201|Enspelled (Level 1) Leather Armor]]%20Leather%20Armor)
-- [[#Enspelled (Level%201|Enspelled (Level 1) Padded Armor]]%20Padded%20Armor)
-- [[#Enspelled (Level%201|Enspelled (Level 1) Plate Armor]]%20Plate%20Armor)
-- [[#Enspelled (Level%201|Enspelled (Level 1) Ring Mail]]%20Ring%20Mail)
-- [[#Enspelled (Level%201|Enspelled (Level 1) Scale Mail]]%20Scale%20Mail)
-- [[#Enspelled (Level%201|Enspelled (Level 1) Splint Armor]]%20Splint%20Armor)
-- [[#Enspelled (Level%201|Enspelled (Level 1) Studded Leather Armor]]%20Studded%20Leather%20Armor)
+- [[#Enspelled (Level 1|Enspelled (Level 1) Breastplate]] Breastplate)
+- [[#Enspelled (Level 1|Enspelled (Level 1) Chain Mail]] Chain Mail)
+- [[#Enspelled (Level 1|Enspelled (Level 1) Chain Shirt]] Chain Shirt)
+- [[#Enspelled (Level 1|Enspelled (Level 1) Half Plate Armor]] Half Plate Armor)
+- [[#Enspelled (Level 1|Enspelled (Level 1) Hide Armor]] Hide Armor)
+- [[#Enspelled (Level 1|Enspelled (Level 1) Leather Armor]] Leather Armor)
+- [[#Enspelled (Level 1|Enspelled (Level 1) Padded Armor]] Padded Armor)
+- [[#Enspelled (Level 1|Enspelled (Level 1) Plate Armor]] Plate Armor)
+- [[#Enspelled (Level 1|Enspelled (Level 1) Ring Mail]] Ring Mail)
+- [[#Enspelled (Level 1|Enspelled (Level 1) Scale Mail]] Scale Mail)
+- [[#Enspelled (Level 1|Enspelled (Level 1) Splint Armor]] Splint Armor)
+- [[#Enspelled (Level 1|Enspelled (Level 1) Studded Leather Armor]] Studded Leather Armor)
 
 ### Enspelled (Level 1) Breastplate
 

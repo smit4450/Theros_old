@@ -14,7 +14,7 @@ aliases:
 ![](Compendium/items/img/shield-of-missile-attraction.webp#right)
 
 - **Armor Class**: 2
-- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items)
+- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items)
 - **Weight**: 6.0 lbs.
 
 While holding this Shield, you have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to damage from attacks made with Ranged weapons.

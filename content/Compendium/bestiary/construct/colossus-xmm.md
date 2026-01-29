@@ -92,7 +92,7 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
   - "desc": "The colossus makes one Radiant Ray attack."
     "name": "Smite"
   - "desc": "The colossus moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack),\
+      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack),\
       \ and it can make one Slam attack at any point during that move."
     "name": "Stomp"
 "source":

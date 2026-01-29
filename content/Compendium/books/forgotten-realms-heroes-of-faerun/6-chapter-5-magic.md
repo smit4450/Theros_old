@@ -26,7 +26,7 @@ While a spell is brought to life by manipulating threads of the Weave, the creat
 
 Spellfire is the raw energy of the Weave. The ability to refine and control it is a gift bestowed on a handful of people every generation. Spellfire can manifest as a font of silver light or healing energy, it can absorb magic, or it can be a searing blue-white jet of all-consuming radiance.
 
-The most powerful and direct form of spellfire is spellfire sorcery. But characters of any class can display a connection to spellfire by taking the [Spellfire Spark](Spellfire%20Spark.md) and [Spellfire Adept](Spellfire%20Adept.md) feats. See "chapter 1" for more on these feats and the [Spellfire Sorcery](Spellfire%20Sorcery.md) subclass.
+The most powerful and direct form of spellfire is spellfire sorcery. But characters of any class can display a connection to spellfire by taking the [[Spellfire Spark|Spellfire Spark]] and [[Spellfire Adept|Spellfire Adept]] feats. See "chapter 1" for more on these feats and the [[Spellfire Sorcery|Spellfire Sorcery]] subclass.
 
 > [!note] Weave-Affecting Magic
 > 

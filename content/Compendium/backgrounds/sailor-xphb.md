@@ -11,7 +11,7 @@ aliases: ["Sailor"]
 ![](Compendium/backgrounds/img/sailor.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Wisdom  
-- **Feat.** [Tavern Brawler](Tavern%20Brawler.md)  
+- **Feat.** [[Tavern Brawler|Tavern Brawler]]  
 - **Skill Proficiencies.** [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Perception](Compendium/rules/skills.md#Perception)  
 - **Tool Proficiency.** [Navigator's Tools](Compendium/items/navigators-tools-xphb.md)  
 - **Equipment.** Choose A or B: (A) [Dagger](Compendium/items/dagger-xphb.md), [Navigator's Tools](Compendium/items/navigators-tools-xphb.md), [Rope](Compendium/items/rope-xphb.md), [Traveler's Clothes](Compendium/items/travelers-clothes-xphb.md), 20 GP; or (B) 50 GP  

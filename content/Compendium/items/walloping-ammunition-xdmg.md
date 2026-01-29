@@ -27,10 +27,10 @@ A creature hit by this ammunition must succeed on a DC 10 Strength saving throw 
 **Variants**:
 - [[#Walloping Arrow|Walloping Arrow]]
 - [[#Walloping Bolt|Walloping Bolt]]
-- [[#Walloping Energy%20Cell|Walloping Energy Cell]]
-- [[#Walloping Firearm%20Bullet|Walloping Firearm Bullet]]
+- [[#Walloping Energy Cell|Walloping Energy Cell]]
+- [[#Walloping Firearm Bullet|Walloping Firearm Bullet]]
 - [[#Walloping Needle|Walloping Needle]]
-- [[#Walloping Sling%20Bullet|Walloping Sling Bullet]]
+- [[#Walloping Sling Bullet|Walloping Sling Bullet]]
 
 ### Walloping Arrow
 

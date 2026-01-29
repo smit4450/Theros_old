@@ -6,72 +6,72 @@ cssclasses:
 ---
 # Index of Classes
 
-- [Barbarian: Path of the Berserker](./barbarian-xphb-path-of-the-berserker-xphb.md)
-- [Barbarian: Path of the Wild Heart](./barbarian-xphb-path-of-the-wild-heart-xphb.md)
-- [Barbarian: Path of the World Tree](Path%20of%20the%20Nykthos.md)
-- [Barbarian: Path of the Zealot](./barbarian-xphb-path-of-the-zealot-xphb.md)
-- [Barbarian](./barbarian-xphb.md)
-- [Bard: College of Dance](./bard-xphb-college-of-dance-xphb.md)
-- [Bard: College of Eloquence](./bard-xphb-college-of-eloquence-tce.md)
-- [Bard: College of Glamour](College%20of%20Glamour.md)
-- [Bard: College of Lore](./bard-xphb-college-of-lore-xphb.md)
-- [Bard: College of the Moon](College%20of%20the%20Moon.md)
-- [Bard: College of Valor](./bard-xphb-college-of-valor-xphb.md)
-- [Bard](./bard-xphb.md)
-- [Cleric: Knowledge Domain](./cleric-xphb-knowledge-domain-frhof.md)
-- [Cleric: Life Domain](./cleric-xphb-life-domain-xphb.md)
-- [Cleric: Light Domain](./cleric-xphb-light-domain-xphb.md)
-- [Cleric: Trickery Domain](./cleric-xphb-trickery-domain-xphb.md)
-- [Cleric: War Domain](./cleric-xphb-war-domain-xphb.md)
-- [Cleric](./cleric-xphb.md)
-- [Druid: Circle of the Land](./druid-xphb-circle-of-the-land-xphb.md)
-- [Druid: Circle of the Moon](./druid-xphb-circle-of-the-moon-xphb.md)
-- [Druid: Circle of the Sea](./druid-xphb-circle-of-the-sea-xphb.md)
-- [Druid: Circle of the Stars](Circle%20of%20the%20Stars.md)
-- [Druid](./druid-xphb.md)
-- [Fighter: Banneret](Phalanx%20Captain.md)
-- [Fighter: Battle Master](./fighter-xphb-battle-master-xphb.md)
-- [Fighter: Champion](./fighter-xphb-champion-xphb.md)
-- [Fighter: Eldritch Knight](./fighter-xphb-eldritch-knight-xphb.md)
-- [Fighter: Psi Warrior](./fighter-xphb-psi-warrior-xphb.md)
-- [Fighter](./fighter-xphb.md)
-- [Monk: Warrior of Mercy](./monk-xphb-warrior-of-mercy-xphb.md)
-- [Monk: Warrior of Shadow](Warrior%20of%20Shadow.md)
-- [Monk: Warrior of the Elements](./monk-xphb-warrior-of-the-elements-xphb.md)
-- [Monk: Warrior of the Open Hand](./monk-xphb-warrior-of-the-open-hand-xphb.md)
-- [Monk](./monk-xphb.md)
-- [Paladin: Oath of Devotion](./paladin-xphb-oath-of-devotion-xphb.md)
-- [Paladin: Oath of Glory](./paladin-xphb-oath-of-glory-xphb.md)
-- [Paladin: Oath of the Ancients](./paladin-xphb-oath-of-the-ancients-xphb.md)
-- [Paladin: Oath of the Noble Genies](Oath%20of%20the%20Elements.md)
-- [Paladin: Oath of Vengeance](./paladin-xphb-oath-of-vengeance-xphb.md)
-- [Paladin](./paladin-xphb.md)
-- [Ranger: Beast Master](./ranger-xphb-beast-master-xphb.md)
-- [Ranger: Fey Wanderer](Fey%20Wanderer.md)
-- [Ranger: Gloom Stalker](Gloom%20Stalker.md)
-- [Ranger: Hunter](./ranger-xphb-hunter-xphb.md)
-- [Ranger: Winter Walker](Winter%20Walker.md)
-- [Ranger](./ranger-xphb.md)
-- [Rogue: Arcane Trickster](./rogue-xphb-arcane-trickster-xphb.md)
-- [Rogue: Assassin](./rogue-xphb-assassin-xphb.md)
-- [Rogue: Scion of the Three](Agent%20of%20Death.md)
-- [Rogue: Soulknife](./rogue-xphb-soulknife-xphb.md)
-- [Rogue: Thief](./rogue-xphb-thief-xphb.md)
-- [Rogue](./rogue-xphb.md)
-- [Sorcerer: Aberrant Sorcery](Aberrant%20Sorcery.md)
-- [Sorcerer: Clockwork Sorcery](Anvilwrought%20Sorcery.md)
-- [Sorcerer: Draconic Sorcery](./sorcerer-xphb-draconic-sorcery-xphb.md)
-- [Sorcerer: Spellfire Sorcery](Spellfire%20Sorcery.md)
-- [Sorcerer: Wild Magic Sorcery](Wild%20Magic%20Sorcery.md)
-- [Sorcerer](./sorcerer-xphb.md)
-- [Warlock: Archfey Patron](Archfey%20Patron.md)
-- [Warlock: Celestial Patron](Celestial%20Patron.md)
-- [Warlock: Fiend Patron](Fiend%20Patron.md)
-- [Warlock: Great Old One Patron](Great%20Old%20One%20Patron.md)
-- [Warlock](./warlock-xphb.md)
-- [Wizard: Abjurer](./wizard-xphb-abjurer-xphb.md)
-- [Wizard: Bladesinger](Bladesinger.md)
-- [Wizard: Diviner](./wizard-xphb-diviner-xphb.md)
-- [Wizard: Evoker](./wizard-xphb-evoker-xphb.md)
-- [Wizard: Illusionist](./wizard-xphb-illusionist-xphb.md)
-- [Wizard](./wizard-xphb.md)
+- [[barbarian-xphb-path-of-the-berserker-xphb|Barbarian: Path of the Berserker]]
+- [[barbarian-xphb-path-of-the-wild-heart-xphb|Barbarian: Path of the Wild Heart]]
+- [[Path of the Nykthos|Barbarian: Path of the World Tree]]
+- [[barbarian-xphb-path-of-the-zealot-xphb|Barbarian: Path of the Zealot]]
+- [[barbarian-xphb|Barbarian]]
+- [[bard-xphb-college-of-dance-xphb|Bard: College of Dance]]
+- [[bard-xphb-college-of-eloquence-tce|Bard: College of Eloquence]]
+- [[College of Glamour|Bard: College of Glamour]]
+- [[bard-xphb-college-of-lore-xphb|Bard: College of Lore]]
+- [[College of the Moon|Bard: College of the Moon]]
+- [[bard-xphb-college-of-valor-xphb|Bard: College of Valor]]
+- [[bard-xphb|Bard]]
+- [[cleric-xphb-knowledge-domain-frhof|Cleric: Knowledge Domain]]
+- [[cleric-xphb-life-domain-xphb|Cleric: Life Domain]]
+- [[cleric-xphb-light-domain-xphb|Cleric: Light Domain]]
+- [[cleric-xphb-trickery-domain-xphb|Cleric: Trickery Domain]]
+- [[cleric-xphb-war-domain-xphb|Cleric: War Domain]]
+- [[cleric-xphb|Cleric]]
+- [[druid-xphb-circle-of-the-land-xphb|Druid: Circle of the Land]]
+- [[druid-xphb-circle-of-the-moon-xphb|Druid: Circle of the Moon]]
+- [[druid-xphb-circle-of-the-sea-xphb|Druid: Circle of the Sea]]
+- [[Circle of the Stars|Druid: Circle of the Stars]]
+- [[druid-xphb|Druid]]
+- [[Phalanx Captain|Fighter: Banneret]]
+- [[fighter-xphb-battle-master-xphb|Fighter: Battle Master]]
+- [[fighter-xphb-champion-xphb|Fighter: Champion]]
+- [[fighter-xphb-eldritch-knight-xphb|Fighter: Eldritch Knight]]
+- [[fighter-xphb-psi-warrior-xphb|Fighter: Psi Warrior]]
+- [[fighter-xphb|Fighter]]
+- [[monk-xphb-warrior-of-mercy-xphb|Monk: Warrior of Mercy]]
+- [[Warrior of Shadow|Monk: Warrior of Shadow]]
+- [[monk-xphb-warrior-of-the-elements-xphb|Monk: Warrior of the Elements]]
+- [[monk-xphb-warrior-of-the-open-hand-xphb|Monk: Warrior of the Open Hand]]
+- [[monk-xphb|Monk]]
+- [[paladin-xphb-oath-of-devotion-xphb|Paladin: Oath of Devotion]]
+- [[paladin-xphb-oath-of-glory-xphb|Paladin: Oath of Glory]]
+- [[paladin-xphb-oath-of-the-ancients-xphb|Paladin: Oath of the Ancients]]
+- [[Oath of the Elements|Paladin: Oath of the Noble Genies]]
+- [[paladin-xphb-oath-of-vengeance-xphb|Paladin: Oath of Vengeance]]
+- [[paladin-xphb|Paladin]]
+- [[ranger-xphb-beast-master-xphb|Ranger: Beast Master]]
+- [[Fey Wanderer|Ranger: Fey Wanderer]]
+- [[Gloom Stalker|Ranger: Gloom Stalker]]
+- [[ranger-xphb-hunter-xphb|Ranger: Hunter]]
+- [[Winter Walker|Ranger: Winter Walker]]
+- [[ranger-xphb|Ranger]]
+- [[rogue-xphb-arcane-trickster-xphb|Rogue: Arcane Trickster]]
+- [[rogue-xphb-assassin-xphb|Rogue: Assassin]]
+- [[Agent of Death|Rogue: Scion of the Three]]
+- [[rogue-xphb-soulknife-xphb|Rogue: Soulknife]]
+- [[rogue-xphb-thief-xphb|Rogue: Thief]]
+- [[rogue-xphb|Rogue]]
+- [[Aberrant Sorcery|Sorcerer: Aberrant Sorcery]]
+- [[Anvilwrought Sorcery|Sorcerer: Clockwork Sorcery]]
+- [[sorcerer-xphb-draconic-sorcery-xphb|Sorcerer: Draconic Sorcery]]
+- [[Spellfire Sorcery|Sorcerer: Spellfire Sorcery]]
+- [[Wild Magic Sorcery|Sorcerer: Wild Magic Sorcery]]
+- [[sorcerer-xphb|Sorcerer]]
+- [[Archfey Patron|Warlock: Archfey Patron]]
+- [[Celestial Patron|Warlock: Celestial Patron]]
+- [[Fiend Patron|Warlock: Fiend Patron]]
+- [[Great Old One Patron|Warlock: Great Old One Patron]]
+- [[warlock-xphb|Warlock]]
+- [[wizard-xphb-abjurer-xphb|Wizard: Abjurer]]
+- [[Bladesinger|Wizard: Bladesinger]]
+- [[wizard-xphb-diviner-xphb|Wizard: Diviner]]
+- [[wizard-xphb-evoker-xphb|Wizard: Evoker]]
+- [[wizard-xphb-illusionist-xphb|Wizard: Illusionist]]
+- [[wizard-xphb|Wizard]]

@@ -29,13 +29,13 @@ If the armor normally imposes disadvantage on Dexterity ([Stealth](Compendium/ru
 
 **Variants**:
 - [[#Mithral Breastplate|Mithral Breastplate]]
-- [[#Mithral Chain%20Mail|Mithral Chain Mail]]
-- [[#Mithral Chain%20Shirt|Mithral Chain Shirt]]
-- [[#Mithral Half%20Plate%20Armor|Mithral Half Plate Armor]]
-- [[#Mithral Plate%20Armor|Mithral Plate Armor]]
-- [[#Mithral Ring%20Mail|Mithral Ring Mail]]
-- [[#Mithral Scale%20Mail|Mithral Scale Mail]]
-- [[#Mithral Splint%20Armor|Mithral Splint Armor]]
+- [[#Mithral Chain Mail|Mithral Chain Mail]]
+- [[#Mithral Chain Shirt|Mithral Chain Shirt]]
+- [[#Mithral Half Plate Armor|Mithral Half Plate Armor]]
+- [[#Mithral Plate Armor|Mithral Plate Armor]]
+- [[#Mithral Ring Mail|Mithral Ring Mail]]
+- [[#Mithral Scale Mail|Mithral Scale Mail]]
+- [[#Mithral Splint Armor|Mithral Splint Armor]]
 
 ### Mithral Breastplate
 

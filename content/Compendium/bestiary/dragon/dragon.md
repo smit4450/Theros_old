@@ -6,15 +6,15 @@ cssclasses:
 ---
 # Index of Dragon
 
-- [Adult Blue Dragon](./adult-blue-dragon-xmm.md)
-- [Adult Red Dragon](./adult-red-dragon-xmm.md)
-- [Ancient Blue Dragon](./ancient-blue-dragon-xmm.md)
-- [Ancient Red Dragon](./ancient-red-dragon-xmm.md)
-- [Blue Dragon Wyrmling](./blue-dragon-wyrmling-xmm.md)
-- [Draconic Spirit](./draconic-spirit-xphb.md)
-- [Dragon Turtle](./dragon-turtle-xmm.md)
-- [Pseudodragon](./pseudodragon-xmm.md)
-- [Red Dragon Wyrmling](./red-dragon-wyrmling-xmm.md)
-- [Wyvern](./wyvern-xmm.md)
-- [Young Blue Dragon](./young-blue-dragon-xmm.md)
-- [Young Red Dragon](./young-red-dragon-xmm.md)
+- [[adult-blue-dragon-xmm|Adult Blue Dragon]]
+- [[adult-red-dragon-xmm|Adult Red Dragon]]
+- [[ancient-blue-dragon-xmm|Ancient Blue Dragon]]
+- [[ancient-red-dragon-xmm|Ancient Red Dragon]]
+- [[blue-dragon-wyrmling-xmm|Blue Dragon Wyrmling]]
+- [[draconic-spirit-xphb|Draconic Spirit]]
+- [[dragon-turtle-xmm|Dragon Turtle]]
+- [[pseudodragon-xmm|Pseudodragon]]
+- [[red-dragon-wyrmling-xmm|Red Dragon Wyrmling]]
+- [[wyvern-xmm|Wyvern]]
+- [[young-blue-dragon-xmm|Young Blue Dragon]]
+- [[young-red-dragon-xmm|Young Red Dragon]]

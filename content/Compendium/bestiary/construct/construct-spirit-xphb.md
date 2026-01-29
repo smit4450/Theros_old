@@ -42,7 +42,7 @@ aliases: ["Construct Spirit"]
   - "desc": "When a creature starts its turn within 10 feet of the spirit, the spirit\
       \ can target it with magical energy if the spirit can see it. *Wisdom Saving\
       \ Throw:* DC equals your spell save DC, the target. *Failure:* Until the start\
-      \ of its next turn, the target can't make [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack),\
+      \ of its next turn, the target can't make [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack),\
       \ and its Speed is halved."
     "name": "Stony Lethargy (Stone Only)"
 "actions":
@@ -55,7 +55,7 @@ aliases: ["Construct Spirit"]
 "reactions":
   - "desc": "Trigger: The spirit takes damage from a creature. _Response:_ The spirit\
       \ makes a Slam attack against that creature if possible, or the spirit moves\
-      \ up to half its Speed toward that creature without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)."
+      \ up to half its Speed toward that creature without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack)."
     "name": "Berserk Lashing (Clay Only)"
 "source":
   - "XPHB"

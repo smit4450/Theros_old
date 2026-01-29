@@ -9,7 +9,7 @@ aliases:
 - Path of the World Tree
 ---
 # Path of the Nykthos
-*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
+*[[barbarian-xphb|Barbarian]]: Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 56*  
 
 > [!tldr] Class and Feature Progression

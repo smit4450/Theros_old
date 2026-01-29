@@ -9,7 +9,7 @@ aliases:
 - Oath of the Noble Genies
 ---
 # Oath of the Elements
-*[Paladin](./paladin-xphb.md): Paladin Subclass*  
+*[[paladin-xphb|Paladin]]: Paladin Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression
@@ -60,7 +60,7 @@ Paladins who swear this oath often undertake quests that take them all over the 
 
 ### Elemental Smite (Level 3)
 
-Immediately after you cast [Divine Smite](Compendium/spells/divine-smite-xphb.md), you can expend one use of your [Channel Divinity](Compendium/classes/paladin-xphb.md#Channel%20Divinity%20(Level%203)) and invoke one of the following effects.
+Immediately after you cast [Divine Smite](Compendium/spells/divine-smite-xphb.md), you can expend one use of your [Channel Divinity](Compendium/classes/paladin-xphb.md#Channel Divinity (Level 3)) and invoke one of the following effects.
 
 ### Earth Crush (Level 3)
 
@@ -121,4 +121,4 @@ You have a [Fly Speed](Compendium/rules/variant-rules/fly-speed-xphb.md) of 60 f
 #### Minor Wish
 _Source: FRHoF_
 
-When you or an ally in your [Aura of Protection](Compendium/classes/paladin-xphb.md#Aura%20of%20Protection%20(Level%206)) fails a [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md), you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to make the [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) succeed instead.
+When you or an ally in your [Aura of Protection](Compendium/classes/paladin-xphb.md#Aura of Protection (Level 6)) fails a [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md), you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to make the [D20 Test](Compendium/rules/variant-rules/d20-test-xphb.md) succeed instead.

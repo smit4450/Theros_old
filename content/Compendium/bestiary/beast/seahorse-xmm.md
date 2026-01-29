@@ -50,7 +50,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Water Breathing"
 "actions":
   - "desc": "While underwater, the seahorse moves up to its [Swim Speed](Compendium/rules/variant-rules/swim-speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)."
+      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack)."
     "name": "Bubble Dash"
 "source":
   - "XMM"

@@ -19,7 +19,7 @@ The trap doesn't trigger if the lock is opened using a [Knock](Compendium/spells
 
 ## Detect and Disarm
 
-As a [Search](Compendium/rules/actions.md#Search) action, a creature can examine the trapped lock and make a DC 15 Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check, detecting the needle on a successful check. Once the trap is detected, a character can take an action to try to disarm the trap, doing so with a successful DC 15 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)) check. On a failed check, the creature triggers the trap.
+As a [Search](Compendium/rules/actions.md#Search) action, a creature can examine the trapped lock and make a DC 15 Wisdom ([Perception](Compendium/rules/skills.md#Perception)) check, detecting the needle on a successful check. Once the trap is detected, a character can take an action to try to disarm the trap, doing so with a successful DC 15 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check. On a failed check, the creature triggers the trap.
 
 ## At Higher Levels
 

@@ -51,9 +51,9 @@ aliases:
 ## Starting Barbarian
 
 - **Saving Throw Proficiencies**: Constitution, Strength
-- **Skill Proficiencies**: *Choose 2:* [Animal Handling](Compendium/rules/skills.md#Animal%20Handling), [Athletics](Compendium/rules/skills.md#Athletics), [Intimidation](Compendium/rules/skills.md#Intimidation), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), or [Survival](Compendium/rules/skills.md#Survival)
+- **Skill Proficiencies**: *Choose 2:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Compendium/rules/skills.md#Athletics), [Intimidation](Compendium/rules/skills.md#Intimidation), [Nature](Compendium/rules/skills.md#Nature), [Perception](Compendium/rules/skills.md#Perception), or [Survival](Compendium/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor), [Medium armor](Compendium/rules/item-types.md#Medium%20Armor), and [Shields](Compendium/items/shield-xphb.md)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [Shields](Compendium/items/shield-xphb.md)
 
 **Starting Equipment:** *Choose A or B:* (A) [Greataxe](Compendium/items/greataxe-xphb.md), 4 [Handaxes](Compendium/items/handaxe-xphb.md), [Explorer's Pack](Compendium/items/explorers-pack-xphb.md), and 15 GP; or (B) 75 GP
 
@@ -136,7 +136,7 @@ In addition, while your Rage is active, you can channel primal power when you at
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 
 ### Extra Attack (Level 5)
 
@@ -160,7 +160,7 @@ As part of the [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.m
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Brutal Strike (Level 9)
 
@@ -168,7 +168,7 @@ If you use Reckless Attack, you can forgo any [Advantage](Compendium/rules/varia
 
 #### Forceful Blow
 
-The target is pushed 15 feet straight away from you. You can then move up to half your [Speed](Compendium/rules/variant-rules/speed-xphb.md) straight toward the target without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).
+The target is pushed 15 feet straight away from you. You can then move up to half your [Speed](Compendium/rules/variant-rules/speed-xphb.md) straight toward the target without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
 #### Hamstring Blow
 
@@ -186,7 +186,7 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Improved Brutal Strike (Level 13)
 
@@ -194,7 +194,7 @@ You have honed new ways to attack furiously. The following effects are now among
 
 #### Staggering Blow
 
-The target has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on the next saving throw it makes, and it can't make [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack) until the start of your next turn.
+The target has [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) on the next saving throw it makes, and it can't make [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) until the start of your next turn.
 
 #### Sundering Blow
 
@@ -212,7 +212,7 @@ In addition, your Rage is so fierce that it now lasts for 10 minutes without you
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Improved Brutal Strike (Level 17)
 
@@ -224,7 +224,7 @@ If your total for a Strength check or Strength saving throw is less than your St
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Irresistible Offense](Boon%20of%20Irresistible%20Offense.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[Boon of Irresistible Offense|Boon of Irresistible Offense]] is recommended.
 
 ### Primal Champion (Level 20)
 

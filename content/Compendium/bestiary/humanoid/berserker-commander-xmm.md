@@ -74,9 +74,9 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
 "bonus_actions":
   - "desc": "Each ally within 30 feet of the berserker can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md)\
       \ to move up to half the ally's [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).\
+      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).\
       \ The berserker can also move up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)."
+      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack)."
     "name": "Frenzied Rush"
 "source":
   - "XMM"

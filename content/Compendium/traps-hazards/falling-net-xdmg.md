@@ -25,7 +25,7 @@ Reducing the Net to 0 Hit Points frees any creature trapped in it (see the "Play
 
 ## Set the Trap
 
-A creature that has [Thieves' Tools](Compendium/items/thieves-tools-xphb.md) and all the trap's components (including a Net) can try to set a falling net trap, doing so with a successful DC 13 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)) check. Each attempt to set this trap takes 10 minutes.
+A creature that has [Thieves' Tools](Compendium/items/thieves-tools-xphb.md) and all the trap's components (including a Net) can try to set a falling net trap, doing so with a successful DC 13 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check. Each attempt to set this trap takes 10 minutes.
 
 ## At Higher Levels
 

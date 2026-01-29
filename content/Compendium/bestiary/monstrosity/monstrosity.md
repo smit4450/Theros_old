@@ -6,37 +6,37 @@ cssclasses:
 ---
 # Index of Monstrosity
 
-- [Amphisbaena](./amphisbaena-gos.md)
-- [Aphemia](./aphemia-mot.md)
-- [Basilisk](./basilisk-xmm.md)
-- [Blood-Toll Harpy](./blood-toll-harpy-mot.md)
-- [Broken King Antigonos](./broken-king-antigonos-mot.md)
-- [Catoblepas](./catoblepas-vgm.md)
-- [Chimera](./chimera-xmm.md)
-- [Cockatrice Regent](./cockatrice-regent-xmm.md)
-- [Cockatrice](./cockatrice-xmm.md)
-- [Death Dog](./death-dog-xmm.md)
-- [Fleecemane Lion](./fleecemane-lion-mot.md)
-- [Flying Snake](./flying-snake-xmm.md)
-- [Giant Vulture](./giant-vulture-xmm.md)
-- [Griffon](./griffon-xmm.md)
-- [Harpy](./harpy-xmm.md)
-- [Hippocamp](./hippocamp-mot.md)
-- [Hippogriff](./hippogriff-xmm.md)
-- [Hydra](./hydra-xmm.md)
-- [Ironscale Hydra](./ironscale-hydra-mot.md)
-- [Kraken](./kraken-xmm.md)
-- [Leucrotta](./leucrotta-vgm.md)
-- [Manticore](./manticore-xmm.md)
-- [Medusa](./medusa-mot.md)
-- [Medusa](./medusa-xmm.md)
-- [Mimic](./mimic-xmm.md)
-- [Minotaur of Baphomet](./minotaur-of-baphomet-xmm.md)
-- [Nyx-Fleece Ram](./nyx-fleece-ram-mot.md)
-- [Phase Spider](./phase-spider-xmm.md)
-- [Roc](./roc-xmm.md)
-- [Tarrasque](./tarrasque-xmm.md)
-- [Theran Chimera](./theran-chimera-mot.md)
-- [Two-Headed Cerberus](./two-headed-cerberus-mot.md)
-- [Typhon](./typhon-mot.md)
-- [Underworld Cerberus](./underworld-cerberus-mot.md)
+- [[amphisbaena-gos|Amphisbaena]]
+- [[aphemia-mot|Aphemia]]
+- [[basilisk-xmm|Basilisk]]
+- [[blood-toll-harpy-mot|Blood-Toll Harpy]]
+- [[broken-king-antigonos-mot|Broken King Antigonos]]
+- [[catoblepas-vgm|Catoblepas]]
+- [[chimera-xmm|Chimera]]
+- [[cockatrice-regent-xmm|Cockatrice Regent]]
+- [[cockatrice-xmm|Cockatrice]]
+- [[death-dog-xmm|Death Dog]]
+- [[fleecemane-lion-mot|Fleecemane Lion]]
+- [[flying-snake-xmm|Flying Snake]]
+- [[giant-vulture-xmm|Giant Vulture]]
+- [[griffon-xmm|Griffon]]
+- [[harpy-xmm|Harpy]]
+- [[hippocamp-mot|Hippocamp]]
+- [[hippogriff-xmm|Hippogriff]]
+- [[hydra-xmm|Hydra]]
+- [[ironscale-hydra-mot|Ironscale Hydra]]
+- [[kraken-xmm|Kraken]]
+- [[leucrotta-vgm|Leucrotta]]
+- [[manticore-xmm|Manticore]]
+- [[medusa-mot|Medusa]]
+- [[medusa-xmm|Medusa]]
+- [[mimic-xmm|Mimic]]
+- [[minotaur-of-baphomet-xmm|Minotaur of Baphomet]]
+- [[nyx-fleece-ram-mot|Nyx-Fleece Ram]]
+- [[phase-spider-xmm|Phase Spider]]
+- [[roc-xmm|Roc]]
+- [[tarrasque-xmm|Tarrasque]]
+- [[theran-chimera-mot|Theran Chimera]]
+- [[two-headed-cerberus-mot|Two-Headed Cerberus]]
+- [[typhon-mot|Typhon]]
+- [[underworld-cerberus-mot|Underworld Cerberus]]

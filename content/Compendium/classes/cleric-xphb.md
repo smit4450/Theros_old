@@ -53,13 +53,13 @@ aliases:
 - **Saving Throw Proficiencies**: Charisma, Wisdom
 - **Skill Proficiencies**: *Choose 2:* [History](Compendium/rules/skills.md#History), [Insight](Compendium/rules/skills.md#Insight), [Medicine](Compendium/rules/skills.md#Medicine), [Persuasion](Compendium/rules/skills.md#Persuasion), or [Religion](Compendium/rules/skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor), [Medium armor](Compendium/rules/item-types.md#Medium%20Armor), and [Shields](Compendium/items/shield-xphb.md)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [Shields](Compendium/items/shield-xphb.md)
 
 **Starting Equipment:** *Choose A or B:* (A) [Chain Shirt](Compendium/items/chain-shirt-xphb.md), [Shield](Compendium/items/shield-xphb.md), [Mace](Compendium/items/mace-xphb.md), [Holy Symbol](Compendium/items/holy-symbol-xphb.md), [Priest's Pack](Compendium/items/priests-pack-xphb.md), 7 GP; or (B) 110 GP
 
 ## Multiclassing Cleric
 
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor), [Medium armor](Compendium/rules/item-types.md#Medium%20Armor), [Shields](Compendium/items/shield-xphb.md)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Shields](Compendium/items/shield-xphb.md)
 
 ## Cleric
 
@@ -143,7 +143,7 @@ You gain a Cleric subclass of your choice. A subclass is a specialization that g
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
 
 ### Sear Undead (Level 5)
 
@@ -167,7 +167,7 @@ Add your Wisdom modifier to the damage you deal with any Cleric cantrip.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Divine Intervention (Level 10)
 
@@ -175,7 +175,7 @@ You can call on your deity or pantheon to intervene on your behalf. As a [Magic]
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Improved Blessed Strikes (Level 14)
 
@@ -191,7 +191,7 @@ When you cast a Cleric cantrip and deal damage to a creature with it, you can gi
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 17)
 
@@ -199,7 +199,7 @@ You gain a feature from your Cleric Subclass.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Fate](Boon%20of%20Fate.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[Boon of Fate|Boon of Fate]] is recommended.
 
 ### Greater Divine Intervention (Level 20)
 

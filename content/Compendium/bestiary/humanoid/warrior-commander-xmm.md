@@ -90,7 +90,7 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
       \ on its next attack roll before the start of the warrior's next turn.  \n-\
       \ **Maneuver.** One ally who can see or hear the warrior can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md)\
       \ to move up to half the ally's [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).\
+      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).\
       \  "
     "name": "Greatsword"
   - "desc": "*Ranged Attack Roll:* +9, range 150/600 ft. *Hit:* 18 (3d8 + 5) Piercing\
@@ -99,7 +99,7 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
     "name": "Longbow"
 "bonus_actions":
   - "desc": "The warrior moves up to half its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ straight toward an enemy it can see without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)."
+      \ straight toward an enemy it can see without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack)."
     "name": "Tactical Charge"
 "reactions":
   - "desc": "Trigger: The warrior is hit by an attack roll. _Response:_ The warrior\

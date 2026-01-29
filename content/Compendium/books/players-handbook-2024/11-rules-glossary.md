@@ -341,7 +341,7 @@ Here are definitions of various rules.
 > ![Occupied Space](Compendium/rules/variant-rules/occupied-space-xphb.md)
 
 > [!embed-action]- Opportunity Attack
-> ![Opportunity Attack](Compendium/rules/actions.md#Opportunity%20Attack)
+> ![Opportunity Attack](Compendium/rules/actions.md#Opportunity Attack)
 
 > [!embed-condition]- Paralyzed
 > ![Paralyzed](Compendium/rules/conditions.md#Paralyzed)

@@ -11,7 +11,7 @@ aliases: ["Dead Magic Dweller"]
 ![](Compendium/backgrounds/img/dead-magic-dweller.webp#right)
 
 - **Ability Scores.** Strength, Constitution, Wisdom  
-- **Feat.** [Healer](Healer.md)  
+- **Feat.** [[Healer|Healer]]  
 - **Skill Proficiencies.** [Medicine](Compendium/rules/skills.md#Medicine) and [Survival](Compendium/rules/skills.md#Survival)  
 - **Tool Proficiencies.** [Leatherworker's Tools](Compendium/items/leatherworkers-tools-xphb.md)  
 - **Equipment.** Choose A or B: (A) [Greatclub](Compendium/items/greatclub-xphb.md), [Leatherworker's Tools](Compendium/items/leatherworkers-tools-xphb.md), [Bedroll](Compendium/items/bedroll-xphb.md), [Blanket](Compendium/items/blanket-xphb.md), [Healer's Kit](Compendium/items/healers-kit-xphb.md), [Pole](Compendium/items/pole-xphb.md), [Rations](Compendium/items/rations-xphb.md) (3 days' worth), [Tent](Compendium/items/tent-xphb.md), [Tinderbox](Compendium/items/tinderbox-xphb.md), 5 [Torches](Compendium/items/torch-xphb.md), [Traveler's Clothes](Compendium/items/travelers-clothes-xphb.md), [Waterskin](Compendium/items/waterskin-xphb.md), 32 GP; or (B) 50 GP  

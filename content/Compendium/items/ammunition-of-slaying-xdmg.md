@@ -45,12 +45,12 @@ After dealing its extra damage to a creature, the ammunition becomes nonmagical.
 ^1-creature-type
 
 **Variants**:
-- [[#Arrow of%20Slaying|Arrow of Slaying]]
-- [[#Bolt of%20Slaying|Bolt of Slaying]]
-- [[#Energy Cell%20of%20Slaying|Energy Cell of Slaying]]
-- [[#Firearm Bullet%20of%20Slaying|Firearm Bullet of Slaying]]
-- [[#Needle of%20Slaying|Needle of Slaying]]
-- [[#Sling Bullet%20of%20Slaying|Sling Bullet of Slaying]]
+- [[#Arrow of Slaying|Arrow of Slaying]]
+- [[#Bolt of Slaying|Bolt of Slaying]]
+- [[#Energy Cell of Slaying|Energy Cell of Slaying]]
+- [[#Firearm Bullet of Slaying|Firearm Bullet of Slaying]]
+- [[#Needle of Slaying|Needle of Slaying]]
+- [[#Sling Bullet of Slaying|Sling Bullet of Slaying]]
 
 ### Arrow of Slaying
 

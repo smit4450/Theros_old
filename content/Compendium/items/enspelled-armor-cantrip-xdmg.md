@@ -34,18 +34,18 @@ Bound into this armor is a cantrip. The cantrip is determined when the armor is 
 The spell's saving throw DC is 13, and its attack bonus is `+5`.
 
 **Variants**:
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Breastplate]]%20Breastplate)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Chain Mail]]%20Chain%20Mail)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Chain Shirt]]%20Chain%20Shirt)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Half Plate Armor]]%20Half%20Plate%20Armor)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Hide Armor]]%20Hide%20Armor)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Leather Armor]]%20Leather%20Armor)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Padded Armor]]%20Padded%20Armor)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Plate Armor]]%20Plate%20Armor)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Ring Mail]]%20Ring%20Mail)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Scale Mail]]%20Scale%20Mail)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Splint Armor]]%20Splint%20Armor)
-- [[#Enspelled (Cantrip|Enspelled (Cantrip) Studded Leather Armor]]%20Studded%20Leather%20Armor)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Breastplate]] Breastplate)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Chain Mail]] Chain Mail)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Chain Shirt]] Chain Shirt)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Half Plate Armor]] Half Plate Armor)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Hide Armor]] Hide Armor)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Leather Armor]] Leather Armor)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Padded Armor]] Padded Armor)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Plate Armor]] Plate Armor)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Ring Mail]] Ring Mail)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Scale Mail]] Scale Mail)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Splint Armor]] Splint Armor)
+- [[#Enspelled (Cantrip|Enspelled (Cantrip) Studded Leather Armor]] Studded Leather Armor)
 
 ### Enspelled (Cantrip) Breastplate
 

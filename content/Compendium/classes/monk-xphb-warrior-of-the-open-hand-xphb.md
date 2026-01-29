@@ -9,7 +9,7 @@ aliases:
 - Warrior of the Open Hand
 ---
 # Warrior of the Open Hand
-*[Monk](./monk-xphb.md): Monk Subclass*  
+*[[monk-xphb|Monk]]: Monk Subclass*  
 *Source: Player's Handbook (2024) p. 107. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -58,7 +58,7 @@ Whenever you hit a creature with an attack granted by your Flurry of Blows, you 
 
 #### Addle
 
-The target can't make [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack) until the start of its next turn.
+The target can't make [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) until the start of its next turn.
 
 #### Push
 

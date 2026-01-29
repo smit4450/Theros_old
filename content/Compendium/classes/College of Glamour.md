@@ -9,7 +9,7 @@ aliases:
 - College of Glamour
 ---
 # College of Glamour
-*[Bard](./bard-xphb.md): Bard Subclass*  
+*[[bard-xphb|Bard]]: Bard Subclass*  
 *Source: Player's Handbook (2024) p. 65*  
 
 > [!tldr] Class and Feature Progression
@@ -62,7 +62,7 @@ Once you use this benefit, you can't use it again until you finish a [Long Rest]
 
 ### Mantle of Inspiration (Level 3)
 
-You can weave fey magic into a song or dance to fill others with vigor. As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can expend a use of Bardic Inspiration, rolling a Bardic Inspiration die. When you do so, choose a number of other creatures within 60 feet of yourself, up to a number equal to your Charisma modifier (minimum of one creature). Each of those creatures gains a number of [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to two times the number rolled on the Bardic Inspiration die, and then each can use its [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to move up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).
+You can weave fey magic into a song or dance to fill others with vigor. As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you can expend a use of Bardic Inspiration, rolling a Bardic Inspiration die. When you do so, choose a number of other creatures within 60 feet of yourself, up to a number equal to your Charisma modifier (minimum of one creature). Each of those creatures gains a number of [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) equal to two times the number rolled on the Bardic Inspiration die, and then each can use its [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) to move up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
 ### Mantle of Majesty (Level 6)
 

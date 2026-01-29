@@ -21,4 +21,4 @@ You gain the following benefits.
 
 **Dash over Difficult Terrain.** When you take the [Dash](Compendium/rules/actions.md#Dash) action on your turn, [Difficult Terrain](Compendium/rules/variant-rules/difficult-terrain-xphb.md) doesn't cost you extra movement for the rest of that turn.
 
-**Agile Movement.** [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack) have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) against you.
+**Agile Movement.** [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) against you.

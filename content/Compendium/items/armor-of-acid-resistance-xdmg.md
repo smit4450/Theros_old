@@ -32,18 +32,18 @@ aliases:
 You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to acid damage while you wear this armor.
 
 **Variants**:
-- [[#Breastplate of%20Acid%20Resistance|Breastplate of Acid Resistance]]
-- [[#Chain Mail%20of%20Acid%20Resistance|Chain Mail of Acid Resistance]]
-- [[#Chain Shirt%20of%20Acid%20Resistance|Chain Shirt of Acid Resistance]]
-- [[#Half Plate%20Armor%20of%20Acid%20Resistance|Half Plate Armor of Acid Resistance]]
-- [[#Hide Armor%20of%20Acid%20Resistance|Hide Armor of Acid Resistance]]
-- [[#Leather Armor%20of%20Acid%20Resistance|Leather Armor of Acid Resistance]]
-- [[#Padded Armor%20of%20Acid%20Resistance|Padded Armor of Acid Resistance]]
-- [[#Plate Armor%20of%20Acid%20Resistance|Plate Armor of Acid Resistance]]
-- [[#Ring Mail%20of%20Acid%20Resistance|Ring Mail of Acid Resistance]]
-- [[#Scale Mail%20of%20Acid%20Resistance|Scale Mail of Acid Resistance]]
-- [[#Splint Armor%20of%20Acid%20Resistance|Splint Armor of Acid Resistance]]
-- [[#Studded Leather%20Armor%20of%20Acid%20Resistance|Studded Leather Armor of Acid Resistance]]
+- [[#Breastplate of Acid Resistance|Breastplate of Acid Resistance]]
+- [[#Chain Mail of Acid Resistance|Chain Mail of Acid Resistance]]
+- [[#Chain Shirt of Acid Resistance|Chain Shirt of Acid Resistance]]
+- [[#Half Plate Armor of Acid Resistance|Half Plate Armor of Acid Resistance]]
+- [[#Hide Armor of Acid Resistance|Hide Armor of Acid Resistance]]
+- [[#Leather Armor of Acid Resistance|Leather Armor of Acid Resistance]]
+- [[#Padded Armor of Acid Resistance|Padded Armor of Acid Resistance]]
+- [[#Plate Armor of Acid Resistance|Plate Armor of Acid Resistance]]
+- [[#Ring Mail of Acid Resistance|Ring Mail of Acid Resistance]]
+- [[#Scale Mail of Acid Resistance|Scale Mail of Acid Resistance]]
+- [[#Splint Armor of Acid Resistance|Splint Armor of Acid Resistance]]
+- [[#Studded Leather Armor of Acid Resistance|Studded Leather Armor of Acid Resistance]]
 
 ### Breastplate of Acid Resistance
 

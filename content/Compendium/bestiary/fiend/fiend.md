@@ -6,17 +6,17 @@ cssclasses:
 ---
 # Index of Fiend
 
-- [Abhorrent Overlord](./abhorrent-overlord-mot.md)
-- [Eater of Hope](./eater-of-hope-mot.md)
-- [Fiendish Spirit (Demon)](./fiendish-spirit-demon-xphb.md)
-- [Fiendish Spirit (Devil)](./fiendish-spirit-devil-xphb.md)
-- [Fiendish Spirit](./fiendish-spirit-xphb.md)
-- [Fiendish Spirit (Yugoloth)](./fiendish-spirit-yugoloth-xphb.md)
-- [Hell Hound](./hell-hound-xmm.md)
-- [Lamia](./lamia-xmm.md)
-- [Night Hag](./night-hag-xmm.md)
-- [Nightmare Shepherd](./nightmare-shepherd-mot.md)
-- [Nightmare](./nightmare-xmm.md)
-- [Otherworldly Steed (Fiend)](./otherworldly-steed-fiend-xphb.md)
-- [Shadow Demon](./shadow-demon-xmm.md)
-- [Spirit Naga](./spirit-naga-xmm.md)
+- [[abhorrent-overlord-mot|Abhorrent Overlord]]
+- [[eater-of-hope-mot|Eater of Hope]]
+- [[fiendish-spirit-demon-xphb|Fiendish Spirit (Demon)]]
+- [[fiendish-spirit-devil-xphb|Fiendish Spirit (Devil)]]
+- [[fiendish-spirit-xphb|Fiendish Spirit]]
+- [[fiendish-spirit-yugoloth-xphb|Fiendish Spirit (Yugoloth)]]
+- [[hell-hound-xmm|Hell Hound]]
+- [[lamia-xmm|Lamia]]
+- [[night-hag-xmm|Night Hag]]
+- [[nightmare-shepherd-mot|Nightmare Shepherd]]
+- [[nightmare-xmm|Nightmare]]
+- [[otherworldly-steed-fiend-xphb|Otherworldly Steed (Fiend)]]
+- [[shadow-demon-xmm|Shadow Demon]]
+- [[spirit-naga-xmm|Spirit Naga]]

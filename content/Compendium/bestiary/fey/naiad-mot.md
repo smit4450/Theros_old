@@ -53,7 +53,7 @@ A nymph doesn't require food, drink, or sleep.
 "skillsaves":
   - "name": "[Persuasion](Compendium/rules/skills.md#Persuasion)"
     "desc": "+6"
-  - "name": "[Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)"
     "desc": "+5"
 "damage_resistances": "psychic"
 "damage_immunities": "poison"

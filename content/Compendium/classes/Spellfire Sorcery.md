@@ -9,7 +9,7 @@ aliases:
 - Spellfire Sorcery
 ---
 # Spellfire Sorcery
-*[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
+*[[sorcerer-xphb|Sorcerer]]: Sorcerer Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression
@@ -86,11 +86,11 @@ Additionally, whenever a target fails the saving throw against a [Counterspell](
 
 ### Honed Spellfire (Level 14)
 
-Your [Spellfire Burst](Spellfire%20Sorcery.md#Spellfire%20Burst%20(Level%203)) improves. You add your [Sorcerer](Compendium/classes/sorcerer-xphb.md) level to the [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) gained from [Bolstering Flames](Spellfire%20Sorcery.md#Bolstering%20Flames%20(Level%203)), and the damage of [Radiant Fire](Spellfire%20Sorcery.md#Radiant%20Fire%20(Level%203)) increases to `1d8`.
+Your [Spellfire Burst](Spellfire Sorcery.md#Spellfire Burst (Level 3)) improves. You add your [Sorcerer](Compendium/classes/sorcerer-xphb.md) level to the [Temporary Hit Points](Compendium/rules/variant-rules/temporary-hit-points-xphb.md) gained from [Bolstering Flames](Spellfire Sorcery.md#Bolstering Flames (Level 3)), and the damage of [Radiant Fire](Spellfire Sorcery.md#Radiant Fire (Level 3)) increases to `1d8`.
 
 ### Crown of Spellfire (Level 18)
 
-When you use [Innate Sorcery](Compendium/classes/sorcerer-xphb.md#Innate%20Sorcery%20(Level%201)), you can alter it and infuse yourself with the essence of spellfire, gaining the following benefits while this use of Innate Sorcery is active. Once you use this feature to alter Innate Sorcery, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you spend 5 Sorcery Points (no action required) to restore your use of it.
+When you use [Innate Sorcery](Compendium/classes/sorcerer-xphb.md#Innate Sorcery (Level 1)), you can alter it and infuse yourself with the essence of spellfire, gaining the following benefits while this use of Innate Sorcery is active. Once you use this feature to alter Innate Sorcery, you can't use it again until you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.md) unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
 #### Burning Life Force
 _Source: FRHoF_

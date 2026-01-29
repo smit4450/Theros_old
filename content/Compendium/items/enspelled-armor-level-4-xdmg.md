@@ -34,18 +34,18 @@ Bound into this armor is a level 4 spell. The spell is determined when the armor
 The spell's saving throw DC is 15, and its attack bonus is `+7`.
 
 **Variants**:
-- [[#Enspelled (Level%204|Enspelled (Level 4) Breastplate]]%20Breastplate)
-- [[#Enspelled (Level%204|Enspelled (Level 4) Chain Mail]]%20Chain%20Mail)
-- [[#Enspelled (Level%204|Enspelled (Level 4) Chain Shirt]]%20Chain%20Shirt)
-- [[#Enspelled (Level%204|Enspelled (Level 4) Half Plate Armor]]%20Half%20Plate%20Armor)
-- [[#Enspelled (Level%204|Enspelled (Level 4) Hide Armor]]%20Hide%20Armor)
-- [[#Enspelled (Level%204|Enspelled (Level 4) Leather Armor]]%20Leather%20Armor)
-- [[#Enspelled (Level%204|Enspelled (Level 4) Padded Armor]]%20Padded%20Armor)
-- [[#Enspelled (Level%204|Enspelled (Level 4) Plate Armor]]%20Plate%20Armor)
-- [[#Enspelled (Level%204|Enspelled (Level 4) Ring Mail]]%20Ring%20Mail)
-- [[#Enspelled (Level%204|Enspelled (Level 4) Scale Mail]]%20Scale%20Mail)
-- [[#Enspelled (Level%204|Enspelled (Level 4) Splint Armor]]%20Splint%20Armor)
-- [[#Enspelled (Level%204|Enspelled (Level 4) Studded Leather Armor]]%20Studded%20Leather%20Armor)
+- [[#Enspelled (Level 4|Enspelled (Level 4) Breastplate]] Breastplate)
+- [[#Enspelled (Level 4|Enspelled (Level 4) Chain Mail]] Chain Mail)
+- [[#Enspelled (Level 4|Enspelled (Level 4) Chain Shirt]] Chain Shirt)
+- [[#Enspelled (Level 4|Enspelled (Level 4) Half Plate Armor]] Half Plate Armor)
+- [[#Enspelled (Level 4|Enspelled (Level 4) Hide Armor]] Hide Armor)
+- [[#Enspelled (Level 4|Enspelled (Level 4) Leather Armor]] Leather Armor)
+- [[#Enspelled (Level 4|Enspelled (Level 4) Padded Armor]] Padded Armor)
+- [[#Enspelled (Level 4|Enspelled (Level 4) Plate Armor]] Plate Armor)
+- [[#Enspelled (Level 4|Enspelled (Level 4) Ring Mail]] Ring Mail)
+- [[#Enspelled (Level 4|Enspelled (Level 4) Scale Mail]] Scale Mail)
+- [[#Enspelled (Level 4|Enspelled (Level 4) Splint Armor]] Splint Armor)
+- [[#Enspelled (Level 4|Enspelled (Level 4) Studded Leather Armor]] Studded Leather Armor)
 
 ### Enspelled (Level 4) Breastplate
 

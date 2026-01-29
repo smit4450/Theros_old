@@ -31,18 +31,18 @@ aliases:
 This armor never gets dirty.
 
 **Variants**:
-- [[#Breastplate of%20Gleaming|Breastplate of Gleaming]]
-- [[#Chain Mail%20of%20Gleaming|Chain Mail of Gleaming]]
-- [[#Chain Shirt%20of%20Gleaming|Chain Shirt of Gleaming]]
-- [[#Half Plate%20Armor%20of%20Gleaming|Half Plate Armor of Gleaming]]
-- [[#Hide Armor%20of%20Gleaming|Hide Armor of Gleaming]]
-- [[#Leather Armor%20of%20Gleaming|Leather Armor of Gleaming]]
-- [[#Padded Armor%20of%20Gleaming|Padded Armor of Gleaming]]
-- [[#Plate Armor%20of%20Gleaming|Plate Armor of Gleaming]]
-- [[#Ring Mail%20of%20Gleaming|Ring Mail of Gleaming]]
-- [[#Scale Mail%20of%20Gleaming|Scale Mail of Gleaming]]
-- [[#Splint Armor%20of%20Gleaming|Splint Armor of Gleaming]]
-- [[#Studded Leather%20Armor%20of%20Gleaming|Studded Leather Armor of Gleaming]]
+- [[#Breastplate of Gleaming|Breastplate of Gleaming]]
+- [[#Chain Mail of Gleaming|Chain Mail of Gleaming]]
+- [[#Chain Shirt of Gleaming|Chain Shirt of Gleaming]]
+- [[#Half Plate Armor of Gleaming|Half Plate Armor of Gleaming]]
+- [[#Hide Armor of Gleaming|Hide Armor of Gleaming]]
+- [[#Leather Armor of Gleaming|Leather Armor of Gleaming]]
+- [[#Padded Armor of Gleaming|Padded Armor of Gleaming]]
+- [[#Plate Armor of Gleaming|Plate Armor of Gleaming]]
+- [[#Ring Mail of Gleaming|Ring Mail of Gleaming]]
+- [[#Scale Mail of Gleaming|Scale Mail of Gleaming]]
+- [[#Splint Armor of Gleaming|Splint Armor of Gleaming]]
+- [[#Studded Leather Armor of Gleaming|Studded Leather Armor of Gleaming]]
 
 ### Breastplate of Gleaming
 

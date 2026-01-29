@@ -9,7 +9,7 @@ aliases:
 - Battle Master
 ---
 # Battle Master
-*[Fighter](./fighter-xphb.md): Fighter Subclass*  
+*[[fighter-xphb|Fighter]]: Fighter Subclass*  
 *Source: Player's Handbook (2024) p. 93*  
 
 > [!tldr] Class and Feature Progression
@@ -101,5 +101,5 @@ Your Superiority Die becomes a `d12`.
 ## Optional Features
 
 > [!example]- Optional Features: Maneuver, Battle Master
-> ![Maneuver, Battle Master](Compendium/lists/list-optfeaturetype-mv-b.md#Maneuver,%20Battle%20Master)
+> ![Maneuver, Battle Master](Compendium/lists/list-optfeaturetype-mv-b.md#Maneuver, Battle Master)
 ^list-optfeature-mv-b

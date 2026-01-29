@@ -63,7 +63,7 @@ Every harpy sings a distinct song. While some songs are said to be heartbreaking
       \ condition and ignores the Luring Song of other harpies. If the target is more\
       \ than 5 feet from the harpy, the target moves on its turn toward the harpy\
       \ by the most direct route, trying to get within 5 feet of the harpy. It doesn't\
-      \ avoid [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack);\
+      \ avoid [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack);\
       \ however, before moving into damaging terrain (such as lava or a pit) and whenever\
       \ it takes damage from a source other than the harpy, the target repeats the\
       \ save. *Success:* The target is immune to this harpy's Luring Song for 24 hours."

@@ -24,7 +24,7 @@ You can either equip or unequip one weapon when you make an attack as part of th
 
 If you move on your turn and have a feature, such as Extra Attack, that gives you more than one attack as part of the Attack action, you can use some or all of that movement to move between those attacks.
 
-See also: [Two-Weapon Fighting](Compendium/rules/actions.md#Two-Weapon%20Fighting)
+See also: [Two-Weapon Fighting](Compendium/rules/actions.md#Two-Weapon Fighting)
 
 ## Dash
 _Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -40,7 +40,7 @@ _Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems 
 
 - **Duration**: 1 action
 
-If you take the Disengage action, your movement doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack) for the rest of the current turn.
+If you take the Disengage action, your movement doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) for the rest of the current turn.
 
 ## Dodge
 _Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -132,7 +132,7 @@ If you urge the monster to do something that it is hesitant to do, you must make
 | Charisma ([Intimidation](Compendium/rules/skills.md#Intimidation)) | Intimidating a monster |
 | Charisma ([Performance](Compendium/rules/skills.md#Performance)) | Amusing a monster |
 | Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) | Persuading a monster that understands you |
-| Wisdom ([Animal Handling](Compendium/rules/skills.md#Animal%20Handling)) | Gently coaxing a Beast or Monstrosity |
+| Wisdom ([Animal Handling](Compendium/rules/skills.md#Animal Handling)) | Gently coaxing a Beast or Monstrosity |
 ^influence-checks
 
 ## Magic

@@ -32,17 +32,17 @@ Wisps of harmless, odorless smoke rise from this armor while it is worn.
 
 **Variants**:
 - [[#Smoldering Breastplate|Smoldering Breastplate]]
-- [[#Smoldering Chain%20Mail|Smoldering Chain Mail]]
-- [[#Smoldering Chain%20Shirt|Smoldering Chain Shirt]]
-- [[#Smoldering Half%20Plate%20Armor|Smoldering Half Plate Armor]]
-- [[#Smoldering Hide%20Armor|Smoldering Hide Armor]]
-- [[#Smoldering Leather%20Armor|Smoldering Leather Armor]]
-- [[#Smoldering Padded%20Armor|Smoldering Padded Armor]]
-- [[#Smoldering Plate%20Armor|Smoldering Plate Armor]]
-- [[#Smoldering Ring%20Mail|Smoldering Ring Mail]]
-- [[#Smoldering Scale%20Mail|Smoldering Scale Mail]]
-- [[#Smoldering Splint%20Armor|Smoldering Splint Armor]]
-- [[#Smoldering Studded%20Leather%20Armor|Smoldering Studded Leather Armor]]
+- [[#Smoldering Chain Mail|Smoldering Chain Mail]]
+- [[#Smoldering Chain Shirt|Smoldering Chain Shirt]]
+- [[#Smoldering Half Plate Armor|Smoldering Half Plate Armor]]
+- [[#Smoldering Hide Armor|Smoldering Hide Armor]]
+- [[#Smoldering Leather Armor|Smoldering Leather Armor]]
+- [[#Smoldering Padded Armor|Smoldering Padded Armor]]
+- [[#Smoldering Plate Armor|Smoldering Plate Armor]]
+- [[#Smoldering Ring Mail|Smoldering Ring Mail]]
+- [[#Smoldering Scale Mail|Smoldering Scale Mail]]
+- [[#Smoldering Splint Armor|Smoldering Splint Armor]]
+- [[#Smoldering Studded Leather Armor|Smoldering Studded Leather Armor]]
 
 ### Smoldering Breastplate
 

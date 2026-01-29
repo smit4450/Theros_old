@@ -9,7 +9,7 @@ aliases:
 - Bladesinger
 ---
 # Bladesinger
-*[Wizard](./wizard-xphb.md): Wizard Subclass*  
+*[[wizard-xphb|Wizard]]: Wizard Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression

@@ -9,7 +9,7 @@ aliases:
 - College of Dance
 ---
 # College of Dance
-*[Bard](./bard-xphb.md): Bard Subclass*  
+*[[bard-xphb|Bard]]: Bard Subclass*  
 *Source: Player's Handbook (2024) p. 64*  
 
 > [!tldr] Class and Feature Progression
@@ -76,7 +76,7 @@ You can use Dexterity instead of Strength for the attack rolls of your Unarmed S
 
 When an enemy you can see ends its turn within 5 feet of you, you can take a [Reaction](Compendium/rules/variant-rules/reaction-xphb.md) and expend one use of your Bardic Inspiration to move up to half your [Speed](Compendium/rules/variant-rules/speed-xphb.md). Then one ally of your choice within 30 feet of you can also move up to half their [Speed](Compendium/rules/variant-rules/speed-xphb.md) using their [Reaction](Compendium/rules/variant-rules/reaction-xphb.md).
 
-None of this feature's movement provokes [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack).
+None of this feature's movement provokes [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
 ### Tandem Footwork (Level 6)
 

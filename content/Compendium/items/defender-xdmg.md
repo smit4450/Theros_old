@@ -62,7 +62,7 @@ The first time you attack with the weapon on each of your turns, you can transfe
 - [[#Defender Handaxe|Defender Handaxe]]
 - [[#Defender Javelin|Defender Javelin]]
 - [[#Defender Lance|Defender Lance]]
-- [[#Defender Light%20Hammer|Defender Light Hammer]]
+- [[#Defender Light Hammer|Defender Light Hammer]]
 - [[#Defender Longsword|Defender Longsword]]
 - [[#Defender Mace|Defender Mace]]
 - [[#Defender Maul|Defender Maul]]
@@ -75,7 +75,7 @@ The first time you attack with the weapon on each of your turns, you can transfe
 - [[#Defender Sickle|Defender Sickle]]
 - [[#Defender Spear|Defender Spear]]
 - [[#Defender Trident|Defender Trident]]
-- [[#Defender War%20Pick|Defender War Pick]]
+- [[#Defender War Pick|Defender War Pick]]
 - [[#Defender Warhammer|Defender Warhammer]]
 - [[#Defender Whip|Defender Whip]]
 

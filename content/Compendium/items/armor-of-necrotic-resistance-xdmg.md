@@ -32,18 +32,18 @@ aliases:
 You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to necrotic damage while you wear this armor.
 
 **Variants**:
-- [[#Breastplate of%20Necrotic%20Resistance|Breastplate of Necrotic Resistance]]
-- [[#Chain Mail%20of%20Necrotic%20Resistance|Chain Mail of Necrotic Resistance]]
-- [[#Chain Shirt%20of%20Necrotic%20Resistance|Chain Shirt of Necrotic Resistance]]
-- [[#Half Plate%20Armor%20of%20Necrotic%20Resistance|Half Plate Armor of Necrotic Resistance]]
-- [[#Hide Armor%20of%20Necrotic%20Resistance|Hide Armor of Necrotic Resistance]]
-- [[#Leather Armor%20of%20Necrotic%20Resistance|Leather Armor of Necrotic Resistance]]
-- [[#Padded Armor%20of%20Necrotic%20Resistance|Padded Armor of Necrotic Resistance]]
-- [[#Plate Armor%20of%20Necrotic%20Resistance|Plate Armor of Necrotic Resistance]]
-- [[#Ring Mail%20of%20Necrotic%20Resistance|Ring Mail of Necrotic Resistance]]
-- [[#Scale Mail%20of%20Necrotic%20Resistance|Scale Mail of Necrotic Resistance]]
-- [[#Splint Armor%20of%20Necrotic%20Resistance|Splint Armor of Necrotic Resistance]]
-- [[#Studded Leather%20Armor%20of%20Necrotic%20Resistance|Studded Leather Armor of Necrotic Resistance]]
+- [[#Breastplate of Necrotic Resistance|Breastplate of Necrotic Resistance]]
+- [[#Chain Mail of Necrotic Resistance|Chain Mail of Necrotic Resistance]]
+- [[#Chain Shirt of Necrotic Resistance|Chain Shirt of Necrotic Resistance]]
+- [[#Half Plate Armor of Necrotic Resistance|Half Plate Armor of Necrotic Resistance]]
+- [[#Hide Armor of Necrotic Resistance|Hide Armor of Necrotic Resistance]]
+- [[#Leather Armor of Necrotic Resistance|Leather Armor of Necrotic Resistance]]
+- [[#Padded Armor of Necrotic Resistance|Padded Armor of Necrotic Resistance]]
+- [[#Plate Armor of Necrotic Resistance|Plate Armor of Necrotic Resistance]]
+- [[#Ring Mail of Necrotic Resistance|Ring Mail of Necrotic Resistance]]
+- [[#Scale Mail of Necrotic Resistance|Scale Mail of Necrotic Resistance]]
+- [[#Splint Armor of Necrotic Resistance|Splint Armor of Necrotic Resistance]]
+- [[#Studded Leather Armor of Necrotic Resistance|Studded Leather Armor of Necrotic Resistance]]
 
 ### Breastplate of Necrotic Resistance
 

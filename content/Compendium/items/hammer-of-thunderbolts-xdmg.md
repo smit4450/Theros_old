@@ -32,8 +32,8 @@ While you are attuned to the weapon and wearing either a [Belt of Giant Strength
 - **Might of Giants.** The Strength score bestowed by your [Belt of Giant Strength](Compendium/items/belt-of-giant-strength-xdmg.md) or [Gauntlets of Ogre Power](Compendium/items/gauntlets-of-ogre-power-xdmg.md) increases by 4, to a maximum of 30.  
 
 **Variants**:
-- [[#Maul of%20Thunderbolts|Maul of Thunderbolts]]
-- [[#Warhammer of%20Thunderbolts|Warhammer of Thunderbolts]]
+- [[#Maul of Thunderbolts|Maul of Thunderbolts]]
+- [[#Warhammer of Thunderbolts|Warhammer of Thunderbolts]]
 
 ### Maul of Thunderbolts
 

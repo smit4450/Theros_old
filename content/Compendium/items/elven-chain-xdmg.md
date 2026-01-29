@@ -20,8 +20,8 @@ aliases:
 You gain a +1 bonus to [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md) while you wear this armor. You are considered trained with this armor even if you lack training with Medium or Heavy armor.
 
 **Variants**:
-- [[#Elven Chain%20Mail|Elven Chain Mail]]
-- [[#Elven Chain%20Shirt|Elven Chain Shirt]]
+- [[#Elven Chain Mail|Elven Chain Mail]]
+- [[#Elven Chain Shirt|Elven Chain Shirt]]
 
 ### Elven Chain Mail
 

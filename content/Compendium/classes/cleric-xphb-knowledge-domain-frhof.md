@@ -10,7 +10,7 @@ aliases:
 - Knowledge Domain
 ---
 # Knowledge Domain
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
+*[[cleric-xphb|Cleric]]: Cleric Subclass*  
 *Source: FRHoF*  
 
 > [!tldr] Class and Feature Progression

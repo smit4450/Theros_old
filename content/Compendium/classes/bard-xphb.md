@@ -54,7 +54,7 @@ aliases:
 - **Skill Proficiencies**: Choose 3 [skills](Compendium/rules/skills.md)
 - **Weapon Proficiencies**: Simple weapons
 - **Tool Proficiencies**: Choose three [Musical Instruments](Compendium/items/musical-instrument-xphb.md)
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
 **Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Compendium/items/leather-armor-xphb.md), 2 [Dagger](Compendium/items/dagger-xphb.md), [Musical Instrument](Compendium/items/musical-instrument-xphb.md) of your choice, [Entertainer's Pack](Compendium/items/entertainers-pack-xphb.md), 19 GP; or (B) 90 GP
 
@@ -62,7 +62,7 @@ aliases:
 
 - **Skill Proficiencies**: Choose 1 [skill](Compendium/rules/skills.md)
 - **Tool Proficiencies**: Choose one [Musical Instrument](Compendium/items/musical-instrument-xphb.md)
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light%20Armor)
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor)
 
 ## Bard
 
@@ -153,7 +153,7 @@ You gain a Bard subclass of your choice. A subclass is a specialization that gra
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
 
 ### Font of Inspiration (Level 5)
 
@@ -171,7 +171,7 @@ You can use musical notes or words of power to disrupt mind-influencing effects.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Expertise (Level 9)
 
@@ -183,7 +183,7 @@ You've learned secrets from various magical traditions. Whenever you reach a Bar
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 14)
 
@@ -191,7 +191,7 @@ You gain a feature from your Bard Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Superior Inspiration (Level 18)
 
@@ -199,7 +199,7 @@ When you roll [Initiative](Compendium/rules/variant-rules/initiative-xphb.md), y
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Spell Recall](Boon%20of%20Spell%20Recall.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[Boon of Spell Recall|Boon of Spell Recall]] is recommended.
 
 ### Words of Creation (Level 20)
 

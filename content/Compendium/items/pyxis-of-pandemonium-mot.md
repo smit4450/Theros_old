@@ -11,7 +11,7 @@ aliases:
 *Wondrous item, cursed item, legendary*  
 ![](Compendium/items/img/pyxis-of-pandemonium.webp#right)
 
-- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed%20Items)
+- **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items)
 
 A creature that touches this ornate wooden vessel for 1 minute gains the benefits of a short rest. That creature also gains the effects of the [bless](Compendium/spells/bless-xphb.md) spell until the creature finishes a short or long rest. The creature can't gain these benefits again until it finishes a long rest.
 

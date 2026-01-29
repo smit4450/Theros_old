@@ -9,7 +9,7 @@ aliases:
 - Hunter
 ---
 # Hunter
-*[Ranger](./ranger-xphb.md): Ranger Subclass*  
+*[[ranger-xphb|Ranger]]: Ranger Subclass*  
 *Source: Player's Handbook (2024) p. 127. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -74,7 +74,7 @@ You gain one of the following feature options of your choice. Whenever you finis
 
 #### Escape the Horde
 
-[Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack) have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) against you.
+[Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) have [Disadvantage](Compendium/rules/variant-rules/disadvantage-xphb.md) against you.
 
 #### Multiattack Defense
 

@@ -9,7 +9,7 @@ aliases:
 - Thief
 ---
 # Thief
-*[Rogue](./rogue-xphb.md): Rogue Subclass*  
+*[[rogue-xphb|Rogue]]: Rogue Subclass*  
 *Source: Player's Handbook (2024) p. 137. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
@@ -58,7 +58,7 @@ As a [Bonus Action](Compendium/rules/variant-rules/bonus-action-xphb.md), you ca
 
 #### Sleight of Hand
 
-Make a Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)) check to pick a lock or disarm a trap with [Thieves' Tools](Compendium/items/thieves-tools-xphb.md) or to pick a pocket.
+Make a Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check to pick a lock or disarm a trap with [Thieves' Tools](Compendium/items/thieves-tools-xphb.md) or to pick a pocket.
 
 #### Use an Object
 

@@ -32,18 +32,18 @@ aliases:
 You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to thunder damage while you wear this armor.
 
 **Variants**:
-- [[#Breastplate of%20Thunder%20Resistance|Breastplate of Thunder Resistance]]
-- [[#Chain Mail%20of%20Thunder%20Resistance|Chain Mail of Thunder Resistance]]
-- [[#Chain Shirt%20of%20Thunder%20Resistance|Chain Shirt of Thunder Resistance]]
-- [[#Half Plate%20Armor%20of%20Thunder%20Resistance|Half Plate Armor of Thunder Resistance]]
-- [[#Hide Armor%20of%20Thunder%20Resistance|Hide Armor of Thunder Resistance]]
-- [[#Leather Armor%20of%20Thunder%20Resistance|Leather Armor of Thunder Resistance]]
-- [[#Padded Armor%20of%20Thunder%20Resistance|Padded Armor of Thunder Resistance]]
-- [[#Plate Armor%20of%20Thunder%20Resistance|Plate Armor of Thunder Resistance]]
-- [[#Ring Mail%20of%20Thunder%20Resistance|Ring Mail of Thunder Resistance]]
-- [[#Scale Mail%20of%20Thunder%20Resistance|Scale Mail of Thunder Resistance]]
-- [[#Splint Armor%20of%20Thunder%20Resistance|Splint Armor of Thunder Resistance]]
-- [[#Studded Leather%20Armor%20of%20Thunder%20Resistance|Studded Leather Armor of Thunder Resistance]]
+- [[#Breastplate of Thunder Resistance|Breastplate of Thunder Resistance]]
+- [[#Chain Mail of Thunder Resistance|Chain Mail of Thunder Resistance]]
+- [[#Chain Shirt of Thunder Resistance|Chain Shirt of Thunder Resistance]]
+- [[#Half Plate Armor of Thunder Resistance|Half Plate Armor of Thunder Resistance]]
+- [[#Hide Armor of Thunder Resistance|Hide Armor of Thunder Resistance]]
+- [[#Leather Armor of Thunder Resistance|Leather Armor of Thunder Resistance]]
+- [[#Padded Armor of Thunder Resistance|Padded Armor of Thunder Resistance]]
+- [[#Plate Armor of Thunder Resistance|Plate Armor of Thunder Resistance]]
+- [[#Ring Mail of Thunder Resistance|Ring Mail of Thunder Resistance]]
+- [[#Scale Mail of Thunder Resistance|Scale Mail of Thunder Resistance]]
+- [[#Splint Armor of Thunder Resistance|Splint Armor of Thunder Resistance]]
+- [[#Studded Leather Armor of Thunder Resistance|Studded Leather Armor of Thunder Resistance]]
 
 ### Breastplate of Thunder Resistance
 

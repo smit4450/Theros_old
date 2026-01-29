@@ -142,7 +142,7 @@ You gain a Wizard subclass of your choice. A subclass is a specialization that g
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) feat or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
 ### Memorize Spell (Level 5)
 
@@ -154,7 +154,7 @@ You gain a feature from your Wizard Subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 10)
 
@@ -162,7 +162,7 @@ You gain a feature from your Wizard Subclass.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 14)
 
@@ -170,7 +170,7 @@ You gain a feature from your Wizard Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Ability%20Score%20Improvement.md) Feat or another feat of your choice for which you qualify.
+You gain the [[Ability Score Improvement|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Spell Mastery (Level 18)
 
@@ -180,7 +180,7 @@ Whenever you finish a [Long Rest](Compendium/rules/variant-rules/long-rest-xphb.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Spell Recall](Boon%20of%20Spell%20Recall.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [[Boon of Spell Recall|Boon of Spell Recall]] is recommended.
 
 ### Signature Spells (Level 20)
 

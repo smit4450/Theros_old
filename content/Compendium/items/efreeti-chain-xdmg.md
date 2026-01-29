@@ -21,8 +21,8 @@ aliases:
 While wearing this armor, you gain a +3 bonus to [Armor Class](Compendium/rules/variant-rules/armor-class-xphb.md), you have [Immunity](Compendium/rules/variant-rules/immunity-xphb.md) to Fire damage, and you know Primordial. In addition, you can stand on and move across molten rock as if it were solid ground.
 
 **Variants**:
-- [[#Efreeti Chain%20Mail|Efreeti Chain Mail]]
-- [[#Efreeti Chain%20Shirt|Efreeti Chain Shirt]]
+- [[#Efreeti Chain Mail|Efreeti Chain Mail]]
+- [[#Efreeti Chain Shirt|Efreeti Chain Shirt]]
 
 ### Efreeti Chain Mail
 

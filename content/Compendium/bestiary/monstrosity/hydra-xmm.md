@@ -76,7 +76,7 @@ While many hydras claim their own territories, wicked deities might use them to 
       \ new heads."
     "name": "Multiple Heads"
   - "desc": "For each head the hydra has beyond one, it gets an extra [Reaction](Compendium/rules/variant-rules/reaction-xphb.md)\
-      \ that can be used only for [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)."
+      \ that can be used only for [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack)."
     "name": "Reactive Heads"
 "actions":
   - "desc": "The hydra makes as many Bite attacks as it has heads."

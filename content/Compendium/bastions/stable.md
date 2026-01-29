@@ -18,7 +18,7 @@ aliases:
 
 A Bastion can have more than one Stable. Each Stable you add to your Bastion comes with one [Riding Horse](Compendium/bestiary/beast/riding-horse-xmm.md) or [Camel](Compendium/bestiary/beast/camel-xmm.md) and two [Ponies](Compendium/bestiary/beast/pony-xmm.md) or [Mules](Compendium/bestiary/beast/mule-xmm.md); see the "Player's Handbook" or the "Monster Manual" for these creatures' stat blocks. The facility is big enough to house three Large animals. Two Medium creatures occupy the same amount of space as one Large creature there. The facility's hireling looks after these creatures.
 
-After a Beast that can serve as a mount spends at least 14 days in this facility, all Wisdom ([Animal Handling](Compendium/rules/skills.md#Animal%20Handling)) checks made with respect to it have Advantage.
+After a Beast that can serve as a mount spends at least 14 days in this facility, all Wisdom ([Animal Handling](Compendium/rules/skills.md#Animal Handling)) checks made with respect to it have Advantage.
 
 ## Trade: Animals
 

@@ -84,7 +84,7 @@ A chase participant can take the [Dash](Compendium/rules/actions.md#Dash) action
 
 A chase participant can make attacks and cast spells against other creatures within range.
 
-Chase participants can't normally make [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack) against each other, since they are all assumed to be moving in the same direction at the same time. However, participants can still be the targets of [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack) from creatures not participating in the chase. For example, adventurers who chase a thief past a gang of ruffians might provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack) from the ruffians.
+Chase participants can't normally make [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) against each other, since they are all assumed to be moving in the same direction at the same time. However, participants can still be the targets of [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) from creatures not participating in the chase. For example, adventurers who chase a thief past a gang of ruffians might provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) from the ruffians.
 
 ### Ending a Chase
 
@@ -389,9 +389,9 @@ If a creature infected with a magical contagion spends 3 days recuperating, enga
 
 The following examples show how magical contagions can work. Feel free to alter the saving throw DCs, effects, and other characteristics of these contagions to suit your campaign.
 
-- [Cackle Fever](Compendium/rules/diseases.md#Cackle%20Fever)  
-- [Sewer Plague](Compendium/rules/diseases.md#Sewer%20Plague)  
-- [Sight Rot](Compendium/rules/diseases.md#Sight%20Rot)  
+- [Cackle Fever](Compendium/rules/diseases.md#Cackle Fever)  
+- [Sewer Plague](Compendium/rules/diseases.md#Sewer Plague)  
+- [Sight Rot](Compendium/rules/diseases.md#Sight Rot)  
 
 ## Death
 
@@ -487,7 +487,7 @@ A barred door has no lock. A creature on the barred side of the door can take th
 
 #### Locked Door
 
-Characters who don't have the key to a locked door can try to pick the lock using [Thieves' Tools](Compendium/items/thieves-tools-xphb.md). The Lock Complexity table tells you how long it takes to try to pick a lock based on its complexity. At the end of that time, the character picks the lock by making a successful Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)) check using Thieves' Tools. The DC is determined by the lock's quality, as shown in the Lock Quality table.
+Characters who don't have the key to a locked door can try to pick the lock using [Thieves' Tools](Compendium/items/thieves-tools-xphb.md). The Lock Complexity table tells you how long it takes to try to pick a lock based on its complexity. At the end of that time, the character picks the lock by making a successful Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check using Thieves' Tools. The DC is determined by the lock's quality, as shown in the Lock Quality table.
 
 ![Locked Door; Lock Complexity](Compendium/tables/locked-door-lock-complexity-xdmg.md)
 

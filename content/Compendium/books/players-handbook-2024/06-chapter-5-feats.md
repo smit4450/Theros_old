@@ -50,93 +50,93 @@ A feat can be taken only once unless its description states otherwise in a "Repe
 
 These feats are in the Origin category.
 
-- [Alert](Alert.md)  
-- [Crafter](Crafter.md)  
-- [Healer](Healer.md)  
-- [Lucky](Lucky.md)  
-- [Magic Initiate](Magic%20Initiate.md)  
-- [Musician](Musician.md)  
-- [Savage Attacker](Savage%20Attacker.md)  
-- [Skilled](Skilled.md)  
-- [Tavern Brawler](Tavern%20Brawler.md)  
-- [Tough](Tough.md)  
+- [[Alert|Alert]]  
+- [[Crafter|Crafter]]  
+- [[Healer|Healer]]  
+- [[Lucky|Lucky]]  
+- [[Magic Initiate|Magic Initiate]]  
+- [[Musician|Musician]]  
+- [[Savage Attacker|Savage Attacker]]  
+- [[Skilled|Skilled]]  
+- [[Tavern Brawler|Tavern Brawler]]  
+- [[Tough|Tough]]  
 
 ## General Feats
 
 These feats are in the General category.
 
-- [Ability Score Improvement](Ability%20Score%20Improvement.md)  
-- [Actor](Actor.md)  
-- [Athlete](Athlete.md)  
-- [Charger](Charger.md)  
-- [Chef](Chef.md)  
-- [Crossbow Expert](Crossbow%20Expert.md)  
-- [Crusher](Crusher.md)  
-- [Defensive Duelist](Defensive%20Duelist.md)  
-- [Dual Wielder](Dual%20Wielder.md)  
-- [Durable](Durable.md)  
-- [Elemental Adept](Elemental%20Adept.md)  
-- [Fey-Touched](Fey-Touched.md)  
-- [Grappler](Grappler.md)  
-- [Great Weapon Master](Great%20Weapon%20Master.md)  
-- [Heavily Armored](Heavily%20Armored.md)  
-- [Heavy Armor Master](Heavy%20Armor%20Master.md)  
-- [Inspiring Leader](Inspiring%20Leader.md)  
-- [Keen Mind](Keen%20Mind.md)  
-- [Lightly Armored](Lightly%20Armored.md)  
-- [Mage Slayer](Mage%20Slayer.md)  
-- [Martial Weapon Training](Martial%20Weapon%20Training.md)  
-- [Medium Armor Master](Medium%20Armor%20Master.md)  
-- [Moderately Armored](Moderately%20Armored.md)  
-- [Mounted Combatant](Mounted%20Combatant.md)  
-- [Observant](Observant.md)  
-- [Piercer](Piercer.md)  
-- [Poisoner](Poisoner.md)  
-- [Polearm Master](Polearm%20Master.md)  
-- [Resilient](Resilient.md)  
-- [Ritual Caster](Ritual%20Caster.md)  
-- [Sentinel](Sentinel.md)  
-- [Shadow-Touched](Shadow-Touched.md)  
-- [Sharpshooter](Sharpshooter.md)  
-- [Shield Master](Shield%20Master.md)  
-- [Skill Expert](Skill%20Expert.md)  
-- [Skulker](Skulker.md)  
-- [Slasher](Slasher.md)  
-- [Speedy](Speedy.md)  
-- [Spell Sniper](Spell%20Sniper.md)  
-- [Telekinetic](Telekinetic.md)  
-- [Telepathic](Telepathic.md)  
-- [War Caster](War%20Caster.md)  
-- [Weapon Master](Weapon%20Master.md)  
+- [[Ability Score Improvement|Ability Score Improvement]]  
+- [[Actor|Actor]]  
+- [[Athlete|Athlete]]  
+- [[Charger|Charger]]  
+- [[Chef|Chef]]  
+- [[Crossbow Expert|Crossbow Expert]]  
+- [[Crusher|Crusher]]  
+- [[Defensive Duelist|Defensive Duelist]]  
+- [[Dual Wielder|Dual Wielder]]  
+- [[Durable|Durable]]  
+- [[Elemental Adept|Elemental Adept]]  
+- [[Fey-Touched|Fey-Touched]]  
+- [[Grappler|Grappler]]  
+- [[Great Weapon Master|Great Weapon Master]]  
+- [[Heavily Armored|Heavily Armored]]  
+- [[Heavy Armor Master|Heavy Armor Master]]  
+- [[Inspiring Leader|Inspiring Leader]]  
+- [[Keen Mind|Keen Mind]]  
+- [[Lightly Armored|Lightly Armored]]  
+- [[Mage Slayer|Mage Slayer]]  
+- [[Martial Weapon Training|Martial Weapon Training]]  
+- [[Medium Armor Master|Medium Armor Master]]  
+- [[Moderately Armored|Moderately Armored]]  
+- [[Mounted Combatant|Mounted Combatant]]  
+- [[Observant|Observant]]  
+- [[Piercer|Piercer]]  
+- [[Poisoner|Poisoner]]  
+- [[Polearm Master|Polearm Master]]  
+- [[Resilient|Resilient]]  
+- [[Ritual Caster|Ritual Caster]]  
+- [[Sentinel|Sentinel]]  
+- [[Shadow-Touched|Shadow-Touched]]  
+- [[Sharpshooter|Sharpshooter]]  
+- [[Shield Master|Shield Master]]  
+- [[Skill Expert|Skill Expert]]  
+- [[Skulker|Skulker]]  
+- [[Slasher|Slasher]]  
+- [[Speedy|Speedy]]  
+- [[Spell Sniper|Spell Sniper]]  
+- [[Telekinetic|Telekinetic]]  
+- [[Telepathic|Telepathic]]  
+- [[War Caster|War Caster]]  
+- [[Weapon Master|Weapon Master]]  
 
 ## Fighting Style Feats
 
 These feats are in the Fighting Style category.
 
-- [Archery](Archery.md)  
-- [Blind Fighting](Blind%20Fighting.md)  
-- [Defense](Defense.md)  
-- [Dueling](Dueling.md)  
-- [Great Weapon Fighting](Great%20Weapon%20Fighting.md)  
-- [Interception](Interception.md)  
-- [Protection](Protection.md)  
-- [Thrown Weapon Fighting](Thrown%20Weapon%20Fighting.md)  
-- [Two-Weapon Fighting](Two-Weapon%20Fighting.md)  
-- [Unarmed Fighting](Unarmed%20Fighting.md)  
+- [[Archery|Archery]]  
+- [[Blind Fighting|Blind Fighting]]  
+- [[Defense|Defense]]  
+- [[Dueling|Dueling]]  
+- [[Great Weapon Fighting|Great Weapon Fighting]]  
+- [[Interception|Interception]]  
+- [[Protection|Protection]]  
+- [[Thrown Weapon Fighting|Thrown Weapon Fighting]]  
+- [[Two-Weapon Fighting|Two-Weapon Fighting]]  
+- [[Unarmed Fighting|Unarmed Fighting]]  
 
 ## Epic Boon Feats
 
 These feats are in the Epic Boon category.
 
-- [Boon of Combat Prowess](Boon%20of%20Combat%20Prowess.md)  
-- [Boon of Dimensional Travel](Boon%20of%20Dimensional%20Travel.md)  
-- [Boon of Energy Resistance](Boon%20of%20Energy%20Resistance.md)  
-- [Boon of Fate](Boon%20of%20Fate.md)  
-- [Boon of Fortitude](Boon%20of%20Fortitude.md)  
-- [Boon of Irresistible Offense](Boon%20of%20Irresistible%20Offense.md)  
-- [Boon of Recovery](Boon%20of%20Recovery.md)  
-- [Boon of Skill](Boon%20of%20Skill.md)  
-- [Boon of Speed](Boon%20of%20Speed.md)  
-- [Boon of Spell Recall](Boon%20of%20Spell%20Recall.md)  
-- [Boon of the Night Spirit](Boon%20of%20the%20Night%20Spirit.md)  
-- [Boon of Truesight](Boon%20of%20Truesight.md)
+- [[Boon of Combat Prowess|Boon of Combat Prowess]]  
+- [[Boon of Dimensional Travel|Boon of Dimensional Travel]]  
+- [[Boon of Energy Resistance|Boon of Energy Resistance]]  
+- [[Boon of Fate|Boon of Fate]]  
+- [[Boon of Fortitude|Boon of Fortitude]]  
+- [[Boon of Irresistible Offense|Boon of Irresistible Offense]]  
+- [[Boon of Recovery|Boon of Recovery]]  
+- [[Boon of Skill|Boon of Skill]]  
+- [[Boon of Speed|Boon of Speed]]  
+- [[Boon of Spell Recall|Boon of Spell Recall]]  
+- [[Boon of the Night Spirit|Boon of the Night Spirit]]  
+- [[Boon of Truesight|Boon of Truesight]]

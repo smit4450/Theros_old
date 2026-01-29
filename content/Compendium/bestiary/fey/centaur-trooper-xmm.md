@@ -65,7 +65,7 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
     "name": "Longbow"
 "bonus_actions":
   - "desc": "The centaur moves up to its [Speed](Compendium/rules/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)\
+      \ without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack)\
       \ and can move through the spaces of Medium or smaller creatures. Each creature\
       \ whose space the centaur enters is targeted once by the following effect. *Strength\
       \ Saving Throw:* DC 14. *Failure:* 7 (1d6 + 4) Bludgeoning damage, and the\

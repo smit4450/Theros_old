@@ -83,7 +83,7 @@ You can fire only one piece of ammunition from a Loading weapon when you use an 
 
 ### Reach
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
-A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack) with it.
+A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) with it.
 
 ### Reload
 _Source: Dungeon Master's Guide (2024) p. 72_

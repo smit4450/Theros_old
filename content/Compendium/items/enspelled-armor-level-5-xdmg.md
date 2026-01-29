@@ -34,18 +34,18 @@ Bound into this armor is a level 5 spell. The spell is determined when the armor
 The spell's saving throw DC is 17, and its attack bonus is `+9`.
 
 **Variants**:
-- [[#Enspelled (Level%205|Enspelled (Level 5) Breastplate]]%20Breastplate)
-- [[#Enspelled (Level%205|Enspelled (Level 5) Chain Mail]]%20Chain%20Mail)
-- [[#Enspelled (Level%205|Enspelled (Level 5) Chain Shirt]]%20Chain%20Shirt)
-- [[#Enspelled (Level%205|Enspelled (Level 5) Half Plate Armor]]%20Half%20Plate%20Armor)
-- [[#Enspelled (Level%205|Enspelled (Level 5) Hide Armor]]%20Hide%20Armor)
-- [[#Enspelled (Level%205|Enspelled (Level 5) Leather Armor]]%20Leather%20Armor)
-- [[#Enspelled (Level%205|Enspelled (Level 5) Padded Armor]]%20Padded%20Armor)
-- [[#Enspelled (Level%205|Enspelled (Level 5) Plate Armor]]%20Plate%20Armor)
-- [[#Enspelled (Level%205|Enspelled (Level 5) Ring Mail]]%20Ring%20Mail)
-- [[#Enspelled (Level%205|Enspelled (Level 5) Scale Mail]]%20Scale%20Mail)
-- [[#Enspelled (Level%205|Enspelled (Level 5) Splint Armor]]%20Splint%20Armor)
-- [[#Enspelled (Level%205|Enspelled (Level 5) Studded Leather Armor]]%20Studded%20Leather%20Armor)
+- [[#Enspelled (Level 5|Enspelled (Level 5) Breastplate]] Breastplate)
+- [[#Enspelled (Level 5|Enspelled (Level 5) Chain Mail]] Chain Mail)
+- [[#Enspelled (Level 5|Enspelled (Level 5) Chain Shirt]] Chain Shirt)
+- [[#Enspelled (Level 5|Enspelled (Level 5) Half Plate Armor]] Half Plate Armor)
+- [[#Enspelled (Level 5|Enspelled (Level 5) Hide Armor]] Hide Armor)
+- [[#Enspelled (Level 5|Enspelled (Level 5) Leather Armor]] Leather Armor)
+- [[#Enspelled (Level 5|Enspelled (Level 5) Padded Armor]] Padded Armor)
+- [[#Enspelled (Level 5|Enspelled (Level 5) Plate Armor]] Plate Armor)
+- [[#Enspelled (Level 5|Enspelled (Level 5) Ring Mail]] Ring Mail)
+- [[#Enspelled (Level 5|Enspelled (Level 5) Scale Mail]] Scale Mail)
+- [[#Enspelled (Level 5|Enspelled (Level 5) Splint Armor]] Splint Armor)
+- [[#Enspelled (Level 5|Enspelled (Level 5) Studded Leather Armor]] Studded Leather Armor)
 
 ### Enspelled (Level 5) Breastplate
 

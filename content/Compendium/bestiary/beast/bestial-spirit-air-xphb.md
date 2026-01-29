@@ -31,7 +31,7 @@ aliases: ["Bestial Spirit (Air)"]
   \ 12"
 "languages": "understands the languages you know"
 "traits":
-  - "desc": "The spirit doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)\
+  - "desc": "The spirit doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack)\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
 "actions":

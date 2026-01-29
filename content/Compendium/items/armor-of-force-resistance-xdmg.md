@@ -32,18 +32,18 @@ aliases:
 You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to force damage while you wear this armor.
 
 **Variants**:
-- [[#Breastplate of%20Force%20Resistance|Breastplate of Force Resistance]]
-- [[#Chain Mail%20of%20Force%20Resistance|Chain Mail of Force Resistance]]
-- [[#Chain Shirt%20of%20Force%20Resistance|Chain Shirt of Force Resistance]]
-- [[#Half Plate%20Armor%20of%20Force%20Resistance|Half Plate Armor of Force Resistance]]
-- [[#Hide Armor%20of%20Force%20Resistance|Hide Armor of Force Resistance]]
-- [[#Leather Armor%20of%20Force%20Resistance|Leather Armor of Force Resistance]]
-- [[#Padded Armor%20of%20Force%20Resistance|Padded Armor of Force Resistance]]
-- [[#Plate Armor%20of%20Force%20Resistance|Plate Armor of Force Resistance]]
-- [[#Ring Mail%20of%20Force%20Resistance|Ring Mail of Force Resistance]]
-- [[#Scale Mail%20of%20Force%20Resistance|Scale Mail of Force Resistance]]
-- [[#Splint Armor%20of%20Force%20Resistance|Splint Armor of Force Resistance]]
-- [[#Studded Leather%20Armor%20of%20Force%20Resistance|Studded Leather Armor of Force Resistance]]
+- [[#Breastplate of Force Resistance|Breastplate of Force Resistance]]
+- [[#Chain Mail of Force Resistance|Chain Mail of Force Resistance]]
+- [[#Chain Shirt of Force Resistance|Chain Shirt of Force Resistance]]
+- [[#Half Plate Armor of Force Resistance|Half Plate Armor of Force Resistance]]
+- [[#Hide Armor of Force Resistance|Hide Armor of Force Resistance]]
+- [[#Leather Armor of Force Resistance|Leather Armor of Force Resistance]]
+- [[#Padded Armor of Force Resistance|Padded Armor of Force Resistance]]
+- [[#Plate Armor of Force Resistance|Plate Armor of Force Resistance]]
+- [[#Ring Mail of Force Resistance|Ring Mail of Force Resistance]]
+- [[#Scale Mail of Force Resistance|Scale Mail of Force Resistance]]
+- [[#Splint Armor of Force Resistance|Splint Armor of Force Resistance]]
+- [[#Studded Leather Armor of Force Resistance|Studded Leather Armor of Force Resistance]]
 
 ### Breastplate of Force Resistance
 

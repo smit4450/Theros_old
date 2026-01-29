@@ -32,18 +32,18 @@ aliases:
 You have [Resistance](Compendium/rules/variant-rules/resistance-xphb.md) to radiant damage while you wear this armor.
 
 **Variants**:
-- [[#Breastplate of%20Radiant%20Resistance|Breastplate of Radiant Resistance]]
-- [[#Chain Mail%20of%20Radiant%20Resistance|Chain Mail of Radiant Resistance]]
-- [[#Chain Shirt%20of%20Radiant%20Resistance|Chain Shirt of Radiant Resistance]]
-- [[#Half Plate%20Armor%20of%20Radiant%20Resistance|Half Plate Armor of Radiant Resistance]]
-- [[#Hide Armor%20of%20Radiant%20Resistance|Hide Armor of Radiant Resistance]]
-- [[#Leather Armor%20of%20Radiant%20Resistance|Leather Armor of Radiant Resistance]]
-- [[#Padded Armor%20of%20Radiant%20Resistance|Padded Armor of Radiant Resistance]]
-- [[#Plate Armor%20of%20Radiant%20Resistance|Plate Armor of Radiant Resistance]]
-- [[#Ring Mail%20of%20Radiant%20Resistance|Ring Mail of Radiant Resistance]]
-- [[#Scale Mail%20of%20Radiant%20Resistance|Scale Mail of Radiant Resistance]]
-- [[#Splint Armor%20of%20Radiant%20Resistance|Splint Armor of Radiant Resistance]]
-- [[#Studded Leather%20Armor%20of%20Radiant%20Resistance|Studded Leather Armor of Radiant Resistance]]
+- [[#Breastplate of Radiant Resistance|Breastplate of Radiant Resistance]]
+- [[#Chain Mail of Radiant Resistance|Chain Mail of Radiant Resistance]]
+- [[#Chain Shirt of Radiant Resistance|Chain Shirt of Radiant Resistance]]
+- [[#Half Plate Armor of Radiant Resistance|Half Plate Armor of Radiant Resistance]]
+- [[#Hide Armor of Radiant Resistance|Hide Armor of Radiant Resistance]]
+- [[#Leather Armor of Radiant Resistance|Leather Armor of Radiant Resistance]]
+- [[#Padded Armor of Radiant Resistance|Padded Armor of Radiant Resistance]]
+- [[#Plate Armor of Radiant Resistance|Plate Armor of Radiant Resistance]]
+- [[#Ring Mail of Radiant Resistance|Ring Mail of Radiant Resistance]]
+- [[#Scale Mail of Radiant Resistance|Scale Mail of Radiant Resistance]]
+- [[#Splint Armor of Radiant Resistance|Splint Armor of Radiant Resistance]]
+- [[#Studded Leather Armor of Radiant Resistance|Studded Leather Armor of Radiant Resistance]]
 
 ### Breastplate of Radiant Resistance
 

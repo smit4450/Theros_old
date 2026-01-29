@@ -49,7 +49,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The owl doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity%20Attack)\
+  - "desc": "The owl doesn't provoke [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack)\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
 "actions":

@@ -44,7 +44,7 @@ Master thieves are known for perpetrating daring heists. They tend to develop a 
     "desc": "+3"
   - "name": "[Perception](Compendium/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Sleight of Hand](Compendium/rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)"
     "desc": "+7"
   - "name": "[Stealth](Compendium/rules/skills.md#Stealth)"
     "desc": "+7"
