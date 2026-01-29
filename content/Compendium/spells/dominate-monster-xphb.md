@@ -33,6 +33,6 @@ You can command the target to take a [[Reaction]] but must take your own [[React
 
 **Using a Higher-Level Spell Slot.** Your [Concentration](Compendium/rules/conditions.md#Concentration) can last longer with a level 9 spell slot (up to 8 hours).
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-sorcerer]]; [[list-spells-classes-warlock]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Sorcerer Spells]]; [[Warlock Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -31,6 +31,6 @@ A vertical column of brilliant fire roars down from above. Each creature in a 10
 
 **Using a Higher-Level Spell Slot.** The Fire damage and the Radiant damage increase by `1d6` for each spell slot level above 5.
 
-**Classes**: [[list-spells-classes-bard]]; [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric]]; [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Spellfire Sorcery)](Compendium/lists/list-spells-classes-spellfire-sorcery-frhof.md "subclass=FRHoF;class=XPHB")
+**Classes**: [[Bard Spells]]; [Cleric (Light Domain)](Spells%20for%20Light%20Domain.md "subclass=XPHB;class=XPHB"); [[Cleric Spells]]; [Paladin (Oath of Devotion)](Spells%20for%20Oath%20of%20Devotion.md "subclass=XPHB;class=XPHB"); [Sorcerer (Spellfire Sorcery)](Spells%20for%20Spellfire%20Sorcery.md "subclass=FRHoF;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

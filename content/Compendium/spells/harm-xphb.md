@@ -23,6 +23,6 @@ aliases: ["Harm"]
 
 You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes `14d6` Necrotic damage, and its [[Hit Points]] maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's [[Hit Points]] maximum below 1.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]
 
 *Source: Player's Handbook (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

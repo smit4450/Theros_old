@@ -44,6 +44,6 @@ The wall, which has AC 10, can be destroyed one layer at a time, in order from r
 | 7 | **Violet.** *Failed Save:* The target has the [Blinded](Compendium/rules/conditions.md#Blinded) condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice). *Additional Effects:* This layer is destroyed by [[dispel-magic-xphb]]. |
 ^prismatic-layers
 
-**Classes**: [[list-spells-classes-bard]]; [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [Wizard (Abjurer)](Spells%20for%20Abjurer.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

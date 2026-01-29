@@ -29,6 +29,6 @@ You overwhelm the mind of one creature you can see within range. If the target h
 
 The [Stunned](Compendium/rules/conditions.md#Stunned) target makes a Constitution saving throw at the end of each of its turns, ending the condition on itself on a success.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-sorcerer]]; [[list-spells-classes-warlock]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Sorcerer Spells]]; [[Warlock Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

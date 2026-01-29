@@ -31,6 +31,6 @@ The [[Sphere (Area of Effect)]] moves 10 feet away from you at the start of each
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 5.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-sorcerer]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Sorcerer Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

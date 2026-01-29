@@ -29,6 +29,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-warlock]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Warlock Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 326*

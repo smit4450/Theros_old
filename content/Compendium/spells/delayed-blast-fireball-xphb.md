@@ -35,6 +35,6 @@ When the bead explodes, flammable objects in the explosion that aren't being wor
 
 **Using a Higher-Level Spell Slot.** The base damage increases by `1d6` for each spell slot level above 7.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-sorcerer]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Sorcerer Spells]]; [Wizard (Evoker)](Spells%20for%20Evoker.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

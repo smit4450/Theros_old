@@ -31,6 +31,6 @@ aliases: ["True Seeing"]
 
 For the duration, the willing creature you touch has [Truesight](Compendium/rules/senses.md#Truesight) with a range of 120 feet.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-sorcerer]]; [[list-spells-classes-warlock]]; [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [[Sorcerer Spells]]; [[Warlock Spells]]; [Wizard (Diviner)](Spells%20for%20Diviner.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -31,6 +31,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-paladin]]; [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [[Paladin Spells]]; [Warlock (Celestial Patron)](Spells%20for%20Celestial%20Patron.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 323*

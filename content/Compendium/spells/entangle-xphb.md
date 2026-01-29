@@ -30,6 +30,6 @@ Grasping plants sprout from the ground in a 20-foot square within range. For the
 
 Each creature (other than you) in the area when you cast the spell must succeed on a Strength saving throw or have the [Restrained](Compendium/rules/conditions.md#Restrained) condition until the spell ends. A [Restrained](Compendium/rules/conditions.md#Restrained) creature can take an action to make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check against your spell save DC. On a success, it frees itself from the grasping plants and is no longer [Restrained](Compendium/rules/conditions.md#Restrained) by them.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [[list-spells-classes-druid]]; [[list-spells-classes-ranger]]
+**Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [[Druid Spells]]; [[Ranger Spells]]
 
 *Source: Player's Handbook (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

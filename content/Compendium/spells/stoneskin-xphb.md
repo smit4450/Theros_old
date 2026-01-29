@@ -35,6 +35,6 @@ aliases: ["Stoneskin"]
 
 Until the spell ends, one willing creature you touch has [[resistance-xphb]] to Bludgeoning, Piercing, and Slashing damage.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Ancients)](Compendium/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-ranger]]; [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Druid Spells]]; [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Ancients)](Spells%20for%20Oath%20of%20the%20Ancients.md "subclass=XPHB;class=XPHB"); [[Ranger Spells]]; [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 321. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

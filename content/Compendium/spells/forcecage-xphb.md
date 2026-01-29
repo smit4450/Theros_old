@@ -35,6 +35,6 @@ A creature inside the cage can't leave it by nonmagical means. If the creature t
 
 This spell can't be dispelled by [[dispel-magic-xphb]].
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-warlock]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Warlock Spells]]; [Wizard (Evoker)](Spells%20for%20Evoker.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

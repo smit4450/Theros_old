@@ -38,6 +38,6 @@ You point at one creature you can see within range, and the single chime of a do
 
 **Cantrip Upgrade.** The damage increases by one die when you reach levels 5 (`2d8` or `2d12`), 11 (`3d8` or `3d12`), and 17 (`4d8` or `4d12`).
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-warlock]]; [[list-spells-classes-wizard]]
+**Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Cleric Spells]]; [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Warlock Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 334*

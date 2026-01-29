@@ -171,7 +171,7 @@ You gain a feature from your Sorcerer subclass.
 
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [[Bonus Action]] to activate it.
 
-In addition, while your Innate Sorcery feature is active, you can use up to two of your [[list-optfeaturetype-mm]] on each spell you cast.
+In addition, while your Innate Sorcery feature is active, you can use up to two of your [[Metamagic]] on each spell you cast.
 
 ### Ability Score Improvement (Level 8)
 
@@ -220,5 +220,5 @@ While your Innate Sorcery feature is active, you can use one Metamagic option on
 ## Optional Features
 
 > [!example]- Optional Features: Metamagic
-> ![Metamagic](Compendium/lists/list-optfeaturetype-mm.md#Metamagic)
+> ![Metamagic](Metamagic.md#Metamagic)
 ^list-optfeature-mm

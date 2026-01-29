@@ -27,6 +27,6 @@ aliases: ["Beacon of Hope"]
 
 Choose any number of creatures within range. For the duration, each target has [[Advantage]] on Wisdom saving throws and [[Death Saving Throw]] and regains the maximum number of [[Hit Points]] possible from any healing.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [[Cleric Spells]]; [Paladin (Oath of Devotion)](Spells%20for%20Oath%20of%20Devotion.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

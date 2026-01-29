@@ -29,6 +29,6 @@ You touch a creature and grant it a measure of protection from death. The first 
 
 If the spell is still in effect when the target is subjected to an effect that would kill it instantly without dealing damage, that effect is negated against the target, and the spell ends.
 
-**Classes**: [[list-spells-classes-bard]]; [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric]]; [[list-spells-classes-paladin]]
+**Classes**: [[Bard Spells]]; [Cleric (Life Domain)](Spells%20for%20Life%20Domain.md "subclass=XPHB;class=XPHB"); [[Cleric Spells]]; [[Paladin Spells]]
 
 *Source: Player's Handbook (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

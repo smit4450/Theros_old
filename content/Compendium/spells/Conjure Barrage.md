@@ -23,6 +23,6 @@ You brandish the weapon used to cast the spell and conjure similar spectral weap
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 3.
 
-**Classes**: [[list-spells-classes-ranger]]
+**Classes**: [[Ranger Spells]]
 
 *Source: Player's Handbook (2024) p. 254*

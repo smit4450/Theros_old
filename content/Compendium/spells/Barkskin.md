@@ -27,6 +27,6 @@ aliases: ["Barkskin"]
 
 You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an [[Armor Class]] of 17 if its AC is lower than that.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [[list-spells-classes-druid]]; [[list-spells-classes-ranger]]
+**Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [[Druid Spells]]; [[Ranger Spells]]
 
 *Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

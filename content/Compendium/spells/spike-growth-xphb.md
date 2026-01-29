@@ -29,6 +29,6 @@ The ground in a 20-foot-radius [[Sphere (Area of Effect)]] centered on a point w
 
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area when the spell is cast must take a [Search](Compendium/rules/actions.md#Search) action and succeed on a Wisdom ([Perception](Compendium/rules/skills.md#Perception) or [Survival](Compendium/rules/skills.md#Survival)) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [[list-spells-classes-druid]]; [[list-spells-classes-ranger]]
+**Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [[Druid Spells]]; [[Ranger Spells]]
 
 *Source: Player's Handbook (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

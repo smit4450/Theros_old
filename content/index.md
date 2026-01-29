@@ -34,7 +34,7 @@ Welcome to the Mythic Odysseys of Theros campaign hub, using the 2024 edition of
 
 ### Spellcasting Resources
 - [[spells]] — searchable list of every spell available in the campaign.
-- Class spell lists: [[list-spells-classes-bard]], [[list-spells-classes-cleric]], [[list-spells-classes-druid]], [[list-spells-classes-paladin]], [[list-spells-classes-ranger]], [[list-spells-classes-sorcerer]], [[list-spells-classes-warlock]], [[list-spells-classes-wizard]].
+- Class spell lists: [[Bard Spells]], [[Cleric Spells]], [[Druid Spells]], [[Paladin Spells]], [[Ranger Spells]], [[Sorcerer Spells]], [[Warlock Spells]], [[Wizard Spells]].
 
 ## Explore Theros
 

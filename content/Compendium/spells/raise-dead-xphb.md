@@ -31,6 +31,6 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 
 Coming back from the dead is an ordeal. The target takes a -4 penalty to [[D20 Test]]. Every time the target finishes a [[Long Rest]], the penalty is reduced by 1 until it becomes 0.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-paladin]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [[Paladin Spells]]
 
 *Source: Player's Handbook (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

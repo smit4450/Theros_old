@@ -31,6 +31,6 @@ aliases: ["Beast Sense"]
 
 You touch a willing Beast. For the duration, you can perceive through the Beast's senses as well as your own. When perceiving through the Beast's senses, you benefit from any special senses it has.
 
-**Classes**: [Barbarian (Path of the Wild Heart)](Compendium/lists/list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [[list-spells-classes-druid]]; [[list-spells-classes-ranger]]
+**Classes**: [Barbarian (Path of the Wild Heart)](Spells%20for%20Path%20of%20the%20Wild%20Heart.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [[Druid Spells]]; [[Ranger Spells]]
 
 *Source: Player's Handbook (2024) p. 245*

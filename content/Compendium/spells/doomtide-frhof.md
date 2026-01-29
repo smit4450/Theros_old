@@ -37,6 +37,6 @@ When the spell is cast, each secondary caster must expend a level 3+ spell slot;
 
 ## Summary
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-warlock]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [[Warlock Spells]]
 
 *Source: FRHoF p. 144*

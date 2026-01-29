@@ -30,6 +30,6 @@ You can designate a password when you cast the spell. A creature that speaks the
 
 The spell's area can't overlap with the area of another Forbiddance spell. If you cast [[forbiddance-xphb]] every day for 30 days in the same location, the spell lasts until it is dispelled, and the Material components are consumed on the last casting.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]
 
 *Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

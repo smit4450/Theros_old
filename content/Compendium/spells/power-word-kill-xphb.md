@@ -27,6 +27,6 @@ aliases: ["Power Word Kill"]
 
 You compel one creature you can see within range to die. If the target has 100 [[Hit Points]] or fewer, it dies. Otherwise, it takes `12d12` Psychic damage.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-sorcerer]]; [[list-spells-classes-warlock]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Sorcerer Spells]]; [[Warlock Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

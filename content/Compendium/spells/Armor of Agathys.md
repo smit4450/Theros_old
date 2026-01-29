@@ -23,6 +23,6 @@ Protective magical frost surrounds you. You gain 5 [[Temporary Hit Points]]. If 
 
 **Using a Higher-Level Spell Slot.** The [[Temporary Hit Points]] and the Cold damage both increase by 5 for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-warlock]]
+**Classes**: [[Warlock Spells]]
 
 *Source: Player's Handbook (2024) p. 243*

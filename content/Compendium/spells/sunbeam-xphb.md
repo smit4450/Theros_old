@@ -35,6 +35,6 @@ Until the spell ends, you can take a [Magic](Compendium/rules/actions.md#Magic) 
 
 For the duration, a mote of brilliant radiance shines above you. It sheds [[Bright Light]] in a 30-foot radius and [[Dim Light]] for an additional 30 feet. This light is sunlight.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]; [[list-spells-classes-sorcerer]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [[Druid Spells]]; [[Sorcerer Spells]]; [Wizard (Evoker)](Spells%20for%20Evoker.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

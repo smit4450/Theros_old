@@ -30,6 +30,6 @@ aliases: ["Pass without Trace"]
 
 You radiate a concealing aura in a 30-foot [[Emanation (Area of Effect)]] for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks and leave no tracks.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Cleric (Trickery Domain)](Compendium/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid]]; [[list-spells-classes-ranger]]
+**Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Cleric (Trickery Domain)](Spells%20for%20Trickery%20Domain.md "subclass=XPHB;class=XPHB"); [[Druid Spells]]; [[Ranger Spells]]
 
 *Source: Player's Handbook (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

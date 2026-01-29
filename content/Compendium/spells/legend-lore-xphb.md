@@ -37,6 +37,6 @@ The lore might consist of important details, amusing revelations, or even secret
 
 If the famous thing you chose isn't actually famous, you hear sad musical notes played on a trombone, and the spell fails.
 
-**Classes**: [[list-spells-classes-bard]]; [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-cleric]]; [Paladin (Oath of Glory)](Compendium/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](Compendium/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [Cleric (Knowledge Domain)](Spells%20for%20Knowledge%20Domain.md "subclass=FRHoF;class=XPHB"); [[Cleric Spells]]; [Paladin (Oath of Glory)](Spells%20for%20Oath%20of%20Glory.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](Spells%20for%20Draconic%20Sorcery.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](Spells%20for%20Diviner.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -33,6 +33,6 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 | 41-50 | The target has the [Deafened](Compendium/rules/conditions.md#Deafened) condition for 1 minute. |
 ^divine-word-effects
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]
 
 *Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -25,6 +25,6 @@ aliases: ["Simbul's Synostodweomer"]
 
 You imbue one creature you touch with magical healing energy for the duration. Whenever the target casts a spell using a spell slot, the target can immediately roll a number of unexpended [[Hit Point Dice]] equal to the spell slot's level and regain [[Hit Points]] equal to the roll's total plus your spellcasting ability modifier; those dice are then expended.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-sorcerer]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Sorcerer Spells]]; [[Wizard Spells]]
 
 *Source: FRHoF p. 145*

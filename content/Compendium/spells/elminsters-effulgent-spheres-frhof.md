@@ -38,6 +38,6 @@ The spell ends early if you have no more spheres remaining.
 
 **Using a Higher-Level Spell Slot.** The number of spheres increases by 1 for every spell slot level above 6.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-druid]]; [[list-spells-classes-sorcerer]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Druid Spells]]; [[Sorcerer Spells]]; [Wizard (Evoker)](Spells%20for%20Evoker.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: FRHoF p. 144*

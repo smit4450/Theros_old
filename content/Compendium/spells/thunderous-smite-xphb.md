@@ -25,6 +25,6 @@ Your strike rings with thunder that is audible within 300 feet of you, and the t
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 1.
 
-**Classes**: [Paladin (Oath of the Noble Genies)](Compendium/lists/list-spells-classes-oath-of-the-noble-genies-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-paladin]]
+**Classes**: [Paladin (Oath of the Noble Genies)](Spells%20for%20Oath%20of%20the%20Noble%20Genies.md "subclass=FRHoF;class=XPHB"); [[Paladin Spells]]
 
 *Source: Player's Handbook (2024) p. 334*

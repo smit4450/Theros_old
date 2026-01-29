@@ -33,6 +33,6 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **Using a Higher-Level Spell Slot.** If you use a level 7 spell slot, you can animate or reassert control over four [[ghoul-xmm]]. If you use a level 8 spell slot, you can animate or reassert control over five [[ghoul-xmm]] or two [[ghast-xmm]] or [[wight-xmm]]. If you use a level 9 spell slot, you can animate or reassert control over six [[ghoul-xmm]], three [[ghast-xmm]] or [[wight-xmm]], or two [[mummy-xmm]]. See the "Monster Manual" for these stat blocks.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-warlock]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [[Warlock Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

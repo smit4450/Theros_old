@@ -31,6 +31,6 @@ Until the spell ends, you can take a [[Bonus Action]] to mentally command any cr
 
 **Using a Higher-Level Spell Slot.** The creature's Slam damage increases by `1d4` (Medium or smaller), `1d6` (Large), or `1d12` (Huge) for each spell slot level above 5.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-sorcerer]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Sorcerer Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

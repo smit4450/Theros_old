@@ -30,6 +30,6 @@ Divine beings aren't necessarily omniscient, so you might receive "unclear" as a
 
 If you cast the spell more than once before finishing a [[Long Rest]], there is a cumulative  chance for each casting after the first that you get no answer.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [Paladin (Oath of Devotion)](Spells%20for%20Oath%20of%20Devotion.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

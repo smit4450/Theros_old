@@ -42,6 +42,6 @@ Alternatively, you cast the spell on an object that isn't being worn or carried,
 
 If any of this spell's area overlaps with an area of [[darkness-xphb]] created by a spell of level 3 or lower, that other spell is dispelled.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]; [[list-spells-classes-paladin]]; [[list-spells-classes-ranger]]; [[list-spells-classes-sorcerer]]; [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Cleric (Light Domain)](Spells%20for%20Light%20Domain.md "subclass=XPHB;class=XPHB"); [[Cleric Spells]]; [[Druid Spells]]; [[Paladin Spells]]; [[Ranger Spells]]; [[Sorcerer Spells]]; [Warlock (Celestial Patron)](Spells%20for%20Celestial%20Patron.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 260. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

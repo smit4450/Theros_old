@@ -34,6 +34,6 @@ If the [Frightened](Compendium/rules/conditions.md#Frightened) or [Charmed](Comp
 
 ## Summary
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-druid]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Druid Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

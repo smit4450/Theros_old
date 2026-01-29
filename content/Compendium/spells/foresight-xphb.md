@@ -29,6 +29,6 @@ aliases: ["Foresight"]
 
 You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has [[Advantage]] on [[D20 Test]], and other creatures have [[Disadvantage]] on attack rolls against it. The spell ends early if you cast it again.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-druid]]; [[list-spells-classes-warlock]]; [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Druid Spells]]; [[Warlock Spells]]; [Wizard (Diviner)](Spells%20for%20Diviner.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

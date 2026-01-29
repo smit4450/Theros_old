@@ -37,6 +37,6 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 A creature that takes the [Study](Compendium/rules/actions.md#Study) action to examine a target can make an Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [[list-spells-classes-bard]]; [Ranger (Gloom Stalker)](Compendium/lists/list-spells-classes-gloom-stalker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer]]; [Warlock (Archfey Patron)](Compendium/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [Ranger (Gloom Stalker)](Spells%20for%20Gloom%20Stalker.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [Warlock (Archfey Patron)](Spells%20for%20Archfey%20Patron.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](Spells%20for%20Illusionist.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

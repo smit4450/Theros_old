@@ -29,6 +29,6 @@ When the sword appears, you make a melee spell attack against a target within 5 
 
 On your later turns, you can take a [[Bonus Action]] to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one.
 
-**Classes**: [[list-spells-classes-bard]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [Wizard (Evoker)](Spells%20for%20Evoker.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Arcane Sword") and the Free Rules (2024)*

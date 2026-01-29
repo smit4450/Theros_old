@@ -39,6 +39,6 @@ When the spell is cast, each secondary caster must expend a level 2+ spell slot;
 
 ## Summary
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-druid]]; [[list-spells-classes-sorcerer]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Druid Spells]]; [[Sorcerer Spells]]; [[Wizard Spells]]
 
 *Source: FRHoF p. 145*

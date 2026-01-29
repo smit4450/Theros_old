@@ -33,6 +33,6 @@ Objects in a 20-foot [[Cube (Area of Effect)]] within range are outlined in blue
 
 [Attack](Compendium/rules/actions.md#Attack) rolls against an affected creature or object have [[Advantage]] if the attacker can see it.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid]]; [Warlock (Archfey Patron)](Compendium/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Cleric (Light Domain)](Spells%20for%20Light%20Domain.md "subclass=XPHB;class=XPHB"); [[Druid Spells]]; [Warlock (Archfey Patron)](Spells%20for%20Archfey%20Patron.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

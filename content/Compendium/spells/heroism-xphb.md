@@ -28,6 +28,6 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-bard]]; [Paladin (Oath of Glory)](Compendium/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-paladin]]
+**Classes**: [[Bard Spells]]; [Paladin (Oath of Glory)](Spells%20for%20Oath%20of%20Glory.md "subclass=XPHB;class=XPHB"); [[Paladin Spells]]
 
 *Source: Player's Handbook (2024) p. 285. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

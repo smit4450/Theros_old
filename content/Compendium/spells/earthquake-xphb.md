@@ -43,6 +43,6 @@ A creature within a distance from a collapsing structure equal to half the struc
 
 ## Summary
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]; [[list-spells-classes-sorcerer]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [[Druid Spells]]; [[Sorcerer Spells]]
 
 *Source: Player's Handbook (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -29,6 +29,6 @@ A storm of fire appears within range. The area of the storm consists of up to te
 
 Flammable objects in the area that aren't being worn or carried start [[burning-xphb]].
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]; [[list-spells-classes-sorcerer]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [[Druid Spells]]; [[Sorcerer Spells]]
 
 *Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

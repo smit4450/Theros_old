@@ -25,6 +25,6 @@ You and up to five willing creatures within 5 feet of you instantly teleport to 
 
 You must designate a location, such as a temple, as a sanctuary by casting this spell there.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]
 
 *Source: Player's Handbook (2024) p. 343. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

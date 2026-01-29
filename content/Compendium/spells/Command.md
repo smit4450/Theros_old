@@ -46,6 +46,6 @@ You speak a one-word command to a creature you can see within range. The target 
 
 **Using a Higher-Level Spell Slot.** You can affect one additional creature for each spell slot level above 1.
 
-**Classes**: [Bard (College of Glamour)](Compendium/lists/list-spells-classes-college-of-glamour-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-cleric]]; [[list-spells-classes-paladin]]; [Sorcerer (Draconic Sorcery)](Compendium/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Fiend Patron)](Compendium/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard (College of Glamour)](Spells%20for%20College%20of%20Glamour.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Cleric (Knowledge Domain)](Spells%20for%20Knowledge%20Domain.md "subclass=FRHoF;class=XPHB"); [[Cleric Spells]]; [[Paladin Spells]]; [Sorcerer (Draconic Sorcery)](Spells%20for%20Draconic%20Sorcery.md "subclass=XPHB;class=XPHB"); [Warlock (Fiend Patron)](Spells%20for%20Fiend%20Patron.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

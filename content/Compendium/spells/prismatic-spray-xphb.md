@@ -41,6 +41,6 @@ Eight rays of light flash from you in a 60-foot [[Cone (Area of Effect)]]. Each 
 | 8 | **Special.** The target is struck by two rays. Roll twice, rerolling any 8. |
 ^prismatic-rays
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-sorcerer]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Sorcerer Spells]]; [Wizard (Evoker)](Spells%20for%20Evoker.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 307. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

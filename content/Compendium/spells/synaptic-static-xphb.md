@@ -31,6 +31,6 @@ You cause psychic energy to erupt at a point within range. Each creature in a 20
 
 On a failed save, a target also has muddled thoughts for 1 minute. During that time, it subtracts `1d6` from all its attack rolls and ability checks, as well as any Constitution saving throws to maintain [Concentration](Compendium/rules/conditions.md#Concentration). The target makes an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**Classes**: [[list-spells-classes-bard]]; [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-sorcerer]]; [[list-spells-classes-warlock]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [Cleric (Knowledge Domain)](Spells%20for%20Knowledge%20Domain.md "subclass=FRHoF;class=XPHB"); [[Sorcerer Spells]]; [[Warlock Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 330*

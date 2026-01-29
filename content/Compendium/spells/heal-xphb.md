@@ -27,6 +27,6 @@ Choose a creature that you can see within range. Positive energy washes through 
 
 **Using a Higher-Level Spell Slot.** The healing increases by `10` for each spell slot level above 6.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [[Druid Spells]]
 
 *Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

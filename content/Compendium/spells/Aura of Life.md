@@ -27,6 +27,6 @@ aliases: ["Aura of Life"]
 
 An aura radiates from you in a 30-foot [[Emanation (Area of Effect)]] for the duration. While in the aura, you and your allies have [[resistance-xphb]] to Necrotic damage, and your [[Hit Points]] maximums can't be reduced. If an ally with 0 [[Hit Points]] starts its turn in the aura, that ally regains 1 [[Hit Points]].
 
-**Classes**: [[list-spells-classes-bard]]; [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric]]; [[list-spells-classes-paladin]]
+**Classes**: [[Bard Spells]]; [Cleric (Life Domain)](Spells%20for%20Life%20Domain.md "subclass=XPHB;class=XPHB"); [[Cleric Spells]]; [[Paladin Spells]]
 
 *Source: Player's Handbook (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

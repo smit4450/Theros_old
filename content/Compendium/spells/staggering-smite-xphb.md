@@ -23,6 +23,6 @@ The target takes an extra `4d6` Psychic damage from the attack, and the target m
 
 **Using a Higher-Level Spell Slot.** The extra damage increases by `1d6` for each spell slot level above 4.
 
-**Classes**: [[list-spells-classes-paladin]]
+**Classes**: [[Paladin Spells]]
 
 *Source: Player's Handbook (2024) p. 320*

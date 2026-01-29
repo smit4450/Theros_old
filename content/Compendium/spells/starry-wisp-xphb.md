@@ -34,6 +34,6 @@ You launch a mote of light at one creature or object within range. Make a ranged
 
 **Cantrip Upgrade.** The damage increases by `1d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Compendium/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-bard]]; [Druid (Circle of the Moon)](Compendium/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid]]
+**Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Spells%20for%20College%20of%20the%20Moon.md "subclass=FRHoF;class=XPHB"); [[Bard Spells]]; [Druid (Circle of the Moon)](Spells%20for%20Circle%20of%20the%20Moon.md "subclass=XPHB;class=XPHB"); [[Druid Spells]]
 
 *Source: Player's Handbook (2024) p. 320. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

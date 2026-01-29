@@ -23,6 +23,6 @@ aliases: ["Power Word Fortify"]
 
 You fortify up to six creatures you can see within range. The spell bestows 120 [[Temporary Hit Points]], which you divide among the spell's recipients.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]
 
 *Source: Player's Handbook (2024) p. 306*

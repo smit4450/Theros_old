@@ -23,6 +23,6 @@ aliases: ["Mass Heal"]
 
 A flood of healing energy flows from you into creatures around you. You restore up to 700 [[Hit Points]], divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell also have the [Blinded](Compendium/rules/conditions.md#Blinded), [Deafened](Compendium/rules/conditions.md#Deafened), and [Poisoned](Compendium/rules/conditions.md#Poisoned) conditions removed from them.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]
 
 *Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

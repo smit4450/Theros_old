@@ -35,6 +35,6 @@ aliases: ["Revivify"]
 
 You touch a creature that has died within the last minute. That creature revives with 1 [[Hit Points]]. This spell can't revive a creature that has died of old age, nor does it restore any missing body parts.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]; [[list-spells-classes-paladin]]; [[list-spells-classes-ranger]]; [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Cleric (Life Domain)](Spells%20for%20Life%20Domain.md "subclass=XPHB;class=XPHB"); [[Cleric Spells]]; [[Druid Spells]]; [[Paladin Spells]]; [[Ranger Spells]]; [Warlock (Celestial Patron)](Spells%20for%20Celestial%20Patron.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

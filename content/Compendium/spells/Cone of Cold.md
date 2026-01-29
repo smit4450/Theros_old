@@ -35,6 +35,6 @@ You unleash a blast of cold air. Each creature in a 60-foot [[Cone (Area of Effe
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 5.
 
-**Classes**: [[list-spells-classes-bard]]; [Druid (Circle of the Land, Polar Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid]]; [Ranger (Winter Walker)](Compendium/lists/list-spells-classes-winter-walker-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-sorcerer]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [Druid (Circle of the Land, Polar Land)](Spells%20for%20Circle%20of%20the%20Land.md "subclass=XPHB;class=XPHB"); [[Druid Spells]]; [Ranger (Winter Walker)](Spells%20for%20Winter%20Walker.md "subclass=FRHoF;class=XPHB"); [[Sorcerer Spells]]; [Wizard (Evoker)](Spells%20for%20Evoker.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 253. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

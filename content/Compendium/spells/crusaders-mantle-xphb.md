@@ -24,6 +24,6 @@ aliases: ["Crusader's Mantle"]
 
 You radiate a magical aura in a 30-foot [[Emanation (Area of Effect)]]. While in the aura, you and your allies each deal an extra `1d4` Radiant damage when hitting with a weapon or an [[Unarmed Strike]].
 
-**Classes**: [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-paladin]]
+**Classes**: [Cleric (War Domain)](Spells%20for%20War%20Domain.md "subclass=XPHB;class=XPHB"); [[Paladin Spells]]
 
 *Source: Player's Handbook (2024) p. 259*

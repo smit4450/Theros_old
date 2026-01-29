@@ -24,6 +24,6 @@ You unleash a string of insults laced with subtle enchantments at one creature y
 
 **Cantrip Upgrade.** The damage increases by `1d6` when you reach levels 5 (`2d6`), 11 (`3d6`), and 17 (`4d6`).
 
-**Classes**: [[list-spells-classes-bard]]
+**Classes**: [[Bard Spells]]
 
 *Source: Player's Handbook (2024) p. 337. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

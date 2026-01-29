@@ -24,6 +24,6 @@ The target hit by the strike takes an extra `3d8` Radiant damage from the attack
 
 **Using a Higher-Level Spell Slot.** The extra damage increases by `1d8` for each spell slot level above 3.
 
-**Classes**: [[list-spells-classes-paladin]]
+**Classes**: [[Paladin Spells]]
 
 *Source: Player's Handbook (2024) p. 247*

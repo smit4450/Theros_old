@@ -35,6 +35,6 @@ When the swarm appears, each creature in it makes a Constitution saving throw, t
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for each spell slot level above 5.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [Druid (Circle of the Land, Tropical Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid]]; [[list-spells-classes-sorcerer]]; [Warlock (Fiend Patron)](Compendium/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [Druid (Circle of the Land, Tropical Land)](Spells%20for%20Circle%20of%20the%20Land.md "subclass=XPHB;class=XPHB"); [[Druid Spells]]; [[Sorcerer Spells]]; [Warlock (Fiend Patron)](Spells%20for%20Fiend%20Patron.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

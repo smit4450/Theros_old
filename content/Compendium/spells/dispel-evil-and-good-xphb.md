@@ -35,6 +35,6 @@ As a [Magic](Compendium/rules/actions.md#Magic) action, you target one creature 
 
 ## Summary
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-paladin]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [[Paladin Spells]]
 
 *Source: Player's Handbook (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -31,6 +31,6 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 **Using a Higher-Level Spell Slot.** The damage increases by `3d6` for each spell slot level above 6.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-sorcerer]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Sorcerer Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -31,6 +31,6 @@ A wave of healing energy washes out from a point you can see within range. Choos
 
 **Using a Higher-Level Spell Slot.** The healing increases by `1d8` for each spell slot level above 5.
 
-**Classes**: [[list-spells-classes-bard]]; [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric]]; [Druid (Circle of the Moon)](Compendium/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid]]
+**Classes**: [[Bard Spells]]; [Cleric (Life Domain)](Spells%20for%20Life%20Domain.md "subclass=XPHB;class=XPHB"); [[Cleric Spells]]; [Druid (Circle of the Moon)](Spells%20for%20Circle%20of%20the%20Moon.md "subclass=XPHB;class=XPHB"); [[Druid Spells]]
 
 *Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

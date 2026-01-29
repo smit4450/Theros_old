@@ -33,6 +33,6 @@ A creature moving through the sheet of frigid air for the first time on a turn m
 
 **Using a Higher-Level Spell Slot.** The damage the wall deals when it appears increases by `2d6` and the damage from passing through the sheet of frigid air increases by `1d6` for each spell slot level above 6.
 
-**Classes**: [[list-spells-classes-bard]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [Wizard (Evoker)](Spells%20for%20Evoker.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 339. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

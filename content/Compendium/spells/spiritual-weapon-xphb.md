@@ -31,6 +31,6 @@ As a [[Bonus Action]] on your later turns, you can move the force up to 20 feet 
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for every slot level above 2.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric]]
+**Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Cleric (War Domain)](Spells%20for%20War%20Domain.md "subclass=XPHB;class=XPHB"); [[Cleric Spells]]
 
 *Source: Player's Handbook (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

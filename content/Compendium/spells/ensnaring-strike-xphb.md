@@ -27,6 +27,6 @@ While [Restrained](Compendium/rules/conditions.md#Restrained), the target takes 
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 1.
 
-**Classes**: [Paladin (Oath of the Ancients)](Compendium/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-ranger]]
+**Classes**: [Paladin (Oath of the Ancients)](Spells%20for%20Oath%20of%20the%20Ancients.md "subclass=XPHB;class=XPHB"); [[Ranger Spells]]
 
 *Source: Player's Handbook (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

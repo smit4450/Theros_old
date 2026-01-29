@@ -33,6 +33,6 @@ A [Restrained](Compendium/rules/conditions.md#Restrained) target makes another C
 
 If you maintain your [Concentration](Compendium/rules/conditions.md#Concentration) on this spell for the entire possible duration, the target is [Petrified](Compendium/rules/conditions.md#Petrified) until the condition is ended by [[greater-restoration-xphb]] or similar magic.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-druid]]; [[list-spells-classes-sorcerer]]; [[list-spells-classes-warlock]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Druid Spells]]; [[Sorcerer Spells]]; [[Warlock Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

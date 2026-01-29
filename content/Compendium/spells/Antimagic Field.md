@@ -33,6 +33,6 @@ Ongoing spells, except those cast by an Artifact or a deity, are suppressed in t
 
 [[dispel-magic-xphb]] has no effect on the aura, and the auras created by different [[Antimagic Field]] spells don't nullify each other.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [Wizard (Abjurer)](Spells%20for%20Abjurer.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

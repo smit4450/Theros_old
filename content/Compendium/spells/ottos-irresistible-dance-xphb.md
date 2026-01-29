@@ -26,6 +26,6 @@ One creature that you can see within range must make a Wisdom saving throw. On a
 
 On a failed save, the target has the [Charmed](Compendium/rules/conditions.md#Charmed) condition for the duration. While [Charmed](Compendium/rules/conditions.md#Charmed), the target dances comically, must use all its movement to dance in place, and has [[Disadvantage]] on Dexterity saving throws and attack rolls, and other creatures have [[Advantage]] on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Irresistible Dance") and the Free Rules (2024)*

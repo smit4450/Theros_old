@@ -29,6 +29,6 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to [[D20 T
 
 Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a [[Long Rest]], you can't cast spells again, and you have [[Disadvantage]] on [[D20 Test]].
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]
 
 *Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

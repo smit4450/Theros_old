@@ -35,6 +35,6 @@ When the [[Cylinder (Area of Effect)]] appears, each creature in it makes a Cons
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for each spell slot level above 2.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Compendium/lists/list-spells-classes-college-of-the-moon-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-bard]]; [Druid (Circle of the Moon)](Compendium/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid]]; [Paladin (Oath of the Ancients)](Compendium/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [Bard (College of the Moon)](Spells%20for%20College%20of%20the%20Moon.md "subclass=FRHoF;class=XPHB"); [[Bard Spells]]; [Druid (Circle of the Moon)](Spells%20for%20Circle%20of%20the%20Moon.md "subclass=XPHB;class=XPHB"); [[Druid Spells]]; [Paladin (Oath of the Ancients)](Spells%20for%20Oath%20of%20the%20Ancients.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

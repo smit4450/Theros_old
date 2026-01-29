@@ -29,6 +29,6 @@ Until the spell ends, you have [[resistance-xphb]] to Radiant damage, and your m
 
 In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a [[Reaction]] to force the creature to make a Constitution saving throw. On a failed save, the creature has the [Blinded](Compendium/rules/conditions.md#Blinded) condition until the end of your next turn.
 
-**Classes**: [[list-spells-classes-bard]]; [Druid (Circle of the Moon)](Compendium/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid]]
+**Classes**: [[Bard Spells]]; [Druid (Circle of the Moon)](Spells%20for%20Circle%20of%20the%20Moon.md "subclass=XPHB;class=XPHB"); [[Druid Spells]]
 
 *Source: Player's Handbook (2024) p. 277*

@@ -28,6 +28,6 @@ aliases: ["Silence"]
 
 For the duration, no sound can be created within or pass through a 20-foot-radius [[Sphere (Area of Effect)]] centered on a point you choose within range. Any creature or object entirely inside the [[Sphere (Area of Effect)]] has [[Immunity]] to Thunder damage, and creatures have the [Deafened](Compendium/rules/conditions.md#Deafened) condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-ranger]]
+**Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [[Cleric Spells]]; [[Ranger Spells]]
 
 *Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

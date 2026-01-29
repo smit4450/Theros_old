@@ -33,6 +33,6 @@ As a [Magic](Compendium/rules/actions.md#Magic) action, you can move the illusor
 
 You can see through its eyes and hear through its ears as if you were located where it is.
 
-**Classes**: [[list-spells-classes-bard]]; [Ranger (Fey Wanderer)](Compendium/lists/list-spells-classes-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-warlock]]; [Wizard (Illusionist)](Compendium/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [Ranger (Fey Wanderer)](Spells%20for%20Fey%20Wanderer.md "subclass=XPHB;class=XPHB"); [[Warlock Spells]]; [Wizard (Illusionist)](Spells%20for%20Illusionist.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

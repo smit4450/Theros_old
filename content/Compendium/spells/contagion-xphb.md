@@ -29,6 +29,6 @@ The target must repeat the saving throw at the end of each of its turns until it
 
 Whenever the [Poisoned](Compendium/rules/conditions.md#Poisoned) target receives an effect that would end the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition, the target must succeed on a Constitution saving throw, or the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition doesn't end on it.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [[Druid Spells]]
 
 *Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

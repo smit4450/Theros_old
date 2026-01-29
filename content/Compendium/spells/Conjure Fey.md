@@ -29,6 +29,6 @@ As a [[Bonus Action]] on your later turns, you can teleport the spirit to an uno
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d12` for each spell slot level above 6.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-druid]]; [[list-spells-classes-warlock]]
+**Classes**: [[Bard Spells]]; [[Druid Spells]]; [[Warlock Spells]]
 
 *Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

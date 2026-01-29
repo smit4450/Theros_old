@@ -29,6 +29,6 @@ If the target drops to 0 [[Hit Points]] before this spell ends, you can take a [
 
 **Using a Higher-Level Spell Slot.** Your [Concentration](Compendium/rules/conditions.md#Concentration) can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).
 
-**Classes**: [Paladin (Oath of Vengeance)](Compendium/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-ranger]]
+**Classes**: [Paladin (Oath of Vengeance)](Spells%20for%20Oath%20of%20Vengeance.md "subclass=XPHB;class=XPHB"); [[Ranger Spells]]
 
 *Source: Player's Handbook (2024) p. 287. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

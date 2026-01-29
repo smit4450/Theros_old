@@ -31,6 +31,6 @@ As a [[Bonus Action]] on your later turns, you can move the rift up to 60 feet a
 
 The blade can harmlessly pass through any barrier, including ones created by spells like [[wall-of-force-xphb]].
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-sorcerer]]; [[list-spells-classes-warlock]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Sorcerer Spells]]; [[Warlock Spells]]; [[Wizard Spells]]
 
 *Source: FRHoF p. 143*

@@ -28,6 +28,6 @@ Burning radiance erupts from you in a 5-foot [[Emanation (Area of Effect)]]. Eac
 
 **Cantrip Upgrade.** The damage increases by `1d6` when you reach levels 5 (`2d6`), 11 (`3d6`), and 17 (`4d6`).
 
-**Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric]]
+**Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Cleric Spells]]
 
 *Source: Player's Handbook (2024) p. 343*

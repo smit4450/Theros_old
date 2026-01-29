@@ -35,6 +35,6 @@ If the container is destroyed or the spell ends, your soul returns to your body.
 
 When the spell ends, the container is destroyed.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -29,6 +29,6 @@ An [Invisible](Compendium/rules/conditions.md#Invisible) wall of force springs i
 
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by [[dispel-magic-xphb]]. A [[disintegrate-xphb]] spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane and blocks ethereal travel through the wall.
 
-**Classes**: [[list-spells-classes-bard]]; [Sorcerer (Clockwork Sorcery)](Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [Sorcerer (Clockwork Sorcery)](Spells%20for%20Clockwork%20Sorcery.md "subclass=XPHB;class=XPHB"); [Wizard (Evoker)](Spells%20for%20Evoker.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 338. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -29,6 +29,6 @@ Negative energy ripples out in a 60-foot-radius [[Sphere (Area of Effect)]] from
 
 **Using a Higher-Level Spell Slot.** The damage increases by `2d8` for each spell slot level above 6.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-sorcerer]]; [[list-spells-classes-warlock]]; [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Sorcerer Spells]]; [[Warlock Spells]]; [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

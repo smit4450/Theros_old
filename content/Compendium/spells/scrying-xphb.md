@@ -57,6 +57,6 @@ On a failed save, the spell creates an [Invisible](Compendium/rules/conditions.m
 
 Instead of targeting a creature, you can target a location you have seen. When you do so, the sensor appears at that location and doesn't move.
 
-**Classes**: [[list-spells-classes-bard]]; [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain-frhof.md "subclass=FRHoF;class=XPHB"); [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]; [Paladin (Oath of Vengeance)](Compendium/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-warlock]]; [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [Cleric (Knowledge Domain)](Spells%20for%20Knowledge%20Domain.md "subclass=FRHoF;class=XPHB"); [Cleric (Light Domain)](Spells%20for%20Light%20Domain.md "subclass=XPHB;class=XPHB"); [[Cleric Spells]]; [[Druid Spells]]; [Paladin (Oath of Vengeance)](Spells%20for%20Oath%20of%20Vengeance.md "subclass=XPHB;class=XPHB"); [[Warlock Spells]]; [Wizard (Diviner)](Spells%20for%20Diviner.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

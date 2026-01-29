@@ -24,6 +24,6 @@ The target takes an extra `1d6` Necrotic damage from the attack, and it must suc
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 1.
 
-**Classes**: [[list-spells-classes-paladin]]
+**Classes**: [[Paladin Spells]]
 
 *Source: Player's Handbook (2024) p. 343*

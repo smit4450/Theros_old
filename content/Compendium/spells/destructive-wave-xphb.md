@@ -21,6 +21,6 @@ aliases: ["Destructive Wave"]
 
 Destructive energy ripples outward from you in a 30-foot [[Emanation (Area of Effect)]]. Each creature you choose in the [[Emanation (Area of Effect)]] makes a Constitution saving throw. On a failed save, a target takes `5d6` Thunder damage and `5d6` Radiant or Necrotic damage (your choice) and has the [Prone](Compendium/rules/conditions.md#Prone) condition. On a successful save, a target takes half as much damage only.
 
-**Classes**: [[list-spells-classes-paladin]]
+**Classes**: [[Paladin Spells]]
 
 *Source: Player's Handbook (2024) p. 261*

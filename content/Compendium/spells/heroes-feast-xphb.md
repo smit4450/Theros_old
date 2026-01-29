@@ -27,6 +27,6 @@ You conjure a feast that appears on a surface in an unoccupied 10-foot [[Cube (A
 
 A creature that partakes gains several benefits, which last for 24 hours. The creature has [[resistance-xphb]] to Poison damage, and it has [[Immunity]] to the [Frightened](Compendium/rules/conditions.md#Frightened) and [Poisoned](Compendium/rules/conditions.md#Poisoned) conditions. Its [[Hit Points]] maximum also increases by `2d10`, and it gains the same number of [[Hit Points]].
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [[Druid Spells]]
 
 *Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

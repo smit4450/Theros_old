@@ -31,6 +31,6 @@ When you cast this spell and as a [[Bonus Action]] on later turns, you can unlea
 
 In addition, while the mote is present, you have [[cover-xphb]], and if you succeed on a saving throw against a spell of level 7 or lower that targeted only you and didn't create an area of effect, you can take a [[Reaction]] to deflect that spell back at the spell's caster; the caster makes a saving throw against that spell using that caster's own spell save DC.
 
-**Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
+**Classes**: [[Bard Spells]]; [[Cleric Spells]]; [Wizard (Evoker)](Spells%20for%20Evoker.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 
 *Source: FRHoF p. 145*
