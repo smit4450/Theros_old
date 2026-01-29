@@ -33,9 +33,9 @@ aliases: ["Stinking Cloud"]
 - **Components:** V, S, M (a rotten egg)
 - **Duration:** Concentration, up to 1 minute
 
-You create a 20-foot-radius [[sphere-area-of-effect-xphb]] of yellow, nauseating gas centered on a point within range. The cloud is [[heavily-obscured-xphb]]. The cloud lingers in the air for the duration or until a strong wind (such as the one created by [[gust-of-wind-xphb]]) disperses it.
+You create a 20-foot-radius [[Sphere (Area of Effect)]] of yellow, nauseating gas centered on a point within range. The cloud is [[Heavily Obscured]]. The cloud lingers in the air for the duration or until a strong wind (such as the one created by [[gust-of-wind-xphb]]) disperses it.
 
-Each creature that starts its turn in the [[sphere-area-of-effect-xphb]] must succeed on a Constitution saving throw or have the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition until the end of the current turn. While [Poisoned](Compendium/rules/conditions.md#Poisoned) in this way, the creature can't take an action or a [[bonus-action-xphb]].
+Each creature that starts its turn in the [[Sphere (Area of Effect)]] must succeed on a Constitution saving throw or have the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition until the end of the current turn. While [Poisoned](Compendium/rules/conditions.md#Poisoned) in this way, the creature can't take an action or a [[Bonus Action]].
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Druid (Circle of the Land, Tropical Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer]]; [Warlock (Fiend Patron)](Compendium/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 

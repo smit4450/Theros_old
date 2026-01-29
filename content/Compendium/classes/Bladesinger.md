@@ -56,15 +56,15 @@ Bladesinging is most often associated with Meletis, the polis renowned for philo
 
 ### Bladesong (Level 3)
 
-As a [[bonus-action-xphb]], you invoke a magic called the Bladesong, provided you aren't wearing armor or using a Shield.
+As a [[Bonus Action]], you invoke a magic called the Bladesong, provided you aren't wearing armor or using a Shield.
 
 The Bladesong lasts for 1 minute and ends early if you have the Incapacitated condition, if you don armor or a Shield, or if you use two hands to make an attack with a weapon. You can dismiss the Bladesong at any time (no action required).
 
-While the Bladesong is active, you gain the following benefits. You can invoke the Bladesong a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb]]. You regain one expended use when you use Arcane Recovery.
+While the Bladesong is active, you gain the following benefits. You can invoke the Bladesong a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]]. You regain one expended use when you use Arcane Recovery.
 
 #### Agility
 
-You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1), and your [[speed-xphb]] increases by 10 feet. In addition, you have [[advantage-xphb]] on Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) checks.
+You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1), and your [[Speed]] increases by 10 feet. In addition, you have [[Advantage]] on Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) checks.
 
 #### Bladework
 
@@ -76,7 +76,7 @@ When you make a Constitution saving throw to maintain [Concentration](Compendium
 
 ### Training in War and Song (Level 3)
 
-You gain proficiency with all Melee Martial weapons that don't have the Two-Handed or Heavy property. You can use a Melee weapon with which you have proficiency as a [[spellcasting-focus-xphb]] for your Wizard spells.
+You gain proficiency with all Melee Martial weapons that don't have the Two-Handed or Heavy property. You can use a Melee weapon with which you have proficiency as a [[Spellcasting Focus]] for your Wizard spells.
 
 You also gain proficiency in one of the following skills of your choice: [Acrobatics](Compendium/rules/skills.md#Acrobatics), [Athletics](Compendium/rules/skills.md#Athletics), [Performance](Compendium/rules/skills.md#Performance), or [Persuasion](Compendium/rules/skills.md#Persuasion).
 
@@ -86,8 +86,8 @@ You can attack twice, instead of once, whenever you take the [Attack](Compendium
 
 ### Song of Defense (Level 10)
 
-When you take damage while your Bladesong is active, you can take a [[reaction-xphb]] to expend one spell slot and reduce the damage taken by an amount equal to five times the spell slot's level.
+When you take damage while your Bladesong is active, you can take a [[Reaction]] to expend one spell slot and reduce the damage taken by an amount equal to five times the spell slot's level.
 
 ### Song of Victory (Level 14)
 
-After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [[bonus-action-xphb]].
+After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [[Bonus Action]].

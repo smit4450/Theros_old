@@ -21,7 +21,7 @@ aliases: ["Harm"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes `14d6` Necrotic damage, and its [[hit-points-xphb]] maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's [[hit-points-xphb]] maximum below 1.
+You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes `14d6` Necrotic damage, and its [[Hit Points]] maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's [[Hit Points]] maximum below 1.
 
 **Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]
 

@@ -11,7 +11,7 @@ aliases:
 
 ## 1st Level
 
-- [Bane](Compendium/spells/bane-xphb.md "XPHB") at class level 3
+- [Bane](Bane.md "XPHB") at class level 3
 - [Hunter's Mark](Compendium/spells/hunters-mark-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
@@ -26,7 +26,7 @@ aliases:
 
 ## 4th Level
 
-- [Banishment](Compendium/spells/banishment-xphb.md "XPHB") at class level 3
+- [Banishment](Banishment.md "XPHB") at class level 3
 - [Dimension Door](Compendium/spells/dimension-door-xphb.md "XPHB") at class level 3
 
 ## 5th Level

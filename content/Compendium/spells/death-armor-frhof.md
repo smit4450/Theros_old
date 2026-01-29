@@ -29,7 +29,7 @@ aliases: ["Death Armor"]
 - **Components:** V, S, M (an onyx worth 50+ GP, which the spell consumes)
 - **Duration:** 1 hour
 
-For the duration, an inky aura surrounds one creature you touch. The target has [[advantage-xphb]] on [[death-saving-throw-xphb]], and once per turn, when a creature within 5 feet of the target hits it with a melee attack roll, the attacker takes `2d4` Necrotic damage.
+For the duration, an inky aura surrounds one creature you touch. The target has [[Advantage]] on [[Death Saving Throw]], and once per turn, when a creature within 5 feet of the target hits it with a melee attack roll, the attacker takes `2d4` Necrotic damage.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer]]; [[list-spells-classes-wizard]]
 

@@ -11,8 +11,8 @@ aliases:
 
 ## 1st Level
 
-- [Alarm](Compendium/spells/alarm-xphb.md "XPHB") 
-- [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md "XPHB") 
+- [Alarm](Alarm.md "XPHB") 
+- [Comprehend Languages](Comprehend%20Languages.md "XPHB") 
 - [Detect Magic](Compendium/spells/detect-magic-xphb.md "XPHB") 
 - [Detect Poison and Disease](Compendium/spells/detect-poison-and-disease-xphb.md "XPHB") 
 - [Find Familiar](Compendium/spells/find-familiar-xphb.md "XPHB") 

@@ -54,15 +54,15 @@ The Circle of the Land comprises mystics and sages who safeguard ancient knowled
 
 ### Circle of the Land Spells (Level 3)
 
-Whenever you finish a [[long-rest-xphb]], choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
+Whenever you finish a [[Long Rest]], choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
 
 **Arid Land**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[blur-xphb]], [[burning-hands-xphb]], [[fire-bolt-xphb]] |
+| 3rd | [[Blur]], [[Burning Hands]], [[fire-bolt-xphb]] |
 | 5th | [[fireball-xphb]] |
-| 7th | [[blight-xphb]] |
+| 7th | [[Blight]] |
 | 9th | [[wall-of-stone-xphb]] |
 ^arid-land
 
@@ -73,7 +73,7 @@ Whenever you finish a [[long-rest-xphb]], choose one type of land: arid, polar, 
 | 3rd | [[fog-cloud-xphb]], [[hold-person-xphb]], [[ray-of-frost-xphb]] |
 | 5th | [[sleet-storm-xphb]] |
 | 7th | [[ice-storm-xphb]] |
-| 9th | [[cone-of-cold-xphb]] |
+| 9th | [[Cone of Cold]] |
 ^polar-land
 
 **Temperate Land**
@@ -90,7 +90,7 @@ Whenever you finish a [[long-rest-xphb]], choose one type of land: arid, polar, 
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[acid-splash-xphb]], [[ray-of-sickness-xphb]], [[web-xphb]] |
+| 3rd | [[Acid Splash]], [[ray-of-sickness-xphb]], [[web-xphb]] |
 | 5th | [[stinking-cloud-xphb]] |
 | 7th | [[polymorph-xphb]] |
 | 9th | [[insect-plague-xphb]] |
@@ -98,15 +98,15 @@ Whenever you finish a [[long-rest-xphb]], choose one type of land: arid, polar, 
 
 ### Land's Aid (Level 3)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius [[sphere-area-of-effect-xphb]] centered on that point. Each creature of your choice in the [[sphere-area-of-effect-xphb]] must make a Constitution saving throw against your spell save DC, taking `2d6` Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains `2d6` [[hit-points-xphb]].
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius [[Sphere (Area of Effect)]] centered on that point. Each creature of your choice in the [[Sphere (Area of Effect)]] must make a Constitution saving throw against your spell save DC, taking `2d6` Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains `2d6` [[Hit Points]].
 
 The damage and healing increase by `1d6` when you reach Druid levels 10 (`3d6`) and 14 (`4d6`).
 
 ### Natural Recovery (Level 6)
 
-You can cast one of the level 1+ spells that you have prepared from your Circle Spells feature without expending a spell slot, and you must finish a [[long-rest-xphb]] before you do so again.
+You can cast one of the level 1+ spells that you have prepared from your Circle Spells feature without expending a spell slot, and you must finish a [[Long Rest]] before you do so again.
 
-In addition, when you finish a [[short-rest-xphb]], you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Druid level (round up), and none of them can be level 6+. For example, if you're a level 6 Druid, you can recover up to three levels' worth of spell slots. You can recover a level 3 spell slot, a level 2 and a level 1 spell slot, or three level 1 spell slots. Once you recover spell slots with this feature, you can't do so again until you finish a [[long-rest-xphb]].
+In addition, when you finish a [[Short Rest]], you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Druid level (round up), and none of them can be level 6+. For example, if you're a level 6 Druid, you can recover up to three levels' worth of spell slots. You can recover a level 3 spell slot, a level 2 and a level 1 spell slot, or three level 1 spell slots. Once you recover spell slots with this feature, you can't do so again until you finish a [[Long Rest]].
 
 ### Nature's Ward (Level 10)
 
@@ -124,6 +124,6 @@ You are immune to the [Poisoned](Compendium/rules/conditions.md#Poisoned) condit
 
 ### Nature's Sanctuary (Level 14)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [[cube-area-of-effect-xphb]] on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition or die. You and your allies have [[cover-xphb]] while in that area, and your allies gain the current [[resistance-xphb]] of your [Nature](Compendium/rules/skills.md#Nature)'s Ward while there.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [[Cube (Area of Effect)]] on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition or die. You and your allies have [[cover-xphb]] while in that area, and your allies gain the current [[resistance-xphb]] of your [Nature](Compendium/rules/skills.md#Nature)'s Ward while there.
 
-As a [[bonus-action-xphb]], you can move the [[cube-area-of-effect-xphb]] up to 60 feet to ground within 120 feet of yourself.
+As a [[Bonus Action]], you can move the [[Cube (Area of Effect)]] up to 60 feet to ground within 120 feet of yourself.

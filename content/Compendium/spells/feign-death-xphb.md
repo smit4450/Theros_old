@@ -34,9 +34,9 @@ aliases: ["Feign Death"]
 
 You touch a willing creature and put it into a cataleptic state that is indistinguishable from death.
 
-For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [Blinded](Compendium/rules/conditions.md#Blinded) and [Incapacitated](Compendium/rules/conditions.md#Incapacitated) conditions, and its [[speed-xphb]] is 0.
+For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [Blinded](Compendium/rules/conditions.md#Blinded) and [Incapacitated](Compendium/rules/conditions.md#Incapacitated) conditions, and its [[Speed]] is 0.
 
-The target also has [[resistance-xphb]] to all damage except Psychic damage, and it has [[immunity-xphb]] to the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition.
+The target also has [[resistance-xphb]] to all damage except Psychic damage, and it has [[Immunity]] to the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 

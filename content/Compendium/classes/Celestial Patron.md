@@ -60,7 +60,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |---------------|--------|
-| 3 | [[aid-xphb]], [[cure-wounds-xphb]], [[guiding-bolt-xphb]], [[lesser-restoration-xphb]], [[light-xphb]], [[sacred-flame-xphb]] |
+| 3 | [[Aid]], [[cure-wounds-xphb]], [[guiding-bolt-xphb]], [[lesser-restoration-xphb]], [[light-xphb]], [[sacred-flame-xphb]] |
 | 5 | [[daylight-xphb]], [[revivify-xphb]] |
 | 7 | [[guardian-of-faith-xphb]], [[wall-of-fire-xphb]] |
 | 9 | [[greater-restoration-xphb]], [[summon-celestial-xphb]] |
@@ -70,7 +70,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s to fuel this healing. The number of dice in the pool equals 1 plus your Warlock level.
 
-As a [[bonus-action-xphb]], you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of [[hit-points-xphb]] equal to the roll's total. Your pool regains all expended dice when you finish a [[long-rest-xphb]].
+As a [[Bonus Action]], you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of [[Hit Points]] equal to the roll's total. Your pool regains all expended dice when you finish a [[Long Rest]].
 
 ### Radiant Soul (Level 6)
 
@@ -78,10 +78,10 @@ Your link to your patron allows you to serve as a conduit for radiant energy. Yo
 
 ### Celestial Resilience (Level 10)
 
-You gain [[temporary-hit-points-xphb]] whenever you use your Magical Cunning feature or finish a [[short-rest-xphb]] or [[long-rest-xphb]]. These [[temporary-hit-points-xphb]] equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see when you gain the points. Those creatures each gain [[temporary-hit-points-xphb]] equal to half your Warlock level plus your Charisma modifier.
+You gain [[Temporary Hit Points]] whenever you use your Magical Cunning feature or finish a [[Short Rest]] or [[Long Rest]]. These [[Temporary Hit Points]] equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see when you gain the points. Those creatures each gain [[Temporary Hit Points]] equal to half your Warlock level plus your Charisma modifier.
 
 ### Searing Vengeance (Level 14)
 
-When you or an ally within 60 feet of you is about to make a [[death-saving-throw-xphb]], you can unleash radiant energy to save the creature. The creature regains [[hit-points-xphb]] equal to half its [[hit-points-xphb]] maximum and can end the [Prone](Compendium/rules/conditions.md#Prone) condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to `2d8` plus your Charisma modifier, and each has the [Blinded](Compendium/rules/conditions.md#Blinded) condition until the end of the current turn.
+When you or an ally within 60 feet of you is about to make a [[Death Saving Throw]], you can unleash radiant energy to save the creature. The creature regains [[Hit Points]] equal to half its [[Hit Points]] maximum and can end the [Prone](Compendium/rules/conditions.md#Prone) condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to `2d8` plus your Charisma modifier, and each has the [Blinded](Compendium/rules/conditions.md#Blinded) condition until the end of the current turn.
 
-Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]].
+Once you use this feature, you can't use it again until you finish a [[Long Rest]].

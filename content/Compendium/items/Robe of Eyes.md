@@ -15,7 +15,7 @@ aliases:
 
 This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:
 
-- **All-Around Vision.** The robe gives you [[advantage-xphb]] on Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks that rely on sight.  
+- **All-Around Vision.** The robe gives you [[Advantage]] on Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks that rely on sight.  
 - **Special Senses.** You have [Darkvision](Compendium/rules/senses.md#Darkvision) and [Truesight](Compendium/rules/senses.md#Truesight), both with a range of 120 feet.  
 
 ## Drawbacks

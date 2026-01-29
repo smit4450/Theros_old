@@ -72,7 +72,7 @@ Monks generally view adventures as tests of their physical and mental developmen
 
 ### Martial Arts (Level 1)
 
-Your practice of martial arts gives you mastery of combat styles that use your [[unarmed-strike-xphb]] and Monk weapons, which are the following:
+Your practice of martial arts gives you mastery of combat styles that use your [[Unarmed Strike]] and Monk weapons, which are the following:
 
 - Simple Melee Weapons  
 - Martial Melee Weapons that have the Light property  
@@ -81,19 +81,19 @@ You gain the following benefits while you are unarmed or wielding only Monk weap
 
 ### Bonus Unarmed Strike (Level 1)
 
-You can make an [[unarmed-strike-xphb]] as a [[bonus-action-xphb]].
+You can make an [[Unarmed Strike]] as a [[Bonus Action]].
 
 ### Martial Arts Die (Level 1)
 
-You can roll `1d6` in place of the normal damage of your [[unarmed-strike-xphb]] or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
+You can roll `1d6` in place of the normal damage of your [[Unarmed Strike]] or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
 
 ### Dexterous Attacks (Level 1)
 
-You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your [[unarmed-strike-xphb]], you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
+You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your [[Unarmed Strike]], you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
 
 ### Unarmored Defense (Level 1)
 
-While you aren't wearing armor or wielding a [[Shield]], your base [[armor-class-xphb]] equals 10 plus your Dexterity and Wisdom modifiers.
+While you aren't wearing armor or wielding a [[Shield]], your base [[Armor Class]] equals 10 plus your Dexterity and Wisdom modifiers.
 
 ### Monk's Focus (Level 2)
 
@@ -101,21 +101,21 @@ Your focus and martial training allow you to harness a well of extraordinary ene
 
 You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below.
 
-When you expend a Focus Point, it is unavailable until you finish a [[short-rest-xphb]] or [[long-rest-xphb]], at the end of which you regain all your expended points.
+When you expend a Focus Point, it is unavailable until you finish a [[Short Rest]] or [[Long Rest]], at the end of which you regain all your expended points.
 
-Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and [[proficiency-xphb]].
+Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and [[Proficiency]].
 
 ### Flurry of Blows (Level 2)
 
-You can expend 1 Focus Point to make two Unarmed Strikes as a [[bonus-action-xphb]].
+You can expend 1 Focus Point to make two Unarmed Strikes as a [[Bonus Action]].
 
 ### Patient Defense (Level 2)
 
-You can take the [Disengage](Compendium/rules/actions.md#Disengage) action as a [[bonus-action-xphb]]. Alternatively, you can expend 1 Focus Point to take both the [Disengage](Compendium/rules/actions.md#Disengage) and the [Dodge](Compendium/rules/actions.md#Dodge) actions as a [[bonus-action-xphb]].
+You can take the [Disengage](Compendium/rules/actions.md#Disengage) action as a [[Bonus Action]]. Alternatively, you can expend 1 Focus Point to take both the [Disengage](Compendium/rules/actions.md#Disengage) and the [Dodge](Compendium/rules/actions.md#Dodge) actions as a [[Bonus Action]].
 
 ### Step of the Wind (Level 2)
 
-You can take the [Dash](Compendium/rules/actions.md#Dash) action as a [[bonus-action-xphb]]. Alternatively, you can expend 1 Focus Point to take both the [Disengage](Compendium/rules/actions.md#Disengage) and [Dash](Compendium/rules/actions.md#Dash) actions as a [[bonus-action-xphb]], and your jump distance is doubled for the turn.
+You can take the [Dash](Compendium/rules/actions.md#Dash) action as a [[Bonus Action]]. Alternatively, you can expend 1 Focus Point to take both the [Disengage](Compendium/rules/actions.md#Disengage) and [Dash](Compendium/rules/actions.md#Dash) actions as a [[Bonus Action]], and your jump distance is doubled for the turn.
 
 ### Unarmored Movement (Level 2)
 
@@ -123,13 +123,13 @@ Your speed increases by 10 feet while you aren't wearing armor or wielding a [[S
 
 ### Uncanny Metabolism (Level 2)
 
-When you roll [[initiative-xphb]], you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of [[hit-points-xphb]] equal to your Monk level plus the number rolled.
+When you roll [[Initiative]], you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of [[Hit Points]] equal to your Monk level plus the number rolled.
 
-Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]].
+Once you use this feature, you can't use it again until you finish a [[Long Rest]].
 
 ### Deflect Attacks (Level 3)
 
-When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a [[reaction-xphb]] to reduce the attack's total damage against you. The reduction equals `1d10` plus your Dexterity modifier and Monk level.
+When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a [[Reaction]] to reduce the attack's total damage against you. The reduction equals `1d10` plus your Dexterity modifier and Monk level.
 
 If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind [[cover-xphb]] if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
 
@@ -143,7 +143,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Slow Fall (Level 4)
 
-You can take a [[reaction-xphb]] when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
+You can take a [[Reaction]] when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
 
 ### Extra Attack (Level 5)
 
@@ -151,11 +151,11 @@ You can attack twice instead of once whenever you take the [Attack](Compendium/r
 
 ### Stunning Strike (Level 5)
 
-Once per turn when you hit a creature with a Monk weapon or an [[unarmed-strike-xphb]], you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the [Stunned](Compendium/rules/conditions.md#Stunned) condition until the start of your next turn. On a successful save, the target's [[speed-xphb]] is halved until the start of your next turn, and the next attack roll made against the target before then has [[advantage-xphb]].
+Once per turn when you hit a creature with a Monk weapon or an [[Unarmed Strike]], you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the [Stunned](Compendium/rules/conditions.md#Stunned) condition until the start of your next turn. On a successful save, the target's [[Speed]] is halved until the start of your next turn, and the next attack roll made against the target before then has [[Advantage]].
 
 ### Empowered Strikes (Level 6)
 
-Whenever you deal damage with your [[unarmed-strike-xphb]], it can deal your choice of Force damage or its normal damage type.
+Whenever you deal damage with your [[Unarmed Strike]], it can deal your choice of Force damage or its normal damage type.
 
 ### Subclass Feature (Level 6)
 
@@ -185,7 +185,7 @@ You can expend 1 Focus Point to use Flurry of Blows and make three Unarmed Strik
 
 #### Patient Defense
 
-When you expend a Focus Point to use Patient Defense, you gain a number of [[temporary-hit-points-xphb]] equal to two rolls of your Martial Arts die.
+When you expend a Focus Point to use Patient Defense, you gain a number of [[Temporary Hit Points]] equal to two rolls of your Martial Arts die.
 
 #### Step of the Wind
 
@@ -217,7 +217,7 @@ Additionally, whenever you make a saving throw and fail, you can expend 1 Focus 
 
 ### Perfect Focus (Level 15)
 
-When you roll [[initiative-xphb]] and don't use Uncanny Metabolism, you regain expended Focus Points until you have 4 if you have 3 or fewer.
+When you roll [[Initiative]] and don't use Uncanny Metabolism, you regain expended Focus Points until you have 4 if you have 3 or fewer.
 
 ### Ability Score Improvement (Level 16)
 

@@ -17,8 +17,8 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Dexterity or Constitution by 1, to a maximum of 20.
 
-**Speed Increase.** Your [[speed-xphb]] increases by 10 feet.
+**Speed Increase.** Your [[Speed]] increases by 10 feet.
 
-**Dash over Difficult Terrain.** When you take the [Dash](Compendium/rules/actions.md#Dash) action on your turn, [[difficult-terrain-xphb]] doesn't cost you extra movement for the rest of that turn.
+**Dash over Difficult Terrain.** When you take the [Dash](Compendium/rules/actions.md#Dash) action on your turn, [[Difficult Terrain]] doesn't cost you extra movement for the rest of that turn.
 
-**Agile Movement.** [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) have [[disadvantage-xphb]] against you.
+**Agile Movement.** [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) have [[Disadvantage]] against you.

@@ -27,8 +27,8 @@ aliases:
 
 ## 1st Level
 
-- [Animal Friendship](Compendium/spells/animal-friendship-xphb.md "XPHB")
-- [Charm Person](Compendium/spells/charm-person-xphb.md "XPHB")
+- [Animal Friendship](Animal%20Friendship.md "XPHB")
+- [Charm Person](Charm%20Person.md "XPHB")
 - [Create or Destroy Water](Compendium/spells/create-or-destroy-water-xphb.md "XPHB")
 - [Cure Wounds](Compendium/spells/cure-wounds-xphb.md "XPHB")
 - [Detect Magic](Compendium/spells/detect-magic-xphb.md "XPHB")
@@ -48,11 +48,11 @@ aliases:
 
 ## 2nd Level
 
-- [Aid](Compendium/spells/aid-xphb.md "XPHB")
-- [Animal Messenger](Compendium/spells/animal-messenger-xphb.md "XPHB")
-- [Augury](Compendium/spells/augury-xphb.md "XPHB")
-- [Barkskin](Compendium/spells/barkskin-xphb.md "XPHB")
-- [Beast Sense](Compendium/spells/beast-sense-xphb.md "XPHB")
+- [Aid](Aid.md "XPHB")
+- [Animal Messenger](Animal%20Messenger.md "XPHB")
+- [Augury](Augury.md "XPHB")
+- [Barkskin](Barkskin.md "XPHB")
+- [Beast Sense](Beast%20Sense.md "XPHB")
 - [Continual Flame](Compendium/spells/continual-flame-xphb.md "XPHB")
 - [Darkvision](Compendium/spells/darkvision-xphb.md "XPHB")
 - [Enhance Ability](Compendium/spells/enhance-ability-xphb.md "XPHB")
@@ -74,9 +74,9 @@ aliases:
 
 ## 3rd Level
 
-- [Aura of Vitality](Compendium/spells/aura-of-vitality-xphb.md "XPHB")
-- [Call Lightning](Compendium/spells/call-lightning-xphb.md "XPHB")
-- [Conjure Animals](Compendium/spells/conjure-animals-xphb.md "XPHB")
+- [Aura of Vitality](Aura%20of%20Vitality.md "XPHB")
+- [Call Lightning](Call%20Lightning.md "XPHB")
+- [Conjure Animals](Conjure%20Animals.md "XPHB")
 - [Daylight](Compendium/spells/daylight-xphb.md "XPHB")
 - [Dispel Magic](Compendium/spells/dispel-magic-xphb.md "XPHB")
 - [Elemental Weapon](Compendium/spells/elemental-weapon-xphb.md "XPHB")
@@ -95,11 +95,11 @@ aliases:
 
 ## 4th Level
 
-- [Blight](Compendium/spells/blight-xphb.md "XPHB")
-- [Charm Monster](Compendium/spells/charm-monster-xphb.md "XPHB")
-- [Confusion](Compendium/spells/confusion-xphb.md "XPHB")
-- [Conjure Minor Elementals](Compendium/spells/conjure-minor-elementals-xphb.md "XPHB")
-- [Conjure Woodland Beings](Compendium/spells/conjure-woodland-beings-xphb.md "XPHB")
+- [Blight](Blight.md "XPHB")
+- [Charm Monster](Charm%20Monster.md "XPHB")
+- [Confusion](Confusion.md "XPHB")
+- [Conjure Minor Elementals](Conjure%20Minor%20Elementals.md "XPHB")
+- [Conjure Woodland Beings](Conjure%20Woodland%20Beings.md "XPHB")
 - [Control Water](Compendium/spells/control-water-xphb.md "XPHB")
 - [Divination](Compendium/spells/divination-xphb.md "XPHB")
 - [Dominate Beast](Compendium/spells/dominate-beast-xphb.md "XPHB")
@@ -119,12 +119,12 @@ aliases:
 
 ## 5th Level
 
-- [Alustriel's Mooncloak](Compendium/spells/alustriels-mooncloak-frhof.md "FRHoF") (\*)
-- [Antilife Shell](Compendium/spells/antilife-shell-xphb.md "XPHB")
-- [Awaken](Compendium/spells/awaken-xphb.md "XPHB")
-- [Commune with Nature](Compendium/spells/commune-with-nature-xphb.md "XPHB")
-- [Cone of Cold](Compendium/spells/cone-of-cold-xphb.md "XPHB")
-- [Conjure Elemental](Compendium/spells/conjure-elemental-xphb.md "XPHB")
+- [Alustriel's Mooncloak](Alustriel's%20Mooncloak.md "FRHoF") (\*)
+- [Antilife Shell](Antilife%20Shell.md "XPHB")
+- [Awaken](Awaken.md "XPHB")
+- [Commune with Nature](Commune%20with%20Nature.md "XPHB")
+- [Cone of Cold](Cone%20of%20Cold.md "XPHB")
+- [Conjure Elemental](Conjure%20Elemental.md "XPHB")
 - [Contagion](Compendium/spells/contagion-xphb.md "XPHB")
 - [Geas](Compendium/spells/geas-xphb.md "XPHB")
 - [Greater Restoration](Compendium/spells/greater-restoration-xphb.md "XPHB")
@@ -139,7 +139,7 @@ aliases:
 
 ## 6th Level
 
-- [Conjure Fey](Compendium/spells/conjure-fey-xphb.md "XPHB")
+- [Conjure Fey](Conjure%20Fey.md "XPHB")
 - [Elminster's Effulgent Spheres](Compendium/spells/elminsters-effulgent-spheres-frhof.md "FRHoF") (\*)
 - [Find the Path](Compendium/spells/find-the-path-xphb.md "XPHB")
 - [Flesh to Stone](Compendium/spells/flesh-to-stone-xphb.md "XPHB")
@@ -162,9 +162,9 @@ aliases:
 
 ## 8th Level
 
-- [Animal Shapes](Compendium/spells/animal-shapes-xphb.md "XPHB")
-- [Antipathy/Sympathy](Compendium/spells/antipathy-sympathy-xphb.md "XPHB")
-- [Befuddlement](Compendium/spells/befuddlement-xphb.md "XPHB")
+- [Animal Shapes](Animal%20Shapes.md "XPHB")
+- [Antipathy/Sympathy](Antipathy-Sympathy.md "XPHB")
+- [Befuddlement](Befuddlement.md "XPHB")
 - [Control Weather](Compendium/spells/control-weather-xphb.md "XPHB")
 - [Earthquake](Compendium/spells/earthquake-xphb.md "XPHB")
 - [Incendiary Cloud](Compendium/spells/incendiary-cloud-xphb.md "XPHB")

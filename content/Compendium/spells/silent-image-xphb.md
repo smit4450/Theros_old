@@ -34,7 +34,7 @@ aliases: ["Silent Image"]
 - **Components:** V, S, M (a bit of fleece)
 - **Duration:** Concentration, up to 10 minutes
 
-You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot [[cube-area-of-effect-xphb]]. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.
+You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot [[Cube (Area of Effect)]]. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.
 
 As a [Magic](Compendium/rules/actions.md#Magic) action, you can cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
 

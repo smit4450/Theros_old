@@ -21,5 +21,5 @@ aliases:
 | 5 | A [[stone-giant-xmm]] interrupts a session of games and demands a chance to compete. |
 | 6 | A promoter forces athletes to overexert themselves, causing dangerous accidents during competitions. |
 | 7 | An [[archmage-xmm]] enchants or polymorphs innocents, forcing them to participate in brutal contests. |
-| 8 | A [[druid-xmm]] uses the [[awaken-xphb]] spell on beasts in the arena to make them more capable competitors. |
+| 8 | A [[druid-xmm]] uses the [[Awaken]] spell on beasts in the arena to make them more capable competitors. |
 ^arena-villains

@@ -21,7 +21,7 @@ aliases: ["Divine Word"]
 - **Components:** V
 - **Duration:** Instantaneous
 
-You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 [[hit-points-xphb]] or fewer suffers an effect based on its current [[hit-points-xphb]], as shown in the Divine Word Effects table. Regardless of its [[hit-points-xphb]], a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to the current plane for 24 hours by any means short of a [[wish-xphb]] spell.
+You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 [[Hit Points]] or fewer suffers an effect based on its current [[Hit Points]], as shown in the Divine Word Effects table. Regardless of its [[Hit Points]], a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to the current plane for 24 hours by any means short of a [[wish-xphb]] spell.
 
 **Divine Word Effects**
 

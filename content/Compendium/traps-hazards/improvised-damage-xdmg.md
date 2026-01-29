@@ -21,6 +21,6 @@ The Damage Severity and Level table is a guide to how deadly these damage amount
 
 Nuisance damage rarely poses a risk of death to characters of the levels shown, but a severely weakened character might be laid low by this damage.
 
-Deadly damage poses a significant threat to characters of the levels shown and could potentially kill such a character that's missing many [[hit-points-xphb]].
+Deadly damage poses a significant threat to characters of the levels shown and could potentially kill such a character that's missing many [[Hit Points]].
 
 *Source: Dungeon Master's Guide (2024) p. 30*

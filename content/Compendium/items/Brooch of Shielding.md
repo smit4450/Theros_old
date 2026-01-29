@@ -13,6 +13,6 @@ aliases:
 ![](Compendium/items/img/brooch-of-shielding.webp#right)
 
 
-While wearing this brooch, you have [[resistance-xphb]] to Force damage, and you have [[immunity-xphb]] to damage from the [[magic-missile-xphb]] spell.
+While wearing this brooch, you have [[resistance-xphb]] to Force damage, and you have [[Immunity]] to damage from the [[magic-missile-xphb]] spell.
 
 *Source: Dungeon Master's Guide (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

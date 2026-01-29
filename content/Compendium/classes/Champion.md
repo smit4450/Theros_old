@@ -54,13 +54,13 @@ A Champion focuses on the development of martial prowess in a relentless pursuit
 
 ### Improved Critical (Level 3)
 
-Your attack rolls with weapons and Unarmed Strikes can score a [[critical-hit-xphb]] on a roll of 19 or 20 on the `d20`.
+Your attack rolls with weapons and Unarmed Strikes can score a [[Critical Hit]] on a roll of 19 or 20 on the `d20`.
 
 ### Remarkable Athlete (Level 3)
 
-Thanks to your athleticism, you have [[advantage-xphb]] on [[initiative-xphb]] rolls and Strength ([Athletics](Compendium/rules/skills.md#Athletics)) checks.
+Thanks to your athleticism, you have [[Advantage]] on [[Initiative]] rolls and Strength ([Athletics](Compendium/rules/skills.md#Athletics)) checks.
 
-In addition, immediately after you score a [[critical-hit-xphb]], you can move up to half your [[speed-xphb]] without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
+In addition, immediately after you score a [[Critical Hit]], you can move up to half your [[Speed]] without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
 ### Additional Fighting Style (Level 7)
 
@@ -68,11 +68,11 @@ You gain another Fighting Style feat of your choice.
 
 ### Heroic Warrior (Level 10)
 
-The thrill of battle drives you toward victory. During combat, you can give yourself [[heroic-inspiration-xphb]] whenever you start your turn without it.
+The thrill of battle drives you toward victory. During combat, you can give yourself [[Heroic Inspiration]] whenever you start your turn without it.
 
 ### Superior Critical (Level 15)
 
-Your attack rolls with weapons and Unarmed Strikes can now score a [[critical-hit-xphb]] on a roll of 18–20 on the `d20`.
+Your attack rolls with weapons and Unarmed Strikes can now score a [[Critical Hit]] on a roll of 18–20 on the `d20`.
 
 ### Survivor (Level 18)
 
@@ -80,8 +80,8 @@ You attain the pinnacle of resilience in battle, giving you these benefits.
 
 #### Defy Death
 
-You have [[advantage-xphb]] on [[death-saving-throw-xphb]]. Moreover, when you roll 18–20 on a [[death-saving-throw-xphb]], you gain the benefit of rolling a 20 on it.
+You have [[Advantage]] on [[Death Saving Throw]]. Moreover, when you roll 18–20 on a [[Death Saving Throw]], you gain the benefit of rolling a 20 on it.
 
 #### Heroic Rally
 
-At the start of each of your turns, you regain [[hit-points-xphb]] equal to 5 plus your Constitution modifier if you are [Bloodied](Compendium/rules/conditions.md#Bloodied) and have at least 1 [[hit-points-xphb]].
+At the start of each of your turns, you regain [[Hit Points]] equal to 5 plus your Constitution modifier if you are [Bloodied](Compendium/rules/conditions.md#Bloodied) and have at least 1 [[Hit Points]].

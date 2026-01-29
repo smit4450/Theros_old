@@ -39,7 +39,7 @@ A monster has a stat block that contains the rules necessary to use it in the ga
 
 - **Name and General Details.** The name of the monster is followed by its size, creature type (along with any descriptive tags), and alignment.  
 
-- **Combat Highlights.** [[armor-class-xphb]], [[hit-points-xphb]], [[speed-xphb]], and [[initiative-xphb]] are provided here.  
+- **Combat Highlights.** [[Armor Class]], [[Hit Points]], [[Speed]], and [[Initiative]] are provided here.  
 
 - **Ability Scores.** A monster's ability scores, ability modifiers, and saving throws are listed here.  
 
@@ -86,7 +86,7 @@ Each entry includes at least one stat block. Stat blocks are explored in the nex
 
 ## Parts of a Stat Block
 
-The rules for a [[stat-block-xphb]] are detailed in the rules glossary of the "Player's Handbook" and in this section.
+The rules for a [[Stat Block]] are detailed in the rules glossary of the "Player's Handbook" and in this section.
 
 ### Size
 
@@ -125,29 +125,29 @@ The "Player's Handbook" describes the "nine alignments" and "unaligned creatures
 
 ### Armor Class
 
-A monster's [[armor-class-xphb]] (AC) includes its natural armor, Dexterity, gear, and other defenses. See the "Player's Handbook" for information on [[armor-class-xphb]].
+A monster's [[Armor Class]] (AC) includes its natural armor, Dexterity, gear, and other defenses. See the "Player's Handbook" for information on [[Armor Class]].
 
 ### Initiative
 
-The [[initiative-xphb]] entry specifies the monster's [[initiative-xphb]] modifier followed by the monster's [[initiative-xphb]] score in parentheses. Use the modifier when you roll to determine a monster's [[initiative-xphb]]. A monster's [[initiative-xphb]] modifier is typically equal to its Dexterity modifier, but some monsters have additional modifiers, such as [[proficiency-xphb]], applied to that number.
+The [[Initiative]] entry specifies the monster's [[Initiative]] modifier followed by the monster's [[Initiative]] score in parentheses. Use the modifier when you roll to determine a monster's [[Initiative]]. A monster's [[Initiative]] modifier is typically equal to its Dexterity modifier, but some monsters have additional modifiers, such as [[Proficiency]], applied to that number.
 
-If you don't want to roll a monster's [[initiative-xphb]], use the [[initiative-xphb]] score as the monster's [[initiative-xphb]] in combat. [[initiative-xphb]] is further detailed in the "Player's Handbook".
+If you don't want to roll a monster's [[Initiative]], use the [[Initiative]] score as the monster's [[Initiative]] in combat. [[Initiative]] is further detailed in the "Player's Handbook".
 
 ### Hit Points
 
-A monster's [[hit-points-xphb]] are presented as a number followed by parentheses, where the monster's [[hit-point-dice-xphb]] are provided, along with any contribution from its Constitution. Either use the number for the monster's [[hit-points-xphb]] or roll the die expression in parentheses to determine the monster's [[hit-points-xphb]] randomly; don't use both.
+A monster's [[Hit Points]] are presented as a number followed by parentheses, where the monster's [[Hit Point Dice]] are provided, along with any contribution from its Constitution. Either use the number for the monster's [[Hit Points]] or roll the die expression in parentheses to determine the monster's [[Hit Points]] randomly; don't use both.
 
-A monster's size typically determines the die used to calculate its [[hit-points-xphb]], as shown in the Hit Dice by [[size-xphb]] table.
+A monster's size typically determines the die used to calculate its [[Hit Points]], as shown in the Hit Dice by [[Size]] table.
 
 ![[parts-of-a-stat-block-hit-dice-by-size-xmm]]
 
-A monster's Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its [[hit-points-xphb]]. For example, if a monster has a Constitution of 12 (+1 modifier) and `2d8` Hit Dice, it has `2d8 + 2` [[hit-points-xphb]] (average 11).
+A monster's Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its [[Hit Points]]. For example, if a monster has a Constitution of 12 (+1 modifier) and `2d8` Hit Dice, it has `2d8 + 2` [[Hit Points]] (average 11).
 
-For more on [[hit-points-xphb]], see the "Player's Handbook".
+For more on [[Hit Points]], see the "Player's Handbook".
 
 ### Speed
 
-The Speed entry specifies a monster's Speed. Some monsters have one or more of the following speeds: [[burrow-speed-xphb]], [[climb-speed-xphb]], [[fly-speed-xphb]], [[swim-speed-xphb]]. Rules for [[speed-xphb]] and these specials speeds appear in the "Player's Handbook".
+The Speed entry specifies a monster's Speed. Some monsters have one or more of the following speeds: [[Burrow Speed]], [[Climb Speed]], [[Fly Speed]], [[Swim Speed]]. Rules for [[Speed]] and these specials speeds appear in the "Player's Handbook".
 
 ### Ability Scores
 
@@ -155,15 +155,15 @@ Every monster has six ability scores along with corresponding ability score modi
 
 ### Skills
 
-The Skills entry specifies a monster's skill proficiencies, if any. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom ([Perception](Compendium/rules/skills.md#Perception)) and Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks. A skill bonus is the sum of a monster's relevant ability modifier and its [[proficiency-xphb]]. Other modifiers might apply.
+The Skills entry specifies a monster's skill proficiencies, if any. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom ([Perception](Compendium/rules/skills.md#Perception)) and Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks. A skill bonus is the sum of a monster's relevant ability modifier and its [[Proficiency]]. Other modifiers might apply.
 
 ### Resistances and Vulnerabilities
 
-These entries list a monster's [[resistance-xphb]] and [[vulnerability-xphb]], if any. See the "Player's Handbook" for more information.
+These entries list a monster's [[resistance-xphb]] and [[Vulnerability]], if any. See the "Player's Handbook" for more information.
 
 ### Immunities
 
-This entry lists the monster's [[immunity-xphb]], if any. If the monster has damage and condition Immunities, the damage types are listed before the conditions. See the "Player's Handbook" for details.
+This entry lists the monster's [[Immunity]], if any. If the monster has damage and condition Immunities, the damage types are listed before the conditions. See the "Player's Handbook" for details.
 
 ### Gear
 
@@ -181,11 +181,11 @@ A monster that requires ammunition to make ranged attacks carries the necessary 
 
 You may equip monsters with additional gear however you like, using the equipment chapter of the "Player's Handbook" for inspiration. You decide how much of a monster's equipment is recoverable after the creature is slain and whether any of that equipment is still usable.
 
-Beware of giving a monster combat-oriented magic items, since those might alter the monster's [[challenge-rating-xphb]]. If you do give a monster a magic item, the monster can have [[attunement-xphb]] with magic items as noted in the "Player's Handbook". A monster with a class tag after its creature type is considered a member of that class for [[attunement-xphb]] purposes.
+Beware of giving a monster combat-oriented magic items, since those might alter the monster's [[Challenge Rating]]. If you do give a monster a magic item, the monster can have [[Attunement]] with magic items as noted in the "Player's Handbook". A monster with a class tag after its creature type is considered a member of that class for [[Attunement]] purposes.
 
 > [!note] Running a Monster
 > 
-> To ensure a monster acts in accordance with its [[challenge-rating-xphb]], follow these rules during combat:
+> To ensure a monster acts in accordance with its [[Challenge Rating]], follow these rules during combat:
 > 
 > - **Special Abilities.** If the monster has a special ability that deals a lot of damage but has a limited number of uses, such as a recharging breath weapon or a spell it can cast only once per day, have it use that special ability as quickly and as often as possible.  
 > - **Multiattack.** If the monster has Multiattack, have it use Multiattack on any of its turns in which it's not using one of its more powerful abilities.  
@@ -194,7 +194,7 @@ Beware of giving a monster combat-oriented magic items, since those might alter 
 
 ### Senses
 
-The Senses entry specifies a monster's [[passive-perception-xphb]] score, as well as any special senses the monster possesses. [[passive-perception-xphb]] and "special senses" are described in the "Player's Handbook".
+The Senses entry specifies a monster's [[Passive Perception]] score, as well as any special senses the monster possesses. [[Passive Perception]] and "special senses" are described in the "Player's Handbook".
 
 ### Languages
 
@@ -206,11 +206,11 @@ This entry lists languages that the monster can use to communicate. Sometimes a 
 
 ### Challenge Rating
 
-[[challenge-rating-xphb]] is defined in the "Player's Handbook", while guidance on using CR to plan potential combat encounters is in the "Dungeon Master's Guide". Lists of monsters organized by [[challenge-rating-xphb]] appear in "appendix B".
+[[Challenge Rating]] is defined in the "Player's Handbook", while guidance on using CR to plan potential combat encounters is in the "Dungeon Master's Guide". Lists of monsters organized by [[Challenge Rating]] appear in "appendix B".
 
 #### Experience Points
 
-The number of [[experience-points-xphb]] (XP) a monster is worth is based on its CR, as detailed in the [[experience-points-xphb]] by [[challenge-rating-xphb]] table. XP is awarded for defeating the monster in combat or otherwise neutralizing it.
+The number of [[Experience Points]] (XP) a monster is worth is based on its CR, as detailed in the [[Experience Points]] by [[Challenge Rating]] table. XP is awarded for defeating the monster in combat or otherwise neutralizing it.
 
 Unless a rule says otherwise, a monster summoned by a spell or another magical ability is worth the XP noted in its stat block.
 
@@ -218,7 +218,7 @@ Unless a rule says otherwise, a monster summoned by a spell or another magical a
 
 #### Proficiency Bonus
 
-A monster's [[proficiency-xphb]] (PB) is determined by its CR, as shown in the [[proficiency-xphb]] by [[challenge-rating-xphb]] table, and is reflected in saving throws, skills, and other statistics where the monster's exceptional aptitude is a factor.
+A monster's [[Proficiency]] (PB) is determined by its CR, as shown in the [[Proficiency]] by [[Challenge Rating]] table, and is reflected in saving throws, skills, and other statistics where the monster's exceptional aptitude is a factor.
 
 ![[proficiency-bonus-by-challenge-rating-xmm]]
 
@@ -276,11 +276,11 @@ If a spell has a casting time of 1 minute or more yet is listed in a spellcastin
 
 ### Bonus Action
 
-If a monster has Bonus Action options, they are listed in this section. See the "Player's Handbook" for details on [[bonus-action-xphb]].
+If a monster has Bonus Action options, they are listed in this section. See the "Player's Handbook" for details on [[Bonus Action]].
 
 ### Reactions
 
-If the monster has Reaction options, those are listed in this section along with their triggers. See the "Player's Handbook" for details on [[reaction-xphb]].
+If the monster has Reaction options, those are listed in this section along with their triggers. See the "Player's Handbook" for details on [[Reaction]].
 
 ### Legendary Actions
 
@@ -292,6 +292,6 @@ The monster has a limited number of Legendary Action uses, and that number is sp
 
 Some parts of a stat block have restrictions on the number of times they can be used. Here are the most common ways that usage is limited:
 
-- **X/Day.** This notation means the stat block part can be used a certain number of times (represented by X) and that a monster must finish a [[long-rest-xphb]] to regain expended uses. For example, a [[reaction-xphb]] that includes "1/Day" means the [[reaction-xphb]] can be taken once and that the monster must finish a [[long-rest-xphb]] to take it again.  
-- **Recharge X–Y.** This notation means a monster can use the stat block part once. At the start of each of the monster's turns, roll `1d6`. If the roll is within the number range given in the notation (represented by X–Y), the monster regains the use of that part, which also recharges when the monster finishes a [[short-rest-xphb]] or [[long-rest-xphb]]. For example, "Recharge 5–6" in an action means a monster can take the action once. Then, at the start of each of the monster's turns, it regains the use of that action if it rolls a 5 or 6 on `1d6`.  
-- **Recharge after a Short or Long Rest.** This notation means the monster can use the stat block part once and must then finish a [[short-rest-xphb]] or [[long-rest-xphb]] to use it again.
+- **X/Day.** This notation means the stat block part can be used a certain number of times (represented by X) and that a monster must finish a [[Long Rest]] to regain expended uses. For example, a [[Reaction]] that includes "1/Day" means the [[Reaction]] can be taken once and that the monster must finish a [[Long Rest]] to take it again.  
+- **Recharge X–Y.** This notation means a monster can use the stat block part once. At the start of each of the monster's turns, roll `1d6`. If the roll is within the number range given in the notation (represented by X–Y), the monster regains the use of that part, which also recharges when the monster finishes a [[Short Rest]] or [[Long Rest]]. For example, "Recharge 5–6" in an action means a monster can take the action once. Then, at the start of each of the monster's turns, it regains the use of that action if it rolls a 5 or 6 on `1d6`.  
+- **Recharge after a Short or Long Rest.** This notation means the monster can use the stat block part once and must then finish a [[Short Rest]] or [[Long Rest]] to use it again.

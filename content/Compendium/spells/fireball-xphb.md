@@ -37,7 +37,7 @@ aliases: ["Fireball"]
 - **Components:** V, S, M (a ball of bat guano and sulfur)
 - **Duration:** Instantaneous
 
-A bright streak flashes from you to a point you choose within range and then blossoms with a low roar into a fiery explosion. Each creature in a 20-foot-radius [[sphere-area-of-effect-xphb]] centered on that point makes a Dexterity saving throw, taking `8d6` Fire damage on a failed save or half as much damage on a successful one.
+A bright streak flashes from you to a point you choose within range and then blossoms with a low roar into a fiery explosion. Each creature in a 20-foot-radius [[Sphere (Area of Effect)]] centered on that point makes a Dexterity saving throw, taking `8d6` Fire damage on a failed save or half as much damage on a successful one.
 
 Flammable objects in the area that aren't being worn or carried start [[burning-xphb]].
 

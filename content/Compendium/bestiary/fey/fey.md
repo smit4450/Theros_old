@@ -29,5 +29,5 @@ cssclasses:
 -  [[Satyr Reveler]]
 -  [[Satyr Revelmaster]]
 -  [[Satyr Thornbearer]]
--  [[Satyr]]
+-  [[Satyr (Bestiary)]]
 -  [[Sea Hag]]

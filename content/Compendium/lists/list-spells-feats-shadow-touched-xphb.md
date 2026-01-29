@@ -11,7 +11,7 @@ aliases:
 
 ## 1st Level
 
-- [Color Spray](Compendium/spells/color-spray-xphb.md "XPHB") 
+- [Color Spray](Color%20Spray.md "XPHB") 
 - [Disguise Self](Compendium/spells/disguise-self-xphb.md "XPHB") 
 - [False Life](Compendium/spells/false-life-xphb.md "XPHB") 
 - [Illusory Script](Compendium/spells/illusory-script-xphb.md "XPHB") 

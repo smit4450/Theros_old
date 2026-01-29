@@ -21,11 +21,11 @@ You have [[resistance-xphb]] to Poison damage.
 
 ## Spider Climb
 
-You have a [[climb-speed-xphb]] equal to your [[speed-xphb]] and can move up, down, and across vertical surfaces and along ceilings, while leaving your hands free.
+You have a [[Climb Speed]] equal to your [[Speed]] and can move up, down, and across vertical surfaces and along ceilings, while leaving your hands free.
 
 ## Spider Walk
 
-You can't be caught in webs of any sort and can move through webs as if they were [[difficult-terrain-xphb]].
+You can't be caught in webs of any sort and can move through webs as if they were [[Difficult Terrain]].
 
 ## Web
 

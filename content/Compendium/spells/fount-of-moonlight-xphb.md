@@ -23,11 +23,11 @@ aliases: ["Fount of Moonlight"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-A cool light wreathes your body for the duration, emitting [[bright-light-xphb]] in a 20-foot radius and [[dim-light-xphb]] for an additional 20 feet.
+A cool light wreathes your body for the duration, emitting [[Bright Light]] in a 20-foot radius and [[Dim Light]] for an additional 20 feet.
 
 Until the spell ends, you have [[resistance-xphb]] to Radiant damage, and your melee attacks deal an extra `2d6` Radiant damage on a hit.
 
-In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a [[reaction-xphb]] to force the creature to make a Constitution saving throw. On a failed save, the creature has the [Blinded](Compendium/rules/conditions.md#Blinded) condition until the end of your next turn.
+In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a [[Reaction]] to force the creature to make a Constitution saving throw. On a failed save, the creature has the [Blinded](Compendium/rules/conditions.md#Blinded) condition until the end of your next turn.
 
 **Classes**: [[list-spells-classes-bard]]; [Druid (Circle of the Moon)](Compendium/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid]]
 

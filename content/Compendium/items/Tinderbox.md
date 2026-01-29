@@ -15,6 +15,6 @@ aliases:
 - **Cost**: 5 sp
 - **Weight**: 1.0 lbs.
 
-A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a [[Candle|Candle]]p-xphb]], [[Hooded Lantern]], or [[Torch]]—or anything else with exposed fuel—takes a [[bonus-action-xphb]]. Lighting any other fire takes 1 minute.
+A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a [[Candle|Candle]]p-xphb]], [[Hooded Lantern]], or [[Torch]]—or anything else with exposed fuel—takes a [[Bonus Action]]. Lighting any other fire takes 1 minute.
 
 *Source: Player's Handbook (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

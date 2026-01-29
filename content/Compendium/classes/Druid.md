@@ -104,11 +104,11 @@ When you reach Druid levels 4 and 10, you learn another cantrip of your choice f
 
 #### Spell Slots
 
-The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[long-rest-xphb]].
+The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. [[animal-friendship-xphb]], [[cure-wounds-xphb]], [[faerie-fire-xphb]], and [[thunderwave-xphb]] are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. [[Animal Friendship]], [[cure-wounds-xphb]], [[faerie-fire-xphb]], and [[thunderwave-xphb]] are recommended.
 
 The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -116,7 +116,7 @@ If another Druid feature gives you spells that you always have prepared, those s
 
 #### Changing Your Prepared Spells
 
-Whenever you finish a [[long-rest-xphb]], you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots.
+Whenever you finish a [[Long Rest]], you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots.
 
 #### Spellcasting Ability
 
@@ -124,29 +124,29 @@ Wisdom is your spellcasting ability for your Druid spells.
 
 #### Spellcasting Focus
 
-You can use a [[Druidic Focus]] as a [[spellcasting-focus-xphb]] for your Druid spells.
+You can use a [[Druidic Focus]] as a [[Spellcasting Focus]] for your Druid spells.
 
 ### Wild Companion (Level 2)
 
 You can summon a nature spirit that assumes an animal form to aid you. As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend a spell slot or a use of Wild Shape to cast the [[find-familiar-xphb]] spell without Material components.
 
-When you cast the spell in this way, the familiar is Fey and disappears when you finish a [[long-rest-xphb]].
+When you cast the spell in this way, the familiar is Fey and disappears when you finish a [[Long Rest]].
 
 ### Wild Shape (Level 2)
 
-The power of nature allows you to assume the form of an animal. As a [[bonus-action-xphb]], you shape-shift into a Beast form that you have learned for this feature (see "Known Forms" below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, or die. You can also leave the form early as a [[bonus-action-xphb]].
+The power of nature allows you to assume the form of an animal. As a [[Bonus Action]], you shape-shift into a Beast form that you have learned for this feature (see "Known Forms" below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, or die. You can also leave the form early as a [[Bonus Action]].
 
 #### Number of Uses
 
-You can use Wild Shape twice. You regain one expended use when you finish a [[short-rest-xphb]], and you regain all expended uses when you finish a [[long-rest-xphb]].
+You can use Wild Shape twice. You regain one expended use when you finish a [[Short Rest]], and you regain all expended uses when you finish a [[Long Rest]].
 
 You gain additional uses when you reach certain Druid levels, as shown in the Wild Shape column of the Druid Features table.
 
 #### Known Forms
 
-You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum [[challenge-rating-xphb]] of 1/4 and that lack a [[fly-speed-xphb]] (see appendix B for stat block options). The [[Rat]], [[Compendium/bestiary/beast/Riding Horse]], [[Spider]], and [[Wolf]] are recommended. Whenever you finish a [[long-rest-xphb]], you can replace one of your known forms with another eligible form.
+You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum [[Challenge Rating]] of 1/4 and that lack a [[Fly Speed]] (see appendix B for stat block options). The [[Rat]], [[Compendium/bestiary/beast/Riding Horse]], [[Spider]], and [[Wolf]] are recommended. Whenever you finish a [[Long Rest]], you can replace one of your known forms with another eligible form.
 
-When you reach certain Druid levels, your number of known forms and the maximum [[challenge-rating-xphb]] for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a [[fly-speed-xphb]].
+When you reach certain Druid levels, your number of known forms and the maximum [[Challenge Rating]] for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a [[Fly Speed]].
 
 When choosing known forms, you may look in the "Monster Manual" or elsewhere for eligible Beasts if the Dungeon Master permits you to do so.
 
@@ -163,8 +163,8 @@ When choosing known forms, you may look in the "Monster Manual" or elsewhere for
 
 While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
-- **Temporary Hit Points.** When you assume a Wild Shape form, you gain a number of [[temporary-hit-points-xphb]] equal to your Druid level.  
-- **Game Statistics.** Your game statistics are replaced by the Beast's stat block, but you retain your creature type; [[hit-points-xphb]]; [[hit-point-dice-xphb]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your [[proficiency-xphb]] for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.  
+- **Temporary Hit Points.** When you assume a Wild Shape form, you gain a number of [[Temporary Hit Points]] equal to your Druid level.  
+- **Game Statistics.** Your game statistics are replaced by the Beast's stat block, but you retain your creature type; [[Hit Points]]; [[Hit Point Dice]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your [[Proficiency]] for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.  
 - **No Spellcasting.** You can't cast spells, but shape-shifting doesn't break your [Concentration](Compendium/rules/conditions.md#Concentration) or otherwise interfere with a spell you've already cast.  
 - **Objects.** Your ability to handle objects is determined by the form's limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it's practical for the new form to wear a piece of equipment based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you're in that form.  
 
@@ -180,7 +180,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).
 
-In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can't do so again until you finish a [[long-rest-xphb]].
+In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can't do so again until you finish a [[Long Rest]].
 
 ### Subclass Feature (Level 6)
 
@@ -244,11 +244,11 @@ The vitality of nature constantly blooms within you, granting you the following 
 
 #### Evergreen Wild Shape
 
-Whenever you roll [[initiative-xphb]] and have no uses of Wild Shape left, you regain one expended use of it.
+Whenever you roll [[Initiative]] and have no uses of Wild Shape left, you regain one expended use of it.
 
 #### Nature Magician
 
-You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a [[long-rest-xphb]].
+You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a [[Long Rest]].
 
 #### Longevity
 

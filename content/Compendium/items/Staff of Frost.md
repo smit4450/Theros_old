@@ -28,7 +28,7 @@ The staff has 10 charges. While holding the staff, you can cast one of the spell
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[cone-of-cold-xphb]] | 5 |
+| [[Cone of Cold]] | 5 |
 | [[fog-cloud-xphb]] | 1 |
 | [[ice-storm-xphb]] | 4 |
 | [[wall-of-ice-xphb]] | 4 |

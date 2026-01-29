@@ -33,7 +33,7 @@ aliases: ["Revivify"]
 - **Components:** V, S, M (a diamond worth 300+ GP, which the spell consumes)
 - **Duration:** Instantaneous
 
-You touch a creature that has died within the last minute. That creature revives with 1 [[hit-points-xphb]]. This spell can't revive a creature that has died of old age, nor does it restore any missing body parts.
+You touch a creature that has died within the last minute. That creature revives with 1 [[Hit Points]]. This spell can't revive a creature that has died of old age, nor does it restore any missing body parts.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]; [[list-spells-classes-paladin]]; [[list-spells-classes-ranger]]; [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
 

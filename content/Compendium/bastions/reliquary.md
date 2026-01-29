@@ -11,7 +11,7 @@ aliases:
 # Reliquary
 *Level 13 Bastion facility*  
 
-- **Prerequisites**: Ability to use a [[Holy Symbol]] or [[Druidic Focus]] as a [[spellcasting-focus-xphb]]
+- **Prerequisites**: Ability to use a [[Holy Symbol]] or [[Druidic Focus]] as a [[Spellcasting Focus]]
 - **Space**: Cramped (4 sq)
 - **Hirelings**: 1
 - **Order**: harvest

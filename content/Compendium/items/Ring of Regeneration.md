@@ -14,6 +14,6 @@ aliases:
 ![](Compendium/items/img/ring-of-regeneration.webp#right)
 
 
-While wearing this ring, you regain `1d6` [[hit-points-xphb]] every 10 minutes if you have at least 1 [[hit-points-xphb]]. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after `1d6 + 1` days if you have at least 1 [[hit-points-xphb]] the whole time.
+While wearing this ring, you regain `1d6` [[Hit Points]] every 10 minutes if you have at least 1 [[Hit Points]]. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after `1d6 + 1` days if you have at least 1 [[Hit Points]] the whole time.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

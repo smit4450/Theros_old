@@ -85,11 +85,11 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 #### Spell Slots
 
-The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[long-rest-xphb]].
+The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. [[bless-xphb]], [[cure-wounds-xphb]], [[guiding-bolt-xphb]], and [[shield-of-faith-xphb]] are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. [[Bless]], [[cure-wounds-xphb]], [[guiding-bolt-xphb]], and [[shield-of-faith-xphb]] are recommended.
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -97,7 +97,7 @@ If another Cleric feature gives you spells that you always have prepared, those 
 
 #### Changing Your Prepared Spells
 
-Whenever you finish a [[long-rest-xphb]], you can change your list of prepared spells, replacing any of the spells there with other Cleric spells for which you have spell slots.
+Whenever you finish a [[Long Rest]], you can change your list of prepared spells, replacing any of the spells there with other Cleric spells for which you have spell slots.
 
 #### Spellcasting Ability
 
@@ -105,7 +105,7 @@ Wisdom is your spellcasting ability for your Cleric spells.
 
 #### Spellcasting Focus
 
-You can use a [[Holy Symbol]] as a [[spellcasting-focus-xphb]] for your Cleric spells.
+You can use a [[Holy Symbol]] as a [[Spellcasting Focus]] for your Cleric spells.
 
 ### Divine Order (Level 1)
 
@@ -123,13 +123,13 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 You can channel divine energy directly from the Outer Planes to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use this class's Channel Divinity, choose which Channel Divinity effect from this class to create. You gain additional effect options at higher Cleric levels.
 
-You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a [[short-rest-xphb]], and you regain all expended uses when you finish a [[long-rest-xphb]]. You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the Cleric Features table.
+You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a [[Short Rest]], and you regain all expended uses when you finish a [[Long Rest]]. You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the Cleric Features table.
 
 If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class's Spellcasting feature.
 
 ### Divine Spark (Level 2)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll `1d8` and add your Wisdom modifier. You either restore [[hit-points-xphb]] to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
+As a [Magic](Compendium/rules/actions.md#Magic) action, you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll `1d8` and add your Wisdom modifier. You either restore [[Hit Points]] to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
 
 You roll an additional `d8` when you reach Cleric levels 7 (`2d8`), 13 (`3d8`), and 18 (`4d8`).
 
@@ -171,7 +171,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Divine Intervention (Level 10)
 
-You can call on your deity or pantheon to intervene on your behalf. As a [Magic](Compendium/rules/actions.md#Magic) action, choose any Cleric spell of level 5 or lower that doesn't require a [[reaction-xphb]] to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a [[long-rest-xphb]].
+You can call on your deity or pantheon to intervene on your behalf. As a [Magic](Compendium/rules/actions.md#Magic) action, choose any Cleric spell of level 5 or lower that doesn't require a [[Reaction]] to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a [[Long Rest]].
 
 ### Ability Score Improvement (Level 12)
 
@@ -187,7 +187,7 @@ The extra damage of your Divine Strike increases to `2d8`.
 
 #### Potent Spellcasting
 
-When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of [[temporary-hit-points-xphb]] equal to twice your Wisdom modifier.
+When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of [[Temporary Hit Points]] equal to twice your Wisdom modifier.
 
 ### Ability Score Improvement (Level 16)
 

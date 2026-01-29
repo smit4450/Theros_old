@@ -70,15 +70,15 @@ You know the [[minor-illusion-xphb]] spell. Wisdom is your spellcasting ability 
 
 ### Shadow Step (Level 6)
 
-While entirely within [[dim-light-xphb]] or [[darkness-xphb]], you can use a [[bonus-action-xphb]] to teleport up to 60 feet to an unoccupied space you can see that is also in [[dim-light-xphb]] or [[darkness-xphb]]. You then have [[advantage-xphb]] on the next melee attack you make before the end of the current turn.
+While entirely within [[Dim Light]] or [[darkness-xphb]], you can use a [[Bonus Action]] to teleport up to 60 feet to an unoccupied space you can see that is also in [[Dim Light]] or [[darkness-xphb]]. You then have [[Advantage]] on the next melee attack you make before the end of the current turn.
 
 ### Improved Shadow Step (Level 11)
 
-You can draw on your Underworld connection to empower your teleportation. When you use your Shadow Step, you can expend 1 Focus Point to remove the requirement that you must start and end in [[dim-light-xphb]] or [[darkness-xphb]] for that use of the feature. As part of this [[bonus-action-xphb]], you can make an [[unarmed-strike-xphb]] immediately after you teleport.
+You can draw on your Underworld connection to empower your teleportation. When you use your Shadow Step, you can expend 1 Focus Point to remove the requirement that you must start and end in [[Dim Light]] or [[darkness-xphb]] for that use of the feature. As part of this [[Bonus Action]], you can make an [[Unarmed Strike]] immediately after you teleport.
 
 ### Cloak of Shadows (Level 17)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action while entirely within [[dim-light-xphb]] or [[darkness-xphb]], you can expend 3 Focus Points to shroud yourself with shadows for 1 minute, until you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, or until you end your turn in [[bright-light-xphb]]. While shrouded by these shadows, you gain the following benefits.
+As a [Magic](Compendium/rules/actions.md#Magic) action while entirely within [[Dim Light]] or [[darkness-xphb]], you can expend 3 Focus Points to shroud yourself with shadows for 1 minute, until you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, or until you end your turn in [[Bright Light]]. While shrouded by these shadows, you gain the following benefits.
 
 #### Invisibility
 
@@ -86,7 +86,7 @@ You have the [Invisible](Compendium/rules/conditions.md#Invisible) condition.
 
 #### Partially Incorporeal
 
-You can move through occupied spaces as if they were [[difficult-terrain-xphb]]. If you end your turn in such a space, you are shunted to the last unoccupied space you were in.
+You can move through occupied spaces as if they were [[Difficult Terrain]]. If you end your turn in such a space, you are shunted to the last unoccupied space you were in.
 
 #### Shadow Flurry
 

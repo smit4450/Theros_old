@@ -25,7 +25,7 @@ Your body falls into a catatonic state as your soul leaves it and enters the con
 
 You can attempt to possess any Humanoid within 100 feet of you that you can see (creatures warded by a [[protection-from-evil-and-good-xphb]] or [[magic-circle-xphb]] spell can't be possessed). The target makes a Charisma saving throw. On a failed save, your soul enters the target's body, and the target's soul becomes trapped in the container. On a successful save, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
 
-Once you possess a creature's body, you control it. Your [[hit-points-xphb]], [[hit-point-dice-xphb]], Strength, Dexterity, Constitution, [[speed-xphb]], and senses are replaced by the creature's. You otherwise keep your game statistics.
+Once you possess a creature's body, you control it. Your [[Hit Points]], [[Hit Point Dice]], Strength, Dexterity, Constitution, [[Speed]], and senses are replaced by the creature's. You otherwise keep your game statistics.
 
 Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move and it is [Incapacitated](Compendium/rules/conditions.md#Incapacitated).
 

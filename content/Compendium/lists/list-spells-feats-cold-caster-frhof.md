@@ -11,9 +11,9 @@ aliases:
 
 ## Cantrip
 
-- [Acid Splash](Compendium/spells/acid-splash-xphb.md "XPHB") 
-- [Blade Ward](Compendium/spells/blade-ward-xphb.md "XPHB") 
-- [Chill Touch](Compendium/spells/chill-touch-xphb.md "XPHB") 
+- [Acid Splash](Acid%20Splash.md "XPHB") 
+- [Blade Ward](Blade%20Ward.md "XPHB") 
+- [Chill Touch](Chill%20Touch.md "XPHB") 
 - [Dancing Lights](Compendium/spells/dancing-lights-xphb.md "XPHB") 
 - [Elementalism](Compendium/spells/elementalism-xphb.md "XPHB") 
 - [Fire Bolt](Compendium/spells/fire-bolt-xphb.md "XPHB") 

@@ -11,12 +11,12 @@ aliases:
 
 ## 1st Level
 
-- [Chromatic Orb](Compendium/spells/chromatic-orb-xphb.md "XPHB") at class level 3
-- [Command](Compendium/spells/command-xphb.md "XPHB") at class level 3
+- [Chromatic Orb](Chromatic%20Orb.md "XPHB") at class level 3
+- [Command](Command.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Alter Self](Compendium/spells/alter-self-xphb.md "XPHB") at class level 3
+- [Alter Self](Alter%20Self.md "XPHB") at class level 3
 - [Dragon's Breath](Compendium/spells/dragons-breath-xphb.md "XPHB") at class level 3
 
 ## 3rd Level
@@ -26,8 +26,8 @@ aliases:
 
 ## 4th Level
 
-- [Arcane Eye](Compendium/spells/arcane-eye-xphb.md "XPHB") at class level 3
-- [Charm Monster](Compendium/spells/charm-monster-xphb.md "XPHB") at class level 3
+- [Arcane Eye](Arcane%20Eye.md "XPHB") at class level 3
+- [Charm Monster](Charm%20Monster.md "XPHB") at class level 3
 
 ## 5th Level
 

@@ -11,7 +11,7 @@ aliases:
 
 ## Cantrip
 
-- [Acid Splash](Compendium/spells/acid-splash-xphb.md "XPHB") at class level 3
+- [Acid Splash](Acid%20Splash.md "XPHB") at class level 3
 - [Fire Bolt](Compendium/spells/fire-bolt-xphb.md "XPHB") at class level 3
 - [Light](Compendium/spells/light-xphb.md "XPHB") at class level 3
 - [Ray of Frost](Compendium/spells/ray-of-frost-xphb.md "XPHB") at class level 3
@@ -20,8 +20,8 @@ aliases:
 
 ## 1st Level
 
-- [Burning Hands](Compendium/spells/burning-hands-xphb.md "XPHB") at class level 3
-- [Chromatic Orb](Compendium/spells/chromatic-orb-xphb.md "XPHB") at class level 3
+- [Burning Hands](Burning%20Hands.md "XPHB") at class level 3
+- [Chromatic Orb](Chromatic%20Orb.md "XPHB") at class level 3
 - [Magic Missile](Compendium/spells/magic-missile-xphb.md "XPHB") at class level 3
 - [Spellfire Flare](Compendium/spells/spellfire-flare-frhof.md "FRHoF") at class level 3
 - [Thunderwave](Compendium/spells/thunderwave-xphb.md "XPHB") at class level 3
@@ -38,7 +38,7 @@ aliases:
 
 ## 3rd Level
 
-- [Cacophonic Shield](Compendium/spells/cacophonic-shield-frhof.md "FRHoF") at class level 3
+- [Cacophonic Shield](Cacophonic%20Shield.md "FRHoF") at class level 3
 - [Fireball](Compendium/spells/fireball-xphb.md "XPHB") at class level 3
 - [Laeral's Silver Lance](Compendium/spells/laerals-silver-lance-frhof.md "FRHoF") at class level 3
 - [Leomund's Tiny Hut](Compendium/spells/leomunds-tiny-hut-xphb.md "XPHB") at class level 3
@@ -54,15 +54,15 @@ aliases:
 
 ## 5th Level
 
-- [Bigby's Hand](Compendium/spells/bigbys-hand-xphb.md "XPHB") at class level 3
-- [Cone of Cold](Compendium/spells/cone-of-cold-xphb.md "XPHB") at class level 3
+- [Bigby's Hand](Bigby's%20Hand.md "XPHB") at class level 3
+- [Cone of Cold](Cone%20of%20Cold.md "XPHB") at class level 3
 - [Jallarzi's Storm of Radiance](Compendium/spells/jallarzis-storm-of-radiance-xphb.md "XPHB") at class level 3
 - [Wall of Force](Compendium/spells/wall-of-force-xphb.md "XPHB") at class level 3
 - [Wall of Stone](Compendium/spells/wall-of-stone-xphb.md "XPHB") at class level 3
 
 ## 6th Level
 
-- [Chain Lightning](Compendium/spells/chain-lightning-xphb.md "XPHB") at class level 3
+- [Chain Lightning](Chain%20Lightning.md "XPHB") at class level 3
 - [Elminster's Effulgent Spheres](Compendium/spells/elminsters-effulgent-spheres-frhof.md "FRHoF") at class level 3
 - [Otiluke's Freezing Sphere](Compendium/spells/otilukes-freezing-sphere-xphb.md "XPHB") at class level 3
 - [Sunbeam](Compendium/spells/sunbeam-xphb.md "XPHB") at class level 3

@@ -14,7 +14,7 @@ aliases:
 
 | dice: 1d6 | Effect |
 |-----------|--------|
-| 1–3 | Apathy. The character has [[disadvantage-xphb]] on [[death-saving-throw-xphb]] and [[initiative-xphb]] rolls. |
-| 4–5 | Dread. The character has [[disadvantage-xphb]] on all saving throws. |
-| 6 | Delusion. The character has [[disadvantage-xphb]] on ability checks and saving throws that use Intelligence, Wisdom, or Charisma. |
+| 1–3 | Apathy. The character has [[Disadvantage]] on [[Death Saving Throw]] and [[Initiative]] rolls. |
+| 4–5 | Dread. The character has [[Disadvantage]] on all saving throws. |
+| 6 | Delusion. The character has [[Disadvantage]] on ability checks and saving throws that use Intelligence, Wisdom, or Charisma. |
 ^underworld-despair

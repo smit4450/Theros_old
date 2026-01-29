@@ -23,9 +23,9 @@ aliases:
 
 ## 1st Level
 
-- [Bane](Compendium/spells/bane-xphb.md "XPHB")
-- [Bless](Compendium/spells/bless-xphb.md "XPHB")
-- [Command](Compendium/spells/command-xphb.md "XPHB")
+- [Bane](Bane.md "XPHB")
+- [Bless](Bless.md "XPHB")
+- [Command](Command.md "XPHB")
 - [Create or Destroy Water](Compendium/spells/create-or-destroy-water-xphb.md "XPHB")
 - [Cure Wounds](Compendium/spells/cure-wounds-xphb.md "XPHB")
 - [Detect Evil and Good](Compendium/spells/detect-evil-and-good-xphb.md "XPHB")
@@ -42,10 +42,10 @@ aliases:
 
 ## 2nd Level
 
-- [Aid](Compendium/spells/aid-xphb.md "XPHB")
-- [Augury](Compendium/spells/augury-xphb.md "XPHB")
-- [Blindness/Deafness](Compendium/spells/blindness-deafness-xphb.md "XPHB")
-- [Calm Emotions](Compendium/spells/calm-emotions-xphb.md "XPHB")
+- [Aid](Aid.md "XPHB")
+- [Augury](Augury.md "XPHB")
+- [Blindness/Deafness](Blindness-Deafness.md "XPHB")
+- [Calm Emotions](Calm%20Emotions.md "XPHB")
 - [Continual Flame](Compendium/spells/continual-flame-xphb.md "XPHB")
 - [Deryan's Helpful Homunculi](Compendium/spells/deryans-helpful-homunculi-frhof.md "FRHoF") (\*)
 - [Enhance Ability](Compendium/spells/enhance-ability-xphb.md "XPHB")
@@ -63,11 +63,11 @@ aliases:
 
 ## 3rd Level
 
-- [Animate Dead](Compendium/spells/animate-dead-xphb.md "XPHB")
-- [Aura of Vitality](Compendium/spells/aura-of-vitality-xphb.md "XPHB")
-- [Beacon of Hope](Compendium/spells/beacon-of-hope-xphb.md "XPHB")
-- [Bestow Curse](Compendium/spells/bestow-curse-xphb.md "XPHB")
-- [Clairvoyance](Compendium/spells/clairvoyance-xphb.md "XPHB")
+- [Animate Dead](Animate%20Dead.md "XPHB")
+- [Aura of Vitality](Aura%20of%20Vitality.md "XPHB")
+- [Beacon of Hope](Beacon%20of%20Hope.md "XPHB")
+- [Bestow Curse](Bestow%20Curse.md "XPHB")
+- [Clairvoyance](Clairvoyance.md "XPHB")
 - [Create Food and Water](Compendium/spells/create-food-and-water-xphb.md "XPHB")
 - [Daylight](Compendium/spells/daylight-xphb.md "XPHB")
 - [Dispel Magic](Compendium/spells/dispel-magic-xphb.md "XPHB")
@@ -88,9 +88,9 @@ aliases:
 
 ## 4th Level
 
-- [Aura of Life](Compendium/spells/aura-of-life-xphb.md "XPHB")
-- [Aura of Purity](Compendium/spells/aura-of-purity-xphb.md "XPHB")
-- [Banishment](Compendium/spells/banishment-xphb.md "XPHB")
+- [Aura of Life](Aura%20of%20Life.md "XPHB")
+- [Aura of Purity](Aura%20of%20Purity.md "XPHB")
+- [Banishment](Banishment.md "XPHB")
 - [Control Water](Compendium/spells/control-water-xphb.md "XPHB")
 - [Death Ward](Compendium/spells/death-ward-xphb.md "XPHB")
 - [Divination](Compendium/spells/divination-xphb.md "XPHB")
@@ -102,8 +102,8 @@ aliases:
 
 ## 5th Level
 
-- [Circle of Power](Compendium/spells/circle-of-power-xphb.md "XPHB")
-- [Commune](Compendium/spells/commune-xphb.md "XPHB")
+- [Circle of Power](Circle%20of%20Power.md "XPHB")
+- [Commune](Commune.md "XPHB")
 - [Contagion](Compendium/spells/contagion-xphb.md "XPHB")
 - [Dispel Evil and Good](Compendium/spells/dispel-evil-and-good-xphb.md "XPHB")
 - [Flame Strike](Compendium/spells/flame-strike-xphb.md "XPHB")
@@ -120,7 +120,7 @@ aliases:
 
 ## 6th Level
 
-- [Blade Barrier](Compendium/spells/blade-barrier-xphb.md "XPHB")
+- [Blade Barrier](Blade%20Barrier.md "XPHB")
 - [Create Undead](Compendium/spells/create-undead-xphb.md "XPHB")
 - [Dirge](Compendium/spells/dirge-frhof.md "FRHoF") (\*)
 - [Find the Path](Compendium/spells/find-the-path-xphb.md "XPHB")
@@ -135,7 +135,7 @@ aliases:
 
 ## 7th Level
 
-- [Conjure Celestial](Compendium/spells/conjure-celestial-xphb.md "XPHB")
+- [Conjure Celestial](Conjure%20Celestial.md "XPHB")
 - [Divine Word](Compendium/spells/divine-word-xphb.md "XPHB")
 - [Etherealness](Compendium/spells/etherealness-xphb.md "XPHB")
 - [Fire Storm](Compendium/spells/fire-storm-xphb.md "XPHB")
@@ -147,7 +147,7 @@ aliases:
 
 ## 8th Level
 
-- [Antimagic Field](Compendium/spells/antimagic-field-xphb.md "XPHB")
+- [Antimagic Field](Antimagic%20Field.md "XPHB")
 - [Control Weather](Compendium/spells/control-weather-xphb.md "XPHB")
 - [Earthquake](Compendium/spells/earthquake-xphb.md "XPHB")
 - [Holy Aura](Compendium/spells/holy-aura-xphb.md "XPHB")
@@ -156,7 +156,7 @@ aliases:
 
 ## 9th Level
 
-- [Astral Projection](Compendium/spells/astral-projection-xphb.md "XPHB")
+- [Astral Projection](Astral%20Projection.md "XPHB")
 - [Gate](Compendium/spells/gate-xphb.md "XPHB")
 - [Mass Heal](Compendium/spells/mass-heal-xphb.md "XPHB")
 - [Power Word Heal](Compendium/spells/power-word-heal-xphb.md "XPHB")

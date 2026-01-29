@@ -10,7 +10,7 @@ aliases:
 # Appendix B: Creature Stat Blocks
 *Source: Player's Handbook (2024), p. 346* 
 
-This appendix provides stat blocks for creatures mentioned elsewhere in the book, particularly in the class, equipment, and spell chapters. See the "rules glossary" for how to read a [[stat-block-xphb]], and see the *Monster Manual* for even more creatures.
+This appendix provides stat blocks for creatures mentioned elsewhere in the book, particularly in the class, equipment, and spell chapters. See the "rules glossary" for how to read a [[Stat Block]], and see the *Monster Manual* for even more creatures.
 
 The following stat blocks are presented in alphabetical order. When the Dungeon Master uses a stat block, the DM may change details in it.
 

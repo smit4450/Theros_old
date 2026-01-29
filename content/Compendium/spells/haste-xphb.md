@@ -33,9 +33,9 @@ aliases: ["Haste"]
 - **Components:** V, S, M (a shaving of licorice root)
 - **Duration:** Concentration, up to 1 minute
 
-Choose a willing creature that you can see within range. Until the spell ends, the target's [[speed-xphb]] is doubled, it gains a +2 bonus to [[armor-class-xphb]], it has [[advantage-xphb]] on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the [Attack](Compendium/rules/actions.md#Attack) (one attack only), [Dash](Compendium/rules/actions.md#Dash), [Disengage](Compendium/rules/actions.md#Disengage), [Hide](Compendium/rules/actions.md#Hide), or [Utilize](Compendium/rules/actions.md#Utilize) action.
+Choose a willing creature that you can see within range. Until the spell ends, the target's [[Speed]] is doubled, it gains a +2 bonus to [[Armor Class]], it has [[Advantage]] on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the [Attack](Compendium/rules/actions.md#Attack) (one attack only), [Dash](Compendium/rules/actions.md#Dash), [Disengage](Compendium/rules/actions.md#Disengage), [Hide](Compendium/rules/actions.md#Hide), or [Utilize](Compendium/rules/actions.md#Utilize) action.
 
-When the spell ends, the target is [Incapacitated](Compendium/rules/conditions.md#Incapacitated) and has a [[speed-xphb]] of 0 until the end of its next turn, as a wave of lethargy washes over it.
+When the spell ends, the target is [Incapacitated](Compendium/rules/conditions.md#Incapacitated) and has a [[Speed]] of 0 until the end of its next turn, as a wave of lethargy washes over it.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Glory)](Compendium/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Vengeance)](Compendium/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer]]; [[list-spells-classes-wizard]]
 

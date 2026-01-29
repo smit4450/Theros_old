@@ -107,17 +107,17 @@ A diverse assortment of peoples dwell among the lands of Theros. Aside from huma
 
 This chapter provides information about the following common playable races of Theros, as well as racial traits for all of them except humans:
 
-[[human-xphb]] on Theros are similar to those found on other D&D worlds: adaptable, ambitious, and wildly diverse.
+[[Human]] on Theros are similar to those found on other D&D worlds: adaptable, ambitious, and wildly diverse.
 
-[[centaur-mot]] employ cunning and equine strength to further the goals of the roaming Lagonna and Pheres bands.
+[[Centaur]] employ cunning and equine strength to further the goals of the roaming Lagonna and Pheres bands.
 
-[[leonin-mot]] are proud lion-like hunters, many of whom live in defiance of the gods.
+[[Leonin]] are proud lion-like hunters, many of whom live in defiance of the gods.
 
-[[minotaur-mot]] are infamous for bloodthirstiness, a reputation even the most peaceful struggle to escape.
+[[Minotaur]] are infamous for bloodthirstiness, a reputation even the most peaceful struggle to escape.
 
-[[satyr-mot]] follow their passions in the pursuit of wild revels and new adventures.
+[[Compendium/races/Satyr]] follow their passions in the pursuit of wild revels and new adventures.
 
-[[triton-mot]] are an enigmatic, sea-dwelling people with an endless desire to explore.
+[[Triton]] are an enigmatic, sea-dwelling people with an endless desire to explore.
 
 ### Human
 

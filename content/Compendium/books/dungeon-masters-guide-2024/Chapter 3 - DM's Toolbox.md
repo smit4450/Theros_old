@@ -16,7 +16,7 @@ Whereas "chapters 1" and "2" teach the essentials of being a Dungeon Master, thi
 
 ## Alignment
 
-As described in the "Player's Handbook", [[alignment-xphb]] is a roleplaying tool. It is a quick way to describe a creature's moral and ethical orientation. Like other elements of the game, it's meant to be a tool to serve you and your game, not a constraint or burden. Alignment can help your game in three ways: as a tool for player characters, as a descriptor of a creature's demeanor, and as a summary of an organization's ethos.
+As described in the "Player's Handbook", [[Alignment]] is a roleplaying tool. It is a quick way to describe a creature's moral and ethical orientation. Like other elements of the game, it's meant to be a tool to serve you and your game, not a constraint or burden. Alignment can help your game in three ways: as a tool for player characters, as a descriptor of a creature's demeanor, and as a summary of an organization's ethos.
 
 ### Character Alignment
 
@@ -46,7 +46,7 @@ Alignment can help you determine how a creature behaves in your game in two simp
 
 #### Starting Attitude
 
-A creature's alignment can help you determine the creature's attitude in an encounter. A Chaotic Evil monster is likely to be [[hostile-attitude-xphb]], while a Lawful Good one is more likely to have a [[friendly-attitude-xphb]] attitude, ready to help those in need.
+A creature's alignment can help you determine the creature's attitude in an encounter. A Chaotic Evil monster is likely to be [[Hostile (Attitude)]], while a Lawful Good one is more likely to have a [[Friendly (Attitude)]] attitude, ready to help those in need.
 
 #### Personality
 
@@ -68,7 +68,7 @@ Know the capabilities of the characters in your party before you make a chase an
 
 ### Beginning a Chase
 
-A chase requires at least one quarry and at least one pursuer. Any participants not already in [[initiative-xphb]] order must roll Initiative as the chase begins. As in combat, each participant in the chase can take one action and move on its turn.
+A chase requires at least one quarry and at least one pursuer. Any participants not already in [[Initiative]] order must roll Initiative as the chase begins. As in combat, each participant in the chase can take one action and move on its turn.
 
 When a chase begins, determine the starting distance between the quarry and the pursuers. Track the distance between them, and designate the pursuer closest to the quarry as the lead. The lead pursuer might change from round to round.
 
@@ -78,7 +78,7 @@ Participants in the chase are strongly motivated to take the [Dash](Compendium/r
 
 #### Dashing
 
-A chase participant can take the [Dash](Compendium/rules/actions.md#Dash) action a number of times equal to 3 plus its Constitution modifier (minimum of once). Each additional Dash action it takes during the chase requires the creature to succeed on a DC 10 Constitution saving throw at the end of its turn or gain 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level. A participant drops out of the chase if it has 5 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) levels. A creature can remove the [Exhaustion](Compendium/rules/conditions.md#Exhaustion) levels it gained during the chase by finishing a [[short-rest-xphb]] or [[long-rest-xphb]].
+A chase participant can take the [Dash](Compendium/rules/actions.md#Dash) action a number of times equal to 3 plus its Constitution modifier (minimum of once). Each additional Dash action it takes during the chase requires the creature to succeed on a DC 10 Constitution saving throw at the end of its turn or gain 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level. A participant drops out of the chase if it has 5 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) levels. A creature can remove the [Exhaustion](Compendium/rules/conditions.md#Exhaustion) levels it gained during the chase by finishing a [[Short Rest]] or [[Long Rest]].
 
 #### Spells and Attacks
 
@@ -90,15 +90,15 @@ Chase participants can't normally make [Opportunity Attacks](Compendium/rules/ac
 
 A chase ends when one side or the other stops, when each quarry escapes, or when the pursuers are close enough to their quarry to catch it.
 
-If neither side gives up the chase, the quarry makes a Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) check on Initiative count 0 each round, after every participant in the chase has taken its turn. If the quarry is never out of the lead pursuer's sight, the check fails automatically. Otherwise, compare the check's total to the [[passive-perception-xphb]] scores of the pursuers. If the quarry consists of multiple creatures, they all make the check separately, so it's possible for one quarry to escape while others remain in the chase.
+If neither side gives up the chase, the quarry makes a Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) check on Initiative count 0 each round, after every participant in the chase has taken its turn. If the quarry is never out of the lead pursuer's sight, the check fails automatically. Otherwise, compare the check's total to the [[Passive Perception]] scores of the pursuers. If the quarry consists of multiple creatures, they all make the check separately, so it's possible for one quarry to escape while others remain in the chase.
 
-The quarry can gain [[advantage-xphb]] or [[disadvantage-xphb]] on its check based on the circumstances, as shown in the Escape Factors table.
+The quarry can gain [[Advantage]] or [[Disadvantage]] on its check based on the circumstances, as shown in the Escape Factors table.
 
 ![[ending-a-chase-escape-factors-xdmg]]
 
 Other factors might help or hinder the quarry's ability to escape, at your discretion. For example, a quarry with a [[faerie-fire-xphb]] spell cast on it might have Disadvantage on checks made to escape because it's much easier to spot.
 
-If the total of the quarry's check is greater than the highest [[passive-perception-xphb]] score of the pursuers, the quarry escapes. If not, the chase continues for another round. Escape doesn't necessarily mean the quarry has outpaced its pursuers. For example, in a city, escape might mean the quarry ducked into a crowd or slipped around a corner, leaving no clue as to where it went.
+If the total of the quarry's check is greater than the highest [[Passive Perception]] score of the pursuers, the quarry escapes. If not, the chase continues for another round. Escape doesn't necessarily mean the quarry has outpaced its pursuers. For example, in a city, escape might mean the quarry ducked into a crowd or slipped around a corner, leaving no clue as to where it went.
 
 #### Designing Your Own Chase Tables
 
@@ -181,7 +181,7 @@ You can alter a creature's size and creature type as you please. For example, yo
 
 #### Ability Scores
 
-You can usually change a creature's Intelligence, Wisdom, and Charisma scores freely unless the ability is used for spellcasting. For example, a [[Black Pudding]] stat block could represent a sapient alien if you raise its Intelligence and Charisma to 10 or so. It's usually best to leave its Strength, Dexterity, and Constitution scores alone, as changes to these scores can alter a monster's attack bonus, damage, [[armor-class-xphb]], or [[hit-points-xphb]], which in turn can alter its [[challenge-rating-xphb]].
+You can usually change a creature's Intelligence, Wisdom, and Charisma scores freely unless the ability is used for spellcasting. For example, a [[Black Pudding]] stat block could represent a sapient alien if you raise its Intelligence and Charisma to 10 or so. It's usually best to leave its Strength, Dexterity, and Constitution scores alone, as changes to these scores can alter a monster's attack bonus, damage, [[Armor Class]], or [[Hit Points]], which in turn can alter its [[Challenge Rating]].
 
 #### Languages
 
@@ -189,7 +189,7 @@ You can change any or all of the languages the creature knows. You might want to
 
 #### Proficiencies
 
-You can give a creature any skill proficiencies you want and give it [[expertise-xphb]] if you want it to be very skilled. If you want a creature to be good at hiding, give it Expertise in the [Stealth](Compendium/rules/skills.md#Stealth) skill. If its keen senses make it an excellent tracker or otherwise adept at finding hidden foes, give it Expertise in the [Perception](Compendium/rules/skills.md#Perception) skill. (You can also increase its Wisdom, as noted above.)
+You can give a creature any skill proficiencies you want and give it [[Expertise]] if you want it to be very skilled. If you want a creature to be good at hiding, give it Expertise in the [Stealth](Compendium/rules/skills.md#Stealth) skill. If its keen senses make it an excellent tracker or otherwise adept at finding hidden foes, give it Expertise in the [Perception](Compendium/rules/skills.md#Perception) skill. (You can also increase its Wisdom, as noted above.)
 
 You can also swap a monster's saving throw proficiencies. If it has none, you can add one or two.
 
@@ -207,34 +207,34 @@ You can freely change the name and flavor of an attack, as well as its damage ty
 
 #### Resistances and Immunities
 
-If a creature doesn't have [[resistance-xphb]] or [[immunity-xphb]] to one or more damage types, you can give it Resistance or Immunity to one or two damage types. You can also change the damage type of its existing Resistances and Immunities.
+If a creature doesn't have [[resistance-xphb]] or [[Immunity]] to one or more damage types, you can give it Resistance or Immunity to one or two damage types. You can also change the damage type of its existing Resistances and Immunities.
 
 ### Traits
 
 You can add traits to a creature's stat block to communicate aspects of the creature's nature. See the Creature Traits list for sample traits.
 
-You can also use traits from other stat blocks in the "Monster Manual", provided you don't add traits that alter a creature's Hit Points, confer [[temporary-hit-points-xphb]], or change the amount of damage the creature deals to other creatures.
+You can also use traits from other stat blocks in the "Monster Manual", provided you don't add traits that alter a creature's Hit Points, confer [[Temporary Hit Points]], or change the amount of damage the creature deals to other creatures.
 
 #### Creature Traits
 
-- **Aversion to Fire.** If the creature takes Fire damage, it has [[disadvantage-xphb]] on attack rolls and ability checks until the end of its next turn.  
-- **Battle Ready.** The creature has [[advantage-xphb]] on [[initiative-xphb]] rolls.  
+- **Aversion to Fire.** If the creature takes Fire damage, it has [[Disadvantage]] on attack rolls and ability checks until the end of its next turn.  
+- **Battle Ready.** The creature has [[Advantage]] on [[Initiative]] rolls.  
 - **Beast Whisperer.** The creature can communicate with Beasts as if they shared a common language.  
-- **Death Jinx.** When the creature dies, one random creature within 10 feet of the dead creature is targeted by a [[bane-xphb]] spell (save DC 13), which lasts for its full duration.  
-- **Dimensional Disruption.** Disruptive energy extends from the creature in a 30-foot [[emanation-area-of-effect-xphb]]. Other creatures can't teleport to or from a space in that area. Any attempt to do so is wasted.  
-- **Disciple of the Nine Hells.** When the creature dies, its body disgorges a [[hostile-attitude-xphb]] [[imp-xmm]] in the same space.  
+- **Death Jinx.** When the creature dies, one random creature within 10 feet of the dead creature is targeted by a [[Bane]] spell (save DC 13), which lasts for its full duration.  
+- **Dimensional Disruption.** Disruptive energy extends from the creature in a 30-foot [[Emanation (Area of Effect)]]. Other creatures can't teleport to or from a space in that area. Any attempt to do so is wasted.  
+- **Disciple of the Nine Hells.** When the creature dies, its body disgorges a [[Hostile (Attitude)]] [[imp-xmm]] in the same space.  
 - **Disintegration.** When the creature dies, its body and nonmagical possessions turn to dust. Any magic items it possessed are left behind in its space.  
-- **Emissary of Juiblex.** When the creature dies, its body disgorges a [[hostile-attitude-xphb]] [[Ochre Jelly]] in the same space.  
+- **Emissary of Juiblex.** When the creature dies, its body disgorges a [[Hostile (Attitude)]] [[Ochre Jelly]] in the same space.  
 - **Fey Ancestry.** The creature has Advantage on saving throws it makes to avoid or end the [Charmed](Compendium/rules/conditions.md#Charmed) condition, and magic can't put it to sleep.  
 - **Forbiddance.** The creature can't enter a residence without an invitation from one of its occupants.  
-- **Gloom Shroud.** Imperceptible energy channeled from the "Underworld" extends from the creature in a 20-foot [[emanation-area-of-effect-xphb]]. Other creatures in that area have [[disadvantage-xphb]] on Charisma checks and Charisma saving throws.  
-- **Light.** The creature sheds [[bright-light-xphb]] in a 10-foot radius and [[dim-light-xphb]] for an additional 10 feet. As a [[bonus-action-xphb]], the creature can suppress this light or cause it to return. The light winks out if the creature dies.  
+- **Gloom Shroud.** Imperceptible energy channeled from the "Underworld" extends from the creature in a 20-foot [[Emanation (Area of Effect)]]. Other creatures in that area have [[Disadvantage]] on Charisma checks and Charisma saving throws.  
+- **Light.** The creature sheds [[Bright Light]] in a 10-foot radius and [[Dim Light]] for an additional 10 feet. As a [[Bonus Action]], the creature can suppress this light or cause it to return. The light winks out if the creature dies.  
 - **Mimicry.** The creature can mimic Beast sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](Compendium/rules/skills.md#Insight)) check.  
 - **Poison Tolerant.** The creature has Advantage on saving throws it makes to avoid or end the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition.  
 - **Resonant Connection.** The creature has a supernatural connection to another creature or an object and knows the most direct route to it, provided the two are within 1 mile of each other.  
 - **Siege Monster.** The creature deals double damage to objects and structures.  
-- **Slaad Host.** When the creature dies, a [[hostile-attitude-xphb]] [[slaad-tadpole-xmm]] bursts from its innards in the same space.  
-- **Steadfast.** The creature has [[immunity-xphb]] to the [Frightened](Compendium/rules/conditions.md#Frightened) condition while it can see an ally within 30 feet of itself.  
+- **Slaad Host.** When the creature dies, a [[Hostile (Attitude)]] [[slaad-tadpole-xmm]] bursts from its innards in the same space.  
+- **Steadfast.** The creature has [[Immunity]] to the [Frightened](Compendium/rules/conditions.md#Frightened) condition while it can see an ally within 30 feet of itself.  
 - **Telepathic Bond.** The creature is linked psychically to another creature. While both are on the same plane of existence, they can communicate telepathically with each other.  
 - **Telepathic Shroud.** The creature is immune to any effect that would sense its emotions or read its thoughts, as well as to spells from the school of Divination. As a Bonus Action, the creature can suppress this trait or reactivate it.  
 - **Ventriloquism.** Whenever the creature speaks, it can choose a point within 30 feet of itself; its voice emanates from that point.  
@@ -265,7 +265,7 @@ An item that deals damage of one type could instead deal damage of another type.
 
 #### Combining Items
 
-You can merge the properties of two magic items of the same rarity into a single item, provided no more than one of them requires [[attunement-xphb]]. For example, you could combine the properties of a [[Helm of Comprehending Languages]] with those of a [[Helm of Telepathy]] into a single helmet. This makes the item more powerful (and probably increases its rarity), but it won't break your game.
+You can merge the properties of two magic items of the same rarity into a single item, provided no more than one of them requires [[Attunement]]. For example, you could combine the properties of a [[Helm of Comprehending Languages]] with those of a [[Helm of Telepathy]] into a single helmet. This makes the item more powerful (and probably increases its rarity), but it won't break your game.
 
 #### Special Features and Sentience
 
@@ -305,7 +305,7 @@ If having all the characters in a party pass an item around to gain its lasting 
 
 ##### Limit Stacking
 
-If the item grants a bonus that other items also grant, it's a good idea to require [[attunement-xphb]] so characters don't try to collect too many of those items.
+If the item grants a bonus that other items also grant, it's a good idea to require [[Attunement]] so characters don't try to collect too many of those items.
 
 ## Creating a Spell
 
@@ -345,7 +345,7 @@ Every curse has rules that govern it. A curse typically takes one of the forms d
 
 #### Bestow Curse
 
-The simplest curses are created by the [[bestow-curse-xphb]] spell. The effects of such curses are limited and can be ended by the [[remove-curse-xphb]] spell.
+The simplest curses are created by the [[Bestow Curse]] spell. The effects of such curses are limited and can be ended by the [[remove-curse-xphb]] spell.
 
 *Bestow Curse* provides useful benchmarks for gauging the potency of other curses. A curse that lasts for 1 minute equates to a level 3 spell, while one that lasts until dispelled equates to a level 9 spell.
 
@@ -373,7 +373,7 @@ Some locations are so suffused with evil that anyone who lingers there is burden
 
 Demonic Possession arises from the chaos and evil of the "Abyss" and commonly besets creatures that interact with demonic objects or linger in desecrated locations, where demonic spirits await victims.
 
-A creature that becomes the target of Demonic Possession must succeed on a DC 15 Charisma saving throw or be possessed by a bodiless demonic entity. Whenever the possessed creature rolls a 1 on a [[d20-test-xphb]], the demonic entity takes control of the creature and determines the creature's behavior thereafter. At the end of each of the possessed creature's later turns, the creature makes a DC 15 Charisma saving throw, regaining control of itself on a success.
+A creature that becomes the target of Demonic Possession must succeed on a DC 15 Charisma saving throw or be possessed by a bodiless demonic entity. Whenever the possessed creature rolls a 1 on a [[D20 Test]], the demonic entity takes control of the creature and determines the creature's behavior thereafter. At the end of each of the possessed creature's later turns, the creature makes a DC 15 Charisma saving throw, regaining control of itself on a success.
 
 After finishing a Long Rest, a creature with Demonic Possession makes a DC 15 Charisma saving throw. On a successful save, the effect ends on the creature. A [[dispel-evil-and-good-xphb]] spell or any magic that removes a curse also ends the effect on it.
 
@@ -383,7 +383,7 @@ Alchemists, potion brewers, and areas of wild magic are credited with creating t
 
 #### Rest and Recuperation
 
-If a creature infected with a magical contagion spends 3 days recuperating, engaging in no activities that would interrupt a Long Rest, the creature makes a DC 15 Constitution saving throw at the end of the recuperation period. On a successful save, the creature has [[advantage-xphb]] on saving throws to fight off the magical contagion for the next 24 hours.
+If a creature infected with a magical contagion spends 3 days recuperating, engaging in no activities that would interrupt a Long Rest, the creature makes a DC 15 Constitution saving throw at the end of the recuperation period. On a successful save, the creature has [[Advantage]] on saving throws to fight off the magical contagion for the next 24 hours.
 
 #### Example Contagions
 
@@ -426,12 +426,12 @@ After finishing a Long Rest, the character makes a DC 20 Constitution saving thr
 
 ### Death Scenes
 
-When a character is reduced to 0 Hit Points, the player sometimes has to sit out one or more rounds of combat with nothing to do but roll [[death-saving-throw-xphb]]. One way to keep a player involved in the game is to prompt some roleplaying along with each Death Save. You might ask the player to describe a memory that surfaces in the character's mind while hovering near death. Consider these possibilities:
+When a character is reduced to 0 Hit Points, the player sometimes has to sit out one or more rounds of combat with nothing to do but roll [[Death Saving Throw]]. One way to keep a player involved in the game is to prompt some roleplaying along with each Death Save. You might ask the player to describe a memory that surfaces in the character's mind while hovering near death. Consider these possibilities:
 
 - **On a Successful Death Save.** A memory that inspires hope and courage. A beloved person who would urge the character to cling to life. A thought of something to live for. A favorite childhood memory.  
 - **On a Failed Death Save.** A memory that stirs up shame or grief. A beloved person who is already dead, beckoning the character to join them. An experience of weariness or despair.  
 
-You can also reward a player who describes a memory or something else occupying the dying character's thoughts with [[advantage-xphb]] on the Death Save.
+You can also reward a player who describes a memory or something else occupying the dying character's thoughts with [[Advantage]] on the Death Save.
 
 When a character dies, either from failed Death Saves or from an effect that kills the character outright, consider giving the player some ownership over the character's final moments by asking what the character's last words are or how the character greets death.
 
@@ -579,7 +579,7 @@ Crypt builders who are worried about undead rising from the grave lock and trap 
 
 Sapient, social denizens of the dungeon generally guard the entrances to their shared spaces. A guard post may just be a room with a table where bored sentries play a dice game, or it might be a pair of iron golems backed up by spellcasters hiding in balconies overhead.
 
-When you design a guard post, decide how many guards are on duty, note their [[passive-perception-xphb]] scores, and decide what they do when they notice intruders (see ""Monster Behavior"" in "chapter 4"). Some will rush headlong into a fight, while others will negotiate, sound an alarm, or flee to get help.
+When you design a guard post, decide how many guards are on duty, note their [[Passive Perception]] scores, and decide what they do when they notice intruders (see ""Monster Behavior"" in "chapter 4"). Some will rush headlong into a fight, while others will negotiate, sound an alarm, or flee to get help.
 
 #### Living Quarters
 
@@ -643,7 +643,7 @@ Typically, a [Frightened](Compendium/rules/conditions.md#Frightened) creature re
 At your discretion, a Frightened creature might be subject to other effects as long as the Frightened condition lasts. Consider these examples:
 
 - The Frightened creature must take the [Dash](Compendium/rules/actions.md#Dash) action on each of its turns and uses its movement to get farther away from the source of its fear.  
-- Attack rolls against the Frightened creature have [[advantage-xphb]].  
+- Attack rolls against the Frightened creature have [[Advantage]].  
 - The Frightened creature can do only one of the following on each of its turns: move, take an action, or take a Bonus Action.  
 
 ### Mental Stress Effects
@@ -660,11 +660,11 @@ Exposure to mental stress can cause prolonged effects. Consider the following po
 
 ##### Short-Term Effects
 
-The character has the [Frightened](Compendium/rules/conditions.md#Frightened), [Incapacitated](Compendium/rules/conditions.md#Incapacitated), or [Stunned](Compendium/rules/conditions.md#Stunned) condition for `1d10` minutes. This condition might be accompanied by alarming behavior or hallucinations. These effects can be suppressed with the [[calm-emotions-xphb]] spell or removed by the [[lesser-restoration-xphb]] spell.
+The character has the [Frightened](Compendium/rules/conditions.md#Frightened), [Incapacitated](Compendium/rules/conditions.md#Incapacitated), or [Stunned](Compendium/rules/conditions.md#Stunned) condition for `1d10` minutes. This condition might be accompanied by alarming behavior or hallucinations. These effects can be suppressed with the [[Calm Emotions]] spell or removed by the [[lesser-restoration-xphb]] spell.
 
 ##### Long-Term Effects
 
-The character has [[disadvantage-xphb]] on some or all ability checks for `1d10 × 10` hours, stemming from an unwillingness or inability to exert a particular set of abilities. The character might feel enervated and unable to exert much Strength, for example, or become so suspicious of others that Charisma checks are more difficult. These effects can be suppressed with the Calm Emotions spell or removed by the Lesser Restoration spell.
+The character has [[Disadvantage]] on some or all ability checks for `1d10 × 10` hours, stemming from an unwillingness or inability to exert a particular set of abilities. The character might feel enervated and unable to exert much Strength, for example, or become so suspicious of others that Charisma checks are more difficult. These effects can be suppressed with the Calm Emotions spell or removed by the Lesser Restoration spell.
 
 ##### Indefinite Effects
 
@@ -688,7 +688,7 @@ Some weapons in the Firearms table have the following properties, in addition to
 
 #### Burst Fire
 
-As an action, you can expend 10 pieces of a Burst Fire weapon's ammunition to spray shots in a 10-foot [[cube-area-of-effect-xphb]] within the weapon's normal range. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take damage. Roll the weapon's damage once, and apply it to each creature that failed the save.
+As an action, you can expend 10 pieces of a Burst Fire weapon's ammunition to spray shots in a 10-foot [[Cube (Area of Effect)]] within the weapon's normal range. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take damage. Roll the weapon's damage once, and apply it to each creature that failed the save.
 
 #### Reload
 
@@ -710,11 +710,11 @@ The Explosives table has examples of explosives. If no cost is given for an expl
 
 #### Bomb
 
-As an action, you can light a Bomb and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [[sphere-area-of-effect-xphb]] centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Fire damage on a failed save or half as much damage on a successful one.
+As an action, you can light a Bomb and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [[Sphere (Area of Effect)]] centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Fire damage on a failed save or half as much damage on a successful one.
 
 #### Dynamite Stick
 
-An an action, you can light a Dynamite Stick and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [[sphere-area-of-effect-xphb]] centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Force damage on a failed save or half as much damage on a successful one.
+An an action, you can light a Dynamite Stick and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [[Sphere (Area of Effect)]] centered on that point makes a DC 12 Dexterity saving throw, taking `3d6` Force damage on a failed save or half as much damage on a successful one.
 
 It takes 1 minute to bind two or more Dynamite Sticks together so they explode at the same time. Each stick after the first increases the damage by `1d6` (to a maximum of `10d6`) and the effect's radius by 5 feet (to a maximum of 20 feet).
 
@@ -722,23 +722,23 @@ It takes 1 minute to rig dynamite with a longer fuse so it explodes after a long
 
 #### Grenades and Grenade Launchers
 
-As an action, you can either throw a grenade at a point up to 60 feet away or use a Grenade Launcher to propel the grenade to a point up to 1,000 feet away. The grenade explodes at that point, creating a particular effect in a 20-foot-radius [[sphere-area-of-effect-xphb]].
+As an action, you can either throw a grenade at a point up to 60 feet away or use a Grenade Launcher to propel the grenade to a point up to 1,000 feet away. The grenade explodes at that point, creating a particular effect in a 20-foot-radius [[Sphere (Area of Effect)]].
 
 #### Fragmentation Grenade
 
-Each creature in the [[sphere-area-of-effect-xphb]] makes a DC 15 Dexterity saving throw, taking 17 (`5d6`) Piercing damage on a failed save or half as much damage on a successful one.
+Each creature in the [[Sphere (Area of Effect)]] makes a DC 15 Dexterity saving throw, taking 17 (`5d6`) Piercing damage on a failed save or half as much damage on a successful one.
 
 #### Smoke Grenade
 
-The area of the [[sphere-area-of-effect-xphb]] is [[heavily-obscured-xphb]] by smoke for 1 minute. A strong wind (such as the [[gust-of-wind-xphb]] spell) disperses the smoke.
+The area of the [[Sphere (Area of Effect)]] is [[Heavily Obscured]] by smoke for 1 minute. A strong wind (such as the [[gust-of-wind-xphb]] spell) disperses the smoke.
 
 #### Gunpowder
 
-Setting fire to a container full of Gunpowder causes it to explode. When a container explodes, each creature in a 10-foot-radius [[sphere-area-of-effect-xphb]] centered on the container makes a DC 12 Dexterity saving throw, taking 10 (`3d6`) Fire damage (for a powder horn) or 24 (`7d6`) Fire damage (for a keg) on a failed save or half as much damage on a successful one.
+Setting fire to a container full of Gunpowder causes it to explode. When a container explodes, each creature in a 10-foot-radius [[Sphere (Area of Effect)]] centered on the container makes a DC 12 Dexterity saving throw, taking 10 (`3d6`) Fire damage (for a powder horn) or 24 (`7d6`) Fire damage (for a keg) on a failed save or half as much damage on a successful one.
 
 ### Alien Technology
 
-When adventurers find a piece of technology that isn't from their world or time period, they can deduce what it is with a successful Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check, with the DC depending on the complexity of the item: DC 10 for a relatively simple item like a calculator or a lighter, or DC 20 for a complex item such as a computer, a chainsaw, or a hovercraft. You may require a separate Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check to determine whether a character can activate or operate the technology; a character who has observed the item in use or has operated a similar item either has [[advantage-xphb]] on the check or succeeds on the check automatically (your choice).
+When adventurers find a piece of technology that isn't from their world or time period, they can deduce what it is with a successful Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check, with the DC depending on the complexity of the item: DC 10 for a relatively simple item like a calculator or a lighter, or DC 20 for a complex item such as a computer, a chainsaw, or a hovercraft. You may require a separate Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) check to determine whether a character can activate or operate the technology; a character who has observed the item in use or has operated a similar item either has [[Advantage]] on the check or succeeds on the check automatically (your choice).
 
 ## Gods and Other Powers
 
@@ -776,7 +776,7 @@ That said, characters' relationships with the divine forces they access to wield
 
 ### Divine Knowledge
 
-The [[commune-xphb]] spell allows its caster to ask a deity (or an agent of the god) yes-or-no questions and receive correct information, and other spells of the Divination school have similar effects. As the *Commune* spell description states, gods aren't necessarily omniscient. But they are tremendously knowledgeable, particularly with regard to their particular areas of influence. A sea god can be reasonably expected to know anything that has happened in or on a sea, for example, and a martial god knows details about wars. Gods can reliably predict the future, at least in the short term (hence their ability to answer spells such as [[augury-xphb]] and [[divination-xphb]]). And some gods might be unwilling to reveal their ignorance, choosing to give an unclear answer rather than admit that they don't know the truth.
+The [[Commune]] spell allows its caster to ask a deity (or an agent of the god) yes-or-no questions and receive correct information, and other spells of the Divination school have similar effects. As the *Commune* spell description states, gods aren't necessarily omniscient. But they are tremendously knowledgeable, particularly with regard to their particular areas of influence. A sea god can be reasonably expected to know anything that has happened in or on a sea, for example, and a martial god knows details about wars. Gods can reliably predict the future, at least in the short term (hence their ability to answer spells such as [[Augury]] and [[divination-xphb]]). And some gods might be unwilling to reveal their ignorance, choosing to give an unclear answer rather than admit that they don't know the truth.
 
 ### Divine Intervention
 
@@ -923,14 +923,14 @@ Follow these tips to smooth a combat encounter with a large number of monsters:
 
 ### Average Results
 
-Whenever you would otherwise make a number of [[d20-test-xphb]] for identical monsters, the Mob Results table can help you determine the number of successful [[d20-test-xphb]] the monsters get without having to roll dice. Follow these steps:
+Whenever you would otherwise make a number of [[D20 Test]] for identical monsters, the Mob Results table can help you determine the number of successful [[D20 Test]] the monsters get without having to roll dice. Follow these steps:
 
-- **Step 1.** Determine the minimum `d20` roll the monsters need to succeed on the [[d20-test-xphb]] using the following formula:  
+- **Step 1.** Determine the minimum `d20` roll the monsters need to succeed on the [[D20 Test]] using the following formula:  
 
 **Roll needed** = target number−monster's bonus
 
-- **Step 2.** Find the roll needed on the Mob Results table. If all the monsters have [[advantage-xphb]] on the roll (for example, if they're attacking and have the Pack Tactics trait, or if they're making a saving throw against a spell and have the Magic Resistance trait), find the roll needed in the With Advantage column. If all the monsters have [[disadvantage-xphb]] (for example, if they're attacking a creature protected by the [[blur-xphb]] spell), use the With Disadvantage column. Otherwise, use the Normal column.  
-- **Step 3.** Read across the table to find a fractional number of successes you can easily apply to the group of monsters. That's the fraction of monsters that succeed on the [[d20-test-xphb]].  
+- **Step 2.** Find the roll needed on the Mob Results table. If all the monsters have [[Advantage]] on the roll (for example, if they're attacking and have the Pack Tactics trait, or if they're making a saving throw against a spell and have the Magic Resistance trait), find the roll needed in the With Advantage column. If all the monsters have [[Disadvantage]] (for example, if they're attacking a creature protected by the [[Blur]] spell), use the With Disadvantage column. Otherwise, use the Normal column.  
+- **Step 3.** Read across the table to find a fractional number of successes you can easily apply to the group of monsters. That's the fraction of monsters that succeed on the [[D20 Test]].  
 
 ![[average-results-mob-results-xdmg]]
 
@@ -940,7 +940,7 @@ When the characters are fighting a large number of monsters, it's not always pra
 
 The Targets in Area of Effect table offers a guideline. To use the table, find the column for the shape of the area, then read down until you find its size. Then check the rightmost column to see about how many creatures are caught in the area. If you imagine that the targets are spread out, decrease the number by `1d3`. If they're bunched up, you can increase the number by `1d3`. Of course, an area can't encompass more creatures than are present in an encounter.
 
-Your judgment always outweighs these guidelines, and it's fine to err on the side of affecting more creatures. For example, if eight zombies are crowded around a Fighter when the Bard centers a [[shatter-xphb]] spell on the Fighter's space, the spell's area should definitely engulf all eight zombies, even though according to the table, a 10-foot-radius [[sphere-area-of-effect-xphb]] includes only three creatures.
+Your judgment always outweighs these guidelines, and it's fine to err on the side of affecting more creatures. For example, if eight zombies are crowded around a Fighter when the Bard centers a [[shatter-xphb]] spell on the Fighter's space, the spell's area should definitely engulf all eight zombies, even though according to the table, a 10-foot-radius [[Sphere (Area of Effect)]] includes only three creatures.
 
 ![[adjudicating-areas-of-effect-targets-in-area-of-effect-xdmg]]
 
@@ -950,7 +950,7 @@ The following scenario shows examples of how you as the DM can apply the guideli
 
 Eight [[zombie-xmm]] surround and attack a Fighter. The zombies' attack bonus is +3, and the Fighter's AC is 18, so the roll needed is 15 (18−3). Finding 15 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 2/8—two of the zombies hit. Using the zombies' average damage (4 Bludgeoning damage), the Fighter takes 8 Bludgeoning damage.
 
-After seeing the Fighter mauled by zombies, the Bard casts [[shatter-xphb]], centering the spell on the Fighter. (The Bard trusts that the Fighter will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius [[sphere-area-of-effect-xphb]], and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies' Constitution saving throw bonus is +3, and the Bard's spell saving throw DC is 16, so the roll needed is 13 (16−3). Finding 13 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.
+After seeing the Fighter mauled by zombies, the Bard casts [[shatter-xphb]], centering the spell on the Fighter. (The Bard trusts that the Fighter will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius [[Sphere (Area of Effect)]], and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies' Constitution saving throw bonus is +3, and the Bard's spell saving throw DC is 16, so the roll needed is 13 (16−3). Finding 13 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.
 
 Seeing a larger crowd of zombies in the distance, the Wizard casts [[fireball-xphb]]. The spell covers a 20-foot-radius Sphere. The Targets in Area of Effect table suggests that area covers ten zombies, but the DM rules that they're densely packed together and adds `1d3`, rolling a 2. So the spell engulfs twelve zombies in its area. The zombies' Dexterity saving throw modifier is −2, and the Wizard's spell save DC is 16, so the roll needed is 18 (16−[−2]). Finding 18 in the Normal column and reading across to the Out of 6 column, the DM gets a result of 1/6. Twelve times 1/6 is 2, so two of the twelve zombies succeed on the save.
 
@@ -990,7 +990,7 @@ Choose a stat block from the "Monster Manual" to represent the NPC's game statis
 
 #### Alignment
 
-Choose the NPC's [[alignment-xphb]], which can help you sketch the outlines of an NPC's behavior and personality. See the "Player's Handbook" and ""Alignment"" in this chapter for more information.
+Choose the NPC's [[Alignment]], which can help you sketch the outlines of an NPC's behavior and personality. See the "Player's Handbook" and ""Alignment"" in this chapter for more information.
 
 #### Personality
 
@@ -1064,7 +1064,7 @@ An NPC with a Loyalty Score of 10 or higher risks anything to help fellow party 
 
 ##### Crew Loyalty and Mutiny
 
-If the characters own or operate a sailing ship or similar vessel, you can use these rules to track the loyalty of individual crew members or the ship's crew as a whole. If at least half the crew's Loyalty Scores drop to 0 during a voyage, the crew turns [[hostile-attitude-xphb]] and stages a mutiny. If the ship is berthed, disloyal crew members leave the ship and never return.
+If the characters own or operate a sailing ship or similar vessel, you can use these rules to track the loyalty of individual crew members or the ship's crew as a whole. If at least half the crew's Loyalty Scores drop to 0 during a voyage, the crew turns [[Hostile (Attitude)]] and stages a mutiny. If the ship is berthed, disloyal crew members leave the ship and never return.
 
 ## Poison
 
@@ -1075,8 +1075,8 @@ Given their insidious and deadly nature, poisons are a favorite tool among assas
 Poisons come in the following four types:
 
 - **Contact.** Contact poison can be smeared on an object and remains potent until it is touched or washed off. A creature that touches contact poison with exposed skin suffers its effects.  
-- **Ingested.** A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing [[advantage-xphb]] on the saving throw or dealing only half as much damage on a failed save.  
-- **Inhaled.** Poisonous powders and gases take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot [[cube-area-of-effect-xphb]] to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.  
+- **Ingested.** A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing [[Advantage]] on the saving throw or dealing only half as much damage on a failed save.  
+- **Inhaled.** Poisonous powders and gases take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot [[Cube (Area of Effect)]] to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.  
 - **Injury.** Injury poison can be applied as a Bonus Action to a weapon, a piece of ammunition, or similar object. The poison remains potent until delivered through a wound or washed off. A creature that takes Piercing or Slashing damage from an object coated with the poison is exposed to its effects.  
 
 ### Purchasing Poison
@@ -1190,15 +1190,15 @@ The following tables allow you to flesh out details about a settlement. You can 
 
 Siege equipment includes objects designed to assail castles and other walled fortifications. Most siege weapons require creatures to move them, as well as to load, aim, and fire them.
 
-- [[ballista-xdmg]]  
-- [[cannon-xdmg]]  
+- [[Ballista]]  
+- [[Cannon]]  
 - [[flamethrower-coach-xdmg]]  
 - [[lightning-cannon-xdmg]]  
-- [[mangonel-xdmg]]  
-- [[ram-xdmg]]  
-- [[siege-tower-xdmg]]  
-- [[suspended-cauldron-xdmg]]  
-- [[trebuchet-xdmg]]  
+- [[Mangonel]]  
+- [[Ram]]  
+- [[Siege Tower]]  
+- [[Suspended Cauldron]]  
+- [[Trebuchet]]  
 
 ## Supernatural Gifts
 

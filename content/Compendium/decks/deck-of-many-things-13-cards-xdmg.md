@@ -47,7 +47,7 @@ A powerful devil becomes your enemy. The devil seeks your ruin and torments you,
 
 ### Jester
 ![](Compendium/decks/img/deck-of-many-things-14-jester.webp#card)
-You have [[advantage-xphb]] on [[d20-test-xphb]] for the next 72 hours, or you can draw two additional cards beyond your declared draws.
+You have [[Advantage]] on [[D20 Test]] for the next 72 hours, or you can draw two additional cards beyond your declared draws.
 
 ### Key
 ![](Compendium/decks/img/deck-of-many-things-02-key.webp#card)
@@ -63,7 +63,7 @@ You gain the ability to cast [[wish-xphb]] `1d3` times.
 
 ### Rogue
 ![](Compendium/decks/img/deck-of-many-things-06-rogue.webp#card)
-An NPC of the DM's choice becomes [[hostile-attitude-xphb]] toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [[wish-xphb]] spell or divine intervention can end the NPC's hostility toward you.
+An NPC of the DM's choice becomes [[Hostile (Attitude)]] toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [[wish-xphb]] spell or divine intervention can end the NPC's hostility toward you.
 
 ### Ruin
 ![](Compendium/decks/img/deck-of-many-things-16-ruin.webp#card)
@@ -71,7 +71,7 @@ All forms of wealth that you carry or own, other than magic items, are lost to y
 
 ### Skull
 ![](Compendium/decks/img/deck-of-many-things-19-skull.webp#card)
-An [[Avatar of Death]] appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 [[hit-points-xphb]] or you die. If an ally of yours deals damage to the avatar, that ally summons another Avatar of Death. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
+An [[Avatar of Death]] appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 [[Hit Points]] or you die. If an ally of yours deals damage to the avatar, that ally summons another Avatar of Death. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
 
 ### Star
 ![](Compendium/decks/img/deck-of-many-things-13-star.webp#card)
@@ -79,11 +79,11 @@ Increase one of your ability scores by 2, to a maximum of 24.
 
 ### Sun
 ![](Compendium/decks/img/deck-of-many-things-10-sun.webp#card)
-A magic item (chosen by the DM) appears on your person. In addition, you gain 10 [[temporary-hit-points-xphb]] daily at dawn until you die.
+A magic item (chosen by the DM) appears on your person. In addition, you gain 10 [[Temporary Hit Points]] daily at dawn until you die.
 
 ### Throne
 ![](Compendium/decks/img/deck-of-many-things-15-throne.webp#card)
-You gain proficiency and [[expertise-xphb]] in your choice of [History](Compendium/rules/skills.md#History), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), or [Persuasion](Compendium/rules/skills.md#Persuasion). In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently home to one or more monsters, which must be cleared out before you can claim the keep as yours.
+You gain proficiency and [[Expertise]] in your choice of [History](Compendium/rules/skills.md#History), [Insight](Compendium/rules/skills.md#Insight), [Intimidation](Compendium/rules/skills.md#Intimidation), or [Persuasion](Compendium/rules/skills.md#Persuasion). In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently home to one or more monsters, which must be cleared out before you can claim the keep as yours.
 
 ### Void
 ![](Compendium/decks/img/deck-of-many-things-18-void.webp#card)

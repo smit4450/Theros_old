@@ -101,6 +101,6 @@ Sixteen backgrounds are presented in this section in alphabetical order:
 
 ## Species Descriptions
 
-Ten species are presented in this section in alphabetical order: [[aasimar-xphb]], [[dragonborn-xphb]], [[dwarf-xphb]], [[elf-xphb]], [[gnome-xphb]], [[goliath-xphb]], [[halfling-xphb]], [[human-xphb]], [[orc-xphb]], and [[tiefling-xphb]].
+Ten species are presented in this section in alphabetical order: [[aasimar-xphb]], [[dragonborn-xphb]], [[dwarf-xphb]], [[elf-xphb]], [[gnome-xphb]], [[goliath-xphb]], [[halfling-xphb]], [[Human]], [[orc-xphb]], and [[tiefling-xphb]].
 
 ![](Compendium/books/players-handbook-2024/img/153-05-027-map-decoration.webp#center)

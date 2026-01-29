@@ -25,7 +25,7 @@ aliases: ["Otiluke's Freezing Sphere"]
 - **Components:** V, S, M (a miniature crystal sphere)
 - **Duration:** Instantaneous
 
-A frigid globe streaks from you to a point of your choice within range, where it explodes in a 60-foot-radius [[sphere-area-of-effect-xphb]]. Each creature in that area makes a Constitution saving throw, taking `10d6` Cold damage on failed save or half as much damage on a successful one.
+A frigid globe streaks from you to a point of your choice within range, where it explodes in a 60-foot-radius [[Sphere (Area of Effect)]]. Each creature in that area makes a Constitution saving throw, taking `10d6` Cold damage on failed save or half as much damage on a successful one.
 
 If the globe strikes a body of water, it freezes the water to a depth of 6 inches over an area 30 feet square. This ice lasts for 1 minute. Creatures that were swimming on the surface of frozen water are trapped in the ice and have the [Restrained](Compendium/rules/conditions.md#Restrained) condition. A trapped creature can take an action to make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check against your spell save DC to break free.
 

@@ -12,6 +12,6 @@ aliases:
 
 
 
-These crystal lenses fit over the eyes. While wearing them, your vision improves significantly out to a range of 1 foot, granting you [Darkvision](Compendium/rules/senses.md#Darkvision) within that range and [[advantage-xphb]] on Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) checks made to examine something within that range.
+These crystal lenses fit over the eyes. While wearing them, your vision improves significantly out to a range of 1 foot, granting you [Darkvision](Compendium/rules/senses.md#Darkvision) within that range and [[Advantage]] on Intelligence ([Investigation](Compendium/rules/skills.md#Investigation)) checks made to examine something within that range.
 
 *Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

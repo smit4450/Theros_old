@@ -32,9 +32,9 @@ aliases:
 
 ## 2nd Level
 
-- [Alter Self](Compendium/spells/alter-self-xphb.md "XPHB")
-- [Barkskin](Compendium/spells/barkskin-xphb.md "XPHB")
-- [Blindness/Deafness](Compendium/spells/blindness-deafness-xphb.md "XPHB")
+- [Alter Self](Alter%20Self.md "XPHB")
+- [Barkskin](Barkskin.md "XPHB")
+- [Blindness/Deafness](Blindness-Deafness.md "XPHB")
 - [Cordon of Arrows](Compendium/spells/cordon-of-arrows-xphb.md "XPHB")
 - [Darkvision](Compendium/spells/darkvision-xphb.md "XPHB")
 - [Dragon's Breath](Compendium/spells/dragons-breath-xphb.md "XPHB")
@@ -51,7 +51,7 @@ aliases:
 
 ## 3rd Level
 
-- [Blink](Compendium/spells/blink-xphb.md "XPHB")
+- [Blink](Blink.md "XPHB")
 - [Elemental Weapon](Compendium/spells/elemental-weapon-xphb.md "XPHB")
 - [Fly](Compendium/spells/fly-xphb.md "XPHB")
 - [Gaseous Form](Compendium/spells/gaseous-form-xphb.md "XPHB")
@@ -74,8 +74,8 @@ aliases:
 
 ## 5th Level
 
-- [Animate Objects](Compendium/spells/animate-objects-xphb.md "XPHB")
-- [Awaken](Compendium/spells/awaken-xphb.md "XPHB")
+- [Animate Objects](Animate%20Objects.md "XPHB")
+- [Awaken](Awaken.md "XPHB")
 - [Passwall](Compendium/spells/passwall-xphb.md "XPHB")
 - [Songal's Elemental Suffusion](Compendium/spells/songals-elemental-suffusion-frhof.md "FRHoF")
 - [Swift Quiver](Compendium/spells/swift-quiver-xphb.md "XPHB")
@@ -97,7 +97,7 @@ aliases:
 
 ## 8th Level
 
-- [Animal Shapes](Compendium/spells/animal-shapes-xphb.md "XPHB")
+- [Animal Shapes](Animal%20Shapes.md "XPHB")
 - [Control Weather](Compendium/spells/control-weather-xphb.md "XPHB")
 - [Earthquake](Compendium/spells/earthquake-xphb.md "XPHB")
 

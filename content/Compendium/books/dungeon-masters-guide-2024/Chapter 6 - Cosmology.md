@@ -16,7 +16,7 @@ The worlds of D&D are part of an immense cosmos. Most campaigns and adventures p
 
 ##### Planar Dissonance
 
-Celestials who visit the Lower Planes and Fiends who visit the Upper Planes experience significant discomfort if their visits last more than a few hours. After finishing a Long Rest on a plane that is alien to its nature, a Celestial or Fiend makes a DC 10 Constitution saving throw. On a failed save, whenever the creature makes a [[d20-test-xphb]], the creature must subtract `1d4` from the roll. The effect is cumulative with each failed save and ends when the creature finishes a Long Rest on a plane that isn't opposed to its nature.
+Celestials who visit the Lower Planes and Fiends who visit the Upper Planes experience significant discomfort if their visits last more than a few hours. After finishing a Long Rest on a plane that is alien to its nature, a Celestial or Fiend makes a DC 10 Constitution saving throw. On a failed save, whenever the creature makes a [[D20 Test]], the creature must subtract `1d4` from the roll. The effect is cumulative with each failed save and ends when the creature finishes a Long Rest on a plane that isn't opposed to its nature.
 
 ## Planar Travel
 
@@ -44,7 +44,7 @@ Learning and meeting a portal's requirements can draw characters into further ad
 
 ### Spells
 
-A number of spells allow direct or indirect access to different planes of existence. [[gate-xphb]] and [[plane-shift-xphb]] can directly transport adventurers to any other plane, with different degrees of precision. [[etherealness-xphb]] allows adventurers to enter the Ethereal Plane. And [[astral-projection-xphb]] lets adventurers project themselves into the Astral Plane and from there travel to the Outer Planes.
+A number of spells allow direct or indirect access to different planes of existence. [[gate-xphb]] and [[plane-shift-xphb]] can directly transport adventurers to any other plane, with different degrees of precision. [[etherealness-xphb]] allows adventurers to enter the Ethereal Plane. And [[Astral Projection]] lets adventurers project themselves into the Astral Plane and from there travel to the Outer Planes.
 
 ### Traveling the Outer Planes
 

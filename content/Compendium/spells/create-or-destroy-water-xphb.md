@@ -28,10 +28,10 @@ aliases: ["Create or Destroy Water"]
 
 You do one of the following:
 
-- **Create Water.** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot [[cube-area-of-effect-xphb]] within range, extinguishing exposed flames there.  
-- **Destroy Water.** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot [[cube-area-of-effect-xphb]] within range.  
+- **Create Water.** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot [[Cube (Area of Effect)]] within range, extinguishing exposed flames there.  
+- **Destroy Water.** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot [[Cube (Area of Effect)]] within range.  
 
-**Using a Higher-Level Spell Slot.** You create or destroy 10 additional gallons of water, or the size of the [[cube-area-of-effect-xphb]] increases by 5 feet, for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** You create or destroy 10 additional gallons of water, or the size of the [[Cube (Area of Effect)]] increases by 5 feet, for each spell slot level above 1.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]
 

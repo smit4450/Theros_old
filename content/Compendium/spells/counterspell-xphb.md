@@ -35,7 +35,7 @@ aliases: ["Counterspell"]
 - **Components:** S
 - **Duration:** Instantaneous
 
-You attempt to interrupt a creature in the process of casting a spell. The creature makes a Constitution saving throw. On a failed save, the spell dissipates with no effect, and the action, [[bonus-action-xphb]], or [[reaction-xphb]] used to cast it is wasted. If that spell was cast with a spell slot, the slot isn't expended.
+You attempt to interrupt a creature in the process of casting a spell. The creature makes a Constitution saving throw. On a failed save, the spell dissipates with no effect, and the action, [[Bonus Action]], or [[Reaction]] used to cast it is wasted. If that spell was cast with a spell slot, the slot isn't expended.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Spellfire Sorcery)](Compendium/lists/list-spells-classes-spellfire-sorcery-frhof.md "subclass=FRHoF;class=XPHB"); [[list-spells-classes-sorcerer]]; [[list-spells-classes-warlock]]; [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 

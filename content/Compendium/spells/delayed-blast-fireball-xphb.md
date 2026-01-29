@@ -25,7 +25,7 @@ aliases: ["Delayed Blast Fireball"]
 - **Components:** V, S, M (a ball of bat guano and sulfur)
 - **Duration:** Concentration, up to 1 minute
 
-A beam of yellow light flashes from you, then condenses at a chosen point within range as a glowing bead for the duration. When the spell ends, the bead explodes, and each creature in a 20-foot-radius [[sphere-area-of-effect-xphb]] centered on that point makes a Dexterity saving throw. A creature takes Fire damage equal to the total accumulated damage on a failed save or half as much damage on a successful one.
+A beam of yellow light flashes from you, then condenses at a chosen point within range as a glowing bead for the duration. When the spell ends, the bead explodes, and each creature in a 20-foot-radius [[Sphere (Area of Effect)]] centered on that point makes a Dexterity saving throw. A creature takes Fire damage equal to the total accumulated damage on a failed save or half as much damage on a successful one.
 
 The spell's base damage is `12d6`, and the damage increases by `1d6` whenever your turn ends and the spell hasn't ended.
 

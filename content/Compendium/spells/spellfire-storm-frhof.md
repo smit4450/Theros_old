@@ -29,9 +29,9 @@ aliases: ["Spellfire Storm"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You conjure a pillar of spellfire in a 20-foot-radius, 20-foot-high [[cylinder-area-of-effect-xphb]] centered on a point within range. The area of the [[cylinder-area-of-effect-xphb]] is [[bright-light-xphb]], and each creature in it when it appears makes a Constitution saving throw, taking `4d10` Radiant damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the spell's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn.
+You conjure a pillar of spellfire in a 20-foot-radius, 20-foot-high [[Cylinder (Area of Effect)]] centered on a point within range. The area of the [[Cylinder (Area of Effect)]] is [[Bright Light]], and each creature in it when it appears makes a Constitution saving throw, taking `4d10` Radiant damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the spell's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn.
 
-In addition, whenever a creature in the [[cylinder-area-of-effect-xphb]] casts a spell, that creature makes a Constitution saving throw. On a failed save, the spell dissipates with no effect, and the action, [[bonus-action-xphb]], or [[reaction-xphb]] used to cast it is wasted. If that spell was cast with a spell slot, the slot isn't expended.
+In addition, whenever a creature in the [[Cylinder (Area of Effect)]] casts a spell, that creature makes a Constitution saving throw. On a failed save, the spell dissipates with no effect, and the action, [[Bonus Action]], or [[Reaction]] used to cast it is wasted. If that spell was cast with a spell slot, the slot isn't expended.
 
 When you cast this spell, you can designate creatures to be unaffected by it.
 
@@ -47,9 +47,9 @@ The number of secondary casters determines the spell's area of effect and durati
 
 | Secondary Casters | Area of Effect | Duration |
 |-------------------|----------------|----------|
-| 1-3 | 40-foot-radius, 40-foot-high [[cylinder-area-of-effect-xphb]] | 1 Hour |
-| 4-6 | 60-foot-radius, 60-foot-high [[cylinder-area-of-effect-xphb]] | 8 Hours |
-| 7+ | 100-foot-radius, 100-foot-high [[cylinder-area-of-effect-xphb]] | 24 Hours |
+| 1-3 | 40-foot-radius, 40-foot-high [[Cylinder (Area of Effect)]] | 1 Hour |
+| 4-6 | 60-foot-radius, 60-foot-high [[Cylinder (Area of Effect)]] | 8 Hours |
+| 7+ | 100-foot-radius, 100-foot-high [[Cylinder (Area of Effect)]] | 24 Hours |
 ^secondary-casters-area-of-effect-duration
 
 ## Summary

@@ -28,9 +28,9 @@ While holding the staff, you can cast one of the spells on the following table f
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[animal-friendship-xphb]] | 1 |
-| [[awaken-xphb]] | 5 |
-| [[barkskin-xphb]] | 2 |
+| [[Animal Friendship]] | 1 |
+| [[Awaken]] | 5 |
+| [[Barkskin]] | 2 |
 | [[locate-animals-or-plants-xphb]] | 2 |
 | [[pass-without-trace-xphb]] | 2 |
 | [[speak-with-animals-xphb]] | 1 |

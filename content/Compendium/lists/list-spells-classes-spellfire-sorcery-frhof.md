@@ -21,7 +21,7 @@ aliases:
 
 ## 3rd Level
 
-- [Aura of Vitality](Compendium/spells/aura-of-vitality-xphb.md "XPHB") at class level 5
+- [Aura of Vitality](Aura%20of%20Vitality.md "XPHB") at class level 5
 - [Counterspell](Compendium/spells/counterspell-xphb.md "XPHB") at class level 5
 - [Dispel Magic](Compendium/spells/dispel-magic-xphb.md "XPHB") at class level 5
 

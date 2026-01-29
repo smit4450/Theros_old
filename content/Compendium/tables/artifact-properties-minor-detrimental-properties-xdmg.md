@@ -27,5 +27,5 @@ aliases:
 | 81–84 | While you're attuned to the Artifact, nonmagical flames are extinguished within 30 feet of you. |
 | 85–88 | While you're attuned to the Artifact, other creatures can't take Short or Long Rests while within 300 feet of you. |
 | 89–92 | While attuned to the Artifact, you kill any nonmagical vegetation you touch that isn't a creature. |
-| 93–00 | While you're attuned to the Artifact, Beasts within 30 feet of you that have a Challenge Rating of 6 or lower are [[hostile-attitude-xphb]] toward you. |
+| 93–00 | While you're attuned to the Artifact, Beasts within 30 feet of you that have a Challenge Rating of 6 or lower are [[Hostile (Attitude)]] toward you. |
 ^minor-detrimental-properties

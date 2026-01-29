@@ -37,7 +37,7 @@ aliases: ["Fire Shield"]
 - **Components:** V, S, M (a bit of phosphorus or a firefly)
 - **Duration:** 10 minutes
 
-Wispy flames wreathe your body for the duration, shedding [[bright-light-xphb]] in a 10-foot radius and [[dim-light-xphb]] for an additional 10 feet.
+Wispy flames wreathe your body for the duration, shedding [[Bright Light]] in a 10-foot radius and [[Dim Light]] for an additional 10 feet.
 
 The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you [[resistance-xphb]] to Cold damage, and the chill shield grants you [[resistance-xphb]] to Fire damage.
 

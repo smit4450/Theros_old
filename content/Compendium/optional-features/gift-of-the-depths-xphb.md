@@ -13,6 +13,6 @@ aliases:
 
 **Prerequisite**: Level 5
 
-You can breathe underwater, and you gain a [[swim-speed-xphb]] equal to your [[speed-xphb]].
+You can breathe underwater, and you gain a [[Swim Speed]] equal to your [[Speed]].
 
-You can also cast [[water-breathing-xphb]] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a [[long-rest-xphb]].
+You can also cast [[water-breathing-xphb]] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a [[Long Rest]].

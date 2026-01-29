@@ -29,46 +29,46 @@ The glossary uses the following conventions:
 Here are definitions of various rules.
 
 > [!embed-variantrule]- Ability Check
-> ![[ability-check-xphb]]
+> ![[Ability Check]]
 
 > [!embed-variantrule]- Ability Score and Modifier
-> ![[ability-score-and-modifier-xphb]]
+> ![[Ability Score and Modifier]]
 
 > [!embed-variantrule]- Action
-> ![[action-xphb]]
+> ![[Action]]
 
 > [!embed-variantrule]- Advantage
-> ![[advantage-xphb]]
+> ![[Advantage]]
 
 > [!embed-variantrule]- Adventure
-> ![[adventure-xphb]]
+> ![[Adventure]]
 
 > [!embed-variantrule]- Alignment
-> ![[alignment-xphb]]
+> ![[Alignment]]
 
 > [!embed-variantrule]- Ally
-> ![[ally-xphb]]
+> ![[Ally]]
 
 > [!embed-variantrule]- Area of Effect
-> ![[area-of-effect-xphb]]
+> ![[Area of Effect]]
 
 > [!embed-variantrule]- Armor Class
-> ![[armor-class-xphb]]
+> ![[Armor Class]]
 
 > [!embed-variantrule]- Armor Training
-> ![[armor-training-xphb]]
+> ![[Armor Training]]
 
 > [!embed-action]- Attack
 > ![Attack](Compendium/rules/actions.md#Attack)
 
 > [!embed-variantrule]- Attack Roll
-> ![[attack-roll-xphb]]
+> ![[Attack Roll]]
 
 > [!embed-variantrule]- Attitude
-> ![[attitude-xphb]]
+> ![[Attitude]]
 
 > [!embed-variantrule]- Attunement
-> ![[attunement-xphb]]
+> ![[Attunement]]
 
 > [!embed-condition]- Blinded
 > ![Blinded](Compendium/rules/conditions.md#Blinded)
@@ -80,91 +80,91 @@ Here are definitions of various rules.
 > ![Bloodied](Compendium/rules/conditions.md#Bloodied)
 
 > [!embed-variantrule]- Bonus Action
-> ![[bonus-action-xphb]]
+> ![[Bonus Action]]
 
 > [!embed-variantrule]- Breaking Objects
-> ![[breaking-objects-xphb]]
+> ![[Breaking Objects]]
 
 > [!embed-variantrule]- Bright Light
-> ![[bright-light-xphb]]
+> ![[Bright Light]]
 
 > [!embed-hazard]- Burning
 > ![[burning-xphb]]
 
 > [!embed-variantrule]- Burrow Speed
-> ![[burrow-speed-xphb]]
+> ![[Burrow Speed]]
 
 > [!embed-variantrule]- Campaign
-> ![[campaign-xphb]]
+> ![[Campaign]]
 
 > [!embed-variantrule]- Cantrip
-> ![[cantrip-xphb]]
+> ![[Cantrip]]
 
 > [!embed-variantrule]- Carrying Capacity
-> ![[carrying-capacity-xphb]]
+> ![[Carrying Capacity]]
 
 > [!embed-variantrule]- Challenge Rating
-> ![[challenge-rating-xphb]]
+> ![[Challenge Rating]]
 
 > [!embed-variantrule]- Character Sheet
-> ![[character-sheet-xphb]]
+> ![[Character Sheet]]
 
 > [!embed-condition]- Charmed
 > ![Charmed](Compendium/rules/conditions.md#Charmed)
 
 > [!embed-variantrule]- Climbing
-> ![[climbing-xphb]]
+> ![[Climbing]]
 
 > [!embed-variantrule]- Climb Speed
-> ![[climb-speed-xphb]]
+> ![[Climb Speed]]
 
 > [!embed-status]- Concentration
 > ![Concentration](Compendium/rules/conditions.md#Concentration)
 
 > [!embed-variantrule]- Condition
-> ![[condition-xphb]]
+> ![[Condition]]
 
 > [!embed-variantrule]- Cone [Area of Effect]
-> ![[cone-area-of-effect-xphb]]
+> ![[Cone (Area of Effect)]]
 
 > [!embed-variantrule]- Cover
 > ![[cover-xphb]]
 
 > [!embed-variantrule]- Crawling
-> ![[crawling-xphb]]
+> ![[Crawling]]
 
 > [!embed-variantrule]- Creature
-> ![[creature-xphb]]
+> ![[Creature]]
 
 > [!embed-variantrule]- Creature Type
-> ![[creature-type-xphb]]
+> ![[Creature Type]]
 
 > [!embed-variantrule]- Critical Hit
-> ![[critical-hit-xphb]]
+> ![[Critical Hit]]
 
 > [!embed-variantrule]- Cube [Area of Effect]
-> ![[cube-area-of-effect-xphb]]
+> ![[Cube (Area of Effect)]]
 
 > [!embed-variantrule]- Curses
-> ![[curses-xphb]]
+> ![[Curses]]
 
 > [!embed-variantrule]- Cylinder [Area of Effect]
-> ![[cylinder-area-of-effect-xphb]]
+> ![[Cylinder (Area of Effect)]]
 
 > [!embed-variantrule]- D20 Test
-> ![[d20-test-xphb]]
+> ![[D20 Test]]
 
 > [!embed-variantrule]- Damage
-> ![[damage-xphb]]
+> ![[Damage]]
 
 > [!embed-variantrule]- Damage Roll
-> ![[damage-roll-xphb]]
+> ![[Damage Roll]]
 
 > [!embed-variantrule]- Damage Threshold
-> ![[damage-threshold-xphb]]
+> ![[Damage Threshold]]
 
 > [!embed-variantrule]- Damage Types
-> ![[damage-types-xphb]]
+> ![[Damage Types]]
 
 > [!embed-variantrule]- Darkness
 > ![[darkness-xphb]]
@@ -176,28 +176,28 @@ Here are definitions of various rules.
 > ![Dash](Compendium/rules/actions.md#Dash)
 
 > [!embed-variantrule]- Dead
-> ![[dead-xphb]]
+> ![[Dead]]
 
 > [!embed-condition]- Deafened
 > ![Deafened](Compendium/rules/conditions.md#Deafened)
 
 > [!embed-variantrule]- Death Saving Throw
-> ![[death-saving-throw-xphb]]
+> ![[Death Saving Throw]]
 
 > [!embed-hazard]- Dehydration
 > ![[dehydration-xphb]]
 
 > [!embed-variantrule]- Difficult Terrain
-> ![[difficult-terrain-xphb]]
+> ![[Difficult Terrain]]
 
 > [!embed-variantrule]- Difficulty Class
-> ![[difficulty-class-xphb]]
+> ![[Difficulty Class]]
 
 > [!embed-variantrule]- Dim Light
-> ![[dim-light-xphb]]
+> ![[Dim Light]]
 
 > [!embed-variantrule]- Disadvantage
-> ![[disadvantage-xphb]]
+> ![[Disadvantage]]
 
 > [!embed-action]- Disengage
 > ![Disengage](Compendium/rules/actions.md#Disengage)
@@ -206,34 +206,34 @@ Here are definitions of various rules.
 > ![Dodge](Compendium/rules/actions.md#Dodge)
 
 > [!embed-variantrule]- Emanation [Area of Effect]
-> ![[emanation-area-of-effect-xphb]]
+> ![[Emanation (Area of Effect)]]
 
 > [!embed-variantrule]- Encounter
-> ![[encounter-xphb]]
+> ![[Encounter]]
 
 > [!embed-variantrule]- Enemy
-> ![[enemy-xphb]]
+> ![[Enemy]]
 
 > [!embed-condition]- Exhaustion
 > ![Exhaustion](Compendium/rules/conditions.md#Exhaustion)
 
 > [!embed-variantrule]- Experience Points
-> ![[experience-points-xphb]]
+> ![[Experience Points]]
 
 > [!embed-variantrule]- Expertise
-> ![[expertise-xphb]]
+> ![[Expertise]]
 
 > [!embed-hazard]- Falling
 > ![[falling-xphb]]
 
 > [!embed-variantrule]- Flying
-> ![[flying-xphb]]
+> ![[Flying]]
 
 > [!embed-variantrule]- Fly Speed
-> ![[fly-speed-xphb]]
+> ![[Fly Speed]]
 
 > [!embed-variantrule]- Friendly [Attitude]
-> ![[friendly-attitude-xphb]]
+> ![[Friendly (Attitude)]]
 
 > [!embed-condition]- Frightened
 > ![Frightened](Compendium/rules/conditions.md#Frightened)
@@ -242,103 +242,103 @@ Here are definitions of various rules.
 > ![Grappled](Compendium/rules/conditions.md#Grappled)
 
 > [!embed-variantrule]- Grappling
-> ![[grappling-xphb]]
+> ![[Grappling]]
 
 > [!embed-variantrule]- Hazard
-> ![[hazard-xphb]]
+> ![[Hazard]]
 
 > [!embed-variantrule]- Healing
-> ![[healing-xphb]]
+> ![[Healing]]
 
 > [!embed-variantrule]- Heavily Obscured
-> ![[heavily-obscured-xphb]]
+> ![[Heavily Obscured]]
 
 > [!embed-action]- Help
 > ![Help](Compendium/rules/actions.md#Help)
 
 > [!embed-variantrule]- Heroic Inspiration
-> ![[heroic-inspiration-xphb]]
+> ![[Heroic Inspiration]]
 
 > [!embed-action]- Hide
 > ![Hide](Compendium/rules/actions.md#Hide)
 
 > [!embed-variantrule]- High Jump
-> ![[high-jump-xphb]]
+> ![[High Jump]]
 
 > [!embed-variantrule]- Hit Point Dice
-> ![[hit-point-dice-xphb]]
+> ![[Hit Point Dice]]
 
 > [!embed-variantrule]- Hit Points
-> ![[hit-points-xphb]]
+> ![[Hit Points]]
 
 > [!embed-variantrule]- Hostile [Attitude]
-> ![[hostile-attitude-xphb]]
+> ![[Hostile (Attitude)]]
 
 > [!embed-variantrule]- Hover
-> ![[hover-xphb]]
+> ![[Hover]]
 
 > [!embed-variantrule]- Illusions
-> ![[illusions-xphb]]
+> ![[Illusions]]
 
 > [!embed-variantrule]- Immunity
-> ![[immunity-xphb]]
+> ![[Immunity]]
 
 > [!embed-variantrule]- Improvised Weapons
-> ![[improvised-weapons-xphb]]
+> ![[Improvised Weapons]]
 
 > [!embed-condition]- Incapacitated
 > ![Incapacitated](Compendium/rules/conditions.md#Incapacitated)
 
 > [!embed-variantrule]- Indifferent [Attitude]
-> ![[indifferent-attitude-xphb]]
+> ![[Indifferent (Attitude)]]
 
 > [!embed-action]- Influence
 > ![Influence](Compendium/rules/actions.md#Influence)
 
 > [!embed-variantrule]- Initiative
-> ![[initiative-xphb]]
+> ![[Initiative]]
 
 > [!embed-condition]- Invisible
 > ![Invisible](Compendium/rules/conditions.md#Invisible)
 
 > [!embed-variantrule]- Jumping
-> ![[jumping-xphb]]
+> ![[Jumping]]
 
 > [!embed-variantrule]- Knocking Out a Creature
-> ![[knocking-out-a-creature-xphb]]
+> ![[Knocking Out a Creature]]
 
 > [!embed-variantrule]- Lightly Obscured
-> ![[lightly-obscured-xphb]]
+> ![[Lightly Obscured]]
 
 > [!embed-variantrule]- Line [Area of Effect]
-> ![[line-area-of-effect-xphb]]
+> ![[Line (Area of Effect)]]
 
 > [!embed-variantrule]- Long Jump
-> ![[long-jump-xphb]]
+> ![[Long Jump]]
 
 > [!embed-variantrule]- Long Rest
-> ![[long-rest-xphb]]
+> ![[Long Rest]]
 
 > [!embed-action]- Magic
 > ![Magic](Compendium/rules/actions.md#Magic)
 
 > [!embed-variantrule]- Magical Effect
-> ![[magical-effect-xphb]]
+> ![[Magical Effect]]
 
 > [!embed-hazard]- Malnutrition
 > ![[malnutrition-xphb]]
 
 > [!embed-variantrule]- Monster
-> ![[monster-xphb]]
+> ![[Monster]]
 
 > [!embed-variantrule]- Nonplayer Character
-> ![[nonplayer-character-xphb]]
+> ![[Nonplayer Character]]
 
 > [!embed-variantrule]- Object
-> ![[object-xphb]]
+> ![[Object]]
 
 > [!embed-variantrule]- Occupied Space
-> ![[occupied-space-xphb]]
+> ![[Occupied Space]]
 
 > [!embed-action]- Opportunity Attack
 > ![Opportunity Attack](Compendium/rules/actions.md#Opportunity Attack)
@@ -347,31 +347,31 @@ Here are definitions of various rules.
 > ![Paralyzed](Compendium/rules/conditions.md#Paralyzed)
 
 > [!embed-variantrule]- Passive Perception
-> ![[passive-perception-xphb]]
+> ![[Passive Perception]]
 
 > [!embed-variantrule]- Per Day
-> ![[per-day-xphb]]
+> ![[Per Day]]
 
 > [!embed-condition]- Petrified
 > ![Petrified](Compendium/rules/conditions.md#Petrified)
 
 > [!embed-variantrule]- Player Character
-> ![[player-character-xphb]]
+> ![[Player Character]]
 
 > [!embed-condition]- Poisoned
 > ![Poisoned](Compendium/rules/conditions.md#Poisoned)
 
 > [!embed-variantrule]- Possession
-> ![[possession-xphb]]
+> ![[Possession]]
 
 > [!embed-variantrule]- Proficiency
-> ![[proficiency-xphb]]
+> ![[Proficiency]]
 
 > [!embed-condition]- Prone
 > ![Prone](Compendium/rules/conditions.md#Prone)
 
 > [!embed-variantrule]- Reaction
-> ![[reaction-xphb]]
+> ![[Reaction]]
 
 > [!embed-action]- Ready
 > ![Ready](Compendium/rules/actions.md#Ready)
@@ -383,55 +383,55 @@ Here are definitions of various rules.
 > ![Restrained](Compendium/rules/conditions.md#Restrained)
 
 > [!embed-variantrule]- Ritual
-> ![[ritual-xphb]]
+> ![[Ritual]]
 
 > [!embed-variantrule]- Round Down
-> ![[round-down-xphb]]
+> ![[Round Down]]
 
 > [!embed-variantrule]- Save
-> ![[save-xphb]]
+> ![[Save]]
 
 > [!embed-variantrule]- Saving Throw
-> ![[saving-throw-xphb]]
+> ![[Saving Throw]]
 
 > [!embed-action]- Search
 > ![Search](Compendium/rules/actions.md#Search)
 
 > [!embed-variantrule]- Shape-Shifting
-> ![[shape-shifting-xphb]]
+> ![[Shape-Shifting]]
 
 > [!embed-variantrule]- Short Rest
-> ![[short-rest-xphb]]
+> ![[Short Rest]]
 
 > [!embed-variantrule]- Simultaneous Effects
-> ![[simultaneous-effects-xphb]]
+> ![[Simultaneous Effects]]
 
 > [!embed-variantrule]- Size
-> ![[size-xphb]]
+> ![[Size]]
 
 > [!embed-variantrule]- Skill
-> ![[skill-xphb]]
+> ![[Skill]]
 
 > [!embed-variantrule]- Speed
-> ![[speed-xphb]]
+> ![[Speed]]
 
 > [!embed-variantrule]- Spell
-> ![[spell-xphb]]
+> ![[Spell]]
 
 > [!embed-variantrule]- Spell Attack
-> ![[spell-attack-xphb]]
+> ![[Spell Attack]]
 
 > [!embed-variantrule]- Spellcasting Focus
-> ![[spellcasting-focus-xphb]]
+> ![[Spellcasting Focus]]
 
 > [!embed-variantrule]- Sphere [Area of Effect]
-> ![[sphere-area-of-effect-xphb]]
+> ![[Sphere (Area of Effect)]]
 
 > [!embed-variantrule]- Stable
-> ![[stable-xphb]]
+> ![[Compendium/rules/variant-rules/Stable]]
 
 > [!embed-variantrule]- Stat Block
-> ![[stat-block-xphb]]
+> ![[Stat Block]]
 
 > [!embed-action]- Study
 > ![Study](Compendium/rules/actions.md#Study)
@@ -446,22 +446,22 @@ Here are definitions of various rules.
 > ![Surprised](Compendium/rules/conditions.md#Surprised)
 
 > [!embed-variantrule]- Swimming
-> ![[swimming-xphb]]
+> ![[Swimming]]
 
 > [!embed-variantrule]- Swim Speed
-> ![[swim-speed-xphb]]
+> ![[Swim Speed]]
 
 > [!embed-variantrule]- Target
-> ![[target-xphb]]
+> ![[Target]]
 
 > [!embed-variantrule]- Telepathy
 > ![[telepathy-xphb]]
 
 > [!embed-variantrule]- Teleportation
-> ![[teleportation-xphb]]
+> ![[Teleportation]]
 
 > [!embed-variantrule]- Temporary Hit Points
-> ![[temporary-hit-points-xphb]]
+> ![[Temporary Hit Points]]
 
 > [!embed-sense]- Tremorsense
 > ![Tremorsense](Compendium/rules/senses.md#Tremorsense)
@@ -470,22 +470,22 @@ Here are definitions of various rules.
 > ![Truesight](Compendium/rules/senses.md#Truesight)
 
 > [!embed-variantrule]- Unarmed Strike
-> ![[unarmed-strike-xphb]]
+> ![[Unarmed Strike]]
 
 > [!embed-condition]- Unconscious
 > ![Unconscious](Compendium/rules/conditions.md#Unconscious)
 
 > [!embed-variantrule]- Unoccupied Space
-> ![[unoccupied-space-xphb]]
+> ![[Unoccupied Space]]
 
 > [!embed-action]- Utilize
 > ![Utilize](Compendium/rules/actions.md#Utilize)
 
 > [!embed-variantrule]- Vulnerability
-> ![[vulnerability-xphb]]
+> ![[Vulnerability]]
 
 > [!embed-variantrule]- Weapon
-> ![[weapon-xphb]]
+> ![[Weapon]]
 
 > [!embed-variantrule]- Weapon Attack
-> ![[weapon-attack-xphb]]
+> ![[Weapon Attack]]

@@ -19,9 +19,9 @@ This rod has a flanged head, and it functions as a magic Mace that grants a +3 b
 
 ## Buttons
 
-You can press one of the following buttons as a [[bonus-action-xphb]]; a button's effect lasts until you push a different button or until you push the same button again, which causes the rod to revert to its normal form:
+You can press one of the following buttons as a [[Bonus Action]]; a button's effect lasts until you push a different button or until you push the same button again, which causes the rod to revert to its normal form:
 
-- **Button 1.** A fiery blade sprouts from the end opposite the rod's flanged head. The flames shed [[bright-light-xphb]] in a 40-foot radius and [[dim-light-xphb]] for an additional 40 feet, and the blade functions as a magic Longsword or Shortsword (your choice) that deals an extra `2d6` Fire damage on a hit.  
+- **Button 1.** A fiery blade sprouts from the end opposite the rod's flanged head. The flames shed [[Bright Light]] in a 40-foot radius and [[Dim Light]] for an additional 40 feet, and the blade functions as a magic Longsword or Shortsword (your choice) that deals an extra `2d6` Fire damage on a hit.  
 - **Button 2.** The rod's flanged head folds down and two crescent-shaped blades spring out, transforming the rod into a magic Battleaxe that grants a +3 bonus to attack rolls and damage rolls made with it.  
 - **Button 3.** The rod's flanged head folds down, a spear point springs from the rod's tip, and the rod's handle lengthens into a 6-foot haft, transforming the rod into a magic Spear that grants a +3 bonus to attack rolls and damage rolls made with it.  
 - **Button 4.** The rod transforms into a climbing pole up to 50 feet long (you specify the length), though the rod's buttons remain within your reach. In surfaces as hard as granite, a spike at the bottom and three hooks at the top anchor the pole. Horizontal bars 3 inches long fold out from the sides, 1 foot apart, forming a ladder. The pole can bear up to 4,000 pounds. More weight or lack of solid anchoring causes the rod to revert to its normal form.  
@@ -30,7 +30,7 @@ You can press one of the following buttons as a [[bonus-action-xphb]]; a button'
 
 ## Drain Life
 
-When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Constitution saving throw. On a failed save, the target takes an extra `4d6` Necrotic damage, and you regain a number of [[hit-points-xphb]] equal to half that Necrotic damage. Once used, this property can't be used again until the next dawn.
+When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Constitution saving throw. On a failed save, the target takes an extra `4d6` Necrotic damage, and you regain a number of [[Hit Points]] equal to half that Necrotic damage. Once used, this property can't be used again until the next dawn.
 
 ## Paralyze
 

@@ -14,7 +14,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain 10 [[temporary-hit-points-xphb]] that last for 1 hour. For the same duration, you are under the effect of the [[bless-xphb]] spell (no [Concentration](Compendium/rules/conditions.md#Concentration) required).
+When you drink this potion, you gain 10 [[Temporary Hit Points]] that last for 1 hour. For the same duration, you are under the effect of the [[Bless]] spell (no [Concentration](Compendium/rules/conditions.md#Concentration) required).
 
 This potion's blue liquid bubbles and steams as if boiling.
 

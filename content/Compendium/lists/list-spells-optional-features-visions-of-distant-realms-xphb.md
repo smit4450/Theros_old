@@ -11,4 +11,4 @@ aliases:
 
 ## 4th Level
 
-- [Arcane Eye](Compendium/spells/arcane-eye-xphb.md "XPHB")
+- [Arcane Eye](Arcane%20Eye.md "XPHB")

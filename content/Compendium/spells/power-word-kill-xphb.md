@@ -25,7 +25,7 @@ aliases: ["Power Word Kill"]
 - **Components:** V
 - **Duration:** Instantaneous
 
-You compel one creature you can see within range to die. If the target has 100 [[hit-points-xphb]] or fewer, it dies. Otherwise, it takes `12d12` Psychic damage.
+You compel one creature you can see within range to die. If the target has 100 [[Hit Points]] or fewer, it dies. Otherwise, it takes `12d12` Psychic damage.
 
 **Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-sorcerer]]; [[list-spells-classes-warlock]]; [[list-spells-classes-wizard]]
 

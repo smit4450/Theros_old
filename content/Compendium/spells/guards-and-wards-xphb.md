@@ -31,11 +31,11 @@ The spell creates the effects below within the warded area. [[dispel-magic-xphb]
 
 ## Corridors
 
-Fog fills all the warded corridors, making them [[heavily-obscured-xphb]]. In addition, at each intersection or branching passage offering a choice of direction, there is a  chance that a creature other than you believes it is going in the opposite direction from the one it chooses.
+Fog fills all the warded corridors, making them [[Heavily Obscured]]. In addition, at each intersection or branching passage offering a choice of direction, there is a  chance that a creature other than you believes it is going in the opposite direction from the one it chooses.
 
 ## Doors
 
-All doors in the warded area are magically locked, as if sealed by the [[arcane-lock-xphb]] spell. In addition, you can cover up to ten doors with an illusion to make them appear as plain sections of wall.
+All doors in the warded area are magically locked, as if sealed by the [[Arcane Lock]] spell. In addition, you can cover up to ten doors with an illusion to make them appear as plain sections of wall.
 
 ## Stairs
 

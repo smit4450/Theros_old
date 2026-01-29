@@ -15,7 +15,7 @@ aliases:
 
 ## 1st Level
 
-- [Chromatic Orb](Compendium/spells/chromatic-orb-xphb.md "XPHB") at class level 17
+- [Chromatic Orb](Chromatic%20Orb.md "XPHB") at class level 17
 - [Thunderous Smite](Compendium/spells/thunderous-smite-xphb.md "XPHB") at class level 17
 
 ## 2nd Level
@@ -30,10 +30,10 @@ aliases:
 
 ## 4th Level
 
-- [Conjure Minor Elementals](Compendium/spells/conjure-minor-elementals-xphb.md "XPHB") at class level 17
+- [Conjure Minor Elementals](Conjure%20Minor%20Elementals.md "XPHB") at class level 17
 - [Summon Elemental](Compendium/spells/summon-elemental-xphb.md "XPHB") at class level 17
 
 ## 5th Level
 
-- [Banishing Smite](Compendium/spells/banishing-smite-xphb.md "XPHB") at class level 17
+- [Banishing Smite](Banishing%20Smite.md "XPHB") at class level 17
 - [Contact Other Plane](Compendium/spells/contact-other-plane-xphb.md "XPHB") at class level 17

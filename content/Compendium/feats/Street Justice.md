@@ -17,8 +17,8 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Strength or Dexterity by 1, to a maximum of 20.
 
-**Headlock.** Your allies have [[advantage-xphb]] on attack rolls against a creature [Grappled](Compendium/rules/conditions.md#Grappled) by you.
+**Headlock.** Your allies have [[Advantage]] on attack rolls against a creature [Grappled](Compendium/rules/conditions.md#Grappled) by you.
 
-**Sturdy Knot.** When you use [[Chain]], [[Manacles]], or [[Rope]] to bind a creature, add your [[proficiency-xphb]] to the DC to escape or burst the [[Chain]], [[Manacles]], or [[Rope]].
+**Sturdy Knot.** When you use [[Chain]], [[Manacles]], or [[Rope]] to bind a creature, add your [[Proficiency]] to the DC to escape or burst the [[Chain]], [[Manacles]], or [[Rope]].
 
-**Tough Talk.** A creature's [[hostile-attitude-xphb]] attitude doesn't impose [[disadvantage-xphb]] on your Charisma ([Intimidation](Compendium/rules/skills.md#Intimidation)) checks to influence that creature.
+**Tough Talk.** A creature's [[Hostile (Attitude)]] attitude doesn't impose [[Disadvantage]] on your Charisma ([Intimidation](Compendium/rules/skills.md#Intimidation)) checks to influence that creature.

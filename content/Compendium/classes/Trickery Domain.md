@@ -63,19 +63,19 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [[charm-person-xphb]], [[disguise-self-xphb]], [[invisibility-xphb]], [[pass-without-trace-xphb]] |
+| 3rd | [[Charm Person]], [[disguise-self-xphb]], [[invisibility-xphb]], [[pass-without-trace-xphb]] |
 | 5th | [[hypnotic-pattern-xphb]], [[nondetection-xphb]] |
-| 7th | [[confusion-xphb]], [[dimension-door-xphb]] |
+| 7th | [[Confusion]], [[dimension-door-xphb]] |
 | 9th | [[dominate-person-xphb]], [[modify-memory-xphb]] |
 ^trickery-domain-spells
 
 ### Blessing of the Trickster (Level 3)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can choose yourself or a willing creature within 30 feet of yourself to have [[advantage-xphb]] on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks. This blessing lasts until you finish a [[long-rest-xphb]] or you use this feature again.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can choose yourself or a willing creature within 30 feet of yourself to have [[Advantage]] on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks. This blessing lasts until you finish a [[Long Rest]] or you use this feature again.
 
 ### Invoke Duplicity (Level 3)
 
-As a [[bonus-action-xphb]], you can expend one use of your Channel Divinity to create a perfect visual illusion of yourself in an unoccupied space you can see within 30 feet of yourself. The illusion is intangible and doesn't occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
+As a [[Bonus Action]], you can expend one use of your Channel Divinity to create a perfect visual illusion of yourself in an unoccupied space you can see within 30 feet of yourself. The illusion is intangible and doesn't occupy its space. It lasts for 1 minute, but it ends early if you dismiss it (no action required) or have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. The illusion is animated and mimics your expressions and gestures. While it persists, you gain the following benefits.
 
 #### Cast Spells
 
@@ -83,15 +83,15 @@ You can cast spells as though you were in the illusion's space, but you must use
 
 #### Distract
 
-When both you and your illusion are within 5 feet of a creature that can see the illusion, you have [[advantage-xphb]] on attack rolls against that creature, given how distracting the illusion is to the target.
+When both you and your illusion are within 5 feet of a creature that can see the illusion, you have [[Advantage]] on attack rolls against that creature, given how distracting the illusion is to the target.
 
 #### Move
 
-As a [[bonus-action-xphb]], you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself.
+As a [[Bonus Action]], you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself.
 
 ### Trickster's Transposition (Level 6)
 
-Whenever you take the [[bonus-action-xphb]] to create or move the illusion of your Invoke Duplicity, you can teleport, swapping places with the illusion.
+Whenever you take the [[Bonus Action]] to create or move the illusion of your Invoke Duplicity, you can teleport, swapping places with the illusion.
 
 ### Improved Duplicity (Level 17)
 
@@ -99,8 +99,8 @@ The illusion of your Invoke Duplicity has grown more powerful in the following w
 
 #### Shared Distraction
 
-When you and your allies make attack rolls against a creature within 5 feet of the illusion, the attack rolls have [[advantage-xphb]].
+When you and your allies make attack rolls against a creature within 5 feet of the illusion, the attack rolls have [[Advantage]].
 
 #### Healing Illusion
 
-When the illusion ends, you or a creature of your choice within 5 feet of it regains a number of [[hit-points-xphb]] equal to your Cleric level.
+When the illusion ends, you or a creature of your choice within 5 feet of it regains a number of [[Hit Points]] equal to your Cleric level.

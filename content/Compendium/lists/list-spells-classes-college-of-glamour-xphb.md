@@ -11,8 +11,8 @@ aliases:
 
 ## 1st Level
 
-- [Charm Person](Compendium/spells/charm-person-xphb.md "XPHB") at class level 3
-- [Command](Compendium/spells/command-xphb.md "XPHB") at class level 3
+- [Charm Person](Charm%20Person.md "XPHB") at class level 3
+- [Command](Command.md "XPHB") at class level 3
 
 ## 2nd Level
 

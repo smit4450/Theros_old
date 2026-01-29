@@ -11,7 +11,7 @@ aliases:
 
 ## 1st Level
 
-- [Burning Hands](Compendium/spells/burning-hands-xphb.md "XPHB") at class level 7
+- [Burning Hands](Burning%20Hands.md "XPHB") at class level 7
 - [Faerie Fire](Compendium/spells/faerie-fire-xphb.md "XPHB") at class level 7
 
 ## 2nd Level
@@ -26,7 +26,7 @@ aliases:
 
 ## 4th Level
 
-- [Arcane Eye](Compendium/spells/arcane-eye-xphb.md "XPHB") at class level 7
+- [Arcane Eye](Arcane%20Eye.md "XPHB") at class level 7
 - [Wall of Fire](Compendium/spells/wall-of-fire-xphb.md "XPHB") at class level 7
 
 ## 5th Level

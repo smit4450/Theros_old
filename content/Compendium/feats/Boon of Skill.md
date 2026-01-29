@@ -19,4 +19,4 @@ You gain the following benefits.
 
 **All-Around Adept.** You gain proficiency in all skills.
 
-**Expertise.** Choose one skill in which you lack [[expertise-xphb]]. You gain [[expertise-xphb]] in that skill.
+**Expertise.** Choose one skill in which you lack [[Expertise]]. You gain [[Expertise]] in that skill.

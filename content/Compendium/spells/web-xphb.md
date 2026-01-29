@@ -31,7 +31,7 @@ aliases: ["Web"]
 - **Components:** V, S, M (a bit of spiderweb)
 - **Duration:** Concentration, up to 1 hour
 
-You conjure a mass of sticky webbing at a point within range. The webs fill a 20-foot [[cube-area-of-effect-xphb]] there for the duration. The webs are [[difficult-terrain-xphb]], and the area within them is [[lightly-obscured-xphb]].
+You conjure a mass of sticky webbing at a point within range. The webs fill a 20-foot [[Cube (Area of Effect)]] there for the duration. The webs are [[Difficult Terrain]], and the area within them is [[Lightly Obscured]].
 
 If the webs aren't anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.
 
@@ -39,7 +39,7 @@ The first time a creature enters the webs on a turn or starts its turn there, it
 
 A creature [Restrained](Compendium/rules/conditions.md#Restrained) by the webs can take an action to make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check against your spell save DC. If it succeeds, it is no longer [Restrained](Compendium/rules/conditions.md#Restrained).
 
-The webs are flammable. Any 5-foot [[cube-area-of-effect-xphb]] of webs exposed to fire burns away in 1 round, dealing `2d4` Fire damage to any creature that starts its turn in the fire.
+The webs are flammable. Any 5-foot [[Cube (Area of Effect)]] of webs exposed to fire burns away in 1 round, dealing `2d4` Fire damage to any creature that starts its turn in the fire.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Druid (Circle of the Land, Tropical Land)](Compendium/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer]]; [[list-spells-classes-wizard]]
 

@@ -15,4 +15,4 @@ You learn the [[find-familiar-xphb]] spell and can cast it as a [Magic](Compendi
 
 When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [[imp-xmm]], [[Pseudodragon]], [[quasit-xmm]], [[skeleton-xmm]], [[slaad-tadpole-xmm]], [[Sphinx of Wonder]], [[sprite-xmm]], or [[Venomous Snake]] (see appendix B for the familiar's stat block).
 
-Additionally, when you take the [Attack](Compendium/rules/actions.md#Attack) action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its [[reaction-xphb]].
+Additionally, when you take the [Attack](Compendium/rules/actions.md#Attack) action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its [[Reaction]].

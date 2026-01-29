@@ -23,7 +23,7 @@ aliases:
 
 ## 3rd Level
 
-- [Conjure Animals](Compendium/spells/conjure-animals-xphb.md "XPHB") at class level 5
+- [Conjure Animals](Conjure%20Animals.md "XPHB") at class level 5
 
 ## 4th Level
 

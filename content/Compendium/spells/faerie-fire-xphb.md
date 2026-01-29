@@ -29,9 +29,9 @@ aliases: ["Faerie Fire"]
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-Objects in a 20-foot [[cube-area-of-effect-xphb]] within range are outlined in blue, green, or violet light (your choice). Each creature in the [[cube-area-of-effect-xphb]] is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed [[dim-light-xphb]] in a 10-foot radius and can't benefit from the [Invisible](Compendium/rules/conditions.md#Invisible) condition.
+Objects in a 20-foot [[Cube (Area of Effect)]] within range are outlined in blue, green, or violet light (your choice). Each creature in the [[Cube (Area of Effect)]] is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed [[Dim Light]] in a 10-foot radius and can't benefit from the [Invisible](Compendium/rules/conditions.md#Invisible) condition.
 
-[Attack](Compendium/rules/actions.md#Attack) rolls against an affected creature or object have [[advantage-xphb]] if the attacker can see it.
+[Attack](Compendium/rules/actions.md#Attack) rolls against an affected creature or object have [[Advantage]] if the attacker can see it.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid]]; [Warlock (Archfey Patron)](Compendium/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB")
 

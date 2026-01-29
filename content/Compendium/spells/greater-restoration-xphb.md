@@ -39,9 +39,9 @@ You touch a creature and magically remove one of the following effects from it:
 
 - 1 [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level  
 - The [Charmed](Compendium/rules/conditions.md#Charmed) or [Petrified](Compendium/rules/conditions.md#Petrified) condition  
-- A curse, including the target's [[attunement-xphb]] to a cursed magic item  
+- A curse, including the target's [[Attunement]] to a cursed magic item  
 - Any reduction to one of the target's ability scores  
-- Any reduction to the target's [[hit-points-xphb]] maximum  
+- Any reduction to the target's [[Hit Points]] maximum  
 
 **Classes**: [[list-spells-classes-bard]]; [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]; [[list-spells-classes-paladin]]; [[list-spells-classes-ranger]]; [Sorcerer (Clockwork Sorcery)](Compendium/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Spellfire Sorcery)](Compendium/lists/list-spells-classes-spellfire-sorcery-frhof.md "subclass=FRHoF;class=XPHB"); [Warlock (Celestial Patron)](Compendium/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
 

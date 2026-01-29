@@ -76,10 +76,10 @@ Welcome to the Mythic Odysseys of Theros campaign hub, using the 2024 edition of
 - [[item-mastery]]
 
 ### Advanced & Variant Rules
-- [[weapon-mastery-properties-xphb]]
-- [[multiclassing-xphb]]
-- [[heroic-inspiration-xphb]]
-- [[short-rest-xphb]] · [[long-rest-xphb]]
-- [[saving-throw-xphb]] and [[attack-roll-xphb]] for quick rulings.
+- [[Weapon Mastery Properties]]
+- [[Multiclassing]]
+- [[Heroic Inspiration]]
+- [[Short Rest]] · [[Long Rest]]
+- [[Saving Throw]] and [[Attack Roll]] for quick rulings.
 
 ## Table Resources

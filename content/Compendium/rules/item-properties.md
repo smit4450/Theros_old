@@ -33,7 +33,7 @@ Some magic items require a creature to form a bond—called Attunement—with th
 
 ### Attune during a Short Rest
 
-Attuning to an item requires you to spend a [[short-rest-xphb]] focused on only that item while being in physical contact with it (this can't be the same Short Rest used to learn the item's properties). This focus can take the form of weapon practice (for a Weapon), meditation (for a Wand), or some other appropriate activity. If the Short Rest is interrupted, the Attunement attempt fails. Otherwise, at the end of the Short Rest, you're attuned to the magic item and can access its full magical capabilities.
+Attuning to an item requires you to spend a [[Short Rest]] focused on only that item while being in physical contact with it (this can't be the same Short Rest used to learn the item's properties). This focus can take the form of weapon practice (for a Weapon), meditation (for a Wand), or some other appropriate activity. If the Short Rest is interrupted, the Attunement attempt fails. Otherwise, at the end of the Short Rest, you're attuned to the magic item and can access its full magical capabilities.
 
 ### No More Than Three Items
 
@@ -41,7 +41,7 @@ You can be attuned to no more than three magic items at a time. Any attempt to a
 
 ### Ending Attunement
 
-Your Attunement to an item ends if you no longer satisfy the prerequisites for Attunement, if the item has been more than 100 feet away for at least 24 hours, if you die, or if another creature attunes to the item. You can also voluntarily end Attunement by spending another [[short-rest-xphb]] focused on the item unless the item is cursed.
+Your Attunement to an item ends if you no longer satisfy the prerequisites for Attunement, if the item has been more than 100 feet away for at least 24 hours, if you die, or if another creature attunes to the item. You can also voluntarily end Attunement by spending another [[Short Rest]] focused on the item unless the item is cursed.
 
 ### Optional Attunement
 
@@ -63,7 +63,7 @@ Firearm Bullets are destroyed upon use in a modern firearm. Futuristic firearms 
 
 ### Burst Fire
 _Source: Dungeon Master's Guide (2024) p. 72_
-As an action, you can expend 10 pieces of a Burst Fire weapon's ammunition to spray shots in a 10-foot [[cube-area-of-effect-xphb]] within the weapon's normal range. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take damage. Roll the weapon's damage once, and apply it to each creature that failed the save.
+As an action, you can expend 10 pieces of a Burst Fire weapon's ammunition to spray shots in a 10-foot [[Cube (Area of Effect)]] within the weapon's normal range. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take damage. Roll the weapon's damage once, and apply it to each creature that failed the save.
 
 ### Finesse
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
@@ -71,15 +71,15 @@ When making an attack with a Finesse weapon, use your choice of your Strength or
 
 ### Heavy
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
-You have [[disadvantage-xphb]] on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
+You have [[Disadvantage]] on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 ### Light
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
-When you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a [[bonus-action-xphb]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[Shortsword]] in one hand and a [[Dagger]] in the other using the [Attack](Compendium/rules/actions.md#Attack) action and a [[bonus-action-xphb]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[bonus-action-xphb]] unless that modifier is negative.
+When you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a [[Bonus Action]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[Shortsword]] in one hand and a [[Dagger]] in the other using the [Attack](Compendium/rules/actions.md#Attack) action and a [[Bonus Action]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[Bonus Action]] unless that modifier is negative.
 
 ### Loading
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
-You can fire only one piece of ammunition from a Loading weapon when you use an action, a [[bonus-action-xphb]], or a [[reaction-xphb]] to fire it, regardless of the number of attacks you can normally make.
+You can fire only one piece of ammunition from a Loading weapon when you use an action, a [[Bonus Action]], or a [[Reaction]] to fire it, regardless of the number of attacks you can normally make.
 
 ### Reach
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
@@ -87,7 +87,7 @@ A Reach weapon adds 5 feet to your reach when you attack with it, as well as whe
 
 ### Reload
 _Source: Dungeon Master's Guide (2024) p. 72_
-You can make a limited number of shots with a Reload weapon. You must then reload the weapon as an action or a [[bonus-action-xphb]].
+You can make a limited number of shots with a Reload weapon. You must then reload the weapon as an action or a [[Bonus Action]].
 
 ### Thrown
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
@@ -111,7 +111,7 @@ An object that bears no resemblance to a weapon deals 1d4 damage (the DM assigns
 
 ## Improvised Weapons
 
-If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see "[[improvised-weapons-xphb]]" in the "rules glossary". Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
+If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see "[[Improvised Weapons]]" in the "rules glossary". Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
 
 ## Silvered Weapons
 
@@ -158,8 +158,8 @@ Given their insidious and deadly nature, poisons are a favorite tool among assas
 Poisons come in the following four types:
 
 - **Contact.** Contact poison can be smeared on an object and remains potent until it is touched or washed off. A creature that touches contact poison with exposed skin suffers its effects.  
-- **Ingested.** A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing [[advantage-xphb]] on the saving throw or dealing only half as much damage on a failed save.  
-- **Inhaled.** Poisonous powders and gases take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot [[cube-area-of-effect-xphb]] to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.  
+- **Ingested.** A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing [[Advantage]] on the saving throw or dealing only half as much damage on a failed save.  
+- **Inhaled.** Poisonous powders and gases take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot [[Cube (Area of Effect)]] to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.  
 - **Injury.** Injury poison can be applied as a Bonus Action to a weapon, a piece of ammunition, or similar object. The poison remains potent until delivered through a wound or washed off. A creature that takes Piercing or Slashing damage from an object coated with the poison is exposed to its effects.  
 
 ### Purchasing Poison

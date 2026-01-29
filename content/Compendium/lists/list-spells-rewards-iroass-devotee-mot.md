@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Compelled Duel](Compendium/spells/compelled-duel-xphb.md "XPHB")
+- [Compelled Duel](Compelled%20Duel.md "XPHB")

@@ -33,7 +33,7 @@ aliases: ["Continual Flame"]
 - **Components:** V, S, M (ruby dust worth 50+ GP, which the spell consumes)
 - **Duration:** Until dispelled
 
-A flame springs from an object that you touch. The effect casts [[bright-light-xphb]] in a 20-foot radius and [[dim-light-xphb]] for an additional 20 feet. It looks like a regular flame, but it creates no heat and consumes no fuel. The flame can be covered or hidden but not smothered or quenched.
+A flame springs from an object that you touch. The effect casts [[Bright Light]] in a 20-foot radius and [[Dim Light]] for an additional 20 feet. It looks like a regular flame, but it creates no heat and consumes no fuel. The flame can be covered or hidden but not smothered or quenched.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 

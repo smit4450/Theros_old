@@ -16,12 +16,12 @@ aliases:
 
 ## 2nd Level
 
-- [Aid](Compendium/spells/aid-xphb.md "XPHB") at class level 5
+- [Aid](Aid.md "XPHB") at class level 5
 - [Zone of Truth](Compendium/spells/zone-of-truth-xphb.md "XPHB") at class level 5
 
 ## 3rd Level
 
-- [Beacon of Hope](Compendium/spells/beacon-of-hope-xphb.md "XPHB") at class level 5
+- [Beacon of Hope](Beacon%20of%20Hope.md "XPHB") at class level 5
 - [Dispel Magic](Compendium/spells/dispel-magic-xphb.md "XPHB") at class level 5
 
 ## 4th Level
@@ -31,5 +31,5 @@ aliases:
 
 ## 5th Level
 
-- [Commune](Compendium/spells/commune-xphb.md "XPHB") at class level 5
+- [Commune](Commune.md "XPHB") at class level 5
 - [Flame Strike](Compendium/spells/flame-strike-xphb.md "XPHB") at class level 5

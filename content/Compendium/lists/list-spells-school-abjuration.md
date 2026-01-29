@@ -11,13 +11,13 @@ aliases:
 
 ## Cantrip
 
-- [Blade Ward](Compendium/spells/blade-ward-xphb.md "XPHB")
+- [Blade Ward](Blade%20Ward.md "XPHB")
 - [Resistance](Compendium/spells/resistance-xphb.md "XPHB")
 
 ## 1st Level
 
-- [Alarm](Compendium/spells/alarm-xphb.md "XPHB")
-- [Armor of Agathys](Compendium/spells/armor-of-agathys-xphb.md "XPHB")
+- [Alarm](Alarm.md "XPHB")
+- [Armor of Agathys](Armor%20of%20Agathys.md "XPHB")
 - [Cure Wounds](Compendium/spells/cure-wounds-xphb.md "XPHB")
 - [Healing Word](Compendium/spells/healing-word-xphb.md "XPHB")
 - [Mage Armor](Compendium/spells/mage-armor-xphb.md "XPHB")
@@ -29,9 +29,9 @@ aliases:
 
 ## 2nd Level
 
-- [Aid](Compendium/spells/aid-xphb.md "XPHB")
-- [Arcane Lock](Compendium/spells/arcane-lock-xphb.md "XPHB")
-- [Arcane Vigor](Compendium/spells/arcane-vigor-xphb.md "XPHB")
+- [Aid](Aid.md "XPHB")
+- [Arcane Lock](Arcane%20Lock.md "XPHB")
+- [Arcane Vigor](Arcane%20Vigor.md "XPHB")
 - [Elminster's Elusion](Compendium/spells/elminsters-elusion-frhof.md "FRHoF")
 - [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md "XPHB")
 - [Pass without Trace](Compendium/spells/pass-without-trace-xphb.md "XPHB")
@@ -41,8 +41,8 @@ aliases:
 
 ## 3rd Level
 
-- [Aura of Vitality](Compendium/spells/aura-of-vitality-xphb.md "XPHB")
-- [Beacon of Hope](Compendium/spells/beacon-of-hope-xphb.md "XPHB")
+- [Aura of Vitality](Aura%20of%20Vitality.md "XPHB")
+- [Beacon of Hope](Beacon%20of%20Hope.md "XPHB")
 - [Counterspell](Compendium/spells/counterspell-xphb.md "XPHB")
 - [Dispel Magic](Compendium/spells/dispel-magic-xphb.md "XPHB")
 - [Glyph of Warding](Compendium/spells/glyph-of-warding-xphb.md "XPHB")
@@ -54,10 +54,10 @@ aliases:
 
 ## 4th Level
 
-- [Aura of Life](Compendium/spells/aura-of-life-xphb.md "XPHB")
-- [Aura of Purity](Compendium/spells/aura-of-purity-xphb.md "XPHB")
-- [Backlash](Compendium/spells/backlash-frhof.md "FRHoF")
-- [Banishment](Compendium/spells/banishment-xphb.md "XPHB")
+- [Aura of Life](Aura%20of%20Life.md "XPHB")
+- [Aura of Purity](Aura%20of%20Purity.md "XPHB")
+- [Backlash](Backlash.md "FRHoF")
+- [Banishment](Banishment.md "XPHB")
 - [Death Ward](Compendium/spells/death-ward-xphb.md "XPHB")
 - [Freedom of Movement](Compendium/spells/freedom-of-movement-xphb.md "XPHB")
 - [Mordenkainen's Private Sanctum](Compendium/spells/mordenkainens-private-sanctum-xphb.md "XPHB")
@@ -65,9 +65,9 @@ aliases:
 
 ## 5th Level
 
-- [Alustriel's Mooncloak](Compendium/spells/alustriels-mooncloak-frhof.md "FRHoF")
-- [Antilife Shell](Compendium/spells/antilife-shell-xphb.md "XPHB")
-- [Circle of Power](Compendium/spells/circle-of-power-xphb.md "XPHB")
+- [Alustriel's Mooncloak](Alustriel's%20Mooncloak.md "FRHoF")
+- [Antilife Shell](Antilife%20Shell.md "XPHB")
+- [Circle of Power](Circle%20of%20Power.md "XPHB")
 - [Dispel Evil and Good](Compendium/spells/dispel-evil-and-good-xphb.md "XPHB")
 - [Greater Restoration](Compendium/spells/greater-restoration-xphb.md "XPHB")
 - [Hallow](Compendium/spells/hallow-xphb.md "XPHB")
@@ -88,7 +88,7 @@ aliases:
 
 ## 8th Level
 
-- [Antimagic Field](Compendium/spells/antimagic-field-xphb.md "XPHB")
+- [Antimagic Field](Antimagic%20Field.md "XPHB")
 - [Holy Aura](Compendium/spells/holy-aura-xphb.md "XPHB")
 - [Mind Blank](Compendium/spells/mind-blank-xphb.md "XPHB")
 

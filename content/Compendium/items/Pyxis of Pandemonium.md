@@ -13,7 +13,7 @@ aliases:
 
 - **Properties**: [Cursed](Compendium/rules/item-properties.md#Cursed Items)
 
-A creature that touches this ornate wooden vessel for 1 minute gains the benefits of a short rest. That creature also gains the effects of the [[bless-xphb]] spell until the creature finishes a short or long rest. The creature can't gain these benefits again until it finishes a long rest.
+A creature that touches this ornate wooden vessel for 1 minute gains the benefits of a short rest. That creature also gains the effects of the [[Bless]] spell until the creature finishes a short or long rest. The creature can't gain these benefits again until it finishes a long rest.
 
 If the vessel is opened, roll on the Pyxis of Pandemonium table to determine what happens. Any spells cast by the vessel have a spell save DC of 17. One minute after the vessel is opened, it disappears. It reappears, sealed, in a random location on the same plane of existence 24 hours later.
 

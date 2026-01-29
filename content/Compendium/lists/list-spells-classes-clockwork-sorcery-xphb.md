@@ -11,12 +11,12 @@ aliases:
 
 ## 1st Level
 
-- [Alarm](Compendium/spells/alarm-xphb.md "XPHB") at class level 3
+- [Alarm](Alarm.md "XPHB") at class level 3
 - [Protection from Evil and Good](Compendium/spells/protection-from-evil-and-good-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Aid](Compendium/spells/aid-xphb.md "XPHB") at class level 3
+- [Aid](Aid.md "XPHB") at class level 3
 - [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md "XPHB") at class level 3
 
 ## 3rd Level

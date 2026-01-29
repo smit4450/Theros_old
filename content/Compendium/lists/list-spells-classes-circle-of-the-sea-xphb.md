@@ -35,5 +35,5 @@ aliases:
 
 ## 5th Level
 
-- [Conjure Elemental](Compendium/spells/conjure-elemental-xphb.md "XPHB") at class level 9
+- [Conjure Elemental](Conjure%20Elemental.md "XPHB") at class level 9
 - [Hold Monster](Compendium/spells/hold-monster-xphb.md "XPHB") at class level 9

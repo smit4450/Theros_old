@@ -14,6 +14,6 @@ aliases:
 
 If you plant an ordinary shrub in this 10-pound clay pot and let it grow for 30 days, the shrub magically transforms into an [Awakened Shrub](Awakened%20Shrub.md)akens, its roots break the pot, destroying it.
 
-The awakened shrub is [[friendly-attitude-xphb]] toward you and obeys your commands. Absent commands from you, it does nothing.
+The awakened shrub is [[Friendly (Attitude)]] toward you and obeys your commands. Absent commands from you, it does nothing.
 
 *Source: Dungeon Master's Guide (2024) p. 289*

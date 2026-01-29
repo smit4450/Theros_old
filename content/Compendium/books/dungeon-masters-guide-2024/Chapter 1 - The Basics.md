@@ -108,7 +108,7 @@ Lots of digital dice rollers exist. Simple, browser-based dice rollers are easil
 
 ### Note-Taking Materials
 
-Everyone needs some way to take notes. During every round of combat, someone needs to keep track of [[initiative-xphb]], [[hit-points-xphb]], conditions, and other information. Players often like to take notes about what happens in the adventure, and at least one of them should record any clues and treasure the characters collect.
+Everyone needs some way to take notes. During every round of combat, someone needs to keep track of [[Initiative]], [[Hit Points]], conditions, and other information. Players often like to take notes about what happens in the adventure, and at least one of them should record any clues and treasure the characters collect.
 
 #### Character Sheets
 
@@ -239,8 +239,8 @@ Sometimes the players might give you a group answer: "We go through the door." O
 After the players describe their characters' actions, it's the DM's job to resolve those actions, guided by the rules and the adventure you've prepared. So how do you decide? Think through these possibilities:
 
 - **No Rules Required.** Sometimes, resolving a situation is easy. If an adventurer wants to cross an empty room and open a door, you can just say that the door opens and describe what lies beyond (perhaps referencing your map or notes).  
-- **Obstacles to Success.** A lock, a guard, or some other obstacle might hinder a character's ability to complete a task. In those cases, you typically call for a [[d20-test-xphb]], usually an ability check. For example, a successful Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check might be needed to pick the lock, while a successful Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) check and some coins might be needed to bribe the guard. The ""Resolving Outcomes"" section in "chapter 2" gives more guidance on how to use [[d20-test-xphb]] and other tools to determine the results of characters' actions.  
-- **Roleplaying.** When the players interact with other creatures, roleplay those creatures based on whether they are [[friendly-attitude-xphb]], [[indifferent-attitude-xphb]], or [[hostile-attitude-xphb]]. Improvise based on what you know about the creatures, their knowledge, and their motivations. Then bring these creatures to life as you describe what happens. (See the ""Running Social Interaction"" section in "chapter 2" for more advice.)  
+- **Obstacles to Success.** A lock, a guard, or some other obstacle might hinder a character's ability to complete a task. In those cases, you typically call for a [[D20 Test]], usually an ability check. For example, a successful Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check might be needed to pick the lock, while a successful Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) check and some coins might be needed to bribe the guard. The ""Resolving Outcomes"" section in "chapter 2" gives more guidance on how to use [[D20 Test]] and other tools to determine the results of characters' actions.  
+- **Roleplaying.** When the players interact with other creatures, roleplay those creatures based on whether they are [[Friendly (Attitude)]], [[Indifferent (Attitude)]], or [[Hostile (Attitude)]]. Improvise based on what you know about the creatures, their knowledge, and their motivations. Then bring these creatures to life as you describe what happens. (See the ""Running Social Interaction"" section in "chapter 2" for more advice.)  
 - **One Action at a Time.** The "rules about actions" in the "Player's Handbook" limit how many things a character can do at once. Keeping those rules in mind can help you adjudicate situations.  
 - **Combat.** In combat, many situations involve attack rolls or saving throws. The rules of combat can help you determine the effectiveness of a character's actions. The ""Running Combat"" section in "chapter 2" offers advice on combat.  
 - **Spellcasting.** If a character casts a spell, you can usually let the player tell you what the spell does and how to resolve it. If questions arise, read the text of the spell yourself—how a spell is supposed to work is usually pretty clear. The general "rules of spellcasting" in the "Player's Handbook" are also essential for resolving a spell's effects.  
@@ -263,7 +263,7 @@ Expect players to discuss the events of the game, spend time planning, and engag
 
 ### Ending a Session
 
-Try not to end a game session in the middle of an encounter. It's difficult to keep track of information such as [[initiative-xphb]] order and other round-by-round details between sessions. An exception to this guideline is when you purposely end a session with a cliffhanger, where the story pauses just as something monumental happens or some surprising turn of events occurs. A cliffhanger can keep players intrigued and excited until the next session.
+Try not to end a game session in the middle of an encounter. It's difficult to keep track of information such as [[Initiative]] order and other round-by-round details between sessions. An exception to this guideline is when you purposely end a session with a cliffhanger, where the story pauses just as something monumental happens or some surprising turn of events occurs. A cliffhanger can keep players intrigued and excited until the next session.
 
 If a player missed a session and you had that player's character leave the party for a while, make sure that there's a way to bring the character back when the player returns. Sometimes a cliffhanger can serve this purpose: the character charges in to help their beleaguered companions.
 
@@ -322,7 +322,7 @@ The DM starts by asking the players to recap the action of the previous session,
 
 > [!note] 3
 > 
-> The DM rolls [[initiative-xphb]] just once for all six monsters and writes down that they'll go on Initiative count 17. The DM then goes around the table to get each player's Initiative roll. See the ""Running Combat"" section in "chapter 2" for advice about rolling and tracking Initiative.
+> The DM rolls [[Initiative]] just once for all six monsters and writes down that they'll go on Initiative count 17. The DM then goes around the table to get each player's Initiative roll. See the ""Running Combat"" section in "chapter 2" for advice about rolling and tracking Initiative.
 ^3
 
 > [!note] 4
@@ -337,7 +337,7 @@ The DM starts by asking the players to recap the action of the previous session,
 
 > [!note] 6
 > 
-> Asking for the spell's damage allows the DM to roll a saving throw for each monster and mark off the right amount of damage for that one. In this case, though, the monsters have [[vulnerability-xphb]] to Fire damage (because they're just dry shrubs) and so few [[hit-points-xphb]] that they'll die no matter what they roll.
+> Asking for the spell's damage allows the DM to roll a saving throw for each monster and mark off the right amount of damage for that one. In this case, though, the monsters have [[Vulnerability]] to Fire damage (because they're just dry shrubs) and so few [[Hit Points]] that they'll die no matter what they roll.
 ^6
 
 > [!note] 7
@@ -349,7 +349,7 @@ The DM starts by asking the players to recap the action of the previous session,
 
 - **Jared.** There are three on your side of the stream and three on the other side. You can get either group in your Cone.  
 
-- **Maeve.** Mirabella puts her thumbs together and wiggles her fingertips. *(Maeve mimics this action.)* Fire shoots out from her fingers, catching the ones on our side of the stream. [[burning-hands-xphb]]!  
+- **Maeve.** Mirabella puts her thumbs together and wiggles her fingertips. *(Maeve mimics this action.)* Fire shoots out from her fingers, catching the ones on our side of the stream. [[Burning Hands]]!  
 
 - **Jared.** OK, what do I need to do?  
 

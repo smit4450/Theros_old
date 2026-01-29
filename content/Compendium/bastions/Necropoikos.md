@@ -11,7 +11,7 @@ aliases:
 # Necropoikos
 *Level 5 Bastion facility*  
 
-- **Prerequisites**: Ability to use a [[spellcasting-focus-xphb]]
+- **Prerequisites**: Ability to use a [[Spellcasting Focus]]
 - **Space**: Roomy (16 sq)
 - **Hirelings**: 1
 - **Order**: recruit

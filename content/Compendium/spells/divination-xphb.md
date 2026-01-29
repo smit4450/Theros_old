@@ -34,7 +34,7 @@ aliases: ["Divination"]
 
 This spell puts you in contact with a god or a god's servants. You ask one question about a specific goal, event, or activity to occur within 7 days. The DM offers a truthful reply, which might be a short phrase or cryptic rhyme. The spell doesn't account for circumstances that might change the answer, such as the casting of other spells.
 
-If you cast the spell more than once before finishing a [[long-rest-xphb]], there is a cumulative  chance for each casting after the first that you get no answer.
+If you cast the spell more than once before finishing a [[Long Rest]], there is a cumulative  chance for each casting after the first that you get no answer.
 
 **Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 

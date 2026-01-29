@@ -11,4 +11,4 @@ aliases:
 # Feinting Attack
 *Source: Player's Handbook (2024) p. 95*  
 
-As a [[bonus-action-xphb]], you can expend one Superiority Die to feint, choosing one creature within 5 feet of yourself as your target. You have [[advantage-xphb]] on your next attack roll against that target this turn. If that attack hits, add the Superiority Die to the attack's damage roll.
+As a [[Bonus Action]], you can expend one Superiority Die to feint, choosing one creature within 5 feet of yourself as your target. You have [[Advantage]] on your next attack roll against that target this turn. If that attack hits, add the Superiority Die to the attack's damage roll.

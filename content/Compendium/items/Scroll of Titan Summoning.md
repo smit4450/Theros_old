@@ -15,7 +15,7 @@ aliases:
 
 When you take a [Magic](Compendium/rules/actions.md#Magic) action to read this scroll, a particular titan named in the scroll appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself. The DM picks a suitable titan or determines it randomly by rolling on the table below.
 
-The titan is [[hostile-attitude-xphb]] toward all other creatures and disappears when it drops to 0 [[hit-points-xphb]]. If the titan is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
+The titan is [[Hostile (Attitude)]] toward all other creatures and disappears when it drops to 0 [[Hit Points]]. If the titan is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
 
 | dice: 1d100 | Titan |
 |-------------|-------|

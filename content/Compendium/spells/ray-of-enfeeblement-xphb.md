@@ -29,9 +29,9 @@ aliases: ["Ray of Enfeeblement"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-A beam of enervating energy shoots from you toward a creature within range. The target must make a Constitution saving throw. On a successful save, the target has [[disadvantage-xphb]] on the next attack roll it makes until the start of your next turn.
+A beam of enervating energy shoots from you toward a creature within range. The target must make a Constitution saving throw. On a successful save, the target has [[Disadvantage]] on the next attack roll it makes until the start of your next turn.
 
-On a failed save, the target has [[disadvantage-xphb]] on Strength-based [[d20-test-xphb]] for the duration. During that time, it also subtracts `1d8` from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success.
+On a failed save, the target has [[Disadvantage]] on Strength-based [[D20 Test]] for the duration. During that time, it also subtracts `1d8` from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-warlock]]; [[list-spells-classes-wizard]]
 

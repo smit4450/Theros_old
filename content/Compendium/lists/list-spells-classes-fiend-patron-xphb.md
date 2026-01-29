@@ -11,8 +11,8 @@ aliases:
 
 ## 1st Level
 
-- [Burning Hands](Compendium/spells/burning-hands-xphb.md "XPHB") at class level 3
-- [Command](Compendium/spells/command-xphb.md "XPHB") at class level 3
+- [Burning Hands](Burning%20Hands.md "XPHB") at class level 3
+- [Command](Command.md "XPHB") at class level 3
 
 ## 2nd Level
 

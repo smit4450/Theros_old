@@ -17,7 +17,7 @@ aliases:
 | 3+ | You can stay freely at any chapter of the Order of the Gauntlet, which provides you with a "Modest" lifestyle. |
 | 5+ | You earn the honorary title of knight of the guard. Patrons and priests of any temple or shrine of Helm, Hoar, Tor, or Tyr are Friendly to you by default. |
 | 10 | The first time your Renown Score reaches 10, the order gifts you one random Uncommon magic item from the Armor, Ring, or Weapon category. |
-| 15+ | You earn the honorary title of knight of the banner. Spellcasters at any temple or shrine at which priests are [[friendly-attitude-xphb]] to you by default and will cast spells of level 2 or lower for you for free. |
+| 15+ | You earn the honorary title of knight of the banner. Spellcasters at any temple or shrine at which priests are [[Friendly (Attitude)]] to you by default and will cast spells of level 2 or lower for you for free. |
 | 25+ | When you visit a temple at which priests are Friendly to you by default, you can enlist `1d4` [[Knight]] to aid you for 10 days. Once you use this reward, you can't do so again until your Renown Score increases. |
 | 30+ | You earn the honorary title of knight of justice. Patrons and priests of any temple, shrine, or other established presence of a deity associated with a good-aligned plane of existence are Friendly to you by default. |
 | 40 | The first time your Renown Score reaches 40, the order gifts you one random Rare magic item from the Armor, Ring, or Weapon category. |

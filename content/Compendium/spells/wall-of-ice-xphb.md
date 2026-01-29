@@ -27,7 +27,7 @@ You create a wall of ice on a solid surface within range. You can form it into a
 
 If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (you choose which side) and makes a Dexterity saving throw, taking `10d6` Cold damage on a failed save or half as much damage on a successful one.
 
-The wall is an object that can be damaged and thus breached. It has AC 12 and 30 [[hit-points-xphb]] per 10-foot section, and it has [[immunity-xphb]] to Cold, Poison, and Psychic damage and [[vulnerability-xphb]] to Fire damage. Reducing a 10-foot section of wall to 0 [[hit-points-xphb]] destroys it and leaves behind a sheet of frigid air in the space the wall occupied.
+The wall is an object that can be damaged and thus breached. It has AC 12 and 30 [[Hit Points]] per 10-foot section, and it has [[Immunity]] to Cold, Poison, and Psychic damage and [[Vulnerability]] to Fire damage. Reducing a 10-foot section of wall to 0 [[Hit Points]] destroys it and leaves behind a sheet of frigid air in the space the wall occupied.
 
 A creature moving through the sheet of frigid air for the first time on a turn makes a Constitution saving throw, taking `5d6` Cold damage on a failed save or half as much damage on a successful one.
 

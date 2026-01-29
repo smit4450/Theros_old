@@ -23,11 +23,11 @@ aliases: ["Doomtide"]
 - **Components:** V, S, M (soot and a dried eel)
 - **Duration:** Concentration, up to 1 minute
 
-You create a 20-foot-radius [[sphere-area-of-effect-xphb]] of inky fog within range. The fog is magical [[darkness-xphb]] and lasts for the duration or until a strong wind (such as the one created by the [[gust-of-wind-xphb]] spell) disperses it, ending the spell.
+You create a 20-foot-radius [[Sphere (Area of Effect)]] of inky fog within range. The fog is magical [[darkness-xphb]] and lasts for the duration or until a strong wind (such as the one created by the [[gust-of-wind-xphb]] spell) disperses it, ending the spell.
 
-Each creature in the [[sphere-area-of-effect-xphb]] when it appears makes a Wisdom saving throw. On a failed save, a creature takes `5d6` Psychic damage and subtracts `1d6` from its saving throws until the end of its next turn. On a successful save, a creature takes half as much damage only. A creature also makes this save when the [[sphere-area-of-effect-xphb]] moves into its space, when it enters the [[sphere-area-of-effect-xphb]], or when it ends its turn inside the [[sphere-area-of-effect-xphb]]. A creature makes this save only once per turn.
+Each creature in the [[Sphere (Area of Effect)]] when it appears makes a Wisdom saving throw. On a failed save, a creature takes `5d6` Psychic damage and subtracts `1d6` from its saving throws until the end of its next turn. On a successful save, a creature takes half as much damage only. A creature also makes this save when the [[Sphere (Area of Effect)]] moves into its space, when it enters the [[Sphere (Area of Effect)]], or when it ends its turn inside the [[Sphere (Area of Effect)]]. A creature makes this save only once per turn.
 
-The [[sphere-area-of-effect-xphb]] moves 10 feet away from you at the start of each of your turns.
+The [[Sphere (Area of Effect)]] moves 10 feet away from you at the start of each of your turns.
 
 ## Casting as a Circle Spell
 

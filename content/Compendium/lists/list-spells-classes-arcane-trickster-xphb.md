@@ -11,9 +11,9 @@ aliases:
 
 ## Cantrip
 
-- [Acid Splash](Compendium/spells/acid-splash-xphb.md "XPHB") at class level 3
-- [Blade Ward](Compendium/spells/blade-ward-xphb.md "XPHB") at class level 3
-- [Chill Touch](Compendium/spells/chill-touch-xphb.md "XPHB") at class level 3
+- [Acid Splash](Acid%20Splash.md "XPHB") at class level 3
+- [Blade Ward](Blade%20Ward.md "XPHB") at class level 3
+- [Chill Touch](Chill%20Touch.md "XPHB") at class level 3
 - [Dancing Lights](Compendium/spells/dancing-lights-xphb.md "XPHB") at class level 3
 - [Elementalism](Compendium/spells/elementalism-xphb.md "XPHB") at class level 3
 - [Fire Bolt](Compendium/spells/fire-bolt-xphb.md "XPHB") at class level 3
@@ -34,12 +34,12 @@ aliases:
 
 ## 1st Level
 
-- [Alarm](Compendium/spells/alarm-xphb.md "XPHB") at class level 3
-- [Burning Hands](Compendium/spells/burning-hands-xphb.md "XPHB") at class level 3
-- [Charm Person](Compendium/spells/charm-person-xphb.md "XPHB") at class level 3
-- [Chromatic Orb](Compendium/spells/chromatic-orb-xphb.md "XPHB") at class level 3
-- [Color Spray](Compendium/spells/color-spray-xphb.md "XPHB") at class level 3
-- [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md "XPHB") at class level 3
+- [Alarm](Alarm.md "XPHB") at class level 3
+- [Burning Hands](Burning%20Hands.md "XPHB") at class level 3
+- [Charm Person](Charm%20Person.md "XPHB") at class level 3
+- [Chromatic Orb](Chromatic%20Orb.md "XPHB") at class level 3
+- [Color Spray](Color%20Spray.md "XPHB") at class level 3
+- [Comprehend Languages](Comprehend%20Languages.md "XPHB") at class level 3
 - [Detect Magic](Compendium/spells/detect-magic-xphb.md "XPHB") at class level 3
 - [Disguise Self](Compendium/spells/disguise-self-xphb.md "XPHB") at class level 3
 - [Expeditious Retreat](Compendium/spells/expeditious-retreat-xphb.md "XPHB") at class level 3
@@ -70,13 +70,13 @@ aliases:
 
 ## 2nd Level
 
-- [Alter Self](Compendium/spells/alter-self-xphb.md "XPHB") at class level 3
-- [Arcane Lock](Compendium/spells/arcane-lock-xphb.md "XPHB") at class level 3
-- [Arcane Vigor](Compendium/spells/arcane-vigor-xphb.md "XPHB") at class level 3
-- [Augury](Compendium/spells/augury-xphb.md "XPHB") at class level 3
-- [Blindness/Deafness](Compendium/spells/blindness-deafness-xphb.md "XPHB") at class level 3
-- [Blur](Compendium/spells/blur-xphb.md "XPHB") at class level 3
-- [Cloud of Daggers](Compendium/spells/cloud-of-daggers-xphb.md "XPHB") at class level 3
+- [Alter Self](Alter%20Self.md "XPHB") at class level 3
+- [Arcane Lock](Arcane%20Lock.md "XPHB") at class level 3
+- [Arcane Vigor](Arcane%20Vigor.md "XPHB") at class level 3
+- [Augury](Augury.md "XPHB") at class level 3
+- [Blindness/Deafness](Blindness-Deafness.md "XPHB") at class level 3
+- [Blur](Blur.md "XPHB") at class level 3
+- [Cloud of Daggers](Cloud%20of%20Daggers.md "XPHB") at class level 3
 - [Continual Flame](Compendium/spells/continual-flame-xphb.md "XPHB") at class level 3
 - [Crown of Madness](Compendium/spells/crown-of-madness-xphb.md "XPHB") at class level 3
 - [Darkness](Compendium/spells/darkness-xphb.md "XPHB") at class level 3
@@ -115,12 +115,12 @@ aliases:
 
 ## 3rd Level
 
-- [Animate Dead](Compendium/spells/animate-dead-xphb.md "XPHB") at class level 3
-- [Bestow Curse](Compendium/spells/bestow-curse-xphb.md "XPHB") at class level 3
-- [Blink](Compendium/spells/blink-xphb.md "XPHB") at class level 3
-- [Cacophonic Shield](Compendium/spells/cacophonic-shield-frhof.md "FRHoF") at class level 3
-- [Clairvoyance](Compendium/spells/clairvoyance-xphb.md "XPHB") at class level 3
-- [Conjure Constructs](Compendium/spells/conjure-constructs-frhof.md "FRHoF") at class level 3
+- [Animate Dead](Animate%20Dead.md "XPHB") at class level 3
+- [Bestow Curse](Bestow%20Curse.md "XPHB") at class level 3
+- [Blink](Blink.md "XPHB") at class level 3
+- [Cacophonic Shield](Cacophonic%20Shield.md "FRHoF") at class level 3
+- [Clairvoyance](Clairvoyance.md "XPHB") at class level 3
+- [Conjure Constructs](Conjure%20Constructs.md "FRHoF") at class level 3
 - [Counterspell](Compendium/spells/counterspell-xphb.md "XPHB") at class level 3
 - [Dispel Magic](Compendium/spells/dispel-magic-xphb.md "XPHB") at class level 3
 - [Fear](Compendium/spells/fear-xphb.md "XPHB") at class level 3
@@ -154,13 +154,13 @@ aliases:
 
 ## 4th Level
 
-- [Arcane Eye](Compendium/spells/arcane-eye-xphb.md "XPHB") at class level 3
-- [Backlash](Compendium/spells/backlash-frhof.md "FRHoF") at class level 3
-- [Banishment](Compendium/spells/banishment-xphb.md "XPHB") at class level 3
-- [Blight](Compendium/spells/blight-xphb.md "XPHB") at class level 3
-- [Charm Monster](Compendium/spells/charm-monster-xphb.md "XPHB") at class level 3
-- [Confusion](Compendium/spells/confusion-xphb.md "XPHB") at class level 3
-- [Conjure Minor Elementals](Compendium/spells/conjure-minor-elementals-xphb.md "XPHB") at class level 3
+- [Arcane Eye](Arcane%20Eye.md "XPHB") at class level 3
+- [Backlash](Backlash.md "FRHoF") at class level 3
+- [Banishment](Banishment.md "XPHB") at class level 3
+- [Blight](Blight.md "XPHB") at class level 3
+- [Charm Monster](Charm%20Monster.md "XPHB") at class level 3
+- [Confusion](Confusion.md "XPHB") at class level 3
+- [Conjure Minor Elementals](Conjure%20Minor%20Elementals.md "XPHB") at class level 3
 - [Control Water](Compendium/spells/control-water-xphb.md "XPHB") at class level 3
 - [Dimension Door](Compendium/spells/dimension-door-xphb.md "XPHB") at class level 3
 - [Divination](Compendium/spells/divination-xphb.md "XPHB") at class level 3

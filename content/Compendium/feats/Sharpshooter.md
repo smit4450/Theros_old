@@ -19,6 +19,6 @@ You gain the following benefits.
 
 **Bypass Cover.** Your ranged attacks with weapons ignore [[cover-xphb]] and [[cover-xphb]].
 
-**Firing in Melee.** Being within 5 feet of an enemy doesn't impose [[disadvantage-xphb]] on your attack rolls with Ranged weapons.
+**Firing in Melee.** Being within 5 feet of an enemy doesn't impose [[Disadvantage]] on your attack rolls with Ranged weapons.
 
-**Long Shots.** Attacking at long range doesn't impose [[disadvantage-xphb]] on your attack rolls with Ranged weapons.
+**Long Shots.** Attacking at long range doesn't impose [[Disadvantage]] on your attack rolls with Ranged weapons.

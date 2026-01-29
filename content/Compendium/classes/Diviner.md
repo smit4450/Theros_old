@@ -60,9 +60,9 @@ In addition, whenever you gain access to a new level of spell slots in this clas
 
 ### Portent (Level 3)
 
-Glimpses of the future begin to press on your awareness. Whenever you finish a [[long-rest-xphb]], roll two d20s and record the numbers rolled. You can replace any [[d20-test-xphb]] made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
+Glimpses of the future begin to press on your awareness. Whenever you finish a [[Long Rest]], roll two d20s and record the numbers rolled. You can replace any [[D20 Test]] made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
 
-Each foretelling roll can be used only once. When you finish a [[long-rest-xphb]], you lose any unused foretelling rolls.
+Each foretelling roll can be used only once. When you finish a [[Long Rest]], you lose any unused foretelling rolls.
 
 ### Expert Divination (Level 6)
 
@@ -70,7 +70,7 @@ Casting Divination spells comes so easily to you that it expends only a fraction
 
 ### The Third Eye (Level 10)
 
-You can increase your powers of perception. As a [[bonus-action-xphb]], choose one of the following benefits, which lasts until you start a [[short-rest-xphb]] or [[long-rest-xphb]]. You can't use this feature again until you finish a [[short-rest-xphb]] or [[long-rest-xphb]].
+You can increase your powers of perception. As a [[Bonus Action]], choose one of the following benefits, which lasts until you start a [[Short Rest]] or [[Long Rest]]. You can't use this feature again until you finish a [[Short Rest]] or [[Long Rest]].
 
 #### Darkvision
 

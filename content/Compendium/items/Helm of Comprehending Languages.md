@@ -12,6 +12,6 @@ aliases:
 ![](Compendium/items/img/helm-of-comprehending-languages.webp#right)
 
 
-While wearing this helm, you can cast [[comprehend-languages-xphb]] from it.
+While wearing this helm, you can cast [[Comprehend Languages]] from it.
 
 *Source: Dungeon Master's Guide (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

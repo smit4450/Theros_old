@@ -17,6 +17,6 @@ aliases:
 
 *Whether you're hiding from horrifying tundra monsters or you just want a little privacy, this handsome garb can help you keep a low profile in the North.*
 
-While you wear Winter Camouflage in an appropriate environment, you have [[advantage-xphb]] on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks.
+While you wear Winter Camouflage in an appropriate environment, you have [[Advantage]] on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks.
 
 *Source: FRHoF p. 132*

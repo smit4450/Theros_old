@@ -64,13 +64,13 @@ You learn two additional maneuvers of your choice when you reach Fighter levels 
 
 #### Superiority Dice
 
-You have four Superiority Dice, which are d8s (`d8`). A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a [[short-rest-xphb]] or [[long-rest-xphb]].
+You have four Superiority Dice, which are d8s (`d8`). A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a [[Short Rest]] or [[Long Rest]].
 
 You gain an additional Superiority Die when you reach Fighter levels 7 (five dice total) and 15 (six dice total).
 
 #### Saving Throws
 
-If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and [[proficiency-xphb]].
+If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and [[Proficiency]].
 
 ### Student of War (Level 3)
 
@@ -82,9 +82,9 @@ The maneuvers are presented here in alphabetical order.
 
 ### Know Your Enemy (Level 7)
 
-As a [[bonus-action-xphb]], you can discern certain strengths and weaknesses of a creature you can see within 30 feet of yourself; you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
+As a [[Bonus Action]], you can discern certain strengths and weaknesses of a creature you can see within 30 feet of yourself; you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
 
-Once you use this feature, you can't do so again until you finish a [[long-rest-xphb]]. You can also restore a use of the feature by expending one Superiority Die (no action required).
+Once you use this feature, you can't do so again until you finish a [[Long Rest]]. You can also restore a use of the feature by expending one Superiority Die (no action required).
 
 ### Improved Combat Superiority (Level 10)
 

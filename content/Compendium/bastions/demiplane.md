@@ -11,7 +11,7 @@ aliases:
 # Demiplane
 *Level 17 Bastion facility*  
 
-- **Prerequisites**: Ability to use an [[Arcane Focus]] or tool as a [[spellcasting-focus-xphb]]
+- **Prerequisites**: Ability to use an [[Arcane Focus]] or tool as a [[Spellcasting Focus]]
 - **Space**: Vast (36 sq)
 - **Hirelings**: 1
 - **Order**: empower
@@ -22,7 +22,7 @@ Only you and your Bastion's hirelings can open the door, which leads to a Demipl
 
 ## Empower: Arcane Resilience
 
-When you issue the "Empower" order to this facility, magical runes appear on the Demiplane's walls and last for 7 days. Until the runes disappear, you gain [[temporary-hit-points-xphb]] equal to five times your level after spending an entire Long Rest in the Demiplane.
+When you issue the "Empower" order to this facility, magical runes appear on the Demiplane's walls and last for 7 days. Until the runes disappear, you gain [[Temporary Hit Points]] equal to five times your level after spending an entire Long Rest in the Demiplane.
 
 ## Fabrication
 

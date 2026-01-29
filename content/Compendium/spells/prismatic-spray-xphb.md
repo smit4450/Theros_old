@@ -25,7 +25,7 @@ aliases: ["Prismatic Spray"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Eight rays of light flash from you in a 60-foot [[cone-area-of-effect-xphb]]. Each creature in the [[cone-area-of-effect-xphb]] makes a Dexterity saving throw. For each target, roll `1d8` to determine which color ray affects it, consulting the Prismatic Rays table.
+Eight rays of light flash from you in a 60-foot [[Cone (Area of Effect)]]. Each creature in the [[Cone (Area of Effect)]] makes a Dexterity saving throw. For each target, roll `1d8` to determine which color ray affects it, consulting the Prismatic Rays table.
 
 **Prismatic Rays**
 

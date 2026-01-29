@@ -11,8 +11,8 @@ aliases:
 
 ## 1st Level
 
-- [Command](Compendium/spells/command-xphb.md "XPHB") at class level 7
-- [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md "XPHB") at class level 7
+- [Command](Command.md "XPHB") at class level 7
+- [Comprehend Languages](Comprehend%20Languages.md "XPHB") at class level 7
 - [Detect Magic](Compendium/spells/detect-magic-xphb.md "XPHB") at class level 7
 - [Identify](Compendium/spells/identify-xphb.md "XPHB") at class level 7
 
@@ -29,9 +29,9 @@ aliases:
 
 ## 4th Level
 
-- [Arcane Eye](Compendium/spells/arcane-eye-xphb.md "XPHB") at class level 7
-- [Banishment](Compendium/spells/banishment-xphb.md "XPHB") at class level 7
-- [Confusion](Compendium/spells/confusion-xphb.md "XPHB") at class level 7
+- [Arcane Eye](Arcane%20Eye.md "XPHB") at class level 7
+- [Banishment](Banishment.md "XPHB") at class level 7
+- [Confusion](Confusion.md "XPHB") at class level 7
 
 ## 5th Level
 

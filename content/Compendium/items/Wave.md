@@ -27,12 +27,12 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 
 While holding Wave, you gain the following benefits:
 
-- **Combat Ready.** You have [[advantage-xphb]] on [[initiative-xphb]] rolls.  
+- **Combat Ready.** You have [[Advantage]] on [[Initiative]] rolls.  
 - **Underwater Adaptation.** A bubble of air forms around your head while you are underwater, allowing you to breathe normally in that environment.  
 
 ## Aquatic Command
 
-Wave has 3 charges and regains `1d3` expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [[dominate-beast-xphb]] (save DC 20) from it on a Beast that has a [[swim-speed-xphb]].
+Wave has 3 charges and regains `1d3` expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [[dominate-beast-xphb]] (save DC 20) from it on a Beast that has a [[Swim Speed]].
 
 ## Globe of Invulnerability
 

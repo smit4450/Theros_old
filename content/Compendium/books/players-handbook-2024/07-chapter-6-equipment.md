@@ -65,11 +65,11 @@ When making an attack with a Finesse weapon, use your choice of your Strength or
 
 #### Heavy
 
-You have [[disadvantage-xphb]] on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
+You have [[Disadvantage]] on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 > [!note] Improvised Weapons
 > 
-> If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see "[[improvised-weapons-xphb]]" in the "rules glossary". Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
+> If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see "[[Improvised Weapons]]" in the "rules glossary". Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
 ^improvised-weapons
 
 #### Light
@@ -82,7 +82,7 @@ You can fire only one piece of ammunition from a Loading weapon when you use an 
 
 #### Range
 
-A Range weapon has a range in parentheses after the [Ammunition](Compendium/rules/item-properties.md#Ammunition) or [Thrown](Compendium/rules/item-properties.md#Thrown) property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [[disadvantage-xphb]] on the attack roll. You can't attack a target beyond the long range.
+A Range weapon has a range in parentheses after the [Ammunition](Compendium/rules/item-properties.md#Ammunition) or [Thrown](Compendium/rules/item-properties.md#Thrown) property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [[Disadvantage]] on the attack roll. You can't attack a target beyond the long range.
 
 #### Reach
 
@@ -122,7 +122,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 #### Sap
 
-If you hit a creature with this weapon, that creature has [[disadvantage-xphb]] on its next attack roll before the start of your next turn.
+If you hit a creature with this weapon, that creature has [[Disadvantage]] on its next attack roll before the start of your next turn.
 
 #### Slow
 
@@ -134,7 +134,7 @@ If you hit a creature with this weapon, you can force the creature to make a Con
 
 #### Vex
 
-If you hit a creature with this weapon and deal damage to the creature, you have [[advantage-xphb]] on your next attack roll against that creature before the end of your next turn.
+If you hit a creature with this weapon and deal damage to the creature, you have [[Advantage]] on your next attack roll against that creature before the end of your next turn.
 
 ## Armor
 
@@ -145,7 +145,7 @@ The Armor table lists the game's main armor. The table includes the cost and wei
 **Armor Class (AC**). The table's Armor Class column tells you what your base AC is when you wear a type of armor. For example, if you wear Leather Armor, your base AC is 11 plus your Dexterity modifier, whereas your AC is 16 in Chain Mail.
 
 - **Strength.** If the table shows a Strength score in the Strength column for an armor type, that armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.  
-- **Stealth.** If the table shows "Disadvantage" in the Stealth column for an armor type, the wearer has [[disadvantage-xphb]] on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks.  
+- **Stealth.** If the table shows "Disadvantage" in the Stealth column for an armor type, the wearer has [[Disadvantage]] on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks.  
 
 ![[armor-xphb]]
 
@@ -161,7 +161,7 @@ Anyone can don armor or hold a Shield, but only those with training can use them
 
 #### Light, Medium, or Heavy Armor
 
-If you wear Light, Medium, or Heavy armor and lack training with it, you have [[disadvantage-xphb]] on any [[d20-test-xphb]] that involves Strength or Dexterity, and you can't cast spells.
+If you wear Light, Medium, or Heavy armor and lack training with it, you have [[Disadvantage]] on any [[D20 Test]] that involves Strength or Dexterity, and you can't cast spells.
 
 #### Shield
 
@@ -193,7 +193,7 @@ A tool helps you make specialized ability checks, craft certain items, or both. 
 
 ### Tool Proficiency
 
-If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [[advantage-xphb]] on the check too.
+If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [[Advantage]] on the check too.
 
 Your features might give you proficiency with a tool. A monster has proficiency with any tool in its stat block.
 
@@ -240,7 +240,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 - **Ability.** Dexterity  
 - **Weight.** 5 lb.  
-- **Utilize.** Modify footwear to give [[advantage-xphb]] on the wearer's next Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check (DC 10)  
+- **Utilize.** Modify footwear to give [[Advantage]] on the wearer's next Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) check (DC 10)  
 - **Craft.** [[Climber's Kit]]  
 
 #### Cook's Utensils (1 GP)
@@ -401,7 +401,7 @@ Ammunition is required by a weapon that has the [Ammunition](Compendium/rules/it
 
 ### Antitoxin (50 GP)
 
-As a Bonus Action, you can drink a vial of Antitoxin to gain [[advantage-xphb]] on saving throws to avoid or end the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 hour.
+As a Bonus Action, you can drink a vial of Antitoxin to gain [[Advantage]] on saving throws to avoid or end the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition for 1 hour.
 
 ### Arcane Focus (Varies)
 
@@ -435,7 +435,7 @@ When rung as a [Utilize](Compendium/rules/actions.md#Utilize) action, a Bell pro
 
 ### Blanket (5 SP)
 
-While wrapped in a blanket, you have [[advantage-xphb]] on saving throws against extreme cold (see the *Dungeon Master's Guide*).
+While wrapped in a blanket, you have [[Advantage]] on saving throws against extreme cold (see the *Dungeon Master's Guide*).
 
 ### Block and Tackle (1 GP)
 
@@ -463,7 +463,7 @@ As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can spread Caltr
 
 ### Candle (1 CP)
 
-For 1 hour, a lit Candle sheds [[bright-light-xphb]] in a 5-foot radius and [[dim-light-xphb]] for an additional 5 feet.
+For 1 hour, a lit Candle sheds [[Bright Light]] in a 5-foot radius and [[Dim Light]] for an additional 5 feet.
 
 ### Case, Crossbow Bolt (1 GP)
 
@@ -499,11 +499,11 @@ A Component Pouch is watertight and filled with compartments that hold all the f
 
 ### Costume (5 GP)
 
-While wearing a Costume, you have [[advantage-xphb]] on any ability check you make to impersonate the person or type of person it represents.
+While wearing a Costume, you have [[Advantage]] on any ability check you make to impersonate the person or type of person it represents.
 
 ### Crowbar (2 GP)
 
-Using a Crowbar gives you [[advantage-xphb]] on Strength checks where the Crowbar's leverage can be applied.
+Using a Crowbar gives you [[Advantage]] on Strength checks where the Crowbar's leverage can be applied.
 
 ### Diplomat's Pack (39 GP)
 
@@ -573,17 +573,17 @@ A Ladder is 10 feet tall. You must climb to move up or down it.
 
 ### Lamp (5 SP)
 
-A Lamp burns [[Oil]] as fuel to cast [[bright-light-xphb]] in a 15-foot radius and [[dim-light-xphb]] for an additional 30 feet.
+A Lamp burns [[Oil]] as fuel to cast [[Bright Light]] in a 15-foot radius and [[Dim Light]] for an additional 30 feet.
 
 ### Lantern, Bullseye (10 GP)
 
-A Bullseye Lantern burns [[Oil]] as fuel to cast [[bright-light-xphb]] in a 60-foot [[cone-area-of-effect-xphb]] and [[dim-light-xphb]] for an additional 60 feet.
+A Bullseye Lantern burns [[Oil]] as fuel to cast [[Bright Light]] in a 60-foot [[Cone (Area of Effect)]] and [[Dim Light]] for an additional 60 feet.
 
 ![Lamp and Net](Compendium/books/players-handbook-2024/img/178-07-004-lamp-net.webp#center)
 
 ### Lantern, Hooded (5 GP)
 
-A Hooded Lantern burns [[Oil]] as fuel to cast [[bright-light-xphb]] in a 30-foot radius and [[dim-light-xphb]] for an additional 30 feet. As a Bonus Action, you can lower the hood, reducing the light to Dim Light in a 5-foot radius, or raise it again.
+A Hooded Lantern burns [[Oil]] as fuel to cast [[Bright Light]] in a 30-foot radius and [[Dim Light]] for an additional 30 feet. As a Bonus Action, you can lower the hood, reducing the light to Dim Light in a 5-foot radius, or raise it again.
 
 ### Lock (10 GP)
 
@@ -591,11 +591,11 @@ A Lock comes with a key. Without the key, a creature can use [[Thieves' Tools]] 
 
 ### Magnifying Glass (100 GP)
 
-A Magnifying Glass grants [[advantage-xphb]] on any ability check made to appraise or inspect a highly detailed item. Lighting a fire with a Magnifying Glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.
+A Magnifying Glass grants [[Advantage]] on any ability check made to appraise or inspect a highly detailed item. Lighting a fire with a Magnifying Glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.
 
 ### Manacles (2 GP)
 
-As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the [Grappled](Compendium/rules/conditions.md#Grappled), [Incapacitated](Compendium/rules/conditions.md#Incapacitated), or [Restrained](Compendium/rules/conditions.md#Restrained) condition if you succeed on a DC 13 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check. While bound, a creature has [[disadvantage-xphb]] on attack rolls, and the creature is [Restrained](Compendium/rules/conditions.md#Restrained) if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check as an action. Bursting them requires a successful DC 25 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check as an action.
+As a [Utilize](Compendium/rules/actions.md#Utilize) action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the [Grappled](Compendium/rules/conditions.md#Grappled), [Incapacitated](Compendium/rules/conditions.md#Incapacitated), or [Restrained](Compendium/rules/conditions.md#Restrained) condition if you succeed on a DC 13 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check. While bound, a creature has [[Disadvantage]] on attack rolls, and the creature is [Restrained](Compendium/rules/conditions.md#Restrained) if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check as an action. Bursting them requires a successful DC 25 Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check as an action.
 
 Each set of Manacles comes with a key. Without the key, a creature can use [[Thieves' Tools]] to pick the Manacles' lock with a successful DC 15 Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) check.
 
@@ -639,7 +639,7 @@ One sheet of Parchment can hold about 250 handwritten words.
 
 ### Perfume (5 GP)
 
-Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have [[advantage-xphb]] on Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) checks made to influence an [[indifferent-attitude-xphb]] Humanoid within 5 feet of yourself.
+Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have [[Advantage]] on Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) checks made to influence an [[Indifferent (Attitude)]] Humanoid within 5 feet of yourself.
 
 ### Poison, Basic (100 GP)
 
@@ -647,7 +647,7 @@ As a Bonus Action, you can use a vial of Basic Poison to coat one weapon or up t
 
 ### Pole (5 CP)
 
-A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check as part of a [[high-jump-xphb]] or [[long-jump-xphb]], you can use the Pole to vault, giving yourself [[advantage-xphb]] on the check.
+A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check as part of a [[High Jump]] or [[Long Jump]], you can use the Pole to vault, giving yourself [[Advantage]] on the check.
 
 ### Pot, Iron (2 GP)
 
@@ -671,7 +671,7 @@ A Quiver holds up to 20 [[Arrows (20)]].
 
 ### Ram, Portable (4 GP)
 
-You can use a Portable Ram to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you [[advantage-xphb]] on this check.
+You can use a Portable Ram to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you [[Advantage]] on this check.
 
 ### Rations (5 SP)
 
@@ -731,7 +731,7 @@ A Tinderbox is a small container holding flint, fire steel, and tinder (usually 
 
 ### Torch (1 CP)
 
-A Torch burns for 1 hour, casting [[bright-light-xphb]] in a 20-foot radius and [[dim-light-xphb]] for an additional 20 feet. When you take the [Attack](Compendium/rules/actions.md#Attack) action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
+A Torch burns for 1 hour, casting [[Bright Light]] in a 20-foot radius and [[Dim Light]] for an additional 20 feet. When you take the [Attack](Compendium/rules/actions.md#Attack) action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
 
 ### Vial (1 GP)
 
@@ -757,7 +757,7 @@ Barding is armor designed for a mount. Any type of armor on the "Armor table" in
 
 ### Saddles
 
-A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives [[advantage-xphb]] on any ability check you make to remain mounted. An Exotic Saddle is required for riding an aquatic or a flying mount.
+A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives [[Advantage]] on any ability check you make to remain mounted. An Exotic Saddle is required for riding an aquatic or a flying mount.
 
 ![[mounts-and-vehicles-mounts-and-other-animals-xphb]]
 
@@ -781,7 +781,7 @@ The table lists the number of Small and Medium passengers the ship can accommoda
 
 #### Damage Threshold
 
-If a vehicle has a [[damage-threshold-xphb]], it's noted in the table.
+If a vehicle has a [[Damage Threshold]], it's noted in the table.
 
 #### Ship Repair
 
@@ -863,7 +863,7 @@ Adventures hold the promise—but not a guarantee—of finding magic items. Hund
 
 Some magic items are indistinguishable from their nonmagical counterparts, while others are conspicuously magical. Handling a magic item is enough to give you a sense that it is extraordinary, but learning a magic item's properties isn't automatic.
 
-The [[identify-xphb]] spell is the fastest way to reveal an item's properties. Alternatively, you can focus on one magic item during a [[short-rest-xphb]] while being in physical contact with the item. At the end of the rest, you learn its properties and how to use them (but not any curse the item might bear).
+The [[identify-xphb]] spell is the fastest way to reveal an item's properties. Alternatively, you can focus on one magic item during a [[Short Rest]] while being in physical contact with the item. At the end of the rest, you learn its properties and how to use them (but not any curse the item might bear).
 
 Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched inside the band, or a feathered design might hint that it's a [[Ring of Feather Falling]].
 
@@ -875,7 +875,7 @@ Some magic items require a creature to form a bond—called Attunement—with th
 
 #### Attune during a Short Rest
 
-Attuning to an item requires you to spend a [[short-rest-xphb]] focused on only that item while being in physical contact with it (this can't be the same Short Rest used to learn the item's properties). This focus can take the form of weapon practice (for a Weapon), meditation (for a Wand), or some other appropriate activity. If the Short Rest is interrupted, the Attunement attempt fails. Otherwise, at the end of the Short Rest, you're attuned to the magic item and can access its full magical capabilities.
+Attuning to an item requires you to spend a [[Short Rest]] focused on only that item while being in physical contact with it (this can't be the same Short Rest used to learn the item's properties). This focus can take the form of weapon practice (for a Weapon), meditation (for a Wand), or some other appropriate activity. If the Short Rest is interrupted, the Attunement attempt fails. Otherwise, at the end of the Short Rest, you're attuned to the magic item and can access its full magical capabilities.
 
 #### No More Than Three Items
 
@@ -883,7 +883,7 @@ You can be attuned to no more than three magic items at a time. Any attempt to a
 
 #### Ending Attunement
 
-Your Attunement to an item ends if you no longer satisfy the prerequisites for Attunement, if the item has been more than 100 feet away for at least 24 hours, if you die, or if another creature attunes to the item. You can also voluntarily end Attunement by spending another [[short-rest-xphb]] focused on the item unless the item is cursed.
+Your Attunement to an item ends if you no longer satisfy the prerequisites for Attunement, if the item has been more than 100 feet away for at least 24 hours, if you die, or if another creature attunes to the item. You can also voluntarily end Attunement by spending another [[Short Rest]] focused on the item unless the item is cursed.
 
 ### Wearing and Wielding Items
 

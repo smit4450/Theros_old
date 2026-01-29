@@ -40,7 +40,7 @@ aliases: ["Fog Cloud"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
 
-You create a 20-foot-radius [[sphere-area-of-effect-xphb]] of fog centered on a point within range. The [[sphere-area-of-effect-xphb]] is [[heavily-obscured-xphb]]. It lasts for the duration or until a strong wind (such as one created by [[gust-of-wind-xphb]]) disperses it.
+You create a 20-foot-radius [[Sphere (Area of Effect)]] of fog centered on a point within range. The [[Sphere (Area of Effect)]] is [[Heavily Obscured]]. It lasts for the duration or until a strong wind (such as one created by [[gust-of-wind-xphb]]) disperses it.
 
 **Using a Higher-Level Spell Slot.** The fog's radius increases by 20 feet for each spell slot level above 1.
 

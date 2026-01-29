@@ -63,20 +63,20 @@ When you reach a Druid level specified in the Circle of the Sea Spells table, yo
 | 3rd | [[fog-cloud-xphb]], [[gust-of-wind-xphb]], [[ray-of-frost-xphb]], [[shatter-xphb]], [[thunderwave-xphb]] |
 | 5th | [[lightning-bolt-xphb]], [[water-breathing-xphb]] |
 | 7th | [[control-water-xphb]], [[ice-storm-xphb]] |
-| 9th | [[conjure-elemental-xphb]], [[hold-monster-xphb]] |
+| 9th | [[Conjure Elemental]], [[hold-monster-xphb]] |
 ^circle-of-the-sea-spells
 
 ### Wrath of the Sea (Level 3)
 
-As a [[bonus-action-xphb]], you can expend a use of your Wild Shape to manifest a 5-foot [[emanation-area-of-effect-xphb]] that takes the form of ocean spray that surrounds you for 10 minutes. It ends early if you dismiss it (no action required), manifest it again, or have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+As a [[Bonus Action]], you can expend a use of your Wild Shape to manifest a 5-foot [[Emanation (Area of Effect)]] that takes the form of ocean spray that surrounds you for 10 minutes. It ends early if you dismiss it (no action required), manifest it again, or have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
 
-When you manifest the [[emanation-area-of-effect-xphb]] and as a [[bonus-action-xphb]] on your subsequent turns, you can choose another creature you can see in the [[emanation-area-of-effect-xphb]]. The target must succeed on a Constitution saving throw against your spell save DC or take Cold damage and, if the creature is Large or smaller, be pushed up to 15 feet away from you. To determine this damage, roll a number of d6s equal to your Wisdom modifier (minimum of one die).
+When you manifest the [[Emanation (Area of Effect)]] and as a [[Bonus Action]] on your subsequent turns, you can choose another creature you can see in the [[Emanation (Area of Effect)]]. The target must succeed on a Constitution saving throw against your spell save DC or take Cold damage and, if the creature is Large or smaller, be pushed up to 15 feet away from you. To determine this damage, roll a number of d6s equal to your Wisdom modifier (minimum of one die).
 
 ### Aquatic Affinity (Level 6)
 
-The size of the [[emanation-area-of-effect-xphb]] created by your Wrath of the Sea increases to 10 feet.
+The size of the [[Emanation (Area of Effect)]] created by your Wrath of the Sea increases to 10 feet.
 
-In addition, you gain a [[swim-speed-xphb]] equal to your [[speed-xphb]].
+In addition, you gain a [[Swim Speed]] equal to your [[Speed]].
 
 ### Stormborn (Level 10)
 
@@ -84,7 +84,7 @@ Your Wrath of the Sea confers two more benefits while active, as detailed below.
 
 #### Flight
 
-You gain a [[fly-speed-xphb]] equal to your [[speed-xphb]].
+You gain a [[Fly Speed]] equal to your [[Speed]].
 
 #### Resistance
 
@@ -92,6 +92,6 @@ You have [[resistance-xphb]] to Cold, Lightning, and Thunder damage.
 
 ### Oceanic Gift (Level 14)
 
-Instead of manifesting the [[emanation-area-of-effect-xphb]] of Wrath of the Sea around yourself, you can manifest it around one willing creature within 60 feet of yourself. That creature gains all the benefits of the [[emanation-area-of-effect-xphb]] and uses your spell save DC and Wisdom modifier for it.
+Instead of manifesting the [[Emanation (Area of Effect)]] of Wrath of the Sea around yourself, you can manifest it around one willing creature within 60 feet of yourself. That creature gains all the benefits of the [[Emanation (Area of Effect)]] and uses your spell save DC and Wisdom modifier for it.
 
-In addition, you can manifest the [[emanation-area-of-effect-xphb]] around both the other creature and yourself if you expend two uses of your Wild Shape instead of one when manifesting it.
+In addition, you can manifest the [[Emanation (Area of Effect)]] around both the other creature and yourself if you expend two uses of your Wild Shape instead of one when manifesting it.

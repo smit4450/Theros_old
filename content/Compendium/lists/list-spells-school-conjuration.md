@@ -16,7 +16,7 @@ aliases:
 
 ## 1st Level
 
-- [Arms of Hadar](Compendium/spells/arms-of-hadar-xphb.md "XPHB")
+- [Arms of Hadar](Arms%20of%20Hadar.md "XPHB")
 - [Ensnaring Strike](Compendium/spells/ensnaring-strike-xphb.md "XPHB")
 - [Entangle](Compendium/spells/entangle-xphb.md "XPHB")
 - [Find Familiar](Compendium/spells/find-familiar-xphb.md "XPHB")
@@ -30,7 +30,7 @@ aliases:
 
 ## 2nd Level
 
-- [Cloud of Daggers](Compendium/spells/cloud-of-daggers-xphb.md "XPHB")
+- [Cloud of Daggers](Cloud%20of%20Daggers.md "XPHB")
 - [Deryan's Helpful Homunculi](Compendium/spells/deryans-helpful-homunculi-frhof.md "FRHoF")
 - [Find Steed](Compendium/spells/find-steed-xphb.md "XPHB")
 - [Flaming Sphere](Compendium/spells/flaming-sphere-xphb.md "XPHB")
@@ -40,10 +40,10 @@ aliases:
 
 ## 3rd Level
 
-- [Call Lightning](Compendium/spells/call-lightning-xphb.md "XPHB")
-- [Conjure Animals](Compendium/spells/conjure-animals-xphb.md "XPHB")
-- [Conjure Barrage](Compendium/spells/conjure-barrage-xphb.md "XPHB")
-- [Conjure Constructs](Compendium/spells/conjure-constructs-frhof.md "FRHoF")
+- [Call Lightning](Call%20Lightning.md "XPHB")
+- [Conjure Animals](Conjure%20Animals.md "XPHB")
+- [Conjure Barrage](Conjure%20Barrage.md "XPHB")
+- [Conjure Constructs](Conjure%20Constructs.md "FRHoF")
 - [Create Food and Water](Compendium/spells/create-food-and-water-xphb.md "XPHB")
 - [Hunger of Hadar](Compendium/spells/hunger-of-hadar-xphb.md "XPHB")
 - [Sleet Storm](Compendium/spells/sleet-storm-xphb.md "XPHB")
@@ -54,8 +54,8 @@ aliases:
 
 ## 4th Level
 
-- [Conjure Minor Elementals](Compendium/spells/conjure-minor-elementals-xphb.md "XPHB")
-- [Conjure Woodland Beings](Compendium/spells/conjure-woodland-beings-xphb.md "XPHB")
+- [Conjure Minor Elementals](Conjure%20Minor%20Elementals.md "XPHB")
+- [Conjure Woodland Beings](Conjure%20Woodland%20Beings.md "XPHB")
 - [Dimension Door](Compendium/spells/dimension-door-xphb.md "XPHB")
 - [Doomtide](Compendium/spells/doomtide-frhof.md "FRHoF")
 - [Evard's Black Tentacles](Compendium/spells/evards-black-tentacles-xphb.md "XPHB")
@@ -70,10 +70,10 @@ aliases:
 
 ## 5th Level
 
-- [Banishing Smite](Compendium/spells/banishing-smite-xphb.md "XPHB")
-- [Cloudkill](Compendium/spells/cloudkill-xphb.md "XPHB")
-- [Conjure Elemental](Compendium/spells/conjure-elemental-xphb.md "XPHB")
-- [Conjure Volley](Compendium/spells/conjure-volley-xphb.md "XPHB")
+- [Banishing Smite](Banishing%20Smite.md "XPHB")
+- [Cloudkill](Cloudkill.md "XPHB")
+- [Conjure Elemental](Conjure%20Elemental.md "XPHB")
+- [Conjure Volley](Conjure%20Volley.md "XPHB")
 - [Insect Plague](Compendium/spells/insect-plague-xphb.md "XPHB")
 - [Steel Wind Strike](Compendium/spells/steel-wind-strike-xphb.md "XPHB")
 - [Summon Celestial](Compendium/spells/summon-celestial-xphb.md "XPHB")
@@ -83,8 +83,8 @@ aliases:
 
 ## 6th Level
 
-- [Arcane Gate](Compendium/spells/arcane-gate-xphb.md "XPHB")
-- [Conjure Fey](Compendium/spells/conjure-fey-xphb.md "XPHB")
+- [Arcane Gate](Arcane%20Gate.md "XPHB")
+- [Conjure Fey](Conjure%20Fey.md "XPHB")
 - [Drawmij's Instant Summons](Compendium/spells/drawmijs-instant-summons-xphb.md "XPHB")
 - [Heroes' Feast](Compendium/spells/heroes-feast-xphb.md "XPHB")
 - [Planar Ally](Compendium/spells/planar-ally-xphb.md "XPHB")
@@ -96,7 +96,7 @@ aliases:
 
 ## 7th Level
 
-- [Conjure Celestial](Compendium/spells/conjure-celestial-xphb.md "XPHB")
+- [Conjure Celestial](Conjure%20Celestial.md "XPHB")
 - [Etherealness](Compendium/spells/etherealness-xphb.md "XPHB")
 - [Mordenkainen's Magnificent Mansion](Compendium/spells/mordenkainens-magnificent-mansion-xphb.md "XPHB")
 - [Plane Shift](Compendium/spells/plane-shift-xphb.md "XPHB")
@@ -111,7 +111,7 @@ aliases:
 
 ## 9th Level
 
-- [Blade of Disaster](Compendium/spells/blade-of-disaster-frhof.md "FRHoF")
+- [Blade of Disaster](Blade%20of%20Disaster.md "FRHoF")
 - [Gate](Compendium/spells/gate-xphb.md "XPHB")
 - [Storm of Vengeance](Compendium/spells/storm-of-vengeance-xphb.md "XPHB")
 - [Wish](Compendium/spells/wish-xphb.md "XPHB")

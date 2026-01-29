@@ -11,7 +11,7 @@ aliases:
 
 ## Cantrip
 
-- [Acid Splash](Compendium/spells/acid-splash-xphb.md "XPHB")
+- [Acid Splash](Acid%20Splash.md "XPHB")
 - [Eldritch Blast](Compendium/spells/eldritch-blast-xphb.md "XPHB")
 - [Fire Bolt](Compendium/spells/fire-bolt-xphb.md "XPHB")
 - [Light](Compendium/spells/light-xphb.md "XPHB")
@@ -25,8 +25,8 @@ aliases:
 
 ## 1st Level
 
-- [Burning Hands](Compendium/spells/burning-hands-xphb.md "XPHB")
-- [Chromatic Orb](Compendium/spells/chromatic-orb-xphb.md "XPHB")
+- [Burning Hands](Burning%20Hands.md "XPHB")
+- [Chromatic Orb](Chromatic%20Orb.md "XPHB")
 - [Divine Smite](Compendium/spells/divine-smite-xphb.md "XPHB")
 - [Faerie Fire](Compendium/spells/faerie-fire-xphb.md "XPHB")
 - [Guiding Bolt](Compendium/spells/guiding-bolt-xphb.md "XPHB")
@@ -52,8 +52,8 @@ aliases:
 
 ## 3rd Level
 
-- [Blinding Smite](Compendium/spells/blinding-smite-xphb.md "XPHB")
-- [Cacophonic Shield](Compendium/spells/cacophonic-shield-frhof.md "FRHoF")
+- [Blinding Smite](Blinding%20Smite.md "XPHB")
+- [Cacophonic Shield](Cacophonic%20Shield.md "FRHoF")
 - [Crusader's Mantle](Compendium/spells/crusaders-mantle-xphb.md "XPHB")
 - [Daylight](Compendium/spells/daylight-xphb.md "XPHB")
 - [Fireball](Compendium/spells/fireball-xphb.md "XPHB")
@@ -74,8 +74,8 @@ aliases:
 
 ## 5th Level
 
-- [Bigby's Hand](Compendium/spells/bigbys-hand-xphb.md "XPHB")
-- [Cone of Cold](Compendium/spells/cone-of-cold-xphb.md "XPHB")
+- [Bigby's Hand](Bigby's%20Hand.md "XPHB")
+- [Cone of Cold](Cone%20of%20Cold.md "XPHB")
 - [Destructive Wave](Compendium/spells/destructive-wave-xphb.md "XPHB")
 - [Flame Strike](Compendium/spells/flame-strike-xphb.md "XPHB")
 - [Jallarzi's Storm of Radiance](Compendium/spells/jallarzis-storm-of-radiance-xphb.md "XPHB")
@@ -84,8 +84,8 @@ aliases:
 
 ## 6th Level
 
-- [Blade Barrier](Compendium/spells/blade-barrier-xphb.md "XPHB")
-- [Chain Lightning](Compendium/spells/chain-lightning-xphb.md "XPHB")
+- [Blade Barrier](Blade%20Barrier.md "XPHB")
+- [Chain Lightning](Chain%20Lightning.md "XPHB")
 - [Elminster's Effulgent Spheres](Compendium/spells/elminsters-effulgent-spheres-frhof.md "FRHoF")
 - [Otiluke's Freezing Sphere](Compendium/spells/otilukes-freezing-sphere-xphb.md "XPHB")
 - [Sunbeam](Compendium/spells/sunbeam-xphb.md "XPHB")

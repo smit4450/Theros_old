@@ -22,12 +22,12 @@ aliases:
 
 ## 3rd Level
 
-- [Clairvoyance](Compendium/spells/clairvoyance-xphb.md "XPHB") at class level 5
+- [Clairvoyance](Clairvoyance.md "XPHB") at class level 5
 - [Hunger of Hadar](Compendium/spells/hunger-of-hadar-xphb.md "XPHB") at class level 5
 
 ## 4th Level
 
-- [Confusion](Compendium/spells/confusion-xphb.md "XPHB") at class level 5
+- [Confusion](Confusion.md "XPHB") at class level 5
 - [Summon Aberration](Compendium/spells/summon-aberration-xphb.md "XPHB") at class level 5
 
 ## 5th Level

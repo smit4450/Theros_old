@@ -19,7 +19,7 @@ You can douse a creature, object, or space with Oil or use it as fuel, as detail
 
 ## Dousing a Creature or an Object
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action, you can replace one of your attacks with throwing an Oil flask. Target one creature or object within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and [[proficiency-xphb]]) or be covered in oil. If the target takes Fire damage before the oil dries (after 1 minute), the target takes an extra 5 Fire damage from burning oil.
+When you take the [Attack](Compendium/rules/actions.md#Attack) action, you can replace one of your attacks with throwing an Oil flask. Target one creature or object within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and [[Proficiency]]) or be covered in oil. If the target takes Fire damage before the oil dries (after 1 minute), the target takes an extra 5 Fire damage from burning oil.
 
 ## Dousing a Space
 

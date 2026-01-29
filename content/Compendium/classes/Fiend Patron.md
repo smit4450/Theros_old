@@ -60,7 +60,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |---------------|--------|
-| 3 | [[burning-hands-xphb]], [[command-xphb]], [[scorching-ray-xphb]], [[suggestion-xphb]] |
+| 3 | [[Burning Hands]], [[Command]], [[scorching-ray-xphb]], [[suggestion-xphb]] |
 | 5 | [[fireball-xphb]], [[stinking-cloud-xphb]] |
 | 7 | [[fire-shield-xphb]], [[wall-of-fire-xphb]] |
 | 9 | [[geas-xphb]], [[insect-plague-xphb]] |
@@ -68,20 +68,20 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 ### Dark One's Blessing (Level 3)
 
-When you reduce an enemy to 0 [[hit-points-xphb]], you gain [[temporary-hit-points-xphb]] equal to your Charisma modifier plus your Warlock level (minimum of 1 [[temporary-hit-points-xphb]]). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 [[hit-points-xphb]].
+When you reduce an enemy to 0 [[Hit Points]], you gain [[Temporary Hit Points]] equal to your Charisma modifier plus your Warlock level (minimum of 1 [[Temporary Hit Points]]). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 [[Hit Points]].
 
 ### Dark One's Own Luck (Level 6)
 
 You can call on your fiendish patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add `1d10` to your roll. You can do so after seeing the roll but before any of the roll's effects occur.
 
-You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a [[long-rest-xphb]].
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a [[Long Rest]].
 
 ### Fiendish Resilience (Level 10)
 
-Choose one damage type, other than Force, whenever you finish a [[short-rest-xphb]] or [[long-rest-xphb]]. You have [[resistance-xphb]] to that damage type until you choose a different one with this feature.
+Choose one damage type, other than Force, whenever you finish a [[Short Rest]] or [[Long Rest]]. You have [[resistance-xphb]] to that damage type until you choose a different one with this feature.
 
 ### Hurl Through Hell (Level 14)
 
 Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Underworld. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes `8d10` Psychic damage if it isn't a Fiend, and it has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
 
-Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]] unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [[Long Rest]] unless you expend a Pact Magic spell slot (no action required) to restore your use of it.

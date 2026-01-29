@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Command](Compendium/spells/command-xphb.md "XPHB")
+- [Command](Command.md "XPHB")

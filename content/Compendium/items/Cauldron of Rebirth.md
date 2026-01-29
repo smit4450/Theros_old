@@ -15,11 +15,11 @@ aliases:
 
 This Tiny pot bears relief scenes of heroes on its cast-iron sides.
 
-You can use the cauldron as a [[spellcasting-focus-xphb]] for your spells, and it functions as a suitable component for the [[scrying-xphb]] spell.
+You can use the cauldron as a [[Spellcasting Focus]] for your spells, and it functions as a suitable component for the [[scrying-xphb]] spell.
 
 ## Brew Potion
 
-When you finish a [[long-rest-xphb]], you can use the cauldron to create a [[Potion of Greater Healing]], which takes 1 minute. The potion lasts for 24 hours, then loses its magic if not consumed.
+When you finish a [[Long Rest]], you can use the cauldron to create a [[Potion of Greater Healing]], which takes 1 minute. The potion lasts for 24 hours, then loses its magic if not consumed.
 
 ## Raise Dead
 

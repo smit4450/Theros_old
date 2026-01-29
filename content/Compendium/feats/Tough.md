@@ -11,4 +11,4 @@ aliases:
 # Tough
 *Source: Player's Handbook (2024) p. 202*  
 
-Your [[hit-points-xphb]] maximum increases by an amount equal to twice your character level when you gain this feat. Whenever you gain a character level thereafter, your [[hit-points-xphb]] maximum increases by an additional 2 [[hit-points-xphb]].
+Your [[Hit Points]] maximum increases by an amount equal to twice your character level when you gain this feat. Whenever you gain a character level thereafter, your [[Hit Points]] maximum increases by an additional 2 [[Hit Points]].

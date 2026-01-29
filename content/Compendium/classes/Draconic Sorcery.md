@@ -54,9 +54,9 @@ Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon fac
 
 ### Draconic Resilience (Level 3)
 
-The magic in your body manifests physical traits of your draconic gift. Your [[hit-points-xphb]] maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
+The magic in your body manifests physical traits of your draconic gift. Your [[Hit Points]] maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
 
-Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base [[armor-class-xphb]] equals 10 plus your Dexterity and Charisma modifiers.
+Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base [[Armor Class]] equals 10 plus your Dexterity and Charisma modifiers.
 
 ### Draconic Spells (Level 3)
 
@@ -66,9 +66,9 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 3rd | [[alter-self-xphb]], [[chromatic-orb-xphb]], [[command-xphb]], [[dragons-breath-xphb]] |
+| 3rd | [[Alter Self]], [[Chromatic Orb]], [[Command]], [[dragons-breath-xphb]] |
 | 5th | [[fear-xphb]], [[fly-xphb]] |
-| 7th | [[arcane-eye-xphb]], [[charm-monster-xphb]] |
+| 7th | [[Arcane Eye]], [[Charm Monster]] |
 | 9th | [[legend-lore-xphb]], [[summon-dragon-xphb]] |
 ^draconic-spells
 
@@ -80,12 +80,12 @@ You have [[resistance-xphb]] to that damage type, and when you cast a spell that
 
 ### Dragon Wings (Level 14)
 
-As a [[bonus-action-xphb]], you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a [[fly-speed-xphb]] of 60 feet.
+As a [[Bonus Action]], you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a [[Fly Speed]] of 60 feet.
 
-Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]] unless you spend 3 Sorcery Points (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [[Long Rest]] unless you spend 3 Sorcery Points (no action required) to restore your use of it.
 
 ### Dragon Companion (Level 18)
 
-You can cast [[summon-dragon-xphb]] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [[long-rest-xphb]].
+You can cast [[summon-dragon-xphb]] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [[Long Rest]].
 
 Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](Compendium/rules/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting.

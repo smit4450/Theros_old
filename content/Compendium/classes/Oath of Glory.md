@@ -69,41 +69,41 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 3rd | [[guiding-bolt-xphb]], [[heroism-xphb]] |
 | 5th | [[enhance-ability-xphb]], [[magic-weapon-xphb]] |
 | 9th | [[haste-xphb]], [[protection-from-energy-xphb]] |
-| 13th | [[compulsion-xphb]], [[freedom-of-movement-xphb]] |
+| 13th | [[Compulsion]], [[freedom-of-movement-xphb]] |
 | 17th | [[legend-lore-xphb]], [[yolandes-regal-presence-xphb]] |
 ^oath-of-glory-spells
 
 ### Inspiring Smite (Level 3)
 
-Immediately after you cast [[divine-smite-xphb]], you can expend one use of your Channel Divinity and distribute [[temporary-hit-points-xphb]] to creatures of your choice within 30 feet of yourself, which can include you. The total number of [[temporary-hit-points-xphb]] equals `2d8` plus your Paladin level, divided among the chosen creatures however you like.
+Immediately after you cast [[divine-smite-xphb]], you can expend one use of your Channel Divinity and distribute [[Temporary Hit Points]] to creatures of your choice within 30 feet of yourself, which can include you. The total number of [[Temporary Hit Points]] equals `2d8` plus your Paladin level, divided among the chosen creatures however you like.
 
 ### Peerless Athlete (Level 3)
 
-As a [[bonus-action-xphb]], you can expend one use of your Channel Divinity to augment your athleticism. For 1 hour, you have [[advantage-xphb]] on Strength ([Athletics](Compendium/rules/skills.md#Athletics)) and Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) checks, and the distance of your Long and High Jumps increases by 10 feet (this extra distance costs movement as normal).
+As a [[Bonus Action]], you can expend one use of your Channel Divinity to augment your athleticism. For 1 hour, you have [[Advantage]] on Strength ([Athletics](Compendium/rules/skills.md#Athletics)) and Dexterity ([Acrobatics](Compendium/rules/skills.md#Acrobatics)) checks, and the distance of your Long and High Jumps increases by 10 feet (this extra distance costs movement as normal).
 
 ### Aura of Alacrity (Level 7)
 
 Your Speed increases by 10 feet.
 
-In addition, whenever an ally enters your Aura of Protection for the first time on a turn or starts their turn there, the ally's [[speed-xphb]] increases by 10 feet until the end of their next turn.
+In addition, whenever an ally enters your Aura of Protection for the first time on a turn or starts their turn there, the ally's [[Speed]] increases by 10 feet until the end of their next turn.
 
 ### Glorious Defense (Level 15)
 
-You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can take a [[reaction-xphb]] to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one attack with a weapon against the attacker as part of this [[reaction-xphb]] if the attacker is within your weapon's range.
+You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can take a [[Reaction]] to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one attack with a weapon against the attacker as part of this [[Reaction]] if the attacker is within your weapon's range.
 
-You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb]].
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
 ### Living Legend (Level 20)
 
-You can empower yourself with the legends—whether true or exaggerated—of your great deeds. As a [[bonus-action-xphb]], you gain the benefits below for 10 minutes. Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]]. You can also restore your use of it by expending a level 5 spell slot (no action required).
+You can empower yourself with the legends—whether true or exaggerated—of your great deeds. As a [[Bonus Action]], you gain the benefits below for 10 minutes. Once you use this feature, you can't use it again until you finish a [[Long Rest]]. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 #### Charismatic
 
-You are blessed with an otherworldly presence and have [[advantage-xphb]] on all Charisma checks.
+You are blessed with an otherworldly presence and have [[Advantage]] on all Charisma checks.
 
 #### Saving Throw Reroll
 
-If you fail a saving throw, you can take a [[reaction-xphb]] to reroll it. You must use this new roll.
+If you fail a saving throw, you can take a [[Reaction]] to reroll it. You must use this new roll.
 
 #### Unerring Strike
 

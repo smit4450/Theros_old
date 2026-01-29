@@ -57,7 +57,7 @@ Gods of knowledge vary from masters of arcane magic to patrons of craft and inve
 
 ### Blessings of Knowledge (Level 3)
 
-You gain proficiency with one type of [[Artisan's Tools]] of your choice and in two of the following skills of your choice: [Arcana](Compendium/rules/skills.md#Arcana), [History](Compendium/rules/skills.md#History), [Nature](Compendium/rules/skills.md#Nature), or [Religion](Compendium/rules/skills.md#Religion). You have [[expertise-xphb]] in those two skills.
+You gain proficiency with one type of [[Artisan's Tools]] of your choice and in two of the following skills of your choice: [Arcana](Compendium/rules/skills.md#Arcana), [History](Compendium/rules/skills.md#History), [Nature](Compendium/rules/skills.md#Nature), or [Religion](Compendium/rules/skills.md#Religion). You have [[Expertise]] in those two skills.
 
 ### Knowledge Domain Spells (Level 3)
 
@@ -65,9 +65,9 @@ When you reach a Cleric level specified in the Knowledge Domain Spells table, yo
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 3 | [[command-xphb]], [[comprehend-languages-xphb]]*, [[detect-magic-xphb]]*, [[detect-thoughts-xphb]]*, [[identify-xphb]]*, [[mind-spike-xphb]]* |
+| 3 | [[Command]], [[Comprehend Languages]]*, [[detect-magic-xphb]]*, [[detect-thoughts-xphb]]*, [[identify-xphb]]*, [[mind-spike-xphb]]* |
 | 5 | [[dispel-magic-xphb]], [[nondetection-xphb]], [[tongues-xphb]]* |
-| 7 | [[arcane-eye-xphb]]*, [[banishment-xphb]], [[confusion-xphb]] |
+| 7 | [[Arcane Eye]]*, [[Banishment]], [[Confusion]] |
 | 9 | [[legend-lore-xphb]]*, [[scrying-xphb]]*, [[synaptic-static-xphb]] |
 ^cleric-level-spells
 
@@ -85,4 +85,4 @@ Additionally, you gain proficiency in Intelligence saving throws. If you already
 
 ### Divine Foreknowledge (Level 17)
 
-As a [[bonus-action-xphb]], you magically expand your mind to the future. For 1 hour, you have [[advantage-xphb]] on [[d20-test-xphb]]. Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]]. You can also restore your use of this feature by expending a level 6+ spell slot (no action required).
+As a [[Bonus Action]], you magically expand your mind to the future. For 1 hour, you have [[Advantage]] on [[D20 Test]]. Once you use this feature, you can't use it again until you finish a [[Long Rest]]. You can also restore your use of this feature by expending a level 6+ spell slot (no action required).

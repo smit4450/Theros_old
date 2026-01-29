@@ -29,9 +29,9 @@ An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn
 
 ## Creature into Creature
 
-If you turn a creature into another kind of creature, the new form can be any kind you choose that has a [[challenge-rating-xphb]] equal to or less than the target's [[challenge-rating-xphb]] or level. The target's game statistics are replaced by the stat block of the new form, but it retains its [[hit-points-xphb]], [[hit-point-dice-xphb]], alignment, and personality.
+If you turn a creature into another kind of creature, the new form can be any kind you choose that has a [[Challenge Rating]] equal to or less than the target's [[Challenge Rating]] or level. The target's game statistics are replaced by the stat block of the new form, but it retains its [[Hit Points]], [[Hit Point Dice]], alignment, and personality.
 
-The target gains a number of [[temporary-hit-points-xphb]] equal to the [[hit-points-xphb]] of the new form. These [[temporary-hit-points-xphb]] vanish if any remain when the spell ends.
+The target gains a number of [[Temporary Hit Points]] equal to the [[Hit Points]] of the new form. These [[Temporary Hit Points]] vanish if any remain when the spell ends.
 
 The target is limited in the actions it can perform by the anatomy of its new form, and it can't speak or cast spells.
 
@@ -39,9 +39,9 @@ The target's gear melds into the new form. The creature can't use or otherwise b
 
 ## Object into Creature
 
-You can turn an object into any kind of creature, as long as the creature's size is no larger than the object's size and the creature has a [[challenge-rating-xphb]] of 9 or lower. The creature is [[friendly-attitude-xphb]] to you and your allies. In combat, it takes its turns immediately after yours, and it obeys your commands.
+You can turn an object into any kind of creature, as long as the creature's size is no larger than the object's size and the creature has a [[Challenge Rating]] of 9 or lower. The creature is [[Friendly (Attitude)]] to you and your allies. In combat, it takes its turns immediately after yours, and it obeys your commands.
 
-If the spell lasts more than an hour, you no longer control the creature. It might remain [[friendly-attitude-xphb]] to you, depending on how you have treated it.
+If the spell lasts more than an hour, you no longer control the creature. It might remain [[Friendly (Attitude)]] to you, depending on how you have treated it.
 
 ## Creature into Object
 

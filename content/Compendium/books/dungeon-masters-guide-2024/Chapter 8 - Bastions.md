@@ -111,7 +111,7 @@ Each time a character gains a level, that character can replace one of their Bas
 
 ### Requirements
 
-Each special facility has a level. A character must be that level or higher to gain that facility. A special facility might also have a prerequisite the character must meet to gain that facility. For example, only a character who can use an Arcane Focus or a tool as a [[spellcasting-focus-xphb]] can have an "Arcane Study".
+Each special facility has a level. A character must be that level or higher to gain that facility. A special facility might also have a prerequisite the character must meet to gain that facility. For example, only a character who can use an Arcane Focus or a tool as a [[Spellcasting Focus]] can have an "Arcane Study".
 
 ### Space
 
@@ -233,7 +233,7 @@ Special facilities are presented in alphabetical order. The Special Facilities t
 > ![[Smithy]]
 
 > [!embed-facility]- Stable
-> ![[Stable]]
+> ![[Compendium/bastions/Stable]]
 
 > [!embed-facility]- Storehouse
 > ![[Storehouse]]

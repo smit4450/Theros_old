@@ -16,14 +16,14 @@ aliases:
 
 ## 1st Level
 
-- [Color Spray](Compendium/spells/color-spray-xphb.md "XPHB")
+- [Color Spray](Color%20Spray.md "XPHB")
 - [Disguise Self](Compendium/spells/disguise-self-xphb.md "XPHB")
 - [Illusory Script](Compendium/spells/illusory-script-xphb.md "XPHB")
 - [Silent Image](Compendium/spells/silent-image-xphb.md "XPHB")
 
 ## 2nd Level
 
-- [Blur](Compendium/spells/blur-xphb.md "XPHB")
+- [Blur](Blur.md "XPHB")
 - [Invisibility](Compendium/spells/invisibility-xphb.md "XPHB")
 - [Magic Mouth](Compendium/spells/magic-mouth-xphb.md "XPHB")
 - [Mirror Image](Compendium/spells/mirror-image-xphb.md "XPHB")

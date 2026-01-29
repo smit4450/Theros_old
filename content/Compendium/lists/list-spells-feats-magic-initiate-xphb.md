@@ -11,9 +11,9 @@ aliases:
 
 ## Cantrip
 
-- [Acid Splash](Compendium/spells/acid-splash-xphb.md "XPHB") 
-- [Blade Ward](Compendium/spells/blade-ward-xphb.md "XPHB") 
-- [Chill Touch](Compendium/spells/chill-touch-xphb.md "XPHB") 
+- [Acid Splash](Acid%20Splash.md "XPHB") 
+- [Blade Ward](Blade%20Ward.md "XPHB") 
+- [Chill Touch](Chill%20Touch.md "XPHB") 
 - [Dancing Lights](Compendium/spells/dancing-lights-xphb.md "XPHB") 
 - [Druidcraft](Compendium/spells/druidcraft-xphb.md "XPHB") 
 - [Elementalism](Compendium/spells/elementalism-xphb.md "XPHB") 
@@ -45,16 +45,16 @@ aliases:
 
 ## 1st Level
 
-- [Alarm](Compendium/spells/alarm-xphb.md "XPHB") 
-- [Animal Friendship](Compendium/spells/animal-friendship-xphb.md "XPHB") 
-- [Bane](Compendium/spells/bane-xphb.md "XPHB") 
-- [Bless](Compendium/spells/bless-xphb.md "XPHB") 
-- [Burning Hands](Compendium/spells/burning-hands-xphb.md "XPHB") 
-- [Charm Person](Compendium/spells/charm-person-xphb.md "XPHB") 
-- [Chromatic Orb](Compendium/spells/chromatic-orb-xphb.md "XPHB") 
-- [Color Spray](Compendium/spells/color-spray-xphb.md "XPHB") 
-- [Command](Compendium/spells/command-xphb.md "XPHB") 
-- [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md "XPHB") 
+- [Alarm](Alarm.md "XPHB") 
+- [Animal Friendship](Animal%20Friendship.md "XPHB") 
+- [Bane](Bane.md "XPHB") 
+- [Bless](Bless.md "XPHB") 
+- [Burning Hands](Burning%20Hands.md "XPHB") 
+- [Charm Person](Charm%20Person.md "XPHB") 
+- [Chromatic Orb](Chromatic%20Orb.md "XPHB") 
+- [Color Spray](Color%20Spray.md "XPHB") 
+- [Command](Command.md "XPHB") 
+- [Comprehend Languages](Comprehend%20Languages.md "XPHB") 
 - [Create or Destroy Water](Compendium/spells/create-or-destroy-water-xphb.md "XPHB") 
 - [Cure Wounds](Compendium/spells/cure-wounds-xphb.md "XPHB") 
 - [Detect Evil and Good](Compendium/spells/detect-evil-and-good-xphb.md "XPHB") 

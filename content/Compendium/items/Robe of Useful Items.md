@@ -33,7 +33,7 @@ In addition, the robe has `4d4` other patches. The DM chooses the patches or det
 | 23-30 | 10 gems worth 100 GP each |
 | 31-44 | Wooden ladder (24 feet long) |
 | 45-51 | [[Compendium/bestiary/beast/Riding Horse]] with a [[Riding Saddle]] |
-| 52-59 | Open pit (a 10-foot [[cube-area-of-effect-xphb]]), which you can place on the ground within 10 feet of yourself |
+| 52-59 | Open pit (a 10-foot [[Cube (Area of Effect)]]), which you can place on the ground within 10 feet of yourself |
 | 60-68 | 4 [[Potion of Healing]] |
 | 69-75 | [[Rowboat]] (12 feet long) |
 | 76-83 | [[Spell Scroll]] containing one spell of level 1, 2, or 3 (your choice) |

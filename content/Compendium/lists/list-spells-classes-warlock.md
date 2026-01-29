@@ -11,8 +11,8 @@ aliases:
 
 ## Cantrip
 
-- [Blade Ward](Compendium/spells/blade-ward-xphb.md "XPHB")
-- [Chill Touch](Compendium/spells/chill-touch-xphb.md "XPHB")
+- [Blade Ward](Blade%20Ward.md "XPHB")
+- [Chill Touch](Chill%20Touch.md "XPHB")
 - [Eldritch Blast](Compendium/spells/eldritch-blast-xphb.md "XPHB")
 - [Friends](Compendium/spells/friends-xphb.md "XPHB")
 - [Mage Hand](Compendium/spells/mage-hand-xphb.md "XPHB")
@@ -26,11 +26,11 @@ aliases:
 
 ## 1st Level
 
-- [Armor of Agathys](Compendium/spells/armor-of-agathys-xphb.md "XPHB")
-- [Arms of Hadar](Compendium/spells/arms-of-hadar-xphb.md "XPHB")
-- [Bane](Compendium/spells/bane-xphb.md "XPHB")
-- [Charm Person](Compendium/spells/charm-person-xphb.md "XPHB")
-- [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md "XPHB")
+- [Armor of Agathys](Armor%20of%20Agathys.md "XPHB")
+- [Arms of Hadar](Arms%20of%20Hadar.md "XPHB")
+- [Bane](Bane.md "XPHB")
+- [Charm Person](Charm%20Person.md "XPHB")
+- [Comprehend Languages](Comprehend%20Languages.md "XPHB")
 - [Detect Magic](Compendium/spells/detect-magic-xphb.md "XPHB")
 - [Expeditious Retreat](Compendium/spells/expeditious-retreat-xphb.md "XPHB")
 - [Hellish Rebuke](Compendium/spells/hellish-rebuke-xphb.md "XPHB")
@@ -44,7 +44,7 @@ aliases:
 
 ## 2nd Level
 
-- [Cloud of Daggers](Compendium/spells/cloud-of-daggers-xphb.md "XPHB")
+- [Cloud of Daggers](Cloud%20of%20Daggers.md "XPHB")
 - [Crown of Madness](Compendium/spells/crown-of-madness-xphb.md "XPHB")
 - [Darkness](Compendium/spells/darkness-xphb.md "XPHB")
 - [Enthrall](Compendium/spells/enthrall-xphb.md "XPHB")
@@ -77,10 +77,10 @@ aliases:
 
 ## 4th Level
 
-- [Backlash](Compendium/spells/backlash-frhof.md "FRHoF") (\*)
-- [Banishment](Compendium/spells/banishment-xphb.md "XPHB")
-- [Blight](Compendium/spells/blight-xphb.md "XPHB")
-- [Charm Monster](Compendium/spells/charm-monster-xphb.md "XPHB")
+- [Backlash](Backlash.md "FRHoF") (\*)
+- [Banishment](Banishment.md "XPHB")
+- [Blight](Blight.md "XPHB")
+- [Charm Monster](Charm%20Monster.md "XPHB")
 - [Dimension Door](Compendium/spells/dimension-door-xphb.md "XPHB")
 - [Doomtide](Compendium/spells/doomtide-frhof.md "FRHoF") (\*)
 - [Hallucinatory Terrain](Compendium/spells/hallucinatory-terrain-xphb.md "XPHB")
@@ -100,9 +100,9 @@ aliases:
 
 ## 6th Level
 
-- [Arcane Gate](Compendium/spells/arcane-gate-xphb.md "XPHB")
-- [Circle of Death](Compendium/spells/circle-of-death-xphb.md "XPHB")
-- [Conjure Fey](Compendium/spells/conjure-fey-xphb.md "XPHB")
+- [Arcane Gate](Arcane%20Gate.md "XPHB")
+- [Circle of Death](Circle%20of%20Death.md "XPHB")
+- [Conjure Fey](Conjure%20Fey.md "XPHB")
 - [Create Undead](Compendium/spells/create-undead-xphb.md "XPHB")
 - [Eyebite](Compendium/spells/eyebite-xphb.md "XPHB")
 - [Flesh to Stone](Compendium/spells/flesh-to-stone-xphb.md "XPHB")
@@ -120,7 +120,7 @@ aliases:
 
 ## 8th Level
 
-- [Befuddlement](Compendium/spells/befuddlement-xphb.md "XPHB")
+- [Befuddlement](Befuddlement.md "XPHB")
 - [Demiplane](Compendium/spells/demiplane-xphb.md "XPHB")
 - [Dominate Monster](Compendium/spells/dominate-monster-xphb.md "XPHB")
 - [Glibness](Compendium/spells/glibness-xphb.md "XPHB")
@@ -128,8 +128,8 @@ aliases:
 
 ## 9th Level
 
-- [Astral Projection](Compendium/spells/astral-projection-xphb.md "XPHB")
-- [Blade of Disaster](Compendium/spells/blade-of-disaster-frhof.md "FRHoF") (\*)
+- [Astral Projection](Astral%20Projection.md "XPHB")
+- [Blade of Disaster](Blade%20of%20Disaster.md "FRHoF") (\*)
 - [Foresight](Compendium/spells/foresight-xphb.md "XPHB")
 - [Gate](Compendium/spells/gate-xphb.md "XPHB")
 - [Imprisonment](Compendium/spells/imprisonment-xphb.md "XPHB")

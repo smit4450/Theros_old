@@ -11,9 +11,9 @@ aliases:
 
 ## Cantrip
 
-- [Acid Splash](Compendium/spells/acid-splash-xphb.md "XPHB") at class level 6
-- [Blade Ward](Compendium/spells/blade-ward-xphb.md "XPHB") at class level 6
-- [Chill Touch](Compendium/spells/chill-touch-xphb.md "XPHB") at class level 6
+- [Acid Splash](Acid%20Splash.md "XPHB") at class level 6
+- [Blade Ward](Blade%20Ward.md "XPHB") at class level 6
+- [Chill Touch](Chill%20Touch.md "XPHB") at class level 6
 - [Dancing Lights](Compendium/spells/dancing-lights-xphb.md "XPHB") at class level 6
 - [Druidcraft](Compendium/spells/druidcraft-xphb.md "XPHB") at class level 6
 - [Elementalism](Compendium/spells/elementalism-xphb.md "XPHB") at class level 6
@@ -45,16 +45,16 @@ aliases:
 
 ## 1st Level
 
-- [Alarm](Compendium/spells/alarm-xphb.md "XPHB") at class level 6
-- [Animal Friendship](Compendium/spells/animal-friendship-xphb.md "XPHB") at class level 6
-- [Bane](Compendium/spells/bane-xphb.md "XPHB") at class level 6
-- [Bless](Compendium/spells/bless-xphb.md "XPHB") at class level 6
-- [Burning Hands](Compendium/spells/burning-hands-xphb.md "XPHB") at class level 6
-- [Charm Person](Compendium/spells/charm-person-xphb.md "XPHB") at class level 6
-- [Chromatic Orb](Compendium/spells/chromatic-orb-xphb.md "XPHB") at class level 6
-- [Color Spray](Compendium/spells/color-spray-xphb.md "XPHB") at class level 6
-- [Command](Compendium/spells/command-xphb.md "XPHB") at class level 6
-- [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md "XPHB") at class level 6
+- [Alarm](Alarm.md "XPHB") at class level 6
+- [Animal Friendship](Animal%20Friendship.md "XPHB") at class level 6
+- [Bane](Bane.md "XPHB") at class level 6
+- [Bless](Bless.md "XPHB") at class level 6
+- [Burning Hands](Burning%20Hands.md "XPHB") at class level 6
+- [Charm Person](Charm%20Person.md "XPHB") at class level 6
+- [Chromatic Orb](Chromatic%20Orb.md "XPHB") at class level 6
+- [Color Spray](Color%20Spray.md "XPHB") at class level 6
+- [Command](Command.md "XPHB") at class level 6
+- [Comprehend Languages](Comprehend%20Languages.md "XPHB") at class level 6
 - [Create or Destroy Water](Compendium/spells/create-or-destroy-water-xphb.md "XPHB") at class level 6
 - [Cure Wounds](Compendium/spells/cure-wounds-xphb.md "XPHB") at class level 6
 - [Detect Evil and Good](Compendium/spells/detect-evil-and-good-xphb.md "XPHB") at class level 6
@@ -99,18 +99,18 @@ aliases:
 
 ## 2nd Level
 
-- [Aid](Compendium/spells/aid-xphb.md "XPHB") at class level 6
-- [Alter Self](Compendium/spells/alter-self-xphb.md "XPHB") at class level 6
-- [Animal Messenger](Compendium/spells/animal-messenger-xphb.md "XPHB") at class level 6
-- [Arcane Lock](Compendium/spells/arcane-lock-xphb.md "XPHB") at class level 6
-- [Arcane Vigor](Compendium/spells/arcane-vigor-xphb.md "XPHB") at class level 6
-- [Augury](Compendium/spells/augury-xphb.md "XPHB") at class level 6
-- [Barkskin](Compendium/spells/barkskin-xphb.md "XPHB") at class level 6
-- [Beast Sense](Compendium/spells/beast-sense-xphb.md "XPHB") at class level 6
-- [Blindness/Deafness](Compendium/spells/blindness-deafness-xphb.md "XPHB") at class level 6
-- [Blur](Compendium/spells/blur-xphb.md "XPHB") at class level 6
-- [Calm Emotions](Compendium/spells/calm-emotions-xphb.md "XPHB") at class level 6
-- [Cloud of Daggers](Compendium/spells/cloud-of-daggers-xphb.md "XPHB") at class level 6
+- [Aid](Aid.md "XPHB") at class level 6
+- [Alter Self](Alter%20Self.md "XPHB") at class level 6
+- [Animal Messenger](Animal%20Messenger.md "XPHB") at class level 6
+- [Arcane Lock](Arcane%20Lock.md "XPHB") at class level 6
+- [Arcane Vigor](Arcane%20Vigor.md "XPHB") at class level 6
+- [Augury](Augury.md "XPHB") at class level 6
+- [Barkskin](Barkskin.md "XPHB") at class level 6
+- [Beast Sense](Beast%20Sense.md "XPHB") at class level 6
+- [Blindness/Deafness](Blindness-Deafness.md "XPHB") at class level 6
+- [Blur](Blur.md "XPHB") at class level 6
+- [Calm Emotions](Calm%20Emotions.md "XPHB") at class level 6
+- [Cloud of Daggers](Cloud%20of%20Daggers.md "XPHB") at class level 6
 - [Continual Flame](Compendium/spells/continual-flame-xphb.md "XPHB") at class level 6
 - [Crown of Madness](Compendium/spells/crown-of-madness-xphb.md "XPHB") at class level 6
 - [Darkness](Compendium/spells/darkness-xphb.md "XPHB") at class level 6
@@ -164,16 +164,16 @@ aliases:
 
 ## 3rd Level
 
-- [Animate Dead](Compendium/spells/animate-dead-xphb.md "XPHB") at class level 6
-- [Aura of Vitality](Compendium/spells/aura-of-vitality-xphb.md "XPHB") at class level 6
-- [Beacon of Hope](Compendium/spells/beacon-of-hope-xphb.md "XPHB") at class level 6
-- [Bestow Curse](Compendium/spells/bestow-curse-xphb.md "XPHB") at class level 6
-- [Blink](Compendium/spells/blink-xphb.md "XPHB") at class level 6
-- [Cacophonic Shield](Compendium/spells/cacophonic-shield-frhof.md "FRHoF") at class level 6
-- [Call Lightning](Compendium/spells/call-lightning-xphb.md "XPHB") at class level 6
-- [Clairvoyance](Compendium/spells/clairvoyance-xphb.md "XPHB") at class level 6
-- [Conjure Animals](Compendium/spells/conjure-animals-xphb.md "XPHB") at class level 6
-- [Conjure Constructs](Compendium/spells/conjure-constructs-frhof.md "FRHoF") at class level 6
+- [Animate Dead](Animate%20Dead.md "XPHB") at class level 6
+- [Aura of Vitality](Aura%20of%20Vitality.md "XPHB") at class level 6
+- [Beacon of Hope](Beacon%20of%20Hope.md "XPHB") at class level 6
+- [Bestow Curse](Bestow%20Curse.md "XPHB") at class level 6
+- [Blink](Blink.md "XPHB") at class level 6
+- [Cacophonic Shield](Cacophonic%20Shield.md "FRHoF") at class level 6
+- [Call Lightning](Call%20Lightning.md "XPHB") at class level 6
+- [Clairvoyance](Clairvoyance.md "XPHB") at class level 6
+- [Conjure Animals](Conjure%20Animals.md "XPHB") at class level 6
+- [Conjure Constructs](Conjure%20Constructs.md "FRHoF") at class level 6
 - [Counterspell](Compendium/spells/counterspell-xphb.md "XPHB") at class level 6
 - [Create Food and Water](Compendium/spells/create-food-and-water-xphb.md "XPHB") at class level 6
 - [Daylight](Compendium/spells/daylight-xphb.md "XPHB") at class level 6

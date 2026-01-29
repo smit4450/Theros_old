@@ -322,7 +322,7 @@ aliases:
 - [[salamander-fire-snake-xmm]]  
 - [[salamander-xmm]]  
 - [[salamander-inferno-master-xmm]]  
-- [[Satyr]]  
+- [[Satyr (Bestiary)]]  
 - [[Satyr Revelmaster]]  
 - [[Scarecrow]]  
 - [[Scout]]  
@@ -753,7 +753,7 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
 - **Habitat.** Forest  
 - **Treasure.** None  
 
-Magic can invest plants with mobility, sapience, and even a voice. Spells such as [[awaken-xphb]] or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
+Magic can invest plants with mobility, sapience, and even a voice. Spells such as [[Awaken]] or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
 
 > [!quote] A quote from Rivergleam, Pixie  
 > 
@@ -5611,7 +5611,7 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
 ![](Compendium/books/monster-manual-2025/img/252-19-003-satyrs.webp#center)
 
 > [!embed-monster]- Satyr
-> ![Satyr](Satyr.md#^statblock)
+> ![Satyr (Bestiary)](Satyr%20(Bestiary).md#^statblock)
 
 > [!embed-monster]- Satyr Revelmaster
 > ![Satyr Revelmaster](Satyr%20Revelmaster.md#^statblock)

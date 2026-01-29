@@ -28,7 +28,7 @@ aliases: ["Pass without Trace"]
 - **Components:** V, S, M (ashes from burned mistletoe)
 - **Duration:** Concentration, up to 1 hour
 
-You radiate a concealing aura in a 30-foot [[emanation-area-of-effect-xphb]] for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks and leave no tracks.
+You radiate a concealing aura in a 30-foot [[Emanation (Area of Effect)]] for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks and leave no tracks.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Cleric (Trickery Domain)](Compendium/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid]]; [[list-spells-classes-ranger]]
 

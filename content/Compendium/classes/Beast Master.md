@@ -60,17 +60,17 @@ The beast is Friendly to you and your allies and obeys your commands. It vanishe
 
 #### The Beast in Combat
 
-In combat, the beast acts during your turn. It can move and use its [[reaction-xphb]] on its own, but the only action it takes is the [Dodge](Compendium/rules/actions.md#Dodge) action unless you take a [[bonus-action-xphb]] to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the [Attack](Compendium/rules/actions.md#Attack) action to command the beast to take the Beast's Strike action. If you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, the beast acts on its own and isn't limited to the [Dodge](Compendium/rules/actions.md#Dodge) action.
+In combat, the beast acts during your turn. It can move and use its [[Reaction]] on its own, but the only action it takes is the [Dodge](Compendium/rules/actions.md#Dodge) action unless you take a [[Bonus Action]] to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the [Attack](Compendium/rules/actions.md#Attack) action to command the beast to take the Beast's Strike action. If you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, the beast acts on its own and isn't limited to the [Dodge](Compendium/rules/actions.md#Dodge) action.
 
 #### Restoring or Replacing the Beast
 
-If the beast has died within the last hour, you can take a [Magic](Compendium/rules/actions.md#Magic) action to touch it and expend a spell slot. The beast returns to life after 1 minute with all its [[hit-points-xphb]] restored.
+If the beast has died within the last hour, you can take a [Magic](Compendium/rules/actions.md#Magic) action to touch it and expend a spell slot. The beast returns to life after 1 minute with all its [[Hit Points]] restored.
 
-Whenever you finish a [[long-rest-xphb]], you can summon a different primal beast, which appears in an unoccupied space within 5 feet of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears.
+Whenever you finish a [[Long Rest]], you can summon a different primal beast, which appears in an unoccupied space within 5 feet of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears.
 
 ### Exceptional Training (Level 7)
 
-When you take a [[bonus-action-xphb]] to command your Primal Companion beast to take an action, you can also command it to take the [Dash](Compendium/rules/actions.md#Dash), [Disengage](Compendium/rules/actions.md#Disengage), [Dodge](Compendium/rules/actions.md#Dodge), or [Help](Compendium/rules/actions.md#Help) action using its [[bonus-action-xphb]].
+When you take a [[Bonus Action]] to command your Primal Companion beast to take an action, you can also command it to take the [Dash](Compendium/rules/actions.md#Dash), [Disengage](Compendium/rules/actions.md#Disengage), [Dodge](Compendium/rules/actions.md#Dodge), or [Help](Compendium/rules/actions.md#Help) action using its [[Bonus Action]].
 
 In addition, whenever it hits with an attack roll and deals damage, it can deal your choice of Force damage or its normal damage type.
 

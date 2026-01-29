@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md "XPHB") at class level 3
+- [Comprehend Languages](Comprehend%20Languages.md "XPHB") at class level 3

@@ -11,9 +11,9 @@ aliases:
 
 ## Cantrip
 
-- [Acid Splash](Compendium/spells/acid-splash-xphb.md "XPHB")
-- [Blade Ward](Compendium/spells/blade-ward-xphb.md "XPHB")
-- [Chill Touch](Compendium/spells/chill-touch-xphb.md "XPHB")
+- [Acid Splash](Acid%20Splash.md "XPHB")
+- [Blade Ward](Blade%20Ward.md "XPHB")
+- [Chill Touch](Chill%20Touch.md "XPHB")
 - [Dancing Lights](Compendium/spells/dancing-lights-xphb.md "XPHB")
 - [Elementalism](Compendium/spells/elementalism-xphb.md "XPHB")
 - [Fire Bolt](Compendium/spells/fire-bolt-xphb.md "XPHB")
@@ -34,12 +34,12 @@ aliases:
 
 ## 1st Level
 
-- [Alarm](Compendium/spells/alarm-xphb.md "XPHB")
-- [Burning Hands](Compendium/spells/burning-hands-xphb.md "XPHB")
-- [Charm Person](Compendium/spells/charm-person-xphb.md "XPHB")
-- [Chromatic Orb](Compendium/spells/chromatic-orb-xphb.md "XPHB")
-- [Color Spray](Compendium/spells/color-spray-xphb.md "XPHB")
-- [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md "XPHB")
+- [Alarm](Alarm.md "XPHB")
+- [Burning Hands](Burning%20Hands.md "XPHB")
+- [Charm Person](Charm%20Person.md "XPHB")
+- [Chromatic Orb](Chromatic%20Orb.md "XPHB")
+- [Color Spray](Color%20Spray.md "XPHB")
+- [Comprehend Languages](Comprehend%20Languages.md "XPHB")
 - [Detect Magic](Compendium/spells/detect-magic-xphb.md "XPHB")
 - [Disguise Self](Compendium/spells/disguise-self-xphb.md "XPHB")
 - [Expeditious Retreat](Compendium/spells/expeditious-retreat-xphb.md "XPHB")
@@ -70,13 +70,13 @@ aliases:
 
 ## 2nd Level
 
-- [Alter Self](Compendium/spells/alter-self-xphb.md "XPHB")
-- [Arcane Lock](Compendium/spells/arcane-lock-xphb.md "XPHB")
-- [Arcane Vigor](Compendium/spells/arcane-vigor-xphb.md "XPHB")
-- [Augury](Compendium/spells/augury-xphb.md "XPHB")
-- [Blindness/Deafness](Compendium/spells/blindness-deafness-xphb.md "XPHB")
-- [Blur](Compendium/spells/blur-xphb.md "XPHB")
-- [Cloud of Daggers](Compendium/spells/cloud-of-daggers-xphb.md "XPHB")
+- [Alter Self](Alter%20Self.md "XPHB")
+- [Arcane Lock](Arcane%20Lock.md "XPHB")
+- [Arcane Vigor](Arcane%20Vigor.md "XPHB")
+- [Augury](Augury.md "XPHB")
+- [Blindness/Deafness](Blindness-Deafness.md "XPHB")
+- [Blur](Blur.md "XPHB")
+- [Cloud of Daggers](Cloud%20of%20Daggers.md "XPHB")
 - [Continual Flame](Compendium/spells/continual-flame-xphb.md "XPHB")
 - [Crown of Madness](Compendium/spells/crown-of-madness-xphb.md "XPHB")
 - [Darkness](Compendium/spells/darkness-xphb.md "XPHB")
@@ -115,12 +115,12 @@ aliases:
 
 ## 3rd Level
 
-- [Animate Dead](Compendium/spells/animate-dead-xphb.md "XPHB")
-- [Bestow Curse](Compendium/spells/bestow-curse-xphb.md "XPHB")
-- [Blink](Compendium/spells/blink-xphb.md "XPHB")
-- [Cacophonic Shield](Compendium/spells/cacophonic-shield-frhof.md "FRHoF") (\*)
-- [Clairvoyance](Compendium/spells/clairvoyance-xphb.md "XPHB")
-- [Conjure Constructs](Compendium/spells/conjure-constructs-frhof.md "FRHoF") (\*)
+- [Animate Dead](Animate%20Dead.md "XPHB")
+- [Bestow Curse](Bestow%20Curse.md "XPHB")
+- [Blink](Blink.md "XPHB")
+- [Cacophonic Shield](Cacophonic%20Shield.md "FRHoF") (\*)
+- [Clairvoyance](Clairvoyance.md "XPHB")
+- [Conjure Constructs](Conjure%20Constructs.md "FRHoF") (\*)
 - [Counterspell](Compendium/spells/counterspell-xphb.md "XPHB")
 - [Dispel Magic](Compendium/spells/dispel-magic-xphb.md "XPHB")
 - [Fear](Compendium/spells/fear-xphb.md "XPHB")
@@ -154,13 +154,13 @@ aliases:
 
 ## 4th Level
 
-- [Arcane Eye](Compendium/spells/arcane-eye-xphb.md "XPHB")
-- [Backlash](Compendium/spells/backlash-frhof.md "FRHoF") (\*)
-- [Banishment](Compendium/spells/banishment-xphb.md "XPHB")
-- [Blight](Compendium/spells/blight-xphb.md "XPHB")
-- [Charm Monster](Compendium/spells/charm-monster-xphb.md "XPHB")
-- [Confusion](Compendium/spells/confusion-xphb.md "XPHB")
-- [Conjure Minor Elementals](Compendium/spells/conjure-minor-elementals-xphb.md "XPHB")
+- [Arcane Eye](Arcane%20Eye.md "XPHB")
+- [Backlash](Backlash.md "FRHoF") (\*)
+- [Banishment](Banishment.md "XPHB")
+- [Blight](Blight.md "XPHB")
+- [Charm Monster](Charm%20Monster.md "XPHB")
+- [Confusion](Confusion.md "XPHB")
+- [Conjure Minor Elementals](Conjure%20Minor%20Elementals.md "XPHB")
 - [Control Water](Compendium/spells/control-water-xphb.md "XPHB")
 - [Dimension Door](Compendium/spells/dimension-door-xphb.md "XPHB")
 - [Divination](Compendium/spells/divination-xphb.md "XPHB")
@@ -188,13 +188,13 @@ aliases:
 
 ## 5th Level
 
-- [Alustriel's Mooncloak](Compendium/spells/alustriels-mooncloak-frhof.md "FRHoF") (\*)
-- [Animate Objects](Compendium/spells/animate-objects-xphb.md "XPHB")
-- [Bigby's Hand](Compendium/spells/bigbys-hand-xphb.md "XPHB")
-- [Circle of Power](Compendium/spells/circle-of-power-xphb.md "XPHB")
-- [Cloudkill](Compendium/spells/cloudkill-xphb.md "XPHB")
-- [Cone of Cold](Compendium/spells/cone-of-cold-xphb.md "XPHB")
-- [Conjure Elemental](Compendium/spells/conjure-elemental-xphb.md "XPHB")
+- [Alustriel's Mooncloak](Alustriel's%20Mooncloak.md "FRHoF") (\*)
+- [Animate Objects](Animate%20Objects.md "XPHB")
+- [Bigby's Hand](Bigby's%20Hand.md "XPHB")
+- [Circle of Power](Circle%20of%20Power.md "XPHB")
+- [Cloudkill](Cloudkill.md "XPHB")
+- [Cone of Cold](Cone%20of%20Cold.md "XPHB")
+- [Conjure Elemental](Conjure%20Elemental.md "XPHB")
 - [Contact Other Plane](Compendium/spells/contact-other-plane-xphb.md "XPHB")
 - [Creation](Compendium/spells/creation-xphb.md "XPHB")
 - [Dominate Person](Compendium/spells/dominate-person-xphb.md "XPHB")
@@ -222,9 +222,9 @@ aliases:
 
 ## 6th Level
 
-- [Arcane Gate](Compendium/spells/arcane-gate-xphb.md "XPHB")
-- [Chain Lightning](Compendium/spells/chain-lightning-xphb.md "XPHB")
-- [Circle of Death](Compendium/spells/circle-of-death-xphb.md "XPHB")
+- [Arcane Gate](Arcane%20Gate.md "XPHB")
+- [Chain Lightning](Chain%20Lightning.md "XPHB")
+- [Circle of Death](Circle%20of%20Death.md "XPHB")
 - [Contingency](Compendium/spells/contingency-xphb.md "XPHB")
 - [Create Undead](Compendium/spells/create-undead-xphb.md "XPHB")
 - [Disintegrate](Compendium/spells/disintegrate-xphb.md "XPHB")
@@ -267,10 +267,10 @@ aliases:
 
 ## 8th Level
 
-- [Antimagic Field](Compendium/spells/antimagic-field-xphb.md "XPHB")
-- [Antipathy/Sympathy](Compendium/spells/antipathy-sympathy-xphb.md "XPHB")
-- [Befuddlement](Compendium/spells/befuddlement-xphb.md "XPHB")
-- [Clone](Compendium/spells/clone-xphb.md "XPHB")
+- [Antimagic Field](Antimagic%20Field.md "XPHB")
+- [Antipathy/Sympathy](Antipathy-Sympathy.md "XPHB")
+- [Befuddlement](Befuddlement.md "XPHB")
+- [Clone](Clone.md "XPHB")
 - [Control Weather](Compendium/spells/control-weather-xphb.md "XPHB")
 - [Demiplane](Compendium/spells/demiplane-xphb.md "XPHB")
 - [Dominate Monster](Compendium/spells/dominate-monster-xphb.md "XPHB")
@@ -284,8 +284,8 @@ aliases:
 
 ## 9th Level
 
-- [Astral Projection](Compendium/spells/astral-projection-xphb.md "XPHB")
-- [Blade of Disaster](Compendium/spells/blade-of-disaster-frhof.md "FRHoF") (\*)
+- [Astral Projection](Astral%20Projection.md "XPHB")
+- [Blade of Disaster](Blade%20of%20Disaster.md "FRHoF") (\*)
 - [Foresight](Compendium/spells/foresight-xphb.md "XPHB")
 - [Gate](Compendium/spells/gate-xphb.md "XPHB")
 - [Imprisonment](Compendium/spells/imprisonment-xphb.md "XPHB")

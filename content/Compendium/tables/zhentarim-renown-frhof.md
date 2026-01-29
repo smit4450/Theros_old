@@ -21,5 +21,5 @@ aliases:
 | 25+ | You earn the honorary title of viper. In Zhentarim-controlled settlements, you have Advantage on Charisma ([Intimidation](Compendium/rules/skills.md#Intimidation)) checks made to influence others. |
 | 30+ | You can assign a group of up to six [Spies](Spy.md)rfere with the Zhentarim's business. Once you use this reward, you can't do so again until your Renown Score increases. In addition, the first time your Renown Score reaches 30, an ardragon gives you a writ for a Zhentarim insignia (see "Zhentarim Insignias" below). |
 | 40+ | You earn the honorary title of ardragon and receive the authority and funds necessary to establish your own Zhentarim outpost. In addition, you can call on a Zhentarim-allied [[beholder-xmm]] for help on a single mission. Once you use this reward, you can't do so again. |
-| 50+ | You earn the honorary title of dread lord. In addition, the first time your Renown Score reaches 50, Zhentarim agents cast the [[clone-xphb]] spell, targeting you, for free. |
+| 50+ | You earn the honorary title of dread lord. In addition, the first time your Renown Score reaches 50, Zhentarim agents cast the [[Clone]] spell, targeting you, for free. |
 ^zhentarim-renown

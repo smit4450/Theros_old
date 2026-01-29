@@ -27,7 +27,7 @@ aliases: ["Foresight"]
 - **Components:** V, S, M (a hummingbird feather)
 - **Duration:** 8 hours
 
-You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has [[advantage-xphb]] on [[d20-test-xphb]], and other creatures have [[disadvantage-xphb]] on attack rolls against it. The spell ends early if you cast it again.
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has [[Advantage]] on [[D20 Test]], and other creatures have [[Disadvantage]] on attack rolls against it. The spell ends early if you cast it again.
 
 **Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-druid]]; [[list-spells-classes-warlock]]; [Wizard (Diviner)](Compendium/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 

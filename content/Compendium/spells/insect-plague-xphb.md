@@ -29,7 +29,7 @@ aliases: ["Insect Plague"]
 - **Components:** V, S, M (a locust)
 - **Duration:** Concentration, up to 10 minutes
 
-Swarming locusts fill a 20-foot-radius [[sphere-area-of-effect-xphb]] centered on a point you choose within range. The [[sphere-area-of-effect-xphb]] remains for the duration, and its area is [[lightly-obscured-xphb]] and [[difficult-terrain-xphb]].
+Swarming locusts fill a 20-foot-radius [[Sphere (Area of Effect)]] centered on a point you choose within range. The [[Sphere (Area of Effect)]] remains for the duration, and its area is [[Lightly Obscured]] and [[Difficult Terrain]].
 
 When the swarm appears, each creature in it makes a Constitution saving throw, taking `4d10` Piercing damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the spell's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn.
 

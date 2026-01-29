@@ -14,7 +14,7 @@ aliases:
 
 | Renown Score | Reward |
 |--------------|--------|
-| 3+ | Nobles from Amphail, Daggerford, and Yartar are [[friendly-attitude-xphb]] to you by default. |
+| 3+ | Nobles from Amphail, Daggerford, and Yartar are [[Friendly (Attitude)]] to you by default. |
 | 5+ | While in an alliance settlement whose nobles are Friendly to you by default, you can buy potions and [[Spell Scroll]] from an alliance quartermaster at a 10 percent discount. A Spell Scroll bought with this discount can contain a spell of level 3 or lower. |
 | 10 | The first time your Renown Score reaches 10, your lord gives you one random Uncommon magic item. |
 | 15+ | Nobles from Longsaddle, Mirabar, and Neverwinter are Friendly to you by default. |

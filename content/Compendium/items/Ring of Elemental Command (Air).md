@@ -16,17 +16,17 @@ aliases:
 
 The Ring of Elemental Command (air) is linked to the Elemental Plane of Air. Every Ring of Elemental Command has the following two properties:
 
-- **Elemental Bane.** While wearing the ring, you have [[advantage-xphb]] on attack rolls against Elementals and they have [[disadvantage-xphb]] on attack rolls against you.  
+- **Elemental Bane.** While wearing the ring, you have [[Advantage]] on attack rolls against Elementals and they have [[Disadvantage]] on attack rolls against you.  
 - **Elemental Compulsion.** While wearing the ring, you can take a [Magic](Compendium/rules/actions.md#Magic) action to try to compel an Elemental you see within 60 feet of yourself. The Elemental makes a DC 18 Wisdom saving throw. On a failed save, the Elemental has the [Charmed](Compendium/rules/conditions.md#Charmed) condition until the start your next turn, and you determine what it does with its move and action on its next turn.  
 
 ## Elemental Focus
 
 While wearing the ring, you benefit from additional properties corresponding to the ring's linked Elemental Plane:
 
-- **Air.** You know Auran, you have [[resistance-xphb]] to Lightning damage, and you have a [[fly-speed-xphb]] equal to your [[speed-xphb]] and can hover.  
+- **Air.** You know Auran, you have [[resistance-xphb]] to Lightning damage, and you have a [[Fly Speed]] equal to your [[Speed]] and can hover.  
 
 ## Spellcasting
 
-The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [[chain-lightning-xphb]] (3 charges), [[feather-fall-xphb]] (0 charges), [[gust-of-wind-xphb]] (2 charges), [[wind-wall-xphb]] (1 charge)
+The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [[Chain Lightning]] (3 charges), [[feather-fall-xphb]] (0 charges), [[gust-of-wind-xphb]] (2 charges), [[wind-wall-xphb]] (1 charge)
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

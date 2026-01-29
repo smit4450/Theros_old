@@ -40,7 +40,7 @@ See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on random
 
 The four arrows—each associated with a season—that accompany this bow can be fired only from it. Each arrow disappears immediately after it's used, and it reappears in the quiver at the next dusk. The save DC against spells cast with the arrows is 18. Each arrow has a unique property:
 
-- **Spring.** As an action, you can fire this arrow, targeting a beast or a plant creature you can see within 320 feet of you. On a hit, the arrow deals no damage, and the target gains the benefits of the [[awaken-xphb]] spell for 8 hours.  
+- **Spring.** As an action, you can fire this arrow, targeting a beast or a plant creature you can see within 320 feet of you. On a hit, the arrow deals no damage, and the target gains the benefits of the [[Awaken]] spell for 8 hours.  
 - **Summer.** As an action, you can fire this arrow at an unoccupied space on the ground that you can see within 320 feet of you, no attack roll required. A Nyxborn lynx is summoned in that space (use the stat block for a [[tiger-xmm]] with the "Nyxborn traits" from chapter 6)[tiger](Tiger.md) obeys them as best it can, and it takes its turns immediately after yours. The emissary remains for 1 hour before fading away.  
 - **Autumn.** As an action, you can fire this arrow at a space on the ground that you can see within 320 feet of you, no attack roll required, casting the [[wall-of-thorns-xphb]] spell there.  
 - **Winter.** As an action, you can fire this arrow at a space that you can see within 320 feet of you, no attack roll required, casting the [[ice-storm-xphb]] spell there.  

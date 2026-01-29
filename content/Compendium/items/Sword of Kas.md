@@ -28,7 +28,7 @@ The sword thirsts for blood. If the sword doesn't taste blood on its blade withi
 
 ## Magic Weapon
 
-You gain a +3 bonus to attack rolls and damage rolls made with the sword, which scores a [[critical-hit-xphb]] on a roll of 19 or 20 on the `d20` and deals an extra `2d10` Slashing damage to Undead.
+You gain a +3 bonus to attack rolls and damage rolls made with the sword, which scores a [[Critical Hit]] on a roll of 19 or 20 on the `d20` and deals an extra `2d10` Slashing damage to Undead.
 
 ## Random Properties
 
@@ -43,7 +43,7 @@ The sword has the following random properties:
 
 While the sword is on your person, you can cast the following spells (save DC 18) from it:
 
-- [[call-lightning-xphb]]  
+- [[Call Lightning]]  
 - [[divine-word-xphb]]  
 - [[finger-of-death-xphb]]  
 
@@ -53,8 +53,8 @@ Once you use the sword to cast a spell, you can't cast that spell again from it 
 
 While the sword is on your person, you gain the following benefits:
 
-- **Battle Hunger.** You add `1d10` to your [[initiative-xphb]] rolls.  
-- **Blade of Defense.** When you take an action to attack with the sword, you can transfer some or all of its attack bonus to your [[armor-class-xphb]] instead. The adjusted bonuses remain in effect until the start of your next turn.  
+- **Battle Hunger.** You add `1d10` to your [[Initiative]] rolls.  
+- **Blade of Defense.** When you take an action to attack with the sword, you can transfer some or all of its attack bonus to your [[Armor Class]] instead. The adjusted bonuses remain in effect until the start of your next turn.  
 - **Necrotic Resistance.** You have [[resistance-xphb]] to Necrotic damage.  
 
 ## Sentience

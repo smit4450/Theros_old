@@ -11,8 +11,8 @@ aliases:
 
 ## 1st Level
 
-- [Alarm](Compendium/spells/alarm-xphb.md "XPHB")
-- [Animal Friendship](Compendium/spells/animal-friendship-xphb.md "XPHB")
+- [Alarm](Alarm.md "XPHB")
+- [Animal Friendship](Animal%20Friendship.md "XPHB")
 - [Cure Wounds](Compendium/spells/cure-wounds-xphb.md "XPHB")
 - [Detect Magic](Compendium/spells/detect-magic-xphb.md "XPHB")
 - [Detect Poison and Disease](Compendium/spells/detect-poison-and-disease-xphb.md "XPHB")
@@ -28,10 +28,10 @@ aliases:
 
 ## 2nd Level
 
-- [Aid](Compendium/spells/aid-xphb.md "XPHB")
-- [Animal Messenger](Compendium/spells/animal-messenger-xphb.md "XPHB")
-- [Barkskin](Compendium/spells/barkskin-xphb.md "XPHB")
-- [Beast Sense](Compendium/spells/beast-sense-xphb.md "XPHB")
+- [Aid](Aid.md "XPHB")
+- [Animal Messenger](Animal%20Messenger.md "XPHB")
+- [Barkskin](Barkskin.md "XPHB")
+- [Beast Sense](Beast%20Sense.md "XPHB")
 - [Cordon of Arrows](Compendium/spells/cordon-of-arrows-xphb.md "XPHB")
 - [Darkvision](Compendium/spells/darkvision-xphb.md "XPHB")
 - [Enhance Ability](Compendium/spells/enhance-ability-xphb.md "XPHB")
@@ -49,8 +49,8 @@ aliases:
 
 ## 3rd Level
 
-- [Conjure Animals](Compendium/spells/conjure-animals-xphb.md "XPHB")
-- [Conjure Barrage](Compendium/spells/conjure-barrage-xphb.md "XPHB")
+- [Conjure Animals](Conjure%20Animals.md "XPHB")
+- [Conjure Barrage](Conjure%20Barrage.md "XPHB")
 - [Daylight](Compendium/spells/daylight-xphb.md "XPHB")
 - [Dispel Magic](Compendium/spells/dispel-magic-xphb.md "XPHB")
 - [Elemental Weapon](Compendium/spells/elemental-weapon-xphb.md "XPHB")
@@ -68,7 +68,7 @@ aliases:
 
 ## 4th Level
 
-- [Conjure Woodland Beings](Compendium/spells/conjure-woodland-beings-xphb.md "XPHB")
+- [Conjure Woodland Beings](Conjure%20Woodland%20Beings.md "XPHB")
 - [Dominate Beast](Compendium/spells/dominate-beast-xphb.md "XPHB")
 - [Freedom of Movement](Compendium/spells/freedom-of-movement-xphb.md "XPHB")
 - [Grasping Vine](Compendium/spells/grasping-vine-xphb.md "XPHB")
@@ -78,9 +78,9 @@ aliases:
 
 ## 5th Level
 
-- [Alustriel's Mooncloak](Compendium/spells/alustriels-mooncloak-frhof.md "FRHoF") (\*)
-- [Commune with Nature](Compendium/spells/commune-with-nature-xphb.md "XPHB")
-- [Conjure Volley](Compendium/spells/conjure-volley-xphb.md "XPHB")
+- [Alustriel's Mooncloak](Alustriel's%20Mooncloak.md "FRHoF") (\*)
+- [Commune with Nature](Commune%20with%20Nature.md "XPHB")
+- [Conjure Volley](Conjure%20Volley.md "XPHB")
 - [Greater Restoration](Compendium/spells/greater-restoration-xphb.md "XPHB")
 - [Steel Wind Strike](Compendium/spells/steel-wind-strike-xphb.md "XPHB")
 - [Swift Quiver](Compendium/spells/swift-quiver-xphb.md "XPHB")

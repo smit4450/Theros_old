@@ -22,7 +22,7 @@ aliases:
 | 46–54 | Each time you become attuned to the Artifact, you must succeed on a DC 10 Constitution saving throw or die from the shock. If you die, you're instantly transformed into a [[wight-xmm]] under the DM's control that must protect the Artifact. |
 | 55–63 | The Artifact dilutes potions within 10 feet of itself, rendering them nonmagical. |
 | 64–72 | The Artifact erases scrolls within 10 feet of itself, rendering them nonmagical. |
-| 73–81 | While you're attuned to the Artifact, creatures of a particular type other than Humanoid (chosen by the DM) are always [[hostile-attitude-xphb]] toward you. |
+| 73–81 | While you're attuned to the Artifact, creatures of a particular type other than Humanoid (chosen by the DM) are always [[Hostile (Attitude)]] toward you. |
 | 82–90 | While attuned to the Artifact, you have Vulnerability to all damage. |
 | 91–96 | The Artifact imprisons a [[death-slaad-xmm]]. Each time you become attuned to the Artifact, the slaad has a 10 percent chance of escaping, whereupon it appears in an unoccupied space as close to you as possible and attacks you. |
 | 97–00 | While attuned to the Artifact, you can't spend Hit Point Dice or regain Hit Points. |

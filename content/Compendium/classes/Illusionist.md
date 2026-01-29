@@ -62,18 +62,18 @@ In addition, whenever you gain access to a new level of spell slots in this clas
 
 You can cast Illusion spells without providing Verbal components, and if an Illusion spell you cast has a range of 10+ feet, the range increases by 60 feet.
 
-You also know the [[minor-illusion-xphb]] cantrip. If you already know it, you learn a different Wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known. You can create both a sound and an image with a single casting of [[minor-illusion-xphb]], and you can cast it as a [[bonus-action-xphb]].
+You also know the [[minor-illusion-xphb]] cantrip. If you already know it, you learn a different Wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known. You can create both a sound and an image with a single casting of [[minor-illusion-xphb]], and you can cast it as a [[Bonus Action]].
 
 ### Phantasmal Creatures (Level 6)
 
-You always have the [[summon-beast-xphb]] and [[summon-fey-xphb]] spells prepared. Whenever you cast either spell, you can change its school to Illusion, which causes the summoned creature to appear spectral. You can cast the Illusion version of each spell without expending a spell slot, but casting it without a slot halves the creature's [[hit-points-xphb]]. Once you cast either spell without a spell slot, you must finish a [[long-rest-xphb]] before you can cast the spell in that way again.
+You always have the [[summon-beast-xphb]] and [[summon-fey-xphb]] spells prepared. Whenever you cast either spell, you can change its school to Illusion, which causes the summoned creature to appear spectral. You can cast the Illusion version of each spell without expending a spell slot, but casting it without a slot halves the creature's [[Hit Points]]. Once you cast either spell without a spell slot, you must finish a [[Long Rest]] before you can cast the spell in that way again.
 
 ### Illusory Self (Level 10)
 
-When a creature hits you with an attack roll, you can take a [[reaction-xphb]] to interpose an illusory duplicate of yourself between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.
+When a creature hits you with an attack roll, you can take a [[Reaction]] to interpose an illusory duplicate of yourself between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.
 
-Once you use this feature, you can't use it again until you finish a [[short-rest-xphb]] or [[long-rest-xphb]]. You can also restore your use of it by expending a level 2+ spell slot (no action required).
+Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]]. You can also restore your use of it by expending a level 2+ spell slot (no action required).
 
 ### Illusory Reality (Level 14)
 
-You have learned to weave shadow magic into your illusions to give them a semi-reality. When you cast an Illusion spell with a spell slot, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a [[bonus-action-xphb]] while the spell is ongoing. The object remains real for 1 minute, during which it can't deal damage or give any conditions. For example, you can create an illusion of a bridge over a chasm and then make it real and cross it.
+You have learned to weave shadow magic into your illusions to give them a semi-reality. When you cast an Illusion spell with a spell slot, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a [[Bonus Action]] while the spell is ongoing. The object remains real for 1 minute, during which it can't deal damage or give any conditions. For example, you can create an illusion of a bridge over a chasm and then make it real and cross it.

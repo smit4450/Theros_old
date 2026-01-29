@@ -13,11 +13,11 @@ aliases:
 
 - **Weight**: 50.0 lbs.
 
-When this 4-foot-tall, 2-foot-wide mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, HP 10, [[immunity-xphb]] to Poison and Psychic damage, and [[vulnerability-xphb]] to Bludgeoning damage. It shatters and is destroyed when reduced to 0 [[hit-points-xphb]].
+When this 4-foot-tall, 2-foot-wide mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, HP 10, [[Immunity]] to Poison and Psychic damage, and [[Vulnerability]] to Bludgeoning damage. It shatters and is destroyed when reduced to 0 [[Hit Points]].
 
 If the mirror is hanging on a vertical surface and you are within 5 feet of it, you can take a [Magic](Compendium/rules/actions.md#Magic) action and use a command word to activate it. It remains activated until you take a [Magic](Compendium/rules/actions.md#Magic) action and repeat the command word to deactivate it.
 
-Any creature other than you that sees its reflection in the activated mirror while within 30 feet of the mirror must succeed on a DC 15 Charisma saving throw or be trapped, along with anything it is wearing or carrying, in one of the mirror's twelve extradimensional cells. A creature that knows the mirror's nature makes the save with [[advantage-xphb]], and Constructs succeed on the save automatically.
+Any creature other than you that sees its reflection in the activated mirror while within 30 feet of the mirror must succeed on a DC 15 Charisma saving throw or be trapped, along with anything it is wearing or carrying, in one of the mirror's twelve extradimensional cells. A creature that knows the mirror's nature makes the save with [[Advantage]], and Constructs succeed on the save automatically.
 
 An extradimensional cell is an infinite expanse filled with thick fog that reduces visibility to 10 feet. Creatures trapped in the mirror's cells don't age, and they don't need to eat, drink, or sleep. A creature trapped within a cell can escape using magic that permits planar travel. Otherwise, the creature is confined to the cell until freed.
 

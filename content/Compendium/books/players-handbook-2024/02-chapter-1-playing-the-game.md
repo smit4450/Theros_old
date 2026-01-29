@@ -126,11 +126,11 @@ Here are the most common uses of dice in D&D.
 
 #### D20 Test
 
-The 20-sided die (`d20`) is the most important die you'll use in the game. It's central to the core mechanic—called [[d20-test-xphb]]—the game uses to determine whether creatures succeed or fail at the things they attempt during the game (see ""D20 Tests"" later in this chapter). You roll a `d20` whenever your character tries to do something that the DM decides has a chance of both success and failure. The higher your roll, the more likely it is that you succeed.
+The 20-sided die (`d20`) is the most important die you'll use in the game. It's central to the core mechanic—called [[D20 Test]]—the game uses to determine whether creatures succeed or fail at the things they attempt during the game (see ""D20 Tests"" later in this chapter). You roll a `d20` whenever your character tries to do something that the DM decides has a chance of both success and failure. The higher your roll, the more likely it is that you succeed.
 
 #### Damage
 
-The most common use for dice other than the `d20` is to determine damage. When you make a successful attack roll (one kind of [[d20-test-xphb]]), you roll damage to see how effective the attack is. When you cast a spell, you might also roll damage. Different weapons and spells use different dice for damage. For example, a [[Dagger]] uses `1d4`, a [[Greataxe]] uses `1d12`, and a [[fireball-xphb]] spell uses `8d6`.
+The most common use for dice other than the `d20` is to determine damage. When you make a successful attack roll (one kind of [[D20 Test]]), you roll damage to see how effective the attack is. When you cast a spell, you might also roll damage. Different weapons and spells use different dice for damage. For example, a [[Dagger]] uses `1d4`, a [[Greataxe]] uses `1d12`, and a [[fireball-xphb]] spell uses `8d6`.
 
 #### Random Tables
 
@@ -142,7 +142,7 @@ Sometimes you might see a rule describing a percentage chance of something happe
 
 > [!note] Interpreting Die Rolls in the Story
 > 
-> Part of the fun of D&D is interpreting what die rolls mean in the story. The randomness that dice bring often introduces the unexpected: an expert fails, a novice succeeds, or any number of other twists. When a [[d20-test-xphb]] or another roll produces a surprise, the Dungeon Master often gives a fun description of what happened. If you're a player, look for opportunities to interpret your character's die rolls and describe why things unfolded unexpectedly or even humorously.
+> Part of the fun of D&D is interpreting what die rolls mean in the story. The randomness that dice bring often introduces the unexpected: an expert fails, a novice succeeds, or any number of other twists. When a [[D20 Test]] or another roll produces a surprise, the Dungeon Master often gives a fun description of what happened. If you're a player, look for opportunities to interpret your character's die rolls and describe why things unfolded unexpectedly or even humorously.
 ^interpreting-die-rolls-in-the-story
 
 ## The Six Abilities
@@ -159,20 +159,20 @@ Each ability has a score from 1 to 20, although some monsters have a score as hi
 
 ### Ability Modifiers
 
-Each ability has a modifier that you apply whenever you make a [[d20-test-xphb]] with that ability (explained in ""D20 Tests""). An ability modifier is derived from its score, as shown in the Ability Modifiers table.
+Each ability has a modifier that you apply whenever you make a [[D20 Test]] with that ability (explained in ""D20 Tests""). An ability modifier is derived from its score, as shown in the Ability Modifiers table.
 
 ![[ability-modifiers-xphb]]
 
 ## D20 Tests
 
-When the outcome of an action is uncertain, the game uses a `d20` roll to determine success or failure. These rolls are called [[d20-test-xphb]], and they come in three kinds: "ability checks", "saving throws", and "attack rolls". They follow these steps:
+When the outcome of an action is uncertain, the game uses a `d20` roll to determine success or failure. These rolls are called [[D20 Test]], and they come in three kinds: "ability checks", "saving throws", and "attack rolls". They follow these steps:
 
-- **Roll 1d20.** You always want to roll high. If the roll has [[advantage-xphb]] or [[disadvantage-xphb]] (described "later in this chapter"), you roll two d20s, but you use the number from only one of them—the higher one if you have Advantage or the lower one if you have Disadvantage.  
+- **Roll 1d20.** You always want to roll high. If the roll has [[Advantage]] or [[Disadvantage]] (described "later in this chapter"), you roll two d20s, but you use the number from only one of them—the higher one if you have Advantage or the lower one if you have Disadvantage.  
 - **Add Modifiers.** Add these modifiers to the number rolled on the `d20`:  
 -     - **The Relevant Ability Modifier.** This chapter and the "rules glossary" explain which ability modifiers to use for various [[d20-test-xphb]].    
         - **Your Proficiency Bonus If Relevant.** Each creature has a Proficiency Bonus, a number added when making a [[d20-test-xphb]] that uses something, such as a skill, in which the creature has proficiency. See ""Proficiency"" later in this chapter.    
         - **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.    
-- **Compare the Total to a Target Number.** If the total of the `d20` and its modifiers equals or exceeds the target number, the [[d20-test-xphb]] succeeds. Otherwise, it fails. The Dungeon Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a [[difficulty-class-xphb]] (DC). The target number for an attack roll is called an [[armor-class-xphb]] (AC), which appears on a character sheet or in a [[stat-block-xphb]].  
+- **Compare the Total to a Target Number.** If the total of the `d20` and its modifiers equals or exceeds the target number, the [[D20 Test]] succeeds. Otherwise, it fails. The Dungeon Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a [[Difficulty Class]] (DC). The target number for an attack roll is called an [[Armor Class]] (AC), which appears on a character sheet or in a [[Stat Block]].  
 
 ![A D20 Test can result in a...](Compendium/books/players-handbook-2024/img/002-01-003-d20-test.webp#center "A D20 Test can result in a dramatic success, a simple accomplishment, or a catastrophe")
 
@@ -258,7 +258,7 @@ If you roll a 1 on the `d20` (a "natural 1") for an attack roll, the attack miss
 
 ![If you have Advantage, use...](Compendium/books/players-handbook-2024/img/003-01-004-advantage-disadvantage.webp#center "If you have Advantage, use the 18 If you have Disadvantage, use the 3")
 
-Sometimes a [[d20-test-xphb]] is modified by Advantage or Disadvantage. Advantage reflects the positive circumstances surrounding a `d20` roll, while Disadvantage reflects negative circumstances.
+Sometimes a [[D20 Test]] is modified by Advantage or Disadvantage. Advantage reflects the positive circumstances surrounding a `d20` roll, while Disadvantage reflects negative circumstances.
 
 You usually acquire Advantage or Disadvantage through the use of special abilities and actions. The DM can also decide that circumstances grant Advantage or impose Disadvantage.
 
@@ -276,7 +276,7 @@ If circumstances cause a roll to have both Advantage and Disadvantage, the roll 
 
 When you have Advantage or Disadvantage and something in the game lets you reroll or replace the `d20`, you can reroll or replace only one die, not both. You choose which one.
 
-For example, if you have [[heroic-inspiration-xphb]] (see the sidebar) and roll a 3 and an 18 on an ability check that has Advantage or Disadvantage, you could expend your Heroic Inspiration to reroll one of those dice, not both of them.
+For example, if you have [[Heroic Inspiration]] (see the sidebar) and roll a 3 and an 18 on an ability check that has Advantage or Disadvantage, you could expend your Heroic Inspiration to reroll one of those dice, not both of them.
 
 > [!note] Heroic Inspiration
 > 
@@ -291,9 +291,9 @@ For example, if you have [[heroic-inspiration-xphb]] (see the sidebar) and roll 
 
 ## Proficiency
 
-Characters and monsters are good at various things. Some are skilled with many weapons, while others can use only a few. Some are better at understanding people's motives, and others are better at unlocking the secrets of the multiverse. All creatures have a Proficiency Bonus, which reflects the impact that training has on the creature's capabilities. A character's Proficiency Bonus increases as the character gains levels (described in "chapter 2"). A monster's Proficiency Bonus is based on its [[challenge-rating-xphb]]. The Proficiency Bonus table shows how the bonus is determined.
+Characters and monsters are good at various things. Some are skilled with many weapons, while others can use only a few. Some are better at understanding people's motives, and others are better at unlocking the secrets of the multiverse. All creatures have a Proficiency Bonus, which reflects the impact that training has on the creature's capabilities. A character's Proficiency Bonus increases as the character gains levels (described in "chapter 2"). A monster's Proficiency Bonus is based on its [[Challenge Rating]]. The Proficiency Bonus table shows how the bonus is determined.
 
-This bonus is applied to a [[d20-test-xphb]] when the creature has proficiency in a skill, in a saving throw, or with an item that the creature uses to make the [[d20-test-xphb]]. The bonus is also used for spell attacks and for calculating the DC of saving throws for spells.
+This bonus is applied to a [[D20 Test]] when the creature has proficiency in a skill, in a saving throw, or with an item that the creature uses to make the [[D20 Test]]. The bonus is also used for spell attacks and for calculating the DC of saving throws for spells.
 
 ![[proficiency-bonus-xphb]]
 
@@ -301,7 +301,7 @@ This bonus is applied to a [[d20-test-xphb]] when the creature has proficiency i
 
 Your Proficiency Bonus can't be added to a die roll or another number more than once. For example, if a rule allows you to make a Charisma ([Deception](Compendium/rules/skills.md#Deception) or [Persuasion](Compendium/rules/skills.md#Persuasion)) check, you add your Proficiency Bonus if you're proficient in either skill, but you don't add it twice if you're proficient in both skills.
 
-Occasionally, a Proficiency Bonus might be multiplied or divided (doubled or halved, for example) before being added. For example, the [[expertise-xphb]] feature doubles the Proficiency Bonus for certain ability checks. Whenever the bonus is used, it can be multiplied only once and divided only once.
+Occasionally, a Proficiency Bonus might be multiplied or divided (doubled or halved, for example) before being added. For example, the [[Expertise]] feature doubles the Proficiency Bonus for certain ability checks. Whenever the bonus is used, it can be multiplied only once and divided only once.
 
 ### Skill Proficiencies
 
@@ -343,7 +343,7 @@ When you do something other than moving or communicating, you typically take an 
 
 ![[actions-xphb]]
 
-Player characters and monsters can also do things not covered by these actions. Many class features and other abilities provide additional action options, and you can improvise other actions. When you describe an action not detailed elsewhere in the rules, the Dungeon Master tells you whether that action is possible and what kind of [[d20-test-xphb]] you need to make, if any.
+Player characters and monsters can also do things not covered by these actions. Many class features and other abilities provide additional action options, and you can improvise other actions. When you describe an action not detailed elsewhere in the rules, the Dungeon Master tells you whether that action is possible and what kind of [[D20 Test]] you need to make, if any.
 
 ### One Thing at a Time
 
@@ -380,7 +380,7 @@ In terms of timing, a Reaction takes place immediately after its trigger unless 
 
 During their adventures, player characters meet many different people and face some monsters that would rather talk than fight. In those situations, it's time for social interaction, which takes many forms. For example, you might try to convince a burglar to confess to wrongdoing or try to flatter a guard. The Dungeon Master assumes the roles of any nonplayer characters who are participating.
 
-An NPC's attitude toward your character is [[friendly-attitude-xphb]], [[indifferent-attitude-xphb]], or [[hostile-attitude-xphb]], as defined in the "rules glossary". Friendly NPCs are predisposed to help, and Hostile ones are inclined to hinder.
+An NPC's attitude toward your character is [[Friendly (Attitude)]], [[Indifferent (Attitude)]], or [[Hostile (Attitude)]], as defined in the "rules glossary". Friendly NPCs are predisposed to help, and Hostile ones are inclined to hinder.
 
 Social interactions progress in two ways: through roleplaying and ability checks.
 
@@ -469,7 +469,7 @@ In this scene, players engage in a social interaction encounter. You and your gr
 
 > [!note] (2)—Influencing NPCs
 > 
-> Gareth takes the [Influence](Compendium/rules/actions.md#Influence) action, which characters can take to influence an NPC. It's easier to influence an NPC who's already disposed to help you, as Ismark is here. Ismark's [[friendly-attitude-xphb]] attitude gives Phillip Advantage on the roll. In this case, [[advantage-xphb]] made the difference between success and failure.
+> Gareth takes the [Influence](Compendium/rules/actions.md#Influence) action, which characters can take to influence an NPC. It's easier to influence an NPC who's already disposed to help you, as Ismark is here. Ismark's [[Friendly (Attitude)]] attitude gives Phillip Advantage on the roll. In this case, [[Advantage]] made the difference between success and failure.
 ^2-influencing-npcs
 
 - **Jared.** "You are too kind! First, I need your help transporting Ireena to the town of Vallaki."  
@@ -500,7 +500,7 @@ Some adventuring tasks—such as noticing danger, hitting an enemy, and targetin
 
 #### Obscured Areas
 
-An area might be Lightly or Heavily Obscured. In a Lightly Obscured area—such as an area with Dim Light, patchy fog, or moderate foliage—you have [[disadvantage-xphb]] on Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks that rely on sight.
+An area might be Lightly or Heavily Obscured. In a Lightly Obscured area—such as an area with Dim Light, patchy fog, or moderate foliage—you have [[Disadvantage]] on Wisdom ([Perception](Compendium/rules/skills.md#Perception)) checks that rely on sight.
 
 A Heavily Obscured area—such as an area with Darkness, heavy fog, or dense foliage—is opaque. You have the [Blinded](Compendium/rules/conditions.md#Blinded) condition when trying to see something there.
 
@@ -514,11 +514,11 @@ Bright Light lets most creatures see normally. Even gloomy days provide Bright L
 
 ##### Dim Light
 
-Dim Light, also called shadows, creates a [[lightly-obscured-xphb]] area. An area of Dim Light is usually a boundary between Bright Light and surrounding Darkness. The soft light of twilight and dawn also counts as Dim Light. A full moon might bathe the land in Dim Light.
+Dim Light, also called shadows, creates a [[Lightly Obscured]] area. An area of Dim Light is usually a boundary between Bright Light and surrounding Darkness. The soft light of twilight and dawn also counts as Dim Light. A full moon might bathe the land in Dim Light.
 
 ##### Darkness
 
-Darkness creates a [[heavily-obscured-xphb]] area. Characters face Darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon, or in an area of magical Darkness.
+Darkness creates a [[Heavily Obscured]] area. Characters face Darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon, or in an area of magical Darkness.
 
 #### Special Senses
 
@@ -556,11 +556,11 @@ If you describe your character searching nowhere near a hidden object, a Wisdom 
 
 #### Carrying Objects
 
-You can usually carry your gear and treasure without worrying about the weight of those objects. If you try to haul an unusually heavy object or a massive number of lighter objects, the DM might require you to abide by the rules for [[carrying-capacity-xphb]] in the "rules glossary".
+You can usually carry your gear and treasure without worrying about the weight of those objects. If you try to haul an unusually heavy object or a massive number of lighter objects, the DM might require you to abide by the rules for [[Carrying Capacity]] in the "rules glossary".
 
 #### Breaking Objects
 
-As an action, you can automatically break or otherwise destroy a fragile, nonmagical object, such as a glass container or a piece of paper. If you try to damage something more resilient, the DM might use the rules on [[breaking-objects-xphb]] in the "rules glossary".
+As an action, you can automatically break or otherwise destroy a fragile, nonmagical object, such as a glass container or a piece of paper. If you try to damage something more resilient, the DM might use the rules on [[Breaking Objects]] in the "rules glossary".
 
 ### Hazards
 
@@ -589,7 +589,7 @@ If you need to know how fast you can move when every second matters, see the mov
 
 #### Travel Pace
 
-While traveling outside combat, a group can move at a Fast, Normal, or Slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time; if riding horses or other mounts, the group can move twice that distance for 1 hour, after which the mounts need a [[short-rest-xphb]] or [[long-rest-xphb]] before they can move at that increased pace again (see "chapter 6" for a selection of mounts for sale). The *Dungeon Master's Guide* has rules that affect which pace you can choose in certain types of terrain.
+While traveling outside combat, a group can move at a Fast, Normal, or Slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time; if riding horses or other mounts, the group can move twice that distance for 1 hour, after which the mounts need a [[Short Rest]] or [[Long Rest]] before they can move at that increased pace again (see "chapter 6" for a selection of mounts for sale). The *Dungeon Master's Guide* has rules that affect which pace you can choose in certain types of terrain.
 
 ![[travel-pace-xphb]]
 
@@ -597,15 +597,15 @@ Each travel pace has a game effect, as defined below.
 
 ##### Fast
 
-Traveling at a Fast pace imposes [[disadvantage-xphb]] on a traveler's Wisdom ([Perception](Compendium/rules/skills.md#Perception) or [Survival](Compendium/rules/skills.md#Survival)) and Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks.
+Traveling at a Fast pace imposes [[Disadvantage]] on a traveler's Wisdom ([Perception](Compendium/rules/skills.md#Perception) or [Survival](Compendium/rules/skills.md#Survival)) and Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks.
 
 ##### Normal
 
-Traveling at a Normal pace imposes [[disadvantage-xphb]] on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks.
+Traveling at a Normal pace imposes [[Disadvantage]] on Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) checks.
 
 ##### Slow
 
-Traveling at a Slow pace grants [[advantage-xphb]] on Wisdom ([Perception](Compendium/rules/skills.md#Perception) or [Survival](Compendium/rules/skills.md#Survival)) checks.
+Traveling at a Slow pace grants [[Advantage]] on Wisdom ([Perception](Compendium/rules/skills.md#Perception) or [Survival](Compendium/rules/skills.md#Survival)) checks.
 
 #### Vehicles
 
@@ -716,14 +716,14 @@ Adventurers encounter many dangerous monsters and nefarious villains. In those m
 
 ### The Order of Combat
 
-A typical combat encounter is a clash between two sides: a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes combat into a cycle of rounds and turns. A round represents about 6 seconds in the game world. During a round, each participant in a battle takes a turn. The order of turns is determined at the beginning of combat when everyone rolls [[initiative-xphb]]. Once everyone has taken a turn, the fight continues to the next round if neither side is defeated.
+A typical combat encounter is a clash between two sides: a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes combat into a cycle of rounds and turns. A round represents about 6 seconds in the game world. During a round, each participant in a battle takes a turn. The order of turns is determined at the beginning of combat when everyone rolls [[Initiative]]. Once everyone has taken a turn, the fight continues to the next round if neither side is defeated.
 
 #### Combat Step by Step
 
 Combat unfolds in these steps:
 
 - **Establish Positions.** The Dungeon Master determines where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the DM figures out where the adversaries are—how far away and in what direction.  
-- **Roll Initiative.** Everyone involved in the combat encounter rolls [[initiative-xphb]], determining the order of combatants' turns.  
+- **Roll Initiative.** Everyone involved in the combat encounter rolls [[Initiative]], determining the order of combatants' turns.  
 - **Take Turns.** Each participant in the battle takes a turn in Initiative order. When everyone involved in the combat has had a turn, the round ends. Repeat this step until the fighting stops.  
 
 #### Initiative
@@ -732,7 +732,7 @@ Initiative determines the order of turns during combat. When combat starts, ever
 
 ##### Surprise
 
-If a combatant is surprised by combat starting, that combatant has [[disadvantage-xphb]] on their Initiative roll. For example, if an ambusher starts combat while hidden from a foe who is unaware that combat is starting, that foe is surprised.
+If a combatant is surprised by combat starting, that combatant has [[Disadvantage]] on their Initiative roll. For example, if an ambusher starts combat while hidden from a foe who is unaware that combat is starting, that foe is surprised.
 
 ##### Initiative Order
 
@@ -744,7 +744,7 @@ If a tie occurs, the DM decides the order among tied monsters, and the players d
 
 #### Your Turn
 
-On your turn, you can move a distance up to your [[speed-xphb]] and take one action. You decide whether to move first or take your action first.
+On your turn, you can move a distance up to your [[Speed]] and take one action. You decide whether to move first or take your action first.
 
 The main actions you can take are listed in ""Actions"" earlier in this chapter. A character's features and a monster's stat block also provide action options. ""Movement and Position"" later in this chapter gives the rules for movement.
 
@@ -774,13 +774,13 @@ Combat ends when one side or the other is defeated, which can mean the creatures
 
 ![Creatures occupy spaces of...](Compendium/books/players-handbook-2024/img/009-01-010-displacer-beast-combat.webp#center "Creatures occupy spaces of varying sizes. This Displacer Beast occupies a 10-by-10-foot space, while the adventurers occupy 5-by-5-foot spaces")
 
-On your turn, you can move a distance equal to your [[speed-xphb]] or less. Or you can decide not to move.
+On your turn, you can move a distance equal to your [[Speed]] or less. Or you can decide not to move.
 
-Your movement can include [[climbing-xphb]], [[crawling-xphb]], [[jumping-xphb]], and [[swimming-xphb]] (each explained in the "rules glossary"). These different modes of movement can be combined with your regular movement, or they can constitute your entire move.
+Your movement can include [[Climbing]], [[Crawling]], [[Jumping]], and [[Swimming]] (each explained in the "rules glossary"). These different modes of movement can be combined with your regular movement, or they can constitute your entire move.
 
 However you're moving with your Speed, you deduct the distance of each part of your move from it until it is used up or until you are done moving, whichever comes first.
 
-A character's Speed is determined during character creation. A monster's Speed is noted in the monster's stat block. See the "rules glossary" for more about Speed as well as about special speeds, such as a [[climb-speed-xphb]], [[fly-speed-xphb]], or [[swim-speed-xphb]].
+A character's Speed is determined during character creation. A monster's Speed is noted in the monster's stat block. See the "rules glossary" for more about Speed as well as about special speeds, such as a [[Climb Speed]], [[Fly Speed]], or [[Swim Speed]].
 
 #### Difficult Terrain
 
@@ -823,7 +823,7 @@ A character's size is determined by species, and a monster's size is specified i
 
 During your move, you can pass through the space of an ally, a creature that has the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition, a Tiny creature, or a creature that is two sizes larger or smaller than you.
 
-Another creature's space is [[difficult-terrain-xphb]] for you unless that creature is Tiny or your ally.
+Another creature's space is [[Difficult Terrain]] for you unless that creature is Tiny or your ally.
 
 You can't willingly end a move in a space occupied by another creature. If you somehow end a turn in a space with another creature, you have the [Prone](Compendium/rules/conditions.md#Prone) condition unless you are Tiny or are of a larger size than the other creature.
 
@@ -832,7 +832,7 @@ You can't willingly end a move in a space occupied by another creature. If you s
 When you take the [Attack](Compendium/rules/actions.md#Attack) action, you make an attack. Some other actions, Bonus Actions, and Reactions also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon, or make an attack roll as part of a spell, an attack has the following structure:
 
 - **Choose a Target.** Pick a target within your attack's range: a creature, an object, or a location.  
-- **Determine Modifiers.** The DM determines whether the target has [[cover-xphb]] (see the next section) and whether you have [[advantage-xphb]] or [[disadvantage-xphb]] against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.  
+- **Determine Modifiers.** The DM determines whether the target has [[cover-xphb]] (see the next section) and whether you have [[Advantage]] or [[Disadvantage]] against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.  
 - **Resolve the Attack.** Make the attack roll, as detailed earlier in this chapter. On a hit, you roll damage unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.  
 
 ### Cover
@@ -845,9 +845,9 @@ A target can benefit from cover only when an attack or other effect originates o
 
 > [!note] Unseen Attackers and Targets
 > 
-> When you make an attack roll against a target you can't see, you have [[disadvantage-xphb]] on the roll. This is true whether you're guessing the target's location or targeting a creature you can hear but not see. If the target isn't in the location you targeted, you miss.
+> When you make an attack roll against a target you can't see, you have [[Disadvantage]] on the roll. This is true whether you're guessing the target's location or targeting a creature you can hear but not see. If the target isn't in the location you targeted, you miss.
 > 
-> When a creature can't see you, you have [[advantage-xphb]] on attack rolls against it.
+> When a creature can't see you, you have [[Advantage]] on attack rolls against it.
 > 
 > If you are hidden when you make an attack roll, you give away your location when the attack hits or misses.
 ^unseen-attackers-and-targets
@@ -860,15 +860,15 @@ When you make a ranged attack, you fire a bow, hurl an axe, or otherwise send pr
 
 You can make ranged attacks only against targets within a specified range. If a ranged attack, such as one made with a spell, has a single range, you can't attack a target beyond this range.
 
-Some ranged attacks, such as those made with a [[Longbow]], have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has [[disadvantage-xphb]] when your target is beyond normal range, and you can't attack a target beyond long range.
+Some ranged attacks, such as those made with a [[Longbow]], have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has [[Disadvantage]] when your target is beyond normal range, and you can't attack a target beyond long range.
 
 #### Ranged Attacks in Close Combat
 
-Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack roll with a weapon, a spell, or some other means, you have [[disadvantage-xphb]] on the roll if you are within 5 feet of an enemy who can see you and doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack roll with a weapon, a spell, or some other means, you have [[Disadvantage]] on the roll if you are within 5 feet of an enemy who can see you and doesn't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
 
 ### Melee Attacks
 
-A melee attack allows you to attack a target within your reach. A melee attack typically uses a handheld weapon or an [[unarmed-strike-xphb]]. Many monsters make melee attacks with claws, teeth, or other body parts. A few spells also involve melee attacks.
+A melee attack allows you to attack a target within your reach. A melee attack typically uses a handheld weapon or an [[Unarmed Strike]]. Many monsters make melee attacks with claws, teeth, or other body parts. A few spells also involve melee attacks.
 
 #### Reach
 
@@ -880,11 +880,11 @@ Combatants watch for enemies to drop their guard. If you move heedlessly past yo
 
 ##### Avoiding Opportunity Attack
 
-You can avoid provoking an Opportunity Attack by taking the [Disengage](Compendium/rules/actions.md#Disengage) action. You also don't provoke an Opportunity Attack when you [[teleportation-xphb]] or when you are moved without using your movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy.
+You can avoid provoking an Opportunity Attack by taking the [Disengage](Compendium/rules/actions.md#Disengage) action. You also don't provoke an Opportunity Attack when you [[Teleportation]] or when you are moved without using your movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy.
 
 ##### Making an Opportunity Attack
 
-You can make an Opportunity Attack when a creature that you can see leaves your reach. To make the attack, take a Reaction to make one melee attack with a weapon or an [[unarmed-strike-xphb]] against that creature. The attack occurs right before it leaves your reach.
+You can make an Opportunity Attack when a creature that you can see leaves your reach. To make the attack, take a Reaction to make one melee attack with a weapon or an [[Unarmed Strike]] against that creature. The attack occurs right before it leaves your reach.
 
 ### Mounted Combat
 
@@ -894,13 +894,13 @@ A willing creature that is at least one size larger than a rider and that has an
 
 #### Mounting and Dismounting
 
-During your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your [[speed-xphb]] (round down). For example, if your Speed is 30 feet, you spend 15 feet of movement to mount a horse.
+During your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your [[Speed]] (round down). For example, if your Speed is 30 feet, you spend 15 feet of movement to mount a horse.
 
 #### Controlling a Mount
 
 You can control a mount only if it has been trained to accept a rider. Domesticated horses, mules, and similar creatures have such training.
 
-The [[initiative-xphb]] of a controlled mount changes to match yours when you mount it. It moves on your turn as you direct it, and it has only three action options during that turn: [Dash](Compendium/rules/actions.md#Dash), [Disengage](Compendium/rules/actions.md#Disengage), and [Dodge](Compendium/rules/actions.md#Dodge). A controlled mount can move and act even on the turn that you mount it.
+The [[Initiative]] of a controlled mount changes to match yours when you mount it. It moves on your turn as you direct it, and it has only three action options during that turn: [Dash](Compendium/rules/actions.md#Dash), [Disengage](Compendium/rules/actions.md#Disengage), and [Dodge](Compendium/rules/actions.md#Dodge). A controlled mount can move and act even on the turn that you mount it.
 
 In contrast, an independent mount—one that lets you ride but ignores your control—retains its place in the Initiative order and moves and acts as it likes.
 
@@ -916,7 +916,7 @@ A fight underwater follows these rules.
 
 #### Impeded Weapons
 
-When making a melee attack roll with a weapon underwater, a creature that lacks a [[swim-speed-xphb]] has [[disadvantage-xphb]] on the attack roll unless the weapon deals Piercing damage.
+When making a melee attack roll with a weapon underwater, a creature that lacks a [[Swim Speed]] has [[Disadvantage]] on the attack roll unless the weapon deals Piercing damage.
 
 A ranged attack roll with a weapon underwater automatically misses a target beyond the weapon's normal range, and the attack roll has Disadvantage against a target within normal range.
 
@@ -938,7 +938,7 @@ If you have half your Hit Points or fewer, you're Bloodied, which has no game ef
 
 > [!note] Resting
 > 
-> Adventurers can't spend every hour adventuring. They need rest. Any creature can take hour-long [[short-rest-xphb]] in the midst of a day and an 8-hour [[long-rest-xphb]] to end it. Regaining Hit Points is one of the main benefits of a rest. The "rules glossary" provides the rules for Short and Long Rests.
+> Adventurers can't spend every hour adventuring. They need rest. Any creature can take hour-long [[Short Rest]] in the midst of a day and an 8-hour [[Long Rest]] to end it. Regaining Hit Points is one of the main benefits of a rest. The "rules glossary" provides the rules for Short and Long Rests.
 ^resting
 
 ### Damage Rolls
@@ -987,7 +987,7 @@ Some creatures and objects have Immunity to certain damage types and conditions.
 
 ### Healing
 
-Hit Points can be restored by magic, such as the [[cure-wounds-xphb]] spell or a [[Potion of Healing]], or by a [[short-rest-xphb]] or [[long-rest-xphb]].
+Hit Points can be restored by magic, such as the [[cure-wounds-xphb]] spell or a [[Potion of Healing]], or by a [[Short Rest]] or [[Long Rest]].
 
 When you receive healing, add the restored Hit Points to your current Hit Points. Your Hit Points can't exceed your Hit Point maximum, so any Hit Points regained in excess of the maximum are lost. For example, if you receive 8 Hit Points of healing and have 14 Hit Points and a Hit Point maximum of 20, you regain 6 Hit Points, not 8.
 
@@ -1013,15 +1013,15 @@ When damage reduces a character to 0 Hit Points and damage remains, the characte
 
 #### Character Demise
 
-If your character dies, others might find a magical way to revive your character, such as with the [[raise-dead-xphb]] spell. Or talk with the DM about making a new character to join the group. The "rules glossary" has more information on being [[dead-xphb]].
+If your character dies, others might find a magical way to revive your character, such as with the [[raise-dead-xphb]] spell. Or talk with the DM about making a new character to join the group. The "rules glossary" has more information on being [[Dead]].
 
 #### Falling Unconscious
 
-If you reach 0 Hit Points and don't die instantly, you have the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition until you regain any Hit Points, and you now face making [[death-saving-throw-xphb]] (see below).
+If you reach 0 Hit Points and don't die instantly, you have the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition until you regain any Hit Points, and you now face making [[Death Saving Throw]] (see below).
 
 > [!note] Knocking Out a Creature
 > 
-> When you would reduce a creature to 0 Hit Points with a melee attack, you can instead reduce the creature to 1 Hit Point and give it the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition. It then starts a [[short-rest-xphb]], at the end of which that condition ends on it. The condition ends early if the creature regains any Hit Points or if someone takes an action to administer first aid to it, making a successful DC 10 Wisdom ([Medicine](Compendium/rules/skills.md#Medicine)) check.
+> When you would reduce a creature to 0 Hit Points with a melee attack, you can instead reduce the creature to 1 Hit Point and give it the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition. It then starts a [[Short Rest]], at the end of which that condition ends on it. The condition ends early if the creature regains any Hit Points or if someone takes an action to administer first aid to it, making a successful DC 10 Wisdom ([Medicine](Compendium/rules/skills.md#Medicine)) check.
 ^knocking-out-a-creature
 
 #### Death Saving Throws
@@ -1030,7 +1030,7 @@ Whenever you start your turn with 0 Hit Points, you must make a Death Saving Thr
 
 ##### Three Successes/Failures
 
-Roll `1d20`. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become [[stable-xphb]] (see "Stabilizing a Character" below). On your third failure, you die.
+Roll `1d20`. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become [[Compendium/rules/variant-rules/Stable]] (see "Stabilizing a Character" below). On your third failure, you die.
 
 The successes and failures don't need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you regain any Hit Points or become Stable.
 
@@ -1046,7 +1046,7 @@ If you take any damage while you have 0 Hit Points, you suffer a Death Saving Th
 
 You can take the [Help](Compendium/rules/actions.md#Help) action to try to stabilize a creature with 0 Hit Points, which requires a successful DC 10 Wisdom ([Medicine](Compendium/rules/skills.md#Medicine)) check.
 
-A Stable creature doesn't make [[death-saving-throw-xphb]] even though it has 0 Hit Points, but it still has the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition. If the creature takes damage, it stops being Stable and starts making [[death-saving-throw-xphb]] again. A Stable creature that isn't healed regains 1 Hit Point after `1d4` hours.
+A Stable creature doesn't make [[Death Saving Throw]] even though it has 0 Hit Points, but it still has the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition. If the creature takes damage, it stops being Stable and starts making [[Death Saving Throw]] again. A Stable creature that isn't healed regains 1 Hit Point after `1d4` hours.
 
 ### Temporary Hit Points
 
@@ -1058,7 +1058,7 @@ If you have Temporary Hit Points and take damage, those points are lost first, a
 
 #### Duration
 
-Temporary Hit Points last until they're depleted or you finish a [[long-rest-xphb]].
+Temporary Hit Points last until they're depleted or you finish a [[Long Rest]].
 
 #### Temporary Hit Points Don't Stack
 
@@ -1175,7 +1175,7 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 > [!note] (9)—Rolling Initiative
 > 
-> The next step in combat is for everyone involved to roll [[initiative-xphb]].
+> The next step in combat is for everyone involved to roll [[Initiative]].
 ^9-rolling-initiative
 
 > [!note] (10)—Taking Turns
@@ -1185,7 +1185,7 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 > [!note] (11)—Attack Rolls
 > 
-> When a creature attacks, whether swinging a sword or firing an arrow from a bow, its player makes an attack roll. If the total is equal to or higher than the target's [[armor-class-xphb]] (AC), the attack hits.
+> When a creature attacks, whether swinging a sword or firing an arrow from a bow, its player makes an attack roll. If the total is equal to or higher than the target's [[Armor Class]] (AC), the attack hits.
 ^11-attack-rolls
 
 > [!note] (12)—Spells and Reactions
@@ -1231,7 +1231,7 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 > [!note] (15)—Areas of Effect
 > 
-> Spells and many other effects in the game fill a specific area that is defined by the rules, like the 15-foot [[cube-area-of-effect-xphb]] of the [[thunderwave-xphb]] spell. See the "rules glossary" for more on areas of effect.
+> Spells and many other effects in the game fill a specific area that is defined by the rules, like the 15-foot [[Cube (Area of Effect)]] of the [[thunderwave-xphb]] spell. See the "rules glossary" for more on areas of effect.
 ^15-areas-of-effect
 
 > [!note] (16)—Saving Throws

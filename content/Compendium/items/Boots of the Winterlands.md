@@ -21,6 +21,6 @@ You have [[resistance-xphb]] to Cold damage and can tolerate temperatures of 0 d
 
 ## Winter Strider
 
-You ignore [[difficult-terrain-xphb]] created by ice or snow.
+You ignore [[Difficult Terrain]] created by ice or snow.
 
 *Source: Dungeon Master's Guide (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

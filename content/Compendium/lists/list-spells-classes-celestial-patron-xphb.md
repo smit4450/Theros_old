@@ -21,7 +21,7 @@ aliases:
 
 ## 2nd Level
 
-- [Aid](Compendium/spells/aid-xphb.md "XPHB") at class level 3
+- [Aid](Aid.md "XPHB") at class level 3
 - [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md "XPHB") at class level 3
 
 ## 3rd Level

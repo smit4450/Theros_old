@@ -49,7 +49,7 @@ Spellcasting is taxing, so a spellcaster can cast only a limited number of level
 
 When you cast a spell, you expend a slot of that spell's level or higher, effectively "filling" a slot with the spell. Imagine a spell slot is a groove of a certain size—small for a level 1 slot and larger for a higher-level spell. A level 1 spell fits into a slot of any size, but a level 2 spell fits only into a slot that's at least level 2. So when a level 3 Wizard casts [[magic-missile-xphb]], a level 1 spell, that Wizard spends one of four level 1 slots and has three remaining.
 
-Finishing a [[long-rest-xphb]] restores any expended spell slots.
+Finishing a [[Long Rest]] restores any expended spell slots.
 
 #### Casting without Slots
 
@@ -90,7 +90,7 @@ A spell that has a casting time of a Reaction is cast in response to a trigger t
 
 #### Longer Casting Times
 
-Certain spells—including a spell cast as a [[ritual-xphb]]—require more time to cast: minutes or even hours. While you cast a spell with a casting time of 1 minute or more, you must take the [Magic](Compendium/rules/actions.md#Magic) action on each of your turns, and you must maintain [Concentration](Compendium/rules/conditions.md#Concentration) while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot. To cast the spell again, you must start over.
+Certain spells—including a spell cast as a [[Ritual]]—require more time to cast: minutes or even hours. While you cast a spell with a casting time of 1 minute or more, you must take the [Magic](Compendium/rules/actions.md#Magic) action on each of your turns, and you must maintain [Concentration](Compendium/rules/conditions.md#Concentration) while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot. To cast the spell again, you must start over.
 
 ### Range
 
@@ -151,11 +151,11 @@ To target something with a spell, a caster must have a clear path to it, so it c
 
 ##### Targeting Yourself
 
-If a spell targets a creature of your choice, you can choose yourself unless the creature must be [[hostile-attitude-xphb]] or specifically a creature other than you.
+If a spell targets a creature of your choice, you can choose yourself unless the creature must be [[Hostile (Attitude)]] or specifically a creature other than you.
 
 ##### Areas of Effect
 
-Some spells, such as [[thunderwave-xphb]], cover an area called an [[area-of-effect-xphb]], which is defined in the "rules glossary". The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: [[cone-area-of-effect-xphb]], [[cube-area-of-effect-xphb]], [[cylinder-area-of-effect-xphb]], [[emanation-area-of-effect-xphb]], [[line-area-of-effect-xphb]], or [[sphere-area-of-effect-xphb]].
+Some spells, such as [[thunderwave-xphb]], cover an area called an [[Area of Effect]], which is defined in the "rules glossary". The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: [[Cone (Area of Effect)]], [[Cube (Area of Effect)]], [[Cylinder (Area of Effect)]], [[Emanation (Area of Effect)]], [[Line (Area of Effect)]], or [[Sphere (Area of Effect)]].
 
 ![](Compendium/books/players-handbook-2024/img/183-08-003-areas-of-effect.webp#center)
 
@@ -183,7 +183,7 @@ Some spells require the caster to make an attack roll to determine whether the s
 
 #### Combining Spell Effects
 
-The effects of different spells add together while their durations overlap. In contrast, the effects of the same spell cast multiple times don't combine. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap. The most recent effect applies if the castings are equally potent and their durations overlap. For example, if two Clerics cast [[bless-xphb]] on the same target, that target gains the spell's benefit only once; the target doesn't receive two bonus dice. But if the durations of the spells overlap, the effect continues until the duration of the second *Bless* ends.
+The effects of different spells add together while their durations overlap. In contrast, the effects of the same spell cast multiple times don't combine. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap. The most recent effect applies if the castings are equally potent and their durations overlap. For example, if two Clerics cast [[Bless]] on the same target, that target gains the spell's benefit only once; the target doesn't receive two bonus dice. But if the durations of the spells overlap, the effect continues until the duration of the second *Bless* ends.
 
 > [!note] Identifying an Ongoing Spell
 > 
@@ -194,80 +194,80 @@ The effects of different spells add together while their durations overlap. In c
 
 The spells are presented in alphabetical order.
 
-- [[acid-splash-xphb]]  
-- [[aid-xphb]]  
-- [[alarm-xphb]]  
-- [[alter-self-xphb]]  
-- [[animal-friendship-xphb]]  
-- [[animal-messenger-xphb]]  
-- [[animal-shapes-xphb]]  
-- [[animate-dead-xphb]]  
-- [[animate-objects-xphb]]  
-- [[antilife-shell-xphb]]  
-- [[antimagic-field-xphb]]  
-- [[antipathy-sympathy-xphb]]  
-- [[arcane-eye-xphb]]  
-- [[arcane-gate-xphb]]  
-- [[arcane-lock-xphb]]  
-- [[arcane-vigor-xphb]]  
-- [[armor-of-agathys-xphb]]  
-- [[arms-of-hadar-xphb]]  
-- [[astral-projection-xphb]]  
-- [[augury-xphb]]  
-- [[aura-of-life-xphb]]  
-- [[aura-of-purity-xphb]]  
-- [[aura-of-vitality-xphb]]  
-- [[awaken-xphb]]  
+- [[Acid Splash]]  
+- [[Aid]]  
+- [[Alarm]]  
+- [[Alter Self]]  
+- [[Animal Friendship]]  
+- [[Animal Messenger]]  
+- [[Animal Shapes]]  
+- [[Animate Dead]]  
+- [[Animate Objects]]  
+- [[Antilife Shell]]  
+- [[Antimagic Field]]  
+- [[Antipathy-Sympathy]]  
+- [[Arcane Eye]]  
+- [[Arcane Gate]]  
+- [[Arcane Lock]]  
+- [[Arcane Vigor]]  
+- [[Armor of Agathys]]  
+- [[Arms of Hadar]]  
+- [[Astral Projection]]  
+- [[Augury]]  
+- [[Aura of Life]]  
+- [[Aura of Purity]]  
+- [[Aura of Vitality]]  
+- [[Awaken]]  
 
-- [[bane-xphb]]  
-- [[banishing-smite-xphb]]  
-- [[banishment-xphb]]  
-- [[barkskin-xphb]]  
-- [[beacon-of-hope-xphb]]  
-- [[beast-sense-xphb]]  
-- [[befuddlement-xphb]]  
-- [[bestow-curse-xphb]]  
-- [[bigbys-hand-xphb]]  
-- [[blade-barrier-xphb]]  
-- [[blade-ward-xphb]]  
-- [[bless-xphb]]  
-- [[blight-xphb]]  
-- [[blinding-smite-xphb]]  
-- [[blindness-deafness-xphb]]  
-- [[blink-xphb]]  
-- [[blur-xphb]]  
-- [[burning-hands-xphb]]  
+- [[Bane]]  
+- [[Banishing Smite]]  
+- [[Banishment]]  
+- [[Barkskin]]  
+- [[Beacon of Hope]]  
+- [[Beast Sense]]  
+- [[Befuddlement]]  
+- [[Bestow Curse]]  
+- [[Bigby's Hand]]  
+- [[Blade Barrier]]  
+- [[Blade Ward]]  
+- [[Bless]]  
+- [[Blight]]  
+- [[Blinding Smite]]  
+- [[Blindness-Deafness]]  
+- [[Blink]]  
+- [[Blur]]  
+- [[Burning Hands]]  
 
-- [[call-lightning-xphb]]  
-- [[calm-emotions-xphb]]  
-- [[chain-lightning-xphb]]  
-- [[charm-monster-xphb]]  
-- [[charm-person-xphb]]  
-- [[chill-touch-xphb]]  
-- [[chromatic-orb-xphb]]  
-- [[circle-of-death-xphb]]  
-- [[circle-of-power-xphb]]  
-- [[clairvoyance-xphb]]  
-- [[clone-xphb]]  
-- [[cloud-of-daggers-xphb]]  
-- [[cloudkill-xphb]]  
-- [[color-spray-xphb]]  
-- [[command-xphb]]  
-- [[commune-xphb]]  
-- [[commune-with-nature-xphb]]  
-- [[compelled-duel-xphb]]  
-- [[comprehend-languages-xphb]]  
-- [[compulsion-xphb]]  
-- [[cone-of-cold-xphb]]  
-- [[confusion-xphb]]  
-- [[conjure-animals-xphb]]  
-- [[conjure-barrage-xphb]]  
-- [[conjure-celestial-xphb]]  
-- [[conjure-elemental-xphb]]  
-- [[conjure-fey-xphb]]  
-- [[conjure-minor-elementals-xphb]]  
-- [[conjure-volley-xphb]]  
-- [[conjure-woodland-beings-xphb]]  
+- [[Call Lightning]]  
+- [[Calm Emotions]]  
+- [[Chain Lightning]]  
+- [[Charm Monster]]  
+- [[Charm Person]]  
+- [[Chill Touch]]  
+- [[Chromatic Orb]]  
+- [[Circle of Death]]  
+- [[Circle of Power]]  
+- [[Clairvoyance]]  
+- [[Clone]]  
+- [[Cloud of Daggers]]  
+- [[Cloudkill]]  
+- [[Color Spray]]  
+- [[Command]]  
+- [[Commune]]  
+- [[Commune with Nature]]  
+- [[Compelled Duel]]  
+- [[Comprehend Languages]]  
+- [[Compulsion]]  
+- [[Cone of Cold]]  
+- [[Confusion]]  
+- [[Conjure Animals]]  
+- [[Conjure Barrage]]  
+- [[Conjure Celestial]]  
+- [[Conjure Elemental]]  
+- [[Conjure Fey]]  
+- [[Conjure Minor Elementals]]  
+- [[Conjure Volley]]  
+- [[Conjure Woodland Beings]]  
 - [[contact-other-plane-xphb]]  
 - [[contagion-xphb]]  
 - [[contingency-xphb]]  

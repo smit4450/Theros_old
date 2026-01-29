@@ -33,7 +33,7 @@ This spell channels vitality into plants. The casting time you use determines wh
 
 ## Overgrowth
 
-Choose a point within range. All normal plants in a 100-foot-radius [[sphere-area-of-effect-xphb]] centered on that point become thick and overgrown. A creature moving through that area must spend 4 feet of movement for every 1 foot it moves. You can exclude one or more areas of any size within the spell's area from being affected.
+Choose a point within range. All normal plants in a 100-foot-radius [[Sphere (Area of Effect)]] centered on that point become thick and overgrown. A creature moving through that area must spend 4 feet of movement for every 1 foot it moves. You can exclude one or more areas of any size within the spell's area from being affected.
 
 ## Enrichment
 

@@ -62,13 +62,13 @@ If the magical effect is a spell, it is too wild to be affected by your Metamagi
 
 ### Tides of Chaos (Level 3)
 
-You can manipulate chaos itself to give yourself [[advantage-xphb]] on one [[d20-test-xphb]] before you roll the `d20`. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a [[long-rest-xphb]] before you can use this feature again.
+You can manipulate chaos itself to give yourself [[Advantage]] on one [[D20 Test]] before you roll the `d20`. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a [[Long Rest]] before you can use this feature again.
 
-If you do cast a Sorcerer spell with a spell slot before you finish a [[long-rest-xphb]], you automatically roll on the [[wild-magic-surge-xphb]] table.
+If you do cast a Sorcerer spell with a spell slot before you finish a [[Long Rest]], you automatically roll on the [[wild-magic-surge-xphb]] table.
 
 ### Bend Luck (Level 6)
 
-You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the `d20` for a [[d20-test-xphb]], you can take a [[reaction-xphb]] and spend 1 Sorcery Point to roll `1d4` and apply the number rolled as a bonus or penalty (your choice) to the `d20` roll.
+You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the `d20` for a [[D20 Test]], you can take a [[Reaction]] and spend 1 Sorcery Point to roll `1d4` and apply the number rolled as a bonus or penalty (your choice) to the `d20` roll.
 
 ### Controlled Chaos (Level 14)
 
@@ -78,4 +78,4 @@ You gain a modicum of control over the surges of your wild magic. Whenever you r
 
 Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the [[wild-magic-surge-xphb]] table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.
 
-Once you use this feature, you can't do so again until you finish a [[long-rest-xphb]].
+Once you use this feature, you can't do so again until you finish a [[Long Rest]].

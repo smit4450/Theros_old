@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Blinding Smite](Compendium/spells/blinding-smite-xphb.md "XPHB")
+- [Blinding Smite](Blinding%20Smite.md "XPHB")

@@ -20,13 +20,13 @@ aliases:
 | CN | Chaotic Neutral |
 | Con. | Constitution |
 | CP | Copper Piece(s) |
-| CR | [[challenge-rating-xphb]] |
-| DC | [[difficulty-class-xphb]] |
+| CR | [[Challenge Rating]] |
+| DC | [[Difficulty Class]] |
 | Dex. | Dexterity |
 | DM | Dungeon Master |
 | EP | Electrum Piece(s) |
 | GP | Gold Piece(s) |
-| HP | [[hit-points-xphb]](s) |
+| HP | [[Hit Points]](s) |
 | Int. | Intelligence |
 | LE | Lawful Evil |
 | LG | Lawful Good |
@@ -36,12 +36,12 @@ aliases:
 | NE | Neutral Evil |
 | NG | Neutral Good |
 | NPC | Nonplayer character |
-| PB | [[proficiency-xphb]] |
+| PB | [[Proficiency]] |
 | PP | Platinum Piece(s) |
-| R | [[ritual-xphb]] |
+| R | [[Ritual]] |
 | S | Somatic component |
 | SP | Silver Piece(s) |
 | Str. | Strength |
 | V | Verbal component |
 | Wis. | Wisdom |
-| XP | [[experience-points-xphb]](s) |
+| XP | [[Experience Points]](s) |

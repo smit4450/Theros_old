@@ -19,4 +19,4 @@ You gain the following benefits.
 
 **Minor Telekinesis.** You learn the [[mage-hand-xphb]] spell. You can cast it without Verbal or Somatic components, you can make the spectral hand [Invisible](Compendium/rules/conditions.md#Invisible), and its range and the distance it can be away from you both increase by 30 feet when you cast it. The spell's spellcasting ability is the ability increased by this feat.
 
-**Telekinetic Shove.** As a [[bonus-action-xphb]], you can telekinetically shove one creature you can see within 30 feet of yourself. When you do so, the target must succeed on a Strength saving throw (DC 8 plus the ability modifier of the score increased by this feat and your [[proficiency-xphb]]) or be moved 5 feet toward or away from you.
+**Telekinetic Shove.** As a [[Bonus Action]], you can telekinetically shove one creature you can see within 30 feet of yourself. When you do so, the target must succeed on a Strength saving throw (DC 8 plus the ability modifier of the score increased by this feat and your [[Proficiency]]) or be moved 5 feet toward or away from you.

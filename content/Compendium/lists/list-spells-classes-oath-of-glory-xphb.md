@@ -26,7 +26,7 @@ aliases:
 
 ## 4th Level
 
-- [Compulsion](Compendium/spells/compulsion-xphb.md "XPHB") at class level 13
+- [Compulsion](Compulsion.md "XPHB") at class level 13
 - [Freedom of Movement](Compendium/spells/freedom-of-movement-xphb.md "XPHB") at class level 13
 
 ## 5th Level

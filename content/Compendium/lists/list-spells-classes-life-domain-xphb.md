@@ -11,12 +11,12 @@ aliases:
 
 ## 1st Level
 
-- [Bless](Compendium/spells/bless-xphb.md "XPHB") at class level 3
+- [Bless](Bless.md "XPHB") at class level 3
 - [Cure Wounds](Compendium/spells/cure-wounds-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Aid](Compendium/spells/aid-xphb.md "XPHB") at class level 3
+- [Aid](Aid.md "XPHB") at class level 3
 - [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md "XPHB") at class level 3
 
 ## 3rd Level
@@ -26,7 +26,7 @@ aliases:
 
 ## 4th Level
 
-- [Aura of Life](Compendium/spells/aura-of-life-xphb.md "XPHB") at class level 3
+- [Aura of Life](Aura%20of%20Life.md "XPHB") at class level 3
 - [Death Ward](Compendium/spells/death-ward-xphb.md "XPHB") at class level 3
 
 ## 5th Level

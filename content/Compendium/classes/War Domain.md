@@ -71,11 +71,11 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ### War Priest (Level 3)
 
-As a [[bonus-action-xphb]], you can make one attack with a weapon or an [[unarmed-strike-xphb]]. You can use this [[bonus-action-xphb]] a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[short-rest-xphb]] or [[long-rest-xphb]].
+As a [[Bonus Action]], you can make one attack with a weapon or an [[Unarmed Strike]]. You can use this [[Bonus Action]] a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [[Short Rest]] or [[Long Rest]].
 
 ### Guided Strike (Level 3)
 
-When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a [[reaction-xphb]] to do so.
+When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a [[Reaction]] to do so.
 
 ### War God's Blessing (Level 6)
 

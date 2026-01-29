@@ -11,9 +11,9 @@ aliases:
 
 ## Cantrip
 
-- [Acid Splash](Compendium/spells/acid-splash-xphb.md "XPHB")
-- [Blade Ward](Compendium/spells/blade-ward-xphb.md "XPHB")
-- [Chill Touch](Compendium/spells/chill-touch-xphb.md "XPHB")
+- [Acid Splash](Acid%20Splash.md "XPHB")
+- [Blade Ward](Blade%20Ward.md "XPHB")
+- [Chill Touch](Chill%20Touch.md "XPHB")
 - [Dancing Lights](Compendium/spells/dancing-lights-xphb.md "XPHB")
 - [Elementalism](Compendium/spells/elementalism-xphb.md "XPHB")
 - [Fire Bolt](Compendium/spells/fire-bolt-xphb.md "XPHB")
@@ -34,11 +34,11 @@ aliases:
 
 ## 1st Level
 
-- [Burning Hands](Compendium/spells/burning-hands-xphb.md "XPHB")
-- [Charm Person](Compendium/spells/charm-person-xphb.md "XPHB")
-- [Chromatic Orb](Compendium/spells/chromatic-orb-xphb.md "XPHB")
-- [Color Spray](Compendium/spells/color-spray-xphb.md "XPHB")
-- [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md "XPHB")
+- [Burning Hands](Burning%20Hands.md "XPHB")
+- [Charm Person](Charm%20Person.md "XPHB")
+- [Chromatic Orb](Chromatic%20Orb.md "XPHB")
+- [Color Spray](Color%20Spray.md "XPHB")
+- [Comprehend Languages](Comprehend%20Languages.md "XPHB")
 - [Detect Magic](Compendium/spells/detect-magic-xphb.md "XPHB")
 - [Disguise Self](Compendium/spells/disguise-self-xphb.md "XPHB")
 - [Expeditious Retreat](Compendium/spells/expeditious-retreat-xphb.md "XPHB")
@@ -60,11 +60,11 @@ aliases:
 
 ## 2nd Level
 
-- [Alter Self](Compendium/spells/alter-self-xphb.md "XPHB")
-- [Arcane Vigor](Compendium/spells/arcane-vigor-xphb.md "XPHB")
-- [Blindness/Deafness](Compendium/spells/blindness-deafness-xphb.md "XPHB")
-- [Blur](Compendium/spells/blur-xphb.md "XPHB")
-- [Cloud of Daggers](Compendium/spells/cloud-of-daggers-xphb.md "XPHB")
+- [Alter Self](Alter%20Self.md "XPHB")
+- [Arcane Vigor](Arcane%20Vigor.md "XPHB")
+- [Blindness/Deafness](Blindness-Deafness.md "XPHB")
+- [Blur](Blur.md "XPHB")
+- [Cloud of Daggers](Cloud%20of%20Daggers.md "XPHB")
 - [Crown of Madness](Compendium/spells/crown-of-madness-xphb.md "XPHB")
 - [Darkness](Compendium/spells/darkness-xphb.md "XPHB")
 - [Darkvision](Compendium/spells/darkvision-xphb.md "XPHB")
@@ -94,9 +94,9 @@ aliases:
 
 ## 3rd Level
 
-- [Blink](Compendium/spells/blink-xphb.md "XPHB")
-- [Cacophonic Shield](Compendium/spells/cacophonic-shield-frhof.md "FRHoF") (\*)
-- [Clairvoyance](Compendium/spells/clairvoyance-xphb.md "XPHB")
+- [Blink](Blink.md "XPHB")
+- [Cacophonic Shield](Cacophonic%20Shield.md "FRHoF") (\*)
+- [Clairvoyance](Clairvoyance.md "XPHB")
 - [Counterspell](Compendium/spells/counterspell-xphb.md "XPHB")
 - [Daylight](Compendium/spells/daylight-xphb.md "XPHB")
 - [Dispel Magic](Compendium/spells/dispel-magic-xphb.md "XPHB")
@@ -120,11 +120,11 @@ aliases:
 
 ## 4th Level
 
-- [Backlash](Compendium/spells/backlash-frhof.md "FRHoF") (\*)
-- [Banishment](Compendium/spells/banishment-xphb.md "XPHB")
-- [Blight](Compendium/spells/blight-xphb.md "XPHB")
-- [Charm Monster](Compendium/spells/charm-monster-xphb.md "XPHB")
-- [Confusion](Compendium/spells/confusion-xphb.md "XPHB")
+- [Backlash](Backlash.md "FRHoF") (\*)
+- [Banishment](Banishment.md "XPHB")
+- [Blight](Blight.md "XPHB")
+- [Charm Monster](Charm%20Monster.md "XPHB")
+- [Confusion](Confusion.md "XPHB")
 - [Dimension Door](Compendium/spells/dimension-door-xphb.md "XPHB")
 - [Dominate Beast](Compendium/spells/dominate-beast-xphb.md "XPHB")
 - [Fire Shield](Compendium/spells/fire-shield-xphb.md "XPHB")
@@ -138,10 +138,10 @@ aliases:
 
 ## 5th Level
 
-- [Animate Objects](Compendium/spells/animate-objects-xphb.md "XPHB")
-- [Bigby's Hand](Compendium/spells/bigbys-hand-xphb.md "XPHB")
-- [Cloudkill](Compendium/spells/cloudkill-xphb.md "XPHB")
-- [Cone of Cold](Compendium/spells/cone-of-cold-xphb.md "XPHB")
+- [Animate Objects](Animate%20Objects.md "XPHB")
+- [Bigby's Hand](Bigby's%20Hand.md "XPHB")
+- [Cloudkill](Cloudkill.md "XPHB")
+- [Cone of Cold](Cone%20of%20Cold.md "XPHB")
 - [Creation](Compendium/spells/creation-xphb.md "XPHB")
 - [Dominate Person](Compendium/spells/dominate-person-xphb.md "XPHB")
 - [Hold Monster](Compendium/spells/hold-monster-xphb.md "XPHB")
@@ -155,9 +155,9 @@ aliases:
 
 ## 6th Level
 
-- [Arcane Gate](Compendium/spells/arcane-gate-xphb.md "XPHB")
-- [Chain Lightning](Compendium/spells/chain-lightning-xphb.md "XPHB")
-- [Circle of Death](Compendium/spells/circle-of-death-xphb.md "XPHB")
+- [Arcane Gate](Arcane%20Gate.md "XPHB")
+- [Chain Lightning](Chain%20Lightning.md "XPHB")
+- [Circle of Death](Circle%20of%20Death.md "XPHB")
 - [Disintegrate](Compendium/spells/disintegrate-xphb.md "XPHB")
 - [Elminster's Effulgent Spheres](Compendium/spells/elminsters-effulgent-spheres-frhof.md "FRHoF") (\*)
 - [Eyebite](Compendium/spells/eyebite-xphb.md "XPHB")
@@ -192,7 +192,7 @@ aliases:
 
 ## 9th Level
 
-- [Blade of Disaster](Compendium/spells/blade-of-disaster-frhof.md "FRHoF") (\*)
+- [Blade of Disaster](Blade%20of%20Disaster.md "FRHoF") (\*)
 - [Gate](Compendium/spells/gate-xphb.md "XPHB")
 - [Meteor Swarm](Compendium/spells/meteor-swarm-xphb.md "XPHB")
 - [Power Word Kill](Compendium/spells/power-word-kill-xphb.md "XPHB")

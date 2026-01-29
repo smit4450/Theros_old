@@ -25,9 +25,9 @@ aliases: ["Disintegrate"]
 
 You launch a green ray at a target you can see within range. The target can be a creature, a nonmagical object, or a creation of magical force, such as the wall created by [[wall-of-force-xphb]].
 
-A creature targeted by this spell makes a Dexterity saving throw. On a failed save, the target takes `10d6 + 40` Force damage. If this damage reduces it to 0 [[hit-points-xphb]], it and everything nonmagical it is wearing and carrying are disintegrated into gray dust. The target can be revived only by a [[true-resurrection-xphb]] or a [[wish-xphb]] spell.
+A creature targeted by this spell makes a Dexterity saving throw. On a failed save, the target takes `10d6 + 40` Force damage. If this damage reduces it to 0 [[Hit Points]], it and everything nonmagical it is wearing and carrying are disintegrated into gray dust. The target can be revived only by a [[true-resurrection-xphb]] or a [[wish-xphb]] spell.
 
-This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If such a target is Huge or larger, this spell disintegrates a 10-foot-[[cube-area-of-effect-xphb]] portion of it.
+This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If such a target is Huge or larger, this spell disintegrates a 10-foot-[[Cube (Area of Effect)]] portion of it.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `3d6` for each spell slot level above 6.
 

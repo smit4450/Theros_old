@@ -19,4 +19,4 @@ You gain the following benefits.
 
 **Grave Resistance.** You have [[resistance-xphb]] to Cold damage and Necrotic damage.
 
-**Siphon Life.** When an enemy within 120 feet of you is reduced to 0 [[hit-points-xphb]], you can take a [[reaction-xphb]] to regain 50 [[hit-points-xphb]]. Once you use this benefit, you can't use it again until you finish a [[short-rest-xphb]] or [[long-rest-xphb]].
+**Siphon Life.** When an enemy within 120 feet of you is reduced to 0 [[Hit Points]], you can take a [[Reaction]] to regain 50 [[Hit Points]]. Once you use this benefit, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]].

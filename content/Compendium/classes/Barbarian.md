@@ -74,9 +74,9 @@ Barbarians often serve as protectors and leaders in their communities. They char
 
 ### Rage (Level 1)
 
-You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a [[bonus-action-xphb]] if you aren't wearing Heavy armor.
+You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a [[Bonus Action]] if you aren't wearing Heavy armor.
 
-You can enter your Rage the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a [[short-rest-xphb]], and you regain all expended uses when you finish a [[long-rest-xphb]].
+You can enter your Rage the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a [[Short Rest]], and you regain all expended uses when you finish a [[Long Rest]].
 
 While active, your Rage follows the rules below.
 
@@ -86,11 +86,11 @@ You have [[resistance-xphb]] to Bludgeoning, Piercing, and Slashing damage.
 
 #### Rage Damage
 
-When you make an attack using Strength—with either a weapon or an [[unarmed-strike-xphb]]—and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the Rage Damage column of the Barbarian Features table.
+When you make an attack using Strength—with either a weapon or an [[Unarmed Strike]]—and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the Rage Damage column of the Barbarian Features table.
 
 #### Strength Advantage
 
-You have [[advantage-xphb]] on Strength checks and Strength saving throws.
+You have [[Advantage]] on Strength checks and Strength saving throws.
 
 #### No Concentration or Spells
 
@@ -102,27 +102,27 @@ The Rage lasts until the end of your next turn, and it ends early if you don Hea
 
 - Make an attack roll against an enemy.  
 - Force an enemy to make a saving throw.  
-- Take a [[bonus-action-xphb]] to extend your Rage.  
+- Take a [[Bonus Action]] to extend your Rage.  
 
 Each time the Rage is extended, it lasts until the end of your next turn. You can maintain a Rage for up to 10 minutes.
 
 ### Unarmored Defense (Level 1)
 
-While you aren't wearing any armor, your base [[armor-class-xphb]] equals 10 plus your Dexterity and Constitution modifiers. You can use a [[Shield]] and still gain this benefit.
+While you aren't wearing any armor, your base [[Armor Class]] equals 10 plus your Dexterity and Constitution modifiers. You can use a [[Shield]] and still gain this benefit.
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [[weapon-mastery-properties-xphb]] of two kinds of Simple or Martial Melee weapons of your choice, such as [[Greataxe]] and [[Handaxe]]. Whenever you finish a [[long-rest-xphb]], you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the [[Weapon Mastery Properties]] of two kinds of Simple or Martial Melee weapons of your choice, such as [[Greataxe]] and [[Handaxe]]. Whenever you finish a [[Long Rest]], you can practice weapon drills and change one of those weapon choices.
 
-When you reach certain Barbarian levels, you gain the ability to use the [[weapon-mastery-properties-xphb]] of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
+When you reach certain Barbarian levels, you gain the ability to use the [[Weapon Mastery Properties]] of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
 
 ### Danger Sense (Level 2)
 
-You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have [[advantage-xphb]] on Dexterity saving throws unless you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
+You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have [[Advantage]] on Dexterity saving throws unless you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition.
 
 ### Reckless Attack (Level 2)
 
-You can throw aside all concern for defense to attack with increased ferocity. When you make your first attack roll on your turn, you can decide to attack recklessly. Doing so gives you [[advantage-xphb]] on attack rolls using Strength until the start of your next turn, but attack rolls against you have [[advantage-xphb]] during that time.
+You can throw aside all concern for defense to attack with increased ferocity. When you make your first attack roll on your turn, you can decide to attack recklessly. Doing so gives you [[Advantage]] on attack rolls using Strength until the start of your next turn, but attack rolls against you have [[Advantage]] during that time.
 
 ### Barbarian Subclass (Level 3)
 
@@ -152,11 +152,11 @@ You gain a feature from your Barbarian subclass.
 
 ### Feral Instinct (Level 7)
 
-Your instincts are so honed that you have [[advantage-xphb]] on [[initiative-xphb]] rolls.
+Your instincts are so honed that you have [[Advantage]] on [[Initiative]] rolls.
 
 ### Instinctive Pounce (Level 7)
 
-As part of the [[bonus-action-xphb]] you take to enter your Rage, you can move up to half your [[speed-xphb]].
+As part of the [[Bonus Action]] you take to enter your Rage, you can move up to half your [[Speed]].
 
 ### Ability Score Improvement (Level 8)
 
@@ -164,15 +164,15 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Brutal Strike (Level 9)
 
-If you use Reckless Attack, you can forgo any [[advantage-xphb]] on one Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have [[disadvantage-xphb]]. If the chosen attack roll hits, the target takes an extra `1d10` damage of the same type dealt by the weapon or [[unarmed-strike-xphb]], and you can cause one Brutal Strike effect of your choice. You have the following effect options.
+If you use Reckless Attack, you can forgo any [[Advantage]] on one Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have [[Disadvantage]]. If the chosen attack roll hits, the target takes an extra `1d10` damage of the same type dealt by the weapon or [[Unarmed Strike]], and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
 #### Forceful Blow
 
-The target is pushed 15 feet straight away from you. You can then move up to half your [[speed-xphb]] straight toward the target without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
+The target is pushed 15 feet straight away from you. You can then move up to half your [[Speed]] straight toward the target without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
 #### Hamstring Blow
 
-The target's [[speed-xphb]] is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time—the most recent one.
+The target's [[Speed]] is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time—the most recent one.
 
 ### Subclass Feature (Level 10)
 
@@ -180,9 +180,9 @@ You gain a feature from your Barbarian subclass.
 
 ### Relentless Rage (Level 11)
 
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[hit-points-xphb]] while your Rage is active and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your [[hit-points-xphb]] instead change to a number equal to twice your Barbarian level.
+Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Points]] while your Rage is active and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your [[Hit Points]] instead change to a number equal to twice your Barbarian level.
 
-Each time you use this feature after the first, the DC increases by 5. When you finish a [[short-rest-xphb]] or [[long-rest-xphb]], the DC resets to 10.
+Each time you use this feature after the first, the DC increases by 5. When you finish a [[Short Rest]] or [[Long Rest]], the DC resets to 10.
 
 ### Ability Score Improvement (Level 12)
 
@@ -194,7 +194,7 @@ You have honed new ways to attack furiously. The following effects are now among
 
 #### Staggering Blow
 
-The target has [[disadvantage-xphb]] on the next saving throw it makes, and it can't make [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) until the start of your next turn.
+The target has [[Disadvantage]] on the next saving throw it makes, and it can't make [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) until the start of your next turn.
 
 #### Sundering Blow
 
@@ -206,7 +206,7 @@ You gain a feature from your Barbarian subclass.
 
 ### Persistent Rage (Level 15)
 
-When you roll [[initiative-xphb]], you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a [[long-rest-xphb]].
+When you roll [[Initiative]], you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a [[Long Rest]].
 
 In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the [Unconscious](Compendium/rules/conditions.md#Unconscious) condition (not just the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition) or don Heavy armor.
 

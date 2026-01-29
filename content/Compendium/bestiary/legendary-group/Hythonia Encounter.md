@@ -16,7 +16,7 @@ _Source: Mythic Odysseys of Theros_
 On initiative count 20 (losing initiative ties), Hythonia can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row:
 
 - Hythonia briefly animates creatures that have been [petrified](Compendium/rules/conditions.md#Petrified) by her gaze. Each statue attacks one creature within 5 feet of it, with a +11 bonus to hit and dealing 10 (`3d6`) bludgeoning damage on a hit. If a Medium or smaller creature takes this damage, it is also [grappled](Compendium/rules/conditions.md#Grappled) (escape DC 15).  
-- Hythonia causes spectral snakes to erupt from a point she can see within 150 feet of her. Each creature within 20 feet of that point must succeed on a DC 19 Constitution saving throw or take 5 (`2d4`) piercing damage and become [poisoned](Compendium/rules/conditions.md#Poisoned) until the end of its next turn. While [poisoned](Compendium/rules/conditions.md#Poisoned) in this way, the creature has disadvantage on Intelligence checks and Intelligence saving throws, and it behaves as if under the effect of the [[confusion-xphb]] spell.  
+- Hythonia causes spectral snakes to erupt from a point she can see within 150 feet of her. Each creature within 20 feet of that point must succeed on a DC 19 Constitution saving throw or take 5 (`2d4`) piercing damage and become [poisoned](Compendium/rules/conditions.md#Poisoned) until the end of its next turn. While [poisoned](Compendium/rules/conditions.md#Poisoned) in this way, the creature has disadvantage on Intelligence checks and Intelligence saving throws, and it behaves as if under the effect of the [[Confusion]] spell.  
 
 ## Regional Effects
 _Source: Mythic Odysseys of Theros_

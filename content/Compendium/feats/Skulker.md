@@ -19,6 +19,6 @@ You gain the following benefits.
 
 **Blindsight.** You have [Blindsight](Compendium/rules/senses.md#Blindsight) with a range of 10 feet.
 
-**Fog of War.** You exploit the distractions of battle, gaining [[advantage-xphb]] on any Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) check you make as part of the [Hide](Compendium/rules/actions.md#Hide) action during combat.
+**Fog of War.** You exploit the distractions of battle, gaining [[Advantage]] on any Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) check you make as part of the [Hide](Compendium/rules/actions.md#Hide) action during combat.
 
 **Sniper.** If you make an attack roll while hidden and the roll misses, making the attack roll doesn't reveal your location.

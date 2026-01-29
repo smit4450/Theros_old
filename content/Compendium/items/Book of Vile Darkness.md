@@ -26,7 +26,7 @@ Whenever a creature that isn't a Fiend or an Undead attunes to the Book of Vile 
 
 A creature attuned to the book must spend 80 hours reading and studying it to digest its contents and use its Adjusted Ability Scores, Tireless Form, Spells, Vile Lore, and Vile Speech properties.
 
-The Book of Vile Darkness remains with you only as long as you strive to work evil in the world. If you fail to perform at least one evil act within the span of 10 days, or if you willingly perform a good act, the book disappears, your [[attunement-xphb]] to it ends immediately, and you lose all benefits granted by it. If you die while attuned to the book, an entity of great evil claims your soul. You can't be restored to life by any means while your soul remains imprisoned.
+The Book of Vile Darkness remains with you only as long as you strive to work evil in the world. If you fail to perform at least one evil act within the span of 10 days, or if you willingly perform a good act, the book disappears, your [[Attunement]] to it ends immediately, and you lose all benefits granted by it. If you die while attuned to the book, an entity of great evil claims your soul. You can't be restored to life by any means while your soul remains imprisoned.
 
 ## Adjusted Ability Scores
 
@@ -34,7 +34,7 @@ One ability score of your choice increases by 2, to a maximum of 24. Another abi
 
 ## Tireless Form
 
-While the book is on your person, you have [[immunity-xphb]] to the [Exhaustion](Compendium/rules/conditions.md#Exhaustion) condition.
+While the book is on your person, you have [[Immunity]] to the [Exhaustion](Compendium/rules/conditions.md#Exhaustion) condition.
 
 ## Random Properties
 
@@ -49,8 +49,8 @@ The Book of Vile Darkness has the following random properties:
 
 While holding the book and holding it, you can cast the following spells (save DC 18) from it:
 
-- [[animate-dead-xphb]]  
-- [[circle-of-death-xphb]]  
+- [[Animate Dead]]  
+- [[Circle of Death]]  
 - [[dominate-monster-xphb]]  
 - [[finger-of-death-xphb]]  
 
@@ -58,7 +58,7 @@ Once you use the book to cast a spell, you can't cast that spell again from it u
 
 ## Vile Lore
 
-You can reference the Book of Vile Darkness whenever you make an Intelligence check to recall information about some aspect of evil, such as lore about demons. When you do so, you have [[advantage-xphb]] on that check.
+You can reference the Book of Vile Darkness whenever you make an Intelligence check to recall information about some aspect of evil, such as lore about demons. When you do so, you have [[Advantage]] on that check.
 
 At the DM's discretion, the book might reveal secrets no mortal should know, such as the true names of powerful Fiends, foul rites that allow one to transform into a death knight or lich, or long-lost spells crafted by beings so evil their names ought never to be spoken aloud.
 

@@ -33,7 +33,7 @@ The helm has 3 charges. To cast a spell from the helm, you must expend 1 charge,
 | Mogis | [[hellish-rebuke-xphb]] |
 | Nylea | [[faerie-fire-xphb]] |
 | Pharika | [[lesser-restoration-xphb]] |
-| Phenax | [[charm-person-xphb]] |
+| Phenax | [[Charm Person]] |
 | Purphoros | [[searing-smite-xphb]] |
 | Thassa | [[identify-xphb]] |
 ^god-spell

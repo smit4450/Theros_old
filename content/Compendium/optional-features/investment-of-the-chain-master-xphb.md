@@ -17,11 +17,11 @@ When you cast [[find-familiar-xphb]], you infuse the summoned familiar with a me
 
 ## Aerial or Aquatic
 
-The familiar gains either a [[fly-speed-xphb]] or a [[swim-speed-xphb]] (your choice) of 40 feet.
+The familiar gains either a [[Fly Speed]] or a [[Swim Speed]] (your choice) of 40 feet.
 
 ## Quick Attack
 
-As a [[bonus-action-xphb]], you can command the familiar to take the [Attack](Compendium/rules/actions.md#Attack) action.
+As a [[Bonus Action]], you can command the familiar to take the [Attack](Compendium/rules/actions.md#Attack) action.
 
 ## Necrotic or Radiant Damage
 
@@ -33,4 +33,4 @@ If the familiar forces a creature to make a saving throw, it uses your spell sav
 
 ## Resistance
 
-When the familiar takes damage, you can take a [[reaction-xphb]] to grant it [[resistance-xphb]] against that damage.
+When the familiar takes damage, you can take a [[Reaction]] to grant it [[resistance-xphb]] against that damage.

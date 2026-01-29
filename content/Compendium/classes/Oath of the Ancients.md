@@ -70,7 +70,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 5th | [[misty-step-xphb]], [[moonbeam-xphb]] |
 | 9th | [[plant-growth-xphb]], [[protection-from-energy-xphb]] |
 | 13th | [[ice-storm-xphb]], [[stoneskin-xphb]] |
-| 17th | [[commune-with-nature-xphb]], [[tree-stride-xphb]] |
+| 17th | [[Commune with Nature]], [[tree-stride-xphb]] |
 ^oath-of-the-ancients-spells
 
 ### Nature's Wrath (Level 3)
@@ -83,22 +83,22 @@ Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting 
 
 ### Undying Sentinel (Level 15)
 
-When you are reduced to 0 [[hit-points-xphb]] and not killed outright, you can drop to 1 [[hit-points-xphb]] instead, and you regain a number of [[hit-points-xphb]] equal to three times your Paladin level. Once you use this feature, you can't do so again until you finish a [[long-rest-xphb]].
+When you are reduced to 0 [[Hit Points]] and not killed outright, you can drop to 1 [[Hit Points]] instead, and you regain a number of [[Hit Points]] equal to three times your Paladin level. Once you use this feature, you can't do so again until you finish a [[Long Rest]].
 
 Additionally, you can't be aged magically, and you cease visibly aging.
 
 ### Elder Champion (Level 20)
 
-As a [[bonus-action-xphb]], you can imbue your Aura of Protection with primal power, granting the benefits below for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]]. You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a [[Bonus Action]], you can imbue your Aura of Protection with primal power, granting the benefits below for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [[Long Rest]]. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 #### Diminish Defiance
 
-Enemies in the aura have [[disadvantage-xphb]] on saving throws against your spells and Channel Divinity options.
+Enemies in the aura have [[Disadvantage]] on saving throws against your spells and Channel Divinity options.
 
 #### Regeneration
 
-At the start of each of your turns, you regain 10 [[hit-points-xphb]].
+At the start of each of your turns, you regain 10 [[Hit Points]].
 
 #### Swift Spells
 
-Whenever you cast a spell that has a casting time of an action, you can cast it using a [[bonus-action-xphb]] instead.
+Whenever you cast a spell that has a casting time of an action, you can cast it using a [[Bonus Action]] instead.

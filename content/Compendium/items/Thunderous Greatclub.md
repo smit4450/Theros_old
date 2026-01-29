@@ -24,7 +24,7 @@ The weapon has the following additional properties.
 
 ## Clap of Thunder
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can strike the weapon against a hard surface to create a loud clap of thunder audible out to 300 feet. You also create a 30-foot [[cone-area-of-effect-xphb]] of thunderous energy. Each creature in the [[cone-area-of-effect-xphb]] must succeed on a DC 15 Strength saving throw or have the [Prone](Compendium/rules/conditions.md#Prone) condition. Nonmagical objects in the [[cone-area-of-effect-xphb]] that aren't being worn or carried take `3d8` Thunder damage.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can strike the weapon against a hard surface to create a loud clap of thunder audible out to 300 feet. You also create a 30-foot [[Cone (Area of Effect)]] of thunderous energy. Each creature in the [[Cone (Area of Effect)]] must succeed on a DC 15 Strength saving throw or have the [Prone](Compendium/rules/conditions.md#Prone) condition. Nonmagical objects in the [[Cone (Area of Effect)]] that aren't being worn or carried take `3d8` Thunder damage.
 
 ## Earthquake
 

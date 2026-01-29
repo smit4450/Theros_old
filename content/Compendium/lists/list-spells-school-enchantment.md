@@ -17,12 +17,12 @@ aliases:
 
 ## 1st Level
 
-- [Animal Friendship](Compendium/spells/animal-friendship-xphb.md "XPHB")
-- [Bane](Compendium/spells/bane-xphb.md "XPHB")
-- [Bless](Compendium/spells/bless-xphb.md "XPHB")
-- [Charm Person](Compendium/spells/charm-person-xphb.md "XPHB")
-- [Command](Compendium/spells/command-xphb.md "XPHB")
-- [Compelled Duel](Compendium/spells/compelled-duel-xphb.md "XPHB")
+- [Animal Friendship](Animal%20Friendship.md "XPHB")
+- [Bane](Bane.md "XPHB")
+- [Bless](Bless.md "XPHB")
+- [Charm Person](Charm%20Person.md "XPHB")
+- [Command](Command.md "XPHB")
+- [Compelled Duel](Compelled%20Duel.md "XPHB")
 - [Dissonant Whispers](Compendium/spells/dissonant-whispers-xphb.md "XPHB")
 - [Heroism](Compendium/spells/heroism-xphb.md "XPHB")
 - [Hex](Compendium/spells/hex-xphb.md "XPHB")
@@ -31,8 +31,8 @@ aliases:
 
 ## 2nd Level
 
-- [Animal Messenger](Compendium/spells/animal-messenger-xphb.md "XPHB")
-- [Calm Emotions](Compendium/spells/calm-emotions-xphb.md "XPHB")
+- [Animal Messenger](Animal%20Messenger.md "XPHB")
+- [Calm Emotions](Calm%20Emotions.md "XPHB")
 - [Crown of Madness](Compendium/spells/crown-of-madness-xphb.md "XPHB")
 - [Enthrall](Compendium/spells/enthrall-xphb.md "XPHB")
 - [Hold Person](Compendium/spells/hold-person-xphb.md "XPHB")
@@ -41,9 +41,9 @@ aliases:
 
 ## 4th Level
 
-- [Charm Monster](Compendium/spells/charm-monster-xphb.md "XPHB")
-- [Compulsion](Compendium/spells/compulsion-xphb.md "XPHB")
-- [Confusion](Compendium/spells/confusion-xphb.md "XPHB")
+- [Charm Monster](Charm%20Monster.md "XPHB")
+- [Compulsion](Compulsion.md "XPHB")
+- [Confusion](Confusion.md "XPHB")
 - [Dominate Beast](Compendium/spells/dominate-beast-xphb.md "XPHB")
 - [Staggering Smite](Compendium/spells/staggering-smite-xphb.md "XPHB")
 
@@ -68,8 +68,8 @@ aliases:
 
 ## 8th Level
 
-- [Antipathy/Sympathy](Compendium/spells/antipathy-sympathy-xphb.md "XPHB")
-- [Befuddlement](Compendium/spells/befuddlement-xphb.md "XPHB")
+- [Antipathy/Sympathy](Antipathy-Sympathy.md "XPHB")
+- [Befuddlement](Befuddlement.md "XPHB")
 - [Dominate Monster](Compendium/spells/dominate-monster-xphb.md "XPHB")
 - [Glibness](Compendium/spells/glibness-xphb.md "XPHB")
 - [Power Word Stun](Compendium/spells/power-word-stun-xphb.md "XPHB")

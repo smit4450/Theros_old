@@ -11,4 +11,4 @@ aliases:
 
 ## 9th Level
 
-- [Astral Projection](Compendium/spells/astral-projection-xphb.md "XPHB")
+- [Astral Projection](Astral%20Projection.md "XPHB")

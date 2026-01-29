@@ -919,7 +919,7 @@ Abra Saghast, a crusty and irascible dragonborn sage, serves as the head librari
 
 Abra sits behind a high desk in the main hall. Six open archways lead from the main hall to wings where the bulk of the library's books are shelved, free for visitors to peruse (but not remove from the library). The library has several sages and scribes under contract to write books, mostly detailing current affairs in the city.
 
-An iron door leads to a hallway behind the head librarian's desk. Three scribes ([[Mage]]) labor here and act as sentries, for next to their desks are three locked, iron doors to the library's vaults. [[arcane-lock-xphb]] spells seal these doors, beyond which are repositories for the library's most valuable or scandalous works. Next to each scribe's desk is a pull cord hanging through a hole in the ceiling. A tug on any one of these cords releases a homing pigeon from a loft above the library. It takes the bird 1 minute to find and alert an [[Archmage]], who teleports to the main hall of the library to investigate.
+An iron door leads to a hallway behind the head librarian's desk. Three scribes ([[Mage]]) labor here and act as sentries, for next to their desks are three locked, iron doors to the library's vaults. [[Arcane Lock]] spells seal these doors, beyond which are repositories for the library's most valuable or scandalous works. Next to each scribe's desk is a pull cord hanging through a hole in the ceiling. A tug on any one of these cords releases a homing pigeon from a loft above the library. It takes the bird 1 minute to find and alert an [[Archmage]], who teleports to the main hall of the library to investigate.
 
 ###### Character Backgrounds
 

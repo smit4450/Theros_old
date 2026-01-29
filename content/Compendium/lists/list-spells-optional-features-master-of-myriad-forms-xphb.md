@@ -11,4 +11,4 @@ aliases:
 
 ## 2nd Level
 
-- [Alter Self](Compendium/spells/alter-self-xphb.md "XPHB")
+- [Alter Self](Alter%20Self.md "XPHB")

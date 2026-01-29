@@ -28,7 +28,7 @@ aliases: ["Mordenkainen's Private Sanctum"]
 - **Components:** V, S, M (a thin sheet of lead)
 - **Duration:** 24 hours
 
-You make an area within range magically secure. The area is a [[cube-area-of-effect-xphb]] that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration.
+You make an area within range magically secure. The area is a [[Cube (Area of Effect)]] that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration.
 
 When you cast the spell, you decide what sort of security the spell provides, choosing any of the following properties:
 
@@ -41,7 +41,7 @@ When you cast the spell, you decide what sort of security the spell provides, ch
 
 Casting this spell on the same spot every day for 365 days makes the spell last until dispelled.
 
-**Using a Higher-Level Spell Slot.** You can increase the size of the [[cube-area-of-effect-xphb]] by 100 feet for each spell slot level above 4.
+**Using a Higher-Level Spell Slot.** You can increase the size of the [[Cube (Area of Effect)]] by 100 feet for each spell slot level above 4.
 
 **Classes**: [[list-spells-classes-bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](Compendium/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 

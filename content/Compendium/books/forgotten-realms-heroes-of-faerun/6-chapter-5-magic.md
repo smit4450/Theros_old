@@ -36,7 +36,7 @@ The most powerful and direct form of spellfire is spellfire sorcery. But charact
 > 
 > **Dispel Magic.** The [[dispel-magic-xphb]] spell unravels woven threads of the Weave.
 > 
-> **Antimagic.** The [[antimagic-field-xphb]] spell unravels magic woven from the Weave. While an otherwise-permanent effect is within an area of antimagic, the knots of the Weave untie, but the threads retie themselves once the magic is outside the antimagic effect.
+> **Antimagic.** The [[Antimagic Field]] spell unravels magic woven from the Weave. While an otherwise-permanent effect is within an area of antimagic, the knots of the Weave untie, but the threads retie themselves once the magic is outside the antimagic effect.
 > 
 > **Dead Magic.** In areas of dead magic, the Weave is absent. Not only do spells and magic items cease to function, but even the supernatural abilities of creatures that are innately tied to the Weave might fail as the knot of the Weave they carry with them unravels.
 > 
@@ -136,7 +136,7 @@ When you cast a spell that requires [Concentration](Compendium/rules/conditions.
 
 #### Expand
 
-When you cast a spell that creates an area of effect, you can increase one dimension of the spell's area of effect for this casting by 10 feet per secondary caster contributing to the spell. For example, if a spell creates a 20-foot-radius [[sphere-area-of-effect-xphb]], casting it as a Circle spell with two secondary casters would increase the radius to 40 feet. A spell that creates a [[line-area-of-effect-xphb]] that is 5 feet wide and 300 feet long, cast as a Circle spell with two secondary casters, could make a Line that is either 25 feet wide or 320 feet long.
+When you cast a spell that creates an area of effect, you can increase one dimension of the spell's area of effect for this casting by 10 feet per secondary caster contributing to the spell. For example, if a spell creates a 20-foot-radius [[Sphere (Area of Effect)]], casting it as a Circle spell with two secondary casters would increase the radius to 40 feet. A spell that creates a [[Line (Area of Effect)]] that is 5 feet wide and 300 feet long, cast as a Circle spell with two secondary casters, could make a Line that is either 25 feet wide or 320 feet long.
 
 Each secondary caster contributing to the spell must expend a spell slot (no action required). If the spell fails, these spell slots aren't expended.
 
@@ -155,7 +155,7 @@ Each secondary caster contributing to the spell must expend a spell slot (no act
 
 #### Safeguard
 
-When you cast a spell that creates an area of effect, you can carve out a safe zone within that area of effect that is unaffected by the spell for its duration. This safe zone consists of a number of 5-foot [[cube-area-of-effect-xphb]] equal to your spellcasting ability modifier plus the number of secondary casters contributing to the spell (minimum of one Cube). You can arrange the Cubes as you like, but each Cube must be contiguous with at least one other Cube.
+When you cast a spell that creates an area of effect, you can carve out a safe zone within that area of effect that is unaffected by the spell for its duration. This safe zone consists of a number of 5-foot [[Cube (Area of Effect)]] equal to your spellcasting ability modifier plus the number of secondary casters contributing to the spell (minimum of one Cube). You can arrange the Cubes as you like, but each Cube must be contiguous with at least one other Cube.
 
 If the spell's area of effect can be moved, the safe zone moves with it.
 
@@ -182,11 +182,11 @@ Each secondary caster contributing to the spell must expend a spell slot of a le
 
 The following spells are presented in alphabetical order.
 
-- [[alustriels-mooncloak-frhof]]  
-- [[backlash-frhof]]  
-- [[blade-of-disaster-frhof]]  
-- [[cacophonic-shield-frhof]]  
-- [[conjure-constructs-frhof]]  
+- [[Alustriel's Mooncloak]]  
+- [[Backlash]]  
+- [[Blade of Disaster]]  
+- [[Cacophonic Shield]]  
+- [[Conjure Constructs]]  
 - [[death-armor-frhof]]  
 - [[deryans-helpful-homunculi-frhof]]  
 - [[dirge-frhof]]  

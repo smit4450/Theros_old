@@ -61,30 +61,30 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | Warlock Level | Spells |
 |---------------|--------|
 | 3 | [[detect-thoughts-xphb]], [[dissonant-whispers-xphb]], [[phantasmal-force-xphb]], [[tashas-hideous-laughter-xphb]] |
-| 5 | [[clairvoyance-xphb]], [[hunger-of-hadar-xphb]] |
-| 7 | [[confusion-xphb]], [[summon-aberration-xphb]] |
+| 5 | [[Clairvoyance]], [[hunger-of-hadar-xphb]] |
+| 7 | [[Confusion]], [[summon-aberration-xphb]] |
 | 9 | [[modify-memory-xphb]], [[telekinesis-xphb]] |
 ^great-old-one-spells
 
 ### Awakened Mind (Level 3)
 
-You can form a telepathic connection between your mind and the mind of another. As a [[bonus-action-xphb]], choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.
+You can form a telepathic connection between your mind and the mind of another. As a [[Bonus Action]], choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.
 
 The telepathic connection lasts for a number of minutes equal to your Warlock level. It ends early if you use this feature to connect with a different creature.
 
 ### Psychic Spells (Level 3)
 
-When you cast a Warlock spell that deals damage, you can change its damage type to Psychic. In addition, when you cast a Warlock spell that is an Enchantment or [[illusions-xphb]], you can do so without Verbal or Somatic components.
+When you cast a Warlock spell that deals damage, you can change its damage type to Psychic. In addition, when you cast a Warlock spell that is an Enchantment or [[Illusions]], you can do so without Verbal or Somatic components.
 
 ### Clairvoyant Combatant (Level 6)
 
-When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has [[disadvantage-xphb]] on attack rolls against you, and you have [[advantage-xphb]] on attack rolls against that creature for the duration of the bond.
+When you form a telepathic bond with a creature using your Awakened Mind, you can force that creature to make a Wisdom saving throw against your spell save DC. On a failed save, the creature has [[Disadvantage]] on attack rolls against you, and you have [[Advantage]] on attack rolls against that creature for the duration of the bond.
 
-Once you use this feature, you can't use it again until you finish a [[short-rest-xphb]] or [[long-rest-xphb]] unless you expend a Pact [Magic](Compendium/rules/actions.md#Magic) spell slot (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [[Short Rest]] or [[Long Rest]] unless you expend a Pact [Magic](Compendium/rules/actions.md#Magic) spell slot (no action required) to restore your use of it.
 
 ### Eldritch Hex (Level 10)
 
-Your alien patron grants you a powerful curse. You always have the [[hex-xphb]] spell prepared. When you cast [[hex-xphb]] and choose an ability, the target also has [[disadvantage-xphb]] on saving throws of the chosen ability for the duration of the spell.
+Your alien patron grants you a powerful curse. You always have the [[hex-xphb]] spell prepared. When you cast [[hex-xphb]] and choose an ability, the target also has [[Disadvantage]] on saving throws of the chosen ability for the duration of the spell.
 
 ### Thought Shield (Level 10)
 
@@ -92,6 +92,6 @@ Your thoughts can't be read by telepathy or other means unless you allow it. You
 
 ### Create Thrall (Level 14)
 
-When you cast [[summon-aberration-xphb]], you can modify it so that it doesn't require [Concentration](Compendium/rules/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of [[temporary-hit-points-xphb]] equal to your Warlock level plus your Charisma modifier.
+When you cast [[summon-aberration-xphb]], you can modify it so that it doesn't require [Concentration](Compendium/rules/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of [[Temporary Hit Points]] equal to your Warlock level plus your Charisma modifier.
 
 In addition, the first time each turn the Aberration hits a creature under the effect of your [[hex-xphb]], the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.

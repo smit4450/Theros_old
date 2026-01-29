@@ -77,7 +77,7 @@ You have learned to channel the magical essence of nature to cast spells. See "c
 
 #### Spell Slots
 
-The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[long-rest-xphb]].
+The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
 #### Prepared Spells of Level 1+
 
@@ -89,7 +89,7 @@ If another Ranger feature gives you spells that you always have prepared, those 
 
 #### Changing Your Prepared Spells
 
-Whenever you finish a [[long-rest-xphb]], you can replace one spell on your list with another Ranger spell for which you have spell slots.
+Whenever you finish a [[Long Rest]], you can replace one spell on your list with another Ranger spell for which you have spell slots.
 
 #### Spellcasting Ability
 
@@ -97,19 +97,19 @@ Wisdom is your spellcasting ability for your Ranger spells.
 
 #### Spellcasting Focus
 
-You can use a [[Druidic Focus]] as a [[spellcasting-focus-xphb]] for your Ranger spells.
+You can use a [[Druidic Focus]] as a [[Spellcasting Focus]] for your Ranger spells.
 
 ### Favored Enemy (Level 1)
 
-You always have the [[hunters-mark-xphb]] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [[long-rest-xphb]].
+You always have the [[hunters-mark-xphb]] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [[Long Rest]].
 
 The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table.
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [[weapon-mastery-properties-xphb]] of two kinds of weapons of your choice with which you have proficiency, such as [[Longbow]] and [[Shortsword]].
+Your training with weapons allows you to use the [[Weapon Mastery Properties]] of two kinds of weapons of your choice with which you have proficiency, such as [[Longbow]] and [[Shortsword]].
 
-Whenever you finish a [[long-rest-xphb]], you can change the kinds of weapons you chose. For example, you could switch to using the [[weapon-mastery-properties-xphb]] of [[Scimitar]] and [[Longsword]].
+Whenever you finish a [[Long Rest]], you can change the kinds of weapons you chose. For example, you could switch to using the [[Weapon Mastery Properties]] of [[Scimitar]] and [[Longsword]].
 
 ### Deft Explorer (Level 2)
 
@@ -117,7 +117,7 @@ Thanks to your travels, you gain the following benefits.
 
 #### Expertise
 
-Choose one of your skill proficiencies with which you lack [[expertise-xphb]]. You gain [[expertise-xphb]] in that skill.
+Choose one of your skill proficiencies with which you lack [[Expertise]]. You gain [[Expertise]] in that skill.
 
 #### Languages
 
@@ -141,7 +141,7 @@ You can attack twice instead of once whenever you take the [Attack](Compendium/r
 
 ### Roving (Level 6)
 
-Your [[speed-xphb]] increases by 10 feet while you aren't wearing Heavy armor. You also have a [[climb-speed-xphb]] and a [[swim-speed-xphb]] equal to your [[speed-xphb]].
+Your [[Speed]] increases by 10 feet while you aren't wearing Heavy armor. You also have a [[Climb Speed]] and a [[Swim Speed]] equal to your [[Speed]].
 
 ### Subclass Feature (Level 7)
 
@@ -153,7 +153,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Expertise (Level 9)
 
-Choose two of your skill proficiencies with which you lack [[expertise-xphb]]. You gain [[expertise-xphb]] in those skills.
+Choose two of your skill proficiencies with which you lack [[Expertise]]. You gain [[Expertise]] in those skills.
 
 ### Tireless (Level 10)
 
@@ -161,11 +161,11 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 #### Temporary Hit Points
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can give yourself a number of [[temporary-hit-points-xphb]] equal to `1d8` plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb]].
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can give yourself a number of [[Temporary Hit Points]] equal to `1d8` plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
 #### Decrease Exhaustion
 
-Whenever you finish a [[short-rest-xphb]], your [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level, if any, decreases by 1.
+Whenever you finish a [[Short Rest]], your [Exhaustion](Compendium/rules/conditions.md#Exhaustion) level, if any, decreases by 1.
 
 ### Subclass Feature (Level 11)
 
@@ -181,9 +181,9 @@ Taking damage can't break your [Concentration](Compendium/rules/conditions.md#Co
 
 ### Nature's Veil (Level 14)
 
-You invoke spirits of nature to magically hide yourself. As a [[bonus-action-xphb]], you can give yourself the [Invisible](Compendium/rules/conditions.md#Invisible) condition until the end of your next turn.
+You invoke spirits of nature to magically hide yourself. As a [[Bonus Action]], you can give yourself the [Invisible](Compendium/rules/conditions.md#Invisible) condition until the end of your next turn.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb]].
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
 ### Subclass Feature (Level 15)
 
@@ -195,7 +195,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Precise Hunter (Level 17)
 
-You have [[advantage-xphb]] on attack rolls against the creature currently marked by your Hunter's Mark.
+You have [[Advantage]] on attack rolls against the creature currently marked by your Hunter's Mark.
 
 ### Feral Senses (Level 18)
 

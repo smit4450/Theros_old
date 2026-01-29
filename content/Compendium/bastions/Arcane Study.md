@@ -11,7 +11,7 @@ aliases:
 # Arcane Study
 *Level 5 Bastion facility*  
 
-- **Prerequisites**: Ability to use an [[Arcane Focus]] or tool as a [[spellcasting-focus-xphb]]
+- **Prerequisites**: Ability to use an [[Arcane Focus]] or tool as a [[Spellcasting Focus]]
 - **Space**: Roomy (16 sq)
 - **Hirelings**: 1
 - **Order**: craft

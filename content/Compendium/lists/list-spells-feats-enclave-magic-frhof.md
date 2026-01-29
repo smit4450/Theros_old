@@ -11,4 +11,4 @@ aliases:
 
 ## 2nd Level
 
-- [Beast Sense](Compendium/spells/beast-sense-xphb.md "XPHB")
+- [Beast Sense](Beast%20Sense.md "XPHB")

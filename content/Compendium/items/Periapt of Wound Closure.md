@@ -18,10 +18,10 @@ While wearing this pendant, you gain the following benefits.
 
 ## Life Preservation
 
-Whenever you make a [[death-saving-throw-xphb]], you can change a roll of 9 or lower to a 10, turning a failed save into a successful one.
+Whenever you make a [[Death Saving Throw]], you can change a roll of 9 or lower to a 10, turning a failed save into a successful one.
 
 ## Natural Healing Boost
 
-Whenever you roll a [[hit-point-dice-xphb]] to regain [[hit-points-xphb]], double the number of [[hit-points-xphb]] it restores.
+Whenever you roll a [[Hit Point Dice]] to regain [[Hit Points]], double the number of [[Hit Points]] it restores.
 
 *Source: Dungeon Master's Guide (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

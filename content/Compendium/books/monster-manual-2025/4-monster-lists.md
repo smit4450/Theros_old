@@ -10,7 +10,7 @@ aliases:
 # Monster Lists
 *Source: Monster Manual (2025), p. 374* 
 
-This appendix provides conversions for stat blocks that have changed between the 2014 "Monster Manual" and this book, as well as lists of monsters organized by habitat, creature type, group, and [[challenge-rating-xphb]].
+This appendix provides conversions for stat blocks that have changed between the 2014 "Monster Manual" and this book, as well as lists of monsters organized by habitat, creature type, group, and [[Challenge Rating]].
 
 ![](Compendium/books/monster-manual-2025/img/027-28-001-monster-story-time.webp#center)
 
@@ -632,7 +632,7 @@ The following lists present stat blocks that share descriptive tags or that are 
 
 ## Monsters by Challenge Rating
 
-The following list organizes the monster stat blocks in this book by [[challenge-rating-xphb]].
+The following list organizes the monster stat blocks in this book by [[Challenge Rating]].
 
 -     - [[awakened-shrub-xmm]]    
         - [[baboon-xmm]]    

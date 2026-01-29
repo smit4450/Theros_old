@@ -58,15 +58,15 @@ Your Rage taps into the powers of potentiality. You gain the following benefits.
 
 #### Vitality Surge
 
-When you activate your Rage, you gain a number of [[temporary-hit-points-xphb]] equal to your Barbarian level.
+When you activate your Rage, you gain a number of [[Temporary Hit Points]] equal to your Barbarian level.
 
 #### Life-Giving Force
 
-At the start of each of your turns while your Rage is active, you can choose another creature within 10 feet of yourself to gain [[temporary-hit-points-xphb]]. To determine the number of [[temporary-hit-points-xphb]], roll a number of d6s equal to your Rage Damage bonus, and add them together. If any of these [[temporary-hit-points-xphb]] remain when your Rage ends, they vanish.
+At the start of each of your turns while your Rage is active, you can choose another creature within 10 feet of yourself to gain [[Temporary Hit Points]]. To determine the number of [[Temporary Hit Points]], roll a number of d6s equal to your Rage Damage bonus, and add them together. If any of these [[Temporary Hit Points]] remain when your Rage ends, they vanish.
 
 ### Shadows of Nyx (Level 6)
 
-Whenever a creature you can see starts its turn within 30 feet of you while your Rage is active, you can take a [[reaction-xphb]] to summon spectral shadows around it. The target must succeed on a Strength saving throw (DC 8 plus your Strength modifier and [[proficiency-xphb]]) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. After the target teleports, you can reduce its [[speed-xphb]] to 0 until the end of the current turn.
+Whenever a creature you can see starts its turn within 30 feet of you while your Rage is active, you can take a [[Reaction]] to summon spectral shadows around it. The target must succeed on a Strength saving throw (DC 8 plus your Strength modifier and [[Proficiency]]) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. After the target teleports, you can reduce its [[Speed]] to 0 until the end of the current turn.
 
 ### Legendary Visage (Level 10)
 
@@ -74,6 +74,6 @@ During your turn, your reach is 10 feet greater with any Melee weapon that has t
 
 ### Travel the Plane (Level 14)
 
-When you activate your Rage and as a [[bonus-action-xphb]] while your Rage is active, you can teleport up to 60 feet to an unoccupied space you can see.
+When you activate your Rage and as a [[Bonus Action]] while your Rage is active, you can teleport up to 60 feet to an unoccupied space you can see.
 
 In addition, once per Rage, you can increase the range of that teleport to 150 feet. When you do so, you can also bring up to six willing creatures who are within 10 feet of you. Each creature teleports to an unoccupied space of your choice within 10 feet of your destination space.

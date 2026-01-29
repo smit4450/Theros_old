@@ -11,11 +11,11 @@ aliases:
 
 ## Cantrip
 
-- [Blade Ward](Compendium/spells/blade-ward-xphb.md "XPHB") at class level 3
+- [Blade Ward](Blade%20Ward.md "XPHB") at class level 3
 
 ## 1st Level
 
-- [Alarm](Compendium/spells/alarm-xphb.md "XPHB") at class level 3
+- [Alarm](Alarm.md "XPHB") at class level 3
 - [Mage Armor](Compendium/spells/mage-armor-xphb.md "XPHB") at class level 3
 - [Protection from Evil and Good](Compendium/spells/protection-from-evil-and-good-xphb.md "XPHB") at class level 3
 - [Shield](Compendium/spells/shield-xphb.md "XPHB") at class level 3
@@ -23,8 +23,8 @@ aliases:
 
 ## 2nd Level
 
-- [Arcane Lock](Compendium/spells/arcane-lock-xphb.md "XPHB") at class level 3
-- [Arcane Vigor](Compendium/spells/arcane-vigor-xphb.md "XPHB") at class level 3
+- [Arcane Lock](Arcane%20Lock.md "XPHB") at class level 3
+- [Arcane Vigor](Arcane%20Vigor.md "XPHB") at class level 3
 - [Elminster's Elusion](Compendium/spells/elminsters-elusion-frhof.md "FRHoF") at class level 3
 
 ## 3rd Level
@@ -39,15 +39,15 @@ aliases:
 
 ## 4th Level
 
-- [Backlash](Compendium/spells/backlash-frhof.md "FRHoF") at class level 3
-- [Banishment](Compendium/spells/banishment-xphb.md "XPHB") at class level 3
+- [Backlash](Backlash.md "FRHoF") at class level 3
+- [Banishment](Banishment.md "XPHB") at class level 3
 - [Mordenkainen's Private Sanctum](Compendium/spells/mordenkainens-private-sanctum-xphb.md "XPHB") at class level 3
 - [Otiluke's Resilient Sphere](Compendium/spells/otilukes-resilient-sphere-xphb.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Alustriel's Mooncloak](Compendium/spells/alustriels-mooncloak-frhof.md "FRHoF") at class level 3
-- [Circle of Power](Compendium/spells/circle-of-power-xphb.md "XPHB") at class level 3
+- [Alustriel's Mooncloak](Alustriel's%20Mooncloak.md "FRHoF") at class level 3
+- [Circle of Power](Circle%20of%20Power.md "XPHB") at class level 3
 - [Planar Binding](Compendium/spells/planar-binding-xphb.md "XPHB") at class level 3
 
 ## 6th Level
@@ -62,7 +62,7 @@ aliases:
 
 ## 8th Level
 
-- [Antimagic Field](Compendium/spells/antimagic-field-xphb.md "XPHB") at class level 3
+- [Antimagic Field](Antimagic%20Field.md "XPHB") at class level 3
 - [Mind Blank](Compendium/spells/mind-blank-xphb.md "XPHB") at class level 3
 
 ## 9th Level

@@ -32,7 +32,7 @@ You touch a dead Humanoid or a piece of one. If the creature has been dead no lo
 | 5 | [[gnome-xphb]] |
 | 6 | [[goliath-xphb]] |
 | 7 | [[halfling-xphb]] |
-| 8 | [[human-xphb]] |
+| 8 | [[Human]] |
 | 9 | [[orc-xphb]] |
 | 10 | [[tiefling-xphb]] |
 ^1-species

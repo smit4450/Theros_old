@@ -17,6 +17,6 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence or Wisdom by 1, to a maximum of 20.
 
-**Keen Observer.** Choose one of the following skills: [Insight](Compendium/rules/skills.md#Insight), [Investigation](Compendium/rules/skills.md#Investigation), or [Perception](Compendium/rules/skills.md#Perception). If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain [[expertise-xphb]] in it.
+**Keen Observer.** Choose one of the following skills: [Insight](Compendium/rules/skills.md#Insight), [Investigation](Compendium/rules/skills.md#Investigation), or [Perception](Compendium/rules/skills.md#Perception). If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain [[Expertise]] in it.
 
-**Quick Search.** You can take the [Search](Compendium/rules/actions.md#Search) action as a [[bonus-action-xphb]].
+**Quick Search.** You can take the [Search](Compendium/rules/actions.md#Search) action as a [[Bonus Action]].

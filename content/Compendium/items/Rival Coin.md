@@ -16,7 +16,7 @@ This gold coin has a creature embossed on each side. The two depicted creatures 
 
 The coin has 1 charge and regains its expended charge daily at dawn. You can take a [Magic](Compendium/rules/actions.md#Magic) action to toss the coin, expending its charge. Roll any die to determine whether the coin comes up heads (on an even number) or tails (on an odd number). The roll also determines the effect:
 
-- **Heads.** Target one creature you can see within 60 feet of yourself. The target makes a DC 13 Wisdom saving throw. On a failed save, the target takes `2d4` Psychic damage and has [[disadvantage-xphb]] on the next attack roll it makes before the end of its next turn. On a successful save, the target takes half as much damage only.  
+- **Heads.** Target one creature you can see within 60 feet of yourself. The target makes a DC 13 Wisdom saving throw. On a failed save, the target takes `2d4` Psychic damage and has [[Disadvantage]] on the next attack roll it makes before the end of its next turn. On a successful save, the target takes half as much damage only.  
 - **Tails.** You take `1d4` Psychic damage.  
 
 *Source: Dungeon Master's Guide (2024) p. 296*

@@ -39,7 +39,7 @@ You decide what triggers the glyph when you cast the spell. For glyphs inscribed
 
 You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.
 
-Once triggered, the glyph glows, filling a 60-foot-radius [[sphere-area-of-effect-xphb]] with [[dim-light-xphb]] for 10 minutes, after which time the spell ends. Each creature in the [[sphere-area-of-effect-xphb]] when the glyph activates is targeted by its effect, as is a creature that enters the [[sphere-area-of-effect-xphb]] for the first time on a turn or ends its turn there. A creature is targeted only once per turn.
+Once triggered, the glyph glows, filling a 60-foot-radius [[Sphere (Area of Effect)]] with [[Dim Light]] for 10 minutes, after which time the spell ends. Each creature in the [[Sphere (Area of Effect)]] when the glyph activates is targeted by its effect, as is a creature that enters the [[Sphere (Area of Effect)]] for the first time on a turn or ends its turn there. A creature is targeted only once per turn.
 
 ## Death
 
@@ -47,7 +47,7 @@ Each target makes a Constitution saving throw, taking `10d10` Necrotic damage on
 
 ## Discord
 
-Each target makes a Wisdom saving throw. On a failed save, a target argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has [[disadvantage-xphb]] on attack rolls and ability checks.
+Each target makes a Wisdom saving throw. On a failed save, a target argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has [[Disadvantage]] on attack rolls and ability checks.
 
 ## Fear
 

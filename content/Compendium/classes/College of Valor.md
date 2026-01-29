@@ -58,7 +58,7 @@ You can use your wit to turn the tide of battle. A creature that has a Bardic In
 
 #### Defense
 
-When the creature is hit by an attack roll, that creature can use its [[reaction-xphb]] to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, potentially causing the attack to miss.
+When the creature is hit by an attack roll, that creature can use its [[Reaction]] to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, potentially causing the attack to miss.
 
 #### Offense
 
@@ -68,7 +68,7 @@ Immediately after the creature hits a target with an attack roll, the creature c
 
 You gain proficiency with Martial weapons and training with Medium armor and [[Shield]].
 
-In addition, you can use a Simple or Martial weapon as a [[spellcasting-focus-xphb]] to cast spells from your Bard spell list.
+In addition, you can use a Simple or Martial weapon as a [[Spellcasting Focus]] to cast spells from your Bard spell list.
 
 ### Extra Attack (Level 6)
 
@@ -78,4 +78,4 @@ In addition, you can cast one of your cantrips that has a casting time of an act
 
 ### Battle Magic (Level 14)
 
-After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [[bonus-action-xphb]].
+After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [[Bonus Action]].

@@ -39,7 +39,7 @@ cssclasses:
 -  [[Sanctum]]
 -  [[Scriptorium]]
 -  [[Smithy]]
--  [[Stable]]
+-  [[Compendium/bastions/Stable]]
 -  [[Storage]]
 -  [[Storehouse]]
 -  [[Teleportation Circle]]

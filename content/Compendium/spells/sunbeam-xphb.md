@@ -29,11 +29,11 @@ aliases: ["Sunbeam"]
 - **Components:** V, S, M (a magnifying glass)
 - **Duration:** Concentration, up to 1 minute
 
-You launch a sunbeam in a 5-foot-wide, 60-foot-long [[line-area-of-effect-xphb]]. Each creature in the [[line-area-of-effect-xphb]] makes a Constitution saving throw. On a failed save, a creature takes `6d8` Radiant damage and has the [Blinded](Compendium/rules/conditions.md#Blinded) condition until the start of your next turn. On a successful save, it takes half as much damage only.
+You launch a sunbeam in a 5-foot-wide, 60-foot-long [[Line (Area of Effect)]]. Each creature in the [[Line (Area of Effect)]] makes a Constitution saving throw. On a failed save, a creature takes `6d8` Radiant damage and has the [Blinded](Compendium/rules/conditions.md#Blinded) condition until the start of your next turn. On a successful save, it takes half as much damage only.
 
-Until the spell ends, you can take a [Magic](Compendium/rules/actions.md#Magic) action to create a new [[line-area-of-effect-xphb]] of radiance.
+Until the spell ends, you can take a [Magic](Compendium/rules/actions.md#Magic) action to create a new [[Line (Area of Effect)]] of radiance.
 
-For the duration, a mote of brilliant radiance shines above you. It sheds [[bright-light-xphb]] in a 30-foot radius and [[dim-light-xphb]] for an additional 30 feet. This light is sunlight.
+For the duration, a mote of brilliant radiance shines above you. It sheds [[Bright Light]] in a 30-foot radius and [[Dim Light]] for an additional 30 feet. This light is sunlight.
 
 **Classes**: [[list-spells-classes-bard]]; [[list-spells-classes-cleric]]; [[list-spells-classes-druid]]; [[list-spells-classes-sorcerer]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 

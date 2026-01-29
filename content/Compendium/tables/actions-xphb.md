@@ -14,10 +14,10 @@ aliases:
 
 | Action | Summary |
 |--------|---------|
-| [Attack](Compendium/rules/actions.md#Attack) | Attack with a weapon or an [[unarmed-strike-xphb]]. |
-| [Dash](Compendium/rules/actions.md#Dash) | For the rest of the turn, give yourself extra movement equal to your [[speed-xphb]]. |
+| [Attack](Compendium/rules/actions.md#Attack) | Attack with a weapon or an [[Unarmed Strike]]. |
+| [Dash](Compendium/rules/actions.md#Dash) | For the rest of the turn, give yourself extra movement equal to your [[Speed]]. |
 | [Disengage](Compendium/rules/actions.md#Disengage) | Your movement doesn't provoke [Opportunity Attack](Compendium/rules/actions.md#Opportunity Attack) for the rest of the turn. |
-| [Dodge](Compendium/rules/actions.md#Dodge) | Until the start of your next turn, attack rolls against you have [[disadvantage-xphb]], and you make Dexterity saving throws with [[advantage-xphb]]. You lose this benefit if you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition or if your Speed is 0. |
+| [Dodge](Compendium/rules/actions.md#Dodge) | Until the start of your next turn, attack rolls against you have [[Disadvantage]], and you make Dexterity saving throws with [[Advantage]]. You lose this benefit if you have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition or if your Speed is 0. |
 | [Help](Compendium/rules/actions.md#Help) | Help another creature's ability check or attack roll, or administer first aid. |
 | [Hide](Compendium/rules/actions.md#Hide) | Make a Dexterity ([Stealth](Compendium/rules/skills.md#Stealth)) check. |
 | [Influence](Compendium/rules/actions.md#Influence) | Make a Charisma ([Deception](Compendium/rules/skills.md#Deception), [Intimidation](Compendium/rules/skills.md#Intimidation), [Performance](Compendium/rules/skills.md#Performance), or [Persuasion](Compendium/rules/skills.md#Persuasion)) or Wisdom ([Animal Handling](Compendium/rules/skills.md#Animal Handling)) check to alter a creature's attitude. |

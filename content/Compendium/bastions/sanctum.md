@@ -11,7 +11,7 @@ aliases:
 # Sanctum
 *Level 17 Bastion facility*  
 
-- **Prerequisites**: Ability to use a [[Holy Symbol]] or [[Druidic Focus]] as a [[spellcasting-focus-xphb]]
+- **Prerequisites**: Ability to use a [[Holy Symbol]] or [[Druidic Focus]] as a [[Spellcasting Focus]]
 - **Space**: Roomy (16 sq)
 - **Hirelings**: 4
 - **Order**: empower
@@ -24,7 +24,7 @@ After spending a Long Rest in your Bastion, you gain a magical [[sanctum-charm-x
 
 ## Empower: Fortifying Rites
 
-When you issue the "Empower" order to this facility, you inspire its hirelings to perform daily rites that benefit you or another character you name. The beneficiary doesn't need to be in the Bastion when the rites are performed to gain their benefit. Each time the beneficiary finishes a Long Rest, they gain [[temporary-hit-points-xphb]] equal to your level. This effect lasts for 7 days.
+When you issue the "Empower" order to this facility, you inspire its hirelings to perform daily rites that benefit you or another character you name. The beneficiary doesn't need to be in the Bastion when the rites are performed to gain their benefit. Each time the beneficiary finishes a Long Rest, they gain [[Temporary Hit Points]] equal to your level. This effect lasts for 7 days.
 
 ## Sanctum Recall
 

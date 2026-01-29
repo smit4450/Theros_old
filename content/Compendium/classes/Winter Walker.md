@@ -59,7 +59,7 @@ You gain the following benefits.
 #### Biting Cold
 _Source: FRHoF_
 
-[[damage-xphb]] from your weapon attacks, Ranger spells, and Ranger features ignores [[resistance-xphb]] to Cold damage.
+[[Damage]] from your weapon attacks, Ranger spells, and Ranger features ignores [[resistance-xphb]] to Cold damage.
 
 #### Frost Resistance
 _Source: FRHoF_
@@ -73,7 +73,7 @@ When you hit a creature with an attack roll using a weapon, you can deal an extr
 
 ### Hunter's Rime (Level 3)
 
-Ice rimes you and your prey, protecting you and slowing them. When you cast [[hunters-mark-xphb]], you gain [[temporary-hit-points-xphb]] equal to `1d10` plus your [[ranger-xphb]] level.
+Ice rimes you and your prey, protecting you and slowing them. When you cast [[hunters-mark-xphb]], you gain [[Temporary Hit Points]] equal to `1d10` plus your [[ranger-xphb]] level.
 
 Additionally, while a creature is marked[[Ranger|Ranger]]k-xphb]], it can't take the [Disengage](Compendium/rules/actions.md#Disengage) action.
 
@@ -87,31 +87,31 @@ When you reach a Ranger level specified in the Winter Walker Spells table, you t
 | 5 | [[hold-person-xphb]] |
 | 9 | [[remove-curse-xphb]] |
 | 13 | [[ice-storm-xphb]] |
-| 17 | [[cone-of-cold-xphb]] |
+| 17 | [[Cone of Cold]] |
 ^ranger-level-spells
 
 ### Fortifying Soul (Level 7)
 
-Your experience surviving harrowing environments allows you to bolster your allies in addition to yourself. As a Magic action, choose a number of creatures you can see equal to your Wisdom modifier (minimum of one). Each chosen creature regains [[hit-points-xphb]] equal to `1d10` plus your Ranger level and has [[advantage-xphb]] on saving throws to avoid or end the Frightened condition for 1 hour.
+Your experience surviving harrowing environments allows you to bolster your allies in addition to yourself. As a Magic action, choose a number of creatures you can see equal to your Wisdom modifier (minimum of one). Each chosen creature regains [[Hit Points]] equal to `1d10` plus your Ranger level and has [[Advantage]] on saving throws to avoid or end the Frightened condition for 1 hour.
 
-Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]].
+Once you use this feature, you can't use it again until you finish a [[Long Rest]].
 
 ### Chilling Retribution (Level 11)
 
-When a creature hits you with an attack roll, you can take a [[reaction-xphb]] to force the creature to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the Stunned condition until the end of your next turn. While the target is Stunned, its [[speed-xphb]] is reduced to 0 feet.
+When a creature hits you with an attack roll, you can take a [[Reaction]] to force the creature to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the Stunned condition until the end of your next turn. While the target is Stunned, its [[Speed]] is reduced to 0 feet.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb]].
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
 ### Frozen Haunt (Level 15)
 
-When you cast [[hunters-mark-xphb]], you can adopt a ghostly, snowy form. This form lasts until the spell ends, and while you are in this form, you gain the following benefits. Once you use this feature, you can't use it again until you finish a [[long-rest-xphb]] unless you expend a level 4+ spell slot (no action required).
+When you cast [[hunters-mark-xphb]], you can adopt a ghostly, snowy form. This form lasts until the spell ends, and while you are in this form, you gain the following benefits. Once you use this feature, you can't use it again until you finish a [[Long Rest]] unless you expend a level 4+ spell slot (no action required).
 
 #### Frozen Soul
 _Source: FRHoF_
 
-You have [[immunity-xphb]] to Cold damage. When you first adopt this form and at the start of each of your subsequent turns, each creature of your choice in a 15-foot [[emanation-area-of-effect-xphb]] originating from you takes `2d4` Cold damage.
+You have [[Immunity]] to Cold damage. When you first adopt this form and at the start of each of your subsequent turns, each creature of your choice in a 15-foot [[Emanation (Area of Effect)]] originating from you takes `2d4` Cold damage.
 
 #### Partially Incorporeal
 _Source: FRHoF_
 
-You have [[immunity-xphb]] to the [Grappled](Compendium/rules/conditions.md#Grappled), [Prone](Compendium/rules/conditions.md#Prone), and [Restrained](Compendium/rules/conditions.md#Restrained) conditions. You can move through creatures and objects as if they were [[difficult-terrain-xphb]], but you take `1d10` Force damage if you end your turn inside a creature or an object. If the form ends while you are inside a creature or an object, you are shunted to the nearest unoccupied space.
+You have [[Immunity]] to the [Grappled](Compendium/rules/conditions.md#Grappled), [Prone](Compendium/rules/conditions.md#Prone), and [Restrained](Compendium/rules/conditions.md#Restrained) conditions. You can move through creatures and objects as if they were [[Difficult Terrain]], but you take `1d10` Force damage if you end your turn inside a creature or an object. If the form ends while you are inside a creature or an object, you are shunted to the nearest unoccupied space.

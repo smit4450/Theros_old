@@ -52,7 +52,7 @@ You can increase one of your ability scores by 2, to a maximum of 22, provided y
 
 ### Comet
 ![](Compendium/decks/img/deck-of-many-things-12-comet.webp#card)
-The next time you enter combat against one or more [[hostile-attitude-xphb]] creatures, you can select one of them as your foe when you roll [[initiative-xphb]]. If you reduce your foe to 0 [[hit-points-xphb]] during that combat, you have [[advantage-xphb]] on [[death-saving-throw-xphb]] for 1 year. If someone else reduces your chosen foe to 0 [[hit-points-xphb]] or you don't choose a foe, this card has no effect.
+The next time you enter combat against one or more [[Hostile (Attitude)]] creatures, you can select one of them as your foe when you roll [[Initiative]]. If you reduce your foe to 0 [[Hit Points]] during that combat, you have [[Advantage]] on [[Death Saving Throw]] for 1 year. If someone else reduces your chosen foe to 0 [[Hit Points]] or you don't choose a foe, this card has no effect.
 
 ### Donjon
 ![](Compendium/decks/img/deck-of-many-things-17-donjon.webp#card)
@@ -72,7 +72,7 @@ A powerful devil becomes your enemy. The devil seeks your ruin and torments you,
 
 ### Fool
 ![](Compendium/decks/img/deck-of-many-things-01-fool.webp#card)
-You have [[disadvantage-xphb]] on [[d20-test-xphb]] for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
+You have [[Disadvantage]] on [[D20 Test]] for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
 
 ### Gem
 ![](Compendium/decks/img/deck-of-many-things-05-gem.webp#card)
@@ -80,7 +80,7 @@ Twenty-five pieces of jewelry worth 2,000 GP each or fifty gems worth 1,000 GP e
 
 ### Jester
 ![](Compendium/decks/img/deck-of-many-things-14-jester.webp#card)
-You have [[advantage-xphb]] on [[d20-test-xphb]] for the next 72 hours, or you can draw two additional cards beyond your declared draws.
+You have [[Advantage]] on [[D20 Test]] for the next 72 hours, or you can draw two additional cards beyond your declared draws.
 
 ### Key
 ![](Compendium/decks/img/deck-of-many-things-02-key.webp#card)
@@ -100,7 +100,7 @@ Permanently reduce your Intelligence or Wisdom by `1d4 + 1` (to a minimum score 
 
 ### Rogue
 ![](Compendium/decks/img/deck-of-many-things-06-rogue.webp#card)
-An NPC of the DM's choice becomes [[hostile-attitude-xphb]] toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [[wish-xphb]] spell or divine intervention can end the NPC's hostility toward you.
+An NPC of the DM's choice becomes [[Hostile (Attitude)]] toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [[wish-xphb]] spell or divine intervention can end the NPC's hostility toward you.
 
 ### Ruin
 ![](Compendium/decks/img/deck-of-many-things-16-ruin.webp#card)
@@ -112,7 +112,7 @@ At any time you choose within one year of drawing this card, you can ask a quest
 
 ### Skull
 ![](Compendium/decks/img/deck-of-many-things-19-skull.webp#card)
-An [[Avatar of Death]] appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 [[hit-points-xphb]] or you die. If an ally of yours deals damage to the avatar, that ally summons another Avatar of Death. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
+An [[Avatar of Death]] appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 [[Hit Points]] or you die. If an ally of yours deals damage to the avatar, that ally summons another Avatar of Death. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
 
 ### Star
 ![](Compendium/decks/img/deck-of-many-things-13-star.webp#card)
@@ -120,7 +120,7 @@ Increase one of your ability scores by 2, to a maximum of 24.
 
 ### Sun
 ![](Compendium/decks/img/deck-of-many-things-10-sun.webp#card)
-A magic item (chosen by the DM) appears on your person. In addition, you gain 10 [[temporary-hit-points-xphb]] daily at dawn until you die.
+A magic item (chosen by the DM) appears on your person. In addition, you gain 10 [[Temporary Hit Points]] daily at dawn until you die.
 
 ### Talons
 ![](Compendium/decks/img/deck-of-many-things-21-talons.webp#card)

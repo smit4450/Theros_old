@@ -39,7 +39,7 @@ You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
 
 ## Sensory Effect
 
-You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot [[cube-area-of-effect-xphb]].
+You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot [[Cube (Area of Effect)]].
 
 ## Fire Play
 

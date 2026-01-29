@@ -204,7 +204,7 @@ The characters must convince two opposing groups (or their leaders) to end the c
 
 #### Protect an NPC or Object
 
-The characters must act as bodyguards or protect some object in their custody. As a complication, an NPC under the party's protection might be cursed, panicked, unable to fight, or apt to risk the lives of the adventurers through dubious decisions. The object the adventurers have sworn to protect might be sentient, cursed, or difficult to transport. Such an encounter might be a combat encounter or an exploration encounter, with either [[hostile-attitude-xphb]] monsters or a dangerous environment threatening the NPC or object the characters are trying to protect. If the characters are protecting an NPC, this objective can add an element of social interaction to a combat or exploration encounter.
+The characters must act as bodyguards or protect some object in their custody. As a complication, an NPC under the party's protection might be cursed, panicked, unable to fight, or apt to risk the lives of the adventurers through dubious decisions. The object the adventurers have sworn to protect might be sentient, cursed, or difficult to transport. Such an encounter might be a combat encounter or an exploration encounter, with either [[Hostile (Attitude)]] monsters or a dangerous environment threatening the NPC or object the characters are trying to protect. If the characters are protecting an NPC, this objective can add an element of social interaction to a combat or exploration encounter.
 
 #### Retrieve an Object
 
@@ -212,7 +212,7 @@ The adventurers must gain possession of a specific object in the area of the enc
 
 #### Run a Gauntlet
 
-The adventurers must pass through a dangerous area. As with retrieving an object, reaching the exit is a higher priority than killing opponents in the area. A time limit adds a complication, as does a decision point that might lead characters astray. This might be an exploration encounter, with traps and hazards as complications, or a combat encounter against [[hostile-attitude-xphb]] monsters.
+The adventurers must pass through a dangerous area. As with retrieving an object, reaching the exit is a higher priority than killing opponents in the area. A time limit adds a complication, as does a decision point that might lead characters astray. This might be an exploration encounter, with traps and hazards as complications, or a combat encounter against [[Hostile (Attitude)]] monsters.
 
 #### Sneak In
 
@@ -345,7 +345,7 @@ The attitudes, motivations, and behavior of the monsters in an encounter help de
 
 #### Initial Attitudes
 
-A published adventure typically notes or implies whether a creature's initial attitude toward the adventurers is [[friendly-attitude-xphb]], [[indifferent-attitude-xphb]], or [[hostile-attitude-xphb]]. In an encounter you've created, you can decide that starting attitude, or you can randomly determine it using the Initial Attitude table.
+A published adventure typically notes or implies whether a creature's initial attitude toward the adventurers is [[Friendly (Attitude)]], [[Indifferent (Attitude)]], or [[Hostile (Attitude)]]. In an encounter you've created, you can decide that starting attitude, or you can randomly determine it using the Initial Attitude table.
 
 ![[initial-attitudes-initial-attitude-xdmg]]
 
@@ -368,7 +368,7 @@ A great way to make an adventure location feel alive—particularly an organized
 Take a copy of the adventure map, and pencil in the locations of all its inhabitants to give yourself a sense of where they're located relative to each other. When the adventurers engage in combat or any other noisy activity, assume that nearby creatures hear the noise and are alerted to the adventurers' presence. (Creatures that can't hear might be alerted by vibrations or other sensory cues.) Once alerted, a creature has several options:
 
 - **Ambush.** The creature leaves its current location and takes up a position near the adventurers' location, hoping to catch the adventurers unaware. Ambushers try to hide and, once hidden, take advantage of any opportune moment to attack.  
-- **Fortify.** The creature attempts to fortify its location by using furniture or heavy objects to block doors or entryways. Increase the DC to force open a blocked door by 3, and hastily blocked passageways are [[difficult-terrain-xphb]]. A creature with a ranged attack that selects this option seeks cover in its location.  
+- **Fortify.** The creature attempts to fortify its location by using furniture or heavy objects to block doors or entryways. Increase the DC to force open a blocked door by 3, and hastily blocked passageways are [[Difficult Terrain]]. A creature with a ranged attack that selects this option seeks cover in its location.  
 - **Hide/Flee.** If possible, the creature hides in its current location, hoping to avoid any adventurers that enter. If there is nowhere to hide, the creature flees to a location farther from the adventurers or flees to any nearby location occupied by its allies. If a fleeing creature reaches allies, those allies are immediately alerted to the presence of the adventurers; determine how those allies react.  
 - **Investigate.** The creature rushes to the sound of the disturbance to investigate, possibly joining any battle that is underway. A creature that passes near an ally while moving to investigate a disturbance might ask that ally to accompany it.  
 
@@ -609,7 +609,7 @@ In the inner cave, the troublesome [[Red Dragon Wyrmling]] rests on its little h
 - Seven gemstones worth 50 GP each  
 - [[Potion of Healing]]  
 - [[Rope of Climbing]]  
-- Two [[Spell Scroll]] ([[alarm-xphb]] and [[comprehend-languages-xphb]])  
+- Two [[Spell Scroll]] ([[Alarm]] and [[Comprehend Languages]])  
 
 If the characters defeat or drive off the dragon, each of them earns a bonus 400 XP.
 
@@ -626,7 +626,7 @@ You can use the poster map of the world of Greyhawk for this adventure; the temp
 
 ##### Stage 1
 
-Melchis hires a ship to carry the party to the Amedio Jungle. Use the map to determine how long the sea voyage takes, depending on where the adventurers begin the trip and figuring that the ship covers about 1½ hexes per day. Near the end of the trip, as the ship crosses Jeklea Bay, it's attacked by a group of [[hostile-attitude-xphb]] sahuagin, including two [[sahuagin-priest-xmm]], six [[sahuagin-warrior-xmm]], and a [[Water Elemental]]. (Assume the ship's crew stays out of the way of these terrifying monsters and lets the characters and Melchis deal with this threat.) Stage 1 ends when Melchis and the characters row a launch ashore.
+Melchis hires a ship to carry the party to the Amedio Jungle. Use the map to determine how long the sea voyage takes, depending on where the adventurers begin the trip and figuring that the ship covers about 1½ hexes per day. Near the end of the trip, as the ship crosses Jeklea Bay, it's attacked by a group of [[Hostile (Attitude)]] sahuagin, including two [[sahuagin-priest-xmm]], six [[sahuagin-warrior-xmm]], and a [[Water Elemental]]. (Assume the ship's crew stays out of the way of these terrifying monsters and lets the characters and Melchis deal with this threat.) Stage 1 ends when Melchis and the characters row a launch ashore.
 
 ##### Stage 2
 
@@ -663,11 +663,11 @@ The Horns of the Beast can be destroyed only by dropping it in the "River Oceanu
 
 The adventure plays out over three dances. During each one, the characters can decide whether they dance, mingle, watch the dancers, or engage in some other activity. (The Manor map in "Appendix B" can serve as a floor plan for the baron's palace.) Each character has the opportunity to earn renown for the party (see ""Renown"" in *chapter 3*) by making a positive impression on whomever they're interacting with—a potential Renown Score increase of 1 per character per dance. These guests pay particular attention to the characters:
 
-- Cannifer is a [[Satyr Revelmaster]] who is used to being the center of attention at every ball he attends and is thus [[hostile-attitude-xphb]] to the adventurers.  
-- Darisis a [[friendly-attitude-xphb]], fun-loving [[Dryad]] who wants to be seen dancing with all the adventurers.  
-- Fidget is a playful [[pixie-xmm]] who is [[indifferent-attitude-xphb]] and pesters the adventurers with pranks throughout the evening, without causing any actual harm.  
-- Granny Snailtongue is a [[hostile-attitude-xphb]] [[Green Hag]] who sees the adventurers as potentially useful tools. She offers to help them at every turn in hopes of putting them in her debt.  
-- Raxas Albrethin is an arrogant, Chaotic Neutral drow [[Mage]] who is initially [[hostile-attitude-xphb]] and wants to see the adventurers humiliated. However, once the characters' Renown Score reaches 6, Raxas admits he misjudged them and becomes [[friendly-attitude-xphb]].  
+- Cannifer is a [[Satyr Revelmaster]] who is used to being the center of attention at every ball he attends and is thus [[Hostile (Attitude)]] to the adventurers.  
+- Darisis a [[Friendly (Attitude)]], fun-loving [[Dryad]] who wants to be seen dancing with all the adventurers.  
+- Fidget is a playful [[pixie-xmm]] who is [[Indifferent (Attitude)]] and pesters the adventurers with pranks throughout the evening, without causing any actual harm.  
+- Granny Snailtongue is a [[Hostile (Attitude)]] [[Green Hag]] who sees the adventurers as potentially useful tools. She offers to help them at every turn in hopes of putting them in her debt.  
+- Raxas Albrethin is an arrogant, Chaotic Neutral drow [[Mage]] who is initially [[Hostile (Attitude)]] and wants to see the adventurers humiliated. However, once the characters' Renown Score reaches 6, Raxas admits he misjudged them and becomes [[Friendly (Attitude)]].  
 
 ##### Rude Interruption
 

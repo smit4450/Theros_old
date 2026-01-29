@@ -15,12 +15,12 @@ aliases:
 
 ## 1st Level
 
-- [Arms of Hadar](Compendium/spells/arms-of-hadar-xphb.md "XPHB") at class level 3
+- [Arms of Hadar](Arms%20of%20Hadar.md "XPHB") at class level 3
 - [Dissonant Whispers](Compendium/spells/dissonant-whispers-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Calm Emotions](Compendium/spells/calm-emotions-xphb.md "XPHB") at class level 3
+- [Calm Emotions](Calm%20Emotions.md "XPHB") at class level 3
 - [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md "XPHB") at class level 3
 
 ## 3rd Level

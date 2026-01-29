@@ -54,7 +54,7 @@ A mix of burglar, treasure hunter, and explorer, you are the epitome of an adven
 
 ### Fast Hands (Level 3)
 
-As a [[bonus-action-xphb]], you can do one of the following.
+As a [[Bonus Action]], you can do one of the following.
 
 #### Sleight of Hand
 
@@ -70,7 +70,7 @@ You've trained to get into especially hard-to-reach places, granting you these b
 
 #### Climber
 
-You gain a [[climb-speed-xphb]] equal to your [[speed-xphb]].
+You gain a [[Climb Speed]] equal to your [[Speed]].
 
 #### Jumper
 
@@ -102,4 +102,4 @@ You can use any [[Spell Scroll]], using Intelligence as your spellcasting abilit
 
 ### Thief's Reflexes (Level 17)
 
-You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal [[initiative-xphb]] and your second turn at your [[initiative-xphb]] minus 10.
+You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal [[Initiative]] and your second turn at your [[Initiative]] minus 10.

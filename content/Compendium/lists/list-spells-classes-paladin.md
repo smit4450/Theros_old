@@ -11,9 +11,9 @@ aliases:
 
 ## 1st Level
 
-- [Bless](Compendium/spells/bless-xphb.md "XPHB")
-- [Command](Compendium/spells/command-xphb.md "XPHB")
-- [Compelled Duel](Compendium/spells/compelled-duel-xphb.md "XPHB")
+- [Bless](Bless.md "XPHB")
+- [Command](Command.md "XPHB")
+- [Compelled Duel](Compelled%20Duel.md "XPHB")
 - [Cure Wounds](Compendium/spells/cure-wounds-xphb.md "XPHB")
 - [Detect Evil and Good](Compendium/spells/detect-evil-and-good-xphb.md "XPHB")
 - [Detect Magic](Compendium/spells/detect-magic-xphb.md "XPHB")
@@ -31,7 +31,7 @@ aliases:
 
 ## 2nd Level
 
-- [Aid](Compendium/spells/aid-xphb.md "XPHB")
+- [Aid](Aid.md "XPHB")
 - [Find Steed](Compendium/spells/find-steed-xphb.md "XPHB")
 - [Gentle Repose](Compendium/spells/gentle-repose-xphb.md "XPHB")
 - [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md "XPHB")
@@ -45,8 +45,8 @@ aliases:
 
 ## 3rd Level
 
-- [Aura of Vitality](Compendium/spells/aura-of-vitality-xphb.md "XPHB")
-- [Blinding Smite](Compendium/spells/blinding-smite-xphb.md "XPHB")
+- [Aura of Vitality](Aura%20of%20Vitality.md "XPHB")
+- [Blinding Smite](Blinding%20Smite.md "XPHB")
 - [Create Food and Water](Compendium/spells/create-food-and-water-xphb.md "XPHB")
 - [Crusader's Mantle](Compendium/spells/crusaders-mantle-xphb.md "XPHB")
 - [Daylight](Compendium/spells/daylight-xphb.md "XPHB")
@@ -58,17 +58,17 @@ aliases:
 
 ## 4th Level
 
-- [Aura of Life](Compendium/spells/aura-of-life-xphb.md "XPHB")
-- [Aura of Purity](Compendium/spells/aura-of-purity-xphb.md "XPHB")
-- [Banishment](Compendium/spells/banishment-xphb.md "XPHB")
+- [Aura of Life](Aura%20of%20Life.md "XPHB")
+- [Aura of Purity](Aura%20of%20Purity.md "XPHB")
+- [Banishment](Banishment.md "XPHB")
 - [Death Ward](Compendium/spells/death-ward-xphb.md "XPHB")
 - [Locate Creature](Compendium/spells/locate-creature-xphb.md "XPHB")
 - [Staggering Smite](Compendium/spells/staggering-smite-xphb.md "XPHB")
 
 ## 5th Level
 
-- [Banishing Smite](Compendium/spells/banishing-smite-xphb.md "XPHB")
-- [Circle of Power](Compendium/spells/circle-of-power-xphb.md "XPHB")
+- [Banishing Smite](Banishing%20Smite.md "XPHB")
+- [Circle of Power](Circle%20of%20Power.md "XPHB")
 - [Destructive Wave](Compendium/spells/destructive-wave-xphb.md "XPHB")
 - [Dispel Evil and Good](Compendium/spells/dispel-evil-and-good-xphb.md "XPHB")
 - [Geas](Compendium/spells/geas-xphb.md "XPHB")

@@ -38,13 +38,13 @@ aliases: ["Gust of Wind"]
 - **Components:** V, S, M (a legume seed)
 - **Duration:** Concentration, up to 1 minute
 
-A [[line-area-of-effect-xphb]] of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the duration. Each creature in the [[line-area-of-effect-xphb]] must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the [[line-area-of-effect-xphb]]. A creature that ends its turn in the [[line-area-of-effect-xphb]] must make the same save.
+A [[Line (Area of Effect)]] of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the duration. Each creature in the [[Line (Area of Effect)]] must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the [[Line (Area of Effect)]]. A creature that ends its turn in the [[Line (Area of Effect)]] must make the same save.
 
-Any creature in the [[line-area-of-effect-xphb]] must spend 2 feet of movement for every 1 foot it moves when moving closer to you.
+Any creature in the [[Line (Area of Effect)]] must spend 2 feet of movement for every 1 foot it moves when moving closer to you.
 
 The gust disperses gas or vapor, and it extinguishes candles and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a  chance to extinguish them.
 
-As a [[bonus-action-xphb]] on your later turns, you can change the direction in which the [[line-area-of-effect-xphb]] blasts from you.
+As a [[Bonus Action]] on your later turns, you can change the direction in which the [[Line (Area of Effect)]] blasts from you.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Druid (Circle of the Sea)](Compendium/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-druid]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-ranger]]; [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer]]; [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 

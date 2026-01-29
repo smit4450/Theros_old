@@ -20,13 +20,13 @@ The Book of Exalted Deeds rarely lingers in one place. As soon as the book is re
 
 A heavy clasp, wrought to look like angel wings, keeps the book's contents secure. Only a creature that is attuned to the book can release the clasp that holds it shut. Once the book is opened, the attuned creature must spend 80 hours reading and studying the book to digest its contents and gain its benefits.
 
-Other creatures that peruse the book's open pages can read the text but glean no deeper meaning and reap no benefits. A Fiend, an Undead, or a servant of a god from the Lower Planes that tries to read from the book takes `24d6` Radiant damage. This damage ignores [[resistance-xphb]] and [[immunity-xphb]], and it can't be reduced or avoided by any means. A creature reduced to 0 [[hit-points-xphb]] by this damage disappears in a flash and is destroyed, leaving its possessions behind. The book then vanishes, and the creature's [[attunement-xphb]] to it ends.
+Other creatures that peruse the book's open pages can read the text but glean no deeper meaning and reap no benefits. A Fiend, an Undead, or a servant of a god from the Lower Planes that tries to read from the book takes `24d6` Radiant damage. This damage ignores [[resistance-xphb]] and [[Immunity]], and it can't be reduced or avoided by any means. A creature reduced to 0 [[Hit Points]] by this damage disappears in a flash and is destroyed, leaving its possessions behind. The book then vanishes, and the creature's [[Attunement]] to it ends.
 
 Benefits granted by the Book of Exalted Deeds last only as long as you strive to do good. If you fail to perform at least one act of kindness or generosity within the span of 10 days, or if you willingly perform an evil act, you lose all the benefits granted by the book.
 
 ## Celestial Calm
 
-While attuned to the book, you have [[immunity-xphb]] to the [Charmed](Compendium/rules/conditions.md#Charmed) and [Frightened](Compendium/rules/conditions.md#Frightened) conditions and [[resistance-xphb]] to Psychic damage. These benefits become permanent after you spend the requisite amount of time reading and studying the book.
+While attuned to the book, you have [[Immunity]] to the [Charmed](Compendium/rules/conditions.md#Charmed) and [Frightened](Compendium/rules/conditions.md#Frightened) conditions and [[resistance-xphb]] to Psychic damage. These benefits become permanent after you spend the requisite amount of time reading and studying the book.
 
 ## Divine Wisdom
 
@@ -38,7 +38,7 @@ After you spend the requisite amount of time reading and studying the book, any 
 
 ## Halo
 
-After you spend the requisite amount of time reading and studying the book, you gain a protective halo. This halo sheds [[bright-light-xphb]] in a 10-foot radius and [[dim-light-xphb]] for an additional 10 feet. You can dismiss or manifest the halo as a [[bonus-action-xphb]]. While present, the halo gives you [[advantage-xphb]] on Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) checks. In addition, Fiends and Undead within the halo's [[bright-light-xphb]] make attack rolls against you with [[disadvantage-xphb]].
+After you spend the requisite amount of time reading and studying the book, you gain a protective halo. This halo sheds [[Bright Light]] in a 10-foot radius and [[Dim Light]] for an additional 10 feet. You can dismiss or manifest the halo as a [[Bonus Action]]. While present, the halo gives you [[Advantage]] on Charisma ([Persuasion](Compendium/rules/skills.md#Persuasion)) checks. In addition, Fiends and Undead within the halo's [[Bright Light]] make attack rolls against you with [[Disadvantage]].
 
 ## Random Properties
 

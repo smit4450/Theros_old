@@ -31,5 +31,5 @@ aliases:
 
 ## 5th Level
 
-- [Commune with Nature](Compendium/spells/commune-with-nature-xphb.md "XPHB") at class level 17
+- [Commune with Nature](Commune%20with%20Nature.md "XPHB") at class level 17
 - [Tree Stride](Compendium/spells/tree-stride-xphb.md "XPHB") at class level 17

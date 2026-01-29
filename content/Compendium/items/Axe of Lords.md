@@ -42,12 +42,12 @@ While attuned to the axe, you gain the following benefits:
 - **Darkvision.** You gain [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](Compendium/rules/senses.md#Darkvision), its range increases by 60 feet.  
 - **Fortitude of Stone.** Your Constitution increases by 2, to a maximum of 20.  
 - **Gifts of the Creator.** You have proficiency with [[brewers-supplies-xphb]], [[masons-tools-xphb]], and [[Smith's Tools]].  
-- **One with the Forge.** You have [[immunity-xphb]] to Poison damage and [[resistance-xphb]] to Fire damage.  
+- **One with the Forge.** You have [[Immunity]] to Poison damage and [[resistance-xphb]] to Fire damage.  
 - **Sunder.** When you hit an object with the axe, the object takes the maximum amount of damage possible.  
 
 ## Conjure Earth Elemental
 
-While holding the axe, you can take a [Magic](Compendium/rules/actions.md#Magic) action to summon an [[Earth Elemental]]. It appears in an unoccupied space you choose within 30 feet of yourself, understands your languages, obeys your commands, and takes its turn immediately after you on your [[initiative-xphb]] count. The elemental disappears after 24 hours, when it dies, or when you dismiss it as a [[bonus-action-xphb]]. You can't use this property again until the next dawn.
+While holding the axe, you can take a [Magic](Compendium/rules/actions.md#Magic) action to summon an [[Earth Elemental]]. It appears in an unoccupied space you choose within 30 feet of yourself, understands your languages, obeys your commands, and takes its turn immediately after you on your [[Initiative]] count. The elemental disappears after 24 hours, when it dies, or when you dismiss it as a [[Bonus Action]]. You can't use this property again until the next dawn.
 
 ## Random Properties
 

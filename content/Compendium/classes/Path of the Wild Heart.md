@@ -54,7 +54,7 @@ Barbarians who follow the Path of the Wild Heart view themselves as kin to anima
 
 ### Animal Speaker (Level 3)
 
-You can cast the [[beast-sense-xphb]] and [[speak-with-animals-xphb]] spells but only as Rituals. Wisdom is your spellcasting ability for them.
+You can cast the [[Beast Sense]] and [[speak-with-animals-xphb]] spells but only as Rituals. Wisdom is your spellcasting ability for them.
 
 ### Rage of the Wilds (Level 3)
 
@@ -66,15 +66,15 @@ While your Rage is active, you have [[resistance-xphb]] to every damage type exc
 
 #### Eagle
 
-When you activate your Rage, you can take the [Disengage](Compendium/rules/actions.md#Disengage) and [Dash](Compendium/rules/actions.md#Dash) actions as part of that [[bonus-action-xphb]]. While your Rage is active, you can take a [[bonus-action-xphb]] to take both of those actions.
+When you activate your Rage, you can take the [Disengage](Compendium/rules/actions.md#Disengage) and [Dash](Compendium/rules/actions.md#Dash) actions as part of that [[Bonus Action]]. While your Rage is active, you can take a [[Bonus Action]] to take both of those actions.
 
 #### Wolf
 
-While your Rage is active, your allies have [[advantage-xphb]] on attack rolls against any enemy of yours within 5 feet of you.
+While your Rage is active, your allies have [[Advantage]] on attack rolls against any enemy of yours within 5 feet of you.
 
 ### Aspect of the Wilds (Level 6)
 
-You gain one of the following options of your choice. Whenever you finish a [[long-rest-xphb]], you can change your choice.
+You gain one of the following options of your choice. Whenever you finish a [[Long Rest]], you can change your choice.
 
 #### Owl
 
@@ -82,15 +82,15 @@ You have [Darkvision](Compendium/rules/senses.md#Darkvision) with a range of 60 
 
 #### Panther
 
-You have a [[climb-speed-xphb]] equal to your [[speed-xphb]].
+You have a [[Climb Speed]] equal to your [[Speed]].
 
 #### Salmon
 
-You have a [[swim-speed-xphb]] equal to your [[speed-xphb]].
+You have a [[Swim Speed]] equal to your [[Speed]].
 
 ### Nature Speaker (Level 10)
 
-You can cast the [[commune-with-nature-xphb]] spell but only as a [[ritual-xphb]]. Wisdom is your spellcasting ability for it.
+You can cast the [[Commune with Nature]] spell but only as a [[Ritual]]. Wisdom is your spellcasting ability for it.
 
 ### Power of the Wilds (Level 14)
 
@@ -98,11 +98,11 @@ Whenever you activate your Rage, you gain one of the following options of your c
 
 #### Falcon
 
-While your Rage is active, you have a [[fly-speed-xphb]] equal to your [[speed-xphb]] if you aren't wearing any armor.
+While your Rage is active, you have a [[Fly Speed]] equal to your [[Speed]] if you aren't wearing any armor.
 
 #### Lion
 
-While your Rage is active, any of your enemies within 5 feet of you have [[disadvantage-xphb]] on attack rolls against targets other than you or another Barbarian who has this option active.
+While your Rage is active, any of your enemies within 5 feet of you have [[Disadvantage]] on attack rolls against targets other than you or another Barbarian who has this option active.
 
 #### Ram
 

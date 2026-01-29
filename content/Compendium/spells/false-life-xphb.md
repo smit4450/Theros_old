@@ -33,9 +33,9 @@ aliases: ["False Life"]
 - **Components:** V, S, M (a drop of alcohol)
 - **Duration:** Instantaneous
 
-You gain `2d4 + 4` [[temporary-hit-points-xphb]].
+You gain `2d4 + 4` [[Temporary Hit Points]].
 
-**Using a Higher-Level Spell Slot.** You gain 5 additional [[temporary-hit-points-xphb]] for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** You gain 5 additional [[Temporary Hit Points]] for each spell slot level above 1.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-sorcerer]]; [[list-spells-classes-wizard]]
 

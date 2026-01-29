@@ -79,11 +79,11 @@ When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of y
 
 #### Spell Slots
 
-The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[long-rest-xphb]].
+The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. [[burning-hands-xphb]] and [[detect-magic-xphb]] are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. [[Burning Hands]] and [[detect-magic-xphb]] are recommended.
 
 The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer Features table. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.
 
@@ -99,22 +99,22 @@ Charisma is your spellcasting ability for your Sorcerer spells.
 
 #### Spellcasting Focus
 
-You can use an [[Arcane Focus]] as a [[spellcasting-focus-xphb]] for your Sorcerer spells.
+You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Sorcerer spells.
 
 ### Innate Sorcery (Level 1)
 
-An event in your past left an indelible mark on you, infusing you with simmering magic. As a [[bonus-action-xphb]], you can unleash that magic for 1 minute, during which you gain the following benefits:
+An event in your past left an indelible mark on you, infusing you with simmering magic. As a [[Bonus Action]], you can unleash that magic for 1 minute, during which you gain the following benefits:
 
 - The spell save DC of your Sorcerer spells increases by 1.  
-- You have [[advantage-xphb]] on the attack rolls of Sorcerer spells you cast.  
+- You have [[Advantage]] on the attack rolls of Sorcerer spells you cast.  
 
-You can use this feature twice, and you regain all expended uses of it when you finish a [[long-rest-xphb]].
+You can use this feature twice, and you regain all expended uses of it when you finish a [[Long Rest]].
 
 ### Font of Magic (Level 2)
 
 You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.
 
-You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a [[long-rest-xphb]].
+You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a [[Long Rest]].
 
 You can use your Sorcery Points to fuel the options below, along with other features, such as Metamagic, that use those points.
 
@@ -124,9 +124,9 @@ You can expend a spell slot to gain a number of Sorcery Points equal to the slot
 
 #### Creating Spell Slots
 
-As a [[bonus-action-xphb]], you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.
+As a [[Bonus Action]], you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.
 
-Any spell slot you create with this feature vanishes when you finish a [[long-rest-xphb]].
+Any spell slot you create with this feature vanishes when you finish a [[Long Rest]].
 
 **Creating Spell Slots**
 
@@ -161,7 +161,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Sorcerous Restoration (Level 5)
 
-When you finish a [[short-rest-xphb]], you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can't do so again until you finish a [[long-rest-xphb]].
+When you finish a [[Short Rest]], you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can't do so again until you finish a [[Long Rest]].
 
 ### Subclass Feature (Level 6)
 
@@ -169,7 +169,7 @@ You gain a feature from your Sorcerer subclass.
 
 ### Sorcery Incarnate (Level 7)
 
-If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [[bonus-action-xphb]] to activate it.
+If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the [[Bonus Action]] to activate it.
 
 In addition, while your Innate Sorcery feature is active, you can use up to two of your [[list-optfeaturetype-mm]] on each spell you cast.
 

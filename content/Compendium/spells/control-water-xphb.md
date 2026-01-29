@@ -31,7 +31,7 @@ aliases: ["Control Water"]
 - **Components:** V, S, M (a mixture of water and dust)
 - **Duration:** Concentration, up to 10 minutes
 
-Until the spell ends, you control any water inside an area you choose that is a [[cube-area-of-effect-xphb]] up to 100 feet on a side, using one of the following effects. As a [Magic](Compendium/rules/actions.md#Magic) action on your later turns, you can repeat the same effect or choose a different one.
+Until the spell ends, you control any water inside an area you choose that is a [[Cube (Area of Effect)]] up to 100 feet on a side, using one of the following effects. As a [Magic](Compendium/rules/actions.md#Magic) action on your later turns, you can repeat the same effect or choose a different one.
 
 ## Flood
 

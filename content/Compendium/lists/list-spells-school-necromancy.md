@@ -11,7 +11,7 @@ aliases:
 
 ## Cantrip
 
-- [Chill Touch](Compendium/spells/chill-touch-xphb.md "XPHB")
+- [Chill Touch](Chill%20Touch.md "XPHB")
 - [Poison Spray](Compendium/spells/poison-spray-xphb.md "XPHB")
 - [Spare the Dying](Compendium/spells/spare-the-dying-xphb.md "XPHB")
 - [Toll the Dead](Compendium/spells/toll-the-dead-xphb.md "XPHB")
@@ -31,8 +31,8 @@ aliases:
 
 ## 3rd Level
 
-- [Animate Dead](Compendium/spells/animate-dead-xphb.md "XPHB")
-- [Bestow Curse](Compendium/spells/bestow-curse-xphb.md "XPHB")
+- [Animate Dead](Animate%20Dead.md "XPHB")
+- [Bestow Curse](Bestow%20Curse.md "XPHB")
 - [Feign Death](Compendium/spells/feign-death-xphb.md "XPHB")
 - [Revivify](Compendium/spells/revivify-xphb.md "XPHB")
 - [Speak with Dead](Compendium/spells/speak-with-dead-xphb.md "XPHB")
@@ -41,7 +41,7 @@ aliases:
 
 ## 4th Level
 
-- [Blight](Compendium/spells/blight-xphb.md "XPHB")
+- [Blight](Blight.md "XPHB")
 
 ## 5th Level
 
@@ -51,7 +51,7 @@ aliases:
 
 ## 6th Level
 
-- [Circle of Death](Compendium/spells/circle-of-death-xphb.md "XPHB")
+- [Circle of Death](Circle%20of%20Death.md "XPHB")
 - [Create Undead](Compendium/spells/create-undead-xphb.md "XPHB")
 - [Eyebite](Compendium/spells/eyebite-xphb.md "XPHB")
 - [Harm](Compendium/spells/harm-xphb.md "XPHB")
@@ -64,9 +64,9 @@ aliases:
 
 ## 8th Level
 
-- [Clone](Compendium/spells/clone-xphb.md "XPHB")
+- [Clone](Clone.md "XPHB")
 
 ## 9th Level
 
-- [Astral Projection](Compendium/spells/astral-projection-xphb.md "XPHB")
+- [Astral Projection](Astral%20Projection.md "XPHB")
 - [True Resurrection](Compendium/spells/true-resurrection-xphb.md "XPHB")

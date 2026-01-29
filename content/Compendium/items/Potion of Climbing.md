@@ -14,7 +14,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain a [[climb-speed-xphb]] equal to your [[speed-xphb]] for 1 hour. During this time, you have [[advantage-xphb]] on Strength ([Athletics](Compendium/rules/skills.md#Athletics)) checks to climb.
+When you drink this potion, you gain a [[Climb Speed]] equal to your [[Speed]] for 1 hour. During this time, you have [[Advantage]] on Strength ([Athletics](Compendium/rules/skills.md#Athletics)) checks to climb.
 
 This potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.
 

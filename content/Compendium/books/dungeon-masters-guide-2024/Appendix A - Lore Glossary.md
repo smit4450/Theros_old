@@ -50,7 +50,7 @@ Barovia *(buh-ROVE-ee-ah)* is a "Domain of Dread" sequestered in the "Shadowfell
 
 ## Bigby
 
-Bigby *(BIG-bee)* is a former apprentice of "Mordenkainen". Though he began his career determined to use magic to dominate and control others, Bigby eventually changed his ways and has worked hard to make amends for his past villainy. Mordenkainen welcomed Bigby into the adventuring company known as the Citadel of Eight (which later became the "Circle of Eight", described in "chapter 5"). Shy and soft-spoken, Bigby was often eclipsed by his mentor, who taught Bigby how to control his ambitions. After years of adventuring, Bigby crafted a handful of spells that gained him widespread renown. Of these spells, [[bigbys-hand-xphb]] is his undisputed magnum opus.
+Bigby *(BIG-bee)* is a former apprentice of "Mordenkainen". Though he began his career determined to use magic to dominate and control others, Bigby eventually changed his ways and has worked hard to make amends for his past villainy. Mordenkainen welcomed Bigby into the adventuring company known as the Citadel of Eight (which later became the "Circle of Eight", described in "chapter 5"). Shy and soft-spoken, Bigby was often eclipsed by his mentor, who taught Bigby how to control his ambitions. After years of adventuring, Bigby crafted a handful of spells that gained him widespread renown. Of these spells, [[Bigby's Hand]] is his undisputed magnum opus.
 
 A recent misadventure led to Bigby's untimely demise. After he was crushed to death by a frost giant's boulder, Bigby was the target of a [[reincarnate-xphb]] spell. The spell transformed Bigby from a human into a gnome. Before setting off on his next adventure, Bigby was overheard saying how curious he was to experience the multiverse from a gnome's perspective.
 
@@ -126,7 +126,7 @@ Gruumsh *(GROOMSH)* is a warring god who is often described as the creator or pa
 
 ## Hadar
 
-Hadar *(HAY-dar or ha-DARR)*, the Dark Hunger, is an ancient stellar entity originating from the "Far Realm" (see "chapter 6"). It appears as a cinder-red dying star, barely visible in the night sky, and it siphons life from its minions to avert its own demise. Two widely used Warlock spells invoke Hadar's power (see the [[arms-of-hadar-xphb]] and [[hunger-of-hadar-xphb]] spells in the "Player's Handbook"), and a few Warlocks claim this "Elder Evil" as their Great Old One patron.
+Hadar *(HAY-dar or ha-DARR)*, the Dark Hunger, is an ancient stellar entity originating from the "Far Realm" (see "chapter 6"). It appears as a cinder-red dying star, barely visible in the night sky, and it siphons life from its minions to avert its own demise. Two widely used Warlock spells invoke Hadar's power (see the [[Arms of Hadar]] and [[hunger-of-hadar-xphb]] spells in the "Player's Handbook"), and a few Warlocks claim this "Elder Evil" as their Great Old One patron.
 
 ## Harpers, The
 

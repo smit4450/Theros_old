@@ -54,11 +54,11 @@ You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to p
 
 ### Hunter's Prey (Level 3)
 
-You gain one of the following feature options of your choice. Whenever you finish a [[short-rest-xphb]] or [[long-rest-xphb]], you can replace the chosen option with the other one.
+You gain one of the following feature options of your choice. Whenever you finish a [[Short Rest]] or [[Long Rest]], you can replace the chosen option with the other one.
 
 #### Colossus Slayer
 
-Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra `1d8` damage to the target if it's missing any of its [[hit-points-xphb]]. You can deal this extra damage only once per turn.
+Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra `1d8` damage to the target if it's missing any of its [[Hit Points]]. You can deal this extra damage only once per turn.
 
 #### Horde Breaker
 
@@ -70,15 +70,15 @@ You can call on the forces of nature to reveal certain strengths and weaknesses 
 
 ### Defensive Tactics (Level 7)
 
-You gain one of the following feature options of your choice. Whenever you finish a [[short-rest-xphb]] or [[long-rest-xphb]], you can replace the chosen option with the other one.
+You gain one of the following feature options of your choice. Whenever you finish a [[Short Rest]] or [[Long Rest]], you can replace the chosen option with the other one.
 
 #### Escape the Horde
 
-[Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) have [[disadvantage-xphb]] against you.
+[Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) have [[Disadvantage]] against you.
 
 #### Multiattack Defense
 
-When a creature hits you with an attack roll, that creature has [[disadvantage-xphb]] on all other attack rolls against you this turn.
+When a creature hits you with an attack roll, that creature has [[Disadvantage]] on all other attack rolls against you this turn.
 
 ### Superior Hunter's Prey (Level 11)
 
@@ -86,4 +86,4 @@ Once per turn when you deal damage to a creature marked by your Hunter's Mark, y
 
 ### Superior Hunter's Defense (Level 15)
 
-When you take damage, you can take a [[reaction-xphb]] to give yourself [[resistance-xphb]] to that damage and any other damage of the same type until the end of the current turn.
+When you take damage, you can take a [[Reaction]] to give yourself [[resistance-xphb]] to that damage and any other damage of the same type until the end of the current turn.

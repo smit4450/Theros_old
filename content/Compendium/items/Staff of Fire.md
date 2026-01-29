@@ -28,7 +28,7 @@ The staff has 10 charges. While holding the staff, you can cast one of the spell
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [[burning-hands-xphb]] | 1 |
+| [[Burning Hands]] | 1 |
 | [[fireball-xphb]] | 3 |
 | [[wall-of-fire-xphb]] | 4 |
 ^spell-charge-cost

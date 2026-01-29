@@ -51,7 +51,7 @@ If you create a sound, its volume can range from a whisper to a scream. It can b
 
 ## Image
 
-If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot [[cube-area-of-effect-xphb]]. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.
+If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot [[Cube (Area of Effect)]]. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.
 
 ## Summary
 

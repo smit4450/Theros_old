@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Blink](Compendium/spells/blink-xphb.md "XPHB")
+- [Blink](Blink.md "XPHB")

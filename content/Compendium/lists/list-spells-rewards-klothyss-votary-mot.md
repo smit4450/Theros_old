@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Clairvoyance](Compendium/spells/clairvoyance-xphb.md "XPHB")
+- [Clairvoyance](Clairvoyance.md "XPHB")

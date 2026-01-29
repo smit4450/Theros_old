@@ -11,7 +11,7 @@ aliases:
 
 ## 1st Level
 
-- [Charm Person](Compendium/spells/charm-person-xphb.md "XPHB") at class level 3
+- [Charm Person](Charm%20Person.md "XPHB") at class level 3
 - [Disguise Self](Compendium/spells/disguise-self-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
@@ -26,7 +26,7 @@ aliases:
 
 ## 4th Level
 
-- [Confusion](Compendium/spells/confusion-xphb.md "XPHB") at class level 3
+- [Confusion](Confusion.md "XPHB") at class level 3
 - [Dimension Door](Compendium/spells/dimension-door-xphb.md "XPHB") at class level 3
 
 ## 5th Level

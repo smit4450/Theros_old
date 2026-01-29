@@ -14,7 +14,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [[clairvoyance-xphb]] spell (no [Concentration](Compendium/rules/conditions.md#Concentration) required).
+When you drink this potion, you gain the effect of the [[Clairvoyance]] spell (no [Concentration](Compendium/rules/conditions.md#Concentration) required).
 
 An eyeball bobs in this potion's yellowish liquid but vanishes when the potion is opened.
 

@@ -58,29 +58,29 @@ While you aren't wearing armor or wielding a [[Shield]], you gain the following 
 
 ### Dance Virtuoso (Level 3)
 
-You have [[advantage-xphb]] on any Charisma ([Performance](Compendium/rules/skills.md#Performance)) check you make that involves you dancing.
+You have [[Advantage]] on any Charisma ([Performance](Compendium/rules/skills.md#Performance)) check you make that involves you dancing.
 
 ### Unarmored Defense (Level 3)
 
-Your base [[armor-class-xphb]] equals 10 plus your Dexterity and Charisma modifiers.
+Your base [[Armor Class]] equals 10 plus your Dexterity and Charisma modifiers.
 
 ### Agile Strikes (Level 3)
 
-When you expend a use of your Bardic Inspiration as part of an action, a [[bonus-action-xphb]], or a [[reaction-xphb]], you can make one [[unarmed-strike-xphb]] as part of that action, [[bonus-action-xphb]], or [[reaction-xphb]].
+When you expend a use of your Bardic Inspiration as part of an action, a [[Bonus Action]], or a [[Reaction]], you can make one [[Unarmed Strike]] as part of that action, [[Bonus Action]], or [[Reaction]].
 
 ### Bardic Damage (Level 3)
 
-You can use Dexterity instead of Strength for the attack rolls of your Unarmed Strikes. When you deal damage with an [[unarmed-strike-xphb]], you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier, instead of the strike's normal damage. This roll doesn't expend the die.
+You can use Dexterity instead of Strength for the attack rolls of your Unarmed Strikes. When you deal damage with an [[Unarmed Strike]], you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier, instead of the strike's normal damage. This roll doesn't expend the die.
 
 ### Inspiring Movement (Level 6)
 
-When an enemy you can see ends its turn within 5 feet of you, you can take a [[reaction-xphb]] and expend one use of your Bardic Inspiration to move up to half your [[speed-xphb]]. Then one ally of your choice within 30 feet of you can also move up to half their [[speed-xphb]] using their [[reaction-xphb]].
+When an enemy you can see ends its turn within 5 feet of you, you can take a [[Reaction]] and expend one use of your Bardic Inspiration to move up to half your [[Speed]]. Then one ally of your choice within 30 feet of you can also move up to half their [[Speed]] using their [[Reaction]].
 
 None of this feature's movement provokes [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
 ### Tandem Footwork (Level 6)
 
-When you roll [[initiative-xphb]], you can expend one use of your Bardic Inspiration if you don't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 feet of you who can see or hear you gains a bonus to [[initiative-xphb]] equal to the number rolled.
+When you roll [[Initiative]], you can expend one use of your Bardic Inspiration if you don't have the [Incapacitated](Compendium/rules/conditions.md#Incapacitated) condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 feet of you who can see or hear you gains a bonus to [[Initiative]] equal to the number rolled.
 
 ### Leading Evasion (Level 14)
 

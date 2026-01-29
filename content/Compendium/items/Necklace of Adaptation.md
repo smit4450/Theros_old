@@ -14,6 +14,6 @@ aliases:
 
 - **Weight**: 1.0 lbs.
 
-While wearing this necklace, you can breathe normally in any environment, and you have [[advantage-xphb]] on saving throws made to avoid or end the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition.
+While wearing this necklace, you can breathe normally in any environment, and you have [[Advantage]] on saving throws made to avoid or end the [Poisoned](Compendium/rules/conditions.md#Poisoned) condition.
 
 *Source: Dungeon Master's Guide (2024) p. 280. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

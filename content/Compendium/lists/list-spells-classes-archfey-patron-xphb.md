@@ -16,13 +16,13 @@ aliases:
 
 ## 2nd Level
 
-- [Calm Emotions](Compendium/spells/calm-emotions-xphb.md "XPHB") at class level 5
+- [Calm Emotions](Calm%20Emotions.md "XPHB") at class level 5
 - [Misty Step](Compendium/spells/misty-step-xphb.md "XPHB") at class level 5
 - [Phantasmal Force](Compendium/spells/phantasmal-force-xphb.md "XPHB") at class level 5
 
 ## 3rd Level
 
-- [Blink](Compendium/spells/blink-xphb.md "XPHB") at class level 5
+- [Blink](Blink.md "XPHB") at class level 5
 - [Plant Growth](Compendium/spells/plant-growth-xphb.md "XPHB") at class level 5
 
 ## 4th Level

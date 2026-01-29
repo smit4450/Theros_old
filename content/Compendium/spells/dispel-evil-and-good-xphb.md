@@ -23,7 +23,7 @@ aliases: ["Dispel Evil and Good"]
 - **Components:** V, S, M (powdered silver and iron)
 - **Duration:** Concentration, up to 1 minute
 
-For the duration, Celestials, Elementals, Fey, Fiends, and Undead have [[disadvantage-xphb]] on attack rolls against you. You can end the spell early by using either of the following special functions.
+For the duration, Celestials, Elementals, Fey, Fiends, and Undead have [[Disadvantage]] on attack rolls against you. You can end the spell early by using either of the following special functions.
 
 ## Break Enchantment
 

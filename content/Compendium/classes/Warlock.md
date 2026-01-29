@@ -99,13 +99,13 @@ When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of you
 
 #### Spell Slots
 
-The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a [[short-rest-xphb]] or [[long-rest-xphb]].
+The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a [[Short Rest]] or [[Long Rest]].
 
 For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [[witch-bolt-xphb]], you must spend one of those slots, and you cast it as a level 3 spell.
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. [[charm-person-xphb]] and [[hex-xphb]] are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. [[Charm Person]] and [[hex-xphb]] are recommended.
 
 The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1–3.
 
@@ -121,7 +121,7 @@ Charisma is the spellcasting ability for your Warlock spells.
 
 #### Spellcasting Focus
 
-You can use an [[Arcane Focus]] as a [[spellcasting-focus-xphb]] for your Warlock spells.
+You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Warlock spells.
 
 ### Eldritch Invocation Options (Level 1)
 
@@ -129,7 +129,7 @@ Eldritch Invocation options appear in alphabetical order.
 
 ### Magical Cunning (Level 2)
 
-You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a [[long-rest-xphb]].
+You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a [[Long Rest]].
 
 ### Warlock Subclass (Level 3)
 
@@ -151,7 +151,7 @@ You gain the  [[Ability Score Improvement]] Feat or another feat of your choice 
 
 In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the [[contact-other-plane-xphb]] spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell's saving throw.
 
-Once you cast the spell with this feature, you can't do so in this way again until you finish a [[long-rest-xphb]].
+Once you cast the spell with this feature, you can't do so in this way again until you finish a [[Long Rest]].
 
 ### Subclass Feature (Level 10)
 
@@ -161,9 +161,9 @@ You gain a feature from your Warlock subclass.
 
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
 
-You can cast your arcanum spell once without expending a spell slot, and you must finish a [[long-rest-xphb]] before you can cast it in this way again.
+You can cast your arcanum spell once without expending a spell slot, and you must finish a [[Long Rest]] before you can cast it in this way again.
 
-As shown in the Warlock Features table, you gain another Warlock spell of your choice that can be cast in this way when you reach Warlock levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a [[long-rest-xphb]].
+As shown in the Warlock Features table, you gain another Warlock spell of your choice that can be cast in this way when you reach Warlock levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a [[Long Rest]].
 
 Whenever you gain a Warlock level, you can replace one of your arcanum spells with another Warlock spell of the same level.
 

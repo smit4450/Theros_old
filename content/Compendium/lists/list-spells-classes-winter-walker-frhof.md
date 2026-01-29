@@ -27,4 +27,4 @@ aliases:
 
 ## 5th Level
 
-- [Cone of Cold](Compendium/spells/cone-of-cold-xphb.md "XPHB") at class level 17
+- [Cone of Cold](Cone%20of%20Cold.md "XPHB") at class level 17

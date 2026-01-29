@@ -30,13 +30,13 @@ aliases: ["Leomund's Tiny Hut"]
 - **Components:** V, S, M (a crystal bead)
 - **Duration:** 8 hours
 
-A 10-foot [[emanation-area-of-effect-xphb]] springs into existence around you and remains stationary for the duration. The spell fails when you cast it if the [[emanation-area-of-effect-xphb]] isn't big enough to fully encapsulate all creatures in its area.
+A 10-foot [[Emanation (Area of Effect)]] springs into existence around you and remains stationary for the duration. The spell fails when you cast it if the [[Emanation (Area of Effect)]] isn't big enough to fully encapsulate all creatures in its area.
 
-Creatures and objects within the [[emanation-area-of-effect-xphb]] when you cast the spell can move through it freely. All other creatures and objects are barred from passing through it. Spells of level 3 or lower can't be cast through it, and the effects of such spells can't extend into it.
+Creatures and objects within the [[Emanation (Area of Effect)]] when you cast the spell can move through it freely. All other creatures and objects are barred from passing through it. Spells of level 3 or lower can't be cast through it, and the effects of such spells can't extend into it.
 
-The atmosphere inside the [[emanation-area-of-effect-xphb]] is comfortable and dry, regardless of the weather outside. Until the spell ends, you can command the interior to have [[dim-light-xphb]] or [[darkness-xphb]] (no action required). The [[emanation-area-of-effect-xphb]] is opaque from the outside and of any color you choose, but it's transparent from the inside.
+The atmosphere inside the [[Emanation (Area of Effect)]] is comfortable and dry, regardless of the weather outside. Until the spell ends, you can command the interior to have [[Dim Light]] or [[darkness-xphb]] (no action required). The [[Emanation (Area of Effect)]] is opaque from the outside and of any color you choose, but it's transparent from the inside.
 
-The spell ends early if you leave the [[emanation-area-of-effect-xphb]] or if you cast it again.
+The spell ends early if you leave the [[Emanation (Area of Effect)]] or if you cast it again.
 
 **Classes**: [Bard (College of Lore)](Compendium/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-bard]]; [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Evoker)](Compendium/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [[list-spells-classes-wizard]]
 

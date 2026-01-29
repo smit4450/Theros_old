@@ -20,15 +20,15 @@ aliases:
 
 Hidden in the dungeon of White Plume Mountain, Blackrazor shines like a piece of night sky filled with stars. Its black scabbard is decorated with pieces of cut obsidian.
 
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. If you hit an Undead with this weapon, you take `1d10` Necrotic damage, and the target regains `1d10` [[hit-points-xphb]]. If this Necrotic damage reduces you to 0 [[hit-points-xphb]], Blackrazor devours your soul (see "Devour Soul" below).
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. If you hit an Undead with this weapon, you take `1d10` Necrotic damage, and the target regains `1d10` [[Hit Points]]. If this Necrotic damage reduces you to 0 [[Hit Points]], Blackrazor devours your soul (see "Devour Soul" below).
 
-While you hold this weapon, you have [[immunity-xphb]] to the [Charmed](Compendium/rules/conditions.md#Charmed) and [Frightened](Compendium/rules/conditions.md#Frightened) conditions, and you have [Blindsight](Compendium/rules/senses.md#Blindsight) with a range of 30 feet.
+While you hold this weapon, you have [[Immunity]] to the [Charmed](Compendium/rules/conditions.md#Charmed) and [Frightened](Compendium/rules/conditions.md#Frightened) conditions, and you have [Blindsight](Compendium/rules/senses.md#Blindsight) with a range of 30 feet.
 
 ## Devour Soul
 
-Whenever you use Blackrazor to reduce a creature to 0 [[hit-points-xphb]], the sword slays the creature and devours its soul unless it is a Construct or an Undead. A creature whose soul has been devoured by Blackrazor can be restored to life only by a [[wish-xphb]] spell.
+Whenever you use Blackrazor to reduce a creature to 0 [[Hit Points]], the sword slays the creature and devours its soul unless it is a Construct or an Undead. A creature whose soul has been devoured by Blackrazor can be restored to life only by a [[wish-xphb]] spell.
 
-When Blackrazor devours a soul that isn't yours, you gain [[temporary-hit-points-xphb]] equal to the slain creature's [[hit-points-xphb]] maximum.
+When Blackrazor devours a soul that isn't yours, you gain [[Temporary Hit Points]] equal to the slain creature's [[Hit Points]] maximum.
 
 ## Haste
 

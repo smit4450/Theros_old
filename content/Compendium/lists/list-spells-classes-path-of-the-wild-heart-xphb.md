@@ -15,8 +15,8 @@ aliases:
 
 ## 2nd Level
 
-- [Beast Sense](Compendium/spells/beast-sense-xphb.md "XPHB") at class level 3
+- [Beast Sense](Beast%20Sense.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Commune with Nature](Compendium/spells/commune-with-nature-xphb.md "XPHB") at class level 3
+- [Commune with Nature](Commune%20with%20Nature.md "XPHB") at class level 3

@@ -11,7 +11,7 @@ aliases:
 
 ## Cantrip
 
-- [Blade Ward](Compendium/spells/blade-ward-xphb.md "XPHB")
+- [Blade Ward](Blade%20Ward.md "XPHB")
 - [Dancing Lights](Compendium/spells/dancing-lights-xphb.md "XPHB")
 - [Friends](Compendium/spells/friends-xphb.md "XPHB")
 - [Light](Compendium/spells/light-xphb.md "XPHB")
@@ -27,12 +27,12 @@ aliases:
 
 ## 1st Level
 
-- [Animal Friendship](Compendium/spells/animal-friendship-xphb.md "XPHB")
-- [Bane](Compendium/spells/bane-xphb.md "XPHB")
-- [Charm Person](Compendium/spells/charm-person-xphb.md "XPHB")
-- [Color Spray](Compendium/spells/color-spray-xphb.md "XPHB")
-- [Command](Compendium/spells/command-xphb.md "XPHB")
-- [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md "XPHB")
+- [Animal Friendship](Animal%20Friendship.md "XPHB")
+- [Bane](Bane.md "XPHB")
+- [Charm Person](Charm%20Person.md "XPHB")
+- [Color Spray](Color%20Spray.md "XPHB")
+- [Command](Command.md "XPHB")
+- [Comprehend Languages](Comprehend%20Languages.md "XPHB")
 - [Cure Wounds](Compendium/spells/cure-wounds-xphb.md "XPHB")
 - [Detect Magic](Compendium/spells/detect-magic-xphb.md "XPHB")
 - [Disguise Self](Compendium/spells/disguise-self-xphb.md "XPHB")
@@ -54,11 +54,11 @@ aliases:
 
 ## 2nd Level
 
-- [Aid](Compendium/spells/aid-xphb.md "XPHB")
-- [Animal Messenger](Compendium/spells/animal-messenger-xphb.md "XPHB")
-- [Blindness/Deafness](Compendium/spells/blindness-deafness-xphb.md "XPHB")
-- [Calm Emotions](Compendium/spells/calm-emotions-xphb.md "XPHB")
-- [Cloud of Daggers](Compendium/spells/cloud-of-daggers-xphb.md "XPHB")
+- [Aid](Aid.md "XPHB")
+- [Animal Messenger](Animal%20Messenger.md "XPHB")
+- [Blindness/Deafness](Blindness-Deafness.md "XPHB")
+- [Calm Emotions](Calm%20Emotions.md "XPHB")
+- [Cloud of Daggers](Cloud%20of%20Daggers.md "XPHB")
 - [Crown of Madness](Compendium/spells/crown-of-madness-xphb.md "XPHB")
 - [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md "XPHB")
 - [Enhance Ability](Compendium/spells/enhance-ability-xphb.md "XPHB")
@@ -82,9 +82,9 @@ aliases:
 
 ## 3rd Level
 
-- [Bestow Curse](Compendium/spells/bestow-curse-xphb.md "XPHB")
-- [Cacophonic Shield](Compendium/spells/cacophonic-shield-frhof.md "FRHoF") (\*)
-- [Clairvoyance](Compendium/spells/clairvoyance-xphb.md "XPHB")
+- [Bestow Curse](Bestow%20Curse.md "XPHB")
+- [Cacophonic Shield](Cacophonic%20Shield.md "FRHoF") (\*)
+- [Clairvoyance](Clairvoyance.md "XPHB")
 - [Dispel Magic](Compendium/spells/dispel-magic-xphb.md "XPHB")
 - [Fear](Compendium/spells/fear-xphb.md "XPHB")
 - [Feign Death](Compendium/spells/feign-death-xphb.md "XPHB")
@@ -104,10 +104,10 @@ aliases:
 
 ## 4th Level
 
-- [Backlash](Compendium/spells/backlash-frhof.md "FRHoF") (\*)
-- [Charm Monster](Compendium/spells/charm-monster-xphb.md "XPHB")
-- [Compulsion](Compendium/spells/compulsion-xphb.md "XPHB")
-- [Confusion](Compendium/spells/confusion-xphb.md "XPHB")
+- [Backlash](Backlash.md "FRHoF") (\*)
+- [Charm Monster](Charm%20Monster.md "XPHB")
+- [Compulsion](Compulsion.md "XPHB")
+- [Confusion](Confusion.md "XPHB")
 - [Dimension Door](Compendium/spells/dimension-door-xphb.md "XPHB")
 - [Doomtide](Compendium/spells/doomtide-frhof.md "FRHoF") (\*)
 - [Fount of Moonlight](Compendium/spells/fount-of-moonlight-xphb.md "XPHB")
@@ -120,9 +120,9 @@ aliases:
 
 ## 5th Level
 
-- [Alustriel's Mooncloak](Compendium/spells/alustriels-mooncloak-frhof.md "FRHoF") (\*)
-- [Animate Objects](Compendium/spells/animate-objects-xphb.md "XPHB")
-- [Awaken](Compendium/spells/awaken-xphb.md "XPHB")
+- [Alustriel's Mooncloak](Alustriel's%20Mooncloak.md "FRHoF") (\*)
+- [Animate Objects](Animate%20Objects.md "XPHB")
+- [Awaken](Awaken.md "XPHB")
 - [Dominate Person](Compendium/spells/dominate-person-xphb.md "XPHB")
 - [Dream](Compendium/spells/dream-xphb.md "XPHB")
 - [Geas](Compendium/spells/geas-xphb.md "XPHB")
@@ -170,8 +170,8 @@ aliases:
 
 ## 8th Level
 
-- [Antipathy/Sympathy](Compendium/spells/antipathy-sympathy-xphb.md "XPHB")
-- [Befuddlement](Compendium/spells/befuddlement-xphb.md "XPHB")
+- [Antipathy/Sympathy](Antipathy-Sympathy.md "XPHB")
+- [Befuddlement](Befuddlement.md "XPHB")
 - [Dominate Monster](Compendium/spells/dominate-monster-xphb.md "XPHB")
 - [Glibness](Compendium/spells/glibness-xphb.md "XPHB")
 - [Mind Blank](Compendium/spells/mind-blank-xphb.md "XPHB")

@@ -56,11 +56,11 @@ Underground cults to [[Phenax]], [[Mogis]], and [[Erebos]] often count Agents of
 
 ### Bloodthirst (Level 3)
 
-When an enemy you can see within 30 feet of yourself takes damage and is [Bloodied](Compendium/rules/conditions.md#Bloodied) after taking that damage but not killed outright, you can take a [[reaction-xphb]] and [[teleportation-xphb]] to an unoccupied space you can see within 5 feet of that enemy. You can then make one melee attack. You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb]].
+When an enemy you can see within 30 feet of yourself takes damage and is [Bloodied](Compendium/rules/conditions.md#Bloodied) after taking that damage but not killed outright, you can take a [[Reaction]] and [[Teleportation]] to an unoccupied space you can see within 5 feet of that enemy. You can then make one melee attack. You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
 ### Dread Allegiance (Level 3)
 
-Choose one of the gods of death: [[Phenax]], [[Mogis]], or [[Erebos]]. You gain [[resistance-xphb]] to one type of damage and the ability to cast a cantrip, as detailed in the table below; Intelligence is your spellcasting ability for this cantrip. When you finish a [[long-rest-xphb]], you can change your choice.
+Choose one of the gods of death: [[Phenax]], [[Mogis]], or [[Erebos]]. You gain [[resistance-xphb]] to one type of damage and the ability to cast a cantrip, as detailed in the table below; Intelligence is your spellcasting ability for this cantrip. When you finish a [[Long Rest]], you can change your choice.
 
 | God        | Damage Resistance | Cantrip                                                    |
 | ---------- | ----------------- | ---------------------------------------------------------- |
@@ -76,13 +76,13 @@ You gain the following [Cunning Strike](Compendium/classes/rogue-xphb.md#Cunning
 #### Terrify (Cost: `1d6`)
 _Source: FRHoF_
 
-The target must succeed on a Wisdom saving throw, or it has the [Frightened](Compendium/rules/conditions.md#Frightened) condition for 1 minute. While the target is Frightened in this way, you have [[advantage-xphb]] on attack rolls against the target.
+The target must succeed on a Wisdom saving throw, or it has the [Frightened](Compendium/rules/conditions.md#Frightened) condition for 1 minute. While the target is Frightened in this way, you have [[Advantage]] on attack rolls against the target.
 
 The [Frightened](Compendium/rules/conditions.md#Frightened) target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 ### Aura of Malevolence (Level 13)
 
-You radiate malignant power associated with one of the gods of death. When you use [Bloodthirst](Agent of Death.md#Bloodthirst (Level 3)) and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage [[resistance-xphb]] granted by your choice in the Dread Allegiance feature. [[damage-xphb]] dealt by this feature ignores [[resistance-xphb]].
+You radiate malignant power associated with one of the gods of death. When you use [Bloodthirst](Agent of Death.md#Bloodthirst (Level 3)) and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage [[resistance-xphb]] granted by your choice in the Dread Allegiance feature. [[Damage]] dealt by this feature ignores [[resistance-xphb]].
 
 ### Dread Incarnate (Level 17)
 
@@ -91,7 +91,7 @@ You gain the following benefits.
 #### Cutthroat
 _Source: FRHoF_
 
-You regain one expended use of [Bloodthirst](Agent of Death.md#Bloodthirst (Level 3)) when you finish a [[short-rest-xphb]].
+You regain one expended use of [Bloodthirst](Agent of Death.md#Bloodthirst (Level 3)) when you finish a [[Short Rest]].
 
 #### Murderous Intent
 _Source: FRHoF_

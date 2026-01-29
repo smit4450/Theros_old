@@ -63,24 +63,24 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [[aid-xphb]], [[bless-xphb]], [[cure-wounds-xphb]], [[lesser-restoration-xphb]] |
+| 3rd | [[Aid]], [[Bless]], [[cure-wounds-xphb]], [[lesser-restoration-xphb]] |
 | 5th | [[mass-healing-word-xphb]], [[revivify-xphb]] |
-| 7th | [[aura-of-life-xphb]], [[death-ward-xphb]] |
+| 7th | [[Aura of Life]], [[death-ward-xphb]] |
 | 9th | [[greater-restoration-xphb]], [[mass-cure-wounds-xphb]] |
 ^life-domain-spells
 
 ### Disciple of Life (Level 3)
 
-When a spell you cast with a spell slot restores [[hit-points-xphb]] to a creature, that creature regains additional [[hit-points-xphb]] on the turn you cast the spell. The additional [[hit-points-xphb]] equal 2 plus the spell slot's level.
+When a spell you cast with a spell slot restores [[Hit Points]] to a creature, that creature regains additional [[Hit Points]] on the turn you cast the spell. The additional [[Hit Points]] equal 2 plus the spell slot's level.
 
 ### Preserve Life (Level 3)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you present your [[Holy Symbol]] and expend a use of your Channel Divinity to evoke healing energy that can restore a number of [[hit-points-xphb]] equal to five times your Cleric level. Choose [Bloodied](Compendium/rules/conditions.md#Bloodied) creatures within 30 feet of yourself (which can include you), and divide those [[hit-points-xphb]] among them. This feature can restore a creature to no more than half its [[hit-points-xphb]] maximum.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you present your [[Holy Symbol]] and expend a use of your Channel Divinity to evoke healing energy that can restore a number of [[Hit Points]] equal to five times your Cleric level. Choose [Bloodied](Compendium/rules/conditions.md#Bloodied) creatures within 30 feet of yourself (which can include you), and divide those [[Hit Points]] among them. This feature can restore a creature to no more than half its [[Hit Points]] maximum.
 
 ### Blessed Healer (Level 6)
 
-The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores [[hit-points-xphb]] to one creature other than you, you regain [[hit-points-xphb]] equal to 2 plus the spell slot's level.
+The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores [[Hit Points]] to one creature other than you, you regain [[Hit Points]] equal to 2 plus the spell slot's level.
 
 ### Supreme Healing (Level 17)
 
-When you would normally roll one or more dice to restore [[hit-points-xphb]] to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring `2d6` [[hit-points-xphb]] to a creature with a spell, you restore 12.
+When you would normally roll one or more dice to restore [[Hit Points]] to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring `2d6` [[Hit Points]] to a creature with a spell, you restore 12.

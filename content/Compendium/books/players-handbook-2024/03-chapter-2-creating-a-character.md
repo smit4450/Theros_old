@@ -61,7 +61,7 @@ Choose a class, and write it on your character sheet. The Class Overview table s
 
 #### Write Your Level
 
-Write your character's level on your character sheet. Typically, a character starts at level 1 and advances in level by adventuring and gaining [[experience-points-xphb]] (XP).
+Write your character's level on your character sheet. Typically, a character starts at level 1 and advances in level by adventuring and gaining [[Experience Points]] (XP).
 
 ##### Write Your XP
 
@@ -117,9 +117,9 @@ Record your chosen equipment on your character sheet. Equipment is described in 
 
 #### Choose a Species
 
-Choose a species for your character. The following species options are detailed in "chapter 4": [[aasimar-xphb]], [[dragonborn-xphb]], [[dwarf-xphb]], [[elf-xphb]], [[gnome-xphb]], [[goliath-xphb]], [[halfling-xphb]], [[human-xphb]], [[orc-xphb]], and [[tiefling-xphb]]. Once you've chosen a species, write it on your character sheet. Then record your species' traits.
+Choose a species for your character. The following species options are detailed in "chapter 4": [[aasimar-xphb]], [[dragonborn-xphb]], [[dwarf-xphb]], [[elf-xphb]], [[gnome-xphb]], [[goliath-xphb]], [[halfling-xphb]], [[Human]], [[orc-xphb]], and [[tiefling-xphb]]. Once you've chosen a species, write it on your character sheet. Then record your species' traits.
 
-Your character's [[size-xphb]] and [[speed-xphb]] are determined by the character's species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size).
+Your character's [[Size]] and [[Speed]] are determined by the character's species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size).
 
 #### Imagine Your Past and Present
 
@@ -322,7 +322,7 @@ Your class and Constitution modifier determine your Hit Point maximum at level 1
 
 ![[level-1-hit-points-by-class-xphb]]
 
-The character sheet includes room to note your current Hit Points when you take damage, as well as any [[temporary-hit-points-xphb]] you might gain. There's also space to track [[death-saving-throw-xphb]].
+The character sheet includes room to note your current Hit Points when you take damage, as well as any [[Temporary Hit Points]] you might gain. There's also space to track [[Death Saving Throw]].
 
 ##### Hit Point Dice
 
@@ -334,7 +334,7 @@ Write your Dexterity modifier in the space for Initiative on your character shee
 
 ##### Armor Class
 
-Without armor or a shield, your base [[armor-class-xphb]] is 10 plus your Dexterity modifier. If your starting equipment includes armor or a Shield (or both), calculate your AC using the rules in "chapter 6". A class feature might give you a different way to calculate your AC.
+Without armor or a shield, your base [[Armor Class]] is 10 plus your Dexterity modifier. If your starting equipment includes armor or a Shield (or both), calculate your AC using the rules in "chapter 6". A class feature might give you a different way to calculate your AC.
 
 ##### Attacks
 
@@ -377,7 +377,7 @@ As you finish creating your character, consider whether you'd like to make up an
 
 ![Adventuring equipment impr...](Compendium/books/players-handbook-2024/img/021-02-010-adventuring-equipment.webp#center "Adventuring equipment improves as a character progresses through the tiers of play")
 
-While going on adventures, your character gains experience, represented by [[experience-points-xphb]] (XP). A character who reaches a specified Experience Point total advances in capability. This advancement is called gaining a level.
+While going on adventures, your character gains experience, represented by [[Experience Points]] (XP). A character who reaches a specified Experience Point total advances in capability. This advancement is called gaining a level.
 
 The Character Advancement table lists the XP you need to advance to a level and the Proficiency Bonus for a character of that level. When your XP total equals or exceeds a number in the Experience Points column, you reach the corresponding level.
 
@@ -470,7 +470,7 @@ Special rules apply to Extra Attack, Spellcasting, and features (such as Unarmor
 
 #### Armor Class
 
-If you have multiple ways to calculate your [[armor-class-xphb]], you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
+If you have multiple ways to calculate your [[Armor Class]], you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
 
 #### Extra Attack
 
@@ -504,7 +504,7 @@ You determine your available spell slots by adding together the following:
 
 Then look up this total level in the Level column of the Multiclass Spellcaster table. You use the slots for that level to cast spells of an appropriate level from any class whose Spellcasting feature you have.
 
-This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like [[burning-hands-xphb]], has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.
+This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like [[Burning Hands]], has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.
 
 For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a level 5 character when determining your spell slots, counting all your levels as a Sorcerer and half your Ranger levels. As shown in the Multiclass Spellcaster table, you have four level 1 spell slots, three level 2 slots, and two level 3 slots. However, you can't prepare any level 3 spells, nor can you prepare any level 2 Ranger spells. You can use the spell slots of those levels to cast the spells you do prepare—and potentially enhance their effects.
 

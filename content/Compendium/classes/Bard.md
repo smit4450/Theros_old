@@ -80,13 +80,13 @@ You can supernaturally inspire others through words, music, or dance. This inspi
 
 #### Using Bardic Inspiration
 
-As a [[bonus-action-xphb]], you can inspire another creature within 60 feet of yourself who can see or hear you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.
+As a [[Bonus Action]], you can inspire another creature within 60 feet of yourself who can see or hear you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.
 
-Once within the next hour when the creature fails a [[d20-test-xphb]], the creature can roll the Bardic Inspiration die and add the number rolled to the `d20`, potentially turning the failure into a success. A Bardic Inspiration die is expended when it's rolled.
+Once within the next hour when the creature fails a [[D20 Test]], the creature can roll the Bardic Inspiration die and add the number rolled to the `d20`, potentially turning the failure into a success. A Bardic Inspiration die is expended when it's rolled.
 
 #### Number of Uses
 
-You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [[long-rest-xphb]].
+You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
 #### At Higher Levels
 
@@ -106,11 +106,11 @@ When you reach Bard levels 4 and 10, you learn another cantrip of your choice fr
 
 #### Spell Slots
 
-The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[long-rest-xphb]].
+The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. [[charm-person-xphb]], [[color-spray-xphb]], [[dissonant-whispers-xphb]], and [[healing-word-xphb]] are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. [[Charm Person]], [[Color Spray]], [[dissonant-whispers-xphb]], and [[healing-word-xphb]] are recommended.
 
 The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -126,19 +126,19 @@ Charisma is your spellcasting ability for your Bard spells.
 
 #### Spellcasting Focus
 
-You can use a [[Musical Instrument]] as a [[spellcasting-focus-xphb]] for your Bard spells.
+You can use a [[Musical Instrument]] as a [[Spellcasting Focus]] for your Bard spells.
 
 ### Expertise (Level 2)
 
-You gain [[expertise-xphb]] in two of your skill proficiencies of your choice. [Performance](Compendium/rules/skills.md#Performance) and [Persuasion](Compendium/rules/skills.md#Persuasion) are recommended if you have proficiency in them.
+You gain [[Expertise]] in two of your skill proficiencies of your choice. [Performance](Compendium/rules/skills.md#Performance) and [Persuasion](Compendium/rules/skills.md#Persuasion) are recommended if you have proficiency in them.
 
-At Bard level 9, you gain [[expertise-xphb]] in two more of your skill proficiencies of your choice.
+At Bard level 9, you gain [[Expertise]] in two more of your skill proficiencies of your choice.
 
 ### Jack of All Trades (Level 2)
 
-You can add half your [[proficiency-xphb]] (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your [[proficiency-xphb]].
+You can add half your [[Proficiency]] (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your [[Proficiency]].
 
-For example, if you make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check and lack [Athletics](Compendium/rules/skills.md#Athletics) proficiency, you can add half your [[proficiency-xphb]] to the check.
+For example, if you make a Strength ([Athletics](Compendium/rules/skills.md#Athletics)) check and lack [Athletics](Compendium/rules/skills.md#Athletics) proficiency, you can add half your [[Proficiency]] to the check.
 
 > [!note] A Bard's Repertoire
 > 
@@ -157,7 +157,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Font of Inspiration (Level 5)
 
-You now regain all your expended uses of Bardic Inspiration when you finish a [[short-rest-xphb]] or [[long-rest-xphb]].
+You now regain all your expended uses of Bardic Inspiration when you finish a [[Short Rest]] or [[Long Rest]].
 
 In addition, you can expend a spell slot (no action required) to regain one expended use of Bardic Inspiration.
 
@@ -167,7 +167,7 @@ You gain a feature from your Bard Subclass.
 
 ### Countercharm (Level 7)
 
-You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the [Charmed](Compendium/rules/conditions.md#Charmed) or [Frightened](Compendium/rules/conditions.md#Frightened) condition, you can take a [[reaction-xphb]] to cause the save to be rerolled, and the new roll has [[advantage-xphb]].
+You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the [Charmed](Compendium/rules/conditions.md#Charmed) or [Frightened](Compendium/rules/conditions.md#Frightened) condition, you can take a [[Reaction]] to cause the save to be rerolled, and the new roll has [[Advantage]].
 
 ### Ability Score Improvement (Level 8)
 
@@ -175,7 +175,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Expertise (Level 9)
 
-You gain [[expertise-xphb]] in two of your Skill Proficiencies of your choice.
+You gain [[Expertise]] in two of your Skill Proficiencies of your choice.
 
 ### Magical Secrets (Level 10)
 
@@ -195,7 +195,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Superior Inspiration (Level 18)
 
-When you roll [[initiative-xphb]], you regain expended uses of Bardic Inspiration until you have two if you have fewer than that.
+When you roll [[Initiative]], you regain expended uses of Bardic Inspiration until you have two if you have fewer than that.
 
 ### Epic Boon (Level 19)
 

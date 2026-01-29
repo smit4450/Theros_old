@@ -34,13 +34,13 @@ You bind an extra effect to the area from the list below:
 - **Courage.** Creatures of any types you choose can't gain the [Frightened](Compendium/rules/conditions.md#Frightened) condition while in the area.  
 - **Darkness.** [[darkness-xphb]] fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can't illuminate the area.  
 - **Daylight.** Bright light fills the area. Magical [[darkness-xphb]] created by spells of a level lower than this spell can't extinguish the light.  
-- **Peaceful Rest.** [[dead-xphb]] bodies interred in the area can't be turned into Undead.  
+- **Peaceful Rest.** [[Dead]] bodies interred in the area can't be turned into Undead.  
 - **Extradimensional Interference.** Creatures of any types you choose can't enter or exit the area using teleportation or interplanar travel.  
 - **Fear.** Creatures of any types you choose have the [Frightened](Compendium/rules/conditions.md#Frightened) condition while in the area.  
 - **Resistance.** Creatures of any types you choose have [[resistance-xphb]] to one damage type of your choice while in the area.  
 - **Silence.** No sound can emanate from within the area, and no sound can reach into it.  
 - **Tongues.** Creatures of any types you choose can communicate with any other creature in the area even if they don't share a common language.  
-- **Vulnerability.** Creatures of any types you choose have [[vulnerability-xphb]] to one damage type of your choice while in the area.  
+- **Vulnerability.** Creatures of any types you choose have [[Vulnerability]] to one damage type of your choice while in the area.  
 
 ## Summary
 

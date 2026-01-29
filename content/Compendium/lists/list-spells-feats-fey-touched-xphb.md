@@ -11,13 +11,13 @@ aliases:
 
 ## 1st Level
 
-- [Animal Friendship](Compendium/spells/animal-friendship-xphb.md "XPHB") 
-- [Bane](Compendium/spells/bane-xphb.md "XPHB") 
-- [Bless](Compendium/spells/bless-xphb.md "XPHB") 
-- [Charm Person](Compendium/spells/charm-person-xphb.md "XPHB") 
-- [Command](Compendium/spells/command-xphb.md "XPHB") 
-- [Compelled Duel](Compendium/spells/compelled-duel-xphb.md "XPHB") 
-- [Comprehend Languages](Compendium/spells/comprehend-languages-xphb.md "XPHB") 
+- [Animal Friendship](Animal%20Friendship.md "XPHB") 
+- [Bane](Bane.md "XPHB") 
+- [Bless](Bless.md "XPHB") 
+- [Charm Person](Charm%20Person.md "XPHB") 
+- [Command](Command.md "XPHB") 
+- [Compelled Duel](Compelled%20Duel.md "XPHB") 
+- [Comprehend Languages](Comprehend%20Languages.md "XPHB") 
 - [Detect Evil and Good](Compendium/spells/detect-evil-and-good-xphb.md "XPHB") 
 - [Detect Magic](Compendium/spells/detect-magic-xphb.md "XPHB") 
 - [Detect Poison and Disease](Compendium/spells/detect-poison-and-disease-xphb.md "XPHB") 

@@ -78,27 +78,27 @@ Whenever you gain a Fighter level, you can replace the feat you chose with a dif
 
 ### Second Wind (Level 1)
 
-You have a limited well of physical and mental stamina that you can draw on. As a [[bonus-action-xphb]], you can use it to regain [[hit-points-xphb]] equal to `1d10` plus your Fighter level.
+You have a limited well of physical and mental stamina that you can draw on. As a [[Bonus Action]], you can use it to regain [[Hit Points]] equal to `1d10` plus your Fighter level.
 
-You can use this feature twice. You regain one expended use when you finish a [[short-rest-xphb]], and you regain all expended uses when you finish a [[long-rest-xphb]].
+You can use this feature twice. You regain one expended use when you finish a [[Short Rest]], and you regain all expended uses when you finish a [[Long Rest]].
 
 When you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [[weapon-mastery-properties-xphb]] of three kinds of Simple or Martial weapons of your choice. Whenever you finish a [[long-rest-xphb]], you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the [[Weapon Mastery Properties]] of three kinds of Simple or Martial weapons of your choice. Whenever you finish a [[Long Rest]], you can practice weapon drills and change one of those weapon choices.
 
-When you reach certain Fighter levels, you gain the ability to use the [[weapon-mastery-properties-xphb]] of more kinds of weapons, as shown in the [[weapon-xphb]] Mastery column of the Fighter Features table.
+When you reach certain Fighter levels, you gain the ability to use the [[Weapon Mastery Properties]] of more kinds of weapons, as shown in the [[Weapon]] Mastery column of the Fighter Features table.
 
 ### Action Surge (Level 2)
 
 You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the [Magic](Compendium/rules/actions.md#Magic) action.
 
-Once you use this feature, you can't do so again until you finish a [[short-rest-xphb]] or [[long-rest-xphb]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
+Once you use this feature, you can't do so again until you finish a [[Short Rest]] or [[Long Rest]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
 ### Tactical Mind (Level 2)
 
-You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [[hit-points-xphb]], you roll `1d10` and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
+You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [[Hit Points]], you roll `1d10` and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
 
 ### Fighter Subclass (Level 3)
 
@@ -114,7 +114,7 @@ You can attack twice instead of once whenever you take the [Attack](Compendium/r
 
 ### Tactical Shift (Level 5)
 
-Whenever you activate your Second Wind with a [[bonus-action-xphb]], you can move up to half your [[speed-xphb]] without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
+Whenever you activate your Second Wind with a [[Bonus Action]], you can move up to half your [[Speed]] without provoking [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack).
 
 ### Ability Score Improvement (Level 6)
 
@@ -130,9 +130,9 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Indomitable (Level 9)
 
-If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [[long-rest-xphb]].
+If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [[Long Rest]].
 
-You can use this feature twice before a [[long-rest-xphb]] starting at level 13 and three times before a [[long-rest-xphb]] starting at level 17.
+You can use this feature twice before a [[Long Rest]] starting at level 13 and three times before a [[Long Rest]] starting at level 17.
 
 ### Tactical Master (Level 9)
 
@@ -152,13 +152,13 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Indomitable (Level 13)
 
-If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [[long-rest-xphb]].
+If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [[Long Rest]].
 
-You can use this feature twice before a [[long-rest-xphb]] starting at level 13 and three times before a [[long-rest-xphb]] starting at level 17.
+You can use this feature twice before a [[Long Rest]] starting at level 13 and three times before a [[Long Rest]] starting at level 17.
 
 ### Studied Attacks (Level 13)
 
-You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have [[advantage-xphb]] on your next attack roll against that creature before the end of your next turn.
+You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have [[Advantage]] on your next attack roll against that creature before the end of your next turn.
 
 ### Ability Score Improvement (Level 14)
 
@@ -176,13 +176,13 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the [Magic](Compendium/rules/actions.md#Magic) action.
 
-Once you use this feature, you can't do so again until you finish a [[short-rest-xphb]] or [[long-rest-xphb]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
+Once you use this feature, you can't do so again until you finish a [[Short Rest]] or [[Long Rest]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
 ### Indomitable (Level 17)
 
-If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [[long-rest-xphb]].
+If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [[Long Rest]].
 
-You can use this feature twice before a [[long-rest-xphb]] starting at level 13 and three times before a [[long-rest-xphb]] starting at level 17.
+You can use this feature twice before a [[Long Rest]] starting at level 13 and three times before a [[Long Rest]] starting at level 17.
 
 ### Subclass Feature (Level 18)
 

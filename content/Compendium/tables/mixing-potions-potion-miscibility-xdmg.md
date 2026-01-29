@@ -14,7 +14,7 @@ aliases:
 
 | dice: 1d100 | Result |
 |-------------|--------|
-| 01 | Both potions lose their effects, and the mixture creates a magical explosion in a 5-foot-radius [[sphere-area-of-effect-xphb]] centered on itself. Each creature in that area takes `4d10` Force damage. |
+| 01 | Both potions lose their effects, and the mixture creates a magical explosion in a 5-foot-radius [[Sphere (Area of Effect)]] centered on itself. Each creature in that area takes `4d10` Force damage. |
 | 02–08 | Both potions lose their effects, and the mixture becomes an ingested poison of your choice (see ""Poison"" in "chapter 3"). |
 | 09–15 | Both potions lose their effects. |
 | 16–25 | One potion loses its effect. |
