@@ -88,7 +88,7 @@ When you reach a Paladin level specified in the Elemental Spells table, you ther
 | 5 | [[mirror-image-xphb]], [[phantasmal-force-xphb]] |
 | 9 | [[fly-xphb]], [[gaseous-form-xphb]] |
 | 13 | [[Conjure Minor Elementals]], [[summon-elemental-xphb]] |
-| 17 | [[Banishing Smite]], [[contact-other-plane-xphb]] |
+| 17 | [[Banishing Smite]], [[Contact Other Plane]] |
 ^paladin-level-spells
 
 ### Elemental Splendor (Level 3)

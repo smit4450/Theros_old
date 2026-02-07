@@ -36,4 +36,4 @@ aliases:
 ## 5th Level
 
 - [Banishing Smite](Banishing%20Smite.md "XPHB") at class level 17
-- [Contact Other Plane](Compendium/spells/contact-other-plane-xphb.md "XPHB") at class level 17
+- [Contact Other Plane](Contact%20Other%20Plane.md "XPHB") at class level 17

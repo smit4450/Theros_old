@@ -45,7 +45,7 @@ aliases:
 
 ## 5th Level
 
-- [Contagion](Compendium/spells/contagion-xphb.md "XPHB")
+- [Contagion](Contagion.md "XPHB")
 - [Raise Dead](Compendium/spells/raise-dead-xphb.md "XPHB")
 - [Reincarnate](Compendium/spells/reincarnate-xphb.md "XPHB")
 

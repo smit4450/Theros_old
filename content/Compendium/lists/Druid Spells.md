@@ -125,7 +125,7 @@ aliases:
 - [Commune with Nature](Commune%20with%20Nature.md "XPHB")
 - [Cone of Cold](Cone%20of%20Cold.md "XPHB")
 - [Conjure Elemental](Conjure%20Elemental.md "XPHB")
-- [Contagion](Compendium/spells/contagion-xphb.md "XPHB")
+- [Contagion](Contagion.md "XPHB")
 - [Geas](Compendium/spells/geas-xphb.md "XPHB")
 - [Greater Restoration](Compendium/spells/greater-restoration-xphb.md "XPHB")
 - [Insect Plague](Compendium/spells/insect-plague-xphb.md "XPHB")

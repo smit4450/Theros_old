@@ -104,7 +104,7 @@ aliases:
 
 - [Circle of Power](Circle%20of%20Power.md "XPHB")
 - [Commune](Commune.md "XPHB")
-- [Contagion](Compendium/spells/contagion-xphb.md "XPHB")
+- [Contagion](Contagion.md "XPHB")
 - [Dispel Evil and Good](Compendium/spells/dispel-evil-and-good-xphb.md "XPHB")
 - [Flame Strike](Compendium/spells/flame-strike-xphb.md "XPHB")
 - [Geas](Compendium/spells/geas-xphb.md "XPHB")

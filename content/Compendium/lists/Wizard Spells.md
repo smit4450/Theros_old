@@ -195,7 +195,7 @@ aliases:
 - [Cloudkill](Cloudkill.md "XPHB")
 - [Cone of Cold](Cone%20of%20Cold.md "XPHB")
 - [Conjure Elemental](Conjure%20Elemental.md "XPHB")
-- [Contact Other Plane](Compendium/spells/contact-other-plane-xphb.md "XPHB")
+- [Contact Other Plane](Contact%20Other%20Plane.md "XPHB")
 - [Creation](Compendium/spells/creation-xphb.md "XPHB")
 - [Dominate Person](Compendium/spells/dominate-person-xphb.md "XPHB")
 - [Dream](Compendium/spells/dream-xphb.md "XPHB")

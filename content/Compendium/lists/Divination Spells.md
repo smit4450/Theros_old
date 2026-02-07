@@ -51,7 +51,7 @@ aliases:
 
 - [Commune](Commune.md "XPHB")
 - [Commune with Nature](Commune%20with%20Nature.md "XPHB")
-- [Contact Other Plane](Compendium/spells/contact-other-plane-xphb.md "XPHB")
+- [Contact Other Plane](Contact%20Other%20Plane.md "XPHB")
 - [Legend Lore](Compendium/spells/legend-lore-xphb.md "XPHB")
 - [Rary's Telepathic Bond](Compendium/spells/rarys-telepathic-bond-xphb.md "XPHB")
 - [Scrying](Compendium/spells/scrying-xphb.md "XPHB")

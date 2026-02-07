@@ -41,7 +41,7 @@ aliases:
 
 ## 5th Level
 
-- [Contact Other Plane](Compendium/spells/contact-other-plane-xphb.md "XPHB") at class level 7
+- [Contact Other Plane](Contact%20Other%20Plane.md "XPHB") at class level 7
 - [Legend Lore](Compendium/spells/legend-lore-xphb.md "XPHB") at class level 7
 - [Rary's Telepathic Bond](Compendium/spells/rarys-telepathic-bond-xphb.md "XPHB") at class level 7
 - [Scrying](Compendium/spells/scrying-xphb.md "XPHB") at class level 7

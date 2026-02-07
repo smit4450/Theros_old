@@ -88,7 +88,7 @@ aliases:
 
 ## 5th Level
 
-- [Contact Other Plane](Compendium/spells/contact-other-plane-xphb.md "XPHB")
+- [Contact Other Plane](Contact%20Other%20Plane.md "XPHB")
 - [Dream](Compendium/spells/dream-xphb.md "XPHB")
 - [Hold Monster](Compendium/spells/hold-monster-xphb.md "XPHB")
 - [Jallarzi's Storm of Radiance](Compendium/spells/jallarzis-storm-of-radiance-xphb.md "XPHB")
