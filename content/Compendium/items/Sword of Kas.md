@@ -24,7 +24,7 @@ Kas was a powerful warrior who served "Vecna" and whose loyalty was rewarded wit
 
 ## Bloodthirst
 
-The sword thirsts for blood. If the sword doesn't taste blood on its blade within 1 minute of being drawn from its scabbard, its wielder makes a DC 15 Charisma saving throw. On a successful save, the wielder takes `3d6` Psychic damage. On a failed save, the wielder is dominated by the sword, as if by the [[dominate-monster-xphb]] spell, and the sword demands blood. The spell effect ends when the sword's demand is met.
+The sword thirsts for blood. If the sword doesn't taste blood on its blade within 1 minute of being drawn from its scabbard, its wielder makes a DC 15 Charisma saving throw. On a successful save, the wielder takes `3d6` Psychic damage. On a failed save, the wielder is dominated by the sword, as if by the [[Dominate Monster]] spell, and the sword demands blood. The spell effect ends when the sword's demand is met.
 
 ## Magic Weapon
 
@@ -44,8 +44,8 @@ The sword has the following random properties:
 While the sword is on your person, you can cast the following spells (save DC 18) from it:
 
 - [[Call Lightning]]  
-- [[divine-word-xphb]]  
-- [[finger-of-death-xphb]]  
+- [[Divine Word]]  
+- [[Finger of Death]]  
 
 Once you use the sword to cast a spell, you can't cast that spell again from it until the next dawn.
 
@@ -55,7 +55,7 @@ While the sword is on your person, you gain the following benefits:
 
 - **Battle Hunger.** You add `1d10` to your [[Initiative]] rolls.  
 - **Blade of Defense.** When you take an action to attack with the sword, you can transfer some or all of its attack bonus to your [[Armor Class]] instead. The adjusted bonuses remain in effect until the start of your next turn.  
-- **Necrotic Resistance.** You have [[resistance-xphb]] to Necrotic damage.  
+- **Necrotic Resistance.** You have [[Compendium/spells/Resistance]] to Necrotic damage.  
 
 ## Sentience
 
@@ -71,6 +71,6 @@ The Sword of Kas also seeks to destroy anyone corrupted by the [[eye-and-hand-of
 
 ## Destroying the Sword
 
-A creature attuned to both the [[eye-of-vecna-xdmg]] and the [[hand-of-vecna-xdmg]] can use the [[wish-xphb]] property of those combined Artifacts to unmake the Sword of Kas, provided the sword is within 30 feet of the spell's caster. Upon casting Wish, the creature makes a DC 18 Charisma saving throw. On a failed save, nothing happens, and the [[wish-xphb]] spell is wasted. On a successful save, the Sword of Kas is destroyed.
+A creature attuned to both the [[eye-of-vecna-xdmg]] and the [[hand-of-vecna-xdmg]] can use the [[Wish]] property of those combined Artifacts to unmake the Sword of Kas, provided the sword is within 30 feet of the spell's caster. Upon casting Wish, the creature makes a DC 18 Charisma saving throw. On a failed save, nothing happens, and the [[Wish]] spell is wasted. On a successful save, the Sword of Kas is destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 313*

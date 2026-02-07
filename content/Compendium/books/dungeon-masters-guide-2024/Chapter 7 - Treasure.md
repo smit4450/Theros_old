@@ -233,7 +233,7 @@ It usually takes a Magic action to activate a magic item. The item's user might 
 
 #### Command Word
 
-A command word is a word or short phrase that must be spoken or signed for an item to work. Spoken command words must be audible and fail to work in areas where all sound is suppressed, as in the area of the [[silence-xphb]] spell.
+A command word is a word or short phrase that must be spoken or signed for an item to work. Spoken command words must be audible and fail to work in areas where all sound is suppressed, as in the area of the [[Silence]] spell.
 
 #### Consumable Items
 
@@ -247,7 +247,7 @@ A magic item may require the user to use their own spellcasting ability when cas
 
 #### Charges
 
-Some magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when the [[identify-xphb]] spell is cast on it. A creature attuned to an item knows how many charges the item has and how many it regains.
+Some magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when the [[Identify]] spell is cast on it. A creature attuned to an item knows how many charges the item has and how many it regains.
 
 ### "The Next Dawn"
 
@@ -255,9 +255,9 @@ Magic items often have charges or properties that recharge at the next dawn or s
 
 ### Cursed Items
 
-A magic item's description specifies whether it bears a curse. Most methods of identifying items, including the [[identify-xphb]] spell, fail to reveal such a curse.
+A magic item's description specifies whether it bears a curse. Most methods of identifying items, including the [[Identify]] spell, fail to reveal such a curse.
 
-Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with a [[remove-curse-xphb]] spell.
+Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with a [[Remove Curse]] spell.
 
 ### Magic Item Resilience
 

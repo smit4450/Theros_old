@@ -34,7 +34,7 @@ Each creature in the [[Sphere (Area of Effect)]] makes a DC 15 Dexterity saving 
 
 ## Smoke Grenade
 
-The area of the [[Sphere (Area of Effect)]] is [[Heavily Obscured]] by smoke for 1 minute. A strong wind (such as the [[gust-of-wind-xphb]] spell) disperses the smoke.
+The area of the [[Sphere (Area of Effect)]] is [[Heavily Obscured]] by smoke for 1 minute. A strong wind (such as the [[Gust of Wind]] spell) disperses the smoke.
 
 ## Gunpowder
 

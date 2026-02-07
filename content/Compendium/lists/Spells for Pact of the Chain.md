@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Find Familiar](Compendium/spells/find-familiar-xphb.md "XPHB")
+- [Find Familiar](Find%20Familiar.md "XPHB")

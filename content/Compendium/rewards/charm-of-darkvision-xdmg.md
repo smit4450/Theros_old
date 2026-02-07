@@ -10,6 +10,6 @@ aliases:
 ---
 # Charm of Darkvision
 
-This Charm allows you to cast [[darkvision-xphb]]. Once used three times, the Charm vanishes from you.
+This Charm allows you to cast [[Darkvision]]. Once used three times, the Charm vanishes from you.
 
 *Source: Dungeon Master's Guide (2024) p. 99*

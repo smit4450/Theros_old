@@ -54,7 +54,7 @@ The College of Glamour traces its origins to the beguiling magic of the Skola Va
 
 ### Beguiling Magic (Level 3)
 
-You always have the [[Charm Person]] and [[mirror-image-xphb]] spells prepared.
+You always have the [[Charm Person]] and [[Mirror Image]] spells prepared.
 
 In addition, immediately after you cast an Enchantment or Illusion spell using a spell slot, you can cause a creature you can see within 60 feet of yourself to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened) condition (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 

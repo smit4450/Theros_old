@@ -60,15 +60,15 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |---------------|--------|
-| 3 | [[Calm Emotions]], [[faerie-fire-xphb]], [[misty-step-xphb]], [[phantasmal-force-xphb]], [[sleep-xphb]] |
-| 5 | [[Blink]], [[plant-growth-xphb]] |
-| 7 | [[dominate-beast-xphb]], [[greater-invisibility-xphb]] |
-| 9 | [[dominate-person-xphb]], [[seeming-xphb]] |
+| 3 | [[Calm Emotions]], [[Faerie Fire]], [[Misty Step]], [[Phantasmal Force]], [[Sleep]] |
+| 5 | [[Blink]], [[Plant Growth]] |
+| 7 | [[Dominate Beast]], [[Greater Invisibility]] |
+| 9 | [[Dominate Person]], [[Seeming]] |
 ^archfey-spells
 
 ### Steps of the Fey (Level 3)
 
-Your patron grants you the ability to move between the boundaries of the planes. You can cast [[misty-step-xphb]] without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
+Your patron grants you the ability to move between the boundaries of the planes. You can cast [[Misty Step]] without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
 In addition, whenever you cast that spell, you can choose one of the following additional effects.
 
@@ -82,7 +82,7 @@ Creatures within 5 feet of the space you left must succeed on a Wisdom saving th
 
 ### Misty Escape (Level 6)
 
-You can cast [[misty-step-xphb]] as a [[Reaction]] in response to taking damage.
+You can cast [[Misty Step]] as a [[Reaction]] in response to taking damage.
 
 In addition, the following effects are now among your Steps of the Fey options.
 
@@ -102,4 +102,4 @@ In addition, immediately after a creature you can see hits you with an attack ro
 
 ### Bewitching Magic (Level 14)
 
-Your patron grants you the ability to weave your magic with teleportation. Immediately after you cast an Enchantment or Illusion spell using an action and a spell slot, you can cast [[misty-step-xphb]] as part of the same action and without expending a spell slot.
+Your patron grants you the ability to weave your magic with teleportation. Immediately after you cast an Enchantment or Illusion spell using an action and a spell slot, you can cast [[Misty Step]] as part of the same action and without expending a spell slot.

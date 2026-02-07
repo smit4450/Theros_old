@@ -40,7 +40,7 @@ See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on random
 
 ## Erebos's Claim
 
-While carrying the whip, you can use an action to cast either [[Circle of Death]] or [[dominate-monster-xphb]] (targeting only undead) from the whip. The save DC for these spells is 18. Once you use the whip to cast a spell, that spell can't be cast from it again until the next dusk.
+While carrying the whip, you can use an action to cast either [[Circle of Death]] or [[Dominate Monster]] (targeting only undead) from the whip. The save DC for these spells is 18. Once you use the whip to cast a spell, that spell can't be cast from it again until the next dusk.
 
 ## Destroying the Whip
 

@@ -24,7 +24,7 @@ While in control of the sphere, you can take a [[Bonus Action]] to cause it to m
 
 ## Sphere Interactions
 
-If the sphere comes into contact with a planar portal (such as that created by the [[gate-xphb]] spell) or an extradimensional space (such as that within a Portable Hole), the DM determines randomly what happens using the following table.
+If the sphere comes into contact with a planar portal (such as that created by the [[Gate]] spell) or an extradimensional space (such as that within a Portable Hole), the DM determines randomly what happens using the following table.
 
 | dice: 1d100 | Result |
 |-------------|--------|

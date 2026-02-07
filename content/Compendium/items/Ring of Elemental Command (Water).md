@@ -27,6 +27,6 @@ While wearing the ring, you benefit from additional properties corresponding to 
 
 ## Spellcasting
 
-The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [[create-or-destroy-water-xphb]] (1 charge), [[ice-storm-xphb]] (2 charges), [[tsunami-xphb]] (5 charges), [[wall-of-ice-xphb]] (3 charges), [[water-walk-xphb]] (2 charges)
+The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [[Create or Destroy Water]] (1 charge), [[Ice Storm]] (2 charges), [[Tsunami]] (5 charges), [[Wall of Ice]] (3 charges), [[Water Walk]] (2 charges)
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

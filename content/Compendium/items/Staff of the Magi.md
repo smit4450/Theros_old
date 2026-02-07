@@ -34,23 +34,23 @@ While holding the staff, you can cast one of the spells on the following table f
 |-------|-------------|
 | [[Arcane Lock]] | 0 |
 | [[Conjure Elemental]] | 7 |
-| [[detect-magic-xphb]] | 0 |
-| [[dispel-magic-xphb]] | 3 |
-| [[enlarge-reduce-xphb]] | 0 |
-| [[fireball-xphb]] (level 7 version) | 7 |
-| [[flaming-sphere-xphb]] | 2 |
-| [[ice-storm-xphb]] | 4 |
-| [[invisibility-xphb]] | 2 |
-| [[knock-xphb]] | 2 |
-| [[light-xphb]] | 0 |
-| [[lightning-bolt-xphb]] (level 7 version) | 7 |
-| [[mage-hand-xphb]] | 0 |
-| [[passwall-xphb]] | 5 |
-| [[plane-shift-xphb]] | 7 |
-| [[protection-from-evil-and-good-xphb]] | 0 |
-| [[telekinesis-xphb]] | 5 |
-| [[wall-of-fire-xphb]] | 4 |
-| [[web-xphb]] | 2 |
+| [[Detect Magic]] | 0 |
+| [[Dispel Magic]] | 3 |
+| [[Enlarge-Reduce]] | 0 |
+| [[Fireball]] (level 7 version) | 7 |
+| [[Flaming Sphere]] | 2 |
+| [[Ice Storm]] | 4 |
+| [[Invisibility]] | 2 |
+| [[Knock]] | 2 |
+| [[Light]] | 0 |
+| [[Lightning Bolt]] (level 7 version) | 7 |
+| [[Mage Hand]] | 0 |
+| [[Passwall]] | 5 |
+| [[Plane Shift]] | 7 |
+| [[Protection from Evil and Good]] | 0 |
+| [[Telekinesis]] | 5 |
+| [[Wall of Fire]] | 4 |
+| [[Web]] | 2 |
 ^spell-charge-cost
 
 ## Regaining Charges

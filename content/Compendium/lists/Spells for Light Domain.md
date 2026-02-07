@@ -12,24 +12,24 @@ aliases:
 ## 1st Level
 
 - [Burning Hands](Burning%20Hands.md "XPHB") at class level 7
-- [Faerie Fire](Compendium/spells/faerie-fire-xphb.md "XPHB") at class level 7
+- [Faerie Fire](Faerie%20Fire.md "XPHB") at class level 7
 
 ## 2nd Level
 
-- [Scorching Ray](Compendium/spells/scorching-ray-xphb.md "XPHB") at class level 7
-- [See Invisibility](Compendium/spells/see-invisibility-xphb.md "XPHB") at class level 7
+- [Scorching Ray](Scorching%20Ray.md "XPHB") at class level 7
+- [See Invisibility](See%20Invisibility.md "XPHB") at class level 7
 
 ## 3rd Level
 
-- [Daylight](Compendium/spells/daylight-xphb.md "XPHB") at class level 7
-- [Fireball](Compendium/spells/fireball-xphb.md "XPHB") at class level 7
+- [Daylight](Daylight.md "XPHB") at class level 7
+- [Fireball](Fireball.md "XPHB") at class level 7
 
 ## 4th Level
 
 - [Arcane Eye](Arcane%20Eye.md "XPHB") at class level 7
-- [Wall of Fire](Compendium/spells/wall-of-fire-xphb.md "XPHB") at class level 7
+- [Wall of Fire](Wall%20of%20Fire.md "XPHB") at class level 7
 
 ## 5th Level
 
-- [Flame Strike](Compendium/spells/flame-strike-xphb.md "XPHB") at class level 7
-- [Scrying](Compendium/spells/scrying-xphb.md "XPHB") at class level 7
+- [Flame Strike](Flame%20Strike.md "XPHB") at class level 7
+- [Scrying](Scrying.md "XPHB") at class level 7

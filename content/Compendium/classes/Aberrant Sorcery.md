@@ -62,10 +62,10 @@ When you reach a Sorcerer level specified in the Psionic Spells table, you there
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 3rd | [[Arms of Hadar]], [[Calm Emotions]], [[detect-thoughts-xphb]], [[dissonant-whispers-xphb]], [[mind-sliver-xphb]] |
-| 5th | [[hunger-of-hadar-xphb]], [[sending-xphb]] |
-| 7th | [[evards-black-tentacles-xphb]], [[summon-aberration-xphb]] |
-| 9th | [[rarys-telepathic-bond-xphb]], [[telekinesis-xphb]] |
+| 3rd | [[Arms of Hadar]], [[Calm Emotions]], [[Detect Thoughts]], [[Dissonant Whispers]], [[Mind Sliver]] |
+| 5th | [[Hunger of Hadar]], [[Sending]] |
+| 7th | [[Evard's Black Tentacles]], [[Summon Aberration]] |
+| 9th | [[Rary's Telepathic Bond]], [[Telekinesis]] |
 ^psionic-spells
 
 ### Telepathic Speech (Level 3)
@@ -80,7 +80,7 @@ When you cast any level 1+ spell from your Psionic Spells feature, you can cast 
 
 ### Psychic Defenses (Level 6)
 
-You have [[resistance-xphb]] to Psychic damage, and you have [[Advantage]] on saving throws to avoid or end the [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened) condition.
+You have [[Compendium/spells/Resistance]] to Psychic damage, and you have [[Advantage]] on saving throws to avoid or end the [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened) condition.
 
 ### Revelation in Flesh (Level 14)
 

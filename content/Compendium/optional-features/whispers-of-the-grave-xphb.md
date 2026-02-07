@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Level 7
 
-You can cast [[speak-with-dead-xphb]] without expending a spell slot.
+You can cast [[Speak with Dead]] without expending a spell slot.

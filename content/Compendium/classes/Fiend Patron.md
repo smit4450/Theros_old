@@ -60,10 +60,10 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |---------------|--------|
-| 3 | [[Burning Hands]], [[Command]], [[scorching-ray-xphb]], [[suggestion-xphb]] |
-| 5 | [[fireball-xphb]], [[stinking-cloud-xphb]] |
-| 7 | [[fire-shield-xphb]], [[wall-of-fire-xphb]] |
-| 9 | [[geas-xphb]], [[insect-plague-xphb]] |
+| 3 | [[Burning Hands]], [[Command]], [[Scorching Ray]], [[Suggestion]] |
+| 5 | [[Fireball]], [[Stinking Cloud]] |
+| 7 | [[Fire Shield]], [[Wall of Fire]] |
+| 9 | [[Geas]], [[Insect Plague]] |
 ^fiend-spells
 
 ### Dark One's Blessing (Level 3)
@@ -78,7 +78,7 @@ You can use this feature a number of times equal to your Charisma modifier (mini
 
 ### Fiendish Resilience (Level 10)
 
-Choose one damage type, other than Force, whenever you finish a [[Short Rest]] or [[Long Rest]]. You have [[resistance-xphb]] to that damage type until you choose a different one with this feature.
+Choose one damage type, other than Force, whenever you finish a [[Short Rest]] or [[Long Rest]]. You have [[Compendium/spells/Resistance]] to that damage type until you choose a different one with this feature.
 
 ### Hurl Through Hell (Level 14)
 

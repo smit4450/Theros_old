@@ -219,7 +219,7 @@ But those who enter her domain unbidden almost never go unnoticed, for [[Arasta]
 - **Lair Actions.** On initiative count 20 (losing initiative ties), [[Arasta]] can take a lair action to cause one of the following effects. She can't use the same effect two rounds in a row.  
 
 - [[Arasta]] learns about any creature touching her webs. Each creature [restrained](Conditions.md#Restrained) by a web or [[Arasta]]'s Web of Hair must make a DC 21 Intelligence saving throw. On a failed save, [[Arasta]] gains knowledge of a creature's name, race, where they consider home, and what brought them to her web.  
-- [[Arasta]] casts the [[giant-insect-xphb]] spell (spiders only). It lasts until she uses this lair action again or until she dies.  
+- [[Arasta]] casts the [[Compendium/spells/Giant Insect]] spell (spiders only). It lasts until she uses this lair action again or until she dies.  
 
 - **Regional Effects.** The region containing [[Arasta]]'s lair is warped by her presence, which creates one or more of the following effects:  
 

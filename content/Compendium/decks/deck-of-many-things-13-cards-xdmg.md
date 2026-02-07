@@ -59,11 +59,11 @@ You gain the service of a [[knight-xmm]], who [[Knight|Knight]]an unoccupied spa
 
 ### Moon
 ![](Compendium/decks/img/deck-of-many-things-11-moon.webp#card)
-You gain the ability to cast [[wish-xphb]] `1d3` times.
+You gain the ability to cast [[Wish]] `1d3` times.
 
 ### Rogue
 ![](Compendium/decks/img/deck-of-many-things-06-rogue.webp#card)
-An NPC of the DM's choice becomes [[Hostile (Attitude)]] toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [[wish-xphb]] spell or divine intervention can end the NPC's hostility toward you.
+An NPC of the DM's choice becomes [[Hostile (Attitude)]] toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [[Wish]] spell or divine intervention can end the NPC's hostility toward you.
 
 ### Ruin
 ![](Compendium/decks/img/deck-of-many-things-16-ruin.webp#card)
@@ -87,4 +87,4 @@ You gain proficiency and [[Expertise]] in your choice of [History](Skills.md#His
 
 ### Void
 ![](Compendium/decks/img/deck-of-many-things-18-void.webp#card)
-Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is inert, ceases aging, and requires no food, air, or water. A [[wish-xphb]] spell can't return your soul to your body, but the spell reveals the location of the object that holds your soul. You draw no more cards.
+Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is inert, ceases aging, and requires no food, air, or water. A [[Wish]] spell can't return your soul to your body, but the spell reveals the location of the object that holds your soul. You draw no more cards.

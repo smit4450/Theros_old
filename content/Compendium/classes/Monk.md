@@ -77,7 +77,7 @@ Your practice of martial arts gives you mastery of combat styles that use your [
 - Simple Melee Weapons  
 - Martial Melee Weapons that have the Light property  
 
-You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a [[Shield]].
+You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a [[Compendium/items/Shield]].
 
 ### Bonus Unarmed Strike (Level 1)
 
@@ -93,7 +93,7 @@ You can use your Dexterity modifier instead of your Strength modifier for the at
 
 ### Unarmored Defense (Level 1)
 
-While you aren't wearing armor or wielding a [[Shield]], your base [[Armor Class]] equals 10 plus your Dexterity and Wisdom modifiers.
+While you aren't wearing armor or wielding a [[Compendium/items/Shield]], your base [[Armor Class]] equals 10 plus your Dexterity and Wisdom modifiers.
 
 ### Monk's Focus (Level 2)
 
@@ -119,7 +119,7 @@ You can take the [Dash](Actions.md#Dash) action as a [[Bonus Action]]. Alternati
 
 ### Unarmored Movement (Level 2)
 
-Your speed increases by 10 feet while you aren't wearing armor or wielding a [[Shield]]. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
+Your speed increases by 10 feet while you aren't wearing armor or wielding a [[Compendium/items/Shield]]. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
 
 ### Uncanny Metabolism (Level 2)
 
@@ -173,7 +173,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Acrobatic Movement (Level 9)
 
-While you aren't wearing armor or wielding a [[Shield]], you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
+While you aren't wearing armor or wielding a [[Compendium/items/Shield]], you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
 
 ### Heightened Focus (Level 10)
 
@@ -229,7 +229,7 @@ You gain a feature from your Monk subclass.
 
 ### Superior Defense (Level 18)
 
-At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [Incapacitated](Conditions.md#Incapacitated) condition. During that time, you have [[resistance-xphb]] to all damage except Force damage.
+At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [Incapacitated](Conditions.md#Incapacitated) condition. During that time, you have [[Compendium/spells/Resistance]] to all damage except Force damage.
 
 ### Epic Boon (Level 19)
 

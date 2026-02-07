@@ -52,7 +52,7 @@ Barovia *(buh-ROVE-ee-ah)* is a "Domain of Dread" sequestered in the "Shadowfell
 
 Bigby *(BIG-bee)* is a former apprentice of "Mordenkainen". Though he began his career determined to use magic to dominate and control others, Bigby eventually changed his ways and has worked hard to make amends for his past villainy. Mordenkainen welcomed Bigby into the adventuring company known as the Citadel of Eight (which later became the "Circle of Eight", described in "chapter 5"). Shy and soft-spoken, Bigby was often eclipsed by his mentor, who taught Bigby how to control his ambitions. After years of adventuring, Bigby crafted a handful of spells that gained him widespread renown. Of these spells, [[Bigby's Hand]] is his undisputed magnum opus.
 
-A recent misadventure led to Bigby's untimely demise. After he was crushed to death by a frost giant's boulder, Bigby was the target of a [[reincarnate-xphb]] spell. The spell transformed Bigby from a human into a gnome. Before setting off on his next adventure, Bigby was overheard saying how curious he was to experience the multiverse from a gnome's perspective.
+A recent misadventure led to Bigby's untimely demise. After he was crushed to death by a frost giant's boulder, Bigby was the target of a [[Reincarnate]] spell. The spell transformed Bigby from a human into a gnome. Before setting off on his next adventure, Bigby was overheard saying how curious he was to experience the multiverse from a gnome's perspective.
 
 ## Boo
 
@@ -126,7 +126,7 @@ Gruumsh *(GROOMSH)* is a warring god who is often described as the creator or pa
 
 ## Hadar
 
-Hadar *(HAY-dar or ha-DARR)*, the Dark Hunger, is an ancient stellar entity originating from the "Far Realm" (see "chapter 6"). It appears as a cinder-red dying star, barely visible in the night sky, and it siphons life from its minions to avert its own demise. Two widely used Warlock spells invoke Hadar's power (see the [[Arms of Hadar]] and [[hunger-of-hadar-xphb]] spells in the "Player's Handbook"), and a few Warlocks claim this "Elder Evil" as their Great Old One patron.
+Hadar *(HAY-dar or ha-DARR)*, the Dark Hunger, is an ancient stellar entity originating from the "Far Realm" (see "chapter 6"). It appears as a cinder-red dying star, barely visible in the night sky, and it siphons life from its minions to avert its own demise. Two widely used Warlock spells invoke Hadar's power (see the [[Arms of Hadar]] and [[Hunger of Hadar]] spells in the "Player's Handbook"), and a few Warlocks claim this "Elder Evil" as their Great Old One patron.
 
 ## Harpers, The
 
@@ -152,7 +152,7 @@ Icewind Dale is the northernmost settled region of the Forgotten Realms setting.
 
 ![The Wizard Tasha, before s...](Compendium/books/dungeon-masters-guide-2024/img/206-11-003-tasha.webp#center "The Wizard Tasha, before she became Iggwilv the Witch Queen")
 
-Before she changed her name and conquered enough of Eastern Oerik (the Greyhawk setting) to rightfully call herself the Witch Queen of Perrenland, Iggwilv *(IGG-wilv)* was known as Tasha, a human mage who began her career as the apprentice of Zagig Yragerne (see "Zagyg"). Later, as an adventurer, she created several new spells, including [[tashas-hideous-laughter-xphb]] and [[tashas-bubbling-cauldron-xphb]], leaning on the teachings of her adoptive mother, the arch-hag "Baba Yaga". As Tasha grew in power and made powerful enemies, she changed her name to Iggwilv. In this guise, she became enchanted with the power of the Abyss and wrote the definitive treatise on demonkind: the [[Demonomicon of Iggwilv]] (see "chapter 7"). She also bound and trapped the demon lord "Graz'zt" (see "chapter 6").
+Before she changed her name and conquered enough of Eastern Oerik (the Greyhawk setting) to rightfully call herself the Witch Queen of Perrenland, Iggwilv *(IGG-wilv)* was known as Tasha, a human mage who began her career as the apprentice of Zagig Yragerne (see "Zagyg"). Later, as an adventurer, she created several new spells, including [[Tasha's Hideous Laughter]] and [[Tasha's Bubbling Cauldron]], leaning on the teachings of her adoptive mother, the arch-hag "Baba Yaga". As Tasha grew in power and made powerful enemies, she changed her name to Iggwilv. In this guise, she became enchanted with the power of the Abyss and wrote the definitive treatise on demonkind: the [[Demonomicon of Iggwilv]] (see "chapter 7"). She also bound and trapped the demon lord "Graz'zt" (see "chapter 6").
 
 Iggwilv ruled Perrenland as a tyrant. When Graz'zt escaped his magical prison, Iggwilv went into hiding. Iggwilv's current location is unknown, but she left behind a cambion son ("Iuz"), who has his mother's tyrannical bent, and a daughter (Drelnza), who is now a vampire and lairs in the Lost Caverns of Tsojcanth (see ""Greyhawk Gazetteer"" in "chapter 5"), not far from her mother's old haunts.
 
@@ -224,7 +224,7 @@ Otiluke *(AW-teh-luke)* is an impulsive, aggressive Wizard who is the main agent
 
 ## Otto
 
-Otto *(AW-toe)* is an affable dwarf Bard with a taste for fine food, good music, and expensively tailored clothes. His sociable and outgoing personality masks the fact that he's also a member of the "Circle of Eight" (see "chapter 5") and committed to the goals of that organization. He is well-known across the multiverse for his creation of the [[ottos-irresistible-dance-xphb]] spell.
+Otto *(AW-toe)* is an affable dwarf Bard with a taste for fine food, good music, and expensively tailored clothes. His sociable and outgoing personality masks the fact that he's also a member of the "Circle of Eight" (see "chapter 5") and committed to the goals of that organization. He is well-known across the multiverse for his creation of the [[Otto's Irresistible Dance]] spell.
 
 ## Phandalin
 

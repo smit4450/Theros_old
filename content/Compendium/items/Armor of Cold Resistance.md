@@ -29,7 +29,7 @@ aliases:
 
 
 
-You have [[resistance-xphb]] to cold damage while you wear this armor.
+You have [[Compendium/spells/Resistance]] to cold damage while you wear this armor.
 
 **Variants**:
 -  [[#Breastplate of Cold Resistance]]

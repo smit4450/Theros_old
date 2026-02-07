@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Level 2
 
-You can cast [[disguise-self-xphb]] without expending a spell slot.
+You can cast [[Disguise Self]] without expending a spell slot.

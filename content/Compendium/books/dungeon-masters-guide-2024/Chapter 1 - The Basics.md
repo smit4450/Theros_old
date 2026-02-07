@@ -361,7 +361,7 @@ The DM starts by asking the players to recap the action of the previous session,
 
 - **Maeve.** My work here is done. *(She mimes blowing smoke away from her fingertips.)*  
 - **Jared.** Gareth, you're up next.  
-- **Phillip.** Gareth holds his Holy Symbol and utters an imprecation while pointing at the closest shrub and casting [[toll-the-dead-xphb]]. The sound of a bell tolls, and the shrub makes a Wisdom save, DC 14.  
+- **Phillip.** Gareth holds his Holy Symbol and utters an imprecation while pointing at the closest shrub and casting [[Toll the Dead]]. The sound of a bell tolls, and the shrub makes a Wisdom save, DC 14.  
 - **Jared.** Well, I rolled a 1.  
 - **Phillip.** It takes 7 Necrotic damage!  
 - **Jared.** Whatever moisture was in this "bundle of kindling" seems to dry up, and the thing keels over dead. Anything else, Gareth?  
@@ -375,7 +375,7 @@ The DM starts by asking the players to recap the action of the previous session,
 - **Jared.** That hits! What's your damage?  
 - **Amy.** Since Shreeve is next to it, I can use my Sneak Attack! The shrub takes 12 Piercing damage.  
 - **Jared.** It's felled! Mirabella, the last one is running away. Will you let it escape?  
-- **Maeve.** I think Borogrove would be disappointed in us if we let it escape into the woods. I'll cast [[fire-bolt-xphb]], getting a 14 to hit.  
+- **Maeve.** I think Borogrove would be disappointed in us if we let it escape into the woods. I'll cast [[Fire Bolt]], getting a 14 to hit.  
 - **Jared.** You nailed it.  
 - **Maeve.** It takes 10 Fire damage!  
 - **Jared.** Yeah, the last shrub is incinerated. Well done!  

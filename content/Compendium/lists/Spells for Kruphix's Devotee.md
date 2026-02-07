@@ -11,8 +11,8 @@ aliases:
 
 ## Cantrip
 
-- [Mage Hand](Compendium/spells/mage-hand-xphb.md "XPHB") 
+- [Mage Hand](Mage%20Hand.md "XPHB") 
 
 ## 1st Level
 
-- [Detect Magic](Compendium/spells/detect-magic-xphb.md "XPHB")
+- [Detect Magic](Detect%20Magic.md "XPHB")

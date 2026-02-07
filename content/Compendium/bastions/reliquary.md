@@ -20,7 +20,7 @@ This vault holds sacred objects.
 
 ## Reliquary Charm
 
-After spending a Long Rest in your Bastion, you gain a magical [[reliquary-charm-xdmg]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[greater-restoration-xphb]] once without expending a spell slot or using Material components. You can't gain this Charm again while you still have it.
+After spending a Long Rest in your Bastion, you gain a magical [[reliquary-charm-xdmg]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[Greater Restoration]] once without expending a spell slot or using Material components. You can't gain this Charm again while you still have it.
 
 ## Harvest: Talisman
 

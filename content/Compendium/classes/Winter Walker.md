@@ -59,12 +59,12 @@ You gain the following benefits.
 #### Biting Cold
 _Source: FRHoF_
 
-[[Damage]] from your weapon attacks, Ranger spells, and Ranger features ignores [[resistance-xphb]] to Cold damage.
+[[Damage]] from your weapon attacks, Ranger spells, and Ranger features ignores [[Compendium/spells/Resistance]] to Cold damage.
 
 #### Frost Resistance
 _Source: FRHoF_
 
-You have [[resistance-xphb]] to Cold damage.
+You have [[Compendium/spells/Resistance]] to Cold damage.
 
 #### Polar Strikes
 _Source: FRHoF_
@@ -73,7 +73,7 @@ When you hit a creature with an attack roll using a weapon, you can deal an extr
 
 ### Hunter's Rime (Level 3)
 
-Ice rimes you and your prey, protecting you and slowing them. When you cast [[hunters-mark-xphb]], you gain [[Temporary Hit Points]] equal to `1d10` plus your [[ranger-xphb]] level.
+Ice rimes you and your prey, protecting you and slowing them. When you cast [[Hunter's Mark]], you gain [[Temporary Hit Points]] equal to `1d10` plus your [[ranger-xphb]] level.
 
 Additionally, while a creature is marked[[Ranger|Ranger]]k-xphb]], it can't take the [Disengage](Actions.md#Disengage) action.
 
@@ -83,10 +83,10 @@ When you reach a Ranger level specified in the Winter Walker Spells table, you t
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3 | [[ice-knife-xphb]] |
-| 5 | [[hold-person-xphb]] |
-| 9 | [[remove-curse-xphb]] |
-| 13 | [[ice-storm-xphb]] |
+| 3 | [[Ice Knife]] |
+| 5 | [[Hold Person]] |
+| 9 | [[Remove Curse]] |
+| 13 | [[Ice Storm]] |
 | 17 | [[Cone of Cold]] |
 ^ranger-level-spells
 
@@ -104,7 +104,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Frozen Haunt (Level 15)
 
-When you cast [[hunters-mark-xphb]], you can adopt a ghostly, snowy form. This form lasts until the spell ends, and while you are in this form, you gain the following benefits. Once you use this feature, you can't use it again until you finish a [[Long Rest]] unless you expend a level 4+ spell slot (no action required).
+When you cast [[Hunter's Mark]], you can adopt a ghostly, snowy form. This form lasts until the spell ends, and while you are in this form, you gain the following benefits. Once you use this feature, you can't use it again until you finish a [[Long Rest]] unless you expend a level 4+ spell slot (no action required).
 
 #### Frozen Soul
 _Source: FRHoF_

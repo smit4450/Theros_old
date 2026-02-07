@@ -20,6 +20,6 @@ This robe is adorned with eyelike patterns. While you wear the robe, you gain th
 
 ## Drawbacks
 
-A [[light-xphb]] spell cast on the robe or a [[daylight-xphb]] spell cast within 5 feet of the robe gives you the [Blinded](Conditions.md#Blinded) condition for 1 minute. At the end of each of your turns, you make a Constitution saving throw (DC 11 for Light or DC 15 for Daylight), ending the condition on yourself on a success.
+A [[Light]] spell cast on the robe or a [[Daylight]] spell cast within 5 feet of the robe gives you the [Blinded](Conditions.md#Blinded) condition for 1 minute. At the end of each of your turns, you make a Constitution saving throw (DC 11 for Light or DC 15 for Daylight), ending the condition on yourself on a success.
 
 *Source: Dungeon Master's Guide (2024) p. 297. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

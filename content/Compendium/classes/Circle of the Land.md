@@ -60,19 +60,19 @@ Whenever you finish a [[Long Rest]], choose one type of land: arid, polar, tempe
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[Blur]], [[Burning Hands]], [[fire-bolt-xphb]] |
-| 5th | [[fireball-xphb]] |
+| 3rd | [[Blur]], [[Burning Hands]], [[Fire Bolt]] |
+| 5th | [[Fireball]] |
 | 7th | [[Blight]] |
-| 9th | [[wall-of-stone-xphb]] |
+| 9th | [[Wall of Stone]] |
 ^arid-land
 
 **Polar Land**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[fog-cloud-xphb]], [[hold-person-xphb]], [[ray-of-frost-xphb]] |
-| 5th | [[sleet-storm-xphb]] |
-| 7th | [[ice-storm-xphb]] |
+| 3rd | [[Fog Cloud]], [[Hold Person]], [[Ray of Frost]] |
+| 5th | [[Sleet Storm]] |
+| 7th | [[Ice Storm]] |
 | 9th | [[Cone of Cold]] |
 ^polar-land
 
@@ -80,20 +80,20 @@ Whenever you finish a [[Long Rest]], choose one type of land: arid, polar, tempe
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[misty-step-xphb]], [[shocking-grasp-xphb]], [[sleep-xphb]] |
-| 5th | [[lightning-bolt-xphb]] |
-| 7th | [[freedom-of-movement-xphb]] |
-| 9th | [[tree-stride-xphb]] |
+| 3rd | [[Misty Step]], [[Shocking Grasp]], [[Sleep]] |
+| 5th | [[Lightning Bolt]] |
+| 7th | [[Freedom of Movement]] |
+| 9th | [[Tree Stride]] |
 ^temperate-land
 
 **Tropical Land**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [[Acid Splash]], [[ray-of-sickness-xphb]], [[web-xphb]] |
-| 5th | [[stinking-cloud-xphb]] |
-| 7th | [[polymorph-xphb]] |
-| 9th | [[insect-plague-xphb]] |
+| 3rd | [[Acid Splash]], [[Ray of Sickness]], [[Web]] |
+| 5th | [[Stinking Cloud]] |
+| 7th | [[Polymorph]] |
+| 9th | [[Insect Plague]] |
 ^tropical-land
 
 ### Land's Aid (Level 3)
@@ -110,7 +110,7 @@ In addition, when you finish a [[Short Rest]], you can choose expended spell slo
 
 ### Nature's Ward (Level 10)
 
-You are immune to the [Poisoned](Conditions.md#Poisoned) condition, and you have [[resistance-xphb]] to a damage type associated with your current land choice in the Circle Spells feature, as shown in the [Nature](Skills.md#Nature)'s Ward table.
+You are immune to the [Poisoned](Conditions.md#Poisoned) condition, and you have [[Compendium/spells/Resistance]] to a damage type associated with your current land choice in the Circle Spells feature, as shown in the [Nature](Skills.md#Nature)'s Ward table.
 
 **Nature's Ward**
 
@@ -124,6 +124,6 @@ You are immune to the [Poisoned](Conditions.md#Poisoned) condition, and you have
 
 ### Nature's Sanctuary (Level 14)
 
-As a [Magic](Actions.md#Magic) action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [[Cube (Area of Effect)]] on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [Incapacitated](Conditions.md#Incapacitated) condition or die. You and your allies have [[cover-xphb]] while in that area, and your allies gain the current [[resistance-xphb]] of your [Nature](Skills.md#Nature)'s Ward while there.
+As a [Magic](Actions.md#Magic) action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [[Cube (Area of Effect)]] on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [Incapacitated](Conditions.md#Incapacitated) condition or die. You and your allies have [[cover-xphb]] while in that area, and your allies gain the current [[Compendium/spells/Resistance]] of your [Nature](Skills.md#Nature)'s Ward while there.
 
 As a [[Bonus Action]], you can move the [[Cube (Area of Effect)]] up to 60 feet to ground within 120 feet of yourself.

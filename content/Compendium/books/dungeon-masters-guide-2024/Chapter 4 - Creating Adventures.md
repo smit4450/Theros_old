@@ -532,7 +532,7 @@ A mile upstream from the village, a stream flows into the river from a little wo
 
 ##### Journey Upstream
 
-Borogrove, a kindly [[Treant]], keeps watch over the wood and meets the characters as they follow the polluted stream. He knows the source of the corruption is inside a cave that the stream spills out of. He gives the characters a magic acorn. If swallowed, the acorn conveys the benefits of a [[Potion of Healing]] and the [[lesser-restoration-xphb]] spell.
+Borogrove, a kindly [[Treant]], keeps watch over the wood and meets the characters as they follow the polluted stream. He knows the source of the corruption is inside a cave that the stream spills out of. He gives the characters a magic acorn. If swallowed, the acorn conveys the benefits of a [[Potion of Healing]] and the [[Lesser Restoration]] spell.
 
 ##### Twig Blights
 
@@ -644,11 +644,11 @@ For the ruins, use the western half of the ground floor of the Dungeon Hideout m
 
 ##### The Artifact
 
-The Horns of the Beast—a jagged crown made from the horns of demons and wild animals—rests on a pedestal in the northwest corner of the ruins. Melchis immediately attempts to seize the Artifact and place it on his head. If he does, he is transformed into a [[hezrou-xmm]] and tries to kill the characters. A character who dons the Artifact is cursed with "Demonic Possession" (see ""Curses and Magical Contagions"" in "chapter 3"). The Artifact can't be removed from the character's head until a [[remove-curse-xphb]] spell is cast on the character. If the characters defeat Melchis and search him, they find a [[Bag of Holding]] containing twelve 5-pound gold trade bars (worth 250 GP each) and a [[Spell Scroll]] of [[teleportation-circle-xphb]]. The scroll also contains the sigil sequence for a permanent teleportation circle. At the end of the adventure, each character earns a bonus 1,000 XP.
+The Horns of the Beast—a jagged crown made from the horns of demons and wild animals—rests on a pedestal in the northwest corner of the ruins. Melchis immediately attempts to seize the Artifact and place it on his head. If he does, he is transformed into a [[hezrou-xmm]] and tries to kill the characters. A character who dons the Artifact is cursed with "Demonic Possession" (see ""Curses and Magical Contagions"" in "chapter 3"). The Artifact can't be removed from the character's head until a [[Remove Curse]] spell is cast on the character. If the characters defeat Melchis and search him, they find a [[Bag of Holding]] containing twelve 5-pound gold trade bars (worth 250 GP each) and a [[Spell Scroll]] of [[Compendium/spells/Teleportation Circle]]. The scroll also contains the sigil sequence for a permanent teleportation circle. At the end of the adventure, each character earns a bonus 1,000 XP.
 
 ##### Destroying the Artifact
 
-The Horns of the Beast can be destroyed only by dropping it in the "River Oceanus", which flows through the Upper Planes (see "chapter 6"). A character can learn this by casting [[identify-xphb]] on the Artifact.
+The Horns of the Beast can be destroyed only by dropping it in the "River Oceanus", which flows through the Upper Planes (see "chapter 6"). A character can learn this by casting [[Identify]] on the Artifact.
 
 ### Boreal Ball
 
@@ -675,4 +675,4 @@ After the second dance, the ball is interrupted by a Neutral Evil [[hobgoblin-wa
 
 ##### Conclusion
 
-After three dances, the Baron of the Boreal Ball appears. If the party's Renown Score is at least 6, he bestows on each character a Charm of the Boreal Ball. This charm (see ""Supernatural Gifts"" in "chapter 3") allows a character who has it to cast the level 3 version of the [[ice-knife-xphb]] spell. Once used, the Charm vanishes. Each character also earns a bonus 1,700 XP.
+After three dances, the Baron of the Boreal Ball appears. If the party's Renown Score is at least 6, he bestows on each character a Charm of the Boreal Ball. This charm (see ""Supernatural Gifts"" in "chapter 3") allows a character who has it to cast the level 3 version of the [[Ice Knife]] spell. Once used, the Charm vanishes. Each character also earns a bonus 1,700 XP.

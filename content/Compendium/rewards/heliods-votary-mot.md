@@ -13,6 +13,6 @@ aliases:
 
 *Piety 10+ Heliod trait*
 
-You can cast [[daylight-xphb]] with this trait. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell.
+You can cast [[Daylight]] with this trait. Once you cast the spell in this way, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell.
 
 *Source: Mythic Odysseys of Theros p. 46*

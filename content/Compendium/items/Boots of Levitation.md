@@ -13,6 +13,6 @@ aliases:
 
 
 
-While you wear these boots, you can cast [[levitate-xphb]] on yourself.
+While you wear these boots, you can cast [[Levitate]] on yourself.
 
 *Source: Dungeon Master's Guide (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

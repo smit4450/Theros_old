@@ -32,11 +32,11 @@ While holding Wave, you gain the following benefits:
 
 ## Aquatic Command
 
-Wave has 3 charges and regains `1d3` expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [[dominate-beast-xphb]] (save DC 20) from it on a Beast that has a [[Swim Speed]].
+Wave has 3 charges and regains `1d3` expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [[Dominate Beast]] (save DC 20) from it on a Beast that has a [[Swim Speed]].
 
 ## Globe of Invulnerability
 
-While holding Wave, you can cast the level 9 version of [[globe-of-invulnerability-xphb]] from it. Once used, this property can't be used again until the next dawn.
+While holding Wave, you can cast the level 9 version of [[Globe of Invulnerability]] from it. Once used, this property can't be used again until the next dawn.
 
 ## Sentience
 

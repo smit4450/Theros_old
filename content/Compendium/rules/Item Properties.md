@@ -121,13 +121,13 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 Some magic items bear curses that bedevil their users, sometimes long after a user has stopped using an item. Most methods of identifying items, including the identify spell, fail to reveal the presence of a curse, although lore might hint at it.
 
-Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [[remove-curse-xphb]] spell.
+Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [[Remove Curse]] spell.
 
 ## Cursed Items
 
 A magic item’s description specifies whether it bears a curse. Most methods of identifying items, including the Identify spell, fail to reveal such a curse.
 
-Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [[remove-curse-xphb]] spell.
+Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [[Remove Curse]] spell.
 
 ## Poison
 

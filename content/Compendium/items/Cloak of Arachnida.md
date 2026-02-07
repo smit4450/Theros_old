@@ -17,7 +17,7 @@ This fine garment is made of black silk interwoven with faint, silvery threads. 
 
 ## Poison Resistance
 
-You have [[resistance-xphb]] to Poison damage.
+You have [[Compendium/spells/Resistance]] to Poison damage.
 
 ## Spider Climb
 
@@ -29,6 +29,6 @@ You can't be caught in webs of any sort and can move through webs as if they wer
 
 ## Web
 
-You can cast [[web-xphb]] (save DC 13). The web created by the spell fills twice its normal area. Once used, this property can't be used again until the next dawn.
+You can cast [[Web]] (save DC 13). The web created by the spell fills twice its normal area. Once used, this property can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

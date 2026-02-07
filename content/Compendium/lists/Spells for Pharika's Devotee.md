@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Ray of Sickness](Compendium/spells/ray-of-sickness-xphb.md "XPHB")
+- [Ray of Sickness](Ray%20of%20Sickness.md "XPHB")

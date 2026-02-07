@@ -16,7 +16,7 @@ aliases:
 - **Hirelings**: 1
 - **Order**: recruit
 
-Inscribed on the floor of this room is a permanent teleportation circle created by the [[teleportation-circle-xphb]] spell.
+Inscribed on the floor of this room is a permanent teleportation circle created by the [[Compendium/spells/Teleportation Circle]] spell.
 
 ## Recruit: Spellcaster
 

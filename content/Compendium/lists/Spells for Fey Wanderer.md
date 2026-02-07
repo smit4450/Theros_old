@@ -15,16 +15,16 @@ aliases:
 
 ## 2nd Level
 
-- [Misty Step](Compendium/spells/misty-step-xphb.md "XPHB") at class level 3
+- [Misty Step](Misty%20Step.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Summon Fey](Compendium/spells/summon-fey-xphb.md "XPHB") at class level 3
+- [Summon Fey](Summon%20Fey.md "XPHB") at class level 3
 
 ## 4th Level
 
-- [Dimension Door](Compendium/spells/dimension-door-xphb.md "XPHB") at class level 3
+- [Dimension Door](Dimension%20Door.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Mislead](Compendium/spells/mislead-xphb.md "XPHB") at class level 3
+- [Mislead](Mislead.md "XPHB") at class level 3

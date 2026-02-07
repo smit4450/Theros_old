@@ -167,7 +167,7 @@ Here are definitions of various rules.
 > ![[Damage Types]]
 
 > [!embed-variantrule]- Darkness
-> ![[darkness-xphb]]
+> ![[Compendium/spells/Darkness]]
 
 > [!embed-sense]- Darkvision
 > ![Darkvision](Senses.md#Darkvision)
@@ -377,7 +377,7 @@ Here are definitions of various rules.
 > ![Ready](Actions.md#Ready)
 
 > [!embed-variantrule]- Resistance
-> ![[resistance-xphb]]
+> ![[Compendium/spells/Resistance]]
 
 > [!embed-condition]- Restrained
 > ![Restrained](Conditions.md#Restrained)
@@ -455,7 +455,7 @@ Here are definitions of various rules.
 > ![[Target]]
 
 > [!embed-variantrule]- Telepathy
-> ![[telepathy-xphb]]
+> ![[Compendium/spells/Telepathy]]
 
 > [!embed-variantrule]- Teleportation
 > ![[Teleportation]]

@@ -11,8 +11,8 @@ aliases:
 
 ## Cantrip
 
-- [Mending](Compendium/spells/mending-xphb.md "XPHB") as cantrip
+- [Mending](Mending.md "XPHB") as cantrip
 
 ## 1st Level
 
-- [Shield of Faith](Compendium/spells/shield-of-faith-xphb.md "XPHB") as cantrip
+- [Shield of Faith](Shield%20of%20Faith.md "XPHB") as cantrip

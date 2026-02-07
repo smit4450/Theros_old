@@ -9,7 +9,7 @@ aliases:
 - "Sentinel Shield"
 ---
 # Sentinel Shield
-*Armor ([[Shield]]), uncommon*  
+*Armor ([[Compendium/items/Shield]]), uncommon*  
 
 
 - **Armor Class**: 2

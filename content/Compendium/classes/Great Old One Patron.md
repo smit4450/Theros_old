@@ -60,10 +60,10 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |---------------|--------|
-| 3 | [[detect-thoughts-xphb]], [[dissonant-whispers-xphb]], [[phantasmal-force-xphb]], [[tashas-hideous-laughter-xphb]] |
-| 5 | [[Clairvoyance]], [[hunger-of-hadar-xphb]] |
-| 7 | [[Confusion]], [[summon-aberration-xphb]] |
-| 9 | [[modify-memory-xphb]], [[telekinesis-xphb]] |
+| 3 | [[Detect Thoughts]], [[Dissonant Whispers]], [[Phantasmal Force]], [[Tasha's Hideous Laughter]] |
+| 5 | [[Clairvoyance]], [[Hunger of Hadar]] |
+| 7 | [[Confusion]], [[Summon Aberration]] |
+| 9 | [[Modify Memory]], [[Telekinesis]] |
 ^great-old-one-spells
 
 ### Awakened Mind (Level 3)
@@ -84,14 +84,14 @@ Once you use this feature, you can't use it again until you finish a [[Short Res
 
 ### Eldritch Hex (Level 10)
 
-Your alien patron grants you a powerful curse. You always have the [[hex-xphb]] spell prepared. When you cast [[hex-xphb]] and choose an ability, the target also has [[Disadvantage]] on saving throws of the chosen ability for the duration of the spell.
+Your alien patron grants you a powerful curse. You always have the [[Hex]] spell prepared. When you cast [[Hex]] and choose an ability, the target also has [[Disadvantage]] on saving throws of the chosen ability for the duration of the spell.
 
 ### Thought Shield (Level 10)
 
-Your thoughts can't be read by telepathy or other means unless you allow it. You also have [[resistance-xphb]] to Psychic damage, and whenever a creature deals Psychic damage to you, that creature takes the same amount of damage that you take.
+Your thoughts can't be read by telepathy or other means unless you allow it. You also have [[Compendium/spells/Resistance]] to Psychic damage, and whenever a creature deals Psychic damage to you, that creature takes the same amount of damage that you take.
 
 ### Create Thrall (Level 14)
 
-When you cast [[summon-aberration-xphb]], you can modify it so that it doesn't require [Concentration](Conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of [[Temporary Hit Points]] equal to your Warlock level plus your Charisma modifier.
+When you cast [[Summon Aberration]], you can modify it so that it doesn't require [Concentration](Conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of [[Temporary Hit Points]] equal to your Warlock level plus your Charisma modifier.
 
-In addition, the first time each turn the Aberration hits a creature under the effect of your [[hex-xphb]], the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.
+In addition, the first time each turn the Aberration hits a creature under the effect of your [[Hex]], the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.

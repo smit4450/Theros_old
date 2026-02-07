@@ -11,9 +11,9 @@ aliases:
 
 ## Cantrip
 
-- [Friends](Compendium/spells/friends-xphb.md "XPHB")
-- [Mind Sliver](Compendium/spells/mind-sliver-xphb.md "XPHB")
-- [Vicious Mockery](Compendium/spells/vicious-mockery-xphb.md "XPHB")
+- [Friends](Friends.md "XPHB")
+- [Mind Sliver](Mind%20Sliver.md "XPHB")
+- [Vicious Mockery](Vicious%20Mockery.md "XPHB")
 
 ## 1st Level
 
@@ -23,58 +23,58 @@ aliases:
 - [Charm Person](Charm%20Person.md "XPHB")
 - [Command](Command.md "XPHB")
 - [Compelled Duel](Compelled%20Duel.md "XPHB")
-- [Dissonant Whispers](Compendium/spells/dissonant-whispers-xphb.md "XPHB")
-- [Heroism](Compendium/spells/heroism-xphb.md "XPHB")
-- [Hex](Compendium/spells/hex-xphb.md "XPHB")
-- [Sleep](Compendium/spells/sleep-xphb.md "XPHB")
-- [Tasha's Hideous Laughter](Compendium/spells/tashas-hideous-laughter-xphb.md "XPHB")
+- [Dissonant Whispers](Dissonant%20Whispers.md "XPHB")
+- [Heroism](Heroism.md "XPHB")
+- [Hex](Hex.md "XPHB")
+- [Sleep](Sleep.md "XPHB")
+- [Tasha's Hideous Laughter](Tasha's%20Hideous%20Laughter.md "XPHB")
 
 ## 2nd Level
 
 - [Animal Messenger](Animal%20Messenger.md "XPHB")
 - [Calm Emotions](Calm%20Emotions.md "XPHB")
-- [Crown of Madness](Compendium/spells/crown-of-madness-xphb.md "XPHB")
-- [Enthrall](Compendium/spells/enthrall-xphb.md "XPHB")
-- [Hold Person](Compendium/spells/hold-person-xphb.md "XPHB")
-- [Suggestion](Compendium/spells/suggestion-xphb.md "XPHB")
-- [Zone of Truth](Compendium/spells/zone-of-truth-xphb.md "XPHB")
+- [Crown of Madness](Crown%20of%20Madness.md "XPHB")
+- [Enthrall](Enthrall.md "XPHB")
+- [Hold Person](Hold%20Person.md "XPHB")
+- [Suggestion](Suggestion.md "XPHB")
+- [Zone of Truth](Zone%20of%20Truth.md "XPHB")
 
 ## 4th Level
 
 - [Charm Monster](Charm%20Monster.md "XPHB")
 - [Compulsion](Compulsion.md "XPHB")
 - [Confusion](Confusion.md "XPHB")
-- [Dominate Beast](Compendium/spells/dominate-beast-xphb.md "XPHB")
-- [Staggering Smite](Compendium/spells/staggering-smite-xphb.md "XPHB")
+- [Dominate Beast](Dominate%20Beast.md "XPHB")
+- [Staggering Smite](Staggering%20Smite.md "XPHB")
 
 ## 5th Level
 
-- [Dominate Person](Compendium/spells/dominate-person-xphb.md "XPHB")
-- [Geas](Compendium/spells/geas-xphb.md "XPHB")
-- [Hold Monster](Compendium/spells/hold-monster-xphb.md "XPHB")
-- [Modify Memory](Compendium/spells/modify-memory-xphb.md "XPHB")
-- [Synaptic Static](Compendium/spells/synaptic-static-xphb.md "XPHB")
-- [Yolande's Regal Presence](Compendium/spells/yolandes-regal-presence-xphb.md "XPHB")
+- [Dominate Person](Dominate%20Person.md "XPHB")
+- [Geas](Geas.md "XPHB")
+- [Hold Monster](Hold%20Monster.md "XPHB")
+- [Modify Memory](Modify%20Memory.md "XPHB")
+- [Synaptic Static](Synaptic%20Static.md "XPHB")
+- [Yolande's Regal Presence](Yolande's%20Regal%20Presence.md "XPHB")
 
 ## 6th Level
 
-- [Dirge](Compendium/spells/dirge-frhof.md "FRHoF")
-- [Mass Suggestion](Compendium/spells/mass-suggestion-xphb.md "XPHB")
-- [Otto's Irresistible Dance](Compendium/spells/ottos-irresistible-dance-xphb.md "XPHB")
+- [Dirge](Dirge.md "FRHoF")
+- [Mass Suggestion](Mass%20Suggestion.md "XPHB")
+- [Otto's Irresistible Dance](Otto's%20Irresistible%20Dance.md "XPHB")
 
 ## 7th Level
 
-- [Power Word Fortify](Compendium/spells/power-word-fortify-xphb.md "XPHB")
+- [Power Word Fortify](Power%20Word%20Fortify.md "XPHB")
 
 ## 8th Level
 
 - [Antipathy/Sympathy](Antipathy-Sympathy.md "XPHB")
 - [Befuddlement](Befuddlement.md "XPHB")
-- [Dominate Monster](Compendium/spells/dominate-monster-xphb.md "XPHB")
-- [Glibness](Compendium/spells/glibness-xphb.md "XPHB")
-- [Power Word Stun](Compendium/spells/power-word-stun-xphb.md "XPHB")
+- [Dominate Monster](Dominate%20Monster.md "XPHB")
+- [Glibness](Glibness.md "XPHB")
+- [Power Word Stun](Power%20Word%20Stun.md "XPHB")
 
 ## 9th Level
 
-- [Power Word Heal](Compendium/spells/power-word-heal-xphb.md "XPHB")
-- [Power Word Kill](Compendium/spells/power-word-kill-xphb.md "XPHB")
+- [Power Word Heal](Power%20Word%20Heal.md "XPHB")
+- [Power Word Kill](Power%20Word%20Kill.md "XPHB")

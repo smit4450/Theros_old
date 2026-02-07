@@ -15,7 +15,7 @@ aliases:
 | dice: 1d100 | Property |
 |-------------|----------|
 | 01–09 | You can't attune to other magic items while you're attuned to the Artifact. When you become attuned to the Artifact, your Attunement to other magic items ends immediately. |
-| 10–18 | When you become attuned to the Artifact, a random one of your ability scores is reduced by 2, to a minimum of 3. A [[greater-restoration-xphb]] spell restores the ability. |
+| 10–18 | When you become attuned to the Artifact, a random one of your ability scores is reduced by 2, to a minimum of 3. A [[Greater Restoration]] spell restores the ability. |
 | 19–27 | When you become attuned to the Artifact, you take `8d10` Psychic damage. |
 | 28–36 | The first time you become attuned to the Artifact, it gives you a quest determined by the DM. You can't use any of the Artifact's properties until you complete the quest. |
 | 37–45 | Each time you become attuned to the Artifact, there is a 10 percent chance that you attract the attention of a god who sends an avatar to wrest the Artifact from you. The avatar has the same alignment as its creator and uses the [[empyrean-xmm]] stat block. Once it obtains the Artifact, the avatar vanishes. |

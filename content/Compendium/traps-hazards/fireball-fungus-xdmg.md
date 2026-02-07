@@ -12,7 +12,7 @@ aliases:
 
 A fireball fungus is a Small, inanimate mushroom that can grow anywhere fungi are found in abundance. Its luminous, orange cap sheds [[Bright Light]] in a 15-foot radius and [[Dim Light]] for an additional 15 feet.
 
-A fireball fungus has AC 10, HP 6, and [[Immunity]] to Psychic damage. When it drops to 0 Hit Points, the fungus explodes as if a [[fireball-xphb]] spell (save DC 15) had been centered on it.
+A fireball fungus has AC 10, HP 6, and [[Immunity]] to Psychic damage. When it drops to 0 Hit Points, the fungus explodes as if a [[Fireball]] spell (save DC 15) had been centered on it.
 
 ## At Higher Levels
 

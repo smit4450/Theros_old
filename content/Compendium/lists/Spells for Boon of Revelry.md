@@ -11,4 +11,4 @@ aliases:
 
 ## 6th Level
 
-- [Otto's Irresistible Dance](Compendium/spells/ottos-irresistible-dance-xphb.md "XPHB")
+- [Otto's Irresistible Dance](Otto's%20Irresistible%20Dance.md "XPHB")

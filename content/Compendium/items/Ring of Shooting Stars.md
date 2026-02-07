@@ -14,13 +14,13 @@ aliases:
 ![](Compendium/items/img/ring-of-shooting-stars.webp#right)
 
 
-You can cast [[dancing-lights-xphb]] or [[light-xphb]] from the ring.
+You can cast [[Dancing Lights]] or [[Light]] from the ring.
 
 The ring has 6 charges and regains `1d6` expended charges daily at dawn. You can expend its charges to use the properties below.
 
 ## Faerie Fire
 
-You can expend 1 charge to cast [[faerie-fire-xphb]] from the ring.
+You can expend 1 charge to cast [[Faerie Fire]] from the ring.
 
 ## Lightning Spheres
 

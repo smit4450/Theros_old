@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Daylight](Compendium/spells/daylight-xphb.md "XPHB")
+- [Daylight](Daylight.md "XPHB")

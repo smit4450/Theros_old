@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [False Life](Compendium/spells/false-life-xphb.md "XPHB")
+- [False Life](False%20Life.md "XPHB")

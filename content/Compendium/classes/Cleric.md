@@ -53,13 +53,13 @@ aliases:
 - **Saving Throw Proficiencies**: Charisma, Wisdom
 - **Skill Proficiencies**: *Choose 2:* [History](Skills.md#History), [Insight](Skills.md#Insight), [Medicine](Skills.md#Medicine), [Persuasion](Skills.md#Persuasion), or [Religion](Skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Compendium/items/Shield]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[Chain Shirt]], [[Shield]], [[Mace]], [[Holy Symbol]], [[Priest's Pack]], 7 GP; or (B) 110 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Chain Shirt]], [[Compendium/items/Shield]], [[Mace]], [[Holy Symbol]], [[Priest's Pack]], 7 GP; or (B) 110 GP
 
 ## Multiclassing Cleric
 
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Compendium/items/Shield]]
 
 ## Cleric
 
@@ -77,7 +77,7 @@ You have learned to cast spells through prayer and meditation. See "chapter 7" f
 
 #### Cantrips
 
-You know three cantrips of your choice from the Cleric spell list. [[guidance-xphb]], [[sacred-flame-xphb]], and [[thaumaturgy-xphb]] are recommended.
+You know three cantrips of your choice from the Cleric spell list. [[Guidance]], [[Sacred Flame]], and [[Thaumaturgy]] are recommended.
 
 Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the Cleric spell list.
 
@@ -89,7 +89,7 @@ The Cleric Features table shows how many spell slots you have to cast your level
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. [[Bless]], [[cure-wounds-xphb]], [[guiding-bolt-xphb]], and [[shield-of-faith-xphb]] are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield of Faith]] are recommended.
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -203,4 +203,4 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 ### Greater Divine Intervention (Level 20)
 
-You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose [[wish-xphb]] when you select a spell. If you do so, you can't use Divine Intervention again until you finish `2d4` Long Rests.
+You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose [[Wish]] when you select a spell. If you do so, you can't use Divine Intervention again until you finish `2d4` Long Rests.

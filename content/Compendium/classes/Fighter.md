@@ -53,14 +53,14 @@ aliases:
 - **Saving Throw Proficiencies**: Constitution, Strength
 - **Skill Proficiencies**: *Choose 2:* [Acrobatics](Skills.md#Acrobatics), [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Skills.md#Athletics), [History](Skills.md#History), [Insight](Skills.md#Insight), [Intimidation](Skills.md#Intimidation), [Perception](Skills.md#Perception), [Persuasion](Skills.md#Persuasion), or [Survival](Skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy Armor), and [[Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy Armor), and [[Compendium/items/Shield]]
 
 **Starting Equipment:** *Choose A, B, or C:* (A) [[Chain Mail]], [[Greatsword]], [[Flail]], 8 [[Javelin]], [[Dungeoneer's Pack]], and 4 GP; (B) [[Studded Leather Armor]], [[Scimitar]], [[Shortsword]], [[Longbow]], [[Arrows (20)]], [[Quiver]], [[Dungeoneer's Pack]], and 11 GP; or (C) 155 GP
 
 ## Multiclassing Fighter
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Compendium/items/Shield]]
 
 ## Fighter
 

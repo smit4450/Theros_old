@@ -11,20 +11,20 @@ aliases:
 
 ## Cantrip
 
-- [Druidcraft](Compendium/spells/druidcraft-xphb.md "XPHB") at class level 3
-- [Elementalism](Compendium/spells/elementalism-xphb.md "XPHB") at class level 3
-- [Guidance](Compendium/spells/guidance-xphb.md "XPHB") at class level 3
-- [Mending](Compendium/spells/mending-xphb.md "XPHB") at class level 3
-- [Message](Compendium/spells/message-xphb.md "XPHB") at class level 3
-- [Poison Spray](Compendium/spells/poison-spray-xphb.md "XPHB") at class level 3
-- [Produce Flame](Compendium/spells/produce-flame-xphb.md "XPHB") at class level 3
-- [Resistance](Compendium/spells/resistance-xphb.md "XPHB") at class level 3
-- [Shillelagh](Compendium/spells/shillelagh-xphb.md "XPHB") at class level 3
-- [Spare the Dying](Compendium/spells/spare-the-dying-xphb.md "XPHB") at class level 3
-- [Starry Wisp](Compendium/spells/starry-wisp-xphb.md "XPHB") at class level 3
-- [Thorn Whip](Compendium/spells/thorn-whip-xphb.md "XPHB") at class level 3
-- [Thunderclap](Compendium/spells/thunderclap-xphb.md "XPHB") at class level 3
+- [Druidcraft](Druidcraft.md "XPHB") at class level 3
+- [Elementalism](Elementalism.md "XPHB") at class level 3
+- [Guidance](Guidance.md "XPHB") at class level 3
+- [Mending](Mending.md "XPHB") at class level 3
+- [Message](Message.md "XPHB") at class level 3
+- [Poison Spray](Poison%20Spray.md "XPHB") at class level 3
+- [Produce Flame](Produce%20Flame.md "XPHB") at class level 3
+- [Resistance](Compendium/spells/Resistance.md "XPHB") at class level 3
+- [Shillelagh](Shillelagh.md "XPHB") at class level 3
+- [Spare the Dying](Spare%20the%20Dying.md "XPHB") at class level 3
+- [Starry Wisp](Starry%20Wisp.md "XPHB") at class level 3
+- [Thorn Whip](Thorn%20Whip.md "XPHB") at class level 3
+- [Thunderclap](Thunderclap.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Moonbeam](Compendium/spells/moonbeam-xphb.md "XPHB") at class level 3
+- [Moonbeam](Moonbeam.md "XPHB") at class level 3

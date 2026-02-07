@@ -12,24 +12,24 @@ aliases:
 ## 1st Level
 
 - [Alarm](Alarm.md "XPHB") at class level 3
-- [Protection from Evil and Good](Compendium/spells/protection-from-evil-and-good-xphb.md "XPHB") at class level 3
+- [Protection from Evil and Good](Protection%20from%20Evil%20and%20Good.md "XPHB") at class level 3
 
 ## 2nd Level
 
 - [Aid](Aid.md "XPHB") at class level 3
-- [Lesser Restoration](Compendium/spells/lesser-restoration-xphb.md "XPHB") at class level 3
+- [Lesser Restoration](Lesser%20Restoration.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Dispel Magic](Compendium/spells/dispel-magic-xphb.md "XPHB") at class level 3
-- [Protection from Energy](Compendium/spells/protection-from-energy-xphb.md "XPHB") at class level 3
+- [Dispel Magic](Dispel%20Magic.md "XPHB") at class level 3
+- [Protection from Energy](Protection%20from%20Energy.md "XPHB") at class level 3
 
 ## 4th Level
 
-- [Freedom of Movement](Compendium/spells/freedom-of-movement-xphb.md "XPHB") at class level 3
-- [Summon Construct](Compendium/spells/summon-construct-xphb.md "XPHB") at class level 3
+- [Freedom of Movement](Freedom%20of%20Movement.md "XPHB") at class level 3
+- [Summon Construct](Summon%20Construct.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Greater Restoration](Compendium/spells/greater-restoration-xphb.md "XPHB") at class level 3
-- [Wall of Force](Compendium/spells/wall-of-force-xphb.md "XPHB") at class level 3
+- [Greater Restoration](Greater%20Restoration.md "XPHB") at class level 3
+- [Wall of Force](Wall%20of%20Force.md "XPHB") at class level 3

@@ -53,7 +53,7 @@ aliases:
 - **Saving Throw Proficiencies**: Dexterity, Strength
 - **Skill Proficiencies**: *Choose 3:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Skills.md#Athletics), [Insight](Skills.md#Insight), [Investigation](Skills.md#Investigation), [Nature](Skills.md#Nature), [Perception](Skills.md#Perception), [Stealth](Skills.md#Stealth), or [Survival](Skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Compendium/items/Shield]]
 
 **Starting Equipment:** *Choose A or B:* (A) [[Studded Leather Armor]], [[Scimitar]], [[Shortsword]], [[Longbow]], [[Arrows (20)]], [[Quiver]], [[Druidic Focus]] ([[Sprig of Mistletoe]]), [[Explorer's Pack]], and 7 GP; or (B) 150 GP
 
@@ -61,7 +61,7 @@ aliases:
 
 - **Skill Proficiencies**: *Choose 1:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Skills.md#Athletics), [Insight](Skills.md#Insight), [Investigation](Skills.md#Investigation), [Nature](Skills.md#Nature), [Perception](Skills.md#Perception), [Stealth](Skills.md#Stealth), or [Survival](Skills.md#Survival)
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Compendium/items/Shield]]
 
 ## Ranger
 
@@ -81,7 +81,7 @@ The Ranger Features table shows how many spell slots you have to cast your level
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. [[cure-wounds-xphb]] and [[ensnaring-strike-xphb]] are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. [[Cure Wounds]] and [[Ensnaring Strike]] are recommended.
 
 The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.
 
@@ -101,7 +101,7 @@ You can use a [[Druidic Focus]] as a [[Spellcasting Focus]] for your Ranger spel
 
 ### Favored Enemy (Level 1)
 
-You always have the [[hunters-mark-xphb]] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [[Long Rest]].
+You always have the [[Hunter's Mark]] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [[Long Rest]].
 
 The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table.
 

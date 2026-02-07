@@ -11,4 +11,4 @@ aliases:
 # Armor of Shadows
 *Source: Player's Handbook (2024) p. 155. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
-You can cast [[mage-armor-xphb]] on yourself without expending a spell slot.
+You can cast [[Mage Armor]] on yourself without expending a spell slot.

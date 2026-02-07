@@ -66,7 +66,7 @@ Whenever you hit with your [[Unarmed Strike]], you can cause it to deal your cho
 
 ### Manipulate Elements (Level 3)
 
-You know the [[elementalism-xphb]] spell. Wisdom is your spellcasting ability for it.
+You know the [[Elementalism]] spell. Wisdom is your spellcasting ability for it.
 
 ### Elemental Burst (Level 6)
 
@@ -84,7 +84,7 @@ While your Elemental Attunement is active, you also gain the following benefits.
 
 #### Damage Resistance
 
-You gain [[resistance-xphb]] to one of the following damage types of your choice: Acid, Cold, Fire, Lightning, or Thunder. At the start of each of your turns, you can change this choice.
+You gain [[Compendium/spells/Resistance]] to one of the following damage types of your choice: Acid, Cold, Fire, Lightning, or Thunder. At the start of each of your turns, you can change this choice.
 
 #### Destructive Stride
 

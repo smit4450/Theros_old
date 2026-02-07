@@ -3483,7 +3483,7 @@ Hezrous compose the bulk of many demonic hordes. In croaking, reeking throngs, t
 
 Hezrous serve more powerful demons, such as nalfeshnees and mariliths. They take the abuse and intimidation of these deadlier demons and pass it on to droves of weaker dretches and manes. This predictable brutality makes hezrous useful links in the chaotic structure of a demonic horde.
 
-When on the Material Plane or otherwise left to their own devices, hezrous recklessly indulge in destructive, short-sighted rampages. Only magic and threats from more powerful masters can curb these demons' outrages and compel hezrous to pursue greater plots. Powerful spellcasters often use sinister coercions, spells like [[magic-circle-xphb]] and [[planar-binding-xphb]], or other magic to force hezrous to serve them. Roll on or choose a result from the Demonic Undertakings table to inspire how a magic-user might employ a hezrou or similar demon.
+When on the Material Plane or otherwise left to their own devices, hezrous recklessly indulge in destructive, short-sighted rampages. Only magic and threats from more powerful masters can curb these demons' outrages and compel hezrous to pursue greater plots. Powerful spellcasters often use sinister coercions, spells like [[Magic Circle]] and [[Planar Binding]], or other magic to force hezrous to serve them. Roll on or choose a result from the Demonic Undertakings table to inspire how a magic-user might employ a hezrou or similar demon.
 
 **Demonic Undertakings**
 
@@ -4623,7 +4623,7 @@ Mysterious rites and mighty faith can tie spirits to their corpses, binding them
 
 Mummies pursue those who offend them, typically mortals who desecrate their resting places, steal their burial treasures, or defile sites tied to their faith. With undying rage, these ancient corpses go to extreme lengths to avenge themselves and restore what they need to find peace.
 
-A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy's grasp might find themselves subject to a terrible curse. Victims of a mummy's curse gradually wither, their bodies rotting away until they're reduced to dust. This curse can be healed only by the [[remove-curse-xphb]] spell or similar magic.
+A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy's grasp might find themselves subject to a terrible curse. Victims of a mummy's curse gradually wither, their bodies rotting away until they're reduced to dust. This curse can be healed only by the [[Remove Curse]] spell or similar magic.
 
 ![](Compendium/books/monster-manual-2025/img/211-13-021-mummy.webp#center)
 
@@ -5897,9 +5897,9 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 > [!note] Slaad Control Gems
 > 
-> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [Charmed](Conditions.md#Charmed) condition and obeys the gem's bearer. The slaad ceases to be [Charmed](Conditions.md#Charmed) if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater-restoration-xphb]] spell cast on a slaad destroys the gem, and the slaad ceases to be [Charmed](Conditions.md#Charmed).
+> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [Charmed](Conditions.md#Charmed) condition and obeys the gem's bearer. The slaad ceases to be [Charmed](Conditions.md#Charmed) if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[Greater Restoration]] spell cast on a slaad destroys the gem, and the slaad ceases to be [Charmed](Conditions.md#Charmed).
 > 
-> One can obtain a slaad's control gem using a [[wish-xphb]] or [[imprisonment-xphb]] spell. If the slaad fails its saving throw against [[imprisonment-xphb]], the caster gains the gem, and the slaad isn't imprisoned. An [Incapacitated](Conditions.md#Incapacitated) slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([Medicine](Skills.md#Medicine)) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
+> One can obtain a slaad's control gem using a [[Wish]] or [[Imprisonment]] spell. If the slaad fails its saving throw against [[Imprisonment]], the caster gains the gem, and the slaad isn't imprisoned. An [Incapacitated](Conditions.md#Incapacitated) slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([Medicine](Skills.md#Medicine)) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
 ^slaad-control-gems
 
 > [!quote] A quote from Jebeel Sloom  
@@ -6200,7 +6200,7 @@ Stone golems are typically created to protect places of significance to a group,
 | dice: 1d6 | The Stone Golem Follows Orders To... |
 |-----------|--------------------------------------|
 | 1 | Allow only those wearing ritual garb to pass. |
-| 2 | Cast [[slow-xphb]] on and aid in apprehending anyone who touches a city's prized relic. |
+| 2 | Cast [[Slow]] on and aid in apprehending anyone who touches a city's prized relic. |
 | 3 | Destroy a dam or bridge at the command of one bearing a ruler's medallion of office. |
 | 4 | Obey whoever places a missing crest in its chest, then deactivate for a year. |
 | 5 | Reveal a hidden passage to those who recite a leader's final words. |

@@ -11,32 +11,32 @@ aliases:
 
 ## Cantrip
 
-- [Mage Hand](Compendium/spells/mage-hand-xphb.md "XPHB")
-- [Produce Flame](Compendium/spells/produce-flame-xphb.md "XPHB")
+- [Mage Hand](Mage%20Hand.md "XPHB")
+- [Produce Flame](Produce%20Flame.md "XPHB")
 
 ## 1st Level
 
 - [Arms of Hadar](Arms%20of%20Hadar.md "XPHB")
-- [Ensnaring Strike](Compendium/spells/ensnaring-strike-xphb.md "XPHB")
-- [Entangle](Compendium/spells/entangle-xphb.md "XPHB")
-- [Find Familiar](Compendium/spells/find-familiar-xphb.md "XPHB")
-- [Fog Cloud](Compendium/spells/fog-cloud-xphb.md "XPHB")
-- [Goodberry](Compendium/spells/goodberry-xphb.md "XPHB")
-- [Grease](Compendium/spells/grease-xphb.md "XPHB")
-- [Hail of Thorns](Compendium/spells/hail-of-thorns-xphb.md "XPHB")
-- [Ice Knife](Compendium/spells/ice-knife-xphb.md "XPHB")
-- [Tenser's Floating Disk](Compendium/spells/tensers-floating-disk-xphb.md "XPHB")
-- [Unseen Servant](Compendium/spells/unseen-servant-xphb.md "XPHB")
+- [Ensnaring Strike](Ensnaring%20Strike.md "XPHB")
+- [Entangle](Entangle.md "XPHB")
+- [Find Familiar](Find%20Familiar.md "XPHB")
+- [Fog Cloud](Fog%20Cloud.md "XPHB")
+- [Goodberry](Goodberry.md "XPHB")
+- [Grease](Grease.md "XPHB")
+- [Hail of Thorns](Hail%20of%20Thorns.md "XPHB")
+- [Ice Knife](Ice%20Knife.md "XPHB")
+- [Tenser's Floating Disk](Tenser's%20Floating%20Disk.md "XPHB")
+- [Unseen Servant](Unseen%20Servant.md "XPHB")
 
 ## 2nd Level
 
 - [Cloud of Daggers](Cloud%20of%20Daggers.md "XPHB")
-- [Deryan's Helpful Homunculi](Compendium/spells/deryans-helpful-homunculi-frhof.md "FRHoF")
-- [Find Steed](Compendium/spells/find-steed-xphb.md "XPHB")
-- [Flaming Sphere](Compendium/spells/flaming-sphere-xphb.md "XPHB")
-- [Misty Step](Compendium/spells/misty-step-xphb.md "XPHB")
-- [Summon Beast](Compendium/spells/summon-beast-xphb.md "XPHB")
-- [Web](Compendium/spells/web-xphb.md "XPHB")
+- [Deryan's Helpful Homunculi](Deryan's%20Helpful%20Homunculi.md "FRHoF")
+- [Find Steed](Find%20Steed.md "XPHB")
+- [Flaming Sphere](Flaming%20Sphere.md "XPHB")
+- [Misty Step](Misty%20Step.md "XPHB")
+- [Summon Beast](Summon%20Beast.md "XPHB")
+- [Web](Web.md "XPHB")
 
 ## 3rd Level
 
@@ -44,29 +44,29 @@ aliases:
 - [Conjure Animals](Conjure%20Animals.md "XPHB")
 - [Conjure Barrage](Conjure%20Barrage.md "XPHB")
 - [Conjure Constructs](Conjure%20Constructs.md "FRHoF")
-- [Create Food and Water](Compendium/spells/create-food-and-water-xphb.md "XPHB")
-- [Hunger of Hadar](Compendium/spells/hunger-of-hadar-xphb.md "XPHB")
-- [Sleet Storm](Compendium/spells/sleet-storm-xphb.md "XPHB")
-- [Spirit Guardians](Compendium/spells/spirit-guardians-xphb.md "XPHB")
-- [Stinking Cloud](Compendium/spells/stinking-cloud-xphb.md "XPHB")
-- [Summon Fey](Compendium/spells/summon-fey-xphb.md "XPHB")
-- [Syluné's Viper](Compendium/spells/sylunes-viper-frhof.md "FRHoF")
+- [Create Food and Water](Create%20Food%20and%20Water.md "XPHB")
+- [Hunger of Hadar](Hunger%20of%20Hadar.md "XPHB")
+- [Sleet Storm](Sleet%20Storm.md "XPHB")
+- [Spirit Guardians](Spirit%20Guardians.md "XPHB")
+- [Stinking Cloud](Stinking%20Cloud.md "XPHB")
+- [Summon Fey](Summon%20Fey.md "XPHB")
+- [Syluné's Viper](Syluné's%20Viper.md "FRHoF")
 
 ## 4th Level
 
 - [Conjure Minor Elementals](Conjure%20Minor%20Elementals.md "XPHB")
 - [Conjure Woodland Beings](Conjure%20Woodland%20Beings.md "XPHB")
-- [Dimension Door](Compendium/spells/dimension-door-xphb.md "XPHB")
-- [Doomtide](Compendium/spells/doomtide-frhof.md "FRHoF")
-- [Evard's Black Tentacles](Compendium/spells/evards-black-tentacles-xphb.md "XPHB")
-- [Giant Insect](Compendium/spells/giant-insect-xphb.md "XPHB")
-- [Grasping Vine](Compendium/spells/grasping-vine-xphb.md "XPHB")
-- [Guardian of Faith](Compendium/spells/guardian-of-faith-xphb.md "XPHB")
-- [Leomund's Secret Chest](Compendium/spells/leomunds-secret-chest-xphb.md "XPHB")
-- [Mordenkainen's Faithful Hound](Compendium/spells/mordenkainens-faithful-hound-xphb.md "XPHB")
-- [Summon Aberration](Compendium/spells/summon-aberration-xphb.md "XPHB")
-- [Summon Construct](Compendium/spells/summon-construct-xphb.md "XPHB")
-- [Summon Elemental](Compendium/spells/summon-elemental-xphb.md "XPHB")
+- [Dimension Door](Dimension%20Door.md "XPHB")
+- [Doomtide](Doomtide.md "FRHoF")
+- [Evard's Black Tentacles](Evard's%20Black%20Tentacles.md "XPHB")
+- [Giant Insect](Compendium/spells/Giant%20Insect.md "XPHB")
+- [Grasping Vine](Grasping%20Vine.md "XPHB")
+- [Guardian of Faith](Guardian%20of%20Faith.md "XPHB")
+- [Leomund's Secret Chest](Leomund's%20Secret%20Chest.md "XPHB")
+- [Mordenkainen's Faithful Hound](Mordenkainen's%20Faithful%20Hound.md "XPHB")
+- [Summon Aberration](Summon%20Aberration.md "XPHB")
+- [Summon Construct](Summon%20Construct.md "XPHB")
+- [Summon Elemental](Summon%20Elemental.md "XPHB")
 
 ## 5th Level
 
@@ -74,44 +74,44 @@ aliases:
 - [Cloudkill](Cloudkill.md "XPHB")
 - [Conjure Elemental](Conjure%20Elemental.md "XPHB")
 - [Conjure Volley](Conjure%20Volley.md "XPHB")
-- [Insect Plague](Compendium/spells/insect-plague-xphb.md "XPHB")
-- [Steel Wind Strike](Compendium/spells/steel-wind-strike-xphb.md "XPHB")
-- [Summon Celestial](Compendium/spells/summon-celestial-xphb.md "XPHB")
-- [Summon Dragon](Compendium/spells/summon-dragon-xphb.md "XPHB")
-- [Teleportation Circle](Compendium/spells/teleportation-circle-xphb.md "XPHB")
-- [Tree Stride](Compendium/spells/tree-stride-xphb.md "XPHB")
+- [Insect Plague](Insect%20Plague.md "XPHB")
+- [Steel Wind Strike](Steel%20Wind%20Strike.md "XPHB")
+- [Summon Celestial](Summon%20Celestial.md "XPHB")
+- [Summon Dragon](Summon%20Dragon.md "XPHB")
+- [Teleportation Circle](Compendium/spells/Teleportation%20Circle.md "XPHB")
+- [Tree Stride](Tree%20Stride.md "XPHB")
 
 ## 6th Level
 
 - [Arcane Gate](Arcane%20Gate.md "XPHB")
 - [Conjure Fey](Conjure%20Fey.md "XPHB")
-- [Drawmij's Instant Summons](Compendium/spells/drawmijs-instant-summons-xphb.md "XPHB")
-- [Heroes' Feast](Compendium/spells/heroes-feast-xphb.md "XPHB")
-- [Planar Ally](Compendium/spells/planar-ally-xphb.md "XPHB")
-- [Summon Fiend](Compendium/spells/summon-fiend-xphb.md "XPHB")
-- [Tasha's Bubbling Cauldron](Compendium/spells/tashas-bubbling-cauldron-xphb.md "XPHB")
-- [Transport via Plants](Compendium/spells/transport-via-plants-xphb.md "XPHB")
-- [Wall of Thorns](Compendium/spells/wall-of-thorns-xphb.md "XPHB")
-- [Word of Recall](Compendium/spells/word-of-recall-xphb.md "XPHB")
+- [Drawmij's Instant Summons](Drawmij's%20Instant%20Summons.md "XPHB")
+- [Heroes' Feast](Heroes'%20Feast.md "XPHB")
+- [Planar Ally](Planar%20Ally.md "XPHB")
+- [Summon Fiend](Summon%20Fiend.md "XPHB")
+- [Tasha's Bubbling Cauldron](Tasha's%20Bubbling%20Cauldron.md "XPHB")
+- [Transport via Plants](Transport%20via%20Plants.md "XPHB")
+- [Wall of Thorns](Wall%20of%20Thorns.md "XPHB")
+- [Word of Recall](Word%20of%20Recall.md "XPHB")
 
 ## 7th Level
 
 - [Conjure Celestial](Conjure%20Celestial.md "XPHB")
-- [Etherealness](Compendium/spells/etherealness-xphb.md "XPHB")
-- [Mordenkainen's Magnificent Mansion](Compendium/spells/mordenkainens-magnificent-mansion-xphb.md "XPHB")
-- [Plane Shift](Compendium/spells/plane-shift-xphb.md "XPHB")
-- [Teleport](Compendium/spells/teleport-xphb.md "XPHB")
+- [Etherealness](Etherealness.md "XPHB")
+- [Mordenkainen's Magnificent Mansion](Mordenkainen's%20Magnificent%20Mansion.md "XPHB")
+- [Plane Shift](Plane%20Shift.md "XPHB")
+- [Teleport](Teleport.md "XPHB")
 
 ## 8th Level
 
-- [Demiplane](Compendium/spells/demiplane-xphb.md "XPHB")
-- [Incendiary Cloud](Compendium/spells/incendiary-cloud-xphb.md "XPHB")
-- [Maze](Compendium/spells/maze-xphb.md "XPHB")
-- [Tsunami](Compendium/spells/tsunami-xphb.md "XPHB")
+- [Demiplane](Compendium/spells/Demiplane.md "XPHB")
+- [Incendiary Cloud](Incendiary%20Cloud.md "XPHB")
+- [Maze](Maze.md "XPHB")
+- [Tsunami](Tsunami.md "XPHB")
 
 ## 9th Level
 
 - [Blade of Disaster](Blade%20of%20Disaster.md "FRHoF")
-- [Gate](Compendium/spells/gate-xphb.md "XPHB")
-- [Storm of Vengeance](Compendium/spells/storm-of-vengeance-xphb.md "XPHB")
-- [Wish](Compendium/spells/wish-xphb.md "XPHB")
+- [Gate](Gate.md "XPHB")
+- [Storm of Vengeance](Storm%20of%20Vengeance.md "XPHB")
+- [Wish](Wish.md "XPHB")

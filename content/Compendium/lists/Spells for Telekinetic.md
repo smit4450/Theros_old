@@ -11,4 +11,4 @@ aliases:
 
 ## Cantrip
 
-- [Mage Hand](Compendium/spells/mage-hand-xphb.md "XPHB") as cantrip
+- [Mage Hand](Mage%20Hand.md "XPHB") as cantrip

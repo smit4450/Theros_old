@@ -11,56 +11,56 @@ aliases:
 
 ## Cantrip
 
-- [Dancing Lights](Compendium/spells/dancing-lights-xphb.md "XPHB")
-- [Minor Illusion](Compendium/spells/minor-illusion-xphb.md "XPHB")
+- [Dancing Lights](Dancing%20Lights.md "XPHB")
+- [Minor Illusion](Minor%20Illusion.md "XPHB")
 
 ## 1st Level
 
 - [Color Spray](Color%20Spray.md "XPHB")
-- [Disguise Self](Compendium/spells/disguise-self-xphb.md "XPHB")
-- [Illusory Script](Compendium/spells/illusory-script-xphb.md "XPHB")
-- [Silent Image](Compendium/spells/silent-image-xphb.md "XPHB")
+- [Disguise Self](Disguise%20Self.md "XPHB")
+- [Illusory Script](Illusory%20Script.md "XPHB")
+- [Silent Image](Silent%20Image.md "XPHB")
 
 ## 2nd Level
 
 - [Blur](Blur.md "XPHB")
-- [Invisibility](Compendium/spells/invisibility-xphb.md "XPHB")
-- [Magic Mouth](Compendium/spells/magic-mouth-xphb.md "XPHB")
-- [Mirror Image](Compendium/spells/mirror-image-xphb.md "XPHB")
-- [Nystul's Magic Aura](Compendium/spells/nystuls-magic-aura-xphb.md "XPHB")
-- [Phantasmal Force](Compendium/spells/phantasmal-force-xphb.md "XPHB")
-- [Silence](Compendium/spells/silence-xphb.md "XPHB")
+- [Invisibility](Invisibility.md "XPHB")
+- [Magic Mouth](Magic%20Mouth.md "XPHB")
+- [Mirror Image](Mirror%20Image.md "XPHB")
+- [Nystul's Magic Aura](Nystul's%20Magic%20Aura.md "XPHB")
+- [Phantasmal Force](Phantasmal%20Force.md "XPHB")
+- [Silence](Silence.md "XPHB")
 
 ## 3rd Level
 
-- [Fear](Compendium/spells/fear-xphb.md "XPHB")
-- [Hypnotic Pattern](Compendium/spells/hypnotic-pattern-xphb.md "XPHB")
-- [Major Image](Compendium/spells/major-image-xphb.md "XPHB")
-- [Phantom Steed](Compendium/spells/phantom-steed-xphb.md "XPHB")
+- [Fear](Fear.md "XPHB")
+- [Hypnotic Pattern](Hypnotic%20Pattern.md "XPHB")
+- [Major Image](Major%20Image.md "XPHB")
+- [Phantom Steed](Phantom%20Steed.md "XPHB")
 
 ## 4th Level
 
-- [Greater Invisibility](Compendium/spells/greater-invisibility-xphb.md "XPHB")
-- [Hallucinatory Terrain](Compendium/spells/hallucinatory-terrain-xphb.md "XPHB")
-- [Phantasmal Killer](Compendium/spells/phantasmal-killer-xphb.md "XPHB")
+- [Greater Invisibility](Greater%20Invisibility.md "XPHB")
+- [Hallucinatory Terrain](Hallucinatory%20Terrain.md "XPHB")
+- [Phantasmal Killer](Phantasmal%20Killer.md "XPHB")
 
 ## 5th Level
 
-- [Creation](Compendium/spells/creation-xphb.md "XPHB")
-- [Dream](Compendium/spells/dream-xphb.md "XPHB")
-- [Mislead](Compendium/spells/mislead-xphb.md "XPHB")
-- [Seeming](Compendium/spells/seeming-xphb.md "XPHB")
+- [Creation](Creation.md "XPHB")
+- [Dream](Dream.md "XPHB")
+- [Mislead](Mislead.md "XPHB")
+- [Seeming](Seeming.md "XPHB")
 
 ## 6th Level
 
-- [Programmed Illusion](Compendium/spells/programmed-illusion-xphb.md "XPHB")
+- [Programmed Illusion](Programmed%20Illusion.md "XPHB")
 
 ## 7th Level
 
-- [Mirage Arcane](Compendium/spells/mirage-arcane-xphb.md "XPHB")
-- [Project Image](Compendium/spells/project-image-xphb.md "XPHB")
-- [Simulacrum](Compendium/spells/simulacrum-xphb.md "XPHB")
+- [Mirage Arcane](Mirage%20Arcane.md "XPHB")
+- [Project Image](Project%20Image.md "XPHB")
+- [Simulacrum](Simulacrum.md "XPHB")
 
 ## 9th Level
 
-- [Weird](Compendium/spells/weird-xphb.md "XPHB")
+- [Weird](Weird.md "XPHB")

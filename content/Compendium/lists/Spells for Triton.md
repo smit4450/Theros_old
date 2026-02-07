@@ -11,12 +11,12 @@ aliases:
 
 ## 1st Level
 
-- [Fog Cloud](Compendium/spells/fog-cloud-xphb.md "XPHB") 
+- [Fog Cloud](Fog%20Cloud.md "XPHB") 
 
 ## 2nd Level
 
-- [Gust of Wind](Compendium/spells/gust-of-wind-xphb.md "XPHB") 
+- [Gust of Wind](Gust%20of%20Wind.md "XPHB") 
 
 ## 3rd Level
 
-- [Wall of Water](Compendium/spells/wall-of-water-xge.md "XGE")
+- [Wall of Water](Wall%20of%20Water.md "XGE")

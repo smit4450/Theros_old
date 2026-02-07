@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Level 2
 
-You can cast [[silent-image-xphb]] without expending a spell slot.
+You can cast [[Silent Image]] without expending a spell slot.

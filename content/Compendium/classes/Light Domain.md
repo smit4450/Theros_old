@@ -63,15 +63,15 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [[Burning Hands]], [[faerie-fire-xphb]], [[scorching-ray-xphb]], [[see-invisibility-xphb]] |
-| 5th | [[daylight-xphb]], [[fireball-xphb]] |
-| 7th | [[Arcane Eye]], [[wall-of-fire-xphb]] |
-| 9th | [[flame-strike-xphb]], [[scrying-xphb]] |
+| 3rd | [[Burning Hands]], [[Faerie Fire]], [[Scorching Ray]], [[See Invisibility]] |
+| 5th | [[Daylight]], [[Fireball]] |
+| 7th | [[Arcane Eye]], [[Wall of Fire]] |
+| 9th | [[Flame Strike]], [[Scrying]] |
 ^light-domain-spells
 
 ### Radiance of the Dawn (Level 3)
 
-As a [Magic](Actions.md#Magic) action, you present your [[Holy Symbol]] and expend a use of your Channel Divinity to emit a flash of light in a 30-foot [[Emanation (Area of Effect)]] originating from yourself. Any magical [[darkness-xphb]]—such as that created by the [[darkness-xphb]] spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to `2d10` plus your Cleric level on a failed save or half as much damage on a successful one.
+As a [Magic](Actions.md#Magic) action, you present your [[Holy Symbol]] and expend a use of your Channel Divinity to emit a flash of light in a 30-foot [[Emanation (Area of Effect)]] originating from yourself. Any magical [[Compendium/spells/Darkness]]—such as that created by the [[Compendium/spells/Darkness]] spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to `2d10` plus your Cleric level on a failed save or half as much damage on a successful one.
 
 ### Warding Flare (Level 3)
 

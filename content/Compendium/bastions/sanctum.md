@@ -20,7 +20,7 @@ A Sanctum is a place of solace and healing.
 
 ## Sanctum Charm
 
-After spending a Long Rest in your Bastion, you gain a magical [[sanctum-charm-xdmg]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[heal-xphb]] once without expending a spell slot. You can't gain this Charm again while you still have it.
+After spending a Long Rest in your Bastion, you gain a magical [[sanctum-charm-xdmg]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[Heal]] once without expending a spell slot. You can't gain this Charm again while you still have it.
 
 ## Empower: Fortifying Rites
 
@@ -28,6 +28,6 @@ When you issue the "Empower" order to this facility, you inspire its hirelings t
 
 ## Sanctum Recall
 
-While the Sanctum exists, you always have the [[word-of-recall-xphb]] spell prepared. When you cast [[word-of-recall-xphb]], you can make your Sanctum the destination of the spell instead of another place you have previously designated. In addition, one creature of your choice that arrives in the Sanctum via this spell gains the benefit of a [[heal-xphb]] spell.
+While the Sanctum exists, you always have the [[Word of Recall]] spell prepared. When you cast [[Word of Recall]], you can make your Sanctum the destination of the spell instead of another place you have previously designated. In addition, one creature of your choice that arrives in the Sanctum via this spell gains the benefit of a [[Heal]] spell.
 
 *Source: Dungeon Master's Guide (2024) p. 346*

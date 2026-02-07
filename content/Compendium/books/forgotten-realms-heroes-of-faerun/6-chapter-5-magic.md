@@ -12,7 +12,7 @@ aliases:
 
 ![Vajra Safahr commands the ...](Compendium/books/forgotten-realms-heroes-of-faerun/img/146-05-001-vajra-safahr-commands.webp#center "Vajra Safahr commands the mighty walking statues of Waterdeep.")
 
-From the simplest cantrip to the mightiest workings of high magic, from a humble [[cure-wounds-xphb]] spell to the raising of mighty heroes from the dead, magic permeates the world. And any understanding of magic begins with understanding the Weave.
+From the simplest cantrip to the mightiest workings of high magic, from a humble [[Cure Wounds]] spell to the raising of mighty heroes from the dead, magic permeates the world. And any understanding of magic begins with understanding the Weave.
 
 ## The Weave
 
@@ -32,9 +32,9 @@ The most powerful and direct form of spellfire is spellfire sorcery. But charact
 > 
 > The rules for spells and spellcasting found in the "Player's Handbook" are true in Theros, but some spells and magical effects might interact in unique ways with the Weave.
 > 
-> **Detect Magic.** The [[detect-magic-xphb]] spell reveals threads of the Weave woven together through spellcasting, and the way the threads are arranged reveals the school of magic. Similarly, active spells and areas imbued with magic are limned in a silvery network of threads, which might twist and reknit themselves depending on the magic involved. A magic item appears enmeshed in the silvery-blue threads of the Weave.
+> **Detect Magic.** The [[Detect Magic]] spell reveals threads of the Weave woven together through spellcasting, and the way the threads are arranged reveals the school of magic. Similarly, active spells and areas imbued with magic are limned in a silvery network of threads, which might twist and reknit themselves depending on the magic involved. A magic item appears enmeshed in the silvery-blue threads of the Weave.
 > 
-> **Dispel Magic.** The [[dispel-magic-xphb]] spell unravels woven threads of the Weave.
+> **Dispel Magic.** The [[Dispel Magic]] spell unravels woven threads of the Weave.
 > 
 > **Antimagic.** The [[Antimagic Field]] spell unravels magic woven from the Weave. While an otherwise-permanent effect is within an area of antimagic, the knots of the Weave untie, but the threads retie themselves once the magic is outside the antimagic effect.
 > 
@@ -71,7 +71,7 @@ In many ways, a mythal is less like a spell or a magic item than a living creati
 
 Each active mythal has one or more individuals especially attuned to it, and these individuals can ignore any restrictions on spellcasting, direct targetable effects of the mythal, and teach others of appropriate skill how to access its secrets.
 
-Adventurers are most likely to encounter damaged or failing mythals in ruined locations where magic once had great influence. Although an [[identify-xphb]] spell might reveal some of a mythal's simplest effects, spellcasters can discover spellcasting restrictions only by trying (and failing) to cast a prohibited spell. A powerful spellcaster might learn how to access or repair a mythal without assistance, but such feats are rarely attempted by even the most renowned mages. The ruins of such places often exhibit unpredictable effects related to their damaged or destroyed mythals.
+Adventurers are most likely to encounter damaged or failing mythals in ruined locations where magic once had great influence. Although an [[Identify]] spell might reveal some of a mythal's simplest effects, spellcasters can discover spellcasting restrictions only by trying (and failing) to cast a prohibited spell. A powerful spellcaster might learn how to access or repair a mythal without assistance, but such feats are rarely attempted by even the most renowned mages. The ruins of such places often exhibit unpredictable effects related to their damaged or destroyed mythals.
 
 ![Presto casts the Blade of ...](Compendium/books/forgotten-realms-heroes-of-faerun/img/147-05-002-presto-casts.webp#center "Presto casts the Blade of Disaster spell to fight off Venger.")
 
@@ -95,7 +95,7 @@ A Circle spell has one primary caster ("you" in these rules). Unless otherwise s
 
 You take a [Magic](Actions.md#Magic) action to initiate casting a Circle spell. When you do so, choose which Circle casting option (see "Circle Casting Options" below) you're using for this casting; you must also meet any of the other requirements described in that option's text. Until the Circle spell's casting is complete (see below), you must maintain [Concentration](Conditions.md#Concentration) on the spell.
 
-If a Reaction would trigger when a creature casts a spell—such as the Reaction taken to cast [[counterspell-xphb]]—it also triggers when you take this action to initiate a Circle spell.
+If a Reaction would trigger when a creature casts a spell—such as the Reaction taken to cast [[Counterspell]]—it also triggers when you take this action to initiate a Circle spell.
 
 #### Secondary Casters
 
@@ -161,7 +161,7 @@ If the spell's area of effect can be moved, the safe zone moves with it.
 
 #### Supplant
 
-When you cast a spell that requires at least one Material component with a specified cost that is consumed by the spell, you can reduce the minimum cost of one such Material component by 50 GP per each secondary caster contributing to the spell. For example, casting [[revivify-xphb]] as a Circle spell with two secondary casters would reduce the Material component's minimum cost to 200 GP.
+When you cast a spell that requires at least one Material component with a specified cost that is consumed by the spell, you can reduce the minimum cost of one such Material component by 50 GP per each secondary caster contributing to the spell. For example, casting [[Revivify]] as a Circle spell with two secondary casters would reduce the Material component's minimum cost to 200 GP.
 
 Each secondary caster contributing to the spell must expend a spell slot of a level greater than or equal to the spell's level (no action required). If the spell fails, these spell slots aren't expended.
 
@@ -187,17 +187,17 @@ The following spells are presented in alphabetical order.
 - [[Blade of Disaster]]  
 - [[Cacophonic Shield]]  
 - [[Conjure Constructs]]  
-- [[death-armor-frhof]]  
-- [[deryans-helpful-homunculi-frhof]]  
-- [[dirge-frhof]]  
-- [[doomtide-frhof]]  
-- [[elminsters-effulgent-spheres-frhof]]  
-- [[elminsters-elusion-frhof]]  
-- [[holy-star-of-mystra-frhof]]  
-- [[laerals-silver-lance-frhof]]  
-- [[simbuls-synostodweomer-frhof]]  
-- [[songals-elemental-suffusion-frhof]]  
-- [[spellfire-flare-frhof]]  
-- [[spellfire-storm-frhof]]  
-- [[sylunes-viper-frhof]]  
-- [[wardaway-frhof]]
+- [[Death Armor]]  
+- [[Deryan's Helpful Homunculi]]  
+- [[Dirge]]  
+- [[Doomtide]]  
+- [[Elminster's Effulgent Spheres]]  
+- [[Elminster's Elusion]]  
+- [[Holy Star of Mystra]]  
+- [[Laeral's Silver Lance]]  
+- [[Simbul's Synostodweomer]]  
+- [[Songal's Elemental Suffusion]]  
+- [[Spellfire Flare]]  
+- [[Spellfire Storm]]  
+- [[Syluné's Viper]]  
+- [[Wardaway]]

@@ -11,4 +11,4 @@ aliases:
 
 ## 4th Level
 
-- [Mordenkainen's Private Sanctum](Compendium/spells/mordenkainens-private-sanctum-xphb.md "XPHB")
+- [Mordenkainen's Private Sanctum](Mordenkainen's%20Private%20Sanctum.md "XPHB")

@@ -14,6 +14,6 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you have [[resistance-xphb]] to fire damage for 1 hour.
+When you drink this potion, you have [[Compendium/spells/Resistance]] to fire damage for 1 hour.
 
 *Source: Dungeon Master's Guide (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

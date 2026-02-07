@@ -53,14 +53,14 @@ aliases:
 - **Saving Throw Proficiencies**: Charisma, Wisdom
 - **Skill Proficiencies**: *Choose 2:* [Athletics](Skills.md#Athletics), [Insight](Skills.md#Insight), [Intimidation](Skills.md#Intimidation), [Medicine](Skills.md#Medicine), [Persuasion](Skills.md#Persuasion), or [Religion](Skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy Armor), and [[Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy Armor), and [[Compendium/items/Shield]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[Chain Mail]], [[Shield]], [[Longsword]], 6 [[Javelin]], [[Holy Symbol]], [[Priest's Pack]], and 9 GP; or (B) 150 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Chain Mail]], [[Compendium/items/Shield]], [[Longsword]], 6 [[Javelin]], [[Holy Symbol]], [[Priest's Pack]], and 9 GP; or (B) 150 GP
 
 ## Multiclassing Paladin
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Compendium/items/Shield]]
 
 ## Paladin
 
@@ -90,7 +90,7 @@ The Paladin Features table shows how many spell slots you have to cast your leve
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. [[heroism-xphb]] and [[searing-smite-xphb]] are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. [[Heroism]] and [[Searing Smite]] are recommended.
 
 The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.
 
@@ -120,7 +120,7 @@ You gain a Fighting Style feat of your choice. Instead of choosing one of those 
 
 ### Paladin's Smite (Level 2)
 
-You always have the [[divine-smite-xphb]] spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a [[Long Rest]] before you can cast it in this way again.
+You always have the [[Divine Smite]] spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a [[Long Rest]] before you can cast it in this way again.
 
 ### Channel Divinity (Level 3)
 
@@ -132,7 +132,7 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 
 ### Divine Sense (Level 3)
 
-As a [[Bonus Action]], you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the [Incapacitated](Conditions.md#Incapacitated) condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[hallow-xphb]] spell.
+As a [[Bonus Action]], you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the [Incapacitated](Conditions.md#Incapacitated) condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [[Hallow]] spell.
 
 ### Paladin Subclass (Level 3)
 
@@ -157,7 +157,7 @@ You can attack twice instead of once whenever you take the [Attack](Actions.md#A
 
 ### Faithful Steed (Level 5)
 
-You can call on the aid of an otherworldly steed. You always have the [[find-steed-xphb]] spell prepared.
+You can call on the aid of an otherworldly steed. You always have the [[Find Steed]] spell prepared.
 
 You can also cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a [[Long Rest]].
 

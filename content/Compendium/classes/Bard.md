@@ -98,7 +98,7 @@ You have learned to cast spells through your bardic arts. See "chapter 7" for th
 
 #### Cantrips
 
-You know two cantrips of your choice from the Bard spell list. [[dancing-lights-xphb]] and [[vicious-mockery-xphb]] are recommended.
+You know two cantrips of your choice from the Bard spell list. [[Dancing Lights]] and [[Vicious Mockery]] are recommended.
 
 Whenever you gain a Bard level, you can replace one of your cantrips with another cantrip of your choice from the Bard spell list.
 
@@ -110,7 +110,7 @@ The Bard Features table shows how many spell slots you have to cast your level 1
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. [[Charm Person]], [[Color Spray]], [[dissonant-whispers-xphb]], and [[healing-word-xphb]] are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. [[Charm Person]], [[Color Spray]], [[Dissonant Whispers]], and [[Healing Word]] are recommended.
 
 The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -203,4 +203,4 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 ### Words of Creation (Level 20)
 
-You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [[power-word-heal-xphb]] and [[power-word-kill-xphb]] spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
+You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [[Power Word Heal]] and [[Power Word Kill]] spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.

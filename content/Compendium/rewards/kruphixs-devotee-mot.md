@@ -13,8 +13,8 @@ aliases:
 
 *Piety 3+ Kruphix trait*
 
-As a devotee of Kruphix, you have proven yourself a devotee of reality's mysteries and laws. You can cast [[detect-magic-xphb]] with this trait a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
+As a devotee of Kruphix, you have proven yourself a devotee of reality's mysteries and laws. You can cast [[Detect Magic]] with this trait a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
-In addition, you know the [[mage-hand-xphb]] cantrip. Intelligence is your spellcasting ability for these spells.
+In addition, you know the [[Mage Hand]] cantrip. Intelligence is your spellcasting ability for these spells.
 
 *Source: Mythic Odysseys of Theros p. 61*

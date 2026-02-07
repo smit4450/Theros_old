@@ -29,7 +29,7 @@ aliases:
 
 
 
-You have [[resistance-xphb]] to lightning damage while you wear this armor.
+You have [[Compendium/spells/Resistance]] to lightning damage while you wear this armor.
 
 **Variants**:
 -  [[#Breastplate of Lightning Resistance]]

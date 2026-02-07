@@ -10,7 +10,7 @@ aliases:
 - "Arrow-Catching Shield"
 ---
 # Arrow-Catching Shield
-*Armor ([[Shield]]), rare (requires attunement)*  
+*Armor ([[Compendium/items/Shield]]), rare (requires attunement)*  
 
 
 - **Armor Class**: 2

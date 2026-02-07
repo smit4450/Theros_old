@@ -11,4 +11,4 @@ aliases:
 
 ## Cantrip
 
-- [Sacred Flame](Compendium/spells/sacred-flame-xphb.md "XPHB") as cantrip
+- [Sacred Flame](Sacred%20Flame.md "XPHB") as cantrip

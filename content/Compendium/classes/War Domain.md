@@ -63,10 +63,10 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [[guiding-bolt-xphb]], [[magic-weapon-xphb]], [[shield-of-faith-xphb]], [[spiritual-weapon-xphb]] |
-| 5th | [[crusaders-mantle-xphb]], [[spirit-guardians-xphb]] |
-| 7th | [[fire-shield-xphb]], [[freedom-of-movement-xphb]] |
-| 9th | [[hold-monster-xphb]], [[steel-wind-strike-xphb]] |
+| 3rd | [[Guiding Bolt]], [[Magic Weapon]], [[Shield of Faith]], [[Spiritual Weapon]] |
+| 5th | [[Crusader's Mantle]], [[Spirit Guardians]] |
+| 7th | [[Fire Shield]], [[Freedom of Movement]] |
+| 9th | [[Hold Monster]], [[Steel Wind Strike]] |
 ^war-domain-spells
 
 ### War Priest (Level 3)
@@ -79,8 +79,8 @@ When you or a creature within 30 feet of you misses with an attack roll, you can
 
 ### War God's Blessing (Level 6)
 
-You can expend a use of your Channel Divinity to cast [[shield-of-faith-xphb]] or [[spiritual-weapon-xphb]] rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [Concentration](Conditions.md#Concentration). Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [Incapacitated](Conditions.md#Incapacitated) condition, or die.
+You can expend a use of your Channel Divinity to cast [[Shield of Faith]] or [[Spiritual Weapon]] rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [Concentration](Conditions.md#Concentration). Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [Incapacitated](Conditions.md#Incapacitated) condition, or die.
 
 ### Avatar of Battle (Level 17)
 
-You gain [[resistance-xphb]] to Bludgeoning, Piercing, and Slashing damage.
+You gain [[Compendium/spells/Resistance]] to Bludgeoning, Piercing, and Slashing damage.

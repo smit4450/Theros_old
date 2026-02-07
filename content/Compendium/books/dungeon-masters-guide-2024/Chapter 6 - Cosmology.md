@@ -44,7 +44,7 @@ Learning and meeting a portal's requirements can draw characters into further ad
 
 ### Spells
 
-A number of spells allow direct or indirect access to different planes of existence. [[gate-xphb]] and [[plane-shift-xphb]] can directly transport adventurers to any other plane, with different degrees of precision. [[etherealness-xphb]] allows adventurers to enter the Ethereal Plane. And [[Astral Projection]] lets adventurers project themselves into the Astral Plane and from there travel to the Outer Planes.
+A number of spells allow direct or indirect access to different planes of existence. [[Gate]] and [[Plane Shift]] can directly transport adventurers to any other plane, with different degrees of precision. [[Etherealness]] allows adventurers to enter the Ethereal Plane. And [[Astral Projection]] lets adventurers project themselves into the Astral Plane and from there travel to the Outer Planes.
 
 ### Traveling the Outer Planes
 

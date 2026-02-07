@@ -11,4 +11,4 @@ aliases:
 
 ## 2nd Level
 
-- [Heat Metal](Compendium/spells/heat-metal-xphb.md "XPHB")
+- [Heat Metal](Heat%20Metal.md "XPHB")

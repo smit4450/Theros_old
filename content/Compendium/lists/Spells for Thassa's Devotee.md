@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Fog Cloud](Compendium/spells/fog-cloud-xphb.md "XPHB")
+- [Fog Cloud](Fog%20Cloud.md "XPHB")

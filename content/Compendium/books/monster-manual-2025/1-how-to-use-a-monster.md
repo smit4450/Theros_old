@@ -159,7 +159,7 @@ The Skills entry specifies a monster's skill proficiencies, if any. For example,
 
 ### Resistances and Vulnerabilities
 
-These entries list a monster's [[resistance-xphb]] and [[Vulnerability]], if any. See the "Player's Handbook" for more information.
+These entries list a monster's [[Compendium/spells/Resistance]] and [[Vulnerability]], if any. See the "Player's Handbook" for more information.
 
 ### Immunities
 
@@ -202,7 +202,7 @@ This entry lists languages that the monster can use to communicate. Sometimes a 
 
 #### Telepathy
 
-[[telepathy-xphb]] is a magical ability that allows a creature to communicate mentally with another creature within a specified range. See the "Player's Handbook" for more information.
+[[Compendium/spells/Telepathy]] is a magical ability that allows a creature to communicate mentally with another creature within a specified range. See the "Player's Handbook" for more information.
 
 ### Challenge Rating
 
@@ -264,7 +264,7 @@ Some creatures can make more than one attack when they take the [Attack](Actions
 
 If a monster can cast any spells, its stat block lists the spells and provides the monster's spellcasting ability, spell save DC (if any spells require a saving throw), and spell attack bonus (if any spells require an attack roll). Unless noted otherwise, a spell of level 1 or higher is always cast at its lowest possible level and can't be cast at a higher level.
 
-A monster's spell can have special rules or restrictions. For example, a [[green-slaad-xmm]] can cast the [[invisibility-xphb]] spell, but the spell has a "self only" restriction, which means the spell affects only the slaad.
+A monster's spell can have special rules or restrictions. For example, a [[green-slaad-xmm]] can cast the [[Invisibility]] spell, but the spell has a "self only" restriction, which means the spell affects only the slaad.
 
 ##### Spell Components
 

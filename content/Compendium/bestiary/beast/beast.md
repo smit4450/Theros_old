@@ -49,7 +49,7 @@ cssclasses:
 -  [[Giant Insect (Centipede)]]
 -  [[Giant Insect (Spider)]]
 -  [[Giant Insect (Wasp)]]
--  [[Giant Insect]]
+-  [[Compendium/bestiary/beast/Giant Insect]]
 -  [[Giant Lizard]]
 -  [[Giant Octopus]]
 -  [[Giant Rat]]

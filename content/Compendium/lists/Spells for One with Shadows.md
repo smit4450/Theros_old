@@ -11,4 +11,4 @@ aliases:
 
 ## 2nd Level
 
-- [Invisibility](Compendium/spells/invisibility-xphb.md "XPHB")
+- [Invisibility](Invisibility.md "XPHB")

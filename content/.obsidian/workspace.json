@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/lists/Bard Spells.md",
+                "file": "Compendium/spells/Zone of Truth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bard Spells"
+              "title": "Zone of Truth"
             }
           }
         ]
@@ -202,31 +202,31 @@
   },
   "active": "1d67c93251fd03f8",
   "lastOpenFiles": [
-    "Compendium/spells/Animate Dead.md",
-    "empty files.md",
-    "index.md",
-    "Compendium/spells/Contact Other Plane.md",
-    "Compendium/lists/Wizard Spells.md",
-    "Compendium/lists/Spells for Oath of the Noble Genies.md",
-    "Compendium/lists/Warlock Spells.md",
-    "Compendium/lists/Spells for Diviner.md",
-    "Compendium/spells/Contagion.md",
-    "Compendium/races/races.md",
-    "Compendium/rules/Senses.md",
-    "Compendium/rules/Item Types.md",
-    "Compendium/rules/Item Properties.md",
-    "Compendium/rules/Item Mastery.md",
-    "Compendium/rules/Diseases.md",
-    "Compendium/rules/Conditions.md",
-    "Compendium/rules/Actions.md",
-    "Compendium/lists/Transmutation Spells.md",
-    "Compendium/lists/Necromancy Spells.md",
-    "Compendium/lists/Illusion Spells.md",
-    "Compendium/lists/Evocation Spells.md",
-    "Compendium/lists/Enchantment Spells.md",
-    "Compendium/lists/Divination Spells.md",
-    "Compendium/lists/Conjuration Spells.md",
-    "Compendium/lists/Abjuration Spells.md",
-    "Compendium/lists/Spells for Thassa's Votary.md"
+    "Compendium/spells/Yolande's Regal Presence.md",
+    "Compendium/spells/Wrathful Smite.md",
+    "Compendium/spells/Word of Recall.md",
+    "Compendium/spells/Word of Radiance.md",
+    "Compendium/spells/Witch Bolt.md",
+    "Compendium/spells/Wish.md",
+    "Compendium/spells/Wind Wall.md",
+    "Compendium/spells/Wind Walk.md",
+    "Compendium/spells/Weird.md",
+    "Compendium/spells/Web.md",
+    "Compendium/spells/Water Walk.md",
+    "Compendium/spells/Water Breathing.md",
+    "Compendium/spells/Warding Bond.md",
+    "Compendium/spells/Wardaway.md",
+    "Compendium/spells/Wall of Water.md",
+    "Compendium/spells/Wall of Thorns.md",
+    "Compendium/spells/Wall of Stone.md",
+    "Compendium/spells/Wall of Ice.md",
+    "Compendium/spells/Wall of Force.md",
+    "Compendium/spells/Wall of Fire.md",
+    "Compendium/spells/Vitriolic Sphere.md",
+    "Compendium/spells/Vicious Mockery.md",
+    "Compendium/spells/Vampiric Touch.md",
+    "Compendium/spells/Unseen Servant.md",
+    "Compendium/spells/Tsunami.md",
+    "Compendium/spells/True Strike.md"
   ]
 }

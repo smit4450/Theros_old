@@ -13,19 +13,19 @@ aliases:
 
 - [Command](Command.md "XPHB") at class level 7
 - [Comprehend Languages](Comprehend%20Languages.md "XPHB") at class level 7
-- [Detect Magic](Compendium/spells/detect-magic-xphb.md "XPHB") at class level 7
-- [Identify](Compendium/spells/identify-xphb.md "XPHB") at class level 7
+- [Detect Magic](Detect%20Magic.md "XPHB") at class level 7
+- [Identify](Identify.md "XPHB") at class level 7
 
 ## 2nd Level
 
-- [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md "XPHB") at class level 7
-- [Mind Spike](Compendium/spells/mind-spike-xphb.md "XPHB") at class level 7
+- [Detect Thoughts](Detect%20Thoughts.md "XPHB") at class level 7
+- [Mind Spike](Mind%20Spike.md "XPHB") at class level 7
 
 ## 3rd Level
 
-- [Dispel Magic](Compendium/spells/dispel-magic-xphb.md "XPHB") at class level 7
-- [Nondetection](Compendium/spells/nondetection-xphb.md "XPHB") at class level 7
-- [Tongues](Compendium/spells/tongues-xphb.md "XPHB") at class level 7
+- [Dispel Magic](Dispel%20Magic.md "XPHB") at class level 7
+- [Nondetection](Nondetection.md "XPHB") at class level 7
+- [Tongues](Tongues.md "XPHB") at class level 7
 
 ## 4th Level
 
@@ -35,6 +35,6 @@ aliases:
 
 ## 5th Level
 
-- [Legend Lore](Compendium/spells/legend-lore-xphb.md "XPHB") at class level 7
-- [Scrying](Compendium/spells/scrying-xphb.md "XPHB") at class level 7
-- [Synaptic Static](Compendium/spells/synaptic-static-xphb.md "XPHB") at class level 7
+- [Legend Lore](Legend%20Lore.md "XPHB") at class level 7
+- [Scrying](Scrying.md "XPHB") at class level 7
+- [Synaptic Static](Synaptic%20Static.md "XPHB") at class level 7

@@ -56,7 +56,7 @@ The next time you enter combat against one or more [[Hostile (Attitude)]] creatu
 
 ### Donjon
 ![](Compendium/decks/img/deck-of-many-things-17-donjon.webp#card)
-You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a [[wish-xphb]] spell can reveal the location of your prison. You draw no more cards.
+You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a [[Wish]] spell can reveal the location of your prison. You draw no more cards.
 
 ### Euryale
 ![](Compendium/decks/img/deck-of-many-things-22-euryale.webp#card)
@@ -92,7 +92,7 @@ You gain the service of a [[knight-xmm]], who magically appears in an unoccupied
 
 ### Moon
 ![](Compendium/decks/img/deck-of-many-things-11-moon.webp#card)
-You gain the ability to cast [[wish-xphb]] `1d3` times.
+You gain the ability to cast [[Wish]] `1d3` times.
 
 ### Puzzle
 ![](Compendium/decks/img/deck-of-many-things-04-puzzle.webp#card)
@@ -100,7 +100,7 @@ Permanently reduce your Intelligence or Wisdom by `1d4 + 1` (to a minimum score 
 
 ### Rogue
 ![](Compendium/decks/img/deck-of-many-things-06-rogue.webp#card)
-An NPC of the DM's choice becomes [[Hostile (Attitude)]] toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [[wish-xphb]] spell or divine intervention can end the NPC's hostility toward you.
+An NPC of the DM's choice becomes [[Hostile (Attitude)]] toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [[Wish]] spell or divine intervention can end the NPC's hostility toward you.
 
 ### Ruin
 ![](Compendium/decks/img/deck-of-many-things-16-ruin.webp#card)

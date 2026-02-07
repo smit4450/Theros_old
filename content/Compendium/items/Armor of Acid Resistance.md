@@ -29,7 +29,7 @@ aliases:
 
 
 
-You have [[resistance-xphb]] to acid damage while you wear this armor.
+You have [[Compendium/spells/Resistance]] to acid damage while you wear this armor.
 
 **Variants**:
 -  [[#Breastplate of Acid Resistance]]

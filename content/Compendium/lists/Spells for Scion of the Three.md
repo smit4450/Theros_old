@@ -13,4 +13,4 @@ aliases:
 
 - [Blade Ward](Blade%20Ward.md "XPHB") as cantrip, at class level 3
 - [Chill Touch](Chill%20Touch.md "XPHB") as cantrip, at class level 3
-- [Minor Illusion](Compendium/spells/minor-illusion-xphb.md "XPHB") as cantrip, at class level 3
+- [Minor Illusion](Minor%20Illusion.md "XPHB") as cantrip, at class level 3

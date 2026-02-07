@@ -13,4 +13,4 @@ aliases:
 
 **Prerequisite**: Level 2
 
-You can cast [[jump-xphb]] on yourself without expending a spell slot.
+You can cast [[Jump]] on yourself without expending a spell slot.

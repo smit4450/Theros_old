@@ -65,10 +65,10 @@ When you reach a Cleric level specified in the Knowledge Domain Spells table, yo
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 3 | [[Command]], [[Comprehend Languages]]*, [[detect-magic-xphb]]*, [[detect-thoughts-xphb]]*, [[identify-xphb]]*, [[mind-spike-xphb]]* |
-| 5 | [[dispel-magic-xphb]], [[nondetection-xphb]], [[tongues-xphb]]* |
+| 3 | [[Command]], [[Comprehend Languages]]*, [[Detect Magic]]*, [[Detect Thoughts]]*, [[Identify]]*, [[Mind Spike]]* |
+| 5 | [[Dispel Magic]], [[Nondetection]], [[Tongues]]* |
 | 7 | [[Arcane Eye]]*, [[Banishment]], [[Confusion]] |
-| 9 | [[legend-lore-xphb]]*, [[scrying-xphb]]*, [[synaptic-static-xphb]] |
+| 9 | [[Legend Lore]]*, [[Scrying]]*, [[Synaptic Static]] |
 ^cleric-level-spells
 
 *Spell of the Divination school
@@ -79,7 +79,7 @@ As a Magic action, you can expend one use of your Channel Divinity to manifest y
 
 ### Unfettered Mind (Level 6)
 
-You gain [[telepathy-xphb]] out to 60 feet. When you use this [[telepathy-xphb]], you can simultaneously contact a number of creatures equal to your Wisdom modifier (minimum of one).
+You gain [[Compendium/spells/Telepathy]] out to 60 feet. When you use this [[Compendium/spells/Telepathy]], you can simultaneously contact a number of creatures equal to your Wisdom modifier (minimum of one).
 
 Additionally, you gain proficiency in Intelligence saving throws. If you already have this proficiency, you instead gain saving throw proficiency with one ability in which you lack it.
 

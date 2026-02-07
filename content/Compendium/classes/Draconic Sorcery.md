@@ -66,17 +66,17 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 3rd | [[Alter Self]], [[Chromatic Orb]], [[Command]], [[dragons-breath-xphb]] |
-| 5th | [[fear-xphb]], [[fly-xphb]] |
+| 3rd | [[Alter Self]], [[Chromatic Orb]], [[Command]], [[Dragon's Breath]] |
+| 5th | [[Fear]], [[Fly]] |
 | 7th | [[Arcane Eye]], [[Charm Monster]] |
-| 9th | [[legend-lore-xphb]], [[summon-dragon-xphb]] |
+| 9th | [[Legend Lore]], [[Summon Dragon]] |
 ^draconic-spells
 
 ### Elemental Affinity (Level 6)
 
 Your draconic magic has an affinity with a damage type associated with dragons. Choose one of those types: Acid, Cold, Fire, Lightning, or Poison.
 
-You have [[resistance-xphb]] to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.
+You have [[Compendium/spells/Resistance]] to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.
 
 ### Dragon Wings (Level 14)
 
@@ -86,6 +86,6 @@ Once you use this feature, you can't use it again until you finish a [[Long Rest
 
 ### Dragon Companion (Level 18)
 
-You can cast [[summon-dragon-xphb]] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [[Long Rest]].
+You can cast [[Summon Dragon]] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [[Long Rest]].
 
 Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](Conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting.

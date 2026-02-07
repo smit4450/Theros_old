@@ -50,7 +50,7 @@ When you take damage from a creature within 5 feet of you, you can use your reac
 
 ## Spells
 
-The spear has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [[guiding-bolt-xphb]] (1 charge), [[daylight-xphb]] (3 charges, targeting the tip of the spear only), [[sunbeam-xphb]] (6 charges). The spear regains `1d6 + 4` expended charges daily at dawn.
+The spear has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [[Guiding Bolt]] (1 charge), [[Daylight]] (3 charges, targeting the tip of the spear only), [[Sunbeam]] (6 charges). The spear regains `1d6 + 4` expended charges daily at dawn.
 
 ## Destroying the Spear
 

@@ -60,7 +60,7 @@ When an enemy you can see within 30 feet of yourself takes damage and is [Bloodi
 
 ### Dread Allegiance (Level 3)
 
-Choose one of the gods of death: [[Phenax]], [[Mogis]], or [[Erebos]]. You gain [[resistance-xphb]] to one type of damage and the ability to cast a cantrip, as detailed in the table below; Intelligence is your spellcasting ability for this cantrip. When you finish a [[Long Rest]], you can change your choice.
+Choose one of the gods of death: [[Phenax]], [[Mogis]], or [[Erebos]]. You gain [[Compendium/spells/Resistance]] to one type of damage and the ability to cast a cantrip, as detailed in the table below; Intelligence is your spellcasting ability for this cantrip. When you finish a [[Long Rest]], you can change your choice.
 
 | God        | Damage Resistance | Cantrip                                                    |
 | ---------- | ----------------- | ---------------------------------------------------------- |
@@ -82,7 +82,7 @@ The [Frightened](Conditions.md#Frightened) target repeats the save at the end of
 
 ### Aura of Malevolence (Level 13)
 
-You radiate malignant power associated with one of the gods of death. When you use [Bloodthirst](Agent of Death.md#Bloodthirst (Level 3)) and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage [[resistance-xphb]] granted by your choice in the Dread Allegiance feature. [[Damage]] dealt by this feature ignores [[resistance-xphb]].
+You radiate malignant power associated with one of the gods of death. When you use [Bloodthirst](Agent of Death.md#Bloodthirst (Level 3)) and teleport, each creature of your choice within 10 feet of either the space you left or your destination space (your choice) takes damage equal to your Intelligence modifier; the damage type is the same as the damage [[Compendium/spells/Resistance]] granted by your choice in the Dread Allegiance feature. [[Damage]] dealt by this feature ignores [[Compendium/spells/Resistance]].
 
 ### Dread Incarnate (Level 17)
 

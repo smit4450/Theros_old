@@ -10,7 +10,7 @@ aliases:
 - "Spellguard Shield"
 ---
 # Spellguard Shield
-*Armor ([[Shield]]), very rare (requires attunement)*  
+*Armor ([[Compendium/items/Shield]]), very rare (requires attunement)*  
 ![](Compendium/items/img/spellguard-shield.webp#right)
 
 - **Armor Class**: 2

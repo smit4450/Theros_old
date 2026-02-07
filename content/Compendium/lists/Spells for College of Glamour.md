@@ -16,4 +16,4 @@ aliases:
 
 ## 2nd Level
 
-- [Mirror Image](Compendium/spells/mirror-image-xphb.md "XPHB") at class level 3
+- [Mirror Image](Mirror%20Image.md "XPHB") at class level 3

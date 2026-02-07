@@ -391,7 +391,7 @@ As a DM, you can use a variety of approaches when adjudicating success and failu
 When a character fails a [[D20 Test]] by only 1 or 2, you can offer to let the character succeed at the cost of a complication or hindrance. Such complications can run along any of the following lines:
 
 - A character gets her sword past an enemy's defenses and turns a near miss into a hit, but she then drops the sword.  
-- A character narrowly escapes the full brunt of a [[fireball-xphb]] spell but has the [Prone](Conditions.md#Prone) condition.  
+- A character narrowly escapes the full brunt of a [[Fireball]] spell but has the [Prone](Conditions.md#Prone) condition.  
 - A character fails to intimidate a kobold prisoner, but the kobold reveals its secrets anyway while shrieking at the top of its lungs, alerting other nearby monsters.  
 
 By putting the choice of success at a cost in the players' hands, and even letting them choose the setbacks, you can give players more agency in crafting the story of their characters' deeds.
@@ -543,12 +543,12 @@ If tracking the passage of time is important during exploration, use a time scal
 
 The "exploration rules" in the "Player's Handbook" give guidelines for determining travel time based on the characters' pace. In most cases, it's fine to estimate that time rather than calculating it down to the minute. Exceptions include situations like these:
 
-- **Spell Timer.** The characters might need to go somewhere or accomplish something before the duration of a spell or similar effect runs out. For example, they might use the [[locate-object-xphb]] spell to point them in the direction of an item they seek, so you need to know how far they get in the 10 minutes the spell lasts.  
+- **Spell Timer.** The characters might need to go somewhere or accomplish something before the duration of a spell or similar effect runs out. For example, they might use the [[Locate Object]] spell to point them in the direction of an item they seek, so you need to know how far they get in the 10 minutes the spell lasts.  
 - **Triggered Event.** An event might occur at a specific time. For example, a door might remain open for 1 minute after the password to open it is spoken, or reinforcements might arrive `2d4` minutes after an alarm is sounded.  
 
 If the characters spend time working out a puzzle or talking to an NPC, you can estimate the time spent by keeping track of how much real time passes. Most combat encounters take less than 1 minute (10 rounds), but it's fair to round up to a whole minute in most cases, assuming characters take a few seconds to pull themselves together after a fight.
 
-Use similar principles to track the passage of hours, such as when characters disguise themselves with a [[seeming-xphb]] spell for 8 hours to infiltrate a stronghold. In this case, it takes a lot of small tasks—or something like a [[Short Rest]]—to occupy a full hour.
+Use similar principles to track the passage of hours, such as when characters disguise themselves with a [[Seeming]] spell for 8 hours to infiltrate a stronghold. In this case, it takes a lot of small tasks—or something like a [[Short Rest]]—to occupy a full hour.
 
 ### Actions in Exploration
 
@@ -687,7 +687,7 @@ Characters can push themselves to travel for more than 8 hours per day, at the r
 
 ##### Special Movement
 
-If a party can travel at a high Speed for an extended time, as with a spell such as [[wind-walk-xphb]] or a magic item such as a [[Carpet of Flying]], translate the party's Speed into travel rates using these rules:
+If a party can travel at a high Speed for an extended time, as with a spell such as [[Wind Walk]] or a magic item such as a [[Carpet of Flying]], translate the party's Speed into travel rates using these rules:
 
 <span class='abilityGeneric'>**Miles per hour.**</span>
 
@@ -737,7 +737,7 @@ A foraging character finds nothing on a failed check. On a successful check, rol
 
 > [!note] Do Players Need to Track Rations?
 > 
-> You might decide that tracking [[Rations]] is unnecessary in your game. Even if the characters are in a desert, you can assume that a character with proficiency in the [Survival](Skills.md#Survival) skill can find enough food and water to sustain the party. Make sure you work that into your narration of the journey so the player feels good about choosing that skill proficiency. You can also assume the characters can load their mounts with enough Rations for their journey, or they can use magic (such as the [[create-food-and-water-xphb]] spell) to sustain them.
+> You might decide that tracking [[Rations]] is unnecessary in your game. Even if the characters are in a desert, you can assume that a character with proficiency in the [Survival](Skills.md#Survival) skill can find enough food and water to sustain the party. Make sure you work that into your narration of the journey so the player feels good about choosing that skill proficiency. You can also assume the characters can load their mounts with enough Rations for their journey, or they can use magic (such as the [[Create Food and Water]] spell) to sustain them.
 > 
 > On the other hand, having players track Rations seems appropriate for a more realistic campaign. Characters in such a campaign should approach a long wilderness journey as a challenge in logistics: how many pack animals do they need to carry the food for the journey, and how do they feed the animals?
 > 
@@ -959,7 +959,7 @@ You can give players a sense of how well they're doing against a creature by des
 
 #### Abilities, Strengths, and Weaknesses
 
-Share information with the players about the characteristics of creatures they fight as those characteristics become apparent. For example, if a Wizard casts [[fire-bolt-xphb]] against a [[Fire Elemental]] (a creature that has Immunity to Fire damage), let the players know the spell doesn't seem to bother the creature at all. Players might correctly guess that a creature made of fire probably be wouldn't harmed by *Fire Bolt*; feel free to confirm their guesses.
+Share information with the players about the characteristics of creatures they fight as those characteristics become apparent. For example, if a Wizard casts [[Fire Bolt]] against a [[Fire Elemental]] (a creature that has Immunity to Fire damage), let the players know the spell doesn't seem to bother the creature at all. Players might correctly guess that a creature made of fire probably be wouldn't harmed by *Fire Bolt*; feel free to confirm their guesses.
 
 #### Actions in Combat
 
@@ -971,7 +971,7 @@ You can combine those narrative descriptions with game rules: "Dispensing with a
 
 #### Monsters Casting Spells
 
-It's important that players can tell when their characters' opponents are casting spells, giving the characters the opportunity to cast [[counterspell-xphb]] or otherwise interfere with the spellcasting.
+It's important that players can tell when their characters' opponents are casting spells, giving the characters the opportunity to cast [[Counterspell]] or otherwise interfere with the spellcasting.
 
 When a monster casts a spell, check the components it's using and describe its activity appropriately. If the spell has Verbal components, the monster might chant, boldly proclaim, or hiss the mystic syllables of the spell. Somatic components involve the monster moving its hands (or similar appendages) in graceful patterns, shaping them into angular positions, or thrusting them sharply forward. Finally, the monster might be holding a Spellcasting Focus or some other Material component.
 

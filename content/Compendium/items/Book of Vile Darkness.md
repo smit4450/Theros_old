@@ -22,7 +22,7 @@ Other practitioners of evil have added their own input to the book's catalog of 
 
 [Nature](Skills.md#Nature) can't abide the book's presence. Ordinary plants wither in its presence, common animals are unwilling to approach it, and the book gradually destroys whatever it touches. Even stone cracks and turns to powder if the book rests on it long enough.
 
-Whenever a creature that isn't a Fiend or an Undead attunes to the Book of Vile Darkness, that creature makes a DC 17 Charisma saving throw. On a failed save, the creature is magically transformed into a [[larva-xmm]] under the DM's control. Only a [[wish-xphb]] spell can reverse this vile transformation.
+Whenever a creature that isn't a Fiend or an Undead attunes to the Book of Vile Darkness, that creature makes a DC 17 Charisma saving throw. On a failed save, the creature is magically transformed into a [[larva-xmm]] under the DM's control. Only a [[Wish]] spell can reverse this vile transformation.
 
 A creature attuned to the book must spend 80 hours reading and studying it to digest its contents and use its Adjusted Ability Scores, Tireless Form, Spells, Vile Lore, and Vile Speech properties.
 
@@ -51,8 +51,8 @@ While holding the book and holding it, you can cast the following spells (save D
 
 - [[Animate Dead]]  
 - [[Circle of Death]]  
-- [[dominate-monster-xphb]]  
-- [[finger-of-death-xphb]]  
+- [[Dominate Monster]]  
+- [[Finger of Death]]  
 
 Once you use the book to cast a spell, you can't cast that spell again from it until the next dawn.
 

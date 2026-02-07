@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Water Breathing](Compendium/spells/water-breathing-xphb.md "XPHB")
+- [Water Breathing](Water%20Breathing.md "XPHB")

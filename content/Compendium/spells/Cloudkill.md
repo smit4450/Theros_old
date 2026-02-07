@@ -23,7 +23,7 @@ aliases: ["Cloudkill"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-You create a 20-foot-radius [[Sphere (Area of Effect)]] of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by [[gust-of-wind-xphb]]) disperses it, ending the spell. Its area is [[Heavily Obscured]].
+You create a 20-foot-radius [[Sphere (Area of Effect)]] of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by [[Gust of Wind]]) disperses it, ending the spell. Its area is [[Heavily Obscured]].
 
 Each creature in the [[Sphere (Area of Effect)]] makes a Constitution saving throw, taking `5d8` Poison damage on a failed save or half as much damage on a successful one. A creature must also make this save when the [[Sphere (Area of Effect)]] moves into its space and when it enters the [[Sphere (Area of Effect)]] or ends its turn there. A creature makes this save only once per turn.
 

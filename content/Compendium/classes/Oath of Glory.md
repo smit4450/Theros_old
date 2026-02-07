@@ -66,16 +66,16 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[guiding-bolt-xphb]], [[heroism-xphb]] |
-| 5th | [[enhance-ability-xphb]], [[magic-weapon-xphb]] |
-| 9th | [[haste-xphb]], [[protection-from-energy-xphb]] |
-| 13th | [[Compulsion]], [[freedom-of-movement-xphb]] |
-| 17th | [[legend-lore-xphb]], [[yolandes-regal-presence-xphb]] |
+| 3rd | [[Guiding Bolt]], [[Heroism]] |
+| 5th | [[Enhance Ability]], [[Magic Weapon]] |
+| 9th | [[Haste]], [[Protection from Energy]] |
+| 13th | [[Compulsion]], [[Freedom of Movement]] |
+| 17th | [[Legend Lore]], [[Yolande's Regal Presence]] |
 ^oath-of-glory-spells
 
 ### Inspiring Smite (Level 3)
 
-Immediately after you cast [[divine-smite-xphb]], you can expend one use of your Channel Divinity and distribute [[Temporary Hit Points]] to creatures of your choice within 30 feet of yourself, which can include you. The total number of [[Temporary Hit Points]] equals `2d8` plus your Paladin level, divided among the chosen creatures however you like.
+Immediately after you cast [[Divine Smite]], you can expend one use of your Channel Divinity and distribute [[Temporary Hit Points]] to creatures of your choice within 30 feet of yourself, which can include you. The total number of [[Temporary Hit Points]] equals `2d8` plus your Paladin level, divided among the chosen creatures however you like.
 
 ### Peerless Athlete (Level 3)
 

@@ -51,7 +51,7 @@ In return for the gods' divine blessings, champions are expected to do the god's
 
 - The character's piety score might decrease by 1 each day, or each play session, for as long as the character continues to refuse the quest.  
 - The god might intervene to steer the champion toward the quest: Thassa could cause a storm to blow the character's ship off course, for example, bringing the champion to where the god wants them to be.  
-- In extreme instances, the god might place a magical command on the character, similar to a [[geas-xphb]] spell.  
+- In extreme instances, the god might place a magical command on the character, similar to a [[Geas]] spell.  
 
 #### God-Based Campaigns
 
@@ -81,7 +81,7 @@ Each god's section includes a map of an iconic location often associated with a 
 > 
 > bringing her north to the Lindus.
 
-The gods are fond of meddling in mortal affairs, and heroes sometimes call on their gods for aid in times of desperate need. Spells such as [[divination-xphb]] and [[Commune]] give characters the opportunity to ask their gods for information, and clerics who beseech their gods for assistance sometimes receive miracles in answer. Heroes also have the opportunity to ask the gods for favors, after proving their worth by enduring a divine ordeal.
+The gods are fond of meddling in mortal affairs, and heroes sometimes call on their gods for aid in times of desperate need. Spells such as [[Divination]] and [[Commune]] give characters the opportunity to ask their gods for information, and clerics who beseech their gods for assistance sometimes receive miracles in answer. Heroes also have the opportunity to ask the gods for favors, after proving their worth by enduring a divine ordeal.
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/070-04-02.webp#center)
 
@@ -152,11 +152,11 @@ If a character struggles to interpret the meaning of an omen, you might allow th
 
 #### Divination
 
-Clerics and oracles have spells at their disposal that allow them to ask the gods for insight. The [[divination-xphb]] and [[Commune]] spells contact a god and promise a truthful reply to the caster's questions. The reply takes the form of a simple "yes" or "no," a cryptic rhyme, or an omen. It might be transmitted through a disembodied voice, a vision only the caster can see, or any other mystical manner. A verbal reply to a [[divination-xphb]] or [[Commune]] spell must be truthful, but it might still be misleading. A god can't speak a deliberate lie in response to either spell, but they can be evasive while remaining within the boundaries of the truth. If a character casts one of these spells more than once in the same day, however, there is an increasing chance of receiving an unclear answer or none at all (as described in the spells' entries in the "Player's Handbook"). This might happen because another god, alerted to the connection between the caster and their god by the first casting of the spell, intercepts the second one and chooses to mislead the character. Or it could simply mean that the god is tired of the character's pestering and chooses not to answer.
+Clerics and oracles have spells at their disposal that allow them to ask the gods for insight. The [[Divination]] and [[Commune]] spells contact a god and promise a truthful reply to the caster's questions. The reply takes the form of a simple "yes" or "no," a cryptic rhyme, or an omen. It might be transmitted through a disembodied voice, a vision only the caster can see, or any other mystical manner. A verbal reply to a [[Divination]] or [[Commune]] spell must be truthful, but it might still be misleading. A god can't speak a deliberate lie in response to either spell, but they can be evasive while remaining within the boundaries of the truth. If a character casts one of these spells more than once in the same day, however, there is an increasing chance of receiving an unclear answer or none at all (as described in the spells' entries in the "Player's Handbook"). This might happen because another god, alerted to the connection between the caster and their god by the first casting of the spell, intercepts the second one and chooses to mislead the character. Or it could simply mean that the god is tired of the character's pestering and chooses not to answer.
 
 #### Dreams and Visions
 
-When mortals sleep and dream, they are said to "visit Nyx." During this time, mortals are particularly susceptible to divine contact. A god might communicate with a sleeping mortal as if by casting [[dream-xphb]]—including the ability to transform the mortal's dreamscape into a nightmare. Whatever form such a dream takes, they are often similar to omens, making heavy use of symbol and metaphor.
+When mortals sleep and dream, they are said to "visit Nyx." During this time, mortals are particularly susceptible to divine contact. A god might communicate with a sleeping mortal as if by casting [[Dream]]—including the ability to transform the mortal's dreamscape into a nightmare. Whatever form such a dream takes, they are often similar to omens, making heavy use of symbol and metaphor.
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/071-04-03.webp#center)
 
@@ -226,7 +226,7 @@ Life as a champion of a god offers abundant opportunities to escape life's tediu
 
 The first stage of a divine ordeal is entering Nyx. Callaphe the mariner is said to have sailed her ship over the waterfall at the edge of the world and right into Nyx, where she can still be seen among the constellations. Additionally, Kruphix's Temple of Mystery at the edge of the world and the shrine of Nykthos are known to hold portals that lead to the gates of Nyx.
 
-In theory, high-level characters can use spells such as [[plane-shift-xphb]] or [[gate-xphb]] to move from the mortal realm to Nyx. In practice, securing the proper material component to travel to Nyx through the [[plane-shift-xphb]] spell is roughly as difficult as sailing to the edge of the world, and Kruphix can (and usually does) prevent the [[gate-xphb]] spell from opening a portal into Nyx.
+In theory, high-level characters can use spells such as [[Plane Shift]] or [[Gate]] to move from the mortal realm to Nyx. In practice, securing the proper material component to travel to Nyx through the [[Plane Shift]] spell is roughly as difficult as sailing to the edge of the world, and Kruphix can (and usually does) prevent the [[Gate]] spell from opening a portal into Nyx.
 
 There might be other ways to get into Nyx, and each one is a challenge suited for the greatest heroes.
 
@@ -1599,11 +1599,11 @@ Beyond unusual physical compositions and strange inhabitants, mystical islands m
 
 ##### Bliss Island
 
-Those who visit the island risk being enchanted so they never want to leave. At the end of each long rest it takes on this island, a visitor must succeed on a DC 10 Wisdom saving throw or be unwilling to leave the island before finishing another long rest. After failing this saving throw three times, the creature never willingly leaves the island and, if forcibly removed, does everything in its power to return. A [[dispel-evil-and-good-xphb]] spell removes this effect from the creature.
+Those who visit the island risk being enchanted so they never want to leave. At the end of each long rest it takes on this island, a visitor must succeed on a DC 10 Wisdom saving throw or be unwilling to leave the island before finishing another long rest. After failing this saving throw three times, the creature never willingly leaves the island and, if forcibly removed, does everything in its power to return. A [[Dispel Evil and Good]] spell removes this effect from the creature.
 
 ##### Swine Island
 
-Visitors to this island risk being afflicted by the Curse of the Swine. At the end of each long rest it takes on this island, a visitor must succeed on a DC 10 Wisdom saving throw or be affected by the [[polymorph-xphb]] spell and transformed into a pig (use the [[Boar]] stat block). The curse lasts until the visitor leaves the isle or until it is broken by a spell like [[remove-curse-xphb]].
+Visitors to this island risk being afflicted by the Curse of the Swine. At the end of each long rest it takes on this island, a visitor must succeed on a DC 10 Wisdom saving throw or be affected by the [[Polymorph]] spell and transformed into a pig (use the [[Boar]] stat block). The curse lasts until the visitor leaves the isle or until it is broken by a spell like [[Remove Curse]].
 
 ##### Timeless Island
 
@@ -1708,7 +1708,7 @@ Despite the inexorable pull of Erebos's lash, even death itself can end—or at 
 
 #### Resurrection Magic
 
-By far the simplest means of return for a dead soul is for someone who yet lives to cast a [[raise-dead-xphb]], [[resurrection-xphb]], or [[true-resurrection-xphb]] spell. If a mortal is a frequent recipient of resurrection magic, Erebos might take a special interest in that soul. A soul in the clutches of Erebos himself isn't free, so it can't be returned to life by mortal magic.
+By far the simplest means of return for a dead soul is for someone who yet lives to cast a [[Raise Dead]], [[Resurrection]], or [[True Resurrection]] spell. If a mortal is a frequent recipient of resurrection magic, Erebos might take a special interest in that soul. A soul in the clutches of Erebos himself isn't free, so it can't be returned to life by mortal magic.
 
 #### Demon Flight
 

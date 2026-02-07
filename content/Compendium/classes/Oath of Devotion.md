@@ -68,11 +68,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[protection-from-evil-and-good-xphb]], [[shield-of-faith-xphb]] |
-| 5th | [[Aid]], [[zone-of-truth-xphb]] |
-| 9th | [[Beacon of Hope]], [[dispel-magic-xphb]] |
-| 13th | [[freedom-of-movement-xphb]], [[guardian-of-faith-xphb]] |
-| 17th | [[Commune]], [[flame-strike-xphb]] |
+| 3rd | [[Protection from Evil and Good]], [[Shield of Faith]] |
+| 5th | [[Aid]], [[Zone of Truth]] |
+| 9th | [[Beacon of Hope]], [[Dispel Magic]] |
+| 13th | [[Freedom of Movement]], [[Guardian of Faith]] |
+| 17th | [[Commune]], [[Flame Strike]] |
 ^oath-of-devotion-spells
 
 ### Sacred Weapon (Level 3)
@@ -89,7 +89,7 @@ You and your allies have [[Immunity]] to the [Charmed](Conditions.md#Charmed) co
 
 ### Smite of Protection (Level 15)
 
-Your magical smite now radiates protective energy. Whenever you cast [[divine-smite-xphb]], you and your allies have [[cover-xphb]] while in your Aura of Protection. The aura has this benefit until the start of your next turn.
+Your magical smite now radiates protective energy. Whenever you cast [[Divine Smite]], you and your allies have [[cover-xphb]] while in your Aura of Protection. The aura has this benefit until the start of your next turn.
 
 ### Holy Nimbus (Level 20)
 

@@ -12,24 +12,24 @@ aliases:
 ## 1st Level
 
 - [Charm Person](Charm%20Person.md "XPHB") at class level 3
-- [Disguise Self](Compendium/spells/disguise-self-xphb.md "XPHB") at class level 3
+- [Disguise Self](Disguise%20Self.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Invisibility](Compendium/spells/invisibility-xphb.md "XPHB") at class level 3
-- [Pass without Trace](Compendium/spells/pass-without-trace-xphb.md "XPHB") at class level 3
+- [Invisibility](Invisibility.md "XPHB") at class level 3
+- [Pass without Trace](Pass%20without%20Trace.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Hypnotic Pattern](Compendium/spells/hypnotic-pattern-xphb.md "XPHB") at class level 3
-- [Nondetection](Compendium/spells/nondetection-xphb.md "XPHB") at class level 3
+- [Hypnotic Pattern](Hypnotic%20Pattern.md "XPHB") at class level 3
+- [Nondetection](Nondetection.md "XPHB") at class level 3
 
 ## 4th Level
 
 - [Confusion](Confusion.md "XPHB") at class level 3
-- [Dimension Door](Compendium/spells/dimension-door-xphb.md "XPHB") at class level 3
+- [Dimension Door](Dimension%20Door.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Dominate Person](Compendium/spells/dominate-person-xphb.md "XPHB") at class level 3
-- [Modify Memory](Compendium/spells/modify-memory-xphb.md "XPHB") at class level 3
+- [Dominate Person](Dominate%20Person.md "XPHB") at class level 3
+- [Modify Memory](Modify%20Memory.md "XPHB") at class level 3

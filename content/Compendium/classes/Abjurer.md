@@ -72,10 +72,10 @@ When a creature that you can see within 30 feet of yourself takes damage, you ca
 
 ### Spell Breaker (Level 10)
 
-You always have the [[counterspell-xphb]] and [[dispel-magic-xphb]] spells prepared. In addition, you can cast [[dispel-magic-xphb]] as a [[Bonus Action]], and you can add your [[Proficiency]] to its ability check.
+You always have the [[Counterspell]] and [[Dispel Magic]] spells prepared. In addition, you can cast [[Dispel Magic]] as a [[Bonus Action]], and you can add your [[Proficiency]] to its ability check.
 
 When you cast either spell with a spell slot, that slot isn't expended if the spell fails to stop a spell.
 
 ### Spell Resistance (Level 14)
 
-You have [[Advantage]] on saving throws against spells, and you have [[resistance-xphb]] to the damage of spells.
+You have [[Advantage]] on saving throws against spells, and you have [[Compendium/spells/Resistance]] to the damage of spells.

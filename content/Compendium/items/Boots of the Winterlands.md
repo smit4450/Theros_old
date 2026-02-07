@@ -17,7 +17,7 @@ These furred boots are snug and feel warm. While wearing them, you gain the foll
 
 ## Cold Resistance
 
-You have [[resistance-xphb]] to Cold damage and can tolerate temperatures of 0 degrees Fahrenheit or lower without any additional protection.
+You have [[Compendium/spells/Resistance]] to Cold damage and can tolerate temperatures of 0 degrees Fahrenheit or lower without any additional protection.
 
 ## Winter Strider
 

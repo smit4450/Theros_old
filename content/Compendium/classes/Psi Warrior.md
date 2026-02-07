@@ -100,7 +100,7 @@ When you deal damage to a target with your Psionic Strike, you can force the tar
 
 ### Guarded Mind (Level 10)
 
-You have [[resistance-xphb]] to Psychic damage. Moreover, if you start your turn with the [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened) condition, you can expend a Psionic Energy Die (no action required) and end every effect on yourself giving you those conditions.
+You have [[Compendium/spells/Resistance]] to Psychic damage. Moreover, if you start your turn with the [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened) condition, you can expend a Psionic Energy Die (no action required) and end every effect on yourself giving you those conditions.
 
 ### Bulwark of Force (Level 15)
 
@@ -110,6 +110,6 @@ Once you use this feature, you can't do so again until you finish a [[Long Rest]
 
 ### Telekinetic Master (Level 18)
 
-You always have the [[telekinesis-xphb]] spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence. On each of your turns while you maintain [Concentration](Conditions.md#Concentration) on it, including the turn when you cast it, you can make one attack with a weapon as a [[Bonus Action]].
+You always have the [[Telekinesis]] spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence. On each of your turns while you maintain [Concentration](Conditions.md#Concentration) on it, including the turn when you cast it, you can make one attack with a weapon as a [[Bonus Action]].
 
 Once you cast the spell with this feature, you can't do so in this way again until you finish a [[Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.

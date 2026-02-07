@@ -11,57 +11,57 @@ aliases:
 
 ## Cantrip
 
-- [Dancing Lights](Compendium/spells/dancing-lights-xphb.md "XPHB") at class level 3
-- [Minor Illusion](Compendium/spells/minor-illusion-xphb.md "XPHB") at class level 3
+- [Dancing Lights](Dancing%20Lights.md "XPHB") at class level 3
+- [Minor Illusion](Minor%20Illusion.md "XPHB") at class level 3
 
 ## 1st Level
 
 - [Color Spray](Color%20Spray.md "XPHB") at class level 3
-- [Disguise Self](Compendium/spells/disguise-self-xphb.md "XPHB") at class level 3
-- [Illusory Script](Compendium/spells/illusory-script-xphb.md "XPHB") at class level 3
-- [Silent Image](Compendium/spells/silent-image-xphb.md "XPHB") at class level 3
+- [Disguise Self](Disguise%20Self.md "XPHB") at class level 3
+- [Illusory Script](Illusory%20Script.md "XPHB") at class level 3
+- [Silent Image](Silent%20Image.md "XPHB") at class level 3
 
 ## 2nd Level
 
 - [Blur](Blur.md "XPHB") at class level 3
-- [Invisibility](Compendium/spells/invisibility-xphb.md "XPHB") at class level 3
-- [Magic Mouth](Compendium/spells/magic-mouth-xphb.md "XPHB") at class level 3
-- [Mirror Image](Compendium/spells/mirror-image-xphb.md "XPHB") at class level 3
-- [Nystul's Magic Aura](Compendium/spells/nystuls-magic-aura-xphb.md "XPHB") at class level 3
-- [Phantasmal Force](Compendium/spells/phantasmal-force-xphb.md "XPHB") at class level 3
-- [Summon Beast](Compendium/spells/summon-beast-xphb.md "XPHB") at class level 3
+- [Invisibility](Invisibility.md "XPHB") at class level 3
+- [Magic Mouth](Magic%20Mouth.md "XPHB") at class level 3
+- [Mirror Image](Mirror%20Image.md "XPHB") at class level 3
+- [Nystul's Magic Aura](Nystul's%20Magic%20Aura.md "XPHB") at class level 3
+- [Phantasmal Force](Phantasmal%20Force.md "XPHB") at class level 3
+- [Summon Beast](Summon%20Beast.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Fear](Compendium/spells/fear-xphb.md "XPHB") at class level 3
-- [Hypnotic Pattern](Compendium/spells/hypnotic-pattern-xphb.md "XPHB") at class level 3
-- [Major Image](Compendium/spells/major-image-xphb.md "XPHB") at class level 3
-- [Phantom Steed](Compendium/spells/phantom-steed-xphb.md "XPHB") at class level 3
-- [Summon Fey](Compendium/spells/summon-fey-xphb.md "XPHB") at class level 3
+- [Fear](Fear.md "XPHB") at class level 3
+- [Hypnotic Pattern](Hypnotic%20Pattern.md "XPHB") at class level 3
+- [Major Image](Major%20Image.md "XPHB") at class level 3
+- [Phantom Steed](Phantom%20Steed.md "XPHB") at class level 3
+- [Summon Fey](Summon%20Fey.md "XPHB") at class level 3
 
 ## 4th Level
 
-- [Greater Invisibility](Compendium/spells/greater-invisibility-xphb.md "XPHB") at class level 3
-- [Hallucinatory Terrain](Compendium/spells/hallucinatory-terrain-xphb.md "XPHB") at class level 3
-- [Phantasmal Killer](Compendium/spells/phantasmal-killer-xphb.md "XPHB") at class level 3
+- [Greater Invisibility](Greater%20Invisibility.md "XPHB") at class level 3
+- [Hallucinatory Terrain](Hallucinatory%20Terrain.md "XPHB") at class level 3
+- [Phantasmal Killer](Phantasmal%20Killer.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Creation](Compendium/spells/creation-xphb.md "XPHB") at class level 3
-- [Dream](Compendium/spells/dream-xphb.md "XPHB") at class level 3
-- [Mislead](Compendium/spells/mislead-xphb.md "XPHB") at class level 3
-- [Seeming](Compendium/spells/seeming-xphb.md "XPHB") at class level 3
+- [Creation](Creation.md "XPHB") at class level 3
+- [Dream](Dream.md "XPHB") at class level 3
+- [Mislead](Mislead.md "XPHB") at class level 3
+- [Seeming](Seeming.md "XPHB") at class level 3
 
 ## 6th Level
 
-- [Programmed Illusion](Compendium/spells/programmed-illusion-xphb.md "XPHB") at class level 3
+- [Programmed Illusion](Programmed%20Illusion.md "XPHB") at class level 3
 
 ## 7th Level
 
-- [Mirage Arcane](Compendium/spells/mirage-arcane-xphb.md "XPHB") at class level 3
-- [Project Image](Compendium/spells/project-image-xphb.md "XPHB") at class level 3
-- [Simulacrum](Compendium/spells/simulacrum-xphb.md "XPHB") at class level 3
+- [Mirage Arcane](Mirage%20Arcane.md "XPHB") at class level 3
+- [Project Image](Project%20Image.md "XPHB") at class level 3
+- [Simulacrum](Simulacrum.md "XPHB") at class level 3
 
 ## 9th Level
 
-- [Weird](Compendium/spells/weird-xphb.md "XPHB") at class level 3
+- [Weird](Weird.md "XPHB") at class level 3

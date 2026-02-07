@@ -64,7 +64,7 @@ An organization's ethos doesn't dictate the alignment of its members or even the
 
 The rules for movement in combat don't translate to every situation. In particular, they can make a potentially thrilling chase seem dull and predictable. Faster creatures always catch up to slower ones, while creatures with the same Speed never close the distance between each other. Use the following rules to introduce random elements that make chases more exciting.
 
-Know the capabilities of the characters in your party before you make a chase an important feature of an adventure. A character with a high Speed or the right spell (such as [[dimension-door-xphb]], [[fly-xphb]], or [[hold-monster-xphb]]) can often end a chase before it begins.
+Know the capabilities of the characters in your party before you make a chase an important feature of an adventure. A character with a high Speed or the right spell (such as [[Dimension Door]], [[Fly]], or [[Hold Monster]]) can often end a chase before it begins.
 
 ### Beginning a Chase
 
@@ -96,7 +96,7 @@ The quarry can gain [[Advantage]] or [[Disadvantage]] on its check based on the 
 
 ![[ending-a-chase-escape-factors-xdmg]]
 
-Other factors might help or hinder the quarry's ability to escape, at your discretion. For example, a quarry with a [[faerie-fire-xphb]] spell cast on it might have Disadvantage on checks made to escape because it's much easier to spot.
+Other factors might help or hinder the quarry's ability to escape, at your discretion. For example, a quarry with a [[Faerie Fire]] spell cast on it might have Disadvantage on checks made to escape because it's much easier to spot.
 
 If the total of the quarry's check is greater than the highest [[Passive Perception]] score of the pursuers, the quarry escapes. If not, the chase continues for another round. Escape doesn't necessarily mean the quarry has outpaced its pursuers. For example, in a city, escape might mean the quarry ducked into a crowd or slipped around a corner, leaving no clue as to where it went.
 
@@ -126,7 +126,7 @@ A map of a chase can be linear or have many branches, depending on the nature of
 
 Unexpected complications make a chase more exciting. The accompanying Urban Chase Complications table and Wilderness Chase Complications table provide several examples. Each participant in the chase rolls `1d12` at the end of its turn. Consult the appropriate table to determine whether a complication occurs. If it does, it affects the next chase participant in the Initiative order, not the participant who rolled the die.
 
-Characters can create their own complications to shake off pursuers or slow their quarry (for example, casting the [[web-xphb]] spell in a narrow alleyway). Adjudicate these at your discretion.
+Characters can create their own complications to shake off pursuers or slow their quarry (for example, casting the [[Web]] spell in a narrow alleyway). Adjudicate these at your discretion.
 
 ![[urban-chase-complications-xdmg]]
 
@@ -185,7 +185,7 @@ You can usually change a creature's Intelligence, Wisdom, and Charisma scores fr
 
 #### Languages
 
-You can change any or all of the languages the creature knows. You might want to add languages if you've made a creature sapient that wasn't before. You can also add or remove [[telepathy-xphb]] or other forms of communication.
+You can change any or all of the languages the creature knows. You might want to add languages if you've made a creature sapient that wasn't before. You can also add or remove [[Compendium/spells/Telepathy]] or other forms of communication.
 
 #### Proficiencies
 
@@ -207,7 +207,7 @@ You can freely change the name and flavor of an attack, as well as its damage ty
 
 #### Resistances and Immunities
 
-If a creature doesn't have [[resistance-xphb]] or [[Immunity]] to one or more damage types, you can give it Resistance or Immunity to one or two damage types. You can also change the damage type of its existing Resistances and Immunities.
+If a creature doesn't have [[Compendium/spells/Resistance]] or [[Immunity]] to one or more damage types, you can give it Resistance or Immunity to one or two damage types. You can also change the damage type of its existing Resistances and Immunities.
 
 ### Traits
 
@@ -345,7 +345,7 @@ Every curse has rules that govern it. A curse typically takes one of the forms d
 
 #### Bestow Curse
 
-The simplest curses are created by the [[Bestow Curse]] spell. The effects of such curses are limited and can be ended by the [[remove-curse-xphb]] spell.
+The simplest curses are created by the [[Bestow Curse]] spell. The effects of such curses are limited and can be ended by the [[Remove Curse]] spell.
 
 *Bestow Curse* provides useful benchmarks for gauging the potency of other curses. A curse that lasts for 1 minute equates to a level 3 spell, while one that lasts until dispelled equates to a level 9 spell.
 
@@ -353,7 +353,7 @@ The simplest curses are created by the [[Bestow Curse]] spell. The effects of su
 
 Some monsters are associated with curses, whether as part of their origins or due to their ability to spread curses—werewolves being a prime example.
 
-You decide how a spell like [[remove-curse-xphb]] affects a creature with accursed origins. For example, you might decide that a mummy was created through a curse and it can be destroyed permanently only by casting *Remove Curse* on its corpse.
+You decide how a spell like [[Remove Curse]] affects a creature with accursed origins. For example, you might decide that a mummy was created through a curse and it can be destroyed permanently only by casting *Remove Curse* on its corpse.
 
 #### Cursed Magic Items
 
@@ -363,7 +363,7 @@ Cursed magic items are created deliberately or originate as the result of supern
 
 A curse might manifest during an adventure when a creature's violation of a taboo warrants supernatural punishment, such as breaking a vow, defiling a tomb, or murdering an innocent. Such a curse can have any effects you design, or it might be a customized version of another type of curse discussed in this section.
 
-A creature affected by such a curse should know why they're being punished and be able to learn how to end their curse, likely by symbolically righting the wrong they committed. How a spell like [[remove-curse-xphb]] affects a curse that's part of your adventure is up to you—the spell might merely suppress the effects of the curse for a time. Regardless, narrative curses should feel like rare, potent magic rooted in the lore of your campaign.
+A creature affected by such a curse should know why they're being punished and be able to learn how to end their curse, likely by symbolically righting the wrong they committed. How a spell like [[Remove Curse]] affects a curse that's part of your adventure is up to you—the spell might merely suppress the effects of the curse for a time. Regardless, narrative curses should feel like rare, potent magic rooted in the lore of your campaign.
 
 #### Environmental Curses
 
@@ -375,7 +375,7 @@ Demonic Possession arises from the chaos and evil of the "Abyss" and commonly be
 
 A creature that becomes the target of Demonic Possession must succeed on a DC 15 Charisma saving throw or be possessed by a bodiless demonic entity. Whenever the possessed creature rolls a 1 on a [[D20 Test]], the demonic entity takes control of the creature and determines the creature's behavior thereafter. At the end of each of the possessed creature's later turns, the creature makes a DC 15 Charisma saving throw, regaining control of itself on a success.
 
-After finishing a Long Rest, a creature with Demonic Possession makes a DC 15 Charisma saving throw. On a successful save, the effect ends on the creature. A [[dispel-evil-and-good-xphb]] spell or any magic that removes a curse also ends the effect on it.
+After finishing a Long Rest, a creature with Demonic Possession makes a DC 15 Charisma saving throw. On a successful save, the effect ends on the creature. A [[Dispel Evil and Good]] spell or any magic that removes a curse also ends the effect on it.
 
 ### Magical Contagions
 
@@ -418,7 +418,7 @@ If you and your players agree to avoid character death in your game, you might c
 
 ##### Comatose
 
-The character has 1 Hit Point and the [Unconscious](Conditions.md#Unconscious) condition. The character can regain Hit Points as normal, but the character remains Unconscious until they are targeted by a [[greater-restoration-xphb]] spell or experience a sudden awakening (see below).
+The character has 1 Hit Point and the [Unconscious](Conditions.md#Unconscious) condition. The character can regain Hit Points as normal, but the character remains Unconscious until they are targeted by a [[Greater Restoration]] spell or experience a sudden awakening (see below).
 
 ##### Sudden Awakening
 
@@ -439,7 +439,7 @@ When a character dies, either from failed Death Saves or from an effect that kil
 
 When a character dies, consult with the players to decide what happens next. Some players are perfectly happy to make new characters, especially when they're eager to try out new options. A new party member should start at the same level as the other characters in the party and have gear of similar value.
 
-It's also possible for dead characters to be brought back to life. The most common way is through spells such as [[revivify-xphb]] and [[raise-dead-xphb]]. It's up to you to decide how easy it is for characters to access those spells if they can't cast them. The "Player's Handbook" offers suggested prices for [[spellcasting-services-xphb]].
+It's also possible for dead characters to be brought back to life. The most common way is through spells such as [[Revivify]] and [[Raise Dead]]. It's up to you to decide how easy it is for characters to access those spells if they can't cast them. The "Player's Handbook" offers suggested prices for [[spellcasting-services-xphb]].
 
 ### What If Everyone Dies?
 
@@ -463,7 +463,7 @@ The characters wake up in cells, kept alive and imprisoned by their foes for som
 
 #### Raised by Another
 
-A powerful individual finds the adventurers' bodies and has them raised from the dead, putting the adventurers in the debt of their rescuer. What if the adventurers wake up decades after their death, returned to life by a [[resurrection-xphb]] spell cast by someone who believed they had an important role to play in this future era?
+A powerful individual finds the adventurers' bodies and has them raised from the dead, putting the adventurers in the debt of their rescuer. What if the adventurers wake up decades after their death, returned to life by a [[Resurrection]] spell cast by someone who believed they had an important role to play in this future era?
 
 #### Rescue Mission
 
@@ -599,7 +599,7 @@ A vault contains treasure and is usually sealed behind a locked or secret door. 
 
 #### Work Areas
 
-Sapient creatures often have laboratories, workshops, libraries, forges, and studios. Because such areas tend to contain valuable equipment, their doors are often locked and sometimes even warded by [[glyph-of-warding-xphb]] spells and similar effects.
+Sapient creatures often have laboratories, workshops, libraries, forges, and studios. Because such areas tend to contain valuable equipment, their doors are often locked and sometimes even warded by [[Glyph of Warding]] spells and similar effects.
 
 ### Dungeon Decay
 
@@ -660,7 +660,7 @@ Exposure to mental stress can cause prolonged effects. Consider the following po
 
 ##### Short-Term Effects
 
-The character has the [Frightened](Conditions.md#Frightened), [Incapacitated](Conditions.md#Incapacitated), or [Stunned](Conditions.md#Stunned) condition for `1d10` minutes. This condition might be accompanied by alarming behavior or hallucinations. These effects can be suppressed with the [[Calm Emotions]] spell or removed by the [[lesser-restoration-xphb]] spell.
+The character has the [Frightened](Conditions.md#Frightened), [Incapacitated](Conditions.md#Incapacitated), or [Stunned](Conditions.md#Stunned) condition for `1d10` minutes. This condition might be accompanied by alarming behavior or hallucinations. These effects can be suppressed with the [[Calm Emotions]] spell or removed by the [[Lesser Restoration]] spell.
 
 ##### Long-Term Effects
 
@@ -668,7 +668,7 @@ The character has [[Disadvantage]] on some or all ability checks for `1d10 × 10
 
 ##### Indefinite Effects
 
-An indefinite effect is a long-term effect (see above) that lasts until removed by a [[greater-restoration-xphb]] spell. It can be suppressed by a Calm Emotions spell.
+An indefinite effect is a long-term effect (see above) that lasts until removed by a [[Greater Restoration]] spell. It can be suppressed by a Calm Emotions spell.
 
 ![Fight, flight, or freeze?](Compendium/books/dungeon-masters-guide-2024/img/031-02-011-fight-flight-or-freeze.webp#center)
 
@@ -730,7 +730,7 @@ Each creature in the [[Sphere (Area of Effect)]] makes a DC 15 Dexterity saving 
 
 #### Smoke Grenade
 
-The area of the [[Sphere (Area of Effect)]] is [[Heavily Obscured]] by smoke for 1 minute. A strong wind (such as the [[gust-of-wind-xphb]] spell) disperses the smoke.
+The area of the [[Sphere (Area of Effect)]] is [[Heavily Obscured]] by smoke for 1 minute. A strong wind (such as the [[Gust of Wind]] spell) disperses the smoke.
 
 #### Gunpowder
 
@@ -776,7 +776,7 @@ That said, characters' relationships with the divine forces they access to wield
 
 ### Divine Knowledge
 
-The [[Commune]] spell allows its caster to ask a deity (or an agent of the god) yes-or-no questions and receive correct information, and other spells of the Divination school have similar effects. As the *Commune* spell description states, gods aren't necessarily omniscient. But they are tremendously knowledgeable, particularly with regard to their particular areas of influence. A sea god can be reasonably expected to know anything that has happened in or on a sea, for example, and a martial god knows details about wars. Gods can reliably predict the future, at least in the short term (hence their ability to answer spells such as [[Augury]] and [[divination-xphb]]). And some gods might be unwilling to reveal their ignorance, choosing to give an unclear answer rather than admit that they don't know the truth.
+The [[Commune]] spell allows its caster to ask a deity (or an agent of the god) yes-or-no questions and receive correct information, and other spells of the Divination school have similar effects. As the *Commune* spell description states, gods aren't necessarily omniscient. But they are tremendously knowledgeable, particularly with regard to their particular areas of influence. A sea god can be reasonably expected to know anything that has happened in or on a sea, for example, and a martial god knows details about wars. Gods can reliably predict the future, at least in the short term (hence their ability to answer spells such as [[Augury]] and [[Divination]]). And some gods might be unwilling to reveal their ignorance, choosing to give an unclear answer rather than admit that they don't know the truth.
 
 ### Divine Intervention
 
@@ -936,11 +936,11 @@ Whenever you would otherwise make a number of [[D20 Test]] for identical monster
 
 ### Adjudicating Areas of Effect
 
-When the characters are fighting a large number of monsters, it's not always practical to use miniatures on a battle grid or some other visual aid. So how do you determine how many monsters are affected by the Wizard's [[fireball-xphb]] spell or some other area of effect?
+When the characters are fighting a large number of monsters, it's not always practical to use miniatures on a battle grid or some other visual aid. So how do you determine how many monsters are affected by the Wizard's [[Fireball]] spell or some other area of effect?
 
 The Targets in Area of Effect table offers a guideline. To use the table, find the column for the shape of the area, then read down until you find its size. Then check the rightmost column to see about how many creatures are caught in the area. If you imagine that the targets are spread out, decrease the number by `1d3`. If they're bunched up, you can increase the number by `1d3`. Of course, an area can't encompass more creatures than are present in an encounter.
 
-Your judgment always outweighs these guidelines, and it's fine to err on the side of affecting more creatures. For example, if eight zombies are crowded around a Fighter when the Bard centers a [[shatter-xphb]] spell on the Fighter's space, the spell's area should definitely engulf all eight zombies, even though according to the table, a 10-foot-radius [[Sphere (Area of Effect)]] includes only three creatures.
+Your judgment always outweighs these guidelines, and it's fine to err on the side of affecting more creatures. For example, if eight zombies are crowded around a Fighter when the Bard centers a [[Shatter]] spell on the Fighter's space, the spell's area should definitely engulf all eight zombies, even though according to the table, a 10-foot-radius [[Sphere (Area of Effect)]] includes only three creatures.
 
 ![[adjudicating-areas-of-effect-targets-in-area-of-effect-xdmg]]
 
@@ -950,9 +950,9 @@ The following scenario shows examples of how you as the DM can apply the guideli
 
 Eight [[zombie-xmm]] surround and attack a Fighter. The zombies' attack bonus is +3, and the Fighter's AC is 18, so the roll needed is 15 (18−3). Finding 15 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 2/8—two of the zombies hit. Using the zombies' average damage (4 Bludgeoning damage), the Fighter takes 8 Bludgeoning damage.
 
-After seeing the Fighter mauled by zombies, the Bard casts [[shatter-xphb]], centering the spell on the Fighter. (The Bard trusts that the Fighter will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius [[Sphere (Area of Effect)]], and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies' Constitution saving throw bonus is +3, and the Bard's spell saving throw DC is 16, so the roll needed is 13 (16−3). Finding 13 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.
+After seeing the Fighter mauled by zombies, the Bard casts [[Shatter]], centering the spell on the Fighter. (The Bard trusts that the Fighter will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius [[Sphere (Area of Effect)]], and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies' Constitution saving throw bonus is +3, and the Bard's spell saving throw DC is 16, so the roll needed is 13 (16−3). Finding 13 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.
 
-Seeing a larger crowd of zombies in the distance, the Wizard casts [[fireball-xphb]]. The spell covers a 20-foot-radius Sphere. The Targets in Area of Effect table suggests that area covers ten zombies, but the DM rules that they're densely packed together and adds `1d3`, rolling a 2. So the spell engulfs twelve zombies in its area. The zombies' Dexterity saving throw modifier is −2, and the Wizard's spell save DC is 16, so the roll needed is 18 (16−[−2]). Finding 18 in the Normal column and reading across to the Out of 6 column, the DM gets a result of 1/6. Twelve times 1/6 is 2, so two of the twelve zombies succeed on the save.
+Seeing a larger crowd of zombies in the distance, the Wizard casts [[Fireball]]. The spell covers a 20-foot-radius Sphere. The Targets in Area of Effect table suggests that area covers ten zombies, but the DM rules that they're densely packed together and adds `1d3`, rolling a 2. So the spell engulfs twelve zombies in its area. The zombies' Dexterity saving throw modifier is −2, and the Wizard's spell save DC is 16, so the roll needed is 18 (16−[−2]). Finding 18 in the Normal column and reading across to the Out of 6 column, the DM gets a result of 1/6. Twelve times 1/6 is 2, so two of the twelve zombies succeed on the save.
 
 ## Nonplayer Characters
 
@@ -1034,7 +1034,7 @@ Here are some NPC archetypes that work well as supporting characters in an adven
 - **Comic Relief.** A comic relief NPC helps lighten the mood of an adventure or game session, perhaps with an occasional display of ineptness or a gift for puns.  
 - **Curmudgeon.** A curmudgeon NPC is quick to complain humorously about the characters' terrible choices and bad planning. You can occasionally use this NPC to suggest legitimate courses of action or share insights.  
 - **Dutiful Assistant.** A dutiful assistant NPC is good at carrying equipment and looking after the party's horses and other belongings. Such an NPC might be entirely devoted to their duty, or they might be using this easily overlooked position to pursue goals of their own.  
-- **Milquetoast Healer.** Absent a healer of their own, the characters might love an NPC healer whose personality matters less than the healer's devotion to the party and ability to cast [[cure-wounds-xphb]] or [[revivify-xphb]] when needed.  
+- **Milquetoast Healer.** Absent a healer of their own, the characters might love an NPC healer whose personality matters less than the healer's devotion to the party and ability to cast [[Cure Wounds]] or [[Revivify]] when needed.  
 - **Walking Textbook.** A walking textbook NPC is knowledgeable about a particular field of expertise and can be a useful source of information, but they can't be relied on to make wise decisions or hold up their end in battle.  
 - **Wallflower Warrior.** A wallflower warrior NPC is good at fading into the background, doesn't usually chat or engage unless approached, and eagerly avoids the spotlight. Their primary purpose is to give monsters another target to attack.  
 
@@ -1243,7 +1243,7 @@ Charms can be received in many different ways. For example, a Wizard who finds a
 
 Some Charms can be used only once; others can be used a specific number of times before vanishing. If a Charm lets a character cast a spell, the character can do so without expending a spell slot or providing any spell components. Unless otherwise stated, the spell uses its normal casting time, range, and duration; if the spell requires Concentration, the character must concentrate.
 
-A Charm can't be removed from a creature by anything short of divine intervention or a [[wish-xphb]] spell. A character can't benefit from multiple instances of a Charm at the same time.
+A Charm can't be removed from a creature by anything short of divine intervention or a [[Wish]] spell. A character can't benefit from multiple instances of a Charm at the same time.
 
 A typical Charm mimics the effects of a Potion or spell, so it is easy to create more Charms of your own.
 

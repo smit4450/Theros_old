@@ -43,11 +43,11 @@ See "Artifacts" in chapter 7 of the Dungeon Master's Guide for details on random
 
 The bident holds the power to command the waves and its creatures. As an action, you can change the condition of the sea within 1 mile of you, creating strong winds and heavy rain that cause violent waves (see "Weather at Sea" in chapter 5 of the Dungeon Master's Guide) or calming a storm. In either case, the unnatural weather lasts for 1 hour before returning to normal. Once used, this property of the bident can't be used again until the next dusk.
 
-Additionally, you can cast the [[dominate-monster-xphb]] spell (save DC 18) from the bident, but only on beasts and monstrosities that have an innate swimming speed. Once used, this property of the bident can't be used again until the next dusk.
+Additionally, you can cast the [[Dominate Monster]] spell (save DC 18) from the bident, but only on beasts and monstrosities that have an innate swimming speed. Once used, this property of the bident can't be used again until the next dusk.
 
 ## Aquatic Metamorphosis
 
-You can cast the [[true-polymorph-xphb]] spell (save DC 18) from the bident, but you must cast it on a creature to turn it into a kind of creature that has an innate swimming speed. Once used, this property of the bident can't be used again until the next dusk.
+You can cast the [[True Polymorph]] spell (save DC 18) from the bident, but you must cast it on a creature to turn it into a kind of creature that has an innate swimming speed. Once used, this property of the bident can't be used again until the next dusk.
 
 ## Destroying the Bident
 

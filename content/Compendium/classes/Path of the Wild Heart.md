@@ -54,7 +54,7 @@ Barbarians who follow the Path of the Wild Heart view themselves as kin to anima
 
 ### Animal Speaker (Level 3)
 
-You can cast the [[Beast Sense]] and [[speak-with-animals-xphb]] spells but only as Rituals. Wisdom is your spellcasting ability for them.
+You can cast the [[Beast Sense]] and [[Speak with Animals]] spells but only as Rituals. Wisdom is your spellcasting ability for them.
 
 ### Rage of the Wilds (Level 3)
 
@@ -62,7 +62,7 @@ Your Rage taps into the primal power of animals. Whenever you activate your Rage
 
 #### Bear
 
-While your Rage is active, you have [[resistance-xphb]] to every damage type except Force, Necrotic, Psychic, and Radiant.
+While your Rage is active, you have [[Compendium/spells/Resistance]] to every damage type except Force, Necrotic, Psychic, and Radiant.
 
 #### Eagle
 

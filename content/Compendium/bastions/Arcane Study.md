@@ -20,7 +20,7 @@ An Arcane Study is a place of quiet research that contains one or more desks and
 
 ## Arcane Study Charm
 
-After spending a Long Rest in your Bastion, you gain a magical [[arcane-study-charm-xdmg]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[identify-xphb]] without expending a spell slot or using Material components. You can't gain this Charm again while you still have it.
+After spending a Long Rest in your Bastion, you gain a magical [[arcane-study-charm-xdmg]] (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [[Identify]] without expending a spell slot or using Material components. You can't gain this Charm again while you still have it.
 
 ## Craft Options
 

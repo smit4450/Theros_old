@@ -40,7 +40,7 @@ You create an [Invisible](Conditions.md#Invisible) sensor within range in a loca
 
 When you cast the spell, choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As a [[Bonus Action]], you can switch between seeing and hearing.
 
-A creature that sees the sensor (such as a creature benefiting from [[see-invisibility-xphb]] or [Truesight](Senses.md#Truesight)) sees a luminous orb about the size of your fist.
+A creature that sees the sensor (such as a creature benefiting from [[See Invisibility]] or [Truesight](Senses.md#Truesight)) sees a luminous orb about the size of your fist.
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [[Cleric Spells]]; [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [Warlock (Great Old One Patron)](Spells%20for%20Great%20Old%20One%20Patron.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](Spells%20for%20Diviner.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 

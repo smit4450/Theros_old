@@ -63,10 +63,10 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [[Aid]], [[Bless]], [[cure-wounds-xphb]], [[lesser-restoration-xphb]] |
-| 5th | [[mass-healing-word-xphb]], [[revivify-xphb]] |
-| 7th | [[Aura of Life]], [[death-ward-xphb]] |
-| 9th | [[greater-restoration-xphb]], [[mass-cure-wounds-xphb]] |
+| 3rd | [[Aid]], [[Bless]], [[Cure Wounds]], [[Lesser Restoration]] |
+| 5th | [[Mass Healing Word]], [[Revivify]] |
+| 7th | [[Aura of Life]], [[Death Ward]] |
+| 9th | [[Greater Restoration]], [[Mass Cure Wounds]] |
 ^life-domain-spells
 
 ### Disciple of Life (Level 3)

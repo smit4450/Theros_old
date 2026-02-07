@@ -29,7 +29,7 @@ You create a 3-foot-long blade-shaped planar rift that lasts for the duration. T
 
 As a [[Bonus Action]] on your later turns, you can move the rift up to 60 feet and repeat the two attacks against a creature or an object within 5 feet of it. You can direct the attacks at the same target or at different ones.
 
-The blade can harmlessly pass through any barrier, including ones created by spells like [[wall-of-force-xphb]].
+The blade can harmlessly pass through any barrier, including ones created by spells like [[Wall of Force]].
 
 **Classes**: [[Bard Spells]]; [[Sorcerer Spells]]; [[Warlock Spells]]; [[Wizard Spells]]
 

@@ -65,10 +65,10 @@ When you reach a Ranger level specified in the Fey Wanderer Spells table, you th
 | Ranger Level | Spells |
 |--------------|--------|
 | 3rd | [[Charm Person]] |
-| 5th | [[misty-step-xphb]] |
-| 9th | [[summon-fey-xphb]] |
-| 13th | [[dimension-door-xphb]] |
-| 17th | [[mislead-xphb]] |
+| 5th | [[Misty Step]] |
+| 9th | [[Summon Fey]] |
+| 13th | [[Dimension Door]] |
+| 17th | [[Mislead]] |
 ^fey-wanderer-spells
 
 You also possess a sylvan blessing. Choose it from the Nessian Gifts table or determine it randomly.
@@ -99,12 +99,12 @@ In addition, whenever you or a creature you can see within 120 feet of you succe
 
 ### Fey Reinforcements (Level 11)
 
-You can cast [[summon-fey-xphb]] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [[Long Rest]].
+You can cast [[Summon Fey]] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [[Long Rest]].
 
 Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](Conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting.
 
 ### Misty Wanderer (Level 15)
 
-You can cast [[misty-step-xphb]] without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
+You can cast [[Misty Step]] without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
-In addition, whenever you cast [[misty-step-xphb]], you can bring along one willing creature you can see within 5 feet of yourself. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.
+In addition, whenever you cast [[Misty Step]], you can bring along one willing creature you can see within 5 feet of yourself. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.

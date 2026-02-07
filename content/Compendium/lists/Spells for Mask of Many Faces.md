@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Disguise Self](Compendium/spells/disguise-self-xphb.md "XPHB")
+- [Disguise Self](Disguise%20Self.md "XPHB")

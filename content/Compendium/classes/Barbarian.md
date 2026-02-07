@@ -53,14 +53,14 @@ aliases:
 - **Saving Throw Proficiencies**: Constitution, Strength
 - **Skill Proficiencies**: *Choose 2:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Skills.md#Athletics), [Intimidation](Skills.md#Intimidation), [Nature](Skills.md#Nature), [Perception](Skills.md#Perception), or [Survival](Skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Compendium/items/Shield]]
 
 **Starting Equipment:** *Choose A or B:* (A) [[Greataxe]], 4 [[Handaxe]], [[Explorer's Pack]], and 15 GP; or (B) 75 GP
 
 ## Multiclassing Barbarian
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [[Shield]]
+- **Armor Training**: [[Compendium/items/Shield]]
 
 ## Barbarian
 
@@ -82,7 +82,7 @@ While active, your Rage follows the rules below.
 
 #### Damage Resistance
 
-You have [[resistance-xphb]] to Bludgeoning, Piercing, and Slashing damage.
+You have [[Compendium/spells/Resistance]] to Bludgeoning, Piercing, and Slashing damage.
 
 #### Rage Damage
 
@@ -108,7 +108,7 @@ Each time the Rage is extended, it lasts until the end of your next turn. You ca
 
 ### Unarmored Defense (Level 1)
 
-While you aren't wearing any armor, your base [[Armor Class]] equals 10 plus your Dexterity and Constitution modifiers. You can use a [[Shield]] and still gain this benefit.
+While you aren't wearing any armor, your base [[Armor Class]] equals 10 plus your Dexterity and Constitution modifiers. You can use a [[Compendium/items/Shield]] and still gain this benefit.
 
 ### Weapon Mastery (Level 1)
 

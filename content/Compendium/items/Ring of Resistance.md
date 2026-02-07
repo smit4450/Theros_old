@@ -13,7 +13,7 @@ aliases:
 
 
 
-You have [[resistance-xphb]] to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.
+You have [[Compendium/spells/Resistance]] to one damage type while wearing this ring. The gemstone in the ring indicates the type, which the DM chooses or determines randomly by rolling on the following table.
 
 | dice: d10 | Damage Type | Gem |
 |-----------|-------------|-----|

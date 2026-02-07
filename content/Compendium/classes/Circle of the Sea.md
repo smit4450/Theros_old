@@ -60,10 +60,10 @@ When you reach a Druid level specified in the Circle of the Sea Spells table, yo
 
 | Druid Level | Prepared Spells |
 |-------------|-----------------|
-| 3rd | [[fog-cloud-xphb]], [[gust-of-wind-xphb]], [[ray-of-frost-xphb]], [[shatter-xphb]], [[thunderwave-xphb]] |
-| 5th | [[lightning-bolt-xphb]], [[water-breathing-xphb]] |
-| 7th | [[control-water-xphb]], [[ice-storm-xphb]] |
-| 9th | [[Conjure Elemental]], [[hold-monster-xphb]] |
+| 3rd | [[Fog Cloud]], [[Gust of Wind]], [[Ray of Frost]], [[Shatter]], [[Thunderwave]] |
+| 5th | [[Lightning Bolt]], [[Water Breathing]] |
+| 7th | [[Control Water]], [[Ice Storm]] |
+| 9th | [[Conjure Elemental]], [[Hold Monster]] |
 ^circle-of-the-sea-spells
 
 ### Wrath of the Sea (Level 3)
@@ -88,7 +88,7 @@ You gain a [[Fly Speed]] equal to your [[Speed]].
 
 #### Resistance
 
-You have [[resistance-xphb]] to Cold, Lightning, and Thunder damage.
+You have [[Compendium/spells/Resistance]] to Cold, Lightning, and Thunder damage.
 
 ### Oceanic Gift (Level 14)
 

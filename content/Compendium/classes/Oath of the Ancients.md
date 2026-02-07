@@ -66,11 +66,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[ensnaring-strike-xphb]], [[speak-with-animals-xphb]] |
-| 5th | [[misty-step-xphb]], [[moonbeam-xphb]] |
-| 9th | [[plant-growth-xphb]], [[protection-from-energy-xphb]] |
-| 13th | [[ice-storm-xphb]], [[stoneskin-xphb]] |
-| 17th | [[Commune with Nature]], [[tree-stride-xphb]] |
+| 3rd | [[Ensnaring Strike]], [[Speak with Animals]] |
+| 5th | [[Misty Step]], [[Moonbeam]] |
+| 9th | [[Plant Growth]], [[Protection from Energy]] |
+| 13th | [[Ice Storm]], [[Stoneskin]] |
+| 17th | [[Commune with Nature]], [[Tree Stride]] |
 ^oath-of-the-ancients-spells
 
 ### Nature's Wrath (Level 3)
@@ -79,7 +79,7 @@ As a [Magic](Actions.md#Magic) action, you can expend one use of your Channel Di
 
 ### Aura of Warding (Level 7)
 
-Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have [[resistance-xphb]] to Necrotic, Psychic, and Radiant damage while in your Aura of Protection.
+Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have [[Compendium/spells/Resistance]] to Necrotic, Psychic, and Radiant damage while in your Aura of Protection.
 
 ### Undying Sentinel (Level 15)
 

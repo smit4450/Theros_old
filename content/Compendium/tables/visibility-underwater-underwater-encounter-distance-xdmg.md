@@ -16,5 +16,5 @@ aliases:
 |------------|--------------------|
 | Clear water, [[Bright Light]] | 60 feet |
 | Clear water, [[Dim Light]] | 30 feet |
-| Murky water or [[darkness-xphb]] | 10 feet |
+| Murky water or [[Compendium/spells/Darkness]] | 10 feet |
 ^underwater-encounter-distance

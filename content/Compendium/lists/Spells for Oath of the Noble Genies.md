@@ -11,27 +11,27 @@ aliases:
 
 ## Cantrip
 
-- [Elementalism](Compendium/spells/elementalism-xphb.md "XPHB") at class level 17
+- [Elementalism](Elementalism.md "XPHB") at class level 17
 
 ## 1st Level
 
 - [Chromatic Orb](Chromatic%20Orb.md "XPHB") at class level 17
-- [Thunderous Smite](Compendium/spells/thunderous-smite-xphb.md "XPHB") at class level 17
+- [Thunderous Smite](Thunderous%20Smite.md "XPHB") at class level 17
 
 ## 2nd Level
 
-- [Mirror Image](Compendium/spells/mirror-image-xphb.md "XPHB") at class level 17
-- [Phantasmal Force](Compendium/spells/phantasmal-force-xphb.md "XPHB") at class level 17
+- [Mirror Image](Mirror%20Image.md "XPHB") at class level 17
+- [Phantasmal Force](Phantasmal%20Force.md "XPHB") at class level 17
 
 ## 3rd Level
 
-- [Fly](Compendium/spells/fly-xphb.md "XPHB") at class level 17
-- [Gaseous Form](Compendium/spells/gaseous-form-xphb.md "XPHB") at class level 17
+- [Fly](Fly.md "XPHB") at class level 17
+- [Gaseous Form](Gaseous%20Form.md "XPHB") at class level 17
 
 ## 4th Level
 
 - [Conjure Minor Elementals](Conjure%20Minor%20Elementals.md "XPHB") at class level 17
-- [Summon Elemental](Compendium/spells/summon-elemental-xphb.md "XPHB") at class level 17
+- [Summon Elemental](Summon%20Elemental.md "XPHB") at class level 17
 
 ## 5th Level
 

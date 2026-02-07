@@ -21,6 +21,6 @@ aliases:
 - **Properties**: [Thrown](Item%20Properties.md#Thrown), [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-This magic weapon has 3 charges, and it regains `1d3` expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [[dominate-beast-xphb]] (save DC 15) from it on a Beast that has a [[Swim Speed]].
+This magic weapon has 3 charges, and it regains `1d3` expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [[Dominate Beast]] (save DC 15) from it on a Beast that has a [[Swim Speed]].
 
 *Source: Dungeon Master's Guide (2024) p. 317. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

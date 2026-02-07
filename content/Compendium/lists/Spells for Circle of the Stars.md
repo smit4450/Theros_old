@@ -11,8 +11,8 @@ aliases:
 
 ## Cantrip
 
-- [Guidance](Compendium/spells/guidance-xphb.md "XPHB") as cantrip, at class level 3
+- [Guidance](Guidance.md "XPHB") as cantrip, at class level 3
 
 ## 1st Level
 
-- [Guiding Bolt](Compendium/spells/guiding-bolt-xphb.md "XPHB") as cantrip, at class level 3
+- [Guiding Bolt](Guiding%20Bolt.md "XPHB") as cantrip, at class level 3

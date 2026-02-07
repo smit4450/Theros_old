@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Mage Armor](Compendium/spells/mage-armor-xphb.md "XPHB")
+- [Mage Armor](Mage%20Armor.md "XPHB")

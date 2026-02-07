@@ -13,7 +13,7 @@ aliases:
 
 **Prerequisite**: Level 5, pact of the chain|xphb
 
-When you cast [[find-familiar-xphb]], you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
+When you cast [[Find Familiar]], you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
 
 ## Aerial or Aquatic
 
@@ -33,4 +33,4 @@ If the familiar forces a creature to make a saving throw, it uses your spell sav
 
 ## Resistance
 
-When the familiar takes damage, you can take a [[Reaction]] to grant it [[resistance-xphb]] against that damage.
+When the familiar takes damage, you can take a [[Reaction]] to grant it [[Compendium/spells/Resistance]] against that damage.

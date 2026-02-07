@@ -11,4 +11,4 @@ aliases:
 
 ## 2nd Level
 
-- [Gentle Repose](Compendium/spells/gentle-repose-xphb.md "XPHB")
+- [Gentle Repose](Gentle%20Repose.md "XPHB")

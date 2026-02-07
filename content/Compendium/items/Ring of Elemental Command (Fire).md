@@ -27,6 +27,6 @@ While wearing the ring, you benefit from additional properties corresponding to 
 
 ## Spellcasting
 
-The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [[Burning Hands]] (1 charge), [[fireball-xphb]] (2 charges), [[fire-storm-xphb]] (4 charges), [[wall-of-fire-xphb]] (3 charges)
+The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [[Burning Hands]] (1 charge), [[Fireball]] (2 charges), [[Fire Storm]] (4 charges), [[Wall of Fire]] (3 charges)
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

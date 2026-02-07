@@ -11,29 +11,29 @@ aliases:
 
 ## Cantrip
 
-- [Mind Sliver](Compendium/spells/mind-sliver-xphb.md "XPHB") at class level 3
+- [Mind Sliver](Mind%20Sliver.md "XPHB") at class level 3
 
 ## 1st Level
 
 - [Arms of Hadar](Arms%20of%20Hadar.md "XPHB") at class level 3
-- [Dissonant Whispers](Compendium/spells/dissonant-whispers-xphb.md "XPHB") at class level 3
+- [Dissonant Whispers](Dissonant%20Whispers.md "XPHB") at class level 3
 
 ## 2nd Level
 
 - [Calm Emotions](Calm%20Emotions.md "XPHB") at class level 3
-- [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md "XPHB") at class level 3
+- [Detect Thoughts](Detect%20Thoughts.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Hunger of Hadar](Compendium/spells/hunger-of-hadar-xphb.md "XPHB") at class level 3
-- [Sending](Compendium/spells/sending-xphb.md "XPHB") at class level 3
+- [Hunger of Hadar](Hunger%20of%20Hadar.md "XPHB") at class level 3
+- [Sending](Sending.md "XPHB") at class level 3
 
 ## 4th Level
 
-- [Evard's Black Tentacles](Compendium/spells/evards-black-tentacles-xphb.md "XPHB") at class level 3
-- [Summon Aberration](Compendium/spells/summon-aberration-xphb.md "XPHB") at class level 3
+- [Evard's Black Tentacles](Evard's%20Black%20Tentacles.md "XPHB") at class level 3
+- [Summon Aberration](Summon%20Aberration.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Rary's Telepathic Bond](Compendium/spells/rarys-telepathic-bond-xphb.md "XPHB") at class level 3
-- [Telekinesis](Compendium/spells/telekinesis-xphb.md "XPHB") at class level 3
+- [Rary's Telepathic Bond](Rary's%20Telepathic%20Bond.md "XPHB") at class level 3
+- [Telekinesis](Telekinesis.md "XPHB") at class level 3

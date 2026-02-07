@@ -86,7 +86,7 @@ You have a [[Fly Speed]] equal to your [[Speed]] and can hover.
 
 #### Resistance
 
-You have [[resistance-xphb]] to Necrotic, Psychic, and Radiant damage.
+You have [[Compendium/spells/Resistance]] to Necrotic, Psychic, and Radiant damage.
 
 #### Revivification
 

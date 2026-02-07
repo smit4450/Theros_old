@@ -20,7 +20,7 @@ aliases:
 - **Properties**: [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-You have [[resistance-xphb]] to Fire damage while you hold this staff.
+You have [[Compendium/spells/Resistance]] to Fire damage while you hold this staff.
 
 ## Spells
 
@@ -29,8 +29,8 @@ The staff has 10 charges. While holding the staff, you can cast one of the spell
 | Spell | Charge Cost |
 |-------|-------------|
 | [[Burning Hands]] | 1 |
-| [[fireball-xphb]] | 3 |
-| [[wall-of-fire-xphb]] | 4 |
+| [[Fireball]] | 3 |
+| [[Wall of Fire]] | 4 |
 ^spell-charge-cost
 
 ## Regaining Charges

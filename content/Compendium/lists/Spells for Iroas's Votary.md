@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Crusader's Mantle](Compendium/spells/crusaders-mantle-xphb.md "XPHB")
+- [Crusader's Mantle](Crusader's%20Mantle.md "XPHB")

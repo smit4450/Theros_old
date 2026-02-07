@@ -17,7 +17,7 @@ An Instrument of the Bards is superior to an ordinary instrument in every way. S
 
 You can play the instrument to cast one of its spells. Once the instrument has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
 
-All Instrument of the Bards can be used to cast the following spells: [[fly-xphb]], [[invisibility-xphb]], [[levitate-xphb]], [[protection-from-evil-and-good-xphb]]
+All Instrument of the Bards can be used to cast the following spells: [[Fly]], [[Invisibility]], [[Levitate]], [[Protection from Evil and Good]]
 
 **Items in this group:**
 

@@ -130,7 +130,7 @@ The 20-sided die (`d20`) is the most important die you'll use in the game. It's 
 
 #### Damage
 
-The most common use for dice other than the `d20` is to determine damage. When you make a successful attack roll (one kind of [[D20 Test]]), you roll damage to see how effective the attack is. When you cast a spell, you might also roll damage. Different weapons and spells use different dice for damage. For example, a [[Dagger]] uses `1d4`, a [[Greataxe]] uses `1d12`, and a [[fireball-xphb]] spell uses `8d6`.
+The most common use for dice other than the `d20` is to determine damage. When you make a successful attack roll (one kind of [[D20 Test]]), you roll damage to see how effective the attack is. When you cast a spell, you might also roll damage. Different weapons and spells use different dice for damage. For example, a [[Dagger]] uses `1d4`, a [[Greataxe]] uses `1d12`, and a [[Fireball]] spell uses `8d6`.
 
 #### Random Tables
 
@@ -957,7 +957,7 @@ Damage dealt via saving throws uses these rules.
 
 #### Damage against Multiple Targets
 
-When you create a damaging effect that forces two or more targets to make saving throws against it at the same time, roll the damage once for all the targets. For example, when a wizard casts [[fireball-xphb]], the spell's damage is rolled once for all creatures caught in the blast.
+When you create a damaging effect that forces two or more targets to make saving throws against it at the same time, roll the damage once for all the targets. For example, when a wizard casts [[Fireball]], the spell's damage is rolled once for all creatures caught in the blast.
 
 #### Half Damage
 
@@ -965,7 +965,7 @@ Many saving throw effects deal half damage (round down) to a target when the tar
 
 ### Damage Types
 
-Each instance of damage has a type, like Fire or Slashing. Damage types are listed in the "rules glossary" and have no rules of their own, but other rules, such as [[resistance-xphb]], rely on damage types.
+Each instance of damage has a type, like Fire or Slashing. Damage types are listed in the "rules glossary" and have no rules of their own, but other rules, such as [[Compendium/spells/Resistance]], rely on damage types.
 
 ### Resistance and Vulnerability
 
@@ -987,7 +987,7 @@ Some creatures and objects have Immunity to certain damage types and conditions.
 
 ### Healing
 
-Hit Points can be restored by magic, such as the [[cure-wounds-xphb]] spell or a [[Potion of Healing]], or by a [[Short Rest]] or [[Long Rest]].
+Hit Points can be restored by magic, such as the [[Cure Wounds]] spell or a [[Potion of Healing]], or by a [[Short Rest]] or [[Long Rest]].
 
 When you receive healing, add the restored Hit Points to your current Hit Points. Your Hit Points can't exceed your Hit Point maximum, so any Hit Points regained in excess of the maximum are lost. For example, if you receive 8 Hit Points of healing and have 14 Hit Points and a Hit Point maximum of 20, you regain 6 Hit Points, not 8.
 
@@ -1013,7 +1013,7 @@ When damage reduces a character to 0 Hit Points and damage remains, the characte
 
 #### Character Demise
 
-If your character dies, others might find a magical way to revive your character, such as with the [[raise-dead-xphb]] spell. Or talk with the DM about making a new character to join the group. The "rules glossary" has more information on being [[Dead]].
+If your character dies, others might find a magical way to revive your character, such as with the [[Raise Dead]] spell. Or talk with the DM about making a new character to join the group. The "rules glossary" has more information on being [[Dead]].
 
 #### Falling Unconscious
 
@@ -1190,7 +1190,7 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 > [!note] (12)—Spells and Reactions
 > 
-> Mirabella casts the [[Shield]] spell. It's a special property of this spell that it can be cast even when it's not the caster's turn, using her Reaction (see ""Actions"" earlier in this chapter).
+> Mirabella casts the [[Compendium/items/Shield]] spell. It's a special property of this spell that it can be cast even when it's not the caster's turn, using her Reaction (see ""Actions"" earlier in this chapter).
 ^12-spells-and-reactions
 
 > [!note] (13)—Special Abilities
@@ -1231,12 +1231,12 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 > [!note] (15)—Areas of Effect
 > 
-> Spells and many other effects in the game fill a specific area that is defined by the rules, like the 15-foot [[Cube (Area of Effect)]] of the [[thunderwave-xphb]] spell. See the "rules glossary" for more on areas of effect.
+> Spells and many other effects in the game fill a specific area that is defined by the rules, like the 15-foot [[Cube (Area of Effect)]] of the [[Thunderwave]] spell. See the "rules glossary" for more on areas of effect.
 ^15-areas-of-effect
 
 > [!note] (16)—Saving Throws
 > 
-> The skeletons make Constitution saving throws to resist the [[thunderwave-xphb]] spell. When they fail those saves, they take damage and are pushed, as defined in that spell's description.
+> The skeletons make Constitution saving throws to resist the [[Thunderwave]] spell. When they fail those saves, they take damage and are pushed, as defined in that spell's description.
 ^16-saving-throws
 
 > [!note] Damage and Hit Points
@@ -1246,7 +1246,7 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 > [!note] (17)—Saving Throws
 > 
-> Gareth's Sear Undead is a class feature (see "chapter 3"). As with Mirabella's [[thunderwave-xphb]] spell, Sear Undead forces the skeletons to make a saving throw.
+> Gareth's Sear Undead is a class feature (see "chapter 3"). As with Mirabella's [[Thunderwave]] spell, Sear Undead forces the skeletons to make a saving throw.
 ^17-saving-throws
 
 ![](Compendium/books/players-handbook-2024/img/011-01-012-combat-example.webp#center)

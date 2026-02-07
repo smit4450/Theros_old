@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Speak with Animals](Compendium/spells/speak-with-animals-xphb.md "XPHB")
+- [Speak with Animals](Speak%20with%20Animals.md "XPHB")

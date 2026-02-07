@@ -82,7 +82,7 @@ You can read any language.
 
 #### See Invisibility
 
-You can cast [[see-invisibility-xphb]] without expending a spell slot.
+You can cast [[See Invisibility]] without expending a spell slot.
 
 ### Greater Portent (Level 14)
 

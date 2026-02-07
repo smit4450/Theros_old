@@ -21,7 +21,7 @@ aliases:
 ![](Compendium/items/img/moon-touched-sword.webp#right)
 
 
-In [[darkness-xphb]], the unsheathed blade of this weapon sheds moonlight, creating [[Bright Light]] in a 15-foot radius and [[Dim Light]] for an additional 15 feet.
+In [[Compendium/spells/Darkness]], the unsheathed blade of this weapon sheds moonlight, creating [[Bright Light]] in a 15-foot radius and [[Dim Light]] for an additional 15 feet.
 
 **Variants**:
 -  [[#Moon-Touched Double-Bladed Scimitar]]

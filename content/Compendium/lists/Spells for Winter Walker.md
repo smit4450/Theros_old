@@ -11,19 +11,19 @@ aliases:
 
 ## 1st Level
 
-- [Ice Knife](Compendium/spells/ice-knife-xphb.md "XPHB") at class level 17
+- [Ice Knife](Ice%20Knife.md "XPHB") at class level 17
 
 ## 2nd Level
 
-- [Hold Person](Compendium/spells/hold-person-xphb.md "XPHB") at class level 17
+- [Hold Person](Hold%20Person.md "XPHB") at class level 17
 
 ## 3rd Level
 
-- [Remove Curse](Compendium/spells/remove-curse-xphb.md "XPHB") at class level 17
+- [Remove Curse](Remove%20Curse.md "XPHB") at class level 17
 
 ## 4th Level
 
-- [Ice Storm](Compendium/spells/ice-storm-xphb.md "XPHB") at class level 17
+- [Ice Storm](Ice%20Storm.md "XPHB") at class level 17
 
 ## 5th Level
 

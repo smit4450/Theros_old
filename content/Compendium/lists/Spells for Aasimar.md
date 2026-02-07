@@ -11,4 +11,4 @@ aliases:
 
 ## Cantrip
 
-- [Light](Compendium/spells/light-xphb.md "XPHB") as cantrip
+- [Light](Light.md "XPHB") as cantrip

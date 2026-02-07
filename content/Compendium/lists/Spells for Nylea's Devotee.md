@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Hunter's Mark](Compendium/spells/hunters-mark-xphb.md "XPHB")
+- [Hunter's Mark](Hunter's%20Mark.md "XPHB")

@@ -17,12 +17,12 @@ aliases:
 ## 2nd Level
 
 - [Alter Self](Alter%20Self.md "XPHB") at class level 3
-- [Dragon's Breath](Compendium/spells/dragons-breath-xphb.md "XPHB") at class level 3
+- [Dragon's Breath](Dragon's%20Breath.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Fear](Compendium/spells/fear-xphb.md "XPHB") at class level 3
-- [Fly](Compendium/spells/fly-xphb.md "XPHB") at class level 3
+- [Fear](Fear.md "XPHB") at class level 3
+- [Fly](Fly.md "XPHB") at class level 3
 
 ## 4th Level
 
@@ -31,5 +31,5 @@ aliases:
 
 ## 5th Level
 
-- [Legend Lore](Compendium/spells/legend-lore-xphb.md "XPHB") at class level 3
-- [Summon Dragon](Compendium/spells/summon-dragon-xphb.md "XPHB") at class level 3
+- [Legend Lore](Legend%20Lore.md "XPHB") at class level 3
+- [Summon Dragon](Summon%20Dragon.md "XPHB") at class level 3

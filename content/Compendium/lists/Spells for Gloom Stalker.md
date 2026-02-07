@@ -11,20 +11,20 @@ aliases:
 
 ## 1st Level
 
-- [Disguise Self](Compendium/spells/disguise-self-xphb.md "XPHB") at class level 3
+- [Disguise Self](Disguise%20Self.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Rope Trick](Compendium/spells/rope-trick-xphb.md "XPHB") at class level 3
+- [Rope Trick](Rope%20Trick.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Fear](Compendium/spells/fear-xphb.md "XPHB") at class level 3
+- [Fear](Fear.md "XPHB") at class level 3
 
 ## 4th Level
 
-- [Greater Invisibility](Compendium/spells/greater-invisibility-xphb.md "XPHB") at class level 3
+- [Greater Invisibility](Greater%20Invisibility.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Seeming](Compendium/spells/seeming-xphb.md "XPHB") at class level 3
+- [Seeming](Seeming.md "XPHB") at class level 3

@@ -82,7 +82,7 @@ Your [[Speed]] isn't reduced to 0 by using Steady Aim.
 
 ### Envenom Weapons (Level 13)
 
-When you use the Poison option of your Cunning Strike, the target also takes `2d6` Poison damage whenever it fails the saving throw. This damage ignores [[resistance-xphb]] to Poison damage.
+When you use the Poison option of your Cunning Strike, the target also takes `2d6` Poison damage whenever it fails the saving throw. This damage ignores [[Compendium/spells/Resistance]] to Poison damage.
 
 ### Death Strike (Level 17)
 

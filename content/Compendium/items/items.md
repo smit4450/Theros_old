@@ -810,7 +810,7 @@ cssclasses:
 -  [[Shield of Expression]]
 -  [[Shield of Missile Attraction]]
 -  [[Shield of the Cavalier]]
--  [[Shield]]
+-  [[Compendium/items/Shield]]
 -  [[Shortbow]]
 -  [[Shortsword]]
 -  [[shotgun-xdmg]]

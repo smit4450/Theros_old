@@ -11,25 +11,25 @@ aliases:
 
 ## 1st Level
 
-- [Ensnaring Strike](Compendium/spells/ensnaring-strike-xphb.md "XPHB") at class level 17
-- [Speak with Animals](Compendium/spells/speak-with-animals-xphb.md "XPHB") at class level 17
+- [Ensnaring Strike](Ensnaring%20Strike.md "XPHB") at class level 17
+- [Speak with Animals](Speak%20with%20Animals.md "XPHB") at class level 17
 
 ## 2nd Level
 
-- [Misty Step](Compendium/spells/misty-step-xphb.md "XPHB") at class level 17
-- [Moonbeam](Compendium/spells/moonbeam-xphb.md "XPHB") at class level 17
+- [Misty Step](Misty%20Step.md "XPHB") at class level 17
+- [Moonbeam](Moonbeam.md "XPHB") at class level 17
 
 ## 3rd Level
 
-- [Plant Growth](Compendium/spells/plant-growth-xphb.md "XPHB") at class level 17
-- [Protection from Energy](Compendium/spells/protection-from-energy-xphb.md "XPHB") at class level 17
+- [Plant Growth](Plant%20Growth.md "XPHB") at class level 17
+- [Protection from Energy](Protection%20from%20Energy.md "XPHB") at class level 17
 
 ## 4th Level
 
-- [Ice Storm](Compendium/spells/ice-storm-xphb.md "XPHB") at class level 17
-- [Stoneskin](Compendium/spells/stoneskin-xphb.md "XPHB") at class level 17
+- [Ice Storm](Ice%20Storm.md "XPHB") at class level 17
+- [Stoneskin](Stoneskin.md "XPHB") at class level 17
 
 ## 5th Level
 
 - [Commune with Nature](Commune%20with%20Nature.md "XPHB") at class level 17
-- [Tree Stride](Compendium/spells/tree-stride-xphb.md "XPHB") at class level 17
+- [Tree Stride](Tree%20Stride.md "XPHB") at class level 17

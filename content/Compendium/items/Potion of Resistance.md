@@ -14,7 +14,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you have [[resistance-xphb]] to one type of damage for 1 hour. The DM chooses the type or determines it randomly by rolling on the following table.
+When you drink this potion, you have [[Compendium/spells/Resistance]] to one type of damage for 1 hour. The DM chooses the type or determines it randomly by rolling on the following table.
 
 | dice: d10 | Damage Type |
 |-----------|-------------|

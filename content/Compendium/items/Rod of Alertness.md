@@ -21,10 +21,10 @@ This rod has the following properties.
 
 While holding the rod, you have [[Advantage]] on Wisdom ([Perception](Skills.md#Perception)) checks and on [[Initiative]] rolls. Spells. While holding the rod, you can cast the following spells from it:
 
-- [[detect-evil-and-good-xphb]]  
-- [[detect-magic-xphb]]  
-- [[detect-poison-and-disease-xphb]]  
-- [[see-invisibility-xphb]]  
+- [[Detect Evil and Good]]  
+- [[Detect Magic]]  
+- [[Detect Poison and Disease]]  
+- [[See Invisibility]]  
 
 ## Protective Aura
 

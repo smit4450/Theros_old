@@ -13,6 +13,6 @@ aliases:
 ![](Compendium/items/img/ring-of-water-walking.webp#right)
 
 
-While wearing this ring, you cast [[water-walk-xphb]] from it, targeting only yourself.
+While wearing this ring, you cast [[Water Walk]] from it, targeting only yourself.
 
 *Source: Dungeon Master's Guide (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

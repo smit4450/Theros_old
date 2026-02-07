@@ -11,15 +11,15 @@ aliases:
 
 ## Cantrip
 
-- [Starry Wisp](Compendium/spells/starry-wisp-xphb.md "XPHB") at class level 5
+- [Starry Wisp](Starry%20Wisp.md "XPHB") at class level 5
 
 ## 1st Level
 
-- [Cure Wounds](Compendium/spells/cure-wounds-xphb.md "XPHB") at class level 5
+- [Cure Wounds](Cure%20Wounds.md "XPHB") at class level 5
 
 ## 2nd Level
 
-- [Moonbeam](Compendium/spells/moonbeam-xphb.md "XPHB") at class level 5
+- [Moonbeam](Moonbeam.md "XPHB") at class level 5
 
 ## 3rd Level
 
@@ -27,8 +27,8 @@ aliases:
 
 ## 4th Level
 
-- [Fount of Moonlight](Compendium/spells/fount-of-moonlight-xphb.md "XPHB") at class level 5
+- [Fount of Moonlight](Fount%20of%20Moonlight.md "XPHB") at class level 5
 
 ## 5th Level
 
-- [Mass Cure Wounds](Compendium/spells/mass-cure-wounds-xphb.md "XPHB") at class level 5
+- [Mass Cure Wounds](Mass%20Cure%20Wounds.md "XPHB") at class level 5

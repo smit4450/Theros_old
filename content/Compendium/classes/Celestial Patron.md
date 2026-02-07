@@ -60,10 +60,10 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |---------------|--------|
-| 3 | [[Aid]], [[cure-wounds-xphb]], [[guiding-bolt-xphb]], [[lesser-restoration-xphb]], [[light-xphb]], [[sacred-flame-xphb]] |
-| 5 | [[daylight-xphb]], [[revivify-xphb]] |
-| 7 | [[guardian-of-faith-xphb]], [[wall-of-fire-xphb]] |
-| 9 | [[greater-restoration-xphb]], [[summon-celestial-xphb]] |
+| 3 | [[Aid]], [[Cure Wounds]], [[Guiding Bolt]], [[Lesser Restoration]], [[Light]], [[Sacred Flame]] |
+| 5 | [[Daylight]], [[Revivify]] |
+| 7 | [[Guardian of Faith]], [[Wall of Fire]] |
+| 9 | [[Greater Restoration]], [[Summon Celestial]] |
 ^celestial-spells
 
 ### Healing Light (Level 3)
@@ -74,7 +74,7 @@ As a [[Bonus Action]], you can heal yourself or one creature you can see within 
 
 ### Radiant Soul (Level 6)
 
-Your link to your patron allows you to serve as a conduit for radiant energy. You have [[resistance-xphb]] to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell's damage against one of the spell's targets.
+Your link to your patron allows you to serve as a conduit for radiant energy. You have [[Compendium/spells/Resistance]] to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell's damage against one of the spell's targets.
 
 ### Celestial Resilience (Level 10)
 

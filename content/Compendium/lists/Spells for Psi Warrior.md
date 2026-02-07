@@ -11,4 +11,4 @@ aliases:
 
 ## 5th Level
 
-- [Telekinesis](Compendium/spells/telekinesis-xphb.md "XPHB") at class level 18
+- [Telekinesis](Telekinesis.md "XPHB") at class level 18

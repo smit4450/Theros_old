@@ -127,7 +127,7 @@ Each special facility in a Bastion generates enough income to pay the salary of 
 
 On a Bastion turn, a character in their Bastion can issue special orders—called Bastion orders—to one or more of their Bastion's special facilities. A character needn't issue orders to all the special facilities in their Bastion on a given Bastion turn.
 
-The Maintain order is unusual; it is issued to the whole Bastion rather than to one or more special facilities. If a character isn't in their Bastion on a given Bastion turn, the Bastion acts as though it were issued the Maintain order on that turn unless the owner can communicate with the Bastion hirelings using the [[sending-xphb]] spell or similar magic.
+The Maintain order is unusual; it is issued to the whole Bastion rather than to one or more special facilities. If a character isn't in their Bastion on a given Bastion turn, the Bastion acts as though it were issued the Maintain order on that turn unless the owner can communicate with the Bastion hirelings using the [[Sending]] spell or similar magic.
 
 The orders are as follows:
 
@@ -182,7 +182,7 @@ Special facilities are presented in alphabetical order. The Special Facilities t
 > ![[Barrack]]
 
 > [!embed-facility]- Demiplane
-> ![[Demiplane]]
+> ![[Compendium/bastions/demiplane]]
 
 > [!embed-facility]- Gaming Hall
 > ![[Gaming Hall]]
@@ -221,7 +221,7 @@ Special facilities are presented in alphabetical order. The Special Facilities t
 > ![[Sacristy]]
 
 > [!embed-facility]- Sanctuary
-> ![[Sanctuary]]
+> ![[Compendium/bastions/sanctuary]]
 
 > [!embed-facility]- Sanctum
 > ![[Sanctum]]
@@ -239,7 +239,7 @@ Special facilities are presented in alphabetical order. The Special Facilities t
 > ![[Storehouse]]
 
 > [!embed-facility]- Teleportation Circle
-> ![[Teleportation Circle]]
+> ![[Compendium/bastions/Teleportation Circle]]
 
 > [!embed-facility]- Theater
 > ![[Theater]]

@@ -11,26 +11,26 @@ aliases:
 
 ## 1st Level
 
-- [Faerie Fire](Compendium/spells/faerie-fire-xphb.md "XPHB") at class level 5
-- [Sleep](Compendium/spells/sleep-xphb.md "XPHB") at class level 5
+- [Faerie Fire](Faerie%20Fire.md "XPHB") at class level 5
+- [Sleep](Sleep.md "XPHB") at class level 5
 
 ## 2nd Level
 
 - [Calm Emotions](Calm%20Emotions.md "XPHB") at class level 5
-- [Misty Step](Compendium/spells/misty-step-xphb.md "XPHB") at class level 5
-- [Phantasmal Force](Compendium/spells/phantasmal-force-xphb.md "XPHB") at class level 5
+- [Misty Step](Misty%20Step.md "XPHB") at class level 5
+- [Phantasmal Force](Phantasmal%20Force.md "XPHB") at class level 5
 
 ## 3rd Level
 
 - [Blink](Blink.md "XPHB") at class level 5
-- [Plant Growth](Compendium/spells/plant-growth-xphb.md "XPHB") at class level 5
+- [Plant Growth](Plant%20Growth.md "XPHB") at class level 5
 
 ## 4th Level
 
-- [Dominate Beast](Compendium/spells/dominate-beast-xphb.md "XPHB") at class level 5
-- [Greater Invisibility](Compendium/spells/greater-invisibility-xphb.md "XPHB") at class level 5
+- [Dominate Beast](Dominate%20Beast.md "XPHB") at class level 5
+- [Greater Invisibility](Greater%20Invisibility.md "XPHB") at class level 5
 
 ## 5th Level
 
-- [Dominate Person](Compendium/spells/dominate-person-xphb.md "XPHB") at class level 5
-- [Seeming](Compendium/spells/seeming-xphb.md "XPHB") at class level 5
+- [Dominate Person](Dominate%20Person.md "XPHB") at class level 5
+- [Seeming](Seeming.md "XPHB") at class level 5

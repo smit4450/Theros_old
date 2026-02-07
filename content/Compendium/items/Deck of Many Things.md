@@ -58,7 +58,7 @@ The next time you enter combat against one or more [[Hostile (Attitude)]] creatu
 
 ## Donjon
 
-You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a [[wish-xphb]] spell can reveal the location of your prison. You draw no more cards.
+You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a [[Wish]] spell can reveal the location of your prison. You draw no more cards.
 
 ## Euryale
 
@@ -101,7 +101,7 @@ You gain the service of a [[knight-xmm]], who magically appears in an unoccupied
 
 ## Moon
 
-You gain the ability to cast [[wish-xphb]] `1d3` times.
+You gain the ability to cast [[Wish]] `1d3` times.
 
 ## Puzzle
 
@@ -109,7 +109,7 @@ Permanently reduce your Intelligence or Wisdom by `1d4 + 1` (to a minimum score 
 
 ## Rogue
 
-An NPC of the DM's choice becomes [[Hostile (Attitude)]] toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [[wish-xphb]] spell or divine intervention can end the NPC's hostility toward you.
+An NPC of the DM's choice becomes [[Hostile (Attitude)]] toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [[Wish]] spell or divine intervention can end the NPC's hostility toward you.
 
 ## Ruin
 
@@ -141,6 +141,6 @@ You gain proficiency and [[Expertise]] in your choice of [History](Skills.md#His
 
 ## Void
 
-Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is inert, ceases aging, and requires no food, air, or water. A [[wish-xphb]] spell can't return your soul to your body, but the spell reveals the location of the object that holds your soul. You draw no more cards.
+Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is inert, ceases aging, and requires no food, air, or water. A [[Wish]] spell can't return your soul to your body, but the spell reveals the location of the object that holds your soul. You draw no more cards.
 
 *Source: Dungeon Master's Guide (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Mysterious Deck") and the Free Rules (2024)*

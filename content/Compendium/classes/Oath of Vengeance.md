@@ -66,11 +66,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [[Bane]], [[hunters-mark-xphb]] |
-| 5th | [[hold-person-xphb]], [[misty-step-xphb]] |
-| 9th | [[haste-xphb]], [[protection-from-energy-xphb]] |
-| 13th | [[Banishment]], [[dimension-door-xphb]] |
-| 17th | [[hold-monster-xphb]], [[scrying-xphb]] |
+| 3rd | [[Bane]], [[Hunter's Mark]] |
+| 5th | [[Hold Person]], [[Misty Step]] |
+| 9th | [[Haste]], [[Protection from Energy]] |
+| 13th | [[Banishment]], [[Dimension Door]] |
+| 17th | [[Hold Monster]], [[Scrying]] |
 ^oath-of-vengeance-spells
 
 ### Vow of Enmity (Level 3)

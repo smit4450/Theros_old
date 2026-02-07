@@ -63,10 +63,10 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [[Charm Person]], [[disguise-self-xphb]], [[invisibility-xphb]], [[pass-without-trace-xphb]] |
-| 5th | [[hypnotic-pattern-xphb]], [[nondetection-xphb]] |
-| 7th | [[Confusion]], [[dimension-door-xphb]] |
-| 9th | [[dominate-person-xphb]], [[modify-memory-xphb]] |
+| 3rd | [[Charm Person]], [[Disguise Self]], [[Invisibility]], [[Pass without Trace]] |
+| 5th | [[Hypnotic Pattern]], [[Nondetection]] |
+| 7th | [[Confusion]], [[Dimension Door]] |
+| 9th | [[Dominate Person]], [[Modify Memory]] |
 ^trickery-domain-spells
 
 ### Blessing of the Trickster (Level 3)

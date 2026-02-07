@@ -405,7 +405,7 @@ In tier 1, characters are apprentice adventurers, though they are already set ap
 
 #### Tier 2 (Levels 5–10)
 
-In tier 2, characters are full-fledged adventurers. Spellcasters gain iconic spells such as [[fireball-xphb]], [[lightning-bolt-xphb]], and [[raise-dead-xphb]]. Most weapon-focused classes gain the ability to make multiple attacks in a round. The characters now face dangers that threaten cities and kingdoms.
+In tier 2, characters are full-fledged adventurers. Spellcasters gain iconic spells such as [[Fireball]], [[Lightning Bolt]], and [[Raise Dead]]. Most weapon-focused classes gain the ability to make multiple attacks in a round. The characters now face dangers that threaten cities and kingdoms.
 
 #### Tier 3 (Levels 11–16)
 

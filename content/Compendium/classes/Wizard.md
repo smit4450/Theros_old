@@ -75,15 +75,15 @@ As a student of arcane magic, you have learned to cast spells. See "chapter 7" f
 
 #### Cantrips
 
-You know three Wizard cantrips of your choice. [[light-xphb]], [[mage-hand-xphb]], and [[ray-of-frost-xphb]] are recommended. Whenever you finish a [[Long Rest]], you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
+You know three Wizard cantrips of your choice. [[Light]], [[Mage Hand]], and [[Ray of Frost]] are recommended. Whenever you finish a [[Long Rest]], you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
 
 When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the Wizard Features table.
 
 #### Spellbook
 
-Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting [[identify-xphb]]. You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
+Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting [[Identify]]. You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
 
-The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. [[detect-magic-xphb]], [[feather-fall-xphb]], [[mage-armor-xphb]], [[magic-missile-xphb]], [[sleep-xphb]], and [[thunderwave-xphb]] are recommended.
+The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. [[Detect Magic]], [[Feather Fall]], [[Mage Armor]], [[Magic Missile]], [[Sleep]], and [[Thunderwave]] are recommended.
 
 Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown in the Wizard Features table. The spells are the culmination of arcane research you do regularly.
 

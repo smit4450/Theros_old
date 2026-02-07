@@ -76,18 +76,18 @@ When you reach a Ranger level specified in the Gloom Stalker Spells table, you t
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [[disguise-self-xphb]] |
-| 5th | [[rope-trick-xphb]] |
-| 9th | [[fear-xphb]] |
-| 13th | [[greater-invisibility-xphb]] |
-| 17th | [[seeming-xphb]] |
+| 3rd | [[Disguise Self]] |
+| 5th | [[Rope Trick]] |
+| 9th | [[Fear]] |
+| 13th | [[Greater Invisibility]] |
+| 17th | [[Seeming]] |
 ^gloom-stalker-spells
 
 ### Umbral Sight (Level 3)
 
 You gain [Darkvision](Senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](Senses.md#Darkvision) when you gain this feature, its range increases by 60 feet.
 
-You are also adept at evading creatures that rely on [Darkvision](Senses.md#Darkvision). While entirely in [[darkness-xphb]], you have the [Invisible](Conditions.md#Invisible) condition to any creature that relies on [Darkvision](Senses.md#Darkvision) to see you in that [[darkness-xphb]].
+You are also adept at evading creatures that rely on [Darkvision](Senses.md#Darkvision). While entirely in [[Compendium/spells/Darkness]], you have the [Invisible](Conditions.md#Invisible) condition to any creature that relies on [Darkvision](Senses.md#Darkvision) to see you in that [[Compendium/spells/Darkness]].
 
 ### Iron Mind (Level 7)
 

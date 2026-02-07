@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Vampiric Touch](Compendium/spells/vampiric-touch-xphb.md "XPHB")
+- [Vampiric Touch](Vampiric%20Touch.md "XPHB")

@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Speak with Dead](Compendium/spells/speak-with-dead-xphb.md "XPHB")
+- [Speak with Dead](Speak%20with%20Dead.md "XPHB")

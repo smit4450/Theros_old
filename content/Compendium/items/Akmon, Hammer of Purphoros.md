@@ -44,7 +44,7 @@ While holding the hammer, you have resistance to fire damage and are immune to [
 
 ## Spells
 
-While the hammer is on your person, you can use an action to cast one of the following spells (save DC 18): [[Animate Objects]], [[heat-metal-xphb]], [[fabricate-xphb]], [[magic-weapon-xphb]], [[mending-xphb]], [[shatter-xphb]]. Once you use the hammer to cast a spell, the spell can't be cast again from it until the next dusk.
+While the hammer is on your person, you can use an action to cast one of the following spells (save DC 18): [[Animate Objects]], [[Heat Metal]], [[Fabricate]], [[Magic Weapon]], [[Mending]], [[Shatter]]. Once you use the hammer to cast a spell, the spell can't be cast again from it until the next dusk.
 
 ## Destroying the Hammer
 

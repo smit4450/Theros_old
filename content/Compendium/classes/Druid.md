@@ -54,13 +54,13 @@ aliases:
 - **Skill Proficiencies**: *Choose 2:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Arcana](Skills.md#Arcana), [Insight](Skills.md#Insight), [Medicine](Skills.md#Medicine), [Nature](Skills.md#Nature), [Perception](Skills.md#Perception), [Religion](Skills.md#Religion), or [Survival](Skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons
 - **Tool Proficiencies**: [[Herbalism Kit]]
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor) and [[Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor) and [[Compendium/items/Shield]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[Leather Armor]], [[Shield]], [[Sickle]], [[Druidic Focus]], [[Explorer's Pack]], [[Herbalism Kit]], 9 GP; or (B) 50 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Leather Armor]], [[Compendium/items/Shield]], [[Sickle]], [[Druidic Focus]], [[Explorer's Pack]], [[Herbalism Kit]], 9 GP; or (B) 50 GP
 
 ## Multiclassing Druid
 
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [[Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [[Compendium/items/Shield]]
 
 ## Druid
 
@@ -74,7 +74,7 @@ Druids are concerned with the delicate ecological balance that sustains plant an
 
 ### Druidic (Level 1)
 
-You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [[speak-with-animals-xphb]] spell prepared.
+You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [[Speak with Animals]] spell prepared.
 
 You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence ([Investigation](Skills.md#Investigation)) check but can't decipher it without magic.
 
@@ -96,7 +96,7 @@ You have learned to cast spells through studying the mystical forces of nature. 
 
 #### Cantrips
 
-You know two cantrips of your choice from the Druid spell list. [[druidcraft-xphb]] and [[produce-flame-xphb]] are recommended.
+You know two cantrips of your choice from the Druid spell list. [[Druidcraft]] and [[Produce Flame]] are recommended.
 
 Whenever you gain a Druid level, you can replace one of your cantrips with another cantrip of your choice from the Druid spell list.
 
@@ -108,7 +108,7 @@ The Druid Features table shows how many spell slots you have to cast your level 
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. [[Animal Friendship]], [[cure-wounds-xphb]], [[faerie-fire-xphb]], and [[thunderwave-xphb]] are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. [[Animal Friendship]], [[Cure Wounds]], [[Faerie Fire]], and [[Thunderwave]] are recommended.
 
 The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -128,7 +128,7 @@ You can use a [[Druidic Focus]] as a [[Spellcasting Focus]] for your Druid spell
 
 ### Wild Companion (Level 2)
 
-You can summon a nature spirit that assumes an animal form to aid you. As a [Magic](Actions.md#Magic) action, you can expend a spell slot or a use of Wild Shape to cast the [[find-familiar-xphb]] spell without Material components.
+You can summon a nature spirit that assumes an animal form to aid you. As a [Magic](Actions.md#Magic) action, you can expend a spell slot or a use of Wild Shape to cast the [[Find Familiar]] spell without Material components.
 
 When you cast the spell in this way, the familiar is Fey and disappears when you finish a [[Long Rest]].
 

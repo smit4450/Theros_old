@@ -60,7 +60,7 @@ Paladins who swear this oath often undertake quests that take them all over the 
 
 ### Elemental Smite (Level 3)
 
-Immediately after you cast [[divine-smite-xphb]], you can expend one use of your [Channel Divinity](Compendium/classes/paladin-xphb.md#Channel Divinity (Level 3)) and invoke one of the following effects.
+Immediately after you cast [[Divine Smite]], you can expend one use of your [Channel Divinity](Compendium/classes/paladin-xphb.md#Channel Divinity (Level 3)) and invoke one of the following effects.
 
 ### Earth Crush (Level 3)
 
@@ -68,7 +68,7 @@ Earth rises up around the target of your Divine Smite. The target has the Grappl
 
 ### Air Escape (Level 3)
 
-You [[Teleportation]] to an unoccupied space you can see within 30 feet of yourself and take on a semi-incorporeal form, which lasts until the end of your next turn. While in this form, you have [[resistance-xphb]] to Bludgeoning, Piercing, and Slashing damage, and you have [[Immunity]] to the [Grappled](Conditions.md#Grappled), [Prone](Conditions.md#Prone), and [Restrained](Conditions.md#Restrained) conditions.
+You [[Teleportation]] to an unoccupied space you can see within 30 feet of yourself and take on a semi-incorporeal form, which lasts until the end of your next turn. While in this form, you have [[Compendium/spells/Resistance]] to Bludgeoning, Piercing, and Slashing damage, and you have [[Immunity]] to the [Grappled](Conditions.md#Grappled), [Prone](Conditions.md#Prone), and [Restrained](Conditions.md#Restrained) conditions.
 
 ### Fire's Fury (Level 3)
 
@@ -84,10 +84,10 @@ When you reach a Paladin level specified in the Elemental Spells table, you ther
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3 | [[Chromatic Orb]], [[elementalism-xphb]], [[thunderous-smite-xphb]] |
-| 5 | [[mirror-image-xphb]], [[phantasmal-force-xphb]] |
-| 9 | [[fly-xphb]], [[gaseous-form-xphb]] |
-| 13 | [[Conjure Minor Elementals]], [[summon-elemental-xphb]] |
+| 3 | [[Chromatic Orb]], [[Elementalism]], [[Thunderous Smite]] |
+| 5 | [[Mirror Image]], [[Phantasmal Force]] |
+| 9 | [[Fly]], [[Gaseous Form]] |
+| 13 | [[Conjure Minor Elementals]], [[Summon Elemental]] |
 | 17 | [[Banishing Smite]], [[Contact Other Plane]] |
 ^paladin-level-spells
 
@@ -99,7 +99,7 @@ You also gain proficiency in one of the following skills of your choice: [Acroba
 
 ### Aura of Elemental Shielding (Level 7)
 
-Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. You and your allies have [[resistance-xphb]] to that damage type while in your Aura of Protection.
+Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. You and your allies have [[Compendium/spells/Resistance]] to that damage type while in your Aura of Protection.
 
 At the start of each of your turns, you can change the damage type affected by this feature to one of the other listed options (no action required).
 

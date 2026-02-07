@@ -9,7 +9,7 @@ aliases:
 - "Shield"
 ---
 # Shield
-*Armor ([[Shield]])*  
+*Armor ([[Compendium/items/Shield]])*  
 ![](Compendium/items/img/shield.webp#right)
 
 - **Armor Class**: 2

@@ -9,7 +9,7 @@ aliases:
 - "Shield of Expression"
 ---
 # Shield of Expression
-*Armor ([[Shield]]), common*  
+*Armor ([[Compendium/items/Shield]]), common*  
 
 
 - **Armor Class**: 2

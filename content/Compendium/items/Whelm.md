@@ -35,7 +35,7 @@ You can take a [Magic](Actions.md#Magic) action to strike the ground with Whelm 
 
 ## Supernatural Awareness
 
-While you are holding the weapon, it alerts you to the location of any secret or concealed doors within 30 feet of you. In addition, you can cast [[detect-evil-and-good-xphb]] or [[locate-object-xphb]] from the weapon. Once you cast either spell, you can't cast it from the weapon again until the next dawn.
+While you are holding the weapon, it alerts you to the location of any secret or concealed doors within 30 feet of you. In addition, you can cast [[Detect Evil and Good]] or [[Locate Object]] from the weapon. Once you cast either spell, you can't cast it from the weapon again until the next dawn.
 
 ## Sentience
 

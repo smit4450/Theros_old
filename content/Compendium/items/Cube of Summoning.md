@@ -22,12 +22,12 @@ Once the cube summons a creature, the cube can't do so again until the next dawn
 
 | dice: 1d6 | Spell |
 |-----------|-------|
-| 1 | [[summon-aberration-xphb]] |
-| 2 | [[summon-beast-xphb]] |
-| 3 | [[summon-construct-xphb]] |
-| 4 | [[summon-dragon-xphb]] |
-| 5 | [[summon-elemental-xphb]] |
-| 6 | [[summon-fey-xphb]] |
+| 1 | [[Summon Aberration]] |
+| 2 | [[Summon Beast]] |
+| 3 | [[Summon Construct]] |
+| 4 | [[Summon Dragon]] |
+| 5 | [[Summon Elemental]] |
+| 6 | [[Summon Fey]] |
 ^cube-of-summoning
 
 *Source: Dungeon Master's Guide (2024) p. 247*

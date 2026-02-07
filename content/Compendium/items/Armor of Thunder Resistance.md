@@ -29,7 +29,7 @@ aliases:
 
 
 
-You have [[resistance-xphb]] to thunder damage while you wear this armor.
+You have [[Compendium/spells/Resistance]] to thunder damage while you wear this armor.
 
 **Variants**:
 -  [[#Breastplate of Thunder Resistance]]

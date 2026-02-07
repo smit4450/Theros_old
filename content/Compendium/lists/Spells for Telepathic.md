@@ -11,4 +11,4 @@ aliases:
 
 ## 2nd Level
 
-- [Detect Thoughts](Compendium/spells/detect-thoughts-xphb.md "XPHB")
+- [Detect Thoughts](Detect%20Thoughts.md "XPHB")

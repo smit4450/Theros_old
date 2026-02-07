@@ -27,11 +27,11 @@ As long as the helm has at least one fire opal, you can take a [Magic](Actions.m
 
 ## Ruby Resistance
 
-As long as the helm has at least one ruby, you have [[resistance-xphb]] to Fire damage.
+As long as the helm has at least one ruby, you have [[Compendium/spells/Resistance]] to Fire damage.
 
 ## Spells
 
-You can cast one of the following spells (save DC 18), using one of the helm's gems of the specified type as a component: [[daylight-xphb]] (opal), [[fireball-xphb]] (fire opal), [[prismatic-spray-xphb]] (diamond), or [[wall-of-fire-xphb]] (ruby). The gem is destroyed when the spell is cast and disappears from the helm.
+You can cast one of the following spells (save DC 18), using one of the helm's gems of the specified type as a component: [[Daylight]] (opal), [[Fireball]] (fire opal), [[Prismatic Spray]] (diamond), or [[Wall of Fire]] (ruby). The gem is destroyed when the spell is cast and disappears from the helm.
 
 ## Taking Fire Damage
 

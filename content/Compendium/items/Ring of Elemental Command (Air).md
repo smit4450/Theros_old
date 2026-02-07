@@ -23,10 +23,10 @@ The Ring of Elemental Command (air) is linked to the Elemental Plane of Air. Eve
 
 While wearing the ring, you benefit from additional properties corresponding to the ring's linked Elemental Plane:
 
-- **Air.** You know Auran, you have [[resistance-xphb]] to Lightning damage, and you have a [[Fly Speed]] equal to your [[Speed]] and can hover.  
+- **Air.** You know Auran, you have [[Compendium/spells/Resistance]] to Lightning damage, and you have a [[Fly Speed]] equal to your [[Speed]] and can hover.  
 
 ## Spellcasting
 
-The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [[Chain Lightning]] (3 charges), [[feather-fall-xphb]] (0 charges), [[gust-of-wind-xphb]] (2 charges), [[wind-wall-xphb]] (1 charge)
+The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [[Chain Lightning]] (3 charges), [[Feather Fall]] (0 charges), [[Gust of Wind]] (2 charges), [[Wind Wall]] (1 charge)
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

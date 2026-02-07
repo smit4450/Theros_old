@@ -16,20 +16,20 @@ aliases:
 
 ## 2nd Level
 
-- [Scorching Ray](Compendium/spells/scorching-ray-xphb.md "XPHB") at class level 3
-- [Suggestion](Compendium/spells/suggestion-xphb.md "XPHB") at class level 3
+- [Scorching Ray](Scorching%20Ray.md "XPHB") at class level 3
+- [Suggestion](Suggestion.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Fireball](Compendium/spells/fireball-xphb.md "XPHB") at class level 3
-- [Stinking Cloud](Compendium/spells/stinking-cloud-xphb.md "XPHB") at class level 3
+- [Fireball](Fireball.md "XPHB") at class level 3
+- [Stinking Cloud](Stinking%20Cloud.md "XPHB") at class level 3
 
 ## 4th Level
 
-- [Fire Shield](Compendium/spells/fire-shield-xphb.md "XPHB") at class level 3
-- [Wall of Fire](Compendium/spells/wall-of-fire-xphb.md "XPHB") at class level 3
+- [Fire Shield](Fire%20Shield.md "XPHB") at class level 3
+- [Wall of Fire](Wall%20of%20Fire.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Geas](Compendium/spells/geas-xphb.md "XPHB") at class level 3
-- [Insect Plague](Compendium/spells/insect-plague-xphb.md "XPHB") at class level 3
+- [Geas](Geas.md "XPHB") at class level 3
+- [Insect Plague](Insect%20Plague.md "XPHB") at class level 3

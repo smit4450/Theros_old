@@ -11,8 +11,8 @@ aliases:
 
 ## Cantrip
 
-- [Minor Illusion](Compendium/spells/minor-illusion-xphb.md "XPHB") at class level 3
+- [Minor Illusion](Minor%20Illusion.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Darkness](Compendium/spells/darkness-xphb.md "XPHB") at class level 3
+- [Darkness](Compendium/spells/Darkness.md "XPHB") at class level 3

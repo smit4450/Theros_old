@@ -11,4 +11,4 @@ aliases:
 
 ## Cantrip
 
-- [Elementalism](Compendium/spells/elementalism-xphb.md "XPHB") as cantrip, at class level 3
+- [Elementalism](Elementalism.md "XPHB") as cantrip, at class level 3

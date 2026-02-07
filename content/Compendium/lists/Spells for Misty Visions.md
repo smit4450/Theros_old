@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Silent Image](Compendium/spells/silent-image-xphb.md "XPHB")
+- [Silent Image](Silent%20Image.md "XPHB")

@@ -93,7 +93,7 @@ Through occult ceremony, you have formed a pact with a mysterious entity to gain
 
 #### Cantrips
 
-You know two Warlock cantrips of your choice. [[eldritch-blast-xphb]] and [[prestidigitation-xphb]] are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
+You know two Warlock cantrips of your choice. [[Eldritch Blast]] and [[Prestidigitation]] are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
 
 When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock Features table.
 
@@ -101,11 +101,11 @@ When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of you
 
 The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a [[Short Rest]] or [[Long Rest]].
 
-For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [[witch-bolt-xphb]], you must spend one of those slots, and you cast it as a level 3 spell.
+For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [[Witch Bolt]], you must spend one of those slots, and you cast it as a level 3 spell.
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. [[Charm Person]] and [[hex-xphb]] are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. [[Charm Person]] and [[Hex]] are recommended.
 
 The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1–3.
 

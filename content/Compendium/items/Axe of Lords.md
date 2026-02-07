@@ -42,7 +42,7 @@ While attuned to the axe, you gain the following benefits:
 - **Darkvision.** You gain [Darkvision](Senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](Senses.md#Darkvision), its range increases by 60 feet.  
 - **Fortitude of Stone.** Your Constitution increases by 2, to a maximum of 20.  
 - **Gifts of the Creator.** You have proficiency with [[brewers-supplies-xphb]], [[masons-tools-xphb]], and [[Smith's Tools]].  
-- **One with the Forge.** You have [[Immunity]] to Poison damage and [[resistance-xphb]] to Fire damage.  
+- **One with the Forge.** You have [[Immunity]] to Poison damage and [[Compendium/spells/Resistance]] to Fire damage.  
 - **Sunder.** When you hit an object with the axe, the object takes the maximum amount of damage possible.  
 
 ## Conjure Earth Elemental
@@ -59,7 +59,7 @@ The axe has the following random properties:
 
 ## Travel the Depths
 
-You can take a [Magic](Actions.md#Magic) action to touch the axe to a fixed piece of dwarven stonework and cast [[teleport-xphb]] from the axe. If your intended destination is underground, there is no chance of a mishap or arriving somewhere unexpected. You can't use this property again until 3 days have passed.
+You can take a [Magic](Actions.md#Magic) action to touch the axe to a fixed piece of dwarven stonework and cast [[Teleport]] from the axe. If your intended destination is underground, there is no chance of a mishap or arriving somewhere unexpected. You can't use this property again until 3 days have passed.
 
 ## Destroying the Axe
 

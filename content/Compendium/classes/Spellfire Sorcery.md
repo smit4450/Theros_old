@@ -72,17 +72,17 @@ When you reach a Sorcerer level specified in the Spellfire Spells table, you the
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 3 | [[cure-wounds-xphb]], [[guiding-bolt-xphb]], [[lesser-restoration-xphb]], [[scorching-ray-xphb]] |
-| 5 | [[Aura of Vitality]], [[dispel-magic-xphb]] |
-| 7 | [[fire-shield-xphb]], [[wall-of-fire-xphb]] |
-| 9 | [[greater-restoration-xphb]], [[flame-strike-xphb]] |
+| 3 | [[Cure Wounds]], [[Guiding Bolt]], [[Lesser Restoration]], [[Scorching Ray]] |
+| 5 | [[Aura of Vitality]], [[Dispel Magic]] |
+| 7 | [[Fire Shield]], [[Wall of Fire]] |
+| 9 | [[Greater Restoration]], [[Flame Strike]] |
 ^sorcerer-level-spells
 
 ### Absorb Spells (Level 6)
 
-You always have [[counterspell-xphb]] prepared.
+You always have [[Counterspell]] prepared.
 
-Additionally, whenever a target fails the saving throw against a [[counterspell-xphb]] you cast, you regain `1d4` Sorcery Points.
+Additionally, whenever a target fails the saving throw against a [[Counterspell]] you cast, you regain `1d4` Sorcery Points.
 
 ### Honed Spellfire (Level 14)
 

@@ -15,7 +15,7 @@ aliases:
 
 This Tiny pot bears relief scenes of heroes on its cast-iron sides.
 
-You can use the cauldron as a [[Spellcasting Focus]] for your spells, and it functions as a suitable component for the [[scrying-xphb]] spell.
+You can use the cauldron as a [[Spellcasting Focus]] for your spells, and it functions as a suitable component for the [[Scrying]] spell.
 
 ## Brew Potion
 
@@ -25,6 +25,6 @@ When you finish a [[Long Rest]], you can use the cauldron to create a [[Potion o
 
 As a [Magic](Actions.md#Magic) action, you can cause the cauldron to grow large enough for a Medium creature to crouch within. You can revert the cauldron to its normal size as a [Magic](Actions.md#Magic) action, harmlessly shunting anything that can't fit inside to the nearest unoccupied space.
 
-If you place the corpse of a Humanoid into the cauldron and cover the corpse with 200 pounds of salt (which costs 10 GP) for at least 8 hours, the salt is consumed and the creature returns to life as if by [[raise-dead-xphb]] at the next dawn. Once used, this property can't be used again for 7 days.
+If you place the corpse of a Humanoid into the cauldron and cover the corpse with 200 pounds of salt (which costs 10 GP) for at least 8 hours, the salt is consumed and the creature returns to life as if by [[Raise Dead]] at the next dawn. Once used, this property can't be used again for 7 days.
 
 *Source: Dungeon Master's Guide (2024) p. 243*

@@ -26,13 +26,13 @@ While you hold this weapon, you have [[Immunity]] to the [Charmed](Conditions.md
 
 ## Devour Soul
 
-Whenever you use Blackrazor to reduce a creature to 0 [[Hit Points]], the sword slays the creature and devours its soul unless it is a Construct or an Undead. A creature whose soul has been devoured by Blackrazor can be restored to life only by a [[wish-xphb]] spell.
+Whenever you use Blackrazor to reduce a creature to 0 [[Hit Points]], the sword slays the creature and devours its soul unless it is a Construct or an Undead. A creature whose soul has been devoured by Blackrazor can be restored to life only by a [[Wish]] spell.
 
 When Blackrazor devours a soul that isn't yours, you gain [[Temporary Hit Points]] equal to the slain creature's [[Hit Points]] maximum.
 
 ## Haste
 
-Blackrazor can cast [[haste-xphb]] on you, after which it can't cast this spell again until the next dawn. Blackrazor decides when to cast the spell, which takes effect at the start of your turn. The spell lasts for 1 minute (no [Concentration](Conditions.md#Concentration) required) or until Blackrazor decides to end it, which it can do at the end of any of your turns.
+Blackrazor can cast [[Haste]] on you, after which it can't cast this spell again until the next dawn. Blackrazor decides when to cast the spell, which takes effect at the start of your turn. The spell lasts for 1 minute (no [Concentration](Conditions.md#Concentration) required) or until Blackrazor decides to end it, which it can do at the end of any of your turns.
 
 ## Sentience
 

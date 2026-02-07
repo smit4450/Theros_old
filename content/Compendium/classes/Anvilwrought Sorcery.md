@@ -60,10 +60,10 @@ When you reach a Sorcerer level specified in the Anvilwrought Spells table, you 
 
 | Sorcerer Level | Spells                                                                                                                                                                                                                                       |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3rd            | [[Aid]], [[Alarm]], [[lesser-restoration-xphb]], [[protection-from-evil-and-good-xphb]] |
-| 5th            | [[dispel-magic-xphb]], [[protection-from-energy-xphb]]                                                                                                           |
-| 7th            | [[freedom-of-movement-xphb]], [[summon-construct-xphb]]                                                                                                         |
-| 9th            | [[greater-restoration-xphb]], [[wall-of-force-xphb]]                                                                                                               |
+| 3rd            | [[Aid]], [[Alarm]], [[Lesser Restoration]], [[Protection from Evil and Good]] |
+| 5th            | [[Dispel Magic]], [[Protection from Energy]]                                                                                                           |
+| 7th            | [[Freedom of Movement]], [[Summon Construct]]                                                                                                         |
+| 9th            | [[Greater Restoration]], [[Wall of Force]]                                                                                                               |
 ^anvilwrought-spells
 
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.

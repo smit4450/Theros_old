@@ -18,6 +18,6 @@ Opening the bottle causes thick smoke to billow out, forming a cloud that fills 
 
 Each minute the bottle remains open, the size of the [[Emanation (Area of Effect)]] increases by 10 feet until it reaches its maximum size of 120 feet.
 
-Closing the bottle causes the cloud to become fixed in place until it disperses after 10 minutes. A strong wind (such as that created by the [[gust-of-wind-xphb]] spell) disperses the cloud after 1 minute.
+Closing the bottle causes the cloud to become fixed in place until it disperses after 10 minutes. A strong wind (such as that created by the [[Gust of Wind]] spell) disperses the cloud after 1 minute.
 
 *Source: Dungeon Master's Guide (2024) p. 259. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

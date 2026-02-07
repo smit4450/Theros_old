@@ -18,10 +18,10 @@ The cube has 3 charges and regains `1d3` expended charges daily at dawn. As a [M
 
 ## Gate
 
-Pressing one side of the cube, you cast [[gate-xphb]], opening a portal to the plane of existence keyed to that side.
+Pressing one side of the cube, you cast [[Gate]], opening a portal to the plane of existence keyed to that side.
 
 ## Plane Shift
 
-Pressing one side of the cube twice, you cast [[plane-shift-xphb]], transporting the targets to the plane of existence keyed to that side.
+Pressing one side of the cube twice, you cast [[Plane Shift]], transporting the targets to the plane of existence keyed to that side.
 
 *Source: Dungeon Master's Guide (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

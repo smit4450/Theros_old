@@ -21,7 +21,7 @@ As a [Study](Actions.md#Study) action, a creature can examine the section of flo
 
 ## Escape
 
-A creature needs a Climb Speed, climbing gear, or magic such as [[spider-climb-xphb]] to scale the pit's smooth walls. (You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.)
+A creature needs a Climb Speed, climbing gear, or magic such as [[Spider Climb]] to scale the pit's smooth walls. (You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.)
 
 ## At Higher Levels
 

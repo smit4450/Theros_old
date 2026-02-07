@@ -64,10 +64,10 @@ In addition, you can cast the spells from this feature while you're in a Wild Sh
 
 | Druid Level | Prepared Spells |
 |-------------|-----------------|
-| 3 | [[cure-wounds-xphb]], [[moonbeam-xphb]], [[starry-wisp-xphb]] |
+| 3 | [[Cure Wounds]], [[Moonbeam]], [[Starry Wisp]] |
 | 5 | [[Conjure Animals]] |
-| 7 | [[fount-of-moonlight-xphb]] |
-| 9 | [[mass-cure-wounds-xphb]] |
+| 7 | [[Fount of Moonlight]] |
+| 9 | [[Mass Cure Wounds]] |
 ^circle-of-the-moon-spells
 
 ### Circle Forms (Level 3)

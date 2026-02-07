@@ -29,7 +29,7 @@ aliases:
 
 
 
-You have [[resistance-xphb]] to necrotic damage while you wear this armor.
+You have [[Compendium/spells/Resistance]] to necrotic damage while you wear this armor.
 
 **Variants**:
 -  [[#Breastplate of Necrotic Resistance]]

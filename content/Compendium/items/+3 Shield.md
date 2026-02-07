@@ -9,7 +9,7 @@ aliases:
 - "+3 Shield"
 ---
 # +3 Shield
-*Armor ([[Shield]]), very rare*  
+*Armor ([[Compendium/items/Shield]]), very rare*  
 
 
 - **Armor Class**: 2

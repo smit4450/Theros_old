@@ -23,10 +23,10 @@ The Ring of Elemental Command (earth) is linked to the Elemental Plane of Earth.
 
 While wearing the ring, you benefit from additional properties corresponding to the ring's linked Elemental Plane:
 
-- **Earth.** You know Terran, and you have [[resistance-xphb]] to Acid damage. Terrain composed of rubble, rocks, or dirt isn't [[Difficult Terrain]] for you. In addition, you can move through solid earth or rock as if those areas were [[Difficult Terrain]] without disturbing the matter through which you pass. If you end your turn in solid earth or rock, you are shunted out to the nearest unoccupied space you last occupied.  
+- **Earth.** You know Terran, and you have [[Compendium/spells/Resistance]] to Acid damage. Terrain composed of rubble, rocks, or dirt isn't [[Difficult Terrain]] for you. In addition, you can move through solid earth or rock as if those areas were [[Difficult Terrain]] without disturbing the matter through which you pass. If you end your turn in solid earth or rock, you are shunted out to the nearest unoccupied space you last occupied.  
 
 ## Spellcasting
 
-The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [[earthquake-xphb]] (5 charges), [[stone-shape-xphb]] (2 charges), [[stoneskin-xphb]] (3 charges), [[wall-of-stone-xphb]] (3 charges)
+The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [[Earthquake]] (5 charges), [[Stone Shape]] (2 charges), [[Stoneskin]] (3 charges), [[Wall of Stone]] (3 charges)
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

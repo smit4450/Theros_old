@@ -27,7 +27,7 @@ Any spell you cast from the hat uses your spell save DC and spell attack bonus.
 
 | dice: 1d100 | Effect |
 |-------------|--------|
-| 01-50 | You cast a random spell determined by rolling `1d10`: on a **1**, [[enlarge-reduce-xphb]] (enlarge effect); on a **2**, [[enlarge-reduce-xphb]] (reduce effect); on a **3**, [[faerie-fire-xphb]]; on a **4**, [[fireball-xphb]]; on a **5**, [[gust-of-wind-xphb]]; on a **6**, [[invisibility-xphb]] (cast on yourself); on a **7**, [[lightning-bolt-xphb]]; on an **8**, [[phantasmal-force-xphb]]; on a **9**, [[polymorph-xphb]]; on a **10**, [[stinking-cloud-xphb]]. |
+| 01-50 | You cast a random spell determined by rolling `1d10`: on a **1**, [[Enlarge-Reduce]] (enlarge effect); on a **2**, [[Enlarge-Reduce]] (reduce effect); on a **3**, [[Faerie Fire]]; on a **4**, [[Fireball]]; on a **5**, [[Gust of Wind]]; on a **6**, [[Invisibility]] (cast on yourself); on a **7**, [[Lightning Bolt]]; on an **8**, [[Phantasmal Force]]; on a **9**, [[Polymorph]]; on a **10**, [[Stinking Cloud]]. |
 | 51-55 | You have the [Stunned](Conditions.md#Stunned) condition until the end of your next turn, believing something awesome just happened. |
 | 56-60 | A harmless swarm of butterflies fills a 10-foot [[Cube (Area of Effect)]] within 30 feet of yourself. The swarm disperses after 1 minute. |
 | 61-65 | You pull a nonmagical object out of the hat. Roll `1d4` to determine the object: on a **1**, a vial of Acid; on a **2**, a flask of Alchemist's Fire; on a **3**, a Crowbar; on a **4**, a lit Torch. |

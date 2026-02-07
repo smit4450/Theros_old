@@ -11,4 +11,4 @@ aliases:
 
 ## 2nd Level
 
-- [Levitate](Compendium/spells/levitate-xphb.md "XPHB")
+- [Levitate](Levitate.md "XPHB")

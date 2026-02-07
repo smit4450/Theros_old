@@ -58,9 +58,9 @@ You have learned to cast spells. See "chapter 7" for the rules on spellcasting. 
 
 #### Cantrips
 
-You know three cantrips: [[mage-hand-xphb]] and two other cantrips of your choice from the Wizard spell list (see that class's section for its list). [[mind-sliver-xphb]] and [[minor-illusion-xphb]] are recommended.
+You know three cantrips: [[Mage Hand]] and two other cantrips of your choice from the Wizard spell list (see that class's section for its list). [[Mind Sliver]] and [[Minor Illusion]] are recommended.
 
-Whenever you gain a Rogue level, you can replace one of your cantrips, except [[mage-hand-xphb]], with another Wizard cantrip of your choice.
+Whenever you gain a Rogue level, you can replace one of your cantrips, except [[Mage Hand]], with another Wizard cantrip of your choice.
 
 When you reach Rogue level 10, you learn another Wizard cantrip of your choice.
 
@@ -70,7 +70,7 @@ The Arcane Trickster Spellcasting table shows how many spell slots you have to c
 
 #### Prepared Spells of 1st+ Level
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. [[Charm Person]], [[disguise-self-xphb]], and [[fog-cloud-xphb]] are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. [[Charm Person]], [[Disguise Self]], and [[Fog Cloud]] are recommended.
 
 The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the Arcane Trickster Spellcasting table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the Arcane Trickster Spellcasting table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Rogue, your list of prepared spells can include five Wizard spells of level 1 or 2 in any combination.
 
@@ -88,7 +88,7 @@ You can use an [[Arcane Focus]] as a [[Spellcasting Focus]] for your Wizard spel
 
 ### Mage Hand Legerdemain (Level 3)
 
-When you cast [[mage-hand-xphb]], you can cast it as a [[Bonus Action]], and you can make the spectral hand [Invisible](Conditions.md#Invisible). You can control the hand as a [[Bonus Action]], and through it, you can make Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) checks.
+When you cast [[Mage Hand]], you can cast it as a [[Bonus Action]], and you can make the spectral hand [Invisible](Conditions.md#Invisible). You can control the hand as a [[Bonus Action]], and through it, you can make Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand)) checks.
 
 ### Magical Ambush (Level 9)
 
@@ -96,7 +96,7 @@ If you have the [Invisible](Conditions.md#Invisible) condition when you cast a s
 
 ### Versatile Trickster (Level 13)
 
-You gain the ability to distract targets with your [[mage-hand-xphb]]. When you use the Trip option of your Cunning Strike on a creature, you can also use that option on another creature within 5 feet of the spectral hand.
+You gain the ability to distract targets with your [[Mage Hand]]. When you use the Trip option of your Cunning Strike on a creature, you can also use that option on another creature within 5 feet of the spectral hand.
 
 ### Spell Thief (Level 17)
 

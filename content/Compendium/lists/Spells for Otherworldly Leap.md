@@ -11,4 +11,4 @@ aliases:
 
 ## 1st Level
 
-- [Jump](Compendium/spells/jump-xphb.md "XPHB")
+- [Jump](Jump.md "XPHB")

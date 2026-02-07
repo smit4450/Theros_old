@@ -11,4 +11,4 @@ aliases:
 
 ## 3rd Level
 
-- [Create Food and Water](Compendium/spells/create-food-and-water-xphb.md "XPHB")
+- [Create Food and Water](Create%20Food%20and%20Water.md "XPHB")

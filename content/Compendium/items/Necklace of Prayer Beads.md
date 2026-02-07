@@ -21,11 +21,11 @@ Six types of magic beads exist. The DM decides the type of each bead on the neck
 | dice: 1d20 | Bead | Spell |
 |------------|------|-------|
 | 1-6 | Bead of Blessing | [[Bless]] |
-| 7-12 | Bead of Curing | [[cure-wounds-xphb]] (level 2 version) |
-| 13-16 | Bead of Favor | [[greater-restoration-xphb]] |
-| 17-18 | Bead of Smiting | [[shining-smite-xphb]] |
-| 19 | Bead of Summons | [[guardian-of-faith-xphb]] |
-| 20 | Bead of Wind Walking | [[wind-walk-xphb]] |
+| 7-12 | Bead of Curing | [[Cure Wounds]] (level 2 version) |
+| 13-16 | Bead of Favor | [[Greater Restoration]] |
+| 17-18 | Bead of Smiting | [[Shining Smite]] |
+| 19 | Bead of Summons | [[Guardian of Faith]] |
+| 20 | Bead of Wind Walking | [[Wind Walk]] |
 ^1-bead-spell
 
 *Source: Dungeon Master's Guide (2024) p. 281. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

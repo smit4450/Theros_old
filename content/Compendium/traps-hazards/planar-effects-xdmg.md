@@ -23,7 +23,7 @@ On the plane of "Arcadia" and in regions where its influence is felt, creatures 
 
 ## Blessed Beneficence
 
-On the plane of "Mount Celestia" and in regions where its influence is felt, creatures are blessed by the pervasive beneficence of the plane. Creatures other than Fiends and Undead gain the benefit of the [[Bless]] spell as long as they remain in an area of blessed beneficence. In addition, such a creature that finishes a Long Rest in the area gains the benefit of a [[lesser-restoration-xphb]] spell.
+On the plane of "Mount Celestia" and in regions where its influence is felt, creatures are blessed by the pervasive beneficence of the plane. Creatures other than Fiends and Undead gain the benefit of the [[Bless]] spell as long as they remain in an area of blessed beneficence. In addition, such a creature that finishes a Long Rest in the area gains the benefit of a [[Lesser Restoration]] spell.
 
 ## Gehennan Cruelty
 

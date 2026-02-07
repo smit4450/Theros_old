@@ -12,12 +12,12 @@ aliases:
 ## Blindsight
 _Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
-If you have Blindsight, you can see within a specific range without relying on physical sight. Within that range, you can see anything that isn't behind [[Cover]] even if you have the [Blinded](Conditions.md#Blinded) condition or are in [[Darkness]]. Moreover, in that range, you can see something that has the [Invisible](Conditions.md#Invisible) condition.
+If you have Blindsight, you can see within a specific range without relying on physical sight. Within that range, you can see anything that isn't behind [[Cover]] even if you have the [Blinded](Conditions.md#Blinded) condition or are in [[Compendium/rules/variant-rules/Darkness]]. Moreover, in that range, you can see something that has the [Invisible](Conditions.md#Invisible) condition.
 
 ## Darkvision
 _Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
-If you have Darkvision, you can see in [[Dim Light]] within a specified range as if it were [[Bright Light]] and in [[Darkness]] within that range as if it were [[Dim Light]]. You discern colors in that [[Darkness]] only as shades of gray.
+If you have Darkvision, you can see in [[Dim Light]] within a specified range as if it were [[Bright Light]] and in [[Compendium/rules/variant-rules/Darkness]] within that range as if it were [[Dim Light]]. You discern colors in that [[Compendium/rules/variant-rules/Darkness]] only as shades of gray.
 
 ## Tremorsense
 _Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
@@ -31,7 +31,7 @@ _Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems 
 
 If you have Truesight, your vision is enhanced within a specified range. Within that range, your vision pierces through the following:
 
-- **Darkness.** You can see in normal and magical [[Darkness]].  
+- **Darkness.** You can see in normal and magical [[Compendium/rules/variant-rules/Darkness]].  
 - **Invisibility.** You see creatures and objects that have the [Invisible](Conditions.md#Invisible) condition.  
 - **Visual Illusions.** Visual illusions appear transparent to you, and you automatically succeed on [[Saving Throw]] against them.  
 - **Transformations.** You discern the true form of any creature or object you see that has been transformed by magic.  

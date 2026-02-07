@@ -29,14 +29,14 @@ While holding the staff , you can cast one of the spells on the following table 
 | Spell | Charge Cost |
 |-------|-------------|
 | [[Cone of Cold]] | 5 |
-| [[fireball-xphb]] (level 5 version) | 5 |
-| [[globe-of-invulnerability-xphb]] | 6 |
-| [[hold-monster-xphb]] | 5 |
-| [[levitate-xphb]] | 2 |
-| [[lightning-bolt-xphb]] (level 5 version) | 5 |
-| [[magic-missile-xphb]] | 1 |
-| [[ray-of-enfeeblement-xphb]] | 1 |
-| [[wall-of-force-xphb]] | 5 |
+| [[Fireball]] (level 5 version) | 5 |
+| [[Globe of Invulnerability]] | 6 |
+| [[Hold Monster]] | 5 |
+| [[Levitate]] | 2 |
+| [[Lightning Bolt]] (level 5 version) | 5 |
+| [[Magic Missile]] | 1 |
+| [[Ray of Enfeeblement]] | 1 |
+| [[Wall of Force]] | 5 |
 ^spell-charge-cost
 
 ## Regaining Charges
