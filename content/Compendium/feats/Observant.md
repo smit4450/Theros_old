@@ -17,4 +17,4 @@ You gain the following benefits.
 
 **Keen Observer.** Choose one of the following skills: [Insight](Skills.md#Insight), [Investigation](Skills.md#Investigation), or [Perception](Skills.md#Perception). If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain [[Expertise]] in it.
 
-**Quick Search.** You can take the [Search](Compendium/rules/actions.md#Search) action as a [[Bonus Action]].
+**Quick Search.** You can take the [Search](Actions.md#Search) action as a [[Bonus Action]].

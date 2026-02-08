@@ -25,11 +25,11 @@ Whenever you use this weapon to make a ranged attack against a creature, you can
 
 ## Arrow of Transport
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can fire one energy arrow from this weapon at a target you can see within 60 feet of yourself. The target can be either a willing Medium or smaller creature or an object that isn't being worn or carried, provided the object is small enough to fit inside a 5-foot [[Cube (Area of Effect)]]. The arrow teleports the target to an unoccupied space you can see within 10 feet of you.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can fire [Magic](Actions.md#Magic)get you can see within 60 feet of yourself. The target can be either a willing Medium or smaller creature or an object that isn't being worn or carried, provided the object is small enough to fit inside a 5-foot [[Cube (Area of Effect)]]. The arrow teleports the target to an unoccupied space you can see within 10 feet of you.
 
 ## Energy Ladder
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can loose a flurry of energy arrows from this weapon at a wall up to 60 feet away from yourself. The arrows become glowing rungs that stick out of the wall, forming a magical ladder up to 60 feet long on the wall. This ladder lasts for 1 minute before disappearing.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can loose[Magic](Actions.md#Magic)n at a wall up to 60 feet away from yourself. The arrows become glowing rungs that stick out of the wall, forming a magical ladder up to 60 feet long on the wall. This ladder lasts for 1 minute before disappearing.
 
 **Variants**:
 -  [[#Energy Longbow]]

@@ -14,7 +14,7 @@ While you have the Blinded condition, you experience the following effects.
 
 **Can't See.** You can't see and automatically fail any ability check that requires sight.
 
-**Attacks Affected.** [Attack](Compendium/rules/actions.md#Attack) rolls against you have [[Advantage]], and your attack rolls have [[Disadvantage]].
+**Attacks Affected.** [Attack](Actions.md#Attack) rolls against you have [[Advantage]], and your attack rolls have [[Disadvantage]].
 
 ## Bloodied
 _Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -103,7 +103,7 @@ While you have the Invisible condition, you experience the following effects.
 
 **Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
 
-**Attacks Affected.** [Attack](Compendium/rules/actions.md#Attack) rolls against you have [[Disadvantage]], and your attack rolls have [[Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
+**Attacks Affected.** [Attack](Actions.md#Attack) rolls against you have [[Disadvantage]], and your attack rolls have [[Advantage]]. If a creature can somehow see you, you don't gain this benefit against that creature.
 
 ## Paralyzed
 _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -116,7 +116,7 @@ While you have the Paralyzed condition, you experience the following effects.
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [[Saving Throw]].
 
-**Attacks Affected.** [Attack](Compendium/rules/actions.md#Attack) rolls against you have [[Advantage]].
+**Attacks Affected.** [Attack](Actions.md#Attack) rolls against you have [[Advantage]].
 
 **Automatic Critical Hits.** Any attack roll that hits you is a [[Critical Hit]] if the attacker is within 5 feet of you.
 
@@ -131,7 +131,7 @@ While you have the Petrified condition, you experience the following effects.
 
 **Speed 0.** Your [[Speed]] is 0 and can't increase.
 
-**Attacks Affected.** [Attack](Compendium/rules/actions.md#Attack) rolls against you have [[Advantage]].
+**Attacks Affected.** [Attack](Actions.md#Attack) rolls against you have [[Advantage]].
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [[Saving Throw]].
 
@@ -162,7 +162,7 @@ While you have the Restrained condition, you experience the following effects.
 
 **Speed 0.** Your [[Speed]] is 0 and can't increase.
 
-**Attacks Affected.** [Attack](Compendium/rules/actions.md#Attack) rolls against you have [[Advantage]], and your attack rolls have [[Disadvantage]].
+**Attacks Affected.** [Attack](Actions.md#Attack) rolls against you have [[Advantage]], and your attack rolls have [[Disadvantage]].
 
 **Saving Throws Affected.** You have [[Disadvantage]] on Dexterity [[Saving Throw]].
 
@@ -175,7 +175,7 @@ While you have the Stunned condition, you experience the following effects.
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [[Saving Throw]].
 
-**Attacks Affected.** [Attack](Compendium/rules/actions.md#Attack) rolls against you have [[Advantage]].
+**Attacks Affected.** [Attack](Actions.md#Attack) rolls against you have [[Advantage]].
 
 ## Surprised
 _Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
@@ -191,7 +191,7 @@ While you have the Unconscious condition, you experience the following effects.
 
 **Speed 0.** Your [[Speed]] is 0 and can't increase.
 
-**Attacks Affected.** [Attack](Compendium/rules/actions.md#Attack) rolls against you have [[Advantage]].
+**Attacks Affected.** [Attack](Actions.md#Attack) rolls against you have [[Advantage]].
 
 **Saving Throws Affected.** You automatically fail Strength and Dexterity [[Saving Throw]].
 

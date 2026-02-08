@@ -11,7 +11,7 @@ tags:
 ![](Compendium/items/img/candle-of-invocation.webp#right)
 
 
-This candle's magic is activated when the candle is lit, which requires a [Magic](Compendium/rules/actions.md#Magic) action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from its total burn time.
+This candle's magic is activated when the candle is lit, which requires a [Magic](Actions.md#Magic) action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from its total burn time.
 
 While lit, the candle sheds [[Dim Light]] in a 30-foot radius. While you are within that light, you have [[Advantage]] on [[D20 Test]]. In addition, a Cleric or Druid in the light can cast level 1 spells they have prepared without expending spell slots.
 

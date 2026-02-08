@@ -9,8 +9,8 @@ tags:
 # Pact of the Chain
 *Source: Player's Handbook (2024) p. 157. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
-You learn the [[Find Familiar]] spell and can cast it as a [Magic](Compendium/rules/actions.md#Magic) action without expending a spell slot.
+You learn the [[Find Familiar]] spell and can cast it as a [Magic](Actions.md#Magic) action without expending a spell slot.
 
 When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [[imp-xmm]], [[Pseudodragon]], [[quasit-xmm]], [[skeleton-xmm]], [[slaad-tadpole-xmm]], [[Sphinx of Wonder]], [[sprite-xmm]], or [[Venomous Snake]] (see appendix B for the familiar's stat block).
 
-Additionally, when you take the [Attack](Compendium/rules/actions.md#Attack) action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its [[Reaction]].
+Additionally, when you take the [Attack](Actions.md#Attack) action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its [[Reaction]].

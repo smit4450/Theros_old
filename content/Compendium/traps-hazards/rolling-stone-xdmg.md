@@ -17,7 +17,7 @@ The stone stops when it hits a wall or similar barrier. It can't go around corne
 
 ## Detect and Disarm
 
-As a [Study](Compendium/rules/actions.md#Study) action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Intelligence ([Investigation](Skills.md#Investigation)) check, deducing the pressure plate's function on a successful check. Wedging an Iron Spike or a similar object under the pressure plate prevents the trap from triggering.
+As a [Study](Actions.md#Study) action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Intelligence ([Investigation](Skills.md#Investigation)) check, deducing the pressure plate's function on a successful check. Wedging an Iron Spike or a similar object under the pressure plate prevents the trap from triggering.
 
 ## Destroy the Stone
 

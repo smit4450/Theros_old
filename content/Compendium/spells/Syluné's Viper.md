@@ -33,7 +33,7 @@ A shimmering, spectral snake encircles your body for the duration. You gain 15 [
 While the spell is active, you gain the following benefits:
 
 - **Climbing.** You gain a [[Climb Speed]] equal to your [[Speed]].  
-- **Venomous Bite.** As a [Magic](Compendium/rules/actions.md#Magic) action, you can make a ranged spell attack using the snake against one creature within 50 feet. On a hit, the target takes `1d6` Force damage and has the [Poisoned](Conditions.md#Poisoned) condition until the start of your next turn. While [Poisoned](Conditions.md#Poisoned), the target has the [Incapacitated](Conditions.md#Incapacitated) condition.  
+- **Venomous Bite.** As a [Magic](Actions.md#Magic) action, you can make a ranged spell attack using the snake against one creature within 50 feet. On a hit, the target takes `1d6` Force damage and has the [Poisoned](Conditions.md#Poisoned) condition until the start of your next turn. While [Poisoned](Conditions.md#Poisoned), the target has the [Incapacitated](Conditions.md#Incapacitated) condition.  
 
 **Using a Higher-Level Spell Slot.** For each spell slot level above 3, the number of [[Temporary Hit Points]] you gain from this spell increases by 5, and the damage of Venomous Bite increases by `1d6`.
 

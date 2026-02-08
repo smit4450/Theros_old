@@ -15,7 +15,7 @@ The first creature that crosses the trip wire causes the supports to topple and 
 
 ## Detect and Disarm
 
-As a [Search](Compendium/rules/actions.md#Search) action, a creature can examine the trapped area and make a DC 11 Wisdom ([Perception](Skills.md#Perception)) check, detecting the trip wire and the unstable section of ceiling on a successful check. Once detected, the trip wire can be easily cut or avoided (no ability check required).
+As a [Search](Actions.md#Search) action, a creature can examine the trapped area and make a DC 11 Wisdom ([Perception](Skills.md#Perception)) check, detecting the trip wire and the unstable section of ceiling on a successful check. Once detected, the trip wire can be easily cut or avoided (no ability check required).
 
 ## At Higher Levels
 

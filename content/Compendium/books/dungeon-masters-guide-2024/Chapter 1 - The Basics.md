@@ -591,7 +591,7 @@ Work out a policy about rules discussions at the table. Some groups don't mind p
 
 Some players like to use the rules to argue against your decisions. While such players can be helpful when you're stuck or make a rules mistake that's easily corrected, players who argue the rules too often can disrupt the flow of the game.
 
-If a player wants to pause play to find a specific rule or reference, you can invite the player to search for it while you and the rest of the players continue the game. That player's character essentially steps out of the game for as long as it takes. Monsters don't attack the character, and the character takes the [Dodge](Compendium/rules/actions.md#Dodge) action in combat until the player rejoins the group. This solution allows the other players to keep playing instead of letting one player stop the game.
+If a player wants to pause play to find a specific rule or reference, you can invite the player to search for it while you and the rest of the players continue the game. That player's character essentially steps out of the game for as long as it takes. Monsters don't attack the character, and the character takes the [Dodge](Actions.md#Dodge) action in combat until the player rejoins the group. This solution allows the other players to keep playing instead of letting one player stop the game.
 
 #### Character Knowledge
 
@@ -617,7 +617,7 @@ Some players enjoy poring over the D&D rules and looking for optimal combination
 
 Setting clear expectations is essential when dealing with this kind of rules exploitation. Bear these principles in mind:
 
-- **Rules Aren't Physics.** The rules of the game are meant to provide a fun game experience, not to describe the laws of physics in the worlds of D&D, let alone the real world. Don't let players argue that a bucket brigade of ordinary people can accelerate a spear to light speed by all using the [Ready](Compendium/rules/actions.md#Ready) action to pass the spear to the next person in line. The Ready action facilitates heroic action; it doesn't define the physical limitations of what can happen in a 6-second combat round.  
+- **Rules Aren't Physics.** The rules of the game are meant to provide a fun game experience, not to describe the laws of physics in the worlds of D&D, let alone the real world. Don't let players argue that a bucket brigade of ordinary people can accelerate a spear to light speed by all using the [Ready](Actions.md#Ready) action to pass the spear to the next person in line. The Ready action facilitates heroic action; it doesn't define the physical limitations of what can happen in a 6-second combat round.  
 - **The Game Is Not an Economy.** The rules of the game aren't intended to model a realistic economy, and players who look for loopholes that let them generate infinite wealth using combinations of spells are exploiting the rules.  
 - **Combat Is for Enemies.** Some rules apply only during combat or while a character is acting in Initiative order. Don't let players attack each other or helpless creatures to activate those rules.  
 - **Rules Rely on Good-Faith Interpretation.** The rules assume that everyone reading and interpreting the rules has the interests of the group's fun at heart and is reading the rules in that light.  

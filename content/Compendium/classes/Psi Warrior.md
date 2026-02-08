@@ -80,7 +80,7 @@ You can propel your weapons with psionic force. Once on each of your turns, imme
 
 ### Telekinetic Movement (Level 3)
 
-You can move an object or a creature with your mind. As a [Magic](Compendium/rules/actions.md#Magic) action, choose one target you can see within 30 feet of yourself; the target must be a loose object that is Large or smaller or one willing creature other than you. You transport the target up to 30 feet to an unoccupied space you can see. Alternatively, if the target is a Tiny object, you can transport it to or from your hand.
+You can move an object or a creature with your mind. As a [Magic](Actions.md#Magic) action, choose one target you can see within 30 feet of yourself; the target must be a loose object that is Large or smaller or one willing creature other than you. You transport the target up to 30 feet to an unoccupied space you can see. Alternatively, if the target is a Tiny object, you can transport it to or from your hand.
 
 Once you take this action, you can't do so again until you finish a [[Short Rest]] or [[Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 

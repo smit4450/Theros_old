@@ -26,7 +26,7 @@ classes:
 
 The ground in a 20-foot-radius [[Sphere (Area of Effect)]] centered on a point within range sprouts hard spikes and thorns. The area becomes [[Difficult Terrain]] for the duration. When a creature moves into or within the area, it takes `2d4` Piercing damage for every 5 feet it travels.
 
-The transformation of the ground is camouflaged to look natural. Any creature that can't see the area when the spell is cast must take a [Search](Compendium/rules/actions.md#Search) action and succeed on a Wisdom ([Perception](Skills.md#Perception) or [Survival](Skills.md#Survival)) check against your spell save DC to recognize the terrain as hazardous before entering it.
+The transformation of the ground is camouflaged to look natural. Any creature that can't see the area when the spell is cast must take a [Search](Compendium/rules/[Search](Actions.md#Search)isdom ([Perception](Skills.md#Perception) or [Survival](Skills.md#Survival)) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [[Druid Spells]]; [[Ranger Spells]]
 

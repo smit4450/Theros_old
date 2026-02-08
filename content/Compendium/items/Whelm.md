@@ -29,7 +29,7 @@ Whelm has [Thrown](Item%20Properties.md#Thrown) with a normal range of 60 feet a
 
 ## Shock Wave
 
-You can take a [Magic](Compendium/rules/actions.md#Magic) action to strike the ground with Whelm and send a shock wave out from the point of impact. Each creature of your choice on the ground within 60 feet of that point must succeed on a DC 20 Constitution saving throw or have the [Stunned](Conditions.md#Stunned) condition for 1 minute. A creature repeats the save at the end of each of its turns, ending the effect on itself on a success. Once used, this property can't be used again until the next dawn.
+You can take a [Magic](Actions.md#Magic) action to strike the ground with Whelm and send a shock wave out from the point of impact. Each creature of your choice on the ground within 60 feet of that point must succeed on a DC 20 Constitution saving throw or have the [Stunned](Conditions.md#Stunned) condition for 1 minute. A creature repeats the save at the end of each of its turns, ending the effect on itself on a success. Once used, this property can't be used again until the next dawn.
 
 ## Supernatural Awareness
 

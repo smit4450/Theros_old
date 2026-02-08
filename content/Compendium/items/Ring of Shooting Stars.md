@@ -22,7 +22,7 @@ You can expend 1 charge to cast [[Faerie Fire]] from the ring.
 
 ## Lightning Spheres
 
-You can expend 2 charges as a [Magic](Compendium/rules/actions.md#Magic) action to create up to four 3-foot-diameter spheres of lightning.
+You can expend 2 charges as a [Magic](Actions.md#Magic) action to create up to four 3-foot-diameter spheres of lightning.
 
 Each sphere appears in an unoccupied space you can see within 120 feet of yourself. The spheres last as long as you maintain [Concentration](Conditions.md#Concentration), up to 1 minute. Each sphere sheds [[Dim Light]] in a 30-foot radius.
 
@@ -38,6 +38,6 @@ As a [[Bonus Action]], you can move each sphere up to 30 feet, but no farther th
 
 ## Shooting Stars
 
-You can expend 1 to 3 charges as a [Magic](Compendium/rules/actions.md#Magic) action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of yourself. Each creature in a 15-foot [[Cube (Area of Effect)]] originating from that point is showered in sparks and makes a DC 15 Dexterity saving throw, taking `5d4` Radiant damage on a failed save or half as much damage on a successful one.
+You can expend 1 to 3 charges as a [Magic](Actions.md#Magic) action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of yourself. Each creature in a 15-foot [[Cube (Area of Effect)]] originating from that point is showered in sparks and makes a DC 15 Dexterity saving throw, taking `5d4` Radiant damage on a failed save or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

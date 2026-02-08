@@ -21,7 +21,7 @@ As long as it has at least one diamond, the helm emits a 30-foot [[Emanation (Ar
 
 ## Fire Opal Flames
 
-As long as the helm has at least one fire opal, you can take a [Magic](Compendium/rules/actions.md#Magic) action to cause one weapon you are holding to burst into flames. The flames emit [[Bright Light]] in a 10-foot radius and [[Dim Light]] for an additional 10 feet. The flames are harmless to you and the weapon. When you hit with an attack using the blazing weapon, the target takes an extra `1d6` Fire damage. The flames last until you take a [[Bonus Action]] to extinguish them or until you drop or stow the weapon.
+As long as the helm has at least one fire opal, you can take a [Magic](Actions.md#Magic) action to cause one weapon you are holding to burst into flames. The flames emit [[Bright Light]] in a 10-foot radius and [[Dim Light]] for an additional 10 feet. The flames are harmless to you and the weapon. When you hit with an attack using the blazing weapon, the target takes an extra `1d6` Fire damage. The flames last until you take a [[Bonus Action]] to extinguish them or until you drop or stow the weapon.
 
 ## Ruby Resistance
 

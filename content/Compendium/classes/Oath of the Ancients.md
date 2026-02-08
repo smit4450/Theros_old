@@ -73,7 +73,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Nature's Wrath (Level 3)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend one use of your Channel Divinity to conjure spectral vines around nearby creatures. Each creature of your choice that you can see within 15 feet of yourself must succeed on a Strength saving throw or have the [Restrained](Conditions.md#Restrained) condition for 1 minute. A [Restrained](Conditions.md#Restrained) creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
+As a [Magic](Actions.md#Magic) action, you can expend one use of your Channel Divinity to conjure spectral vines around nearby creatures. Each creature of your choice that you can see within 15 feet of yourself must succeed on a Strength saving throw or have the [Restrained](Conditions.md#Restrained) condition for 1 minute. A [Restrained](Conditions.md#Restrained) creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 ### Aura of Warding (Level 7)
 

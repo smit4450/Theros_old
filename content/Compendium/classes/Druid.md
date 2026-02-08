@@ -126,7 +126,7 @@ You can use a [[Druidic Focus]] as a [[Spellcasting Focus]] for your Druid spell
 
 ### Wild Companion (Level 2)
 
-You can summon a nature spirit that assumes an animal form to aid you. As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend a spell slot or a use of Wild Shape to cast the [[Find Familiar]] spell without Material components.
+You can summon a nature spirit that assumes an animal form to aid you. As a [Magic](Actions.md#Magic) action, you can expend a spell slot or a use of Wild Shape to cast the [[Find Familiar]] spell without Material components.
 
 When you cast the spell in this way, the familiar is Fey and disappears when you finish a [[Long Rest]].
 

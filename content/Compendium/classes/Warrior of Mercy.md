@@ -56,7 +56,7 @@ Once per turn when you hit a creature with an [[Unarmed Strike]] and deal damage
 
 ### Hand of Healing (Level 3)
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend 1 Focus Point to touch a creature and restore a number of [[Hit Points]] equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use your Flurry of Blows, you can replace one of the Unarmed Strikes with a use of this feature without expending a Focus Point for the healing.
+As a [Magic](Actions.md#Magic) action, you can expend 1 Focus Point to touch a creature and restore a number of [[Hit Points]] equal to a roll of your Martial Arts die plus your Wisdom modifier. When you use your Flurry of Blows, you can replace one of the Unarmed Strikes with a use of this feature without expending a Focus Point for the healing.
 
 ### Implements of Mercy (Level 3)
 
@@ -84,6 +84,6 @@ You can use these benefits a total number of times equal to your Wisdom modifier
 
 ### Hand of Ultimate Mercy (Level 17)
 
-Your mastery of life energy opens the door to the ultimate mercy. As a [Magic](Compendium/rules/actions.md#Magic) action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 Focus Points. The creature then returns to life with a number of [[Hit Points]] equal to `4d10` plus your Wisdom modifier. If the creature died with any of the following conditions, the creature revives with the conditions removed: [Blinded](Conditions.md#Blinded), [Deafened](Conditions.md#Deafened), [Paralyzed](Conditions.md#Paralyzed), [Poisoned](Conditions.md#Poisoned), and [Stunned](Conditions.md#Stunned).
+Your mastery of life energy opens the door to the ultimate mercy. As a [Magic](Actions.md#Magic) action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 Focus Points. The creature then returns to life with a number of [[Hit Points]] equal to `4d10` plus your Wisdom modifier. If the creature died with any of the following conditions, the creature revives with the conditions removed: [Blinded](Conditions.md#Blinded), [Deafened](Conditions.md#Deafened), [Paralyzed](Conditions.md#Paralyzed), [Poisoned](Conditions.md#Poisoned), and [Stunned](Conditions.md#Stunned).
 
 Once you use this feature, you can't use it again until you finish a [[Long Rest]].

@@ -72,11 +72,11 @@ When a chase begins, determine the starting distance between the quarry and the 
 
 ### Running the Chase
 
-Participants in the chase are strongly motivated to take the [Dash](Compendium/rules/actions.md#Dash) action every round. Pursuers who stop to cast spells and make attacks run the risk of losing their quarry, and a quarry that doesn't take the Dash action is likely to be caught.
+Participants in the chase are strongly motivated to take the [Dash](Actions.md#Dash) action every round. Pursuers who stop to cast spells and make attacks run the risk of losing their quarry, and a quarry that doesn't take the Dash action is likely to be caught.
 
 #### Dashing
 
-A chase participant can take the [Dash](Compendium/rules/actions.md#Dash) action a number of times equal to 3 plus its Constitution modifier (minimum of once). Each additional Dash action it takes during the chase requires the creature to succeed on a DC 10 Constitution saving throw at the end of its turn or gain 1 [Exhaustion](Conditions.md#Exhaustion) level. A participant drops out of the chase if it has 5 [Exhaustion](Conditions.md#Exhaustion) levels. A creature can remove the [Exhaustion](Conditions.md#Exhaustion) levels it gained during the chase by finishing a [[Short Rest]] or [[Long Rest]].
+A chase participant can take the [Dash](Actions.md#Dash) action a number of times equal to 3 plus its Constitution modifier (minimum of once). Each additional Dash action it takes during the chase requires the creature to succeed on a DC 10 Constitution saving throw at the end of its turn or gain 1 [Exhaustion](Conditions.md#Exhaustion) level. A participant drops out of the chase if it has 5 [Exhaustion](Conditions.md#Exhaustion) levels. A creature can remove the [Exhaustion](Conditions.md#Exhaustion) levels it gained during the chase by finishing a [[Short Rest]] or [[Long Rest]].
 
 #### Spells and Attacks
 
@@ -475,13 +475,13 @@ Adventurers interact with doors often in a D&D campaign. This section gives rule
 
 The Doors table provides the AC and Hit Points for common doors, which are Medium objects.
 
-With the [Utilize](Compendium/rules/actions.md#Utilize) action, a creature can try to force open a door that is barred or locked, doing so with a successful Strength ([Athletics](Skills.md#Athletics)) check. The table provides the DC of the check. For bigger doors, double or triple the Hit Points and increase the DC of the check by 5.
+With the [Utilize](Actions.md#Utilize) action, a creature can try to force open a door that is barred or locked, doing so with a successful Strength ([Athletics](Skills.md#Athletics)) check. The table provides the DC of the check. For bigger doors, double or triple the Hit Points and increase the DC of the check by 5.
 
 ![[doors-xdmg]]
 
 #### Barred Door
 
-A barred door has no lock. A creature on the barred side of the door can take the [Utilize](Compendium/rules/actions.md#Utilize) action to lift the bar from its braces, allowing the door to be opened.
+A barred door has no lock. A creature on the barred side of the door can take the [Utilize](Actions.md#Utilize) action to lift the bar from its braces, allowing the door to be opened.
 
 #### Locked Door
 
@@ -495,7 +495,7 @@ Characters who don't have the key to a locked door can try to pick the lock usin
 
 A secret door is crafted to blend into the wall that surrounds it. Sometimes faint cracks in the wall or scuff marks on the floor betray the secret door's presence. Other than the fact that it's hidden, a secret door is similar to a common door.
 
-With the [Search](Compendium/rules/actions.md#Search) action, a character can search for a secret door along a 10-foot-square section of wall and make a Wisdom ([Perception](Skills.md#Perception)) check. On a successful check, the character finds any secret door hidden in that section of wall as well as the mechanism to open the door. The DC of the check depends on how well the secret door is hidden, as shown in the Secret Doors table.
+With the [Search](Actions.md#Search) action, a character can search for a secret door along a 10-foot-square section of wall and make a Wisdom ([Perception](Skills.md#Perception)) check. On a successful check, the character finds any secret door hidden in that section of wall as well as the mechanism to open the door. The DC of the check depends on how well the secret door is hidden, as shown in the Secret Doors table.
 
 You can instead call for an Intelligence ([Investigation](Skills.md#Investigation)) check if the challenge involves deducing that a door is present from noticeable clues, rather than spotting those clues in the first place. See ""Perception"" in "chapter 2" for more advice.
 
@@ -509,7 +509,7 @@ Adventurers often fail to locate secret doors. For this reason, don't hide impor
 
 Typically made of iron or wood, a portcullis blocks a passage or an archway until it is raised into the ceiling by a winch and chain. Creatures within 5 feet of a lowered portcullis can make ranged attacks or cast spells through it, and they have [[cover-xphb]] against attacks, spells, and other effects originating from the opposite side. A portcullis can also be attacked and destroyed, using the AC and Hit Points of a metal door (if iron) or a wooden door (if wood).
 
-Winching a portcullis up or down requires the [Utilize](Compendium/rules/actions.md#Utilize) action. If a creature can't reach the winch (usually because it's on the other side of the portcullis), lifting the portcullis requires the [Utilize](Compendium/rules/actions.md#Utilize) action and a successful Strength ([Athletics](Skills.md#Athletics)) check. The DC of the check depends on the type of portcullis, as shown in the Portcullises table.
+Winching a portcullis up or down requires the [Utilize](Actions.md#Utilize) action. If a creature can't reach the winch (usually because it's on the other side of the portcullis), lifting the portcullis requires the [Utilize](Actions.md#Utilize) action and a successful Strength ([Athletics](Skills.md#Athletics)) check. The DC of the check depends on the type of portcullis, as shown in the Portcullises table.
 
 ![[portcullises-xdmg]]
 
@@ -640,7 +640,7 @@ Typically, a [Frightened](Conditions.md#Frightened) creature repeats the saving 
 
 At your discretion, a Frightened creature might be subject to other effects as long as the Frightened condition lasts. Consider these examples:
 
-- The Frightened creature must take the [Dash](Compendium/rules/actions.md#Dash) action on each of its turns and uses its movement to get farther away from the source of its fear.  
+- The Frightened creature must take the [Dash](Actions.md#Dash) action on each of its turns and uses its movement to get farther away from the source of its fear.  
 - Attack rolls against the Frightened creature have [[Advantage]].  
 - The Frightened creature can do only one of the following on each of its turns: move, take an action, or take a Bonus Action.  
 

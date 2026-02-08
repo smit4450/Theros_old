@@ -54,7 +54,7 @@ Wielders of spellfire tend to have a penchant for wandering. Many travel between
 
 ### Spellfire Burst (Level 3)
 
-When you spend at least 1 Sorcery Point as part of the [Magic](Compendium/rules/actions.md#Magic) action or a [[Bonus Action]] on your turn, you can unleash one of the following magical effects of your choice. You can do so only once per turn.
+When you spend at least 1 Sorcery Point as part of the [Magic](Actions.md#Magic) action or a [[Bonus Action]] on your turn, you can unleash one of the following magical effects of your choice. You can do so only once per turn.
 
 ### Bolstering Flames (Level 3)
 

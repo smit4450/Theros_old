@@ -13,7 +13,7 @@ tags:
 
 This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 200 pounds of material, not exceeding a volume of 25 cubic feet. The central pouch can hold up to 500 pounds of material, not exceeding a volume of 64 cubic feet. The haversack always weighs 5 pounds, regardless of its contents.
 
-Retrieving an item from the haversack requires a [Utilize](Compendium/rules/actions.md#Utilize) action or a [[Bonus Action]] (your choice). When you reach into the haversack for a specific item, the item is always magically on top.
+Retrieving an item from the haversack requires a [Utilize](Compendium/rules/actions.md#U[Utilize](Actions.md#Utilize)ice). When you reach into the haversack for a specific item, the item is always magically on top.
 
 If any of its pouches is overloaded, pierced, or torn, the haversack ruptures and is destroyed. If the haversack is destroyed, its contents are lost forever, although an Artifact always turns up again somewhere. If the haversack is turned inside out, its contents spill forth unharmed, and the haversack must be put right before it can be used again.
 

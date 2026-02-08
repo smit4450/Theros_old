@@ -14,7 +14,7 @@ A Hag Eye has 3 charges. While wearing or holding this item, you can expend 1 ch
 
 ## Coven Sensor
 
-The Hag Eye is usually entrusted to a hag's minion for safekeeping and transport. As a [Magic](Compendium/rules/actions.md#Magic) action, a hag who belongs to the coven that created the Hag Eye can see what the Hag Eye sees if the hag and the Hag Eye are on the same plane of existence. This effect lasts as long as the hag maintains [Concentration](Conditions.md#Concentration). Multiple hags in the coven can see through the Hag Eye simultaneously.
+The Hag Eye is usually entrusted to a hag's minion for safekeeping and transport. As a [Magic](Actions.md#Magic) action, a hag who belongs to the coven that created the Hag Eye can see what the Hag Eye sees if the hag and the Hag Eye are on the same plane of existence. This effect lasts as long as the hag maintains [Concentration](Conditions.md#Concentration). Multiple hags in the coven can see through the Hag Eye simultaneously.
 
 ## Creating a Hag Eye
 

@@ -15,7 +15,7 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Strength or Dexterity by 1, to a maximum of 20.
 
-**Punch and Grab.** When you hit a creature with an [[Unarmed Strike]] as part of the [Attack](Compendium/rules/actions.md#Attack) action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
+**Punch and Grab.** When you hit a creature with an [[Unarmed Strike]] as part of the [Attack](Actions.md#Attack) action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
 
 **Attack Advantage.** You have [[Advantage]] on attack rolls against a creature [Grappled](Conditions.md#Grappled) by you.
 

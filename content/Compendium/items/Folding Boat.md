@@ -11,7 +11,7 @@ tags:
 
 - **Weight**: 4.0 lbs.
 
-This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring a [Magic](Compendium/rules/actions.md#Magic) action to use:
+This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring a [Magic](Actions.md#Magic) action to use:
 
 - **First Command Word.** The box unfolds into a Rowboat.  
 - **Second Command Word.** The box unfolds into a Keelboat.  

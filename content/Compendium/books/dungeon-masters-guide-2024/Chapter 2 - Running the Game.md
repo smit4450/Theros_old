@@ -508,7 +508,7 @@ You decide the extent to which ability checks shape the outcome of a social inte
 
 #### Using the Help Action
 
-When a character uses the [Help](Compendium/rules/actions.md#Help) action to help another character influence an NPC or a monster, encourage the player of the helpful character to contribute to the conversation or, at the very least, describe what their character is doing or saying to contribute to the other character's success.
+When a character uses the [Help](Actions.md#Help) action to help another character influence an NPC or a monster, encourage the player of the helpful character to contribute to the conversation or, at the very least, describe what their character is doing or saying to contribute to the other character's success.
 
 ## Running Exploration
 
@@ -550,9 +550,9 @@ Use similar principles to track the passage of hours, such as when characters di
 
 ### Actions in Exploration
 
-Most of what characters do during exploration, aside from movement, relates to just a few actions: [Search](Compendium/rules/actions.md#Search), [Study](Compendium/rules/actions.md#Study), and [Utilize](Compendium/rules/actions.md#Utilize). Characters also often use the [Help](Compendium/rules/actions.md#Help) action to assist each other in these actions. Other actions come up only rarely.
+Most of what characters do during exploration, aside from movement, relates to just a few actions: [Search](Actions.md#Search), [Study](Actions.md#Study), and [Utilize](Actions.md#Utilize). Characters also often use the [Help](Actions.md#Help) action to assist each other in these actions. Other actions come up only rarely.
 
-It's seldom necessary to rely on the action rules during exploration, except to remember that a character can do only one thing at a time. A character who's busy taking the [Search](Compendium/rules/actions.md#Search) action to look for a secret door can't simultaneously take the [Help](Compendium/rules/actions.md#Help) action to assist another character who's taking the Study action to find important information in a book.
+It's seldom necessary to rely on the action rules during exploration, except to remember that a character can do only one thing at a time. A character who's busy taking the [Search](Actions.md#Search) action to look for a secret door can't simultaneously take the [Help](Actions.md#Help) action to assist another character who's taking the Study action to find important information in a book.
 
 #### Taking Turns
 
@@ -752,7 +752,7 @@ If the characters aren't following an established path or traveling with a landm
 - Traveling at night  
 - Traveling at sea while unable to see the sky or any familiar land  
 
-Let the players know when the characters are at risk of getting lost, then have the characters choose one of their number to make a Wisdom ([Survival](Skills.md#Survival)) check against a DC appropriate to the terrain, as shown in the Navigation DC column of the "Travel Terrain" table. Another member of the group can take the [Help](Compendium/rules/actions.md#Help) action to assist this check as normal.
+Let the players know when the characters are at risk of getting lost, then have the characters choose one of their number to make a Wisdom ([Survival](Skills.md#Survival)) check against a DC appropriate to the terrain, as shown in the Navigation DC column of the "Travel Terrain" table. Another member of the group can take the [Help](Actions.md#Help) action to assist this check as normal.
 
 If the check fails, the party goes off course. You decide what this looks like: they might follow the wrong branch of a river, orient themselves to the wrong mountain peak on the horizon, or get turned around in the forest. As a baseline, assume that getting lost extends the length of the current journey stage by `1d6 × 10` percent. It might also affect subsequent stages of the journey.
 
@@ -961,11 +961,11 @@ Share information with the players about the characteristics of creatures they f
 
 #### Actions in Combat
 
-When a monster takes an action in combat, the players need to have some idea what's going on both in the fictional reality of the game and in terms of the rules of the game. This means that when an enemy with a Crossbow takes the [Ready](Compendium/rules/actions.md#Ready) action to cover the area in front of a door, the players should have a pretty good idea that if their characters move in front of that door, the enemy will shoot them. A monster's description in the "Monster Manual" often explains what's happening in the world while the monster is using its special actions. The Describing Actions table has descriptions you can use to explain what's going on when a creature takes one of the common actions available to all creatures.
+When a monster takes an action in combat, the players need to have some idea what's going on both in the fictional reality of the game and in terms of the rules of the game. This means that when an enemy with a Crossbow takes the [Ready](Actions.md#Ready) action to cover the area in front of a door, the players should have a pretty good idea that if their characters move in front of that door, the enemy will shoot them. A monster's description in the "Monster Manual" often explains what's happening in the world while the monster is using its special actions. The Describing Actions table has descriptions you can use to explain what's going on when a creature takes one of the common actions available to all creatures.
 
 ![[Actions in Combat; Describing Actions]]
 
-You can combine those narrative descriptions with game rules: "Dispensing with attacks, your foe hurries across the room, taking the [Dash](Compendium/rules/actions.md#Dash) action."
+You can combine those narrative descriptions with game rules: "Dispensing with attacks, your foe hurries across the room, taking the [Dash](Actions.md#Dash) action."
 
 #### Monsters Casting Spells
 
@@ -981,7 +981,7 @@ Sometimes even the best-planned combat encounter can turn into a slog, where no 
 
 #### Don't Repeat Game States
 
-When characters do something to change the tactical situation, don't respond by putting things back to the way they were before. For example, if a character takes the [Disengage](Compendium/rules/actions.md#Disengage) action to move away from a group of monsters, don't respond by having those same monsters chase the character. Move the monsters somewhere else.
+When characters do something to change the tactical situation, don't respond by putting things back to the way they were before. For example, if a character takes the [Disengage](Actions.md#Disengage) action to move away from a group of monsters, don't respond by having those same monsters chase the character. Move the monsters somewhere else.
 
 #### Hasten a Monster's Demise
 

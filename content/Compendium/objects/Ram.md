@@ -11,7 +11,7 @@ tags:
 %%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide (2024) p. 97*  
 
-A Ram consists of a movable gallery equipped with a heavy log suspended from two roof beams by chains. The log is shod in iron and used to batter through doors and barricades. Positioning a Ram requires three [Utilize](Compendium/rules/actions.md#Utilize) actions. Then a crew member can use the Ram action.
+A Ram consists of a movable gallery equipped with a heavy log suspended from two roof beams by chains. The log is shod in iron and used to batter through doors and barricades. Positioning a Ram requires three [Utilize](Actions.md#Utilize) actions. Then a crew member can use the Ram action.
 
 The gallery roof gives the operators [[cover-xphb]] against attacks and other effects from above.
 

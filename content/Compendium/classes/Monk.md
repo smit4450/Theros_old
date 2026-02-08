@@ -109,11 +109,11 @@ You can expend 1 Focus Point to make two Unarmed Strikes as a [[Bonus Action]].
 
 ### Patient Defense (Level 2)
 
-You can take the [Disengage](Compendium/rules/actions.md#Disengage) action as a [[Bonus Action]]. Alternatively, you can expend 1 Focus Point to take both the [Disengage](Compendium/rules/actions.md#Disengage) and the [Dodge](Compendium/rules/actions.md#Dodge) actions as a [[Bonus Action]].
+You can take the [Disengage](Actions.md#Disengage) action as a [[Bonus Action]]. Alternatively, you can expend 1 Focus Point to take both the [Disengage](Actions.md#Disengage) and the [Dodge](Actions.md#Dodge) actions as a [[Bonus Action]].
 
 ### Step of the Wind (Level 2)
 
-You can take the [Dash](Compendium/rules/actions.md#Dash) action as a [[Bonus Action]]. Alternatively, you can expend 1 Focus Point to take both the [Disengage](Compendium/rules/actions.md#Disengage) and [Dash](Compendium/rules/actions.md#Dash) actions as a [[Bonus Action]], and your jump distance is doubled for the turn.
+You can take the [Dash](Actions.md#Dash) action as a [[Bonus Action]]. Alternatively, you can expend 1 Focus Point to take both the [Disengage](Actions.md#Disengage) and [Dash](Actions.md#Dash) actions as a [[Bonus Action]], and your jump distance is doubled for the turn.
 
 ### Unarmored Movement (Level 2)
 
@@ -145,7 +145,7 @@ You can take a [[Reaction]] when you fall to reduce any damage you take from the
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](Actions.md#Attack) action on your turn.
 
 ### Stunning Strike (Level 5)
 

@@ -60,7 +60,7 @@ Make a Dexterity ([Sleight of Hand](Compendium/rules/skills.md#Sleight of Hand))
 
 #### Use an Object
 
-Take the [Utilize](Compendium/rules/actions.md#Utilize) action, or take the [Magic](Compendium/rules/actions.md#Magic) action to use a magic item that requires that action.
+Take the [Utilize](Actions.md#Utilize) action, or take the [Magic](Actions.md#Magic) action to use a magic item that requires that action.
 
 ### Second-Story Work (Level 3)
 
@@ -80,7 +80,7 @@ You gain the following Cunning Strike option.
 
 #### Stealth Attack (Cost: 1d6)
 
-If you have the [Hide](Compendium/rules/actions.md#Hide) action's [Invisible](Conditions.md#Invisible) condition, this attack doesn't end that condition on you if you end the turn behind [[cover-xphb]] or [[cover-xphb]].
+If you have the [Hide](Actions.md#Hide) action's [Invisible](Conditions.md#Invisible) condition, this attack doesn't end that condition on you if you end the turn behind [[cover-xphb]] or [[cover-xphb]].
 
 ### Use Magic Device (Level 13)
 

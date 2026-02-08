@@ -36,11 +36,11 @@ Your horns are natural melee weapons, which you can use to make unarmed strikes.
 
 ### Goring Rush
 
-Immediately after you use the [Dash](Compendium/rules/actions.md#Dash) action on your turn and move at least 20 feet, you can make one melee attack with your horns as a bonus action.
+Immediately after you use the [Dash](Actions.md#Dash) action on your turn and move at least 20 feet, you can make one melee attack with your horns as a bonus action.
 
 ### Hammering Horns
 
-Immediately after you hit a creature with a melee attack as part of the [Attack](Compendium/rules/actions.md#Attack) action on your turn, you can use a bonus action to attempt to shove that target with your horns. The target must be no more than one size larger than you and within 5 feet of you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you push it up to 10 feet away from you.
+Immediately after you hit a creature with a melee attack as part of the [Attack](Actions.md#Attack) action on your turn, you can use a bonus action to attempt to shove that target with your horns. The target must be no more than one size larger than you and within 5 feet of you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you push it up to 10 feet away from you.
 
 ### Imposing Presence
 

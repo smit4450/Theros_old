@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ffb4c69c5c01ba07",
+        "id": "92dfd9dbee3ab3c3",
         "type": "tabs",
         "children": [
           {
-            "id": "ac480fb233ddbd08",
+            "id": "143fafab419d5feb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -196,11 +200,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ac480fb233ddbd08",
+  "active": "143fafab419d5feb",
   "lastOpenFiles": [
-    "index.md",
-    "Compendium/rules/actions.md",
+    "Compendium/rules/Skills.md",
+    "Compendium/rules/Senses.md",
+    "Compendium/rules/Diseases.md",
+    "Compendium/rules/Conditions.md",
+    "Compendium/rules/Actions.md",
+    "Compendium/rules/Item Types.md",
     "Compendium/tables/Actions (table).md",
+    "index.md",
     "Compendium/items/Bead of Nourishment.md",
     "Compendium/tables/Arcana - Common.md",
     "Compendium/tables/Amphitheater Villains.md",
@@ -218,11 +227,6 @@
     "Compendium/tables/Adjudicating Areas of Effect; Targets in Area of Effect.md",
     "Compendium/tables/Adding Basic Facilities.md",
     "Compendium/tables/Actions in Combat; Describing Actions.md",
-    "Compendium/tables/Ability Scores.md",
-    "Compendium/tables/Ability Score Point Costs.md",
-    "Compendium/tables/Ability Modifiers.md",
-    "Compendium/tables/Ability Modifier; Saving Throw Examples.md",
-    "Compendium/tables/Ability Modifier; Attack Roll Abilities.md",
-    "Compendium/tables/Ability Modifier; Ability Check Examples.md"
+    "Compendium/tables/Ability Scores.md"
   ]
 }

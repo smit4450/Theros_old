@@ -57,7 +57,7 @@ Here are definitions of various rules.
 > ![[Armor Training]]
 
 > [!embed-action]- Attack
-> ![Attack](Compendium/rules/actions.md#Attack)
+> ![Attack](Actions.md#Attack)
 
 > [!embed-variantrule]- Attack Roll
 > ![[Attack Roll]]
@@ -171,7 +171,7 @@ Here are definitions of various rules.
 > ![Darkvision](Senses.md#Darkvision)
 
 > [!embed-action]- Dash
-> ![Dash](Compendium/rules/actions.md#Dash)
+> ![Dash](Actions.md#Dash)
 
 > [!embed-variantrule]- Dead
 > ![[Dead]]
@@ -198,10 +198,10 @@ Here are definitions of various rules.
 > ![[Disadvantage]]
 
 > [!embed-action]- Disengage
-> ![Disengage](Compendium/rules/actions.md#Disengage)
+> ![Disengage](Actions.md#Disengage)
 
 > [!embed-action]- Dodge
-> ![Dodge](Compendium/rules/actions.md#Dodge)
+> ![Dodge](Actions.md#Dodge)
 
 > [!embed-variantrule]- Emanation [Area of Effect]
 > ![[Emanation (Area of Effect)]]
@@ -252,13 +252,13 @@ Here are definitions of various rules.
 > ![[Heavily Obscured]]
 
 > [!embed-action]- Help
-> ![Help](Compendium/rules/actions.md#Help)
+> ![Help](Actions.md#Help)
 
 > [!embed-variantrule]- Heroic Inspiration
 > ![[Heroic Inspiration]]
 
 > [!embed-action]- Hide
-> ![Hide](Compendium/rules/actions.md#Hide)
+> ![Hide](Actions.md#Hide)
 
 > [!embed-variantrule]- High Jump
 > ![[High Jump]]
@@ -291,7 +291,7 @@ Here are definitions of various rules.
 > ![[Indifferent (Attitude)]]
 
 > [!embed-action]- Influence
-> ![Influence](Compendium/rules/actions.md#Influence)
+> ![Influence](Actions.md#Influence)
 
 > [!embed-variantrule]- Initiative
 > ![[Initiative]]
@@ -318,7 +318,7 @@ Here are definitions of various rules.
 > ![[Long Rest]]
 
 > [!embed-action]- Magic
-> ![Magic](Compendium/rules/actions.md#Magic)
+> ![Magic](Actions.md#Magic)
 
 > [!embed-variantrule]- Magical Effect
 > ![[Magical Effect]]
@@ -372,7 +372,7 @@ Here are definitions of various rules.
 > ![[Reaction]]
 
 > [!embed-action]- Ready
-> ![Ready](Compendium/rules/actions.md#Ready)
+> ![Ready](Actions.md#Ready)
 
 > [!embed-variantrule]- Resistance
 > ![[Compendium/spells/Resistance]]
@@ -393,7 +393,7 @@ Here are definitions of various rules.
 > ![[Saving Throw]]
 
 > [!embed-action]- Search
-> ![Search](Compendium/rules/actions.md#Search)
+> ![Search](Actions.md#Search)
 
 > [!embed-variantrule]- Shape-Shifting
 > ![[Shape-Shifting]]
@@ -432,7 +432,7 @@ Here are definitions of various rules.
 > ![[Stat Block]]
 
 > [!embed-action]- Study
-> ![Study](Compendium/rules/actions.md#Study)
+> ![Study](Actions.md#Study)
 
 > [!embed-condition]- Stunned
 > ![Stunned](Conditions.md#Stunned)
@@ -477,7 +477,7 @@ Here are definitions of various rules.
 > ![[Unoccupied Space]]
 
 > [!embed-action]- Utilize
-> ![Utilize](Compendium/rules/actions.md#Utilize)
+> ![Utilize](Actions.md#Utilize)
 
 > [!embed-variantrule]- Vulnerability
 > ![[Vulnerability]]

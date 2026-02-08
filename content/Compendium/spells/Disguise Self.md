@@ -41,7 +41,7 @@ You make yourself—including your clothing, armor, weapons, and other belonging
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing.
 
-To discern that you are disguised, a creature must take the [Study](Compendium/rules/actions.md#Study) action to inspect your appearance and succeed on an Intelligence ([Investigation](Skills.md#Investigation)) check against your spell save DC.
+To discern that you are disguised, a creature must take the [Study](Actions.md#Study) action to inspect your appearance and succeed on an Intelligence ([Investigation](Skills.md#Investigation)) check against your spell save DC.
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Cleric (Trickery Domain)](Spells%20for%20Trickery%20Domain.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Ranger (Gloom Stalker)](Spells%20for%20Gloom%20Stalker.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [Wizard (Illusionist)](Spells%20for%20Illusionist.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 

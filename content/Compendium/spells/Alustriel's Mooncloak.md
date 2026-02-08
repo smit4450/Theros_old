@@ -31,7 +31,7 @@ For the duration, moonlight fills a 20-foot [[Emanation (Area of Effect)]] origi
 While the spell lasts, you can use one of the following options, ending the spell immediately:
 
 - **Liberation.** When you fail a saving throw to avoid or end the [Frightened](Conditions.md#Frightened), [Grappled](Conditions.md#Grappled), or [Restrained](Conditions.md#Restrained) condition, you can take a [[Reaction]] to succeed on the save instead.  
-- **Respite.** As a [Magic](Compendium/rules/actions.md#Magic) action, you or an ally within the area regains [[Hit Points]] equal to `4d10` plus your spellcasting ability modifier.  
+- **Respite.** As a [Magic](Actions.md#Magic) action, you or an ally within the area regains [[Hit Points]] equal to `4d10` plus your spellcasting ability modifier.  
 
 **Classes**: [[Bard Spells]]; [[Druid Spells]]; [[Ranger Spells]]; [Wizard (Abjurer)](Spells%20for%20Abjurer.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 

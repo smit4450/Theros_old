@@ -13,7 +13,7 @@ tags:
 | dice: 1d20 | Minor Property |
 |------------|----------------|
 | 1–2 | Beacon. You can take a Bonus Action to cause the item to shed [[Bright Light]] in a 10-foot radius and [[Dim Light]] for an additional 10 feet, or to extinguish the light. |
-| 3 | Compass. You can take a [Magic](Compendium/rules/actions.md#Magic) action to learn which way is magnetic north. Nothing happens if this property is used in a location that has no magnetic north. |
+| 3 | Compass. You can take a [Magic](Actions.md#Magic) action to learn which way is magnetic north. Nothing happens if this property is used in a location that has no magnetic north. |
 | 4 | Delver. While underground, you always know the item's depth below the surface and the direction to the nearest staircase, ramp, or other path leading upward. |
 | 5–6 | Guardian. The item warns you, granting a +2 bonus to your [[Initiative]] rolls if you don't have the [Incapacitated](Conditions.md#Incapacitated) condition. |
 | 7–8 | Harmonious. Attuning to this item takes only 1 minute. |
@@ -24,7 +24,7 @@ tags:
 | 14–15 | Strange Material. The item was created from a material that is bizarre given its purpose. Its durability is unaffected. |
 | 16 | Temperate. You are unharmed by temperatures of 0 degrees Fahrenheit or lower, and 100 degrees Fahrenheit or higher. |
 | 17 | Unbreakable. The item can't be broken. Special means must be used to destroy it. |
-| 18 | War Leader. You can take a [Magic](Compendium/rules/actions.md#Magic) action to cause your voice or signal to carry clearly for up to 600 feet until the end of your next turn. |
+| 18 | War Leader. You can take a [Magic](Actions.md#Magic) action to cause your voice or signal to carry clearly for up to 600 feet until the end of your next turn. |
 | 19 | Waterborne. This item floats on water and other liquids. You have [[Advantage]] on Strength ([Athletics](Skills.md#Athletics)) checks to swim. |
 | 20 | Roll twice, rerolling any additional 20s. |
 ^magic-items-minor-property

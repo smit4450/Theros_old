@@ -9,4 +9,4 @@ tags:
 # Evasive Footwork
 *Source: Player's Handbook (2024) p. 95*  
 
-As a [[Bonus Action]], you can expend one Superiority Die and take the [Disengage](Compendium/rules/actions.md#Disengage) action. You also roll the die and add the number rolled to your AC until the start of your next turn.
+As a [[Bonus Action]], you can expend one Superiority Die and take the [Disengage](Actions.md#Disengage) action. You also roll the die and add the number rolled to your AC until the start of your next turn.

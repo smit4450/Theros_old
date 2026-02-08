@@ -92,7 +92,7 @@ You can have up to two bonded weapons, but you can summon only one at a time wit
 
 ### War Magic (Level 7)
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn, you can replace one of the attacks with a casting of one of your Wizard cantrips that has a casting time of an action.
+When you take the [Attack](Actions.md#Attack) action on your turn, you can replace one of the attacks with a casting of one of your Wizard cantrips that has a casting time of an action.
 
 ### Eldritch Strike (Level 10)
 
@@ -104,4 +104,4 @@ When you use your Action Surge, you can teleport up to 30 feet to an unoccupied 
 
 ### Improved War Magic (Level 18)
 
-When you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn, you can replace two of the attacks with a casting of one of your level 1 or level 2 Wizard spells that has a casting time of an action.
+When you take the [Attack](Actions.md#Attack) action on your turn, you can replace two of the attacks with a casting of one of your level 1 or level 2 Wizard spells that has a casting time of an action.

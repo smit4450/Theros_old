@@ -64,7 +64,7 @@ While your Rage is active, you have [[Compendium/spells/Resistance]] to every da
 
 #### Eagle
 
-When you activate your Rage, you can take the [Disengage](Compendium/rules/actions.md#Disengage) and [Dash](Compendium/rules/actions.md#Dash) actions as part of that [[Bonus Action]]. While your Rage is active, you can take a [[Bonus Action]] to take both of those actions.
+When you activate your Rage, you can take the [Disengage](Actions.md#Disengage) and [Dash](Actions.md#Dash) actions as part of that [[Bonus Action]]. While your Rage is active, you can take a [[Bonus Action]] to take both of those actions.
 
 #### Wolf
 

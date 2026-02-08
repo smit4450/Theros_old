@@ -26,7 +26,7 @@ classes:
 
 For the duration, your eyes become an inky void. One creature of your choice within 60 feet of you that you can see must succeed on a Wisdom saving throw or be affected by one of the following effects of your choice for the duration.
 
-On each of your turns until the spell ends, you can take a [Magic](Compendium/rules/actions.md#Magic) action to target another creature but can't target a creature again if it has succeeded on a save against this casting of the spell.
+On each of your turns until the spell ends, you can take a [Magic](Compendium/ru[Magic](Actions.md#Magic)ther creature but can't target a creature again if it has succeeded on a save against this casting of the spell.
 
 ## Asleep
 
@@ -34,7 +34,7 @@ The target has the [Unconscious](Conditions.md#Unconscious) condition. It wakes 
 
 ## Panicked
 
-The target has the [Frightened](Conditions.md#Frightened) condition. On each of its turns, the [Frightened](Conditions.md#Frightened) target must take the [Dash](Compendium/rules/actions.md#Dash) action and move away from you by the safest and shortest route available. If the target moves to a space at least 60 feet away from you where it can't see you, this effect ends.
+The target has the [Frightened](Conditions.md#Frightened) condition. On each of its turns, the [Frightened](Conditions.md#Frightened) target must take the [Dash](Compendium/rul[Dash](Actions.md#Dash) from you by the safest and shortest route available. If the target moves to a space at least 60 feet away from you where it can't see you, this effect ends.
 
 ## Sickened
 

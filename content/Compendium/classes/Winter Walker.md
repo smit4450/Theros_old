@@ -73,7 +73,7 @@ When you hit a creature with an attack roll using a weapon, you can deal an extr
 
 Ice rimes you and your prey, protecting you and slowing them. When you cast [[Hunter's Mark]], you gain [[Temporary Hit Points]] equal to `1d10` plus your [[ranger-xphb]] level.
 
-Additionally, while a creature is marked[[Ranger|Ranger]]k-xphb]], it can't take the [Disengage](Compendium/rules/actions.md#Disengage) action.
+Additionally, while a creature is marked[[Ranger|Ranger]]k-xphb]], it can't take the [Disengage](Actions.md#Disengage) action.
 
 ### Winter Walker Spells (Level 3)
 

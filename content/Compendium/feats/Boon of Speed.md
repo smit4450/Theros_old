@@ -15,6 +15,6 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
 
-**Escape Artist.** As a [[Bonus Action]], you can take the [Disengage](Compendium/rules/actions.md#Disengage) action, which also ends the [Grappled](Conditions.md#Grappled) condition on you.
+**Escape Artist.** As a [[Bonus Action]], you can take the [Disengage](Actions.md#Disengage) action, which also ends the [Grappled](Conditions.md#Grappled) condition on you.
 
 **Quickness.** Your [[Speed]] increases by 30 feet.

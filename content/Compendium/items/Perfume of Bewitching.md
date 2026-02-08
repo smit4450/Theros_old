@@ -10,6 +10,6 @@ tags:
 
 
 
-This tiny vial contains magic perfume, enough for one use. You can take a [Magic](Compendium/rules/actions.md#Magic) action to apply the perfume to yourself, and its effect lasts 1 hour. For the duration, you have [[Advantage]] on all Charisma ([Deception](Skills.md#Deception) and [Persuasion](Skills.md#Persuasion)) checks made to influence a creature within 5 feet of yourself.
+This tiny vial contains magic perfume, enough for one use. You can take a [Magic](Actions.md#Magic) action to apply the perfume to yourself, and its effect lasts 1 hour. For the duration, you have [[Advantage]] on all Charisma ([Deception](Skills.md#Deception) and [Persuasion](Skills.md#Persuasion)) checks made to influence a creature within 5 feet of yourself.
 
 *Source: Dungeon Master's Guide (2024) p. 284*

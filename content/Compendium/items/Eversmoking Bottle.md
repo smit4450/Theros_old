@@ -10,7 +10,7 @@ tags:
 ![](Compendium/items/img/eversmoking-bottle.webp#right)
 
 
-As a [Magic](Compendium/rules/actions.md#Magic) action, you can open or close this bottle.
+As a [Magic](Actions.md#Magic) action, you can open or close this bottle.
 
 Opening the bottle causes thick smoke to billow out, forming a cloud that fills a 60-foot [[Emanation (Area of Effect)]] originating from the bottle. The area within the smoke is [[Heavily Obscured]].
 

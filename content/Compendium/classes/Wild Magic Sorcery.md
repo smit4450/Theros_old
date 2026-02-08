@@ -70,7 +70,7 @@ You have the ability to twist fate using your wild magic. Immediately after anot
 
 ### Controlled Chaos (Level 14)
 
-You gain a modicum of control over the surges of your wild magic. Whenever you roll on the Wild [Magic](Compendium/rules/actions.md#Magic) Surge table, you can roll twice and use either number.
+You gain a modicum of control over the surges of your wild magic. Whenever you roll on the Wild [Magic](Actions.md#Magic) Surge table, you can roll twice and use either number.
 
 ### Tamed Surge (Level 18)
 

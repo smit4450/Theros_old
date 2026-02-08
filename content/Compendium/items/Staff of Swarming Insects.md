@@ -22,7 +22,7 @@ This staff has 10 charges.
 
 ## Insect Cloud
 
-While holding the staff , you can take a [Magic](Compendium/rules/actions.md#Magic) action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot [[Emanation (Area of Effect)]] originating from you. The insects remain for 10 minutes, making the area [[Heavily Obscured]] for creatures other than you. A strong wind (like that created by [[Gust of Wind]]) disperses the swarm and ends the effect.
+While holding the staff , you can take a [Magic](Actions.md#Magic) action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot [[Emanation (Area of Effect)]] originating from you. The insects remain for 10 minutes, making the area [[Heavily Obscured]] for creatures other than you. A strong wind (like that created by [[Gust of Wind]]) disperses the swarm and ends the effect.
 
 ## Spells
 

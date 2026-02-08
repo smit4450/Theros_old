@@ -20,7 +20,7 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 ## Nick
 _Source: Player's Handbook (2024) p. 214. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-When you make the extra attack of the Light property, you can make it as part of the [Attack](Compendium/rules/actions.md#Attack) action instead of as a [[Bonus Action]]. You can make this extra attack only once per turn.
+When you make the extra attack of the Light property, you can make it as part of the [Attack](Actions.md#Attack) action instead of as a [[Bonus Action]]. You can make this extra attack only once per turn.
 
 ## Push
 _Source: Player's Handbook (2024) p. 214. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

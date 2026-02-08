@@ -38,7 +38,7 @@ While holding the staff, you can cast one of the spells on the following table f
 
 ## Tree Form
 
-You can take a [Magic](Compendium/rules/actions.md#Magic) action to plant one end of the staff in earth in an unoccupied space and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of Transmutation magic that can be discerned with the [[Detect Magic]] spell. While touching the tree and using a [Magic](Compendium/rules/actions.md#Magic) action, you return the staff to its normal form. Any creature in the tree falls when the tree reverts to a staff.
+You can take a [Magic](Actions.md#Magic) action to plant one end of the staff in earth in an unoccupied space and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of Transmutation magic that can be discerned with the [[Detect Magic]] spell. While touching the tree and using a [Magic](Actions.md#Magic) action, you return the staff to its normal form. Any creature in the tree falls when the tree reverts to a staff.
 
 ## Regaining Charges
 
