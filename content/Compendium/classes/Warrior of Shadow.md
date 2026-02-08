@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/monk/shadow
-aliases:
-- Warrior of Shadow
 ---
 # Warrior of Shadow
 *[[Monk|Monk]]nk Subclass*  

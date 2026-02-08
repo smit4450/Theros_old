@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Arcane Study
 ---
 # Arcane Study
 *Level 5 Bastion facility*  

@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/reward/kruphixs-devotee
-aliases:
-- Spells for Kruphix's Devotee
 ---
 # Spells for Kruphix's Devotee
 

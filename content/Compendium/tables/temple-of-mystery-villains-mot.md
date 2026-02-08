@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Temple of Mystery Villains
 ---
 # Temple of Mystery Villains
 *Source: Mythic Odysseys of Theros p. 150* 

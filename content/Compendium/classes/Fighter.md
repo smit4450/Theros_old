@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/class/fighter
 - ttrpg-cli/compendium/src/5e/xphb
-aliases:
-- Fighter
 ---
 # Fighter
 *Source: Player's Handbook (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

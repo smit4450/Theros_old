@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/reward/piety-trait
-aliases:
-- Heliod's Devotee
 ---
 # Heliod's Devotee
 *Piety Trait*  

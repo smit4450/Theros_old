@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Demiplane
 ---
 # Demiplane
 *Level 17 Bastion facility*  

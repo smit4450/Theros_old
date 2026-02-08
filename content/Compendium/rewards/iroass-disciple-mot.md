@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/reward/piety-trait
-aliases:
-- Iroas's Disciple
 ---
 # Iroas's Disciple
 *Piety Trait*  

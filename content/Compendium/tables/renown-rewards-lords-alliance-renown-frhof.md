@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
-aliases:
-- Renown Rewards; Lords' Alliance Renown
 ---
 # Renown Rewards; Lords' Alliance Renown
 *Source: FRHoF* 

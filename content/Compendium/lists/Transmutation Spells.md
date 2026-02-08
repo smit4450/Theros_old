@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/school/transmutation
-aliases:
-- Transmutation Spells
 ---
 # Transmutation Spells
 

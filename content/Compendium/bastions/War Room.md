@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- War Room
 ---
 # War Room
 *Level 17 Bastion facility*  

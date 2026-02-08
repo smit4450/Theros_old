@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/reward/piety-trait
-aliases:
-- Athreos's Devotee
 ---
 # Athreos's Devotee
 *Piety Trait*  

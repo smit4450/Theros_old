@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases:
-- Alignment and Personality; Personality Traits by Alignment
 ---
 # Alignment and Personality; Personality Traits by Alignment
 *Source: Player's Handbook (2024) p. 40* 

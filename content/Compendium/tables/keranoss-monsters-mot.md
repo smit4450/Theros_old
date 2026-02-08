@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Keranos's Monsters
 ---
 # Keranos's Monsters
 *Source: Mythic Odysseys of Theros p. 140* 

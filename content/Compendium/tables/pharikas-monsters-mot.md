@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Pharika's Monsters
 ---
 # Pharika's Monsters
 *Source: Mythic Odysseys of Theros p. 160* 

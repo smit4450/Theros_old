@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Volcano Temple Adventures
 ---
 # Volcano Temple Adventures
 *Source: Mythic Odysseys of Theros p. 170* 

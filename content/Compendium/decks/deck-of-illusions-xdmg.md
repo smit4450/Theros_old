@@ -4,8 +4,6 @@ cssclasses:
 - json5e-deck
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Deck of Illusions
 ---
 # Deck of Illusions
 *Source: Dungeon Master's Guide (2024) p. 249. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  

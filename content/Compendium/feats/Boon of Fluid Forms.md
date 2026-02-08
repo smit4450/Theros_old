@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Boon of Fluid Forms
 ---
 # Boon of Fluid Forms
 *Source: FRHoF p. 42*  

@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Boon of Fortune's Favor
 ---
 # Boon of Fortune's Favor
 *Source: FRHoF p. 43*  

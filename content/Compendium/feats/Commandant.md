@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Purple Dragon Commandant
 ---
 # Commandant
 *Source: FRHoF p. 40*  

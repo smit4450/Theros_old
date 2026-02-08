@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/subclass/rogue/scion-of-the-three
-aliases:
-- Scion of the Three
 ---
 # Agent of Death
 * [[Rogue]]: Rogue Subclass*  

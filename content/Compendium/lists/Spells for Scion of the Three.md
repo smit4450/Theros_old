@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/scion-of-the-three
-aliases:
-- Spells for Scion of the Three
 ---
 # Spells for Scion of the Three
 

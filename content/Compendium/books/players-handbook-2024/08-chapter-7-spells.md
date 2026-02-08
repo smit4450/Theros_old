@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases:
-- Chapter 7: Spells
 ---
 # Chapter 7: Spells
 *Source: Player's Handbook (2024), p. 235* 

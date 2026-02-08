@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/reward/piety-trait
-aliases:
-- Champion of Deception
 ---
 # Champion of Deception
 *Piety Trait*  

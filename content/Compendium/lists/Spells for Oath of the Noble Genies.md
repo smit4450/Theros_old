@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/oath-of-the-noble-genies
-aliases:
-- Spells for Oath of the Noble Genies
 ---
 # Spells for Oath of the Noble Genies
 

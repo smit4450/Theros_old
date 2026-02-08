@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- 25 GP Art Objects
 ---
 # 25 GP Art Objects
 *Source: Dungeon Master's Guide (2024) p. 215* 

@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/blessing
-aliases:
-- Blessing of Weapon Enhancement
 ---
 # Blessing of Weapon Enhancement
 

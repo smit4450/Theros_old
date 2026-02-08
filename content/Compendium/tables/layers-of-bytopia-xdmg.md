@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Layers of Bytopia
 ---
 # Layers of Bytopia
 *Source: Dungeon Master's Guide (2024) p. 186* 

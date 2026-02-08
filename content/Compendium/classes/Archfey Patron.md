@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/warlock/archfey
-aliases:
-- Archfey Patron
 ---
 # Archfey Patron
 * [[Warlock]]: Warlock Subclass*  

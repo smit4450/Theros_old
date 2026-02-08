@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases:
-- Chapter 6: Equipment
 ---
 # Chapter 6: Equipment
 *Source: Player's Handbook (2024), p. 213* 

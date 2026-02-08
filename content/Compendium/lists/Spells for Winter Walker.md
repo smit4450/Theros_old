@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/winter-walker
-aliases:
-- Spells for Winter Walker
 ---
 # Spells for Winter Walker
 

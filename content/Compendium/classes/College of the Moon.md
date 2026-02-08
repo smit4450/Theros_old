@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/subclass/bard/moon
-aliases:
-- College of the Moon
 ---
 # College of the Moon
 * [[Bard]]: Bard Subclass*  

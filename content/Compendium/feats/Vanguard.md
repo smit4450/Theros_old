@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Purple Dragon Rook
 ---
 # Vanguard
 *Source: FRHoF p. 38*  

@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/reward/piety-trait
-aliases:
-- Pharika's Devotee
 ---
 # Pharika's Devotee
 *Piety Trait*  

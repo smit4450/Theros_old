@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/life-domain
-aliases:
-- Spells for Life Domain
 ---
 # Spells for Life Domain
 

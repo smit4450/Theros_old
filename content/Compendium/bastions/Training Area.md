@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Training Area
 ---
 # Training Area
 *Level 9 Bastion facility*  

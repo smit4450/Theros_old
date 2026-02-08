@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/rogue/soulknife
-aliases:
-- Soulknife
 ---
 # Soulknife
 * [[Rogue]]: Rogue Subclass*  

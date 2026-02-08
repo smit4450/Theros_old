@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/env
-aliases:
-- Wild Magic Zone
 ---
 # Wild Magic Zone
 *Environmental Hazard*  

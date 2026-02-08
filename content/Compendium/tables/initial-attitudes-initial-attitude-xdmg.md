@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Initial Attitudes; Initial Attitude
 ---
 # Initial Attitudes; Initial Attitude
 *Source: Dungeon Master's Guide (2024) p. 116* 

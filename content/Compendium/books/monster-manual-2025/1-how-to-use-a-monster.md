@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases:
-- How to Use a Monster
 ---
 # How to Use a Monster
 *Source: Monster Manual (2025), p. 5* 

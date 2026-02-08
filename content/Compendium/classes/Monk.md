@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/class/monk
 - ttrpg-cli/compendium/src/5e/xphb
-aliases:
-- Monk
 ---
 # Monk
 *Source: Player's Handbook (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

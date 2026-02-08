@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Chapter 7: Treasure
 ---
 # Chapter 7: Treasure
 *Source: Dungeon Master's Guide (2024), p. 213* 

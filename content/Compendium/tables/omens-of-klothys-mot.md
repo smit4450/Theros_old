@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Omens of Klothys
 ---
 # Omens of Klothys
 *Source: Mythic Odysseys of Theros p. 111* 

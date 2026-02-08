@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/diviner
-aliases:
-- Spells for Diviner
 ---
 # Spells for Diviner
 

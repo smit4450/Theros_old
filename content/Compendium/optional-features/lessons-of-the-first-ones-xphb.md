@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/ei
-aliases:
-- Lessons of the First Ones
 ---
 # Lessons of the First Ones
 *Source: Player's Handbook (2024) p. 156*  

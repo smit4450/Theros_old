@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations
 ---
 # Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations
 *Source: Dungeon Master's Guide (2024) p. 106* 

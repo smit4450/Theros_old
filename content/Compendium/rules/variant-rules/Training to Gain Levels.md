@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Training to Gain Levels
 ---
 # Training to Gain Levels
 *Source: Dungeon Master's Guide (2024) p. 49* 

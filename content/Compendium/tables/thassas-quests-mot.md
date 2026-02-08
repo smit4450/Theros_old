@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Thassa's Quests
 ---
 # Thassa's Quests
 *Source: Mythic Odysseys of Theros p. 172* 

@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
-aliases:
-- Time in the Realms; Calendar of Harptos
 ---
 # Time in the Realms; Calendar of Harptos
 *Source: FRHoF* 

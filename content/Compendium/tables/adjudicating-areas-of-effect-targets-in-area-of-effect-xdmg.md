@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Adjudicating Areas of Effect; Targets in Area of Effect
 ---
 # Adjudicating Areas of Effect; Targets in Area of Effect
 *Source: Dungeon Master's Guide (2024) p. 82* 

@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/charm
-aliases:
-- Arcane Study Charm
 ---
 # Arcane Study Charm
 *Charm*  

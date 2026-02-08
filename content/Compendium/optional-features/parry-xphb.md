@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/mv-b
-aliases:
-- Parry
 ---
 # Parry
 *Source: Player's Handbook (2024) p. 95*  

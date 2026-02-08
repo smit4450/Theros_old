@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Resolving Outcomes; Abilities, Ability Checks, and Saving Throws
 ---
 # Resolving Outcomes; Abilities, Ability Checks, and Saving Throws
 *Source: Dungeon Master's Guide (2024) p. 27. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 

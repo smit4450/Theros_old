@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/circle-of-the-stars
-aliases:
-- Spells for Circle of the Stars
 ---
 # Spells for Circle of the Stars
 

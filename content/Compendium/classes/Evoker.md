@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/wizard/evoker
-aliases:
-- Evoker
 ---
 # Evoker
 *[[Wizard|Wizard]]rd Subclass*  

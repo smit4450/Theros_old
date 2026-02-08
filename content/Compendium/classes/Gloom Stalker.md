@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/ranger/gloom-stalker
-aliases:
-- Gloom Stalker
 ---
 # Gloom Stalker
 * [[Ranger]]: Ranger Subclass*  

@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/blessed-warrior
-aliases:
-- Spells for Blessed Warrior
 ---
 # Spells for Blessed Warrior
 

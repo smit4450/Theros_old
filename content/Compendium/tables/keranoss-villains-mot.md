@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Keranos's Villains
 ---
 # Keranos's Villains
 *Source: Mythic Odysseys of Theros p. 140* 

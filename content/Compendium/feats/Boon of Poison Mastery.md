@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Boon of Poison Mastery
 ---
 # Boon of Poison Mastery
 *Source: FRHoF p. 43*  

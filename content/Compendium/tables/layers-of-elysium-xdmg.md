@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Layers of Elysium
 ---
 # Layers of Elysium
 *Source: Dungeon Master's Guide (2024) p. 191* 

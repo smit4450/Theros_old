@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/telepathic
-aliases:
-- Spells for Telepathic
 ---
 # Spells for Telepathic
 

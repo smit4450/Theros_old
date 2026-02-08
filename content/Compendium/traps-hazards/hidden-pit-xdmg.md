@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/trp
-aliases:
-- Hidden Pit
 ---
 # Hidden Pit
 *Generic Hazard*  

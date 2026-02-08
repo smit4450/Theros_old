@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/reward/purphoross-devotee
-aliases:
-- Spells for Purphoros's Devotee
 ---
 # Spells for Purphoros's Devotee
 

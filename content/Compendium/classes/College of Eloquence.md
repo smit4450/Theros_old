@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/subclass/bard/eloquence
-aliases:
-- College of Eloquence
 ---
 # College of Eloquence
 *[[Bard|Bard]]rd Subclass*  

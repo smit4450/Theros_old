@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/rogue/arcane-trickster
-aliases:
-- Arcane Trickster
 ---
 # Arcane Trickster
 *[Rogue](Rogue.md)ubclass*  

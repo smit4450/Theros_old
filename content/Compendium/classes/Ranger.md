@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/class/ranger
 - ttrpg-cli/compendium/src/5e/xphb
-aliases:
-- Ranger
 ---
 # Ranger
 *Source: Player's Handbook (2024) p. 118. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

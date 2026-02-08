@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/archfey-patron
-aliases:
-- Spells for Archfey Patron
 ---
 # Spells for Archfey Patron
 

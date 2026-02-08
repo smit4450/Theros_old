@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/abjurer
-aliases:
-- Spells for Abjurer
 ---
 # Spells for Abjurer
 

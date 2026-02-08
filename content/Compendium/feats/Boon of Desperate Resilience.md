@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Boon of Desperate Resilience
 ---
 # Boon of Desperate Resilience
 *Source: FRHoF p. 42*  

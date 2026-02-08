@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Courtyard
 ---
 # Courtyard
 *Bastion facility*  

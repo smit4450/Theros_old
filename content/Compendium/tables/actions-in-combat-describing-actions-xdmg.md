@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Actions in Combat; Describing Actions
 ---
 # Actions in Combat; Describing Actions
 *Source: Dungeon Master's Guide (2024) p. 46* 

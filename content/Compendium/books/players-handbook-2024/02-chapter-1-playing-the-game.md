@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases:
-- Chapter 1: Playing the Game
 ---
 # Chapter 1: Playing the Game
 *Source: Player's Handbook (2024), p. 7* 

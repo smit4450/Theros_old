@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/reward/piety-trait
-aliases:
-- Erebos's Disciple
 ---
 # Erebos's Disciple
 *Piety Trait*  

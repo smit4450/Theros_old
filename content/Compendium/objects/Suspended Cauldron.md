@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/large
 - ttrpg-cli/object/type/siege-weapon
-aliases:
-- Suspended Cauldron
 ---
 # Suspended Cauldron
 %%-- Embedded content starts on the next line. --%%

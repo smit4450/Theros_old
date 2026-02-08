@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
-aliases:
-- Order of the Gauntlet Renown
 ---
 # Order of the Gauntlet Renown
 *Source: FRHoF* 

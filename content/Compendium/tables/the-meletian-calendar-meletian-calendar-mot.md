@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- The Meletian Calendar; Meletian Calendar
 ---
 # The Meletian Calendar; Meletian Calendar
 *Source: Mythic Odysseys of Theros p. 85* 

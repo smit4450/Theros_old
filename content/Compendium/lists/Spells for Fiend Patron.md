@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/fiend-patron
-aliases:
-- Spells for Fiend Patron
 ---
 # Spells for Fiend Patron
 

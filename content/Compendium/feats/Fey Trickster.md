@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Fairy Trickster
 ---
 # Fey Trickster
 *Source: FRHoF p. 39*  

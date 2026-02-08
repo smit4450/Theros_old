@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/paladin/devotion
-aliases:
-- Oath of Devotion
 ---
 # Oath of Devotion
 * [[Paladin]]: Paladin Subclass*  

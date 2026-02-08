@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Mythal Touched
 ---
 # Hieromancer Initiate
 *Source: FRHoF p. 40*  

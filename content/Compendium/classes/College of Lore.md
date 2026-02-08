@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/bard/lore
-aliases:
-- College of Lore
 ---
 # College of Lore
 * [[Bard]]: Bard Subclass*  

@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Order's Resilience
 ---
 # Order's Resilience
 *Source: FRHoF p. 40*  

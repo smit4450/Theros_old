@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases:
-- Chapter 4: Character Origins
 ---
 # Chapter 4: Character Origins
 *Source: Player's Handbook (2024), p. 176* 

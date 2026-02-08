@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases:
-- Monsters by Habitat; Any Habitat Monsters
 ---
 # Monsters by Habitat; Any Habitat Monsters
 *Source: Monster Manual (2024) p. 375* 

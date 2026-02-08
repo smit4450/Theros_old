@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/reward/iroass-devotee
-aliases:
-- Spells for Iroas's Devotee
 ---
 # Spells for Iroas's Devotee
 

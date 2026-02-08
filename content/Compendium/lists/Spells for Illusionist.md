@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/illusionist
-aliases:
-- Spells for Illusionist
 ---
 # Spells for Illusionist
 

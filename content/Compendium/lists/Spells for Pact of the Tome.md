@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/optfeature/pact-of-the-tome
-aliases:
-- Spells for Pact of the Tome
 ---
 # Spells for Pact of the Tome
 

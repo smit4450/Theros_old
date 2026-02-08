@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Karametra's Monsters
 ---
 # Karametra's Monsters
 *Source: Mythic Odysseys of Theros p. 136* 

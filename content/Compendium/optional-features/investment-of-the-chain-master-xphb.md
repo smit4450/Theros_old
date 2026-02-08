@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/ei
-aliases:
-- Investment of the Chain Master
 ---
 # Investment of the Chain Master
 *Source: Player's Handbook (2024) p. 156*  

@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/fighter/psi-warrior
-aliases:
-- Psi Warrior
 ---
 # Psi Warrior
 * [[Fighter]]: Fighter Subclass*  

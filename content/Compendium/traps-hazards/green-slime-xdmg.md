@@ -4,8 +4,6 @@ cssclasses:
 - json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Green Slime
 ---
 # Green Slime
 *Generic Hazard*  

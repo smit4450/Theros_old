@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Nyxborn Creatures; Nyxborn Monster Origin
 ---
 # Nyxborn Creatures; Nyxborn Monster Origin
 *Source: Mythic Odysseys of Theros p. 203* 

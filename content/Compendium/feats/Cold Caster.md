@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Cold Caster
 ---
 # Cold Caster
 *Source: FRHoF p. 39*  

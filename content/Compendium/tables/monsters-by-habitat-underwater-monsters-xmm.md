@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases:
-- Monsters by Habitat; Underwater Monsters
 ---
 # Monsters by Habitat; Underwater Monsters
 *Source: Monster Manual (2024) p. 375* 

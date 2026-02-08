@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Iroas's Quests
 ---
 # Iroas's Quests
 *Source: Mythic Odysseys of Theros p. 132* 

@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/druid/moon
-aliases:
-- Circle of the Moon
 ---
 # Circle of the Moon
 * [[Compendium/classes/Druid]]: Druid Subclass*  

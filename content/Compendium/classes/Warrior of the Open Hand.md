@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/monk/open-hand
-aliases:
-- Warrior of the Open Hand
 ---
 # Warrior of the Open Hand
 * [[Monk]]: Monk Subclass*  

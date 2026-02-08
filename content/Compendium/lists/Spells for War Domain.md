@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/war-domain
-aliases:
-- Spells for War Domain
 ---
 # Spells for War Domain
 

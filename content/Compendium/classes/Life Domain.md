@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/domain/life
 - ttrpg-cli/subclass/cleric/life
-aliases:
-- Life Domain
 ---
 # Life Domain
 *[[Cleric|Cleric]]ic Subclass*  

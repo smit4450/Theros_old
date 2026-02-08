@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Special Purpose; Sentient Item's Communication
 ---
 # Special Purpose; Sentient Item's Communication
 *Source: Dungeon Master's Guide (2024) p. 226* 

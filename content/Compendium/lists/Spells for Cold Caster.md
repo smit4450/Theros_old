@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/cold-caster
-aliases:
-- Spells for Cold Caster
 ---
 # Spells for Cold Caster
 

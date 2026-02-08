@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Appendix C: Tracking Sheets
 ---
 # Appendix C: Tracking Sheets
 *Source: Dungeon Master's Guide (2024)* 

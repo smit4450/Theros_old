@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/druid/stars
-aliases:
-- Circle of the Stars
 ---
 # Circle of the Stars
 * [[Compendium/classes/Druid]]: Druid Subclass*  

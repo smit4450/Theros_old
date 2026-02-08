@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Boon of the Soul Drinker
 ---
 # Boon of the Soul Drinker
 *Source: FRHoF p. 43*  

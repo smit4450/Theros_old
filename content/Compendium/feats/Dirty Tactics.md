@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Zhentarim Tactics
 ---
 # Dirty Tactics
 *Source: FRHoF p. 41*  

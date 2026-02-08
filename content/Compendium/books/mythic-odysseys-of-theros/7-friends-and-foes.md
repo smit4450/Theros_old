@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Friends and Foes
 ---
 # Friends and Foes
 *Source: Mythic Odysseys of Theros, p. 203* 

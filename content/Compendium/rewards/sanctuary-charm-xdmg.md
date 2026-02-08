@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/charm
-aliases:
-- Sanctuary Charm
 ---
 # Sanctuary Charm
 *Charm*  

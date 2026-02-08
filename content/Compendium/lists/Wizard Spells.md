@@ -1,11 +1,10 @@
 ---
 obsidianUIMode: preview
 cssclasses:
-- json5e-note
+  - json5e-note
 tags:
-- ttrpg-cli/spell/list/class/wizard
+  - ttrpg-cli/spell/list/class/wizard
 aliases:
-- Wizard Spells
 ---
 # Wizard Spells
 

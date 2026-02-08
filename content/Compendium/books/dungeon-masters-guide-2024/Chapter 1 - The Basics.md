@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Chapter 1: The Basics
 ---
 # Chapter 1: The Basics
 *Source: Dungeon Master's Guide (2024), p. 5* 

@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/mv-b
-aliases:
-- Bait and Switch
 ---
 # Bait and Switch
 *Source: Player's Handbook (2024) p. 94*  

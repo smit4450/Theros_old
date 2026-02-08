@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/warrior-of-shadow
-aliases:
-- Spells for Warrior of Shadow
 ---
 # Spells for Warrior of Shadow
 

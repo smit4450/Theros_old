@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Artifacts; Weapons of the Gods Adventures
 ---
 # Artifacts; Weapons of the Gods Adventures
 *Source: Mythic Odysseys of Theros p. 198* 

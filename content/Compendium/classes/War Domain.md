@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/domain/war
 - ttrpg-cli/subclass/cleric/war
-aliases:
-- War Domain
 ---
 # War Domain
 * [[Cleric]]: Cleric Subclass*  

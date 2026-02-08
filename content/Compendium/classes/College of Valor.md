@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/bard/valor
-aliases:
-- College of Valor
 ---
 # College of Valor
 * [[Bard]]: Bard Subclass*  

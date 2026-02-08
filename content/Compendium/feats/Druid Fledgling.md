@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Emerald Enclave Fledgling
 ---
 # Druid Fledgling
 *Source: FRHoF p. 37*  

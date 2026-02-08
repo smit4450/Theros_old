@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/ranger/fey-wanderer
-aliases:
-- Fey Wanderer
 ---
 # Fey Wanderer
 * [[Ranger]]: Ranger Subclass*  

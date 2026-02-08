@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/sorcerer/draconic
-aliases:
-- Draconic Sorcery
 ---
 # Draconic Sorcery
 * [[Sorcerer]]: Sorcerer Subclass*  

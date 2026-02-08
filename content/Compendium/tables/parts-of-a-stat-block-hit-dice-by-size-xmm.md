@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases:
-- Parts of a Stat Block; Hit Dice by Size
 ---
 # Parts of a Stat Block; Hit Dice by Size
 *Source: Monster Manual (2024) p. 6. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 

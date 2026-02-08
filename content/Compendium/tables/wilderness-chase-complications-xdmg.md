@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Wilderness Chase Complications
 ---
 # Wilderness Chase Complications
 *Source: Dungeon Master's Guide (2024) p. 53* 

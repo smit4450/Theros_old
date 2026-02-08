@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/subclass/paladin/noble-genies
-aliases:
-- Oath of the Noble Genies
 ---
 # Oath of the Elements
 * [[Paladin]]: Paladin Subclass*  

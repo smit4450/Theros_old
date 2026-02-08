@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/subclass/ranger/winter-walker
-aliases:
-- Winter Walker
 ---
 # Winter Walker
 * [[Ranger]]: Ranger Subclass*  

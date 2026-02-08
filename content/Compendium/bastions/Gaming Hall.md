@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Gaming Hall
 ---
 # Gaming Hall
 *Level 9 Bastion facility*  

@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/paladin/ancients
-aliases:
-- Oath of the Ancients
 ---
 # Oath of the Ancients
 * [[Paladin]]: Paladin Subclass*  

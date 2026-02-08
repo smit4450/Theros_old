@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/paladin/vengeance
-aliases:
-- Oath of Vengeance
 ---
 # Oath of Vengeance
 *[Paladin](Paladin.md)ubclass*  

@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Boon of the Bright Sun
 ---
 # Boon of the Bright Sun
 *Source: FRHoF p. 43*  

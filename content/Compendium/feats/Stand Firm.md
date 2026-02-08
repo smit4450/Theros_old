@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Tyro of the Gauntlet
 ---
 # Stand Firm
 *Source: FRHoF p. 38*  

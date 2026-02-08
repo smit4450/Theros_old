@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases:
-- Boon of Dimensional Travel
 ---
 # Boon of Dimensional Travel
 *Source: Player's Handbook (2024) p. 210. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

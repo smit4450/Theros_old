@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/subclass/fighter/banneret
-aliases:
-- Banneret
 ---
 # Phalanx Captain
 *[Fighter](Fighter.md)ubclass*  

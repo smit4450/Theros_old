@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/class/sorcerer
 - ttrpg-cli/compendium/src/5e/xphb
-aliases:
-- Sorcerer
 ---
 # Sorcerer
 *Source: Player's Handbook (2024) p. 138. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/rogue/assassin
-aliases:
-- Assassin
 ---
 # Assassin
 *[Rogue](Rogue.md)ubclass*  

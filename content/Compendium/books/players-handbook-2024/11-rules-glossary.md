@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases:
-- Rules Glossary
 ---
 # Rules Glossary
 *Source: Player's Handbook (2024), p. 360* 

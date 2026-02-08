@@ -4,8 +4,6 @@ cssclasses:
 - json5e-deck
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Deck of Many Things (13 Cards)
 ---
 # Deck of Many Things (13 Cards)
 *Source: Dungeon Master's Guide (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Mysterious Deck") and the Free Rules (2024)*  

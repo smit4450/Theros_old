@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/druid/sea
-aliases:
-- Circle of the Sea
 ---
 # Circle of the Sea
 * [[Compendium/classes/Druid]]: Druid Subclass*  

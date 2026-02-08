@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/subclass/wizard/bladesinger
-aliases:
-- Bladesinger
 ---
 # Bladesinger
 * [[Wizard]]: Wizard Subclass*  

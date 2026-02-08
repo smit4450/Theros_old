@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/paladin/glory
-aliases:
-- Oath of Glory
 ---
 # Oath of Glory
 * [[Paladin]]: Paladin Subclass*  

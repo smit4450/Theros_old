@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/fighter/battle-master
-aliases:
-- Battle Master
 ---
 # Battle Master
 * [[Fighter]]: Fighter Subclass*  

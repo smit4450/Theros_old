@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/school/abjuration
-aliases:
-- Abjuration Spells
 ---
 # Abjuration Spells
 

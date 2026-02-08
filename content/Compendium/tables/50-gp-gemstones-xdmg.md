@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- 50 GP Gemstones
 ---
 # 50 GP Gemstones
 *Source: Dungeon Master's Guide (2024) p. 214* 

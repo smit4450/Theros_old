@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Kruphix's Quests
 ---
 # Kruphix's Quests
 *Source: Mythic Odysseys of Theros p. 148* 

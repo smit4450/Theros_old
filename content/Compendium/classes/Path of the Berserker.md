@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/barbarian/berserker
-aliases:
-- Path of the Berserker
 ---
 # Path of the Berserker
 * [[Barbarian]]: Barbarian Subclass*  

@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/sorcerer/wild-magic
-aliases:
-- Wild Magic Sorcery
 ---
 # Wild Magic Sorcery
 *[[Sorcerer|Sorcerer]]er Subclass*  

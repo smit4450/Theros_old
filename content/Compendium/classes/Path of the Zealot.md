@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/barbarian/zealot
-aliases:
-- Path of the Zealot
 ---
 # Path of the Zealot
 * [[Barbarian]]: Barbarian Subclass*  

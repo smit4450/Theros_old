@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/bard/glamour
-aliases:
-- College of Glamour
 ---
 # College of Glamour
 * [[Bard]]: Bard Subclass*  

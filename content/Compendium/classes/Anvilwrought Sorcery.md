@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/sorcerer/clockwork
-aliases:
-- Clockwork Sorcery
 ---
 # Anvilwrought Sorcery
 * [[Sorcerer]]: Sorcerer Subclass*  

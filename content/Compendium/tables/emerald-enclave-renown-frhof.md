@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
-aliases:
-- Emerald Enclave Renown
 ---
 # Emerald Enclave Renown
 *Source: FRHoF* 

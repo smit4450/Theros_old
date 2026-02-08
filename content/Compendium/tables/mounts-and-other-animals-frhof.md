@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
-aliases:
-- Mounts and Other Animals
 ---
 # Mounts and Other Animals
 *Source: FRHoF* 

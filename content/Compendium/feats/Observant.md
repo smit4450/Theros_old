@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases:
-- Observant
 ---
 # Observant
 *Source: Player's Handbook (2024) p. 205*  

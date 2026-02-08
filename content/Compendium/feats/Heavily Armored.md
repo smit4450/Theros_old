@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases:
-- Heavily Armored
 ---
 # Heavily Armored
 *Source: Player's Handbook (2024) p. 204*  

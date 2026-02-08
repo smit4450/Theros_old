@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/subclass/circle-of-the-sea
-aliases:
-- Spells for Circle of the Sea
 ---
 # Spells for Circle of the Sea
 

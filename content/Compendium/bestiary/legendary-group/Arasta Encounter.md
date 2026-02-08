@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/monster/legendary-group
-aliases:
-- Arasta
 ---
 # Arasta
 

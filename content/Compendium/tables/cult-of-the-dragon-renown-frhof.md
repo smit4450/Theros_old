@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
-aliases:
-- Cult of the Dragon Renown
 ---
 # Cult of the Dragon Renown
 *Source: FRHoF* 

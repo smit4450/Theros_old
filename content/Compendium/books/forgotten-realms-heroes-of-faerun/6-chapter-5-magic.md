@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
-aliases:
-- Chapter 5: Magic of Faerûn
 ---
 # Chapter 5: Magic
 *Source: Forgotten Realms: Heroes of Faerûn* 

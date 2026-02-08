@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/reward/epharas-disciple
-aliases:
-- Spells for Ephara's Disciple
 ---
 # Spells for Ephara's Disciple
 

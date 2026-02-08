@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Lordly Resolve
 ---
 # Phalanx Captain's Resolve
 *Source: FRHoF p. 40*  

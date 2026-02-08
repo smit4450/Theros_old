@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
-aliases:
-- Marked by the Dragon; Dragonscarred Blessings
 ---
 # Marked by the Dragon; Dragonscarred Blessings
 *Source: FRHoF* 

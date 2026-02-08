@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Keranos's Divine Schemes
 ---
 # Keranos's Divine Schemes
 *Source: Mythic Odysseys of Theros p. 141* 

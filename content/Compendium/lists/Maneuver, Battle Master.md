@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/phb
-aliases:
-- Maneuver, Battle Master
 ---
 # Maneuver, Battle Master
 *Source: Player's Handbook, Tasha's Cauldron of Everything p. 42, Player's Handbook (2024)* 

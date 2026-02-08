@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/huge
 - ttrpg-cli/object/type/siege-weapon
-aliases:
-- Trebuchet
 ---
 # Trebuchet
 %%-- Embedded content starts on the next line. --%%

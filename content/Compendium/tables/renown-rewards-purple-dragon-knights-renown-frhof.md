@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
-aliases:
-- Renown Rewards; Purple Dragon Knights Renown
 ---
 # Renown Rewards; Purple Dragon Knights Renown
 *Source: FRHoF* 

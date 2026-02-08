@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/reward/piety-trait
-aliases:
-- Kruphix's Devotee
 ---
 # Kruphix's Devotee
 *Piety Trait*  

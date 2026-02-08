@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases:
-- Artifact Properties; Major Detrimental Properties
 ---
 # Artifact Properties; Major Detrimental Properties
 *Source: Dungeon Master's Guide (2024) p. 224* 

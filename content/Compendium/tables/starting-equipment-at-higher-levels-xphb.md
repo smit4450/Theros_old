@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases:
-- Starting Equipment at Higher Levels
 ---
 # Starting Equipment at Higher Levels
 *Source: Player's Handbook (2024) p. 43. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 

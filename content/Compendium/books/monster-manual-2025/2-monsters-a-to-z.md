@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases:
-- Monsters A to Z
 ---
 # Monsters A to Z
 *Source: Monster Manual (2025), p. 10* 

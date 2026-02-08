@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Graveyard Temple Villains
 ---
 # Graveyard Temple Villains
 *Source: Mythic Odysseys of Theros p. 126* 

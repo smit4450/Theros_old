@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Iroas's Divine Schemes
 ---
 # Iroas's Divine Schemes
 *Source: Mythic Odysseys of Theros p. 133* 

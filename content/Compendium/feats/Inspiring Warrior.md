@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Lords' Alliance Agent
 ---
 # Inspiring Warrior
 *Source: FRHoF p. 38*  

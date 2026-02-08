@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases:
-- Martial Weapon Training
 ---
 # Martial Weapon Training
 *Source: Player's Handbook (2024) p. 205*  

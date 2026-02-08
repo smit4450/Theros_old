@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/subclass/sorcerer/spellfire
-aliases:
-- Spellfire Sorcery
 ---
 # Spellfire Sorcery
 * [[Sorcerer]]: Sorcerer Subclass*  

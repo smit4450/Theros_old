@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Spellfire Spark
 ---
 # Spellfire Spark
 *Source: FRHoF p. 38*  

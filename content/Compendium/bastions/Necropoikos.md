@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/frhof
-aliases:
-- Red Wizard Necropolis
 ---
 # Necropoikos
 *Level 5 Bastion facility*  

@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Boon of Bloodshed
 ---
 # Boon of Bloodshed
 *Source: FRHoF p. 42*  

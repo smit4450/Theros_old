@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/reward/ereboss-votary
-aliases:
-- Spells for Erebos's Votary
 ---
 # Spells for Erebos's Votary
 

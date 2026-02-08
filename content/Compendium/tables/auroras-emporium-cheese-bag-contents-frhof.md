@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
-aliases:
-- Aurora's Emporium; Cheese Bag Contents
 ---
 # Aurora's Emporium; Cheese Bag Contents
 *Source: FRHoF* 

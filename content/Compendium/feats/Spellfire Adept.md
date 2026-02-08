@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Spellfire Adept
 ---
 # Spellfire Adept
 *Source: FRHoF p. 41*  

@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/spell/list/reward/karametras-votary
-aliases:
-- Spells for Karametra's Votary
 ---
 # Spells for Karametra's Votary
 

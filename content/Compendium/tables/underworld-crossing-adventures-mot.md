@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Underworld Crossing Adventures
 ---
 # Underworld Crossing Adventures
 *Source: Mythic Odysseys of Theros p. 118* 

@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/subclass/cleric/knowledge
-aliases:
-- Knowledge Domain
 ---
 # Knowledge Domain
 * [[Cleric]]: Cleric Subclass*  

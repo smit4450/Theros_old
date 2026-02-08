@@ -5,8 +5,6 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/feat
-aliases:
-- Street Justice
 ---
 # Street Justice
 *Source: FRHoF p. 41*  

@@ -4,8 +4,6 @@ cssclasses:
 - json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mot
-aliases:
-- Omens of Kruphix
 ---
 # Omens of Kruphix
 *Source: Mythic Odysseys of Theros p. 111* 
