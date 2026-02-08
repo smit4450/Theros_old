@@ -1,4 +1,5 @@
 ---
+title: Dining Room
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

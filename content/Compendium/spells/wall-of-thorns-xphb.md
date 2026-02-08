@@ -1,4 +1,5 @@
 ---
+title: Wall of Thorns
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

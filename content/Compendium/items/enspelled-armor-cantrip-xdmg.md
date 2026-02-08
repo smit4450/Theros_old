@@ -1,4 +1,5 @@
 ---
+title: Enspelled Armor (Cantrip)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Reverse Gravity
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

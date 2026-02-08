@@ -1,4 +1,5 @@
 ---
+title: Spells for Arcane Trickster
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

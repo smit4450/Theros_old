@@ -1,4 +1,5 @@
 ---
+title: Hundred-Handed One
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

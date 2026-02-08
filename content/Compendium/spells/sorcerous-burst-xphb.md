@@ -1,4 +1,5 @@
 ---
+title: Sorcerous Burst
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Brass mug with jade inlay
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

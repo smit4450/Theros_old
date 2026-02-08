@@ -1,4 +1,5 @@
 ---
+title: Giant Spider
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

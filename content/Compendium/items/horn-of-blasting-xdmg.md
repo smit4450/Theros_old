@@ -1,4 +1,5 @@
 ---
+title: Horn of Blasting
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

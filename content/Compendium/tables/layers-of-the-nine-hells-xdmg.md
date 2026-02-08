@@ -1,4 +1,5 @@
 ---
+title: Layers of the Nine Hells
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

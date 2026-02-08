@@ -1,4 +1,5 @@
 ---
+title: Wraith
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

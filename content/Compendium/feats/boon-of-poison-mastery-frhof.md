@@ -1,4 +1,5 @@
 ---
+title: Boon of Poison Mastery
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

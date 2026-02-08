@@ -1,4 +1,5 @@
 ---
+title: Animals
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

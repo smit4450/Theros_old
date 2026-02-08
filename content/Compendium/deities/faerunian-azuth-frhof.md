@@ -1,4 +1,5 @@
 ---
+title: Azuth
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

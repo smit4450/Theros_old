@@ -1,4 +1,5 @@
 ---
+title: Soulknife
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

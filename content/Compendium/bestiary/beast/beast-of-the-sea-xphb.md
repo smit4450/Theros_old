@@ -1,4 +1,5 @@
 ---
+title: Beast of the Sea
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

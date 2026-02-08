@@ -1,4 +1,5 @@
 ---
+title: Dead
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

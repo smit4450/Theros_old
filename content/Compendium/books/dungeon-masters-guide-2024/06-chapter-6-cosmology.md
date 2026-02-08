@@ -1,4 +1,5 @@
 ---
+title: "Chapter 6: Cosmology"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Mummy Lord
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

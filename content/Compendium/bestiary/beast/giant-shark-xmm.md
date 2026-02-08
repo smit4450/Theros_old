@@ -1,4 +1,5 @@
 ---
+title: Giant Shark
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

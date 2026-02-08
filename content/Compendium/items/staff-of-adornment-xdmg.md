@@ -1,4 +1,5 @@
 ---
+title: Staff of Adornment
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

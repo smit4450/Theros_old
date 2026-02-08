@@ -1,4 +1,5 @@
 ---
+title: Master Thief
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

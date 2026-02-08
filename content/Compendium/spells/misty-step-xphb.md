@@ -1,4 +1,5 @@
 ---
+title: Misty Step
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

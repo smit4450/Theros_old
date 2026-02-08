@@ -1,4 +1,5 @@
 ---
+title: Magic Mouth
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

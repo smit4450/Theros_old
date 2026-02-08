@@ -1,4 +1,5 @@
 ---
+title: "Cook's Utensils"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

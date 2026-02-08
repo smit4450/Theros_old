@@ -1,4 +1,5 @@
 ---
+title: Wagon
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

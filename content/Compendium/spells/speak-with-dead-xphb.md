@@ -1,4 +1,5 @@
 ---
+title: Speak with Dead
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

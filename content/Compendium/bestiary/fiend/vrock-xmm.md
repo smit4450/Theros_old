@@ -1,4 +1,5 @@
 ---
+title: Vrock
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

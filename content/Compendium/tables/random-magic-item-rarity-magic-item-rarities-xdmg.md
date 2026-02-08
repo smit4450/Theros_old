@@ -1,4 +1,5 @@
 ---
+title: Random Magic Item Rarity; Magic Item Rarities
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

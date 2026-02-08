@@ -1,4 +1,5 @@
 ---
+title: True Resurrection
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

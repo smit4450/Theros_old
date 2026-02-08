@@ -1,4 +1,5 @@
 ---
+title: Bundle of sheet music representing the lost dirges of a famous composer
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

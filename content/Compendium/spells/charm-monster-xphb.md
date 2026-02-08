@@ -1,4 +1,5 @@
 ---
+title: Charm Monster
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

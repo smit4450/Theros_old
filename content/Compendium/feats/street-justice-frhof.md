@@ -1,4 +1,5 @@
 ---
+title: Street Justice
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

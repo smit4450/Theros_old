@@ -1,4 +1,5 @@
 ---
+title: Efreeti
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

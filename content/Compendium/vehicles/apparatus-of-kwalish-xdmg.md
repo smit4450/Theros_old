@@ -1,4 +1,5 @@
 ---
+title: Apparatus of Kwalish
 obsidianUIMode: preview
 cssclasses:
 - json5e-vehicle

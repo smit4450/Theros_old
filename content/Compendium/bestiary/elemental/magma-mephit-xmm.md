@@ -1,4 +1,5 @@
 ---
+title: Magma Mephit
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: "2: Guttural Names"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

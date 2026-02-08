@@ -1,4 +1,5 @@
 ---
+title: Bullywug Bog Sage
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Index of Dragon
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

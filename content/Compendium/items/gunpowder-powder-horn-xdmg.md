@@ -1,4 +1,5 @@
 ---
+title: Gunpowder (powder horn)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

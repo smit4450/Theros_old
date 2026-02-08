@@ -1,4 +1,5 @@
 ---
+title: Antilife Shell
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

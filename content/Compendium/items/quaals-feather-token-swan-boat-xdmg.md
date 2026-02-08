@@ -1,4 +1,5 @@
 ---
+title: "Quaal's Feather Token, Swan Boat"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

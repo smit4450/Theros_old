@@ -1,4 +1,5 @@
 ---
+title: Thunderous Greatclub
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

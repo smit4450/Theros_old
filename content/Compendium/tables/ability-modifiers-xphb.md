@@ -1,4 +1,5 @@
 ---
+title: Ability Modifiers
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Ring of X-ray Vision
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

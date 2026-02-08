@@ -1,4 +1,5 @@
 ---
+title: Champion of the Polis
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

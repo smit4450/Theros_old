@@ -1,4 +1,5 @@
 ---
+title: Yellow Mold
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

@@ -1,4 +1,5 @@
 ---
+title: Amulet of Proof against Detection and Location
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Temple of Mystery Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

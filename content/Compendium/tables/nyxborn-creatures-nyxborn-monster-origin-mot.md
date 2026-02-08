@@ -1,4 +1,5 @@
 ---
+title: Nyxborn Creatures; Nyxborn Monster Origin
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

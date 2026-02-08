@@ -1,4 +1,5 @@
 ---
+title: Ram
 obsidianUIMode: preview
 cssclasses:
 - json5e-object

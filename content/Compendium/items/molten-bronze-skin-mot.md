@@ -1,4 +1,5 @@
 ---
+title: Molten Bronze Skin
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

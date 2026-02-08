@@ -1,4 +1,5 @@
 ---
+title: Dire Worg
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Imp
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Owl
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Spells for Fey-Touched
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

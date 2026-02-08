@@ -1,4 +1,5 @@
 ---
+title: Wand of Magic Missiles
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

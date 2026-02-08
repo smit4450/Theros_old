@@ -1,4 +1,5 @@
 ---
+title: Skilled
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Spells for Pact of the Tome
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

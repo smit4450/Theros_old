@@ -1,4 +1,5 @@
 ---
+title: Otherworldly Steed (Fey)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

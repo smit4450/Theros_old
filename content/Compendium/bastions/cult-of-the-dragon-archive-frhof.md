@@ -1,4 +1,5 @@
 ---
+title: Cult of the Dragon Archive
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

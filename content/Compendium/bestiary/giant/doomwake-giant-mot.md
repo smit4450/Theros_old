@@ -1,4 +1,5 @@
 ---
+title: Doomwake Giant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

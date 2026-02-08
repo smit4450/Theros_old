@@ -1,4 +1,5 @@
 ---
+title: "Chapter 7: Treasure"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

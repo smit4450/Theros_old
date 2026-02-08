@@ -1,4 +1,5 @@
 ---
+title: Spells for Master of Myriad Forms
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

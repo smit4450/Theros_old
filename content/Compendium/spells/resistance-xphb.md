@@ -1,4 +1,5 @@
 ---
+title: Resistance
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

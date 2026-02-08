@@ -1,4 +1,5 @@
 ---
+title: Suspended Cauldron
 obsidianUIMode: preview
 cssclasses:
 - json5e-object

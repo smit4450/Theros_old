@@ -1,4 +1,5 @@
 ---
+title: Wee Jas
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

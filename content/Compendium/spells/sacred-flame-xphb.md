@@ -1,4 +1,5 @@
 ---
+title: Sacred Flame
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

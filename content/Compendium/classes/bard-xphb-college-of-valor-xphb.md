@@ -1,4 +1,5 @@
 ---
+title: College of Valor
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

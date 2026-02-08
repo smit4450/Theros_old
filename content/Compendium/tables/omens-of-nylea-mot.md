@@ -1,4 +1,5 @@
 ---
+title: Omens of Nylea
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

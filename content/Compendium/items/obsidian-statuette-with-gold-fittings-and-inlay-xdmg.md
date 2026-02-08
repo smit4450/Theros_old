@@ -1,4 +1,5 @@
 ---
+title: Obsidian statuette with gold fittings and inlay
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

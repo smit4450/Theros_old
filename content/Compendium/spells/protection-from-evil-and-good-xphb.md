@@ -1,4 +1,5 @@
 ---
+title: Protection from Evil and Good
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

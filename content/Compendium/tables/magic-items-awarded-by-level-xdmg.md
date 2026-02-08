@@ -1,4 +1,5 @@
 ---
+title: Magic Items Awarded by Level
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

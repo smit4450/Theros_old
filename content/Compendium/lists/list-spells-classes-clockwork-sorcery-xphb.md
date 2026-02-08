@@ -1,4 +1,5 @@
 ---
+title: Spells for Clockwork Sorcery
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

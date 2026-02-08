@@ -1,4 +1,5 @@
 ---
+title: Spells for Scion of the Three
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

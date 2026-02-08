@@ -1,4 +1,5 @@
 ---
+title: "Executioner's Axe"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

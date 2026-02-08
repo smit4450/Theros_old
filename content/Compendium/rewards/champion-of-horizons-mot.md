@@ -1,4 +1,5 @@
 ---
+title: Champion of Horizons
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

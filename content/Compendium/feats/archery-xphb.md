@@ -1,4 +1,5 @@
 ---
+title: Archery
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

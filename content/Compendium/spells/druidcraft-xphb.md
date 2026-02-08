@@ -1,4 +1,5 @@
 ---
+title: Druidcraft
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

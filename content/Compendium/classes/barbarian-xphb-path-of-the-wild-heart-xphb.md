@@ -1,4 +1,5 @@
 ---
+title: Path of the Wild Heart
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

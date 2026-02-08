@@ -1,4 +1,5 @@
 ---
+title: Stable
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

@@ -1,4 +1,5 @@
 ---
+title: Blessing of Understanding
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

@@ -1,4 +1,5 @@
 ---
+title: Visions of Distant Realms
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

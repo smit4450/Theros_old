@@ -1,4 +1,5 @@
 ---
+title: Celestial Spirit
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Magic Jar
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

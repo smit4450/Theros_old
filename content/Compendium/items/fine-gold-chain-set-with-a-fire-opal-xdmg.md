@@ -1,4 +1,5 @@
 ---
+title: Fine gold chain set with a fire opal
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

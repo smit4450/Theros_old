@@ -1,4 +1,5 @@
 ---
+title: Path of the Berserker
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

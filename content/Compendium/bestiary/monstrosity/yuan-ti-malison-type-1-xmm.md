@@ -1,4 +1,5 @@
 ---
+title: Yuan-ti Malison (Type 1)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

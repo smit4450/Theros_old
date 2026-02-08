@@ -1,4 +1,5 @@
 ---
+title: Gold-Forged Sentinel
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

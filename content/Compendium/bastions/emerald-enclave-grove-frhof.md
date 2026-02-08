@@ -1,4 +1,5 @@
 ---
+title: Emerald Enclave Grove
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

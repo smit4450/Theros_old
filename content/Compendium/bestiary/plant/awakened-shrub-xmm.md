@@ -1,4 +1,5 @@
 ---
+title: Awakened Shrub
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

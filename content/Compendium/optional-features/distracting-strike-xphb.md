@@ -1,4 +1,5 @@
 ---
+title: Distracting Strike
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

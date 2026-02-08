@@ -1,4 +1,5 @@
 ---
+title: Boccob
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

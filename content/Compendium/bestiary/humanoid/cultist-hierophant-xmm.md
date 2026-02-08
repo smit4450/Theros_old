@@ -1,4 +1,5 @@
 ---
+title: Cultist Hierophant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

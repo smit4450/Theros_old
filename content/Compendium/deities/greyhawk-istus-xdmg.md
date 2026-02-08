@@ -1,4 +1,5 @@
 ---
+title: Istus
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

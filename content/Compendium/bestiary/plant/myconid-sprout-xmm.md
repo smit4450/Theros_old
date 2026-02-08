@@ -1,4 +1,5 @@
 ---
+title: Myconid Sprout
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

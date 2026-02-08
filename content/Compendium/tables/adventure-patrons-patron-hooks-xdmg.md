@@ -1,4 +1,5 @@
 ---
+title: Adventure Patrons; Patron Hooks
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

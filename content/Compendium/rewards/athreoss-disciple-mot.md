@@ -1,4 +1,5 @@
 ---
+title: "Athreos's Disciple"
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

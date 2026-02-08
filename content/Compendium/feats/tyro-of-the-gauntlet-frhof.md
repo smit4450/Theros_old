@@ -1,4 +1,5 @@
 ---
+title: Tyro of the Gauntlet
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

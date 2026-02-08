@@ -1,4 +1,5 @@
 ---
+title: Perception and Encounters; Audible Distance
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

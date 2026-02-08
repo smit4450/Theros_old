@@ -1,4 +1,5 @@
 ---
+title: Black velvet mask stitched with silver thread
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

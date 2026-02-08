@@ -1,4 +1,5 @@
 ---
+title: Carved wooden harp with ivory inlay and zircon gems
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

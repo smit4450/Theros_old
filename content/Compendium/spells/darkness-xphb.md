@@ -1,4 +1,5 @@
 ---
+title: Darkness
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

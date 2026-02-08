@@ -1,4 +1,5 @@
 ---
+title: "Using a Published Setting; D&D Settings"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

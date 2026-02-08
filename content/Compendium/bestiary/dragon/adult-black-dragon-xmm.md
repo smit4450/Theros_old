@@ -1,4 +1,5 @@
 ---
+title: Adult Black Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

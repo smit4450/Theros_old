@@ -1,4 +1,5 @@
 ---
+title: Animate Dead
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

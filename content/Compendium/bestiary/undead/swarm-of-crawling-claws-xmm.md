@@ -1,4 +1,5 @@
 ---
+title: Swarm of Crawling Claws
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

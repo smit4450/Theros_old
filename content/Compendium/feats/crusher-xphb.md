@@ -1,4 +1,5 @@
 ---
+title: Crusher
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

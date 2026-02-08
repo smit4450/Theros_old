@@ -1,4 +1,5 @@
 ---
+title: Resolving Outcomes; Abilities, Ability Checks, and Saving Throws
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

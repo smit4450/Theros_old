@@ -1,4 +1,5 @@
 ---
+title: Periapt of Wound Closure
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

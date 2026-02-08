@@ -1,4 +1,5 @@
 ---
+title: Cloak of Arachnida
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

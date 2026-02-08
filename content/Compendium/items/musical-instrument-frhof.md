@@ -1,4 +1,5 @@
 ---
+title: Musical Instrument
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

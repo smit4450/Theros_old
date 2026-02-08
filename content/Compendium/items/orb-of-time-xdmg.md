@@ -1,4 +1,5 @@
 ---
+title: Orb of Time
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

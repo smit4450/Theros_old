@@ -1,4 +1,5 @@
 ---
+title: Cult of the Dragon Renown
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

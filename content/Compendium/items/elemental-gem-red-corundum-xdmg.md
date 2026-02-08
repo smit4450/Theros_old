@@ -1,4 +1,5 @@
 ---
+title: Elemental Gem, Red Corundum
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

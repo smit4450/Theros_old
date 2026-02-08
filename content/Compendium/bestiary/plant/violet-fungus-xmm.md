@@ -1,4 +1,5 @@
 ---
+title: Violet Fungus
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

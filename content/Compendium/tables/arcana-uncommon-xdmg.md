@@ -1,4 +1,5 @@
 ---
+title: Arcana - Uncommon
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

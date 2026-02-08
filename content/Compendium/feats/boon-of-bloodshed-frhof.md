@@ -1,4 +1,5 @@
 ---
+title: Boon of Bloodshed
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

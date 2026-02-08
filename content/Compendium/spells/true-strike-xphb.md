@@ -1,4 +1,5 @@
 ---
+title: True Strike
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

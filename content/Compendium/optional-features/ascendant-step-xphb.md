@@ -1,4 +1,5 @@
 ---
+title: Ascendant Step
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

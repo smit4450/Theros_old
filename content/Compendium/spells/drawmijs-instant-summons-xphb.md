@@ -1,4 +1,5 @@
 ---
+title: "Drawmij's Instant Summons"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

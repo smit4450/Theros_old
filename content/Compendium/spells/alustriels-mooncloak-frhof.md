@@ -1,4 +1,5 @@
 ---
+title: "Alustriel's Mooncloak"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

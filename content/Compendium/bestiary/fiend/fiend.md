@@ -1,4 +1,5 @@
 ---
+title: Index of Fiend
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

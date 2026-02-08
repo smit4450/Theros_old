@@ -1,4 +1,5 @@
 ---
+title: Grappling Hook
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

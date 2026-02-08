@@ -1,4 +1,5 @@
 ---
+title: Warrior Veteran
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

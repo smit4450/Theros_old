@@ -1,4 +1,5 @@
 ---
+title: "Ephara's Villains"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

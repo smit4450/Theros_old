@@ -1,4 +1,5 @@
 ---
+title: Sphinx of Wonder
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

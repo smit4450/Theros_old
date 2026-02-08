@@ -1,4 +1,5 @@
 ---
+title: Realms of Gods and Mortals
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

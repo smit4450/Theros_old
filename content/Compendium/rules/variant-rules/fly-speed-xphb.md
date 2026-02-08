@@ -1,4 +1,5 @@
 ---
+title: Fly Speed
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

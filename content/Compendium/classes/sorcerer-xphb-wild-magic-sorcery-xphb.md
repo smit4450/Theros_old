@@ -1,4 +1,5 @@
 ---
+title: Wild Magic Sorcery
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

@@ -1,4 +1,5 @@
 ---
+title: Bag of Tricks
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

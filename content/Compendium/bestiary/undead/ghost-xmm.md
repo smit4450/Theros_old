@@ -1,4 +1,5 @@
 ---
+title: Ghost
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

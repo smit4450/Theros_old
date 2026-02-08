@@ -1,4 +1,5 @@
 ---
+title: Rope of Climbing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

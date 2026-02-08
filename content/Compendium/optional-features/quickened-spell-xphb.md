@@ -1,4 +1,5 @@
 ---
+title: Quickened Spell
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

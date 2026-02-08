@@ -1,4 +1,5 @@
 ---
+title: Spellfire Adept
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Treant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Planar Ally
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

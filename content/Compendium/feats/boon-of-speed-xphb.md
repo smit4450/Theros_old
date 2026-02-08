@@ -1,4 +1,5 @@
 ---
+title: Boon of Speed
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

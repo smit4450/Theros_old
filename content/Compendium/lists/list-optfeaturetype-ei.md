@@ -1,4 +1,5 @@
 ---
+title: Eldritch Invocation
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

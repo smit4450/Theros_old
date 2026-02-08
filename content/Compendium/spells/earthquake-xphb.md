@@ -1,4 +1,5 @@
 ---
+title: Earthquake
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

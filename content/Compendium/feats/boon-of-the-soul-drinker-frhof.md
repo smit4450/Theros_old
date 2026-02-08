@@ -1,4 +1,5 @@
 ---
+title: Boon of the Soul Drinker
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

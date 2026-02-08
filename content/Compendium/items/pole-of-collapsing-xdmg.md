@@ -1,4 +1,5 @@
 ---
+title: Pole of Collapsing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

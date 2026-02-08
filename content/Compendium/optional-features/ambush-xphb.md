@@ -1,4 +1,5 @@
 ---
+title: Ambush
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

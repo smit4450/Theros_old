@@ -1,4 +1,5 @@
 ---
+title: Figurine of Wondrous Power, Ivory Goats
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

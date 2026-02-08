@@ -1,4 +1,5 @@
 ---
+title: Monster Relationships
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

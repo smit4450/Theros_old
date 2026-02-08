@@ -1,4 +1,5 @@
 ---
+title: "Chapter 1: Character Options"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

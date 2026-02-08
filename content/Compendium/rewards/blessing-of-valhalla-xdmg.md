@@ -1,4 +1,5 @@
 ---
+title: Blessing of Valhalla
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

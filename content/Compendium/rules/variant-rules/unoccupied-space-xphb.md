@@ -1,4 +1,5 @@
 ---
+title: Unoccupied Space
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

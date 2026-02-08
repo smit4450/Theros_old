@@ -1,4 +1,5 @@
 ---
+title: Boon of Bountiful Health
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

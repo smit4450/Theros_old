@@ -1,4 +1,5 @@
 ---
+title: Silver necklace with a gemstone pendant
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

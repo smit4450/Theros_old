@@ -1,4 +1,5 @@
 ---
+title: Black Pudding
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Keen Mind
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

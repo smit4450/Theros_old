@@ -1,4 +1,5 @@
 ---
+title: Champion of the Hunt
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

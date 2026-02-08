@@ -1,4 +1,5 @@
 ---
+title: Hat of Vermin
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

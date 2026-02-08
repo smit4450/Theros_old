@@ -1,4 +1,5 @@
 ---
+title: Champion of Deception
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

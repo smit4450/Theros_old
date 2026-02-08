@@ -1,4 +1,5 @@
 ---
+title: Beast Master
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

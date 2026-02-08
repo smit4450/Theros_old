@@ -1,4 +1,5 @@
 ---
+title: Ring of Necrotic Resistance
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

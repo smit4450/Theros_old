@@ -1,4 +1,5 @@
 ---
+title: Interception
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Spells for Oath of the Noble Genies
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

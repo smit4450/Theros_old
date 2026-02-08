@@ -1,4 +1,5 @@
 ---
+title: Vampire Nightbringer
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

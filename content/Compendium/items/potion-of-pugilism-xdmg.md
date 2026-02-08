@@ -1,4 +1,5 @@
 ---
+title: Potion of Pugilism
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Phoenix
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

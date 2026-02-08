@@ -1,4 +1,5 @@
 ---
+title: Giant Constrictor Snake
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

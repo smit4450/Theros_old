@@ -1,4 +1,5 @@
 ---
+title: "Deryan's Helpful Homunculi"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

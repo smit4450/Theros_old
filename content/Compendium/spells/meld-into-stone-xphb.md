@@ -1,4 +1,5 @@
 ---
+title: Meld into Stone
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

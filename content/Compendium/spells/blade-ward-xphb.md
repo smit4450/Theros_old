@@ -1,4 +1,5 @@
 ---
+title: Blade Ward
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

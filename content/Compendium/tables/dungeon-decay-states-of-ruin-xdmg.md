@@ -1,4 +1,5 @@
 ---
+title: Dungeon Decay; States of Ruin
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

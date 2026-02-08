@@ -1,4 +1,5 @@
 ---
+title: "Bigby's Hand"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Armaments - Uncommon
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

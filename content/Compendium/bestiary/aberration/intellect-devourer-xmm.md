@@ -1,4 +1,5 @@
 ---
+title: Intellect Devourer
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

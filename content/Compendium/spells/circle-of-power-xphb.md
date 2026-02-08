@@ -1,4 +1,5 @@
 ---
+title: Circle of Power
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

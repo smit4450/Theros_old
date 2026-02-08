@@ -1,4 +1,5 @@
 ---
+title: Destructive Wave
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

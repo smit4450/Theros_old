@@ -1,4 +1,5 @@
 ---
+title: Boon of Fortitude
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

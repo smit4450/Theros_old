@@ -1,4 +1,5 @@
 ---
+title: Spells for Enclave Magic
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Magical Effect
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

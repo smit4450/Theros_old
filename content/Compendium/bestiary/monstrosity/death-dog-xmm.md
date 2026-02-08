@@ -1,4 +1,5 @@
 ---
+title: Death Dog
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

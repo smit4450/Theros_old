@@ -1,4 +1,5 @@
 ---
+title: Crystal Ball of Telepathy
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

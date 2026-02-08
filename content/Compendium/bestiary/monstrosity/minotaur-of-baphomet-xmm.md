@@ -1,4 +1,5 @@
 ---
+title: Minotaur of Baphomet
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

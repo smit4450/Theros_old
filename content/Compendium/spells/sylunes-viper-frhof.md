@@ -1,4 +1,5 @@
 ---
+title: "Syluné's Viper"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

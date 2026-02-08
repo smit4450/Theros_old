@@ -1,4 +1,5 @@
 ---
+title: Spells for College of Glamour
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

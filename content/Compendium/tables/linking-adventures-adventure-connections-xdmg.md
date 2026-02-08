@@ -1,4 +1,5 @@
 ---
+title: Linking Adventures; Adventure Connections
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

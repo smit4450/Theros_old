@@ -1,4 +1,5 @@
 ---
+title: Trade Goods
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

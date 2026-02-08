@@ -1,4 +1,5 @@
 ---
+title: Talisman of the Sphere
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

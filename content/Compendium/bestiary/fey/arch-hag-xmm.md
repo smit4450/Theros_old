@@ -1,4 +1,5 @@
 ---
+title: Arch-hag
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

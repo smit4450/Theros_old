@@ -1,4 +1,5 @@
 ---
+title: "6: Whimsical Names"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

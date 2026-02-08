@@ -1,4 +1,5 @@
 ---
+title: Dagger
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

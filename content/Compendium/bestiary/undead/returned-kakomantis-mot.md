@@ -1,4 +1,5 @@
 ---
+title: Returned Kakomantis
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

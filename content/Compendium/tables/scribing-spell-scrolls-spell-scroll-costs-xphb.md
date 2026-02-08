@@ -1,4 +1,5 @@
 ---
+title: Scribing Spell Scrolls; Spell Scroll Costs
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

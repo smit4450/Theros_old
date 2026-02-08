@@ -1,4 +1,5 @@
 ---
+title: "Mordenkainen's Faithful Hound"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Wind Fan
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

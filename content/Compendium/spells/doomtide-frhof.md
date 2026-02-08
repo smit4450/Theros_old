@@ -1,4 +1,5 @@
 ---
+title: Doomtide
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

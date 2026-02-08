@@ -1,4 +1,5 @@
 ---
+title: Dryad
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

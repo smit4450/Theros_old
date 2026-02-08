@@ -1,4 +1,5 @@
 ---
+title: Rod of Rulership
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

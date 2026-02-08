@@ -1,4 +1,5 @@
 ---
+title: Mielikki
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

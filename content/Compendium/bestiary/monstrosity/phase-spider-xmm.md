@@ -1,4 +1,5 @@
 ---
+title: Phase Spider
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Contact Other Plane
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

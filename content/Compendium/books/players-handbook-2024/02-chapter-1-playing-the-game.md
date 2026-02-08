@@ -1,4 +1,5 @@
 ---
+title: "Chapter 1: Playing the Game"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

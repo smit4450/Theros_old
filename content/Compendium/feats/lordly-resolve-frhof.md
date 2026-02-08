@@ -1,4 +1,5 @@
 ---
+title: Lordly Resolve
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

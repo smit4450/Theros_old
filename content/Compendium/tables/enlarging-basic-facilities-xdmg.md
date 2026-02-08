@@ -1,4 +1,5 @@
 ---
+title: Enlarging Basic Facilities
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

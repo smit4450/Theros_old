@@ -1,4 +1,5 @@
 ---
+title: Green Dragon Wyrmling
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

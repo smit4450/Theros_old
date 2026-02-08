@@ -1,4 +1,5 @@
 ---
+title: "Laeral's Silver Lance"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

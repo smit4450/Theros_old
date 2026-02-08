@@ -1,4 +1,5 @@
 ---
+title: Vitriolic Sphere
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

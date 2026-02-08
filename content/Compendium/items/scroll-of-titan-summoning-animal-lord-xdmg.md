@@ -1,4 +1,5 @@
 ---
+title: Scroll of Titan Summoning (Animal Lord)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

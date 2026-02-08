@@ -1,4 +1,5 @@
 ---
+title: Green Slime
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

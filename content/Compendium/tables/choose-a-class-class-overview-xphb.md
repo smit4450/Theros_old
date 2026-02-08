@@ -1,4 +1,5 @@
 ---
+title: Choose a Class; Class Overview
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

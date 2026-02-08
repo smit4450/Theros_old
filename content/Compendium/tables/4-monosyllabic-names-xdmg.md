@@ -1,4 +1,5 @@
 ---
+title: "4: Monosyllabic Names"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

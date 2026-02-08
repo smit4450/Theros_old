@@ -1,4 +1,5 @@
 ---
+title: Immovable Rod
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

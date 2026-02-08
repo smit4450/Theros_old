@@ -1,4 +1,5 @@
 ---
+title: Nyx-Fleece Ram
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

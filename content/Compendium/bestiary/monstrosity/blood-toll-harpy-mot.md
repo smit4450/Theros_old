@@ -1,4 +1,5 @@
 ---
+title: Blood-Toll Harpy
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

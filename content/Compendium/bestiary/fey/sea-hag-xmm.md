@@ -1,4 +1,5 @@
 ---
+title: Sea Hag
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Eldritch Spear
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Embroidered glove set with jewel chips
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

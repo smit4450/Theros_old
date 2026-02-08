@@ -1,4 +1,5 @@
 ---
+title: Champion of Slaughter
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

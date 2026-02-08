@@ -1,4 +1,5 @@
 ---
+title: Weather; 2
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

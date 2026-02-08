@@ -1,4 +1,5 @@
 ---
+title: Domestic Wonder
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Purify Food and Drink
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

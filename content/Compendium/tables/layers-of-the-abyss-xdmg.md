@@ -1,4 +1,5 @@
 ---
+title: Layers of the Abyss
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

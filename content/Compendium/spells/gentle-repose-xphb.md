@@ -1,4 +1,5 @@
 ---
+title: Gentle Repose
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Night Hag
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

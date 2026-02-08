@@ -1,4 +1,5 @@
 ---
+title: Fey Spirit (Fuming)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

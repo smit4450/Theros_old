@@ -1,4 +1,5 @@
 ---
+title: Portable Ram
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

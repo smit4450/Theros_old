@@ -1,4 +1,5 @@
 ---
+title: Speedy
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

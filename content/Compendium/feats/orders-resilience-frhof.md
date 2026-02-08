@@ -1,4 +1,5 @@
 ---
+title: "Order's Resilience"
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

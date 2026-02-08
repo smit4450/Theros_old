@@ -1,4 +1,5 @@
 ---
+title: Incabulos
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

@@ -1,4 +1,5 @@
 ---
+title: Syrul
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

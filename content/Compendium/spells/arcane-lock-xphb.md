@@ -1,4 +1,5 @@
 ---
+title: Arcane Lock
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

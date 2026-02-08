@@ -1,4 +1,5 @@
 ---
+title: Burnt Othur Fumes
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

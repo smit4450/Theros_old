@@ -1,4 +1,5 @@
 ---
+title: Universal Solvent
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

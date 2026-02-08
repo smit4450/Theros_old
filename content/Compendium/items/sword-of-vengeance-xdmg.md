@@ -1,4 +1,5 @@
 ---
+title: Sword of Vengeance
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

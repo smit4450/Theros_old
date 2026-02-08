@@ -1,4 +1,5 @@
 ---
+title: Staff of Fire
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

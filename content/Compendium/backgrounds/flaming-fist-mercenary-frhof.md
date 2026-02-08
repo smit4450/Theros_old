@@ -1,4 +1,5 @@
 ---
+title: Flaming Fist Mercenary
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:

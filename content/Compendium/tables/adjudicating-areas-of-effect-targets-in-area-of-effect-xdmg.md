@@ -1,4 +1,5 @@
 ---
+title: Adjudicating Areas of Effect; Targets in Area of Effect
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

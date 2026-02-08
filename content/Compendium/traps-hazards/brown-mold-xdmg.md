@@ -1,4 +1,5 @@
 ---
+title: Brown Mold
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

@@ -1,4 +1,5 @@
 ---
+title: Detect Poison and Disease
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

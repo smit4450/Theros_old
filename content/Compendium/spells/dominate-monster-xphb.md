@@ -1,4 +1,5 @@
 ---
+title: Dominate Monster
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

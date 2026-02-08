@@ -1,4 +1,5 @@
 ---
+title: Nonplayer Character
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

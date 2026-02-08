@@ -1,4 +1,5 @@
 ---
+title: Mantle of Spell Resistance
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

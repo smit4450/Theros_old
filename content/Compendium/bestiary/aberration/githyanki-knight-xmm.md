@@ -1,4 +1,5 @@
 ---
+title: Githyanki Knight
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

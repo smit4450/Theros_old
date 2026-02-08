@@ -1,4 +1,5 @@
 ---
+title: "1: Common Names"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

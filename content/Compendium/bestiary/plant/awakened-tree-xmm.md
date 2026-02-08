@@ -1,4 +1,5 @@
 ---
+title: Awakened Tree
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

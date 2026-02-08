@@ -1,4 +1,5 @@
 ---
+title: Scroll of Protection (Fey)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

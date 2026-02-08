@@ -1,4 +1,5 @@
 ---
+title: Merfolk Wavebender
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

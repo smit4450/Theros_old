@@ -1,4 +1,5 @@
 ---
+title: Warrior of the Open Hand
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

@@ -1,4 +1,5 @@
 ---
+title: Warrior of Mercy
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

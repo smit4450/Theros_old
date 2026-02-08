@@ -1,4 +1,5 @@
 ---
+title: Warding Bond
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

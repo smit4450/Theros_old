@@ -1,4 +1,5 @@
 ---
+title: Repeatable; Feat List
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

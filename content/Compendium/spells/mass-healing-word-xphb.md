@@ -1,4 +1,5 @@
 ---
+title: Mass Healing Word
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

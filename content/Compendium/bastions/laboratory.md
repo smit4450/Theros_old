@@ -1,4 +1,5 @@
 ---
+title: Laboratory
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

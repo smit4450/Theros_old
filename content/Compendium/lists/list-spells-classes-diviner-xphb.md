@@ -1,4 +1,5 @@
 ---
+title: Spells for Diviner
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

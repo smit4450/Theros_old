@@ -1,4 +1,5 @@
 ---
+title: Potion of Comprehension
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

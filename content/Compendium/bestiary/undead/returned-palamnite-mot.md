@@ -1,4 +1,5 @@
 ---
+title: Returned Palamnite
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Temporary Hit Points
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

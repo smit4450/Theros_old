@@ -1,4 +1,5 @@
 ---
+title: Purphoros
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

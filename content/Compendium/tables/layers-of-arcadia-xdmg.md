@@ -1,4 +1,5 @@
 ---
+title: Layers of Arcadia
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

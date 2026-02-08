@@ -1,4 +1,5 @@
 ---
+title: Chain Mail
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

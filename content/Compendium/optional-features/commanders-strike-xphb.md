@@ -1,4 +1,5 @@
 ---
+title: "Commander's Strike"
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

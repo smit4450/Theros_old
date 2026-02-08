@@ -1,4 +1,5 @@
 ---
+title: Scriptorium
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

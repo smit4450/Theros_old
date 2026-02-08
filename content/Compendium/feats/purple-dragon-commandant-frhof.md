@@ -1,4 +1,5 @@
 ---
+title: Purple Dragon Commandant
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

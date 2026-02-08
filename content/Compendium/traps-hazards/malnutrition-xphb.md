@@ -1,4 +1,5 @@
 ---
+title: Malnutrition
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

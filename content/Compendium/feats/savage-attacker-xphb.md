@@ -1,4 +1,5 @@
 ---
+title: Savage Attacker
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

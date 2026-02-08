@@ -1,4 +1,5 @@
 ---
+title: Water Elemental
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

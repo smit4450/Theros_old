@@ -1,4 +1,5 @@
 ---
+title: Deep Water
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

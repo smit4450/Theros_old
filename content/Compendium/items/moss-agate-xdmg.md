@@ -1,4 +1,5 @@
 ---
+title: Moss Agate
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

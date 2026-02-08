@@ -1,4 +1,5 @@
 ---
+title: Create Undead
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

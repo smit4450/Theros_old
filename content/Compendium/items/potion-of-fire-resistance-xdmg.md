@@ -1,4 +1,5 @@
 ---
+title: Potion of Fire Resistance
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

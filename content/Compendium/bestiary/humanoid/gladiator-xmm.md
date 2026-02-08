@@ -1,4 +1,5 @@
 ---
+title: Gladiator
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

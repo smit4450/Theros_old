@@ -1,4 +1,5 @@
 ---
+title: Hippogriff
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Western Flanaess Locations
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Swarm of Ravens
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

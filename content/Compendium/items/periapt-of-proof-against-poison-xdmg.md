@@ -1,4 +1,5 @@
 ---
+title: Periapt of Proof against Poison
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

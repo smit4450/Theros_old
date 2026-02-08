@@ -1,4 +1,5 @@
 ---
+title: War Priest
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: "Climber's Kit"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

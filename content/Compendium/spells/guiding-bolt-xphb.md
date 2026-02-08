@@ -1,4 +1,5 @@
 ---
+title: Guiding Bolt
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

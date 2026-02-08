@@ -1,4 +1,5 @@
 ---
+title: Bulette
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

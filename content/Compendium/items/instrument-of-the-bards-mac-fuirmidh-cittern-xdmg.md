@@ -1,4 +1,5 @@
 ---
+title: Instrument of the Bards, Mac-Fuirmidh Cittern
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

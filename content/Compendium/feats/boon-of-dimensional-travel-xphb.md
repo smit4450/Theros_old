@@ -1,4 +1,5 @@
 ---
+title: Boon of Dimensional Travel
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

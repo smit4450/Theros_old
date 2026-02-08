@@ -1,4 +1,5 @@
 ---
+title: Alignment
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

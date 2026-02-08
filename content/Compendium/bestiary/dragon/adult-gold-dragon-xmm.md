@@ -1,4 +1,5 @@
 ---
+title: Adult Gold Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

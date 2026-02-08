@@ -1,4 +1,5 @@
 ---
+title: Ring of Regeneration
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

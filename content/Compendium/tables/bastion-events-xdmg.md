@@ -1,4 +1,5 @@
 ---
+title: Bastion Events
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

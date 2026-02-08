@@ -1,4 +1,5 @@
 ---
+title: Spells for Aasimar
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

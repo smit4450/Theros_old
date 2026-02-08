@@ -1,4 +1,5 @@
 ---
+title: Magic Circle
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

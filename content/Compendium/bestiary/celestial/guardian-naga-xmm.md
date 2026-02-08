@@ -1,4 +1,5 @@
 ---
+title: Guardian Naga
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Lliira
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

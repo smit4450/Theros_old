@@ -1,4 +1,5 @@
 ---
+title: Manual of Quickness of Action
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

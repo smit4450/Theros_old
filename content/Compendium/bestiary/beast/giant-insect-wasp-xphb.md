@@ -1,4 +1,5 @@
 ---
+title: Giant Insect (Wasp)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

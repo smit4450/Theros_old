@@ -1,4 +1,5 @@
 ---
+title: Lion
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Lunging Attack
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

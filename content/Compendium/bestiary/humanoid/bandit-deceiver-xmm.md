@@ -1,4 +1,5 @@
 ---
+title: Bandit Deceiver
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

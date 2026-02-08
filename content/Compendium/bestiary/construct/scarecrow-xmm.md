@@ -1,4 +1,5 @@
 ---
+title: Scarecrow
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

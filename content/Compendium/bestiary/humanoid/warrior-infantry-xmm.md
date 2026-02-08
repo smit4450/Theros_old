@@ -1,4 +1,5 @@
 ---
+title: Warrior Infantry
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

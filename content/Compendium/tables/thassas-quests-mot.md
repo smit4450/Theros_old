@@ -1,4 +1,5 @@
 ---
+title: "Thassa's Quests"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

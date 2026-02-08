@@ -1,4 +1,5 @@
 ---
+title: Charm of the Slayer
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

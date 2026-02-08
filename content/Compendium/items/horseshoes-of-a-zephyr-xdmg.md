@@ -1,4 +1,5 @@
 ---
+title: Horseshoes of a Zephyr
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Invisibility
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Purple Worm
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Carrying Capacity
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

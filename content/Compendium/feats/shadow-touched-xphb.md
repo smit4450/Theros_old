@@ -1,4 +1,5 @@
 ---
+title: Shadow-Touched
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

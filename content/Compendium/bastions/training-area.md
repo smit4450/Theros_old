@@ -1,4 +1,5 @@
 ---
+title: Training Area
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

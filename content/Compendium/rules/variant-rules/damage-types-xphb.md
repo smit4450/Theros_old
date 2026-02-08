@@ -1,4 +1,5 @@
 ---
+title: Damage Types
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

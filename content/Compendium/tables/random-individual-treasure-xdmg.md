@@ -1,4 +1,5 @@
 ---
+title: Random Individual Treasure
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

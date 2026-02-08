@@ -1,4 +1,5 @@
 ---
+title: Atlas of Faerûn
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

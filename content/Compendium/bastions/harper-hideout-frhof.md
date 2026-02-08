@@ -1,4 +1,5 @@
 ---
+title: Harper Hideout
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

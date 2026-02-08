@@ -1,4 +1,5 @@
 ---
+title: Index of Deities
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

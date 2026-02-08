@@ -1,4 +1,5 @@
 ---
+title: Fey-Touched
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Animated Armor
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Harper Teamwork
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

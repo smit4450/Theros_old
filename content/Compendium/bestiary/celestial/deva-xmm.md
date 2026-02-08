@@ -1,4 +1,5 @@
 ---
+title: Deva
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

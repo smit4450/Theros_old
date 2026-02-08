@@ -1,4 +1,5 @@
 ---
+title: "Heward's Handy Haversack"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

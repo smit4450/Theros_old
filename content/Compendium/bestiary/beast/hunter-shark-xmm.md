@@ -1,4 +1,5 @@
 ---
+title: Hunter Shark
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Aberrant Sorcery
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

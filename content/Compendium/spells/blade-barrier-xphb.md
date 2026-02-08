@@ -1,4 +1,5 @@
 ---
+title: Blade Barrier
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

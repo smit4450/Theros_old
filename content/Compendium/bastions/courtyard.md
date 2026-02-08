@@ -1,4 +1,5 @@
 ---
+title: Courtyard
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

@@ -1,4 +1,5 @@
 ---
+title: "Veteran's Cane"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

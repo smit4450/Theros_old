@@ -1,4 +1,5 @@
 ---
+title: Scion of the Three
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

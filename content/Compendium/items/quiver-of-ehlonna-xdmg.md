@@ -1,4 +1,5 @@
 ---
+title: Quiver of Ehlonna
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

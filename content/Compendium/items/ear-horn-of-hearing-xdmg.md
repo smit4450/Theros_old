@@ -1,4 +1,5 @@
 ---
+title: Ear Horn of Hearing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

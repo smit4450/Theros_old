@@ -1,4 +1,5 @@
 ---
+title: Gorgon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

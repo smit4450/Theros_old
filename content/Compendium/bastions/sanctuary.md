@@ -1,4 +1,5 @@
 ---
+title: Sanctuary
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

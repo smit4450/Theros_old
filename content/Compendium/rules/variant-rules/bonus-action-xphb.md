@@ -1,4 +1,5 @@
 ---
+title: Bonus Action
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

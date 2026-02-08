@@ -1,4 +1,5 @@
 ---
+title: Summon Fey
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Per Day
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

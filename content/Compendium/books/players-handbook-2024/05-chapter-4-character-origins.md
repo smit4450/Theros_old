@@ -1,4 +1,5 @@
 ---
+title: "Chapter 4: Character Origins"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

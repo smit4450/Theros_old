@@ -1,4 +1,5 @@
 ---
+title: Glamoured Studded Leather
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

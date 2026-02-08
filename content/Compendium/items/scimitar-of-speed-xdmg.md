@@ -1,4 +1,5 @@
 ---
+title: Scimitar of Speed
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

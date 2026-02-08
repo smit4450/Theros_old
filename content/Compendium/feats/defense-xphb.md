@@ -1,4 +1,5 @@
 ---
+title: Defense
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

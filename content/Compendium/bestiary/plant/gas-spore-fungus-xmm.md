@@ -1,4 +1,5 @@
 ---
+title: Gas Spore Fungus
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

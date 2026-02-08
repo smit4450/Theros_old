@@ -1,4 +1,5 @@
 ---
+title: Rockslide
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

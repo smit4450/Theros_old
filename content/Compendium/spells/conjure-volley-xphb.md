@@ -1,4 +1,5 @@
 ---
+title: Conjure Volley
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

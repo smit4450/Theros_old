@@ -1,4 +1,5 @@
 ---
+title: Modron Quadrone
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

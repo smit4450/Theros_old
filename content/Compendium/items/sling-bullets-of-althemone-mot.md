@@ -1,4 +1,5 @@
 ---
+title: Sling Bullets of Althemone
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Triton Shorestalker
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

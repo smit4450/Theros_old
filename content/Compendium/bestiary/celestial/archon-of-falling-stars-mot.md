@@ -1,4 +1,5 @@
 ---
+title: Archon of Falling Stars
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

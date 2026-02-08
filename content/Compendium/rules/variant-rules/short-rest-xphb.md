@@ -1,4 +1,5 @@
 ---
+title: Short Rest
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

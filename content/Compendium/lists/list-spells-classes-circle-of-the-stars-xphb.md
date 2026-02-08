@@ -1,4 +1,5 @@
 ---
+title: Spells for Circle of the Stars
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Cloak of Displacement
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

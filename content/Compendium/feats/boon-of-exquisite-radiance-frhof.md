@@ -1,4 +1,5 @@
 ---
+title: Boon of Exquisite Radiance
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

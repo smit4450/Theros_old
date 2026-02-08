@@ -1,4 +1,5 @@
 ---
+title: Potion of Vitality
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

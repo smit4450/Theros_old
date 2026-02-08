@@ -1,4 +1,5 @@
 ---
+title: Level Advancement; Character Advancement
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Wand of Enemy Detection
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

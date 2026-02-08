@@ -1,4 +1,5 @@
 ---
+title: Hunting Rifle
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

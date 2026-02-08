@@ -1,4 +1,5 @@
 ---
+title: Index of Optional-features
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

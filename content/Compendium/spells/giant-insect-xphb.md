@@ -1,4 +1,5 @@
 ---
+title: Giant Insect
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

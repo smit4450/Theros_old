@@ -1,4 +1,5 @@
 ---
+title: Axe of the Dwarvish Lords
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

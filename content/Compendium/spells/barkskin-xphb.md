@@ -1,4 +1,5 @@
 ---
+title: Barkskin
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

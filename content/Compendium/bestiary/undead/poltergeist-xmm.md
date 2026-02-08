@@ -1,4 +1,5 @@
 ---
+title: Poltergeist
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

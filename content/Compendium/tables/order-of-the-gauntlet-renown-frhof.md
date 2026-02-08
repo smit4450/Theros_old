@@ -1,4 +1,5 @@
 ---
+title: Order of the Gauntlet Renown
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

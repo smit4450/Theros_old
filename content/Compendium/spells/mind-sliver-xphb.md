@@ -1,4 +1,5 @@
 ---
+title: Mind Sliver
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

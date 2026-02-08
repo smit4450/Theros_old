@@ -1,4 +1,5 @@
 ---
+title: Omens of Heliod
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

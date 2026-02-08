@@ -1,4 +1,5 @@
 ---
+title: "Tasha's Bubbling Cauldron"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Kord
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

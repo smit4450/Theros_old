@@ -1,4 +1,5 @@
 ---
+title: Critical Hit
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

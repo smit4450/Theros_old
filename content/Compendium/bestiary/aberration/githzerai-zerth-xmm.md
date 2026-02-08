@@ -1,4 +1,5 @@
 ---
+title: Githzerai Zerth
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

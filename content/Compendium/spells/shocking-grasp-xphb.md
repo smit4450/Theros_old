@@ -1,4 +1,5 @@
 ---
+title: Shocking Grasp
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

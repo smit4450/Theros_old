@@ -1,4 +1,5 @@
 ---
+title: Relics - Rare
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

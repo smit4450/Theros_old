@@ -1,4 +1,5 @@
 ---
+title: Helmed Horror
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Ball Bearings
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

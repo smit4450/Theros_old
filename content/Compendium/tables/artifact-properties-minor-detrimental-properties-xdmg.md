@@ -1,4 +1,5 @@
 ---
+title: Artifact Properties; Minor Detrimental Properties
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

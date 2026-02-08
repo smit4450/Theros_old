@@ -1,4 +1,5 @@
 ---
+title: Giant Wolf Spider
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

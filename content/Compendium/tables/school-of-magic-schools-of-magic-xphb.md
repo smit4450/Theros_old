@@ -1,4 +1,5 @@
 ---
+title: School of Magic; Schools of Magic
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

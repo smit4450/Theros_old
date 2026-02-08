@@ -1,4 +1,5 @@
 ---
+title: Glass Bottle
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

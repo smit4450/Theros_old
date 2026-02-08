@@ -1,4 +1,5 @@
 ---
+title: "Heroes' Feast"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

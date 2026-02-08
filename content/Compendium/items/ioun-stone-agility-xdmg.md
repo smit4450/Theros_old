@@ -1,4 +1,5 @@
 ---
+title: Ioun Stone, Agility
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Renown Rewards; Purple Dragon Knights Renown
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

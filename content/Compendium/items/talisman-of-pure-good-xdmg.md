@@ -1,4 +1,5 @@
 ---
+title: Talisman of Pure Good
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

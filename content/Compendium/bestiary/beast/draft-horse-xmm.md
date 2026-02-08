@@ -1,4 +1,5 @@
 ---
+title: Draft Horse
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

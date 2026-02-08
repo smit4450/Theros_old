@@ -1,4 +1,5 @@
 ---
+title: Dream
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

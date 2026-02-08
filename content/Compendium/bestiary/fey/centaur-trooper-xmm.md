@@ -1,4 +1,5 @@
 ---
+title: Centaur Trooper
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

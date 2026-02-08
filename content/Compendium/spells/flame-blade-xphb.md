@@ -1,4 +1,5 @@
 ---
+title: Flame Blade
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

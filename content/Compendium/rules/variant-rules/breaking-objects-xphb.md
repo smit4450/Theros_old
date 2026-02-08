@@ -1,4 +1,5 @@
 ---
+title: Breaking Objects
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

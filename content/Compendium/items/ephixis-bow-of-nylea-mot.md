@@ -1,4 +1,5 @@
 ---
+title: Ephixis, Bow of Nylea
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

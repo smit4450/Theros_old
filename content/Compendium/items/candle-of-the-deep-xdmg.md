@@ -1,4 +1,5 @@
 ---
+title: Candle of the Deep
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

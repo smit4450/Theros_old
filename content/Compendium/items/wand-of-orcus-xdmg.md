@@ -1,4 +1,5 @@
 ---
+title: Wand of Orcus
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

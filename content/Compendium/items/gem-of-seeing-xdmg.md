@@ -1,4 +1,5 @@
 ---
+title: Gem of Seeing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: "Spells for Karametra's Votary"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

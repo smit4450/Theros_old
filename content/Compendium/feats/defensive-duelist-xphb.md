@@ -1,4 +1,5 @@
 ---
+title: Defensive Duelist
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

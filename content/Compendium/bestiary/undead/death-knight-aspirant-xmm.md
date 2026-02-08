@@ -1,4 +1,5 @@
 ---
+title: Death Knight Aspirant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

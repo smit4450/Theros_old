@@ -1,4 +1,5 @@
 ---
+title: Index of Ooze
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

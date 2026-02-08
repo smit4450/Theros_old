@@ -1,4 +1,5 @@
 ---
+title: Scout Captain
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

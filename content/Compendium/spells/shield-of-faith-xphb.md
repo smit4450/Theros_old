@@ -1,4 +1,5 @@
 ---
+title: Shield of Faith
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

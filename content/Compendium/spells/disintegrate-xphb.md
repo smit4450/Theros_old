@@ -1,4 +1,5 @@
 ---
+title: Disintegrate
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

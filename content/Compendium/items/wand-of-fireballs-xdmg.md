@@ -1,4 +1,5 @@
 ---
+title: Wand of Fireballs
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

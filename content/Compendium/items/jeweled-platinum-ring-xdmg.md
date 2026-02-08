@@ -1,4 +1,5 @@
 ---
+title: Jeweled platinum ring
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

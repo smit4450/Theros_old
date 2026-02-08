@@ -1,4 +1,5 @@
 ---
+title: Iron Spike
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Ammunition (Varies); Ammunition
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

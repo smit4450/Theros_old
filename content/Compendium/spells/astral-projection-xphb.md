@@ -1,4 +1,5 @@
 ---
+title: Astral Projection
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

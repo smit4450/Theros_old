@@ -1,4 +1,5 @@
 ---
+title: Doppelganger
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

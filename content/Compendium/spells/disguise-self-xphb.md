@@ -1,4 +1,5 @@
 ---
+title: Disguise Self
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

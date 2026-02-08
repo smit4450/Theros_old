@@ -1,4 +1,5 @@
 ---
+title: Lantern of Revealing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

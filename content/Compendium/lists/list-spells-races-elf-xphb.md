@@ -1,4 +1,5 @@
 ---
+title: Spells for Elf
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

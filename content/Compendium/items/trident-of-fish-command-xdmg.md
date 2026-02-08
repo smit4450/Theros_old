@@ -1,4 +1,5 @@
 ---
+title: Trident of Fish Command
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

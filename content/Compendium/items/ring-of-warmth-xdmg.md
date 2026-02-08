@@ -1,4 +1,5 @@
 ---
+title: Ring of Warmth
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

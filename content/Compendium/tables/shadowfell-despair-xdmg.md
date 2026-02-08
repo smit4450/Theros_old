@@ -1,4 +1,5 @@
 ---
+title: Shadowfell Despair
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

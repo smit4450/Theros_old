@@ -1,4 +1,5 @@
 ---
+title: Time in the Realms; Calendar of Harptos
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Phantasmal Killer
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

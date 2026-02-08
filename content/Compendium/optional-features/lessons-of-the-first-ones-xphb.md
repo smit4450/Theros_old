@@ -1,4 +1,5 @@
 ---
+title: Lessons of the First Ones
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

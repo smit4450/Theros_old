@@ -1,4 +1,5 @@
 ---
+title: Spells for Armor of Shadows
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

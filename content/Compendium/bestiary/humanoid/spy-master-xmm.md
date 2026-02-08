@@ -1,4 +1,5 @@
 ---
+title: Spy Master
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

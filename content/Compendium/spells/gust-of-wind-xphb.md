@@ -1,4 +1,5 @@
 ---
+title: Gust of Wind
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Tome of Understanding
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

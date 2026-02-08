@@ -1,4 +1,5 @@
 ---
+title: Choose a Background; Ability Scores and Backgrounds
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

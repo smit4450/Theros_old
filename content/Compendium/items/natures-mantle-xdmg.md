@@ -1,4 +1,5 @@
 ---
+title: "Nature's Mantle"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

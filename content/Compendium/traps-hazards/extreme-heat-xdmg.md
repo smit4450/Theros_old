@@ -1,4 +1,5 @@
 ---
+title: Extreme Heat
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

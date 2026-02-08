@@ -1,4 +1,5 @@
 ---
+title: Zone of Truth
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

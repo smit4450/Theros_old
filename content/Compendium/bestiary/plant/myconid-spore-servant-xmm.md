@@ -1,4 +1,5 @@
 ---
+title: Myconid Spore Servant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

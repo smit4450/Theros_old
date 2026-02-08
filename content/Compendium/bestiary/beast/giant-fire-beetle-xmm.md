@@ -1,4 +1,5 @@
 ---
+title: Giant Fire Beetle
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

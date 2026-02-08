@@ -1,4 +1,5 @@
 ---
+title: Omens of Phenax
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

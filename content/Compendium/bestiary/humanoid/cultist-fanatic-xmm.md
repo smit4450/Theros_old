@@ -1,4 +1,5 @@
 ---
+title: Cultist Fanatic
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

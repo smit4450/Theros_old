@@ -1,4 +1,5 @@
 ---
+title: Beshaba
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

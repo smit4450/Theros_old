@@ -1,4 +1,5 @@
 ---
+title: Rope of Entanglement
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

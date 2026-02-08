@@ -1,4 +1,5 @@
 ---
+title: Gloves of Missile Snaring
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

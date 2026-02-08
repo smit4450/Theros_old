@@ -1,4 +1,5 @@
 ---
+title: Observatory
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

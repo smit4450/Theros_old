@@ -1,4 +1,5 @@
 ---
+title: College of Glamour
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

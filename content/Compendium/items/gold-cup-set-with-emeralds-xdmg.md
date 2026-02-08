@@ -1,4 +1,5 @@
 ---
+title: Gold cup set with emeralds
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

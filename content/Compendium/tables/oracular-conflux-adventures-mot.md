@@ -1,4 +1,5 @@
 ---
+title: Oracular Conflux Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

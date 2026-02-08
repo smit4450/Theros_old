@@ -1,4 +1,5 @@
 ---
+title: "Baba Yaga's Dancing Broom"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

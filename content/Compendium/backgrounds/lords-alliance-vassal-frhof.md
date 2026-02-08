@@ -1,4 +1,5 @@
 ---
+title: "Lords' Alliance Vassal"
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:

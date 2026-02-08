@@ -1,4 +1,5 @@
 ---
+title: Sheep
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

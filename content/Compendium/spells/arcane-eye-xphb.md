@@ -1,4 +1,5 @@
 ---
+title: Arcane Eye
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

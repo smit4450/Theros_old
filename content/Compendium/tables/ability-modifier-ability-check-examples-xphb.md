@@ -1,4 +1,5 @@
 ---
+title: Ability Modifier; Ability Check Examples
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

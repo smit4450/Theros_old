@@ -1,4 +1,5 @@
 ---
+title: Water Weird
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

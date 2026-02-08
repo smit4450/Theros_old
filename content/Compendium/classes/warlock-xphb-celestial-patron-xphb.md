@@ -1,4 +1,5 @@
 ---
+title: Celestial Patron
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

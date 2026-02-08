@@ -1,4 +1,5 @@
 ---
+title: Falling
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

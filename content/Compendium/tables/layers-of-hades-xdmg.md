@@ -1,4 +1,5 @@
 ---
+title: Layers of Hades
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Difficulty Class; Typical DCs
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

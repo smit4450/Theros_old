@@ -1,4 +1,5 @@
 ---
+title: Fire Elemental
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

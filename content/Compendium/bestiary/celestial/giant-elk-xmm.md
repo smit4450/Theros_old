@@ -1,4 +1,5 @@
 ---
+title: Giant Elk
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

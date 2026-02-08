@@ -1,4 +1,5 @@
 ---
+title: Cuthbert
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

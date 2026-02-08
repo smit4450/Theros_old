@@ -1,4 +1,5 @@
 ---
+title: Piranha
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

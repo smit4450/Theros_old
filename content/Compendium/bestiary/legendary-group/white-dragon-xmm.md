@@ -1,4 +1,5 @@
 ---
+title: White Dragon
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

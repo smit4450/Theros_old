@@ -1,4 +1,5 @@
 ---
+title: Elemental Weapon
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

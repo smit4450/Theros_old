@@ -1,4 +1,5 @@
 ---
+title: "Appendix A: Lore Glossary"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

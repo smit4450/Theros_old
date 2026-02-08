@@ -1,4 +1,5 @@
 ---
+title: Power Word Heal
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

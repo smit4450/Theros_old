@@ -1,4 +1,5 @@
 ---
+title: Box of turquoise animal figurines
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

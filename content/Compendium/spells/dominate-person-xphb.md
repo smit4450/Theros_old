@@ -1,4 +1,5 @@
 ---
+title: Dominate Person
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

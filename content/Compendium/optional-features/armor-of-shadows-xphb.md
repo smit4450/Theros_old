@@ -1,4 +1,5 @@
 ---
+title: Armor of Shadows
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

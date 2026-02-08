@@ -1,4 +1,5 @@
 ---
+title: Thunderclap
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

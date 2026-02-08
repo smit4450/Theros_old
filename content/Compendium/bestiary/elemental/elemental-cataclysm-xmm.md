@@ -1,4 +1,5 @@
 ---
+title: Elemental Cataclysm
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

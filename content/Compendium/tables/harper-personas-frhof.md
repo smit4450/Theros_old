@@ -1,4 +1,5 @@
 ---
+title: Harper Personas
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

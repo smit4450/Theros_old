@@ -1,4 +1,5 @@
 ---
+title: Folding Boat
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

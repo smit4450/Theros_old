@@ -1,4 +1,5 @@
 ---
+title: Settlement Tables and Tracker; Defining Traits
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

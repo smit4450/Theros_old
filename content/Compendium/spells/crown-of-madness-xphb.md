@@ -1,4 +1,5 @@
 ---
+title: Crown of Madness
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

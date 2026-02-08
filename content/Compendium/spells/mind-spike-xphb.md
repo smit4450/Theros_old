@@ -1,4 +1,5 @@
 ---
+title: Mind Spike
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

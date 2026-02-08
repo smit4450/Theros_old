@@ -1,4 +1,5 @@
 ---
+title: Tankard of Sobriety
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

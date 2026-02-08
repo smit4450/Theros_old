@@ -1,4 +1,5 @@
 ---
+title: Spells for Light Domain
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

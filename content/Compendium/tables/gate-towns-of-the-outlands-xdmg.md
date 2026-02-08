@@ -1,4 +1,5 @@
 ---
+title: Gate-Towns of the Outlands
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

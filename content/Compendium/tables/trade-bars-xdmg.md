@@ -1,4 +1,5 @@
 ---
+title: Trade Bars
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

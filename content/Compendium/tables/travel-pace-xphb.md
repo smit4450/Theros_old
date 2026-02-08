@@ -1,4 +1,5 @@
 ---
+title: Travel Pace
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Describe Appearance and Personality; Wisdom
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

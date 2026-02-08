@@ -1,4 +1,5 @@
 ---
+title: Food, Drink, and Lodging
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

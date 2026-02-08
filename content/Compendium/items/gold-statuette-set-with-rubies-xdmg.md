@@ -1,4 +1,5 @@
 ---
+title: Gold statuette set with rubies
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

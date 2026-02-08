@@ -1,4 +1,5 @@
 ---
+title: Spells for Visions of Distant Realms
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

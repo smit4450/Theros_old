@@ -1,4 +1,5 @@
 ---
+title: Pipes of Haunting
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

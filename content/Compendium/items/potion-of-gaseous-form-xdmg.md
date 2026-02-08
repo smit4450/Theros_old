@@ -1,4 +1,5 @@
 ---
+title: Potion of Gaseous Form
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

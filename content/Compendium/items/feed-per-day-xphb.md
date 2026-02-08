@@ -1,4 +1,5 @@
 ---
+title: Feed (per day)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

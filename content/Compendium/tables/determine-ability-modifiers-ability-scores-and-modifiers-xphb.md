@@ -1,4 +1,5 @@
 ---
+title: Determine Ability Modifiers; Ability Scores and Modifiers
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

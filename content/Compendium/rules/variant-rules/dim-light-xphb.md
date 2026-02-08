@@ -1,4 +1,5 @@
 ---
+title: Dim Light
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

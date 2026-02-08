@@ -1,4 +1,5 @@
 ---
+title: Chromatic Orb
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

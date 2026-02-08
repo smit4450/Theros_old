@@ -1,4 +1,5 @@
 ---
+title: Giant Squid
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

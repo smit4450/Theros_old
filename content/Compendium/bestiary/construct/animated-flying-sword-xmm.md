@@ -1,4 +1,5 @@
 ---
+title: Animated Flying Sword
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Charm of Darkvision
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

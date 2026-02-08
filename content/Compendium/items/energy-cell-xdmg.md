@@ -1,4 +1,5 @@
 ---
+title: Energy Cell
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Githzerai Monk
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

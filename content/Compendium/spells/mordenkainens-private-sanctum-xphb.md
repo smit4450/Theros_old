@@ -1,4 +1,5 @@
 ---
+title: "Mordenkainen's Private Sanctum"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Chimera
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

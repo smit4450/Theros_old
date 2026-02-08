@@ -1,4 +1,5 @@
 ---
+title: Scroll of Protection (Beasts)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Mastiff
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Mogis
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

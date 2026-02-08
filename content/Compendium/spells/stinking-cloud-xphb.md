@@ -1,4 +1,5 @@
 ---
+title: Stinking Cloud
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

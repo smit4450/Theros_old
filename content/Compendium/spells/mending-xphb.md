@@ -1,4 +1,5 @@
 ---
+title: Mending
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

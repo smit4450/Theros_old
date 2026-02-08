@@ -1,4 +1,5 @@
 ---
+title: Spells for Ascendant Step
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

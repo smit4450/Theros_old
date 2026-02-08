@@ -1,4 +1,5 @@
 ---
+title: Master of Myriad Forms
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

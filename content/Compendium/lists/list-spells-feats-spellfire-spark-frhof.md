@@ -1,4 +1,5 @@
 ---
+title: Spells for Spellfire Spark
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

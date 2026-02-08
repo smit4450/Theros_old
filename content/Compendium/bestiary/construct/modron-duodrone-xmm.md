@@ -1,4 +1,5 @@
 ---
+title: Modron Duodrone
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Frost Brand
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

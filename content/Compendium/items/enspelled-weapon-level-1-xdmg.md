@@ -1,4 +1,5 @@
 ---
+title: Enspelled Weapon (Level 1)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

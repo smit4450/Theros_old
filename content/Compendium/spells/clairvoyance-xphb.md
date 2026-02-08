@@ -1,4 +1,5 @@
 ---
+title: Clairvoyance
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

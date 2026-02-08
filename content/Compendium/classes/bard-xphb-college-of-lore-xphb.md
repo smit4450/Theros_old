@@ -1,4 +1,5 @@
 ---
+title: College of Lore
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

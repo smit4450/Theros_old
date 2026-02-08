@@ -1,4 +1,5 @@
 ---
+title: Battleaxe
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

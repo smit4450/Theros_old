@@ -1,4 +1,5 @@
 ---
+title: Priest Acolyte
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Clothes of Mending
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

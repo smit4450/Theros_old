@@ -1,4 +1,5 @@
 ---
+title: Planar Effects
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

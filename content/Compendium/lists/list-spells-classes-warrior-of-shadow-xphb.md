@@ -1,4 +1,5 @@
 ---
+title: Spells for Warrior of Shadow
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Wild Magic Zone
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

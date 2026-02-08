@@ -1,4 +1,5 @@
 ---
+title: Alarm
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

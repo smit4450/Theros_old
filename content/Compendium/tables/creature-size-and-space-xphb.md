@@ -1,4 +1,5 @@
 ---
+title: Creature Size and Space
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

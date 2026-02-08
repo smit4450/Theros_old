@@ -1,4 +1,5 @@
 ---
+title: Purple Dragon Rook
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

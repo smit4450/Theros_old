@@ -1,4 +1,5 @@
 ---
+title: Dimension Door
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

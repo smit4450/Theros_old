@@ -1,4 +1,5 @@
 ---
+title: Conjure Constructs
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

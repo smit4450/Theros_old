@@ -1,4 +1,5 @@
 ---
+title: Trithereon
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

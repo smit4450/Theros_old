@@ -1,4 +1,5 @@
 ---
+title: Shield of Missile Attraction
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Helm of Brilliance
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

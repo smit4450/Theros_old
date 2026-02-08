@@ -1,4 +1,5 @@
 ---
+title: Piercer
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Steel Wind Strike
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

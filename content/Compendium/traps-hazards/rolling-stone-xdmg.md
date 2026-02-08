@@ -1,4 +1,5 @@
 ---
+title: Rolling Stone
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

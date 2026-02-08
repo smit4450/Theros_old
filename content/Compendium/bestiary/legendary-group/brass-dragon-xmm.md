@@ -1,4 +1,5 @@
 ---
+title: Brass Dragon
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

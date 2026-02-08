@@ -1,4 +1,5 @@
 ---
+title: Cloak of Many Fashions
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

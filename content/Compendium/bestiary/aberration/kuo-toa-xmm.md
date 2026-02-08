@@ -1,4 +1,5 @@
 ---
+title: Kuo-toa
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

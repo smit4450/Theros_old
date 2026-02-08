@@ -1,4 +1,5 @@
 ---
+title: "Daern's Instant Fortress"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Glibness
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

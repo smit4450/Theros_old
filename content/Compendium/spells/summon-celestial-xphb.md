@@ -1,4 +1,5 @@
 ---
+title: Summon Celestial
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

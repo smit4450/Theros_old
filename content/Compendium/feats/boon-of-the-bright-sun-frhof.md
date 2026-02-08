@@ -1,4 +1,5 @@
 ---
+title: Boon of the Bright Sun
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

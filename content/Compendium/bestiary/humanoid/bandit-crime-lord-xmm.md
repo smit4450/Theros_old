@@ -1,4 +1,5 @@
 ---
+title: Bandit Crime Lord
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

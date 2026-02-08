@@ -1,4 +1,5 @@
 ---
+title: Happenstance Hooks
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

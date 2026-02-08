@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Compendium/backgrounds/acolyte-xphb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "acolyte-xphb"
             }
           }
         ]
@@ -243,8 +243,8 @@
   },
   "active": "f321ae042c09eb6d",
   "lastOpenFiles": [
-    "Compendium/books/mythic-odysseys-of-theros/7-friends-and-foes.md",
     "index.md",
+    "Compendium/books/mythic-odysseys-of-theros/7-friends-and-foes.md",
     "Compendium/backgrounds/backgrounds.md",
     "Compendium/races/races.md",
     "Compendium/races/leonin-mot.md",

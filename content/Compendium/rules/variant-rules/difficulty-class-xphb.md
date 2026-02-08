@@ -1,4 +1,5 @@
 ---
+title: Difficulty Class
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

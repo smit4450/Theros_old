@@ -1,4 +1,5 @@
 ---
+title: Chain Devil
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

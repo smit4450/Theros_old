@@ -1,4 +1,5 @@
 ---
+title: Arcane Gate
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

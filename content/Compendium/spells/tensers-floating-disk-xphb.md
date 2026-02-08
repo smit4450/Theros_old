@@ -1,4 +1,5 @@
 ---
+title: "Tenser's Floating Disk"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

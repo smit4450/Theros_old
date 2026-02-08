@@ -1,4 +1,5 @@
 ---
+title: Warhorse Skeleton
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

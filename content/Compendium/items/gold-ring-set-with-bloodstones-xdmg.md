@@ -1,4 +1,5 @@
 ---
+title: Gold ring set with bloodstones
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Kruphix
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

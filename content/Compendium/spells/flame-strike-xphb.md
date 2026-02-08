@@ -1,4 +1,5 @@
 ---
+title: Flame Strike
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Scroll of Titan Summoning (Colossus)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Young Remorhaz
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

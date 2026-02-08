@@ -1,4 +1,5 @@
 ---
+title: "Keranos's Quests"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

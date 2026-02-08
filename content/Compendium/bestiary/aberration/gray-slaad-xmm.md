@@ -1,4 +1,5 @@
 ---
+title: Gray Slaad
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

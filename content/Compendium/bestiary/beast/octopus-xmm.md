@@ -1,4 +1,5 @@
 ---
+title: Octopus
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

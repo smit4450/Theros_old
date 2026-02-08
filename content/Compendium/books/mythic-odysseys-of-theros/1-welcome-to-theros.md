@@ -1,4 +1,5 @@
 ---
+title: Welcome to Theros
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

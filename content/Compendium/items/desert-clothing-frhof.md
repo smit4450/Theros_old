@@ -1,4 +1,5 @@
 ---
+title: Desert Clothing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

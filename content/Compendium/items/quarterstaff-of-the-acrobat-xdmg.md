@@ -1,4 +1,5 @@
 ---
+title: Quarterstaff of the Acrobat
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

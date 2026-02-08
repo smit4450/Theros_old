@@ -1,4 +1,5 @@
 ---
+title: Holy Water
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

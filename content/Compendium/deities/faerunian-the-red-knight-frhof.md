@@ -1,4 +1,5 @@
 ---
+title: The Red Knight
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

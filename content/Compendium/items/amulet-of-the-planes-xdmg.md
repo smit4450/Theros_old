@@ -1,4 +1,5 @@
 ---
+title: Amulet of the Planes
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

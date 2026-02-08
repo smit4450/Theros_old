@@ -1,4 +1,5 @@
 ---
+title: Noble Prodigy
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: "Appendix C: Tracking Sheets"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

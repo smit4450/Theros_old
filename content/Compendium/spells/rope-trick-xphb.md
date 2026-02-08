@@ -1,4 +1,5 @@
 ---
+title: Rope Trick
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

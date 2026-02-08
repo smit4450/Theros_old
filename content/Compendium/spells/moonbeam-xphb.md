@@ -1,4 +1,5 @@
 ---
+title: Moonbeam
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Oath of the Ancients
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

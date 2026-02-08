@@ -1,4 +1,5 @@
 ---
+title: Deck of Many Things
 obsidianUIMode: preview
 cssclasses:
 - json5e-deck

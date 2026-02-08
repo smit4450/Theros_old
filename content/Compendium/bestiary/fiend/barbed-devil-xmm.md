@@ -1,4 +1,5 @@
 ---
+title: Barbed Devil
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Pass without Trace
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

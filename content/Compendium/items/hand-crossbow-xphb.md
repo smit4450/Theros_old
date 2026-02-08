@@ -1,4 +1,5 @@
 ---
+title: Hand Crossbow
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

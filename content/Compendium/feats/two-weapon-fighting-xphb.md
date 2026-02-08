@@ -1,4 +1,5 @@
 ---
+title: Two-Weapon Fighting
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Spellfire Initiate
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:

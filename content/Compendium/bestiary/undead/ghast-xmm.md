@@ -1,4 +1,5 @@
 ---
+title: Ghast
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

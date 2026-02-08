@@ -1,4 +1,5 @@
 ---
+title: Witch Bolt
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

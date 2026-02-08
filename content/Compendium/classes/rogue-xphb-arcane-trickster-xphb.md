@@ -1,4 +1,5 @@
 ---
+title: Arcane Trickster
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

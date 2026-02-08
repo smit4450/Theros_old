@@ -1,4 +1,5 @@
 ---
+title: Gold circlet set with four aquamarines
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

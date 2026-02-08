@@ -1,4 +1,5 @@
 ---
+title: Parlor
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

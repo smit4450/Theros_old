@@ -1,4 +1,5 @@
 ---
+title: Cure Wounds
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

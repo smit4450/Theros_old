@@ -1,4 +1,5 @@
 ---
+title: Maneuvering Attack
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

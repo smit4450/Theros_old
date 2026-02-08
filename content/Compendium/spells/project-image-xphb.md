@@ -1,4 +1,5 @@
 ---
+title: Project Image
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

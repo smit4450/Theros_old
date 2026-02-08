@@ -1,4 +1,5 @@
 ---
+title: Minotaur Skeleton
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Animal Shapes
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

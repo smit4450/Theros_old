@@ -1,4 +1,5 @@
 ---
+title: Bestial Spirit (Water)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

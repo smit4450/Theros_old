@@ -1,4 +1,5 @@
 ---
+title: Eldath
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

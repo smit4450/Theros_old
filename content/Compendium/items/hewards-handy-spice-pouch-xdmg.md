@@ -1,4 +1,5 @@
 ---
+title: "Heward's Handy Spice Pouch"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

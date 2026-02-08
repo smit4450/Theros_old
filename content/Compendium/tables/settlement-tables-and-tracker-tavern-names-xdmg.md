@@ -1,4 +1,5 @@
 ---
+title: Settlement Tables and Tracker; Tavern Names
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

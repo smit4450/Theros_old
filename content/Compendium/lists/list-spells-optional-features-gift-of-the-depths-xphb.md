@@ -1,4 +1,5 @@
 ---
+title: Spells for Gift of the Depths
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

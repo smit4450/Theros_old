@@ -1,4 +1,5 @@
 ---
+title: Book of Vile Darkness
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

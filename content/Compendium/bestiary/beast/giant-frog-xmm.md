@@ -1,4 +1,5 @@
 ---
+title: Giant Frog
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

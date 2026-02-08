@@ -1,4 +1,5 @@
 ---
+title: Erebos
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

@@ -1,4 +1,5 @@
 ---
+title: Spell
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

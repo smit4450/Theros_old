@@ -1,4 +1,5 @@
 ---
+title: Heat Metal
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

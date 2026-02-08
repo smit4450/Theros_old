@@ -1,4 +1,5 @@
 ---
+title: Mask of Many Faces
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

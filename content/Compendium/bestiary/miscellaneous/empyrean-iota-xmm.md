@@ -1,4 +1,5 @@
 ---
+title: Empyrean Iota
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Order of the Gauntlet Tournament Field
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

@@ -1,4 +1,5 @@
 ---
+title: Detailed, life-sized dragonborn skull cast in electrum
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

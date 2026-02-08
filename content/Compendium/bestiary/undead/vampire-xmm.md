@@ -1,4 +1,5 @@
 ---
+title: Vampire
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

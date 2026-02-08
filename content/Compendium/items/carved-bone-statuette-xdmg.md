@@ -1,4 +1,5 @@
 ---
+title: Carved bone statuette
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

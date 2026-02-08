@@ -1,4 +1,5 @@
 ---
+title: Mace of Smiting
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

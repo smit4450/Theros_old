@@ -1,4 +1,5 @@
 ---
+title: Pipes of the Sewers
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

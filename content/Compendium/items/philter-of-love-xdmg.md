@@ -1,4 +1,5 @@
 ---
+title: Philter of Love
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

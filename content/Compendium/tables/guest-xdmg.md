@@ -1,4 +1,5 @@
 ---
+title: Guest
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

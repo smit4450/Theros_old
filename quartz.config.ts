@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Legends of Ril",
+    pageTitle: "Theros",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

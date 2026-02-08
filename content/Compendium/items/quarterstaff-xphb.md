@@ -1,4 +1,5 @@
 ---
+title: Quarterstaff
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

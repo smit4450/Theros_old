@@ -1,4 +1,5 @@
 ---
+title: Bag of Beans
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

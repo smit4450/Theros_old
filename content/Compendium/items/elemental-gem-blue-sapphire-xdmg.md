@@ -1,4 +1,5 @@
 ---
+title: Elemental Gem, Blue Sapphire
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

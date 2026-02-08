@@ -1,4 +1,5 @@
 ---
+title: Banshee
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

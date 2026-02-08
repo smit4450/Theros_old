@@ -1,4 +1,5 @@
 ---
+title: Tactical Assessment
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

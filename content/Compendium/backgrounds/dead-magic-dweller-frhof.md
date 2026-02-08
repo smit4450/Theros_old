@@ -1,4 +1,5 @@
 ---
+title: Dead Magic Dweller
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:

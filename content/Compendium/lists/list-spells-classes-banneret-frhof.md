@@ -1,4 +1,5 @@
 ---
+title: Spells for Banneret
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

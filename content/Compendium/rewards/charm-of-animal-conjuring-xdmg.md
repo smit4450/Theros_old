@@ -1,4 +1,5 @@
 ---
+title: Charm of Animal Conjuring
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

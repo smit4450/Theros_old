@@ -1,4 +1,5 @@
 ---
+title: Bracers of Archery
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

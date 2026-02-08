@@ -1,4 +1,5 @@
 ---
+title: Swarm of Venomous Snakes
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

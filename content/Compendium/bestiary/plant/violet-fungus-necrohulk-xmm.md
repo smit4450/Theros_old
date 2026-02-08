@@ -1,4 +1,5 @@
 ---
+title: Violet Fungus Necrohulk
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

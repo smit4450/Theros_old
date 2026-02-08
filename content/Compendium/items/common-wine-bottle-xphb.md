@@ -1,4 +1,5 @@
 ---
+title: Common Wine (bottle)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

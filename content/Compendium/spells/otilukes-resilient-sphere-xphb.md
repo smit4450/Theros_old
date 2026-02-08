@@ -1,4 +1,5 @@
 ---
+title: "Otiluke's Resilient Sphere"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Sharpshooter
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

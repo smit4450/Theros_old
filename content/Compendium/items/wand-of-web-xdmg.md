@@ -1,4 +1,5 @@
 ---
+title: Wand of Web
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

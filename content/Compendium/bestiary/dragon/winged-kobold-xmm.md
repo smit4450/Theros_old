@@ -1,4 +1,5 @@
 ---
+title: Winged Kobold
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: "Chapter 5: Creating Campaigns"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

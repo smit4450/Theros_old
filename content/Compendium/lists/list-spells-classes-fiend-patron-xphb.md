@@ -1,4 +1,5 @@
 ---
+title: Spells for Fiend Patron
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Boots of False Tracks
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

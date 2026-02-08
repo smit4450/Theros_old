@@ -1,4 +1,5 @@
 ---
+title: Ginger
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

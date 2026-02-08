@@ -1,4 +1,5 @@
 ---
+title: "Lolth's Sting"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

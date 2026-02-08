@@ -1,4 +1,5 @@
 ---
+title: Boon of Communication
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

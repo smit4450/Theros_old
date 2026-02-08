@@ -1,4 +1,5 @@
 ---
+title: Boon of Desperate Resilience
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Orb of Direction
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Control Weather
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Cambion
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

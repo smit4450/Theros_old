@@ -1,4 +1,5 @@
 ---
+title: Satyr Reveler
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

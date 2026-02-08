@@ -1,4 +1,5 @@
 ---
+title: Ring of Three Wishes
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

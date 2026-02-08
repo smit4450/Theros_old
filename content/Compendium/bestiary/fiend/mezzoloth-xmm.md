@@ -1,4 +1,5 @@
 ---
+title: Mezzoloth
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

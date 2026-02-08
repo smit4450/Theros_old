@@ -1,4 +1,5 @@
 ---
+title: Comprehend Languages
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

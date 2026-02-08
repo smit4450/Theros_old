@@ -1,4 +1,5 @@
 ---
+title: Index of Bastions
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

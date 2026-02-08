@@ -1,4 +1,5 @@
 ---
+title: Rakshasa
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

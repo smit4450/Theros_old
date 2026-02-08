@@ -1,4 +1,5 @@
 ---
+title: Rod of Resurrection
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

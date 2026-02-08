@@ -1,4 +1,5 @@
 ---
+title: Oil of Sharpness
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

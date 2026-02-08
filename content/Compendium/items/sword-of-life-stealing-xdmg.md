@@ -1,4 +1,5 @@
 ---
+title: Sword of Life Stealing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

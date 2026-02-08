@@ -1,4 +1,5 @@
 ---
+title: Shield Guardian
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

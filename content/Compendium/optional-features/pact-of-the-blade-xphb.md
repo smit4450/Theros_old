@@ -1,4 +1,5 @@
 ---
+title: Pact of the Blade
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

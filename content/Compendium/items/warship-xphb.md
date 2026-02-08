@@ -1,4 +1,5 @@
 ---
+title: Warship
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

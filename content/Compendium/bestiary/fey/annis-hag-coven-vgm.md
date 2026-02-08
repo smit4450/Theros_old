@@ -1,4 +1,5 @@
 ---
+title: Annis Hag (Coven)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

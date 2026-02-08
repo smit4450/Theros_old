@@ -1,4 +1,5 @@
 ---
+title: "Chapter 7: Spells"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

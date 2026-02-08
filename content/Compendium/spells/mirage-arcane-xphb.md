@@ -1,4 +1,5 @@
 ---
+title: Mirage Arcane
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

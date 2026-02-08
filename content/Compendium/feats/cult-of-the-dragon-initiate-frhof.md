@@ -1,4 +1,5 @@
 ---
+title: Cult of the Dragon Initiate
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

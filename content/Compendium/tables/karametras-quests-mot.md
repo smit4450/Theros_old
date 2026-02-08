@@ -1,4 +1,5 @@
 ---
+title: "Karametra's Quests"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

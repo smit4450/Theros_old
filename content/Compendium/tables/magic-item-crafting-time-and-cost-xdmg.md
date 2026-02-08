@@ -1,4 +1,5 @@
 ---
+title: Magic Item Crafting Time and Cost
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

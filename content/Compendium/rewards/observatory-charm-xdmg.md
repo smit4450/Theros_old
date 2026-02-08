@@ -1,4 +1,5 @@
 ---
+title: Observatory Charm
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

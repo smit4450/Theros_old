@@ -1,4 +1,5 @@
 ---
+title: Javelin of Lightning
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

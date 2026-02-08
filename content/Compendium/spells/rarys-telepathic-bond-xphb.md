@@ -1,4 +1,5 @@
 ---
+title: "Rary's Telepathic Bond"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Aura of Purity
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Bring It to an End; Adventure Climax
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

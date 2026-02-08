@@ -1,4 +1,5 @@
 ---
+title: 2,500 GP Art Objects
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

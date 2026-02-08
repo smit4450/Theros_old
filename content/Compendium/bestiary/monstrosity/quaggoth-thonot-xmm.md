@@ -1,4 +1,5 @@
 ---
+title: Quaggoth Thonot
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

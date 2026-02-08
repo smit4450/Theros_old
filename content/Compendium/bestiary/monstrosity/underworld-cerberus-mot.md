@@ -1,4 +1,5 @@
 ---
+title: Underworld Cerberus
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

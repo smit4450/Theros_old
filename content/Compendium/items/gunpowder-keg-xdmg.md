@@ -1,4 +1,5 @@
 ---
+title: Gunpowder (keg)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Bag of Holding
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

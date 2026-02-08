@@ -1,4 +1,5 @@
 ---
+title: Boon of Terror
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

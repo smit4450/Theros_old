@@ -1,4 +1,5 @@
 ---
+title: "Chapter 8: Bastions"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

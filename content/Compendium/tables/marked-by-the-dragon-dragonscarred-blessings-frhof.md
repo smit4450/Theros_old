@@ -1,4 +1,5 @@
 ---
+title: Marked by the Dragon; Dragonscarred Blessings
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

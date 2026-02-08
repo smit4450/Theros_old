@@ -1,4 +1,5 @@
 ---
+title: Giant Axe Beak
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

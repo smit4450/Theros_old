@@ -1,4 +1,5 @@
 ---
+title: Farmer
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:

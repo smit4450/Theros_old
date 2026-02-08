@@ -1,4 +1,5 @@
 ---
+title: Find Steed
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

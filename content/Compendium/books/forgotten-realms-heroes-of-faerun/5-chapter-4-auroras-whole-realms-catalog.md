@@ -1,4 +1,5 @@
 ---
+title: "Chapter 4: Aurora's Whole Realms Catalog"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

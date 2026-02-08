@@ -1,4 +1,5 @@
 ---
+title: Whispers of the Grave
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

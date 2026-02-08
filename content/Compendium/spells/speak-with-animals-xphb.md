@@ -1,4 +1,5 @@
 ---
+title: Speak with Animals
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

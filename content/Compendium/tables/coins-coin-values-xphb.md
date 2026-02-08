@@ -1,4 +1,5 @@
 ---
+title: Coins; Coin Values
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: "5: Sinister Names"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Hit Point Dice
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

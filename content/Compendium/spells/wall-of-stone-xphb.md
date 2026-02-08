@@ -1,4 +1,5 @@
 ---
+title: Wall of Stone
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Killer Whale
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

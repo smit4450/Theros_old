@@ -1,4 +1,5 @@
 ---
+title: Brazier of Commanding Fire Elementals
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

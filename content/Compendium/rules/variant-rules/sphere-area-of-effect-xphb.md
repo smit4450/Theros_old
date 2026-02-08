@@ -1,4 +1,5 @@
 ---
+title: "Sphere [Area of Effect]"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

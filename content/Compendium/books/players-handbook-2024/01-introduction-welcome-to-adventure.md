@@ -1,4 +1,5 @@
 ---
+title: "Introduction: Welcome to Adventure"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Gloom Stalker
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

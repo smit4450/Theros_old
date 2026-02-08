@@ -1,4 +1,5 @@
 ---
+title: Hold Monster
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

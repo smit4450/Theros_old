@@ -1,4 +1,5 @@
 ---
+title: "Brewer's Supplies"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

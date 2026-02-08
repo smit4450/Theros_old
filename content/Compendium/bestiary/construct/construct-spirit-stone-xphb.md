@@ -1,4 +1,5 @@
 ---
+title: Construct Spirit (Stone)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

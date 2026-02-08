@@ -1,4 +1,5 @@
 ---
+title: Spells for Oath of the Ancients
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

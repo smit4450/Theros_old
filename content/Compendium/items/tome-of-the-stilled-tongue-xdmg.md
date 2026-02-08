@@ -1,4 +1,5 @@
 ---
+title: Tome of the Stilled Tongue
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

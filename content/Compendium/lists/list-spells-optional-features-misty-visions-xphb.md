@@ -1,4 +1,5 @@
 ---
+title: Spells for Misty Visions
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Boon of Fluid Forms
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

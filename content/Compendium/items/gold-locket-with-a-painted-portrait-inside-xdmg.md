@@ -1,4 +1,5 @@
 ---
+title: Gold locket with a painted portrait inside
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

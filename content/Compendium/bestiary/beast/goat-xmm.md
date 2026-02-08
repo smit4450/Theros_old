@@ -1,4 +1,5 @@
 ---
+title: Goat
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

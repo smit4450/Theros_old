@@ -1,4 +1,5 @@
 ---
+title: Amaunator
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

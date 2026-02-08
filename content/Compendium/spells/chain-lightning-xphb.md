@@ -1,4 +1,5 @@
 ---
+title: Chain Lightning
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

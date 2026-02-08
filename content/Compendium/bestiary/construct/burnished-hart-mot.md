@@ -1,4 +1,5 @@
 ---
+title: Burnished Hart
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

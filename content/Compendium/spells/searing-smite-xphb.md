@@ -1,4 +1,5 @@
 ---
+title: Searing Smite
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

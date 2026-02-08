@@ -1,4 +1,5 @@
 ---
+title: Settlement Tables and Tracker; Random Shops
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

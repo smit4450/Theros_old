@@ -1,4 +1,5 @@
 ---
+title: Wizard
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

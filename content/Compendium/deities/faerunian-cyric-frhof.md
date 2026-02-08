@@ -1,4 +1,5 @@
 ---
+title: Cyric
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

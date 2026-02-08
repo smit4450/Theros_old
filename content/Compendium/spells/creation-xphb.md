@@ -1,4 +1,5 @@
 ---
+title: Creation
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

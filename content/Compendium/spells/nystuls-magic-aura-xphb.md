@@ -1,4 +1,5 @@
 ---
+title: "Nystul's Magic Aura"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

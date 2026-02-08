@@ -1,4 +1,5 @@
 ---
+title: Fharlanghn
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

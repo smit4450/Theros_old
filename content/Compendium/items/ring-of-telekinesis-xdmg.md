@@ -1,4 +1,5 @@
 ---
+title: Ring of Telekinesis
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

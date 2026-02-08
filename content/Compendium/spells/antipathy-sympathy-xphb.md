@@ -1,4 +1,5 @@
 ---
+title: Antipathy/Sympathy
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

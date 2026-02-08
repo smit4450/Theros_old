@@ -1,4 +1,5 @@
 ---
+title: "Nolzur's Marvelous Pigments"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

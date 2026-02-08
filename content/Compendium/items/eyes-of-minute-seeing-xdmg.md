@@ -1,4 +1,5 @@
 ---
+title: Eyes of Minute Seeing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

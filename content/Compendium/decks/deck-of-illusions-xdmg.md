@@ -1,4 +1,5 @@
 ---
+title: Deck of Illusions
 obsidianUIMode: preview
 cssclasses:
 - json5e-deck

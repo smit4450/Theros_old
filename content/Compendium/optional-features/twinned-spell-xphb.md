@@ -1,4 +1,5 @@
 ---
+title: Twinned Spell
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Robe of Eyes
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

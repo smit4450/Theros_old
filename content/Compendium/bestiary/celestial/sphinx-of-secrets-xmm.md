@@ -1,4 +1,5 @@
 ---
+title: Sphinx of Secrets
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

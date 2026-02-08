@@ -1,4 +1,5 @@
 ---
+title: Armor of Gleaming
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

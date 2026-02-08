@@ -1,4 +1,5 @@
 ---
+title: Spy
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Dagger of Venom
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

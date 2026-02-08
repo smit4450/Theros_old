@@ -1,4 +1,5 @@
 ---
+title: Animate Objects
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

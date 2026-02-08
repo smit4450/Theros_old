@@ -1,4 +1,5 @@
 ---
+title: Dungeons; Dungeon Quirks
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

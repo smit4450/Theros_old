@@ -1,4 +1,5 @@
 ---
+title: Poisonous Gas
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

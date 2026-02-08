@@ -1,4 +1,5 @@
 ---
+title: "Aurora's Emporium; Cheese Bag Contents"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

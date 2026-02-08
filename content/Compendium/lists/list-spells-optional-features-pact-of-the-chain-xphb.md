@@ -1,4 +1,5 @@
 ---
+title: Spells for Pact of the Chain
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

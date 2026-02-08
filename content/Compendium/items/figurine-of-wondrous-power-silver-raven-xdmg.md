@@ -1,4 +1,5 @@
 ---
+title: Figurine of Wondrous Power, Silver Raven
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

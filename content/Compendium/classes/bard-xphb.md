@@ -1,4 +1,5 @@
 ---
+title: Bard
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

@@ -1,4 +1,5 @@
 ---
+title: Dissonant Whispers
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

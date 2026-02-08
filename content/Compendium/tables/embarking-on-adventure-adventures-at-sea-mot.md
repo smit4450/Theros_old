@@ -1,4 +1,5 @@
 ---
+title: Embarking on Adventure; Adventures at Sea
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

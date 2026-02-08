@@ -1,4 +1,5 @@
 ---
+title: Barrack
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

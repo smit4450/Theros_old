@@ -1,4 +1,5 @@
 ---
+title: Vulture
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

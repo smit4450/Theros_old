@@ -1,4 +1,5 @@
 ---
+title: Index of Giant
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

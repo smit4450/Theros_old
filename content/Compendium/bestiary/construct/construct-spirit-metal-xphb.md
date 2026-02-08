@@ -1,4 +1,5 @@
 ---
+title: Construct Spirit (Metal)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

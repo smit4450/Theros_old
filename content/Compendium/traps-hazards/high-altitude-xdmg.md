@@ -1,4 +1,5 @@
 ---
+title: High Altitude
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

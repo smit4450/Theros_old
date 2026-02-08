@@ -1,4 +1,5 @@
 ---
+title: Wand of Fear
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

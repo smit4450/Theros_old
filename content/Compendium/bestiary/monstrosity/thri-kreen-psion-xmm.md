@@ -1,4 +1,5 @@
 ---
+title: Thri-kreen Psion
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

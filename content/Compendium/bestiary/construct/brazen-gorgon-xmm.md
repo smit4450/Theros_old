@@ -1,4 +1,5 @@
 ---
+title: Brazen Gorgon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

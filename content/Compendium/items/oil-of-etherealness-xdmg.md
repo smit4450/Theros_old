@@ -1,4 +1,5 @@
 ---
+title: Oil of Etherealness
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

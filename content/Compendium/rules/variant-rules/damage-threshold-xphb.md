@@ -1,4 +1,5 @@
 ---
+title: Damage Threshold
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

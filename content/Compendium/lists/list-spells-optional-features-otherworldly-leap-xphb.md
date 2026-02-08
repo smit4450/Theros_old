@@ -1,4 +1,5 @@
 ---
+title: Spells for Otherworldly Leap
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

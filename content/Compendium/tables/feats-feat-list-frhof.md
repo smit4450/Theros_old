@@ -1,4 +1,5 @@
 ---
+title: Feats; Feat List
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

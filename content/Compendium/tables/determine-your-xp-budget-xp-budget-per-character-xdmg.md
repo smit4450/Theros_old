@@ -1,4 +1,5 @@
 ---
+title: Determine Your XP Budget; XP Budget per Character
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

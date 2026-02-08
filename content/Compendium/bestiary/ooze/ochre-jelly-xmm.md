@@ -1,4 +1,5 @@
 ---
+title: Ochre Jelly
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

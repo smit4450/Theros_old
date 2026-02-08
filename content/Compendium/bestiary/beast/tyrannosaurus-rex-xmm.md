@@ -1,4 +1,5 @@
 ---
+title: Tyrannosaurus Rex
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

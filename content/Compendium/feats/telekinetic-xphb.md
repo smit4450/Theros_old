@@ -1,4 +1,5 @@
 ---
+title: Telekinetic
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

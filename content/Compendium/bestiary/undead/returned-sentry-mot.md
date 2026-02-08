@@ -1,4 +1,5 @@
 ---
+title: Returned Sentry
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

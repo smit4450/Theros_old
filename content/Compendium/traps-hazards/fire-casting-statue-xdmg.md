@@ -1,4 +1,5 @@
 ---
+title: Fire-Casting Statue
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

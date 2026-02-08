@@ -1,4 +1,5 @@
 ---
+title: Metamagic
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

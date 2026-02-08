@@ -1,4 +1,5 @@
 ---
+title: Boon of Spell Recall
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Sunburst
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

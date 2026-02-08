@@ -1,4 +1,5 @@
 ---
+title: Protection from Energy
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

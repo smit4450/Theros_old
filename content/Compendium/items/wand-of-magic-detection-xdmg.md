@@ -1,4 +1,5 @@
 ---
+title: Wand of Magic Detection
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Scroll of Protection (Celestials)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Alien Technology
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

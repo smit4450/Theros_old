@@ -1,4 +1,5 @@
 ---
+title: Ring of Elemental Command (Fire)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

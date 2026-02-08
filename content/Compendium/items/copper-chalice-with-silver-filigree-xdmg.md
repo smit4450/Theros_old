@@ -1,4 +1,5 @@
 ---
+title: Copper chalice with silver filigree
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

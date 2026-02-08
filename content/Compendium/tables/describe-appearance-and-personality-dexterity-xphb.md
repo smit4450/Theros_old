@@ -1,4 +1,5 @@
 ---
+title: Describe Appearance and Personality; Dexterity
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

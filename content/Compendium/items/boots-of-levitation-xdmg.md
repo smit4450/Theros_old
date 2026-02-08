@@ -1,4 +1,5 @@
 ---
+title: Boots of Levitation
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

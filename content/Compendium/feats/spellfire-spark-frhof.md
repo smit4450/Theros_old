@@ -1,4 +1,5 @@
 ---
+title: Spellfire Spark
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

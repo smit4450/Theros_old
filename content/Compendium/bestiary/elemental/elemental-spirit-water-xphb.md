@@ -1,4 +1,5 @@
 ---
+title: Elemental Spirit (Water)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Find Familiar
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

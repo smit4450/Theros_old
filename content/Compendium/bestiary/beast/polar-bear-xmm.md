@@ -1,4 +1,5 @@
 ---
+title: Polar Bear
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

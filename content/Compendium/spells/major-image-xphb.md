@@ -1,4 +1,5 @@
 ---
+title: Major Image
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

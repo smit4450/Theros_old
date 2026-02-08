@@ -1,4 +1,5 @@
 ---
+title: Waukeen
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

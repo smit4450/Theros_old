@@ -1,4 +1,5 @@
 ---
+title: Rao
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

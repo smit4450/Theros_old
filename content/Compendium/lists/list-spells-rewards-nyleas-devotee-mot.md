@@ -1,4 +1,5 @@
 ---
+title: "Spells for Nylea's Devotee"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

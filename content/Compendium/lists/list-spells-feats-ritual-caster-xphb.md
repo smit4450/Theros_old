@@ -1,4 +1,5 @@
 ---
+title: Spells for Ritual Caster
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

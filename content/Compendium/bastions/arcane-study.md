@@ -1,4 +1,5 @@
 ---
+title: Arcane Study
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

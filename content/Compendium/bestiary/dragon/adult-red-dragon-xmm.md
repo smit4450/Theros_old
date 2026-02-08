@@ -1,4 +1,5 @@
 ---
+title: Adult Red Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

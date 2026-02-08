@@ -1,4 +1,5 @@
 ---
+title: Akmon, Hammer of Purphoros
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

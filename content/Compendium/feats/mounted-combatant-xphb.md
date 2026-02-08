@@ -1,4 +1,5 @@
 ---
+title: Mounted Combatant
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

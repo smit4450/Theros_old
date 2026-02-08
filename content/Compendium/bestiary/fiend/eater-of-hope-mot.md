@@ -1,4 +1,5 @@
 ---
+title: Eater of Hope
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

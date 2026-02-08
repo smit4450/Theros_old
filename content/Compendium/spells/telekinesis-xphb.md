@@ -1,4 +1,5 @@
 ---
+title: Telekinesis
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

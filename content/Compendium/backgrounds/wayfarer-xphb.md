@@ -1,4 +1,5 @@
 ---
+title: Wayfarer
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:

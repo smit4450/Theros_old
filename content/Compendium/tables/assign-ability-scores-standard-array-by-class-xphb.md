@@ -1,4 +1,5 @@
 ---
+title: Assign Ability Scores; Standard Array by Class
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Antimatter Rifle
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

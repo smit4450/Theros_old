@@ -1,4 +1,5 @@
 ---
+title: Bat
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

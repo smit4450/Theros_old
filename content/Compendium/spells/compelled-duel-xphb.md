@@ -1,4 +1,5 @@
 ---
+title: Compelled Duel
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

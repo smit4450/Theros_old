@@ -1,4 +1,5 @@
 ---
+title: Green Hag
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

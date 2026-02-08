@@ -1,4 +1,5 @@
 ---
+title: Thayan Spell Tattoo
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Gaming Hall
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

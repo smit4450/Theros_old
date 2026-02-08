@@ -1,4 +1,5 @@
 ---
+title: Long Jump
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

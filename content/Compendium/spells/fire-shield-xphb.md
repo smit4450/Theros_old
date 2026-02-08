@@ -1,4 +1,5 @@
 ---
+title: Fire Shield
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

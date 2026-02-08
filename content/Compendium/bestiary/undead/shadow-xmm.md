@@ -1,4 +1,5 @@
 ---
+title: Shadow
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

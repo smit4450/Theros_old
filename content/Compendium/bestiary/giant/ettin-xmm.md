@@ -1,4 +1,5 @@
 ---
+title: Ettin
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

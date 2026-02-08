@@ -1,4 +1,5 @@
 ---
+title: Potion of Greater Invisibility
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

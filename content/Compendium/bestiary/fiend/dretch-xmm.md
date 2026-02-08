@@ -1,4 +1,5 @@
 ---
+title: Dretch
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

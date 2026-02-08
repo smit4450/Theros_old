@@ -1,4 +1,5 @@
 ---
+title: Spells for Illusionist
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

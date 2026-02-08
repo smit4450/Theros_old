@@ -1,4 +1,5 @@
 ---
+title: Sling Bullets (20)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

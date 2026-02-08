@@ -1,4 +1,5 @@
 ---
+title: Disarming Attack
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

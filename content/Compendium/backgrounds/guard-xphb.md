@@ -1,4 +1,5 @@
 ---
+title: Guard
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:

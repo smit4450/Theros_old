@@ -1,4 +1,5 @@
 ---
+title: Mechanical Wonders
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

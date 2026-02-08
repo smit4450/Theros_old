@@ -1,4 +1,5 @@
 ---
+title: Meteor Swarm
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

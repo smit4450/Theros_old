@@ -1,4 +1,5 @@
 ---
+title: Flame Tongue
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

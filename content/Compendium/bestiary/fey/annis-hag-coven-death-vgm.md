@@ -1,4 +1,5 @@
 ---
+title: Annis Hag (Coven; Death)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

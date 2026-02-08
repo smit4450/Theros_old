@@ -1,4 +1,5 @@
 ---
+title: Giant Wasp
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

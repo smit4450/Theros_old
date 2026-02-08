@@ -1,4 +1,5 @@
 ---
+title: Thunderous Smite
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

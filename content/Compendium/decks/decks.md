@@ -1,4 +1,5 @@
 ---
+title: Index of Decks
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

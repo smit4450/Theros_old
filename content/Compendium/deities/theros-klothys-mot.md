@@ -1,4 +1,5 @@
 ---
+title: Klothys
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

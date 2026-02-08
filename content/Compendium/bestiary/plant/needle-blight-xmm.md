@@ -1,4 +1,5 @@
 ---
+title: Needle Blight
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

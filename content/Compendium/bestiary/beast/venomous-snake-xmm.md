@@ -1,4 +1,5 @@
 ---
+title: Venomous Snake
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

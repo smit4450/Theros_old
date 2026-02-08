@@ -1,4 +1,5 @@
 ---
+title: Embroidered silk handkerchief
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

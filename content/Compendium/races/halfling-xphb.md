@@ -1,4 +1,5 @@
 ---
+title: Halfling
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:

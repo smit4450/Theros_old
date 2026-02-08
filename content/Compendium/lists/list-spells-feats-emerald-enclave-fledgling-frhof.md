@@ -1,4 +1,5 @@
 ---
+title: Spells for Emerald Enclave Fledgling
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

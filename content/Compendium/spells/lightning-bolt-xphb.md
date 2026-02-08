@@ -1,4 +1,5 @@
 ---
+title: Lightning Bolt
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

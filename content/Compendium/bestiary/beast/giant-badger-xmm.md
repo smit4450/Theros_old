@@ -1,4 +1,5 @@
 ---
+title: Giant Badger
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

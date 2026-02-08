@@ -1,4 +1,5 @@
 ---
+title: Protection
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

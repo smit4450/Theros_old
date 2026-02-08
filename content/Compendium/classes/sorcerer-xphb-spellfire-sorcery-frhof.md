@@ -1,4 +1,5 @@
 ---
+title: Spellfire Sorcery
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

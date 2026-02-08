@@ -1,4 +1,5 @@
 ---
+title: Oath of Devotion
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

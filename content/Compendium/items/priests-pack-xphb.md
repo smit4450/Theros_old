@@ -1,4 +1,5 @@
 ---
+title: "Priest's Pack"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

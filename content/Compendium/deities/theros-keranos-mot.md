@@ -1,4 +1,5 @@
 ---
+title: Keranos
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

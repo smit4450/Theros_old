@@ -1,4 +1,5 @@
 ---
+title: Outer Planes
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

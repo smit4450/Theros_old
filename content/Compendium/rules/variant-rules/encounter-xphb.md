@@ -1,4 +1,5 @@
 ---
+title: Encounter
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Abandoned Temple Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

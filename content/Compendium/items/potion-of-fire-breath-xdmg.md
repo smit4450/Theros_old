@@ -1,4 +1,5 @@
 ---
+title: Potion of Fire Breath
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Pirate Admiral
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: NPC Secrets
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

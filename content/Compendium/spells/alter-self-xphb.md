@@ -1,4 +1,5 @@
 ---
+title: Alter Self
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

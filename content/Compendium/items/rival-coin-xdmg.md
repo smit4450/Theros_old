@@ -1,4 +1,5 @@
 ---
+title: Rival Coin
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

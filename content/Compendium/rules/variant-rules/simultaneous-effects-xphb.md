@@ -1,4 +1,5 @@
 ---
+title: Simultaneous Effects
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

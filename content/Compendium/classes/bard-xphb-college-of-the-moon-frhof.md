@@ -1,4 +1,5 @@
 ---
+title: College of the Moon
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

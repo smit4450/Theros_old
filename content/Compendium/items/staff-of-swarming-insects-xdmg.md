@@ -1,4 +1,5 @@
 ---
+title: Staff of Swarming Insects
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

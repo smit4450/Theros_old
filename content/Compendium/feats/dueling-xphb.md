@@ -1,4 +1,5 @@
 ---
+title: Dueling
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

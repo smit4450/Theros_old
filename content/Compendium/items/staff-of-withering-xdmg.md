@@ -1,4 +1,5 @@
 ---
+title: Staff of Withering
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

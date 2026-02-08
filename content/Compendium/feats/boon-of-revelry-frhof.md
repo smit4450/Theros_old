@@ -1,4 +1,5 @@
 ---
+title: Boon of Revelry
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

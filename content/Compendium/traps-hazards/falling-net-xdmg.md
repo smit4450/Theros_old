@@ -1,4 +1,5 @@
 ---
+title: Falling Net
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

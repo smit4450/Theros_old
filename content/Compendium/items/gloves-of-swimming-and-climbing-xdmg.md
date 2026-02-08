@@ -1,4 +1,5 @@
 ---
+title: Gloves of Swimming and Climbing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

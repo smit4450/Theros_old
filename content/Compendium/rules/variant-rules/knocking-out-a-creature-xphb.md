@@ -1,4 +1,5 @@
 ---
+title: Knocking Out a Creature
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

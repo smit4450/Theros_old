@@ -1,4 +1,5 @@
 ---
+title: Mage Slayer
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

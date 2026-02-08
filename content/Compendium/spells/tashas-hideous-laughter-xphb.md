@@ -1,4 +1,5 @@
 ---
+title: "Tasha's Hideous Laughter"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

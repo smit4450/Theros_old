@@ -1,4 +1,5 @@
 ---
+title: Wall of Water
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

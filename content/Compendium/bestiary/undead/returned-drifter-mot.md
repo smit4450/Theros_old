@@ -1,4 +1,5 @@
 ---
+title: Returned Drifter
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

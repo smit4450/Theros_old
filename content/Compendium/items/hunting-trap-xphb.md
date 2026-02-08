@@ -1,4 +1,5 @@
 ---
+title: Hunting Trap
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

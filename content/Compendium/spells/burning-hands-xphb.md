@@ -1,4 +1,5 @@
 ---
+title: Burning Hands
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Mastix, Whip of Erebos
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

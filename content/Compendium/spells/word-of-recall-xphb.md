@@ -1,4 +1,5 @@
 ---
+title: Word of Recall
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Swarm of Rats
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

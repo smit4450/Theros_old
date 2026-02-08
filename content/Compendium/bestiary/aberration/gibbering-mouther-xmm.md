@@ -1,4 +1,5 @@
 ---
+title: Gibbering Mouther
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

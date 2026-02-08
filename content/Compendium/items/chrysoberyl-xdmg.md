@@ -1,4 +1,5 @@
 ---
+title: Chrysoberyl
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

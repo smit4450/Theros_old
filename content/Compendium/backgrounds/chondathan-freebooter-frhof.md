@@ -1,4 +1,5 @@
 ---
+title: Chondathan Freebooter
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:

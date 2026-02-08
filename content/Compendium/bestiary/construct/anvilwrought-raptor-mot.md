@@ -1,4 +1,5 @@
 ---
+title: Anvilwrought Raptor
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

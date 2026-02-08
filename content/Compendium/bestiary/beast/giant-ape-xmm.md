@@ -1,4 +1,5 @@
 ---
+title: Giant Ape
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

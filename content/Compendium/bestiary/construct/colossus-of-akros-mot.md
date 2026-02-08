@@ -1,4 +1,5 @@
 ---
+title: Colossus of Akros
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

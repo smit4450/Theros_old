@@ -1,4 +1,5 @@
 ---
+title: Gold birdcage with electrum filigree
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

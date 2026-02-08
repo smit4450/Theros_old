@@ -1,4 +1,5 @@
 ---
+title: "Chapter 2: Creating a Character"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

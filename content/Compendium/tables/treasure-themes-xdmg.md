@@ -1,4 +1,5 @@
 ---
+title: Treasure Themes
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

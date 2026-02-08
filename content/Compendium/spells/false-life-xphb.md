@@ -1,4 +1,5 @@
 ---
+title: False Life
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

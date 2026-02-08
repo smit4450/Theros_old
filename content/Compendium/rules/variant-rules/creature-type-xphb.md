@@ -1,4 +1,5 @@
 ---
+title: Creature Type
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: The Meletian Calendar; Meletian Calendar
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

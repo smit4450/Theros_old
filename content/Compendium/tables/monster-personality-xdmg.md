@@ -1,4 +1,5 @@
 ---
+title: Monster Personality
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

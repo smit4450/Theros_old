@@ -1,4 +1,5 @@
 ---
+title: Heavy Armor Master
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

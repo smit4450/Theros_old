@@ -1,4 +1,5 @@
 ---
+title: Boon of Combat Prowess
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

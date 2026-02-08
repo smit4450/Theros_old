@@ -1,4 +1,5 @@
 ---
+title: Path of the Zealot
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

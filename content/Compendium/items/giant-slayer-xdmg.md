@@ -1,4 +1,5 @@
 ---
+title: Giant Slayer
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

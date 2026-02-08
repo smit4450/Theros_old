@@ -1,4 +1,5 @@
 ---
+title: Flamethrower Coach
 obsidianUIMode: preview
 cssclasses:
 - json5e-object

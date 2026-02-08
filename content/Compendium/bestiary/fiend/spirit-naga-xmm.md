@@ -1,4 +1,5 @@
 ---
+title: Spirit Naga
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

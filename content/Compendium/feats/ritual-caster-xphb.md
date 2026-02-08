@@ -1,4 +1,5 @@
 ---
+title: Ritual Caster
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

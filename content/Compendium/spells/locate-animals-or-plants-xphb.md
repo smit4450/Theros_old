@@ -1,4 +1,5 @@
 ---
+title: Locate Animals or Plants
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Phantasmal Force
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

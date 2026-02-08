@@ -1,4 +1,5 @@
 ---
+title: Great Weapon Master
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

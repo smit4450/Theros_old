@@ -1,4 +1,5 @@
 ---
+title: Silver Dragon
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

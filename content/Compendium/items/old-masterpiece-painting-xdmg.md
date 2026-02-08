@@ -1,4 +1,5 @@
 ---
+title: Old masterpiece painting
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

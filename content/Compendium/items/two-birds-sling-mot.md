@@ -1,4 +1,5 @@
 ---
+title: Two-Birds Sling
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

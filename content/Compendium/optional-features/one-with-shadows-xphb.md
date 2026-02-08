@@ -1,4 +1,5 @@
 ---
+title: One with Shadows
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

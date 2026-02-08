@@ -1,4 +1,5 @@
 ---
+title: Jumping
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

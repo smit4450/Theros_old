@@ -1,4 +1,5 @@
 ---
+title: River Styx
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

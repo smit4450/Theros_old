@@ -1,4 +1,5 @@
 ---
+title: "Chapter 3: DM's Toolbox"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: "Hunter's Mark"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Locked Door; Lock Quality
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

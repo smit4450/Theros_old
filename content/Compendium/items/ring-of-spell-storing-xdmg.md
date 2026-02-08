@@ -1,4 +1,5 @@
 ---
+title: Ring of Spell Storing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

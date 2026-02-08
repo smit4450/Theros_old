@@ -1,4 +1,5 @@
 ---
+title: Magic Item Values by Rarity; Magic Item Rarities and Values
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

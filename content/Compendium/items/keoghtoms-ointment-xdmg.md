@@ -1,4 +1,5 @@
 ---
+title: "Keoghtom's Ointment"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

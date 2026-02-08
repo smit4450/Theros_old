@@ -1,4 +1,5 @@
 ---
+title: Great Old One Patron
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

@@ -1,4 +1,5 @@
 ---
+title: "Chapter 4: Creating Adventures"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

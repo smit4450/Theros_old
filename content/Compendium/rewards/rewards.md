@@ -1,4 +1,5 @@
 ---
+title: Index of Rewards
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

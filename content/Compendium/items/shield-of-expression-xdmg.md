@@ -1,4 +1,5 @@
 ---
+title: Shield of Expression
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

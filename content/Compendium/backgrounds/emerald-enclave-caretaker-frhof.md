@@ -1,4 +1,5 @@
 ---
+title: Emerald Enclave Caretaker
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:

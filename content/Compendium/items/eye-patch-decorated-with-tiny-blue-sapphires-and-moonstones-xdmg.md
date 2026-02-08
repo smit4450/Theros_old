@@ -1,4 +1,5 @@
 ---
+title: Eye patch decorated with tiny blue sapphires and moonstones
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

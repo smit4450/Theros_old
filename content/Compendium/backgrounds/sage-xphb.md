@@ -1,4 +1,5 @@
 ---
+title: Sage
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:

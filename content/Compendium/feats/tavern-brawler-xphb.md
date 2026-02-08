@@ -1,4 +1,5 @@
 ---
+title: Tavern Brawler
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Aarakocra Aeromancer
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

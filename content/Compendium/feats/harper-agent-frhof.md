@@ -1,4 +1,5 @@
 ---
+title: Harper Agent
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

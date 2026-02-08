@@ -1,4 +1,5 @@
 ---
+title: Medusa
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

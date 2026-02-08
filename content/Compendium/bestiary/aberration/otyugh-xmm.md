@@ -1,4 +1,5 @@
 ---
+title: Otyugh
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

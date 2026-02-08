@@ -1,4 +1,5 @@
 ---
+title: Mage Hand
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

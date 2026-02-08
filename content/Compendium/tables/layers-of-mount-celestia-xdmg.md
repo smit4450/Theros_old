@@ -1,4 +1,5 @@
 ---
+title: Layers of Mount Celestia
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

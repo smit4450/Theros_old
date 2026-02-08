@@ -1,4 +1,5 @@
 ---
+title: Jeweled gold crown
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

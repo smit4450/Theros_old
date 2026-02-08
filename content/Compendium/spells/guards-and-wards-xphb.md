@@ -1,4 +1,5 @@
 ---
+title: Guards and Wards
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

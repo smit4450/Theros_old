@@ -1,4 +1,5 @@
 ---
+title: Extended Spell
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

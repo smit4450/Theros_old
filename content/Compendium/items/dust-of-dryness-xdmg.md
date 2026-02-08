@@ -1,4 +1,5 @@
 ---
+title: Dust of Dryness
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

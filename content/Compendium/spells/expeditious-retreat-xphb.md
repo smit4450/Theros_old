@@ -1,4 +1,5 @@
 ---
+title: Expeditious Retreat
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

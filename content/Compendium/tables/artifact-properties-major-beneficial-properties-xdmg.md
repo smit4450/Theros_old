@@ -1,4 +1,5 @@
 ---
+title: Artifact Properties; Major Beneficial Properties
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

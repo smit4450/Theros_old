@@ -1,4 +1,5 @@
 ---
+title: Power Word Fortify
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

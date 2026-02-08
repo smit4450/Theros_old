@@ -1,4 +1,5 @@
 ---
+title: Vampire Familiar
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

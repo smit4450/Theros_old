@@ -1,4 +1,5 @@
 ---
+title: Sentinel Shield
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

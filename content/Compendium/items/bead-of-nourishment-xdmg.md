@@ -1,4 +1,5 @@
 ---
+title: Bead of Nourishment
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

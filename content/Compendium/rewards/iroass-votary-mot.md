@@ -1,4 +1,5 @@
 ---
+title: "Iroas's Votary"
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

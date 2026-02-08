@@ -1,4 +1,5 @@
 ---
+title: Spells for Life Domain
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

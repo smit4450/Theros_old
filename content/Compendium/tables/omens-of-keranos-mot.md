@@ -1,4 +1,5 @@
 ---
+title: Omens of Keranos
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

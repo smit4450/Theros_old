@@ -1,4 +1,5 @@
 ---
+title: Eyebite
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

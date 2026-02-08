@@ -1,4 +1,5 @@
 ---
+title: Salamander Inferno Master
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

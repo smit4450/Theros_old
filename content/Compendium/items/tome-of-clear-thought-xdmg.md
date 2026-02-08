@@ -1,4 +1,5 @@
 ---
+title: Tome of Clear Thought
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

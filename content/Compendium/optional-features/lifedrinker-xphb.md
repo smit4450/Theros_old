@@ -1,4 +1,5 @@
 ---
+title: Lifedrinker
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

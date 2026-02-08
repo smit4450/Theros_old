@@ -1,4 +1,5 @@
 ---
+title: Animal Lord; Sage
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

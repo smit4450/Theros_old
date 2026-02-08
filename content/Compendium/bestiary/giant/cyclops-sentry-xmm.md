@@ -1,4 +1,5 @@
 ---
+title: Cyclops Sentry
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

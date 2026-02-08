@@ -1,4 +1,5 @@
 ---
+title: Goblin Boss
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

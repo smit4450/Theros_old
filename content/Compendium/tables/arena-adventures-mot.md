@@ -1,4 +1,5 @@
 ---
+title: Arena Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

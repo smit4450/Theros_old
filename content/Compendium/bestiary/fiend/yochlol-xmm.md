@@ -1,4 +1,5 @@
 ---
+title: Yochlol
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

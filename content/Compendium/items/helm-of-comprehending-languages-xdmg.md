@@ -1,4 +1,5 @@
 ---
+title: Helm of Comprehending Languages
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

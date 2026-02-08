@@ -1,4 +1,5 @@
 ---
+title: Thin Ice
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

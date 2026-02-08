@@ -1,4 +1,5 @@
 ---
+title: Average Results; Mob Results
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

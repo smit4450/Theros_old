@@ -1,4 +1,5 @@
 ---
+title: Boots of Striding and Springing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

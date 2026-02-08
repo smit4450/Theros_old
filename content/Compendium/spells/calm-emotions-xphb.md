@@ -1,4 +1,5 @@
 ---
+title: Calm Emotions
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

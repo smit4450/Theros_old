@@ -1,4 +1,5 @@
 ---
+title: Time Stop
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Spells for Path of the Wild Heart
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

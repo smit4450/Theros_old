@@ -1,4 +1,5 @@
 ---
+title: "Chapter 2: A Guide to the Realms"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

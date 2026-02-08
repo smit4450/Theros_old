@@ -1,4 +1,5 @@
 ---
+title: Cordon of Arrows
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

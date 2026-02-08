@@ -1,4 +1,5 @@
 ---
+title: Island Environments
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

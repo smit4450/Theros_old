@@ -1,4 +1,5 @@
 ---
+title: Charm of Heroism
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

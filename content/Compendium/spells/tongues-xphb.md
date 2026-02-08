@@ -1,4 +1,5 @@
 ---
+title: Tongues
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

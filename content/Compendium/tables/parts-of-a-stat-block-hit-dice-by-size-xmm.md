@@ -1,4 +1,5 @@
 ---
+title: Parts of a Stat Block; Hit Dice by Size
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

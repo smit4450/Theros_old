@@ -1,4 +1,5 @@
 ---
+title: Saffron
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

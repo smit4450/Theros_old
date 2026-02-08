@@ -1,4 +1,5 @@
 ---
+title: Tiger Eye
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

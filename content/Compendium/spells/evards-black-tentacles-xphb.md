@@ -1,4 +1,5 @@
 ---
+title: "Evard's Black Tentacles"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

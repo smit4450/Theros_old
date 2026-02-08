@@ -1,4 +1,5 @@
 ---
+title: Durable
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

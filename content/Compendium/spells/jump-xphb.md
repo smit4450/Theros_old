@@ -1,4 +1,5 @@
 ---
+title: Jump
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

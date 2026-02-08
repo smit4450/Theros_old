@@ -1,4 +1,5 @@
 ---
+title: Item Types
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

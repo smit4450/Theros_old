@@ -1,4 +1,5 @@
 ---
+title: Leonin Iconoclast
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

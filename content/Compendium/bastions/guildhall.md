@@ -1,4 +1,5 @@
 ---
+title: Guildhall
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

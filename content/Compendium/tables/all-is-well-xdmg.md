@@ -1,4 +1,5 @@
 ---
+title: All Is Well
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Conjure Minor Elementals
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

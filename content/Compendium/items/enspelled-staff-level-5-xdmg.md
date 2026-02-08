@@ -1,4 +1,5 @@
 ---
+title: Enspelled Staff (Level 5)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

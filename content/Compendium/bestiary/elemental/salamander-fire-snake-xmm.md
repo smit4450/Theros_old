@@ -1,4 +1,5 @@
 ---
+title: Salamander Fire Snake
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

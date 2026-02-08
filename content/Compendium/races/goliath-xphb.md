@@ -1,4 +1,5 @@
 ---
+title: Goliath
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Bearded Devil
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

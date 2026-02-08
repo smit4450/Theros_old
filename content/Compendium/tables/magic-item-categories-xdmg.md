@@ -1,4 +1,5 @@
 ---
+title: Magic Item Categories
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Gold comb shaped like a dragon with red garnets as eyes
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

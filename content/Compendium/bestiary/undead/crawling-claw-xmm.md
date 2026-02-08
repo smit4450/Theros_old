@@ -1,4 +1,5 @@
 ---
+title: Crawling Claw
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

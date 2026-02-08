@@ -1,4 +1,5 @@
 ---
+title: Boots of the Winterlands
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

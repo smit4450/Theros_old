@@ -1,4 +1,5 @@
 ---
+title: Book of Exalted Deeds
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

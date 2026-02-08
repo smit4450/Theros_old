@@ -1,4 +1,5 @@
 ---
+title: Wind Walk
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

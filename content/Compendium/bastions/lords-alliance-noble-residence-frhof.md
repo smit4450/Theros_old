@@ -1,4 +1,5 @@
 ---
+title: "Lords' Alliance Noble Residence"
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

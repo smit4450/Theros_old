@@ -1,4 +1,5 @@
 ---
+title: Wand of Pyrotechnics
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

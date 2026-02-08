@@ -1,4 +1,5 @@
 ---
+title: Theater
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

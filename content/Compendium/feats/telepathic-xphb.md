@@ -1,4 +1,5 @@
 ---
+title: Telepathic
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

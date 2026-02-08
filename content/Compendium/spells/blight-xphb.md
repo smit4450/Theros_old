@@ -1,4 +1,5 @@
 ---
+title: Blight
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

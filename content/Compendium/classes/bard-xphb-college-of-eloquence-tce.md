@@ -1,4 +1,5 @@
 ---
+title: College of Eloquence
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

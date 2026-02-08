@@ -1,4 +1,5 @@
 ---
+title: Shaundakul
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

@@ -1,4 +1,5 @@
 ---
+title: Proficiency Bonus
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

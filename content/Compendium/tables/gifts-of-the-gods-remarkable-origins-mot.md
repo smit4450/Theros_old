@@ -1,4 +1,5 @@
 ---
+title: Gifts of the Gods; Remarkable Origins
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

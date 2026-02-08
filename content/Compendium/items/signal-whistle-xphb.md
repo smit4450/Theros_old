@@ -1,4 +1,5 @@
 ---
+title: Signal Whistle
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

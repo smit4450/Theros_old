@@ -1,4 +1,5 @@
 ---
+title: Improvising Damage
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

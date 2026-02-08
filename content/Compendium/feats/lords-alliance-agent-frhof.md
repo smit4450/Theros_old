@@ -1,4 +1,5 @@
 ---
+title: "Lords' Alliance Agent"
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

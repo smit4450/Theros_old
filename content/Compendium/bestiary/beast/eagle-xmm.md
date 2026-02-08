@@ -1,4 +1,5 @@
 ---
+title: Eagle
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

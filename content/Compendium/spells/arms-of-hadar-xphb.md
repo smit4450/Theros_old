@@ -1,4 +1,5 @@
 ---
+title: Arms of Hadar
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

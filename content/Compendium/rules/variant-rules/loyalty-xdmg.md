@@ -1,4 +1,5 @@
 ---
+title: Loyalty
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

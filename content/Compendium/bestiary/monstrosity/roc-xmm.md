@@ -1,4 +1,5 @@
 ---
+title: Roc
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

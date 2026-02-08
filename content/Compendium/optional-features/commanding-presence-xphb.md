@@ -1,4 +1,5 @@
 ---
+title: Commanding Presence
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

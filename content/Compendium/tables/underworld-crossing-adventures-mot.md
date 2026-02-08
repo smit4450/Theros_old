@@ -1,4 +1,5 @@
 ---
+title: Underworld Crossing Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

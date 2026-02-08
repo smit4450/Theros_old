@@ -1,4 +1,5 @@
 ---
+title: Wild Magic Surge
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

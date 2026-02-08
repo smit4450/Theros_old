@@ -1,4 +1,5 @@
 ---
+title: Settlements by Size
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

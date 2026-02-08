@@ -1,4 +1,5 @@
 ---
+title: Backpack
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Aberrant Cultist
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

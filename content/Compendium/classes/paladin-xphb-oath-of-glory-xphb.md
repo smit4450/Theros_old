@@ -1,4 +1,5 @@
 ---
+title: Oath of Glory
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

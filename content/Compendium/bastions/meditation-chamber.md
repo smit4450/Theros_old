@@ -1,4 +1,5 @@
 ---
+title: Meditation Chamber
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

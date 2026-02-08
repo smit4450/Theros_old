@@ -1,4 +1,5 @@
 ---
+title: Bullseye Lantern
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Ioun Stone, Insight
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

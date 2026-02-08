@@ -1,4 +1,5 @@
 ---
+title: Blessing of Protection
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

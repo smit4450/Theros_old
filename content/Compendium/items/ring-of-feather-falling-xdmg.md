@@ -1,4 +1,5 @@
 ---
+title: Ring of Feather Falling
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

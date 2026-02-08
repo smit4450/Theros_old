@@ -1,4 +1,5 @@
 ---
+title: Potion of Water Breathing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

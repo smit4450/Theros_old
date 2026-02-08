@@ -1,4 +1,5 @@
 ---
+title: Polearm Master
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Gilded royal coach or funeral barge
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

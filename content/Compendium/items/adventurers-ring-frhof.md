@@ -1,4 +1,5 @@
 ---
+title: "Adventurer's Ring"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

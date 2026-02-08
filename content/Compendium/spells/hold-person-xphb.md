@@ -1,4 +1,5 @@
 ---
+title: Hold Person
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

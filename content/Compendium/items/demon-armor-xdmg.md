@@ -1,4 +1,5 @@
 ---
+title: Demon Armor
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

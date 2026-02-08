@@ -1,4 +1,5 @@
 ---
+title: Devouring Blade
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

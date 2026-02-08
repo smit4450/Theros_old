@@ -1,4 +1,5 @@
 ---
+title: Faction Relationships; Faction Attitudes
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Juvenile Shadow Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

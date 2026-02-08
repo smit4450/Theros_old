@@ -1,4 +1,5 @@
 ---
+title: Fog Cloud
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

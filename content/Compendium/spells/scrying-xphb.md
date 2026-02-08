@@ -1,4 +1,5 @@
 ---
+title: Scrying
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

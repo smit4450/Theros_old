@@ -1,4 +1,5 @@
 ---
+title: Elemental Spirit (Earth)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

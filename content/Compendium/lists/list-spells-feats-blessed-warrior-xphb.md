@@ -1,4 +1,5 @@
 ---
+title: Spells for Blessed Warrior
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

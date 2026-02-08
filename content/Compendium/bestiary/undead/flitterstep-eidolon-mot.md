@@ -1,4 +1,5 @@
 ---
+title: Flitterstep Eidolon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

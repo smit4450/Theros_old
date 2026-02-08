@@ -1,4 +1,5 @@
 ---
+title: Prismatic Spray
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

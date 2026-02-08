@@ -1,4 +1,5 @@
 ---
+title: Martial Weapon Training
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

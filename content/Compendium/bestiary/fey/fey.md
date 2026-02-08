@@ -1,4 +1,5 @@
 ---
+title: Index of Fey
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

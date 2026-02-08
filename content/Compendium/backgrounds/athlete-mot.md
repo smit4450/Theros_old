@@ -1,4 +1,5 @@
 ---
+title: Athlete
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:

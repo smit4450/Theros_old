@@ -1,4 +1,5 @@
 ---
+title: Fortifications; Maintenance Costs
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Scroll of Protection (Humanoids)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

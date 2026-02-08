@@ -1,4 +1,5 @@
 ---
+title: Resilient
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Wand of Polymorph
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

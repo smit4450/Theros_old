@@ -1,4 +1,5 @@
 ---
+title: Summon Dragon
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Lock of Trickery
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

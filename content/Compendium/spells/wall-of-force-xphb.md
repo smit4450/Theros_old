@@ -1,4 +1,5 @@
 ---
+title: Wall of Force
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

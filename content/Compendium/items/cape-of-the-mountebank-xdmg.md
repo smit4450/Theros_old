@@ -1,4 +1,5 @@
 ---
+title: Cape of the Mountebank
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

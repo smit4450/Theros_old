@@ -1,4 +1,5 @@
 ---
+title: Implements - Legendary
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

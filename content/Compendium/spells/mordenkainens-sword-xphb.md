@@ -1,4 +1,5 @@
 ---
+title: "Mordenkainen's Sword"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

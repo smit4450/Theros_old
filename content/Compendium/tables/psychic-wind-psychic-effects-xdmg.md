@@ -1,4 +1,5 @@
 ---
+title: Psychic Wind Psychic Effects
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Hextor
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

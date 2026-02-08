@@ -1,4 +1,5 @@
 ---
+title: Instrument of the Bards, Anstruth Harp
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

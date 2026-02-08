@@ -1,4 +1,5 @@
 ---
+title: Adjust Hit Points and Hit Point Dice; Fixed Hit Points by Class
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

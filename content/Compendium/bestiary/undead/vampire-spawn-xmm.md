@@ -1,4 +1,5 @@
 ---
+title: Vampire Spawn
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

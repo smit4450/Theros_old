@@ -1,4 +1,5 @@
 ---
+title: Sprig of Mistletoe
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Block and Tackle
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

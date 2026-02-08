@@ -1,4 +1,5 @@
 ---
+title: Hell Hound
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

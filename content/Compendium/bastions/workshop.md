@@ -1,4 +1,5 @@
 ---
+title: Workshop
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

@@ -1,4 +1,5 @@
 ---
+title: Sword of Wounding
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

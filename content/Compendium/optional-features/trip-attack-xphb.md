@@ -1,4 +1,5 @@
 ---
+title: Trip Attack
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Precision Attack
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Spare the Dying
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

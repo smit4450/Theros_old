@@ -1,4 +1,5 @@
 ---
+title: Grappler
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

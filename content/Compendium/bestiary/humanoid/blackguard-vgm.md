@@ -1,4 +1,5 @@
 ---
+title: Blackguard
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

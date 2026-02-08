@@ -1,4 +1,5 @@
 ---
+title: Blob of Annihilation
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

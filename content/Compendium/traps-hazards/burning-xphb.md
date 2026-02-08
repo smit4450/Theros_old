@@ -1,4 +1,5 @@
 ---
+title: Burning
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

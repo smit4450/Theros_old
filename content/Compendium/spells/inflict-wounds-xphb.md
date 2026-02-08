@@ -1,4 +1,5 @@
 ---
+title: Inflict Wounds
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

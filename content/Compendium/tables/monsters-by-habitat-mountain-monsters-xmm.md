@@ -1,4 +1,5 @@
 ---
+title: Monsters by Habitat; Mountain Monsters
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Arcane Focus
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

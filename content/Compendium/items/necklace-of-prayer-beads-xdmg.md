@@ -1,4 +1,5 @@
 ---
+title: Necklace of Prayer Beads
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

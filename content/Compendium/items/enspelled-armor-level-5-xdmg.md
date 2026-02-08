@@ -1,4 +1,5 @@
 ---
+title: Enspelled Armor (Level 5)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Wand of Secrets
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

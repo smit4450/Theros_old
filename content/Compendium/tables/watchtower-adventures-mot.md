@@ -1,4 +1,5 @@
 ---
+title: Watchtower Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

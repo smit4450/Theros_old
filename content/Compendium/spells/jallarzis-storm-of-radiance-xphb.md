@@ -1,4 +1,5 @@
 ---
+title: "Jallarzi's Storm of Radiance"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

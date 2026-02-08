@@ -1,4 +1,5 @@
 ---
+title: Locate Creature
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

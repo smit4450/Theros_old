@@ -1,4 +1,5 @@
 ---
+title: Expertise
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

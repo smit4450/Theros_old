@@ -1,4 +1,5 @@
 ---
+title: Bejeweled gold bracelet
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Starting Equipment at Higher Levels
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

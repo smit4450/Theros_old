@@ -1,4 +1,5 @@
 ---
+title: Library
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

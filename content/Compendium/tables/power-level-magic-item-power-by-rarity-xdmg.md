@@ -1,4 +1,5 @@
 ---
+title: Power Level; Magic Item Power by Rarity
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

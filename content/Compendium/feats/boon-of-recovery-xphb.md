@@ -1,4 +1,5 @@
 ---
+title: Boon of Recovery
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

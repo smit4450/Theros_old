@@ -1,4 +1,5 @@
 ---
+title: "Chapter 5: Feats"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

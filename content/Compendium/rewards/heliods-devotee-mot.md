@@ -1,4 +1,5 @@
 ---
+title: "Heliod's Devotee"
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

@@ -1,4 +1,5 @@
 ---
+title: Swift Quiver
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: "3: Lyrical Names"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Index of Elemental
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

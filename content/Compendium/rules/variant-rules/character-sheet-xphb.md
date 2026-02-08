@@ -1,4 +1,5 @@
 ---
+title: Character Sheet
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

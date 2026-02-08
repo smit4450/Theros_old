@@ -1,4 +1,5 @@
 ---
+title: Light
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Parry
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

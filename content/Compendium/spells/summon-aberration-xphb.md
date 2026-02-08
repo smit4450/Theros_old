@@ -1,4 +1,5 @@
 ---
+title: Summon Aberration
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

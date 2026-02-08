@@ -1,4 +1,5 @@
 ---
+title: Special Facilities; Special Facility Acquisition
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

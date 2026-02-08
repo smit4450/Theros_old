@@ -1,4 +1,5 @@
 ---
+title: Modify Memory
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

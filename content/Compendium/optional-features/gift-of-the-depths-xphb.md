@@ -1,4 +1,5 @@
 ---
+title: Gift of the Depths
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

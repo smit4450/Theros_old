@@ -1,4 +1,5 @@
 ---
+title: Spells for Telekinetic
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

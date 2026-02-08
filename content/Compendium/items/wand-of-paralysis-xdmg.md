@@ -1,4 +1,5 @@
 ---
+title: Wand of Paralysis
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

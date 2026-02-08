@@ -1,4 +1,5 @@
 ---
+title: Harm
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

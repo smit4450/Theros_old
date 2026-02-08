@@ -1,4 +1,5 @@
 ---
+title: Hezrou
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

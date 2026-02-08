@@ -1,4 +1,5 @@
 ---
+title: Dekella, Bident of Thassa
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

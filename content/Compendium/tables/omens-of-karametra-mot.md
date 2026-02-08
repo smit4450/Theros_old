@@ -1,4 +1,5 @@
 ---
+title: Omens of Karametra
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

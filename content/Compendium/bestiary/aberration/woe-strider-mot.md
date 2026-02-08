@@ -1,4 +1,5 @@
 ---
+title: Woe Strider
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

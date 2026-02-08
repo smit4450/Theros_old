@@ -1,4 +1,5 @@
 ---
+title: Bandore
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

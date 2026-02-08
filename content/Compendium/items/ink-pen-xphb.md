@@ -1,4 +1,5 @@
 ---
+title: Ink Pen
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

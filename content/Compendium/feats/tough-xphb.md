@@ -1,4 +1,5 @@
 ---
+title: Tough
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

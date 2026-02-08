@@ -1,4 +1,5 @@
 ---
+title: Shadow Demon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

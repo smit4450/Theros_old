@@ -1,4 +1,5 @@
 ---
+title: Shambling Mound
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

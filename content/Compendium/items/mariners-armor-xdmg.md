@@ -1,4 +1,5 @@
 ---
+title: "Mariner's Armor"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

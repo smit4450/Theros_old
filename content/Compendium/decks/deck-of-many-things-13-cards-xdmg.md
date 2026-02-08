@@ -1,4 +1,5 @@
 ---
+title: Deck of Many Things (13 Cards)
 obsidianUIMode: preview
 cssclasses:
 - json5e-deck

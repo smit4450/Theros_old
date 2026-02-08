@@ -1,4 +1,5 @@
 ---
+title: Detect Thoughts
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

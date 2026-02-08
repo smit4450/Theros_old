@@ -1,4 +1,5 @@
 ---
+title: Lizardfolk Geomancer
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

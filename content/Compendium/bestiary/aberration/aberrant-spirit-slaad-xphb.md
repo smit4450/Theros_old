@@ -1,4 +1,5 @@
 ---
+title: Aberrant Spirit (Slaad)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

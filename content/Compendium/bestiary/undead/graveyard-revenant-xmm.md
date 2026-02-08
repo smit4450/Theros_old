@@ -1,4 +1,5 @@
 ---
+title: Graveyard Revenant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

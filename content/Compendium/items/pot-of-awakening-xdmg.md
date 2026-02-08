@@ -1,4 +1,5 @@
 ---
+title: Pot of Awakening
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

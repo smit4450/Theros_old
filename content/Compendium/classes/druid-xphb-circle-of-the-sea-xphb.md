@@ -1,4 +1,5 @@
 ---
+title: Circle of the Sea
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

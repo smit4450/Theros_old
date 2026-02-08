@@ -1,4 +1,5 @@
 ---
+title: Commune with Nature
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

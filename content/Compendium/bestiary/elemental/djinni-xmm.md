@@ -1,4 +1,5 @@
 ---
+title: Djinni
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

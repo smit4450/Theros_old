@@ -1,4 +1,5 @@
 ---
+title: Instrument of Illusions
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

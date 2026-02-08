@@ -1,4 +1,5 @@
 ---
+title: "Spells for Iroas's Votary"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

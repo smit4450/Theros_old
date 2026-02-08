@@ -1,4 +1,5 @@
 ---
+title: Champion of Destiny
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

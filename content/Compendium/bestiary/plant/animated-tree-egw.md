@@ -1,4 +1,5 @@
 ---
+title: Animated Tree
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

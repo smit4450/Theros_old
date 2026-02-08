@@ -1,4 +1,5 @@
 ---
+title: Move Earth
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

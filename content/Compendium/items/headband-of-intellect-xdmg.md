@@ -1,4 +1,5 @@
 ---
+title: Headband of Intellect
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

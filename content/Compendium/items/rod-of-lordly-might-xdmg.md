@@ -1,4 +1,5 @@
 ---
+title: Rod of Lordly Might
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

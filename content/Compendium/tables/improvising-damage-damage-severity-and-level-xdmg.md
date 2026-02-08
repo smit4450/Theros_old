@@ -1,4 +1,5 @@
 ---
+title: Improvising Damage; Damage Severity and Level
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

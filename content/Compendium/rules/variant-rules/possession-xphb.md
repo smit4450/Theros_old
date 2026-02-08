@@ -1,4 +1,5 @@
 ---
+title: Possession
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

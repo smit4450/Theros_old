@@ -1,4 +1,5 @@
 ---
+title: Weapon of Warning
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

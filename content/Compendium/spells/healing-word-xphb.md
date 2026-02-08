@@ -1,4 +1,5 @@
 ---
+title: Healing Word
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

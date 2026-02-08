@@ -1,4 +1,5 @@
 ---
+title: Old Keoland Locations
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

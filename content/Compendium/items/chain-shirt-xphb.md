@@ -1,4 +1,5 @@
 ---
+title: Chain Shirt
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

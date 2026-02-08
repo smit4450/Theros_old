@@ -1,4 +1,5 @@
 ---
+title: Deities of Faerûn; Faerûnian Pantheon
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

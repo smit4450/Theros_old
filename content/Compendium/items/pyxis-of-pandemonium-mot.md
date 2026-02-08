@@ -1,4 +1,5 @@
 ---
+title: Pyxis of Pandemonium
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

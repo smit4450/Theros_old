@@ -1,4 +1,5 @@
 ---
+title: "Yolande's Regal Presence"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

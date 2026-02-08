@@ -1,4 +1,5 @@
 ---
+title: Bead of Force
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Triton Master of Waves
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

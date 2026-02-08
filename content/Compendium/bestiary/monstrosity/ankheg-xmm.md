@@ -1,4 +1,5 @@
 ---
+title: Ankheg
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

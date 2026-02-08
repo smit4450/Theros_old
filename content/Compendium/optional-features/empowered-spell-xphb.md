@@ -1,4 +1,5 @@
 ---
+title: Empowered Spell
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Diagonal Movement
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

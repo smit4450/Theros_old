@@ -1,4 +1,5 @@
 ---
+title: Color Spray
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Figurine of Wondrous Power, Bronze Griffon
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

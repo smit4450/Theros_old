@@ -1,4 +1,5 @@
 ---
+title: Spells for Telepathic
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

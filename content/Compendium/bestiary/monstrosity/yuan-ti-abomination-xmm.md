@@ -1,4 +1,5 @@
 ---
+title: Yuan-ti Abomination
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

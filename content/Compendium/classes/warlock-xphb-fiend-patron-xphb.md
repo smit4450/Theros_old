@@ -1,4 +1,5 @@
 ---
+title: Fiend Patron
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

@@ -1,4 +1,5 @@
 ---
+title: Staff of Healing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Abhorrent Overlord
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

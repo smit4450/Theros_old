@@ -1,4 +1,5 @@
 ---
+title: Water Breathing
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

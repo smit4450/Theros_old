@@ -1,4 +1,5 @@
 ---
+title: Holy Aura
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

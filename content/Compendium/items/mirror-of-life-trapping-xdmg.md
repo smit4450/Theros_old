@@ -1,4 +1,5 @@
 ---
+title: Mirror of Life Trapping
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

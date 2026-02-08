@@ -1,4 +1,5 @@
 ---
+title: Hermit
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:

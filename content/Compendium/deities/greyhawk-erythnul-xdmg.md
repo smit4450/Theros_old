@@ -1,4 +1,5 @@
 ---
+title: Erythnul
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

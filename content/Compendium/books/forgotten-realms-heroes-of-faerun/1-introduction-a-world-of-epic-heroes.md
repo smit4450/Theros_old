@@ -1,4 +1,5 @@
 ---
+title: "Introduction: A World of Epic Heroes"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

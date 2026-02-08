@@ -1,4 +1,5 @@
 ---
+title: Psychic Gray Ooze
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

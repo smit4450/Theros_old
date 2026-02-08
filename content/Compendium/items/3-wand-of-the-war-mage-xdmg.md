@@ -1,4 +1,5 @@
 ---
+title: +3 Wand of the War Mage
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

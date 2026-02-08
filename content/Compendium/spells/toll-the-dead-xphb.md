@@ -1,4 +1,5 @@
 ---
+title: Toll the Dead
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

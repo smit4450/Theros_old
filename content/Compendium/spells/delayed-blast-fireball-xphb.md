@@ -1,4 +1,5 @@
 ---
+title: Delayed Blast Fireball
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

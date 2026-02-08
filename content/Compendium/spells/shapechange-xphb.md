@@ -1,4 +1,5 @@
 ---
+title: Shapechange
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

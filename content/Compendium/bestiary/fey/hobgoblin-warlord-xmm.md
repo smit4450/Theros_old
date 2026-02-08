@@ -1,4 +1,5 @@
 ---
+title: Hobgoblin Warlord
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

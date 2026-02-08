@@ -1,4 +1,5 @@
 ---
+title: Spells for Oath of Glory
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

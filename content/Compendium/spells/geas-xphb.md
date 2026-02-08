@@ -1,4 +1,5 @@
 ---
+title: Geas
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

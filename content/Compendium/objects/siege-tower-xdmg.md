@@ -1,4 +1,5 @@
 ---
+title: Siege Tower
 obsidianUIMode: preview
 cssclasses:
 - json5e-object

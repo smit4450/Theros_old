@@ -1,4 +1,5 @@
 ---
+title: Bejeweled ivory drinking horn with gold filigree
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

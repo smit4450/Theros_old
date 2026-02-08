@@ -1,4 +1,5 @@
 ---
+title: Fey Spirit (Tricksy)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

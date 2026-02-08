@@ -1,4 +1,5 @@
 ---
+title: Staff of Flowers
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

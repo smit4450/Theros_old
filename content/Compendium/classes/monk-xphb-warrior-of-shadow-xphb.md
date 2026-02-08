@@ -1,4 +1,5 @@
 ---
+title: Warrior of Shadow
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

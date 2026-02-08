@@ -1,4 +1,5 @@
 ---
+title: Slithering Tracker
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

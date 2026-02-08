@@ -1,4 +1,5 @@
 ---
+title: Fiendish Spirit (Yugoloth)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

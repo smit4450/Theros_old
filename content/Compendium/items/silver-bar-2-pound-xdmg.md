@@ -1,4 +1,5 @@
 ---
+title: Silver Bar (2-pound)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

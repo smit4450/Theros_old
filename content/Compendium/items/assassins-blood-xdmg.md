@@ -1,4 +1,5 @@
 ---
+title: "Assassin's Blood"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

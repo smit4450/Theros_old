@@ -1,4 +1,5 @@
 ---
+title: Figurine of Wondrous Power, Golden Lions
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Hawk
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

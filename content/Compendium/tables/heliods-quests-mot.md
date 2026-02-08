@@ -1,4 +1,5 @@
 ---
+title: "Heliod's Quests"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

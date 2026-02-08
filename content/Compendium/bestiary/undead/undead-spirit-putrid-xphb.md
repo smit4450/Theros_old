@@ -1,4 +1,5 @@
 ---
+title: Undead Spirit (Putrid)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

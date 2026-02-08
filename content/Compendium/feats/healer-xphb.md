@@ -1,4 +1,5 @@
 ---
+title: Healer
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

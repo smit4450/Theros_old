@@ -1,4 +1,5 @@
 ---
+title: Manes Vaporspawn
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Heliod
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

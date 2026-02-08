@@ -1,4 +1,5 @@
 ---
+title: "Magic Item Special Features; Magic Item's History"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

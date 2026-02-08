@@ -1,4 +1,5 @@
 ---
+title: Spell Sniper
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

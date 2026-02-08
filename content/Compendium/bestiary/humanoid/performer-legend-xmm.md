@@ -1,4 +1,5 @@
 ---
+title: Performer Legend
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Giant Centipede
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

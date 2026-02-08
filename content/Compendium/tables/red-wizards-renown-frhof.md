@@ -1,4 +1,5 @@
 ---
+title: Red Wizards Renown
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

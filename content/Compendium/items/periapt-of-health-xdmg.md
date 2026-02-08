@@ -1,4 +1,5 @@
 ---
+title: Periapt of Health
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

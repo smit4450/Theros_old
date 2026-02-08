@@ -1,4 +1,5 @@
 ---
+title: Mixing Potions; Potion Miscibility
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

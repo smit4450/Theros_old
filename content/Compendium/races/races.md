@@ -1,4 +1,5 @@
 ---
+title: Index of Races
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

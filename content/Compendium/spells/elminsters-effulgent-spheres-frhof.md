@@ -1,4 +1,5 @@
 ---
+title: "Elminster's Effulgent Spheres"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

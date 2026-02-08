@@ -1,4 +1,5 @@
 ---
+title: Boon of Truesight
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

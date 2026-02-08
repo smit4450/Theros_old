@@ -1,4 +1,5 @@
 ---
+title: Thri-kreen Marauder
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

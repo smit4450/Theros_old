@@ -1,4 +1,5 @@
 ---
+title: Wand of Conducting
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

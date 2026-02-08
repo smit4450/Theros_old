@@ -1,4 +1,5 @@
 ---
+title: Phantom Steed
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

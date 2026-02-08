@@ -1,4 +1,5 @@
 ---
+title: Layers of Gehenna
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

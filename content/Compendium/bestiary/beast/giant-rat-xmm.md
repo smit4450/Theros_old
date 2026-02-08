@@ -1,4 +1,5 @@
 ---
+title: Giant Rat
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

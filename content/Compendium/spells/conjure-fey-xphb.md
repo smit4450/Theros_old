@@ -1,4 +1,5 @@
 ---
+title: Conjure Fey
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

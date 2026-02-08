@@ -1,4 +1,5 @@
 ---
+title: Bandit
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Pair of engraved bone dice
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

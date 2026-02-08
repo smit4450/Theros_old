@@ -1,4 +1,5 @@
 ---
+title: Rules Glossary
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

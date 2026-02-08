@@ -1,4 +1,5 @@
 ---
+title: Initial Attitudes; Initial Attitude
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

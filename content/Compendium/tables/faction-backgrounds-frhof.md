@@ -1,4 +1,5 @@
 ---
+title: Faction Backgrounds
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Vecna
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

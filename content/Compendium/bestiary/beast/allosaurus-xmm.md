@@ -1,4 +1,5 @@
 ---
+title: Allosaurus
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

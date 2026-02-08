@@ -1,4 +1,5 @@
 ---
+title: Giant Insect (Centipede)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

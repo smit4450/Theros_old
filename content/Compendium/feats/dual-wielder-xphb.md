@@ -1,4 +1,5 @@
 ---
+title: Dual Wielder
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: "Appendix A: The Multiverse"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

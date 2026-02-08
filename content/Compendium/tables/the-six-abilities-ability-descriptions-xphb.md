@@ -1,4 +1,5 @@
 ---
+title: The Six Abilities; Ability Descriptions
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

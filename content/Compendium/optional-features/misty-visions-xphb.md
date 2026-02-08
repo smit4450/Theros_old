@@ -1,4 +1,5 @@
 ---
+title: Misty Visions
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

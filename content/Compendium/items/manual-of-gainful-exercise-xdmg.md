@@ -1,4 +1,5 @@
 ---
+title: Manual of Gainful Exercise
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

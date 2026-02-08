@@ -1,4 +1,5 @@
 ---
+title: Archfey Patron
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

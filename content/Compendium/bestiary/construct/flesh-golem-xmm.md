@@ -1,4 +1,5 @@
 ---
+title: Flesh Golem
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

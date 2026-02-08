@@ -1,4 +1,5 @@
 ---
+title: Scroll of Titan Summoning (Blob of Annihilation)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

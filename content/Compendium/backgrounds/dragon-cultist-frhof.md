@@ -1,4 +1,5 @@
 ---
+title: Dragon Cultist
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:

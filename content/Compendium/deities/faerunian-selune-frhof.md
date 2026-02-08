@@ -1,4 +1,5 @@
 ---
+title: Selûne
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

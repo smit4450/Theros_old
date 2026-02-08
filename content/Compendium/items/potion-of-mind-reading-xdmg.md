@@ -1,4 +1,5 @@
 ---
+title: Potion of Mind Reading
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

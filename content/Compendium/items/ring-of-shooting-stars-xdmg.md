@@ -1,4 +1,5 @@
 ---
+title: Ring of Shooting Stars
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

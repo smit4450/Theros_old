@@ -1,4 +1,5 @@
 ---
+title: "Elminster's Elusion"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

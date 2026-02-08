@@ -1,4 +1,5 @@
 ---
+title: Obad-Hai
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

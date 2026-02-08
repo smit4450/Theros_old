@@ -1,4 +1,5 @@
 ---
+title: Horn of Valhalla, Iron
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

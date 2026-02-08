@@ -1,4 +1,5 @@
 ---
+title: Shape-Shifting
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

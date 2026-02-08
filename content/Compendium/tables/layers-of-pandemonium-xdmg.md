@@ -1,4 +1,5 @@
 ---
+title: Layers of Pandemonium
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

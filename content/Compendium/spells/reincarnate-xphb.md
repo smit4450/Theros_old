@@ -1,4 +1,5 @@
 ---
+title: Reincarnate
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

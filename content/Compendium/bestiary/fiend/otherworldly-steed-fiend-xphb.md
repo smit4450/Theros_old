@@ -1,4 +1,5 @@
 ---
+title: Otherworldly Steed (Fiend)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

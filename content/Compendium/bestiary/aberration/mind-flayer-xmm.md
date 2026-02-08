@@ -1,4 +1,5 @@
 ---
+title: Mind Flayer
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

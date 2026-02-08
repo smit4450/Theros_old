@@ -1,4 +1,5 @@
 ---
+title: Ring of Free Action
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

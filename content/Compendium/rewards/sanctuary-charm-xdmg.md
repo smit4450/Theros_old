@@ -1,4 +1,5 @@
 ---
+title: Sanctuary Charm
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

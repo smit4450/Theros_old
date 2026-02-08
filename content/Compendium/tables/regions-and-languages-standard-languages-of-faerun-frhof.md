@@ -1,4 +1,5 @@
 ---
+title: Regions and Languages; Standard Languages of Faerûn
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

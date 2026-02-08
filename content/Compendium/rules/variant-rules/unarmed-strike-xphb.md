@@ -1,4 +1,5 @@
 ---
+title: Unarmed Strike
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

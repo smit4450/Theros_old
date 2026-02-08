@@ -1,4 +1,5 @@
 ---
+title: "Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: "Songal's Elemental Suffusion"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

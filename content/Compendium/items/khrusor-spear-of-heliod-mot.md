@@ -1,4 +1,5 @@
 ---
+title: Khrusor, Spear of Heliod
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

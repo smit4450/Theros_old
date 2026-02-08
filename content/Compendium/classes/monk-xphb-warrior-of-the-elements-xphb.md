@@ -1,4 +1,5 @@
 ---
+title: Warrior of the Elements
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

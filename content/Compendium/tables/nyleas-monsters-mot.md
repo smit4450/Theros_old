@@ -1,4 +1,5 @@
 ---
+title: "Nylea's Monsters"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

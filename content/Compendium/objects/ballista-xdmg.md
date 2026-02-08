@@ -1,4 +1,5 @@
 ---
+title: Ballista
 obsidianUIMode: preview
 cssclasses:
 - json5e-object

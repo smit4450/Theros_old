@@ -1,4 +1,5 @@
 ---
+title: Cloud Giant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

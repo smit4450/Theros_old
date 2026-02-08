@@ -1,4 +1,5 @@
 ---
+title: Cult of the Dragon Trinket
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

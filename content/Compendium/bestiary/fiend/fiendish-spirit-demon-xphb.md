@@ -1,4 +1,5 @@
 ---
+title: Fiendish Spirit (Demon)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

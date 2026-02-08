@@ -1,4 +1,5 @@
 ---
+title: Crystal Ball of True Seeing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

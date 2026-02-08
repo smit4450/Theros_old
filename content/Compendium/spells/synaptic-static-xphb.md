@@ -1,4 +1,5 @@
 ---
+title: Synaptic Static
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

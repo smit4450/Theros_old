@@ -1,4 +1,5 @@
 ---
+title: "Devil's Sight"
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

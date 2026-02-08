@@ -1,4 +1,5 @@
 ---
+title: Mage Armor
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

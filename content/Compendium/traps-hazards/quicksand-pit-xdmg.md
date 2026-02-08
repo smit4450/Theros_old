@@ -1,4 +1,5 @@
 ---
+title: Quicksand Pit
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

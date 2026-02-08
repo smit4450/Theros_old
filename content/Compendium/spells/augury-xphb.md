@@ -1,4 +1,5 @@
 ---
+title: Augury
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

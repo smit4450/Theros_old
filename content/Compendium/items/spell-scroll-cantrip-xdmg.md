@@ -1,4 +1,5 @@
 ---
+title: Spell Scroll (Cantrip)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

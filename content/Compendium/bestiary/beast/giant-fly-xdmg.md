@@ -1,4 +1,5 @@
 ---
+title: Giant Fly
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

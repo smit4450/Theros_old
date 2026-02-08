@@ -1,4 +1,5 @@
 ---
+title: Bright Fungal Cloak
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

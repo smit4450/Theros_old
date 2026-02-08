@@ -1,4 +1,5 @@
 ---
+title: Primeval Owlbear
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Blur
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

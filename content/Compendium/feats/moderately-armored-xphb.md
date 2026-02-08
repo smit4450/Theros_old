@@ -1,4 +1,5 @@
 ---
+title: Moderately Armored
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

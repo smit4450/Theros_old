@@ -1,4 +1,5 @@
 ---
+title: Mind Flayer Arcanist
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

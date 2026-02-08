@@ -1,4 +1,5 @@
 ---
+title: Ice Storm
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

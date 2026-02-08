@@ -1,4 +1,5 @@
 ---
+title: Ring of the Ram
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

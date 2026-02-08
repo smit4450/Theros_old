@@ -1,4 +1,5 @@
 ---
+title: Spells for Druidic Warrior
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

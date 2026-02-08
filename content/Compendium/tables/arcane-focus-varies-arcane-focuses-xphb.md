@@ -1,4 +1,5 @@
 ---
+title: Arcane Focus (Varies); Arcane Focuses
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

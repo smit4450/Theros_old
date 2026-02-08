@@ -1,4 +1,5 @@
 ---
+title: Dirge
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

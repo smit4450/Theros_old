@@ -1,4 +1,5 @@
 ---
+title: Hat of Many Spells
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

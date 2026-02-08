@@ -1,4 +1,5 @@
 ---
+title: Animated Object (Huge)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Tsunami
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

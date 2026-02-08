@@ -1,4 +1,5 @@
 ---
+title: Elemental Adept
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

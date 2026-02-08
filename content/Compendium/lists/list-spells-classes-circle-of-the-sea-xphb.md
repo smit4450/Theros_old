@@ -1,4 +1,5 @@
 ---
+title: Spells for Circle of the Sea
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Level 1 Hit Points by Class
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Layers of Ysgard
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

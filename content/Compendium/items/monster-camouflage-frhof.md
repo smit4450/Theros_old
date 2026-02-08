@@ -1,4 +1,5 @@
 ---
+title: Monster Camouflage
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

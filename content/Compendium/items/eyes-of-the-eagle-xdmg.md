@@ -1,4 +1,5 @@
 ---
+title: Eyes of the Eagle
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

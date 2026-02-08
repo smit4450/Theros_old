@@ -1,4 +1,5 @@
 ---
+title: Spirit Board
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

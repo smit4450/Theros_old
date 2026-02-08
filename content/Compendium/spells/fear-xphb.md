@@ -1,4 +1,5 @@
 ---
+title: Fear
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

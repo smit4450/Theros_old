@@ -1,4 +1,5 @@
 ---
+title: Canyon Shrine Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

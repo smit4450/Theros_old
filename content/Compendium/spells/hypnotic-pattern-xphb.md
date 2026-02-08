@@ -1,4 +1,5 @@
 ---
+title: Hypnotic Pattern
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

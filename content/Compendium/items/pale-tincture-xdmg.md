@@ -1,4 +1,5 @@
 ---
+title: Pale Tincture
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

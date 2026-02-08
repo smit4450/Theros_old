@@ -1,4 +1,5 @@
 ---
+title: Ammunition of Slaying
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

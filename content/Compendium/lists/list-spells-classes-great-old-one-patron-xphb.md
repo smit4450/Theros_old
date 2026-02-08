@@ -1,4 +1,5 @@
 ---
+title: Spells for Great Old One Patron
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

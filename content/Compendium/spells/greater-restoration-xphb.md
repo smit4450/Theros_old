@@ -1,4 +1,5 @@
 ---
+title: Greater Restoration
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

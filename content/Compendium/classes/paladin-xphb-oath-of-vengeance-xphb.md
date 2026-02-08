@@ -1,4 +1,5 @@
 ---
+title: Oath of Vengeance
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

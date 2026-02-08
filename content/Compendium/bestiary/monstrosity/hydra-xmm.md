@@ -1,4 +1,5 @@
 ---
+title: Hydra
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Black Pearl
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

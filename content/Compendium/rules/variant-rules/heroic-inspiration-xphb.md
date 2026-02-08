@@ -1,4 +1,5 @@
 ---
+title: Heroic Inspiration
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

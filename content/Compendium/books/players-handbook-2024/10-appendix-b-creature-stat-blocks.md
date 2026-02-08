@@ -1,4 +1,5 @@
 ---
+title: "Appendix B: Creature Stat Blocks"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

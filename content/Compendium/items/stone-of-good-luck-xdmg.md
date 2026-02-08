@@ -1,4 +1,5 @@
 ---
+title: Stone of Good Luck
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

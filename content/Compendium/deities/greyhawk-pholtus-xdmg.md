@@ -1,4 +1,5 @@
 ---
+title: Pholtus
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

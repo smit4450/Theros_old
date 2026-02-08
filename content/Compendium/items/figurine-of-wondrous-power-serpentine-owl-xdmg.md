@@ -1,4 +1,5 @@
 ---
+title: Figurine of Wondrous Power, Serpentine Owl
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

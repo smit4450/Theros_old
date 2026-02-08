@@ -1,4 +1,5 @@
 ---
+title: Armor Class
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

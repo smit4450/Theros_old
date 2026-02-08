@@ -1,4 +1,5 @@
 ---
+title: Thorn Whip
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

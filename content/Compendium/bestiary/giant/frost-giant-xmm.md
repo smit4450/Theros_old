@@ -1,4 +1,5 @@
 ---
+title: Frost Giant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

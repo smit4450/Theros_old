@@ -1,4 +1,5 @@
 ---
+title: "Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

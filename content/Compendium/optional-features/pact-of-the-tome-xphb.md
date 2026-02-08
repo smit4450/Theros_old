@@ -1,4 +1,5 @@
 ---
+title: Pact of the Tome
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

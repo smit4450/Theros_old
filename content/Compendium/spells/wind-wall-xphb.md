@@ -1,4 +1,5 @@
 ---
+title: Wind Wall
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

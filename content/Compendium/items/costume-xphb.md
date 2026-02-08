@@ -1,4 +1,5 @@
 ---
+title: Costume
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

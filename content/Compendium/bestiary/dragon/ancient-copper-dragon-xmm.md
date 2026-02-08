@@ -1,4 +1,5 @@
 ---
+title: Ancient Copper Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

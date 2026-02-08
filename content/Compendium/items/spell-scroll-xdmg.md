@@ -1,4 +1,5 @@
 ---
+title: Spell Scroll
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

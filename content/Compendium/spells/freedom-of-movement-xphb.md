@@ -1,4 +1,5 @@
 ---
+title: Freedom of Movement
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

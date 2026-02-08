@@ -1,4 +1,5 @@
 ---
+title: Young Bronze Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

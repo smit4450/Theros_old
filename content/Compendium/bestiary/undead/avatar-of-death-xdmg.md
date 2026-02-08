@@ -1,4 +1,5 @@
 ---
+title: Avatar of Death
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

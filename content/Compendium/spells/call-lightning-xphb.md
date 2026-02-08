@@ -1,4 +1,5 @@
 ---
+title: Call Lightning
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

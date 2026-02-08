@@ -1,4 +1,5 @@
 ---
+title: Conjure Celestial
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

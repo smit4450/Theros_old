@@ -1,4 +1,5 @@
 ---
+title: Choose Languages; Standard Languages
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

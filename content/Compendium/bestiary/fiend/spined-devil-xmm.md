@@ -1,4 +1,5 @@
 ---
+title: Spined Devil
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

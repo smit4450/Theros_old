@@ -1,4 +1,5 @@
 ---
+title: Spells for Aberrant Sorcery
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

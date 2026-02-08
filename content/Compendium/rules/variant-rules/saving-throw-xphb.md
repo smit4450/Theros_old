@@ -1,4 +1,5 @@
 ---
+title: Saving Throw
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Boon of the Furious Storm
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

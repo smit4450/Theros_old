@@ -1,4 +1,5 @@
 ---
+title: Belt of Fire Giant Strength
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

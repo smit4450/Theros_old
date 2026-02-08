@@ -1,4 +1,5 @@
 ---
+title: Goading Attack
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

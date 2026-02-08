@@ -1,4 +1,5 @@
 ---
+title: Animal Messenger
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

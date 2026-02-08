@@ -1,4 +1,5 @@
 ---
+title: Plate Armor of Etherealness
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

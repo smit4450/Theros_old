@@ -1,4 +1,5 @@
 ---
+title: Divine Word
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

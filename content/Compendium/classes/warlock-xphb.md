@@ -1,4 +1,5 @@
 ---
+title: Warlock
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

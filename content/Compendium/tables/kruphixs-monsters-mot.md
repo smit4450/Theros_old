@@ -1,4 +1,5 @@
 ---
+title: "Kruphix's Monsters"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

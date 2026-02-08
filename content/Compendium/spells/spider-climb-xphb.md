@@ -1,4 +1,5 @@
 ---
+title: Spider Climb
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

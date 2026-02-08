@@ -1,4 +1,5 @@
 ---
+title: Rod of Absorption
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

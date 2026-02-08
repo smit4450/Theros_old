@@ -1,4 +1,5 @@
 ---
+title: Red Wizard Necropolis
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

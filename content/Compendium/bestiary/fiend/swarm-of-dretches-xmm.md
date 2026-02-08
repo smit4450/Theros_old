@@ -1,4 +1,5 @@
 ---
+title: Swarm of Dretches
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

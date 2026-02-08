@@ -1,4 +1,5 @@
 ---
+title: Dancing Lights
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

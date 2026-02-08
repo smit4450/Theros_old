@@ -1,4 +1,5 @@
 ---
+title: Treasure Hoards; Random Treasure Hoard
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

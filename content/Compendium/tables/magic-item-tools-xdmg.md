@@ -1,4 +1,5 @@
 ---
+title: Magic Item Tools
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

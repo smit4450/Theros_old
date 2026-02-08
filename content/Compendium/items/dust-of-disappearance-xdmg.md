@@ -1,4 +1,5 @@
 ---
+title: Dust of Disappearance
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

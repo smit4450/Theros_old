@@ -1,4 +1,5 @@
 ---
+title: Illusory Script
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

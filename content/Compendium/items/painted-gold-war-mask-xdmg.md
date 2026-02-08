@@ -1,4 +1,5 @@
 ---
+title: Painted gold war mask
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

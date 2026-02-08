@@ -1,4 +1,5 @@
 ---
+title: Arasta
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

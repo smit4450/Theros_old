@@ -1,4 +1,5 @@
 ---
+title: Shield of the Cavalier
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

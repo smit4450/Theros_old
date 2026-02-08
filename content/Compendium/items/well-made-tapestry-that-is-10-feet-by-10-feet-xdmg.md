@@ -1,4 +1,5 @@
 ---
+title: Well-made tapestry that is 10 feet by 10 feet
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

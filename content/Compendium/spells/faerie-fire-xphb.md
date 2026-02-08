@@ -1,4 +1,5 @@
 ---
+title: Faerie Fire
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

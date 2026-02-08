@@ -1,4 +1,5 @@
 ---
+title: Succubus
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

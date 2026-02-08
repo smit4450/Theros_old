@@ -1,4 +1,5 @@
 ---
+title: Ring of Mind Shielding
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

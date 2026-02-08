@@ -1,4 +1,5 @@
 ---
+title: Satyr Revelmaster
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

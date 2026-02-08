@@ -1,4 +1,5 @@
 ---
+title: Flaming Skeleton
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

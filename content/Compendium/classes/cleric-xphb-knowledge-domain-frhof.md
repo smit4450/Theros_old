@@ -1,4 +1,5 @@
 ---
+title: Knowledge Domain
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

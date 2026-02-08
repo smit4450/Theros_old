@@ -1,4 +1,5 @@
 ---
+title: Human
 obsidianUIMode: preview
 cssclasses: json5e-race
 tags:

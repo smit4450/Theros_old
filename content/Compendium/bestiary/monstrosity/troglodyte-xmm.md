@@ -1,4 +1,5 @@
 ---
+title: Troglodyte
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

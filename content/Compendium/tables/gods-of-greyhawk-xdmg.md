@@ -1,4 +1,5 @@
 ---
+title: Gods of Greyhawk
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

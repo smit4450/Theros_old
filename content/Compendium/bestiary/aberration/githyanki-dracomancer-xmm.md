@@ -1,4 +1,5 @@
 ---
+title: Githyanki Dracomancer
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

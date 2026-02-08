@@ -1,4 +1,5 @@
 ---
+title: Ring of Djinni Summoning
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

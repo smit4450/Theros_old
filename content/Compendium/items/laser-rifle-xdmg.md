@@ -1,4 +1,5 @@
 ---
+title: Laser Rifle
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

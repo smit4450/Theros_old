@@ -1,4 +1,5 @@
 ---
+title: Omens of Kruphix
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

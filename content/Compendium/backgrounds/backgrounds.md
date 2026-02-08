@@ -1,4 +1,5 @@
 ---
+title: Index of Backgrounds
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

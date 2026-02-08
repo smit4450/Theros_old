@@ -1,4 +1,5 @@
 ---
+title: Clay Golem
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

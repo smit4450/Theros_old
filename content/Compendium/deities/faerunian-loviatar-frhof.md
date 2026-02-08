@@ -1,4 +1,5 @@
 ---
+title: Loviatar
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

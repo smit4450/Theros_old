@@ -1,4 +1,5 @@
 ---
+title: Blessing of Health
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

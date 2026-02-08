@@ -1,4 +1,5 @@
 ---
+title: Index of Traps-hazards
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: 1,000 GP Gemstones
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

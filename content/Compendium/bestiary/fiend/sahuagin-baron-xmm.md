@@ -1,4 +1,5 @@
 ---
+title: Sahuagin Baron
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

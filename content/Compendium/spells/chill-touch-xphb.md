@@ -1,4 +1,5 @@
 ---
+title: Chill Touch
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

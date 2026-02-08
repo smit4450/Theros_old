@@ -1,4 +1,5 @@
 ---
+title: Index of Plant
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

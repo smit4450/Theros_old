@@ -1,4 +1,5 @@
 ---
+title: Animated Object (Medium or Smaller)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

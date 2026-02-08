@@ -1,4 +1,5 @@
 ---
+title: Disadvantage
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

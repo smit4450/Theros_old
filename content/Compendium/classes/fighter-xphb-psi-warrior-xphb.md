@@ -1,4 +1,5 @@
 ---
+title: Psi Warrior
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

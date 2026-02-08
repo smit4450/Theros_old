@@ -1,4 +1,5 @@
 ---
+title: Omens of Purphoros
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

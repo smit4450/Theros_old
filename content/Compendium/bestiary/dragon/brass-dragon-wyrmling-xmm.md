@@ -1,4 +1,5 @@
 ---
+title: Brass Dragon Wyrmling
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

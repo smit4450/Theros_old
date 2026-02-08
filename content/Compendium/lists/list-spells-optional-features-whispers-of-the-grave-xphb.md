@@ -1,4 +1,5 @@
 ---
+title: Spells for Whispers of the Grave
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

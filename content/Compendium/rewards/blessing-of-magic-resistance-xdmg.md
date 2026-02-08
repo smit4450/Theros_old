@@ -1,4 +1,5 @@
 ---
+title: Blessing of Magic Resistance
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

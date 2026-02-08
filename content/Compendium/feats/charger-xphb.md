@@ -1,4 +1,5 @@
 ---
+title: Charger
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

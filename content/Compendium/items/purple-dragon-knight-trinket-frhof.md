@@ -1,4 +1,5 @@
 ---
+title: Purple Dragon Knight Trinket
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

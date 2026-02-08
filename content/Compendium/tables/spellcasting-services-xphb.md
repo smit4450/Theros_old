@@ -1,4 +1,5 @@
 ---
+title: Spellcasting Services
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

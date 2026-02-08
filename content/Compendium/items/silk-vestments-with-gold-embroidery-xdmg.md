@@ -1,4 +1,5 @@
 ---
+title: Silk vestments with gold embroidery
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

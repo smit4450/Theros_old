@@ -1,4 +1,5 @@
 ---
+title: Dust of Sneezing and Choking
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

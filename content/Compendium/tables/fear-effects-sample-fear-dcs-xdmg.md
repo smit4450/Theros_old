@@ -1,4 +1,5 @@
 ---
+title: Fear Effects; Sample Fear DCs
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

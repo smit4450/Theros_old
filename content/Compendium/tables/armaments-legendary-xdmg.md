@@ -1,4 +1,5 @@
 ---
+title: Armaments - Legendary
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

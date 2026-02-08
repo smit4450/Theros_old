@@ -1,4 +1,5 @@
 ---
+title: Investment of the Chain Master
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

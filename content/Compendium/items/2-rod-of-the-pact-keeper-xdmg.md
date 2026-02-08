@@ -1,4 +1,5 @@
 ---
+title: +2 Rod of the Pact Keeper
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

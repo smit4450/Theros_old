@@ -1,4 +1,5 @@
 ---
+title: Champion of Affliction
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

@@ -1,4 +1,5 @@
 ---
+title: Arcane Study Charm
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

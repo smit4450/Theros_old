@@ -1,4 +1,5 @@
 ---
+title: "Chapter 6: Factions of the Realms"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

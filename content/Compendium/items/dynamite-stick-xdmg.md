@@ -1,4 +1,5 @@
 ---
+title: Dynamite Stick
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

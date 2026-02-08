@@ -1,4 +1,5 @@
 ---
+title: Storehouse
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

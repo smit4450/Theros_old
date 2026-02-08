@@ -1,4 +1,5 @@
 ---
+title: Emerald Enclave Fledgling
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

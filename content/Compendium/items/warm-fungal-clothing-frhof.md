@@ -1,4 +1,5 @@
 ---
+title: Warm Fungal Clothing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

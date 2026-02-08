@@ -1,4 +1,5 @@
 ---
+title: Trophy Room
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

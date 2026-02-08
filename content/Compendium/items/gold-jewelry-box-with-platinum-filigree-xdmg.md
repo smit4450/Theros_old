@@ -1,4 +1,5 @@
 ---
+title: Gold jewelry box with platinum filigree
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

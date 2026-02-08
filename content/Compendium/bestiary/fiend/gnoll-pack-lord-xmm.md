@@ -1,4 +1,5 @@
 ---
+title: Gnoll Pack Lord
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

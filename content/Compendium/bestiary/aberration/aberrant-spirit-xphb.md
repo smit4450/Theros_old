@@ -1,4 +1,5 @@
 ---
+title: Aberrant Spirit
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

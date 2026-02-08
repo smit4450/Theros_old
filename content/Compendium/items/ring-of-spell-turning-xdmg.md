@@ -1,4 +1,5 @@
 ---
+title: Ring of Spell Turning
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

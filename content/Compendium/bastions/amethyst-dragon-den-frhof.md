@@ -1,4 +1,5 @@
 ---
+title: Amethyst Dragon Den
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

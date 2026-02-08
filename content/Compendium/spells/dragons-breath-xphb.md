@@ -1,4 +1,5 @@
 ---
+title: "Dragon's Breath"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

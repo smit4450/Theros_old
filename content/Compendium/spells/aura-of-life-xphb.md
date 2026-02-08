@@ -1,4 +1,5 @@
 ---
+title: Aura of Life
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

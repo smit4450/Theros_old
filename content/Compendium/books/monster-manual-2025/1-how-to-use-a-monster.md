@@ -1,4 +1,5 @@
 ---
+title: How to Use a Monster
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

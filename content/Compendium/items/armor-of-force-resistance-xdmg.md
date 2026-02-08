@@ -1,4 +1,5 @@
 ---
+title: Armor of Force Resistance
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

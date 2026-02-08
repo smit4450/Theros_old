@@ -1,4 +1,5 @@
 ---
+title: "Chapter 3: Gods of Faerûn"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Hook Horror
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

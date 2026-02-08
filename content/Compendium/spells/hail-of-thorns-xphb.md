@@ -1,4 +1,5 @@
 ---
+title: Hail of Thorns
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

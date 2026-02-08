@@ -1,4 +1,5 @@
 ---
+title: Glyph of Warding
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

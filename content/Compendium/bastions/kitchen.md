@@ -1,4 +1,5 @@
 ---
+title: Kitchen
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

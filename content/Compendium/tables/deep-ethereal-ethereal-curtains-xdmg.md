@@ -1,4 +1,5 @@
 ---
+title: Deep Ethereal; Ethereal Curtains
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Keelboat
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

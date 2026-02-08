@@ -1,4 +1,5 @@
 ---
+title: Mask
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

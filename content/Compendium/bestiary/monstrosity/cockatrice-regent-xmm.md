@@ -1,4 +1,5 @@
 ---
+title: Cockatrice Regent
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

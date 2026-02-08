@@ -1,4 +1,5 @@
 ---
+title: Instrument of the Bards, Cli Lyre
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

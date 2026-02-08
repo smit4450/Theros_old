@@ -1,4 +1,5 @@
 ---
+title: Spells for One with Shadows
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

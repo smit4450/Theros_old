@@ -1,4 +1,5 @@
 ---
+title: Perfume of Bewitching
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

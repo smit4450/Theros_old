@@ -1,4 +1,5 @@
 ---
+title: Auril
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

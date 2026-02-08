@@ -1,4 +1,5 @@
 ---
+title: Spells for Draconic Sorcery
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Agora Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

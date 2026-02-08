@@ -1,4 +1,5 @@
 ---
+title: Tome of Leadership and Influence
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

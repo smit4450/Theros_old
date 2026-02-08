@@ -1,4 +1,5 @@
 ---
+title: Nyxborn Statistics; Nyxborn Traits
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

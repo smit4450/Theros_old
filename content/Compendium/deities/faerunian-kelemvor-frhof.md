@@ -1,4 +1,5 @@
 ---
+title: Kelemvor
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

@@ -1,4 +1,5 @@
 ---
+title: Necklace string of small pink pearls
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

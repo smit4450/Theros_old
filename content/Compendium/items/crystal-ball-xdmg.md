@@ -1,4 +1,5 @@
 ---
+title: Crystal Ball
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

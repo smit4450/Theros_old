@@ -1,4 +1,5 @@
 ---
+title: +2 Ammunition
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

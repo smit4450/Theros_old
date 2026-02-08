@@ -1,4 +1,5 @@
 ---
+title: Ray of Sickness
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

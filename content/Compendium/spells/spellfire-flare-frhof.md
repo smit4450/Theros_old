@@ -1,4 +1,5 @@
 ---
+title: Spellfire Flare
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

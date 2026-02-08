@@ -1,4 +1,5 @@
 ---
+title: Cloud of Daggers
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

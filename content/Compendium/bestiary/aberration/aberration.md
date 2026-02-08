@@ -1,4 +1,5 @@
 ---
+title: Index of Aberration
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

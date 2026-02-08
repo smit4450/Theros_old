@@ -1,4 +1,5 @@
 ---
+title: Cyclops Oracle
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

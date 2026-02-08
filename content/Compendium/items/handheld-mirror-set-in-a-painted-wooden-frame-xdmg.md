@@ -1,4 +1,5 @@
 ---
+title: Handheld mirror set in a painted wooden frame
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

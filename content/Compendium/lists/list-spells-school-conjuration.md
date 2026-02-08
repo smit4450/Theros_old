@@ -1,4 +1,5 @@
 ---
+title: Conjuration Spells
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

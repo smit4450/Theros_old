@@ -1,4 +1,5 @@
 ---
+title: Monster Conversions; Stat Block Conversions
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

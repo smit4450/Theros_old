@@ -1,4 +1,5 @@
 ---
+title: Hellish Rebuke
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

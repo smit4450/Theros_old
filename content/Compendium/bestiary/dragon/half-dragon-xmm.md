@@ -1,4 +1,5 @@
 ---
+title: Half-Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

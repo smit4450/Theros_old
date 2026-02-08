@@ -1,4 +1,5 @@
 ---
+title: Index of Undead
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

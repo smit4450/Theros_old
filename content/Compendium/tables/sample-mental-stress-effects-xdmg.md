@@ -1,4 +1,5 @@
 ---
+title: Sample Mental Stress Effects
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

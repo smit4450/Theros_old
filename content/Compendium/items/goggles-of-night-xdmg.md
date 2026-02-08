@@ -1,4 +1,5 @@
 ---
+title: Goggles of Night
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

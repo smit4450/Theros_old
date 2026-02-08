@@ -1,4 +1,5 @@
 ---
+title: Swarm of Piranhas
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

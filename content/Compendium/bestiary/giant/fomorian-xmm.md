@@ -1,4 +1,5 @@
 ---
+title: Fomorian
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

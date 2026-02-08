@@ -1,4 +1,5 @@
 ---
+title: Difficult Terrain
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

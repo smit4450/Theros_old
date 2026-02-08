@@ -1,4 +1,5 @@
 ---
+title: War Pick
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

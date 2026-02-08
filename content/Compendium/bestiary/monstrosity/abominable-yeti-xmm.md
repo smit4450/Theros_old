@@ -1,4 +1,5 @@
 ---
+title: Abominable Yeti
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

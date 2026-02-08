@@ -1,4 +1,5 @@
 ---
+title: Inspiring Leader
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

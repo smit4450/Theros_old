@@ -1,4 +1,5 @@
 ---
+title: Renown Rewards; Harper Renown
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

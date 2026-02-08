@@ -1,4 +1,5 @@
 ---
+title: Rod of Alertness
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

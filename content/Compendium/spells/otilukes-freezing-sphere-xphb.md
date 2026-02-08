@@ -1,4 +1,5 @@
 ---
+title: "Otiluke's Freezing Sphere"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

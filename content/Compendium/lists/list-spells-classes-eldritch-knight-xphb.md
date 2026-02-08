@@ -1,4 +1,5 @@
 ---
+title: Spells for Eldritch Knight
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

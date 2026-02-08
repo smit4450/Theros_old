@@ -1,4 +1,5 @@
 ---
+title: Starry Wisp
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

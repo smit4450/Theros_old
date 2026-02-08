@@ -1,4 +1,5 @@
 ---
+title: Feinting Attack
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

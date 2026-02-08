@@ -1,4 +1,5 @@
 ---
+title: Well of Many Worlds
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

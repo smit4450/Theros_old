@@ -1,4 +1,5 @@
 ---
+title: Nightmare
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

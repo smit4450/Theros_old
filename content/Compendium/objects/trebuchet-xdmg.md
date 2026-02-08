@@ -1,4 +1,5 @@
 ---
+title: Trebuchet
 obsidianUIMode: preview
 cssclasses:
 - json5e-object

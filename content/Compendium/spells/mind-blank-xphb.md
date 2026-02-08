@@ -1,4 +1,5 @@
 ---
+title: Mind Blank
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

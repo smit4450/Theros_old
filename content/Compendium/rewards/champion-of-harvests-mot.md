@@ -1,4 +1,5 @@
 ---
+title: Champion of Harvests
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

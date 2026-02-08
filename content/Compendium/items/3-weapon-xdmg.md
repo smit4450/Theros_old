@@ -1,4 +1,5 @@
 ---
+title: +3 Weapon
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

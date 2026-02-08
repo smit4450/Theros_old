@@ -1,4 +1,5 @@
 ---
+title: Eldritch Knight
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

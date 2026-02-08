@@ -1,4 +1,5 @@
 ---
+title: Druidic Focus (Varies); Druidic Focuses
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

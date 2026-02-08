@@ -1,4 +1,5 @@
 ---
+title: Luck Blade
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

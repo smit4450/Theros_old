@@ -1,4 +1,5 @@
 ---
+title: Chime of Opening
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Animated Rug of Smothering
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

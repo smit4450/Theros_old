@@ -1,4 +1,5 @@
 ---
+title: Akroan Hoplite
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

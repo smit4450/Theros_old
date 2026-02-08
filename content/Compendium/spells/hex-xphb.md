@@ -1,4 +1,5 @@
 ---
+title: Hex
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

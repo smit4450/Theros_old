@@ -1,4 +1,5 @@
 ---
+title: Death Knight
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

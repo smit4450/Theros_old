@@ -1,4 +1,5 @@
 ---
+title: Manual of Iron Golems
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

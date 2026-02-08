@@ -1,4 +1,5 @@
 ---
+title: Displacer Beast
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

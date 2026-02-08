@@ -1,4 +1,5 @@
 ---
+title: Webs
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

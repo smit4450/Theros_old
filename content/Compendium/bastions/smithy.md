@@ -1,4 +1,5 @@
 ---
+title: Smithy
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

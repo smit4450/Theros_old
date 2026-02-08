@@ -1,4 +1,5 @@
 ---
+title: Moonwell Pilgrim
 obsidianUIMode: preview
 cssclasses: json5e-background
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Ending a Chase; Escape Factors
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

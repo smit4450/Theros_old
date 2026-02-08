@@ -1,4 +1,5 @@
 ---
+title: "Klothys's Quests"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

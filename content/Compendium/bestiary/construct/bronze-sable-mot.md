@@ -1,4 +1,5 @@
 ---
+title: Bronze Sable
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

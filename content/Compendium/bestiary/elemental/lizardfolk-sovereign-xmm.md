@@ -1,4 +1,5 @@
 ---
+title: Lizardfolk Sovereign
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

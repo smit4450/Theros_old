@@ -1,4 +1,5 @@
 ---
+title: Pony
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

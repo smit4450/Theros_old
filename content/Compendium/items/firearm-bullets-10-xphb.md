@@ -1,4 +1,5 @@
 ---
+title: Firearm Bullets (10)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

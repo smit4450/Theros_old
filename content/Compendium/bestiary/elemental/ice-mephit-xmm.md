@@ -1,4 +1,5 @@
 ---
+title: Ice Mephit
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

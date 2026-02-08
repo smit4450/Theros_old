@@ -1,4 +1,5 @@
 ---
+title: Blessing of Wound Closure
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

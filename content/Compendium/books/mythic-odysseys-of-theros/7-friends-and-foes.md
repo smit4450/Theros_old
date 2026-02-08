@@ -1,4 +1,5 @@
 ---
+title: Friends and Foes
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

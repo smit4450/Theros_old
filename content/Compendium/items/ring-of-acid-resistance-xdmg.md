@@ -1,4 +1,5 @@
 ---
+title: Ring of Acid Resistance
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

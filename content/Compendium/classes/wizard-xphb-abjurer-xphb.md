@@ -1,4 +1,5 @@
 ---
+title: Abjurer
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

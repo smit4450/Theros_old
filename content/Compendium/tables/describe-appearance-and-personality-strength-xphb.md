@@ -1,4 +1,5 @@
 ---
+title: Describe Appearance and Personality; Strength
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

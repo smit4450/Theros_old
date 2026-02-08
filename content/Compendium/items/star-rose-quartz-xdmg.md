@@ -1,4 +1,5 @@
 ---
+title: Star rose quartz
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

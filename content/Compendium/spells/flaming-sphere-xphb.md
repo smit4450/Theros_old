@@ -1,4 +1,5 @@
 ---
+title: Flaming Sphere
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

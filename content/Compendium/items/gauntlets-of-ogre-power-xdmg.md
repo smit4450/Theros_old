@@ -1,4 +1,5 @@
 ---
+title: Gauntlets of Ogre Power
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

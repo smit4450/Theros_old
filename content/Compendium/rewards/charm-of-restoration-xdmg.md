@@ -1,4 +1,5 @@
 ---
+title: Charm of Restoration
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

@@ -1,4 +1,5 @@
 ---
+title: Young Gold Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

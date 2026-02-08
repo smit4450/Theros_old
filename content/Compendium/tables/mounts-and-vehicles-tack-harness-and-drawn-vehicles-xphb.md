@@ -1,4 +1,5 @@
 ---
+title: Mounts and Vehicles; Tack, Harness, and Drawn Vehicles
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

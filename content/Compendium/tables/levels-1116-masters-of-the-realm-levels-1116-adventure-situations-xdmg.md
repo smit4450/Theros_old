@@ -1,4 +1,5 @@
 ---
+title: "Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Wilderness Chase Complications
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

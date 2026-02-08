@@ -1,4 +1,5 @@
 ---
+title: Dwarven Plate
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

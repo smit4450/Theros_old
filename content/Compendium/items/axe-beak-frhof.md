@@ -1,4 +1,5 @@
 ---
+title: Axe Beak
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

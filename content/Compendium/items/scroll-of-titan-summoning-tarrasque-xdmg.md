@@ -1,4 +1,5 @@
 ---
+title: Scroll of Titan Summoning (Tarrasque)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

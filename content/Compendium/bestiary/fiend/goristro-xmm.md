@@ -1,4 +1,5 @@
 ---
+title: Goristro
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

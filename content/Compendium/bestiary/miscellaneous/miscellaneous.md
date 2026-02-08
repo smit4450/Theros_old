@@ -1,4 +1,5 @@
 ---
+title: Index of Miscellaneous
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

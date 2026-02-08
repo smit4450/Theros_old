@@ -1,4 +1,5 @@
 ---
+title: Wall of Fire
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

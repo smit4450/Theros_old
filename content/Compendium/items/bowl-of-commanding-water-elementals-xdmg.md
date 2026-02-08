@@ -1,4 +1,5 @@
 ---
+title: Bowl of Commanding Water Elementals
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

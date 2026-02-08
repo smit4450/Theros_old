@@ -1,4 +1,5 @@
 ---
+title: "Quaal's Feather Token"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

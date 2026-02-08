@@ -1,4 +1,5 @@
 ---
+title: Visibility Underwater; Underwater Encounter Distance
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

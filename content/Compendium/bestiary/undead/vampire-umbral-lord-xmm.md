@@ -1,4 +1,5 @@
 ---
+title: Vampire Umbral Lord
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

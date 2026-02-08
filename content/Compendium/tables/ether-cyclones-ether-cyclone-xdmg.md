@@ -1,4 +1,5 @@
 ---
+title: Ether Cyclones; Ether Cyclone
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

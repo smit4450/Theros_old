@@ -1,4 +1,5 @@
 ---
+title: Skill Expert
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

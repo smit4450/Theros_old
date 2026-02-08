@@ -1,4 +1,5 @@
 ---
+title: Skill List; Skills
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

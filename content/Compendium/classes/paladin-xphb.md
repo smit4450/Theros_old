@@ -1,4 +1,5 @@
 ---
+title: Paladin
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

@@ -1,4 +1,5 @@
 ---
+title: Cauldron of Rebirth
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

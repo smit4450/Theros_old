@@ -1,4 +1,5 @@
 ---
+title: Spells for Triton
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

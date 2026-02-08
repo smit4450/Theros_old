@@ -1,4 +1,5 @@
 ---
+title: Giant Eagle
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

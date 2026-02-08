@@ -1,4 +1,5 @@
 ---
+title: Prayer of Healing
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Quasit
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

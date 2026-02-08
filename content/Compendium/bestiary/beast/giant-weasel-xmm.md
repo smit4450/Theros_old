@@ -1,4 +1,5 @@
 ---
+title: Giant Weasel
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

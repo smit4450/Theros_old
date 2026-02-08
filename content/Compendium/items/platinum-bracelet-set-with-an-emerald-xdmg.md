@@ -1,4 +1,5 @@
 ---
+title: Platinum bracelet set with an emerald
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

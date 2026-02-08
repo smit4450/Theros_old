@@ -1,4 +1,5 @@
 ---
+title: Skulker
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Elemental Spirit (Fire)
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

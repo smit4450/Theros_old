@@ -1,4 +1,5 @@
 ---
+title: Sentinel
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

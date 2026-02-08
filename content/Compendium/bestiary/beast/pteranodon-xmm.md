@@ -1,4 +1,5 @@
 ---
+title: Pteranodon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

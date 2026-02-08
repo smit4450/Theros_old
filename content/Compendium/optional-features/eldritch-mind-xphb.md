@@ -1,4 +1,5 @@
 ---
+title: Eldritch Mind
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

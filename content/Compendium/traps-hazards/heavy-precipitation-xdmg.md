@@ -1,4 +1,5 @@
 ---
+title: Heavy Precipitation
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

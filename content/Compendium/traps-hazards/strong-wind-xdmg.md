@@ -1,4 +1,5 @@
 ---
+title: Strong Wind
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

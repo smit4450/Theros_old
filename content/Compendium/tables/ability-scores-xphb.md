@@ -1,4 +1,5 @@
 ---
+title: Ability Scores
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

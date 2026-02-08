@@ -1,4 +1,5 @@
 ---
+title: Brown Bear
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

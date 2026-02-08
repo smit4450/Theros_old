@@ -1,4 +1,5 @@
 ---
+title: Warrior Commander
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

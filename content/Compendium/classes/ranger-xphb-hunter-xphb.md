@@ -1,4 +1,5 @@
 ---
+title: Hunter
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

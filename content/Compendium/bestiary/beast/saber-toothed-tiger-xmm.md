@@ -1,4 +1,5 @@
 ---
+title: Saber-Toothed Tiger
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

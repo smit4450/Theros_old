@@ -1,4 +1,5 @@
 ---
+title: Adult Green Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

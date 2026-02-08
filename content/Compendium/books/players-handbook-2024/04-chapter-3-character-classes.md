@@ -1,4 +1,5 @@
 ---
+title: "Chapter 3: Character Classes"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

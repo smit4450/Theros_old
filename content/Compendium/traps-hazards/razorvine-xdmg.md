@@ -1,4 +1,5 @@
 ---
+title: Razorvine
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

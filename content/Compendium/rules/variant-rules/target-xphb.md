@@ -1,4 +1,5 @@
 ---
+title: Target
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

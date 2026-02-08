@@ -1,4 +1,5 @@
 ---
+title: "Mogis's Devotee"
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

@@ -1,4 +1,5 @@
 ---
+title: Charm of Feather Falling
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

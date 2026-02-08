@@ -1,4 +1,5 @@
 ---
+title: Linen (1 sq. yd.)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

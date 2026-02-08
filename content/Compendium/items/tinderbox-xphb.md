@@ -1,4 +1,5 @@
 ---
+title: Tinderbox
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

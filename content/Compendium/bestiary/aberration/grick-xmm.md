@@ -1,4 +1,5 @@
 ---
+title: Grick
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

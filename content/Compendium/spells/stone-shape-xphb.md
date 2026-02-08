@@ -1,4 +1,5 @@
 ---
+title: Stone Shape
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

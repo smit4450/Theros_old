@@ -1,4 +1,5 @@
 ---
+title: Protection from Poison
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

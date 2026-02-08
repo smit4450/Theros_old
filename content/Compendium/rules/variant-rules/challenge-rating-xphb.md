@@ -1,4 +1,5 @@
 ---
+title: Challenge Rating
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

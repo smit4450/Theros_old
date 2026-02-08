@@ -1,4 +1,5 @@
 ---
+title: Boon of Skill
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

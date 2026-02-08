@@ -1,4 +1,5 @@
 ---
+title: Faerie Dragon Youth
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

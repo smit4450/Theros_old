@@ -1,4 +1,5 @@
 ---
+title: "Chapter 1: The Basics"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Rope of Mending
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

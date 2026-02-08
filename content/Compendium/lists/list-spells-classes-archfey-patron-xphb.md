@@ -1,4 +1,5 @@
 ---
+title: Spells for Archfey Patron
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

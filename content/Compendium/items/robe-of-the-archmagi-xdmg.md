@@ -1,4 +1,5 @@
 ---
+title: Robe of the Archmagi
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

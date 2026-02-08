@@ -1,4 +1,5 @@
 ---
+title: Winter Wolf
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

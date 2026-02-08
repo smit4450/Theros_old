@@ -1,4 +1,5 @@
 ---
+title: Bait and Switch
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

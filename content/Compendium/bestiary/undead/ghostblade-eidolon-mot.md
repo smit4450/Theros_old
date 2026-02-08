@@ -1,4 +1,5 @@
 ---
+title: Ghostblade Eidolon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

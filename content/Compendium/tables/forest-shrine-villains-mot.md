@@ -1,4 +1,5 @@
 ---
+title: Forest Shrine Villains
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

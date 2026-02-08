@@ -1,4 +1,5 @@
 ---
+title: Cloak of the Manta Ray
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

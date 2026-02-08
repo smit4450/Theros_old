@@ -1,4 +1,5 @@
 ---
+title: Pseudodragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Random Magic Items - Implements
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

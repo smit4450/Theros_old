@@ -1,4 +1,5 @@
 ---
+title: Spells for Boon of Revelry
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Scroll of Protection (Aberrations)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

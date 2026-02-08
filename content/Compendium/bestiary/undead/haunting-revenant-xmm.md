@@ -1,4 +1,5 @@
 ---
+title: Haunting Revenant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

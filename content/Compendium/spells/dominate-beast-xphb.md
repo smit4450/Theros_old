@@ -1,4 +1,5 @@
 ---
+title: Dominate Beast
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

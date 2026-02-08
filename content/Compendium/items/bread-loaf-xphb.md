@@ -1,4 +1,5 @@
 ---
+title: Bread (loaf)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

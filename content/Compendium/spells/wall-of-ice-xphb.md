@@ -1,4 +1,5 @@
 ---
+title: Wall of Ice
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

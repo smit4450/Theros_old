@@ -1,4 +1,5 @@
 ---
+title: Random Magic Items - Arcana
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

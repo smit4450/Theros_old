@@ -1,4 +1,5 @@
 ---
+title: Index of Feats
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

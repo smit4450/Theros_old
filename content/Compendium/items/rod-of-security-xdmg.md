@@ -1,4 +1,5 @@
 ---
+title: Rod of Security
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

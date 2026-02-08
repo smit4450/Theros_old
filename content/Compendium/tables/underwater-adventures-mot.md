@@ -1,4 +1,5 @@
 ---
+title: Underwater Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

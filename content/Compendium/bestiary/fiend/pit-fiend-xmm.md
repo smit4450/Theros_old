@@ -1,4 +1,5 @@
 ---
+title: Pit Fiend
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

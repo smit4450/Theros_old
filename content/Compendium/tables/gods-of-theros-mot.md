@@ -1,4 +1,5 @@
 ---
+title: Gods of Theros
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: "Sentient Item's Special Purpose"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

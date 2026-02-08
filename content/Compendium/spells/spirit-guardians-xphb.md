@@ -1,4 +1,5 @@
 ---
+title: Spirit Guardians
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

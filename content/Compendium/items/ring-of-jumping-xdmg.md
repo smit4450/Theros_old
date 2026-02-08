@@ -1,4 +1,5 @@
 ---
+title: Ring of Jumping
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

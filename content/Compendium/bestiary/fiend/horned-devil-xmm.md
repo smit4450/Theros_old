@@ -1,4 +1,5 @@
 ---
+title: Horned Devil
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

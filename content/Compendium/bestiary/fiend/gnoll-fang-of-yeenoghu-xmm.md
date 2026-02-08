@@ -1,4 +1,5 @@
 ---
+title: Gnoll Fang of Yeenoghu
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

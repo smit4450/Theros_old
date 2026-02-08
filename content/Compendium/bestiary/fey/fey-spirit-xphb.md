@@ -1,4 +1,5 @@
 ---
+title: Fey Spirit
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Omens of Pharika
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

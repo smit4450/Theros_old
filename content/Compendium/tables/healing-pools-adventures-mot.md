@@ -1,4 +1,5 @@
 ---
+title: Healing Pools Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

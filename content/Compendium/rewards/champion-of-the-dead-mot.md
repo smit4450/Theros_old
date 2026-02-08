@@ -1,4 +1,5 @@
 ---
+title: Champion of the Dead
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

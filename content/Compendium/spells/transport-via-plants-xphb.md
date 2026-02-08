@@ -1,4 +1,5 @@
 ---
+title: Transport via Plants
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Wand of Lightning Bolts
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

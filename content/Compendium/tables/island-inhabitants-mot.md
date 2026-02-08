@@ -1,4 +1,5 @@
 ---
+title: Island Inhabitants
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

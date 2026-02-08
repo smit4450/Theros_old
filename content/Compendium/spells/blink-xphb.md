@@ -1,4 +1,5 @@
 ---
+title: Blink
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

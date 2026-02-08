@@ -1,4 +1,5 @@
 ---
+title: Friends
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

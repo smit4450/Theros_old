@@ -1,4 +1,5 @@
 ---
+title: Warhammer
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

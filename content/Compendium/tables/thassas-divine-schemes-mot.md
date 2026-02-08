@@ -1,4 +1,5 @@
 ---
+title: "Thassa's Divine Schemes"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

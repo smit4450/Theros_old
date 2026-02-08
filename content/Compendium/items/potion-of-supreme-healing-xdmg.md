@@ -1,4 +1,5 @@
 ---
+title: Potion of Supreme Healing
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

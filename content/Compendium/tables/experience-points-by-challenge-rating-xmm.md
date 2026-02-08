@@ -1,4 +1,5 @@
 ---
+title: Experience Points by Challenge Rating
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

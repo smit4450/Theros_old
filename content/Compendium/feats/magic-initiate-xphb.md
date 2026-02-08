@@ -1,4 +1,5 @@
 ---
+title: Magic Initiate
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

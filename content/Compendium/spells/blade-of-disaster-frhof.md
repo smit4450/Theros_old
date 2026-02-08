@@ -1,4 +1,5 @@
 ---
+title: Blade of Disaster
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

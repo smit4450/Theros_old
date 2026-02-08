@@ -1,4 +1,5 @@
 ---
+title: "Cartographer's Tools"
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

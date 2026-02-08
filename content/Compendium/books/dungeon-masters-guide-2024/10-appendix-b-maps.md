@@ -1,4 +1,5 @@
 ---
+title: "Appendix B: Maps"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

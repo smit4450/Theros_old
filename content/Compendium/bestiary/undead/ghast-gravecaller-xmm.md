@@ -1,4 +1,5 @@
 ---
+title: Ghast Gravecaller
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

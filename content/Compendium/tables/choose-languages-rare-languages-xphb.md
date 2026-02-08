@@ -1,4 +1,5 @@
 ---
+title: Choose Languages; Rare Languages
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

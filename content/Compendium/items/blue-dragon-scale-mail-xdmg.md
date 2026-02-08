@@ -1,4 +1,5 @@
 ---
+title: Blue Dragon Scale Mail
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

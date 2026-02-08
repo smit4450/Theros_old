@@ -1,4 +1,5 @@
 ---
+title: Spells for Cold Caster
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

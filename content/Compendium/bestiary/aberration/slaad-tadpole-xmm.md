@@ -1,4 +1,5 @@
 ---
+title: Slaad Tadpole
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

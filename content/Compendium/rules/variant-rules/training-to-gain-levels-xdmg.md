@@ -1,4 +1,5 @@
 ---
+title: Training to Gain Levels
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

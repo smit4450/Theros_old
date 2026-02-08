@@ -1,4 +1,5 @@
 ---
+title: Gaze of Two Minds
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

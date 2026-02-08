@@ -1,4 +1,5 @@
 ---
+title: "Special Purpose; Sentient Item's Communication"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Invisible Stalker
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

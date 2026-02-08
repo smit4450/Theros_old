@@ -1,4 +1,5 @@
 ---
+title: Sword of Kas
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

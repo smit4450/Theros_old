@@ -1,4 +1,5 @@
 ---
+title: Potion of Lightning Resistance
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

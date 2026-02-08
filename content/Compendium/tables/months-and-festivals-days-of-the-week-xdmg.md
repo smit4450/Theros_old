@@ -1,4 +1,5 @@
 ---
+title: Months and Festivals; Days of the Week
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

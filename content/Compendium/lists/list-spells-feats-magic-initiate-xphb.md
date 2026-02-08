@@ -1,4 +1,5 @@
 ---
+title: Spells for Magic Initiate
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Elephant
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

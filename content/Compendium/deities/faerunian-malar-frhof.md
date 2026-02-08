@@ -1,4 +1,5 @@
 ---
+title: Malar
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

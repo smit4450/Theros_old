@@ -1,4 +1,5 @@
 ---
+title: Set of gold nesting dolls
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Conjure Woodland Beings
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

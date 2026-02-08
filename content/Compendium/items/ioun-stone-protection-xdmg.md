@@ -1,4 +1,5 @@
 ---
+title: Ioun Stone, Protection
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

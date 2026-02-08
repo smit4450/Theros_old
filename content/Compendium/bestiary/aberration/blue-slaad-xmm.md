@@ -1,4 +1,5 @@
 ---
+title: Blue Slaad
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

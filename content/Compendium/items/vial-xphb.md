@@ -1,4 +1,5 @@
 ---
+title: Vial
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

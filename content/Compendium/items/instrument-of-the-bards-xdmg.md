@@ -1,4 +1,5 @@
 ---
+title: Instrument of the Bards
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

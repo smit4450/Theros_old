@@ -1,4 +1,5 @@
 ---
+title: Mass Suggestion
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

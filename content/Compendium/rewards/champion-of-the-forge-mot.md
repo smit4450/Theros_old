@@ -1,4 +1,5 @@
 ---
+title: Champion of the Forge
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

@@ -1,4 +1,5 @@
 ---
+title: Cone of Cold
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

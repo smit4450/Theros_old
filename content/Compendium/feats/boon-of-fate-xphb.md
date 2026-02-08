@@ -1,4 +1,5 @@
 ---
+title: Boon of Fate
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Preparing Spells; Spell Preparation by Class
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

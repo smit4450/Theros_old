@@ -1,4 +1,5 @@
 ---
+title: Bulette Pup
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

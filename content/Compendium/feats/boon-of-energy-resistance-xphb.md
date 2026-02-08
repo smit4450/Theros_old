@@ -1,4 +1,5 @@
 ---
+title: Boon of Energy Resistance
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

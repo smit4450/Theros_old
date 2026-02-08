@@ -1,4 +1,5 @@
 ---
+title: Menagerie
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

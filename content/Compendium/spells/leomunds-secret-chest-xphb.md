@@ -1,4 +1,5 @@
 ---
+title: "Leomund's Secret Chest"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

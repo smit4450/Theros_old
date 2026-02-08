@@ -1,4 +1,5 @@
 ---
+title: Boon of Irresistible Offense
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

@@ -1,4 +1,5 @@
 ---
+title: Genie Magic
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

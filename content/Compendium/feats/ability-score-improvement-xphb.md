@@ -1,4 +1,5 @@
 ---
+title: Ability Score Improvement
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

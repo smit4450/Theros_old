@@ -1,4 +1,5 @@
 ---
+title: Garden
 obsidianUIMode: preview
 cssclasses:
 - json5e-bastion

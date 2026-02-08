@@ -1,4 +1,5 @@
 ---
+title: Exploring the Mine
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

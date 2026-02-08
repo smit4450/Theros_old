@@ -1,4 +1,5 @@
 ---
+title: Needles (50)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

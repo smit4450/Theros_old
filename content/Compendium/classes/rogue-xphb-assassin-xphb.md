@@ -1,4 +1,5 @@
 ---
+title: Assassin
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

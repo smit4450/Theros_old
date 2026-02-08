@@ -1,4 +1,5 @@
 ---
+title: Boon of the Night Spirit
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

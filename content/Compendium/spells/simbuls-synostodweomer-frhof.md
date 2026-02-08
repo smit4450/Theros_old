@@ -1,4 +1,5 @@
 ---
+title: "Simbul's Synostodweomer"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

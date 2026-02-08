@@ -1,4 +1,5 @@
 ---
+title: Spells for War Domain
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

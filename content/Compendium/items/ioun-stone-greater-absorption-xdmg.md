@@ -1,4 +1,5 @@
 ---
+title: Ioun Stone, Greater Absorption
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

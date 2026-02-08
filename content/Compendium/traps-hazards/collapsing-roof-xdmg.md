@@ -1,4 +1,5 @@
 ---
+title: Collapsing Roof
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

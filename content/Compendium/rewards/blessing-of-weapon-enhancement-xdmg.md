@@ -1,4 +1,5 @@
 ---
+title: Blessing of Weapon Enhancement
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

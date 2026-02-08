@@ -1,4 +1,5 @@
 ---
+title: Garb of Light and Shadow
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

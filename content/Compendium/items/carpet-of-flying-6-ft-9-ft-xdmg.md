@@ -1,4 +1,5 @@
 ---
+title: Carpet of Flying, 6 ft. × 9 ft.
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

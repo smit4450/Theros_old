@@ -1,4 +1,5 @@
 ---
+title: Staggering Smite
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

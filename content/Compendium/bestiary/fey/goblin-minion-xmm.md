@@ -1,4 +1,5 @@
 ---
+title: Goblin Minion
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

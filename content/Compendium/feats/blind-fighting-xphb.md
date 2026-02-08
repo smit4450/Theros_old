@@ -1,4 +1,5 @@
 ---
+title: Blind Fighting
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

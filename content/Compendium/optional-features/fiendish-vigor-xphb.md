@@ -1,4 +1,5 @@
 ---
+title: Fiendish Vigor
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

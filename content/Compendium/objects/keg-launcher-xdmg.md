@@ -1,4 +1,5 @@
 ---
+title: Keg Launcher
 obsidianUIMode: preview
 cssclasses:
 - json5e-object

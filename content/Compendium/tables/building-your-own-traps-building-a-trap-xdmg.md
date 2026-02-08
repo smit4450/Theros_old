@@ -1,4 +1,5 @@
 ---
+title: Building Your Own Traps; Building a Trap
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

@@ -1,4 +1,5 @@
 ---
+title: Circle of the Land
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

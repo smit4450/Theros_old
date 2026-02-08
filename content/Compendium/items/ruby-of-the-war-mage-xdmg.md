@@ -1,4 +1,5 @@
 ---
+title: Ruby of the War Mage
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

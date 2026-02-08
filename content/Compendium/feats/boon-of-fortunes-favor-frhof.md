@@ -1,4 +1,5 @@
 ---
+title: "Boon of Fortune's Favor"
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

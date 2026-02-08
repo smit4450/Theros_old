@@ -1,4 +1,5 @@
 ---
+title: Arcane Vigor
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

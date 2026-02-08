@@ -1,4 +1,5 @@
 ---
+title: Aura of Vitality
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

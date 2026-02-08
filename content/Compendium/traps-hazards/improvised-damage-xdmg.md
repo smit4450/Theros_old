@@ -1,4 +1,5 @@
 ---
+title: Improvised Damage
 obsidianUIMode: preview
 cssclasses:
 - json5e-hazard

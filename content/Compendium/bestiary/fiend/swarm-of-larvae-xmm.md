@@ -1,4 +1,5 @@
 ---
+title: Swarm of Larvae
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

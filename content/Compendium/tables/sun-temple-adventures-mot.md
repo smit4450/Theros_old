@@ -1,4 +1,5 @@
 ---
+title: Sun Temple Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

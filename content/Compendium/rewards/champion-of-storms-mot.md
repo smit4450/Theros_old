@@ -1,4 +1,5 @@
 ---
+title: Champion of Storms
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

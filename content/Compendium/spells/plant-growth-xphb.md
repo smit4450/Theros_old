@@ -1,4 +1,5 @@
 ---
+title: Plant Growth
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

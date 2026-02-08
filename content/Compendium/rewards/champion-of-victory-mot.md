@@ -1,4 +1,5 @@
 ---
+title: Champion of Victory
 obsidianUIMode: preview
 cssclasses:
 - json5e-reward

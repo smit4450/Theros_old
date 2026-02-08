@@ -1,4 +1,5 @@
 ---
+title: "Renown Rewards; Lords' Alliance Renown"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

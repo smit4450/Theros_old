@@ -1,4 +1,5 @@
 ---
+title: Oil of Slipperiness
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

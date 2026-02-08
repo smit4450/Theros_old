@@ -1,4 +1,5 @@
 ---
+title: Hand of Vecna
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

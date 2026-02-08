@@ -1,4 +1,5 @@
 ---
+title: Ioun Stone, Sustenance
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

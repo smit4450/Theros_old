@@ -1,4 +1,5 @@
 ---
+title: +3 Armor
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Xorn
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

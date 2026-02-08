@@ -1,4 +1,5 @@
 ---
+title: Necklace of Fireballs
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

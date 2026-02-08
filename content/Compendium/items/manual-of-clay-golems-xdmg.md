@@ -1,4 +1,5 @@
 ---
+title: Manual of Clay Golems
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

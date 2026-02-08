@@ -1,4 +1,5 @@
 ---
+title: Death Tyrant
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

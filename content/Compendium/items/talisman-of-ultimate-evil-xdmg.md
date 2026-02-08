@@ -1,4 +1,5 @@
 ---
+title: Talisman of Ultimate Evil
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Hat of Disguise
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

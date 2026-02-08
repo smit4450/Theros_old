@@ -1,4 +1,5 @@
 ---
+title: "Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

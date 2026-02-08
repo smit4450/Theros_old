@@ -1,4 +1,5 @@
 ---
+title: "Chapter 5: Magic of Faerûn"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

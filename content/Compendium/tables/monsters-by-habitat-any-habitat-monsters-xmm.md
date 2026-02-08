@@ -1,4 +1,5 @@
 ---
+title: Monsters by Habitat; Any Habitat Monsters
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

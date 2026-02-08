@@ -1,4 +1,5 @@
 ---
+title: Demonomicon of Iggwilv
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

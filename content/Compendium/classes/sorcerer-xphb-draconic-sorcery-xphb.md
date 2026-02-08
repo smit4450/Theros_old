@@ -1,4 +1,5 @@
 ---
+title: Draconic Sorcery
 obsidianUIMode: preview
 cssclasses:
 - json5e-class

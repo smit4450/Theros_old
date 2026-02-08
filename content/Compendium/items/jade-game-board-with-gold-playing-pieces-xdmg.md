@@ -1,4 +1,5 @@
 ---
+title: Jade game board with gold playing pieces
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Blue Quartz
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Alignment and Personality; Personality Traits by Alignment
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

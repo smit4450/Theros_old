@@ -1,4 +1,5 @@
 ---
+title: Artifacts; Weapons of the Gods Adventures
 obsidianUIMode: preview
 cssclasses:
 - json5e-note

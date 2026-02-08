@@ -1,4 +1,5 @@
 ---
+title: Vicious Mockery
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

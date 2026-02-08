@@ -1,4 +1,5 @@
 ---
+title: Tharizdun
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

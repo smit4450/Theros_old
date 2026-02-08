@@ -1,4 +1,5 @@
 ---
+title: Embroidered silk and velvet mantle set with numerous moonstones
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

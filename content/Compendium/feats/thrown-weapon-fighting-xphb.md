@@ -1,4 +1,5 @@
 ---
+title: Thrown Weapon Fighting
 obsidianUIMode: preview
 cssclasses:
 - json5e-feat

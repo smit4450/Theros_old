@@ -1,4 +1,5 @@
 ---
+title: Hobgoblin Captain
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

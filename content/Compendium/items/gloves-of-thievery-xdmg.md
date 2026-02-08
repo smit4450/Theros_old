@@ -1,4 +1,5 @@
 ---
+title: Gloves of Thievery
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

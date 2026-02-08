@@ -1,4 +1,5 @@
 ---
+title: Adult Copper Dragon
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

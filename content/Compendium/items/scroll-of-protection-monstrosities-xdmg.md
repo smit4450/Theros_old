@@ -1,4 +1,5 @@
 ---
+title: Scroll of Protection (Monstrosities)
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

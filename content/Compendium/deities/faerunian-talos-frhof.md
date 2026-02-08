@@ -1,4 +1,5 @@
 ---
+title: Talos
 obsidianUIMode: preview
 cssclasses:
 - json5e-deity

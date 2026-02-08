@@ -1,4 +1,5 @@
 ---
+title: Lute of Thunderous Thumping
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

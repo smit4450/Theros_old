@@ -1,4 +1,5 @@
 ---
+title: Mace of Terror
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

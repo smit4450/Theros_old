@@ -1,4 +1,5 @@
 ---
+title: Plane Shift
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Ring of Water Walking
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

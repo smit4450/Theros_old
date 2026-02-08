@@ -1,4 +1,5 @@
 ---
+title: Nightmare Shepherd
 obsidianUIMode: preview
 cssclasses: json5e-object
 tags:

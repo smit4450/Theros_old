@@ -1,4 +1,5 @@
 ---
+title: "Crusader's Mantle"
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

@@ -1,4 +1,5 @@
 ---
+title: Finger of Death
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:

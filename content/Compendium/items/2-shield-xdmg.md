@@ -1,4 +1,5 @@
 ---
+title: +2 Shield
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

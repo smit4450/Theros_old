@@ -1,4 +1,5 @@
 ---
+title: Iron Bands of Bilarro
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

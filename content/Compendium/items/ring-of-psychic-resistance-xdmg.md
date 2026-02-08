@@ -1,4 +1,5 @@
 ---
+title: Ring of Psychic Resistance
 obsidianUIMode: preview
 cssclasses: json5e-item
 tags:

@@ -1,4 +1,5 @@
 ---
+title: "Spells for Pharika's Devotee"
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
