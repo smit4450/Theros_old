@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/item/shield/
 ---
 # Shield of Missile Attraction
-*Armor ([[Compendium/items/Shield]]), cursed item, rare (requires attunement)*  
+*Armor ([[Shield (item)]]), cursed item, rare (requires attunement)*  
 ![](Compendium/items/img/shield-of-missile-attraction.webp#right)
 
 - **Armor Class**: 2

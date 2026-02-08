@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/item/shield/
 ---
 # Spellguard Shield
-*Armor ([[Compendium/items/Shield]]), very rare (requires attunement)*  
+*Armor ([[Shield (item)]]), very rare (requires attunement)*  
 ![](Compendium/items/img/spellguard-shield.webp#right)
 
 - **Armor Class**: 2

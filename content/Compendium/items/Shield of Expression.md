@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/shield/
 ---
 # Shield of Expression
-*Armor ([[Compendium/items/Shield]]), common*  
+*Armor ([[Shield (item)]]), common*  
 
 
 - **Armor Class**: 2

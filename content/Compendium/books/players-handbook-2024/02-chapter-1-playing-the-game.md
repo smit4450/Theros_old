@@ -1188,7 +1188,7 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 > [!note] (12)—Spells and Reactions
 > 
-> Mirabella casts the [[Compendium/items/Shield]] spell. It's a special property of this spell that it can be cast even when it's not the caster's turn, using her Reaction (see ""Actions"" earlier in this chapter).
+> Mirabella casts the [[Shield (item)]] spell. It's a special property of this spell that it can be cast even when it's not the caster's turn, using her Reaction (see ""Actions"" earlier in this chapter).
 ^12-spells-and-reactions
 
 > [!note] (13)—Special Abilities

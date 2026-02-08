@@ -108,7 +108,7 @@ cssclasses:
 -  [[Telekinetic]]
 -  [[Telepathic]]
 -  [[Thrown Weapon Fighting]]
--  [[Compendium/feats/Tough]]
+-  [[Tough (feat)]]
 -  [[Two-Weapon Fighting]]
 -  [[Stand Firm]]
 -  [[Unarmed Fighting]]

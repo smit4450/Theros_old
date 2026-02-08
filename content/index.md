@@ -83,3 +83,11 @@ Welcome to the Mythic Odysseys of Theros campaign hub, using the 2024 edition of
 - [[Saving Throw]] and [[Attack Roll]] for quick rulings.
 
 ## Table Resources
+
+[[Reliquary (item)|Reliquary (item)]]
+[[Sanctuary (bastion)|Sanctuary (bastion)]]
+[[Compendium/items/Camel|Camel]]
+[[Shield (item)|Shield (item)]]
+[[Stable (bastion)|Stable (bastion)]]
+[[Teleportation Circle (bastion)|Teleportation Circle (bastion)]]
+[[satyr]]

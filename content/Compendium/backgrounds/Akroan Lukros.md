@@ -10,7 +10,7 @@ tags:
 ![](Compendium/backgrounds/img/flaming-fist-mercenary.webp#right)
 
 - **Ability Scores.** Strength, Constitution, Charisma  
-- **Feat.**  [[Compendium/feats/Tough]]  
+- **Feat.**  [[Tough (feat)]]  
 - **Skill Proficiencies.** [Intimidation](Skills.md#Intimidation) and [Perception](Skills.md#Perception)  
 - **Tool Proficiencies.** [[Smith's Tools]]  
 - **Equipment.** Choose A or B: (A) [[Mace]], [[Smith's Tools]], [[Fine Clothes]], [[Manacles]], [[Portable Ram]], 4 GP; or (B) 50 GP  

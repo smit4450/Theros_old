@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/shield/
 ---
 # Shield
-*Armor ([[Compendium/items/Shield]])*  
+*Armor ([[Shield (item)]])*  
 ![](Compendium/items/img/shield.webp#right)
 
 - **Armor Class**: 2

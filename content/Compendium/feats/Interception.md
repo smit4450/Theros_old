@@ -11,4 +11,4 @@ tags:
 
 **Prerequisite**: Fighting Style Feature
 
-When a creature you can see hits another creature within 5 feet of you with an attack roll, you can take a [[Reaction]] to reduce the damage dealt to the target by `1d10` plus your [[Proficiency]]. You must be holding a [[Compendium/items/Shield]] or a Simple or Martial weapon to use this [[Reaction]].
+When a creature you can see hits another creature within 5 feet of you with an attack roll, you can take a [[Reaction]] to reduce the damage dealt to the target by `1d10` plus your [[Proficiency]]. You must be holding a [[Shield (item)]] or a Simple or Martial weapon to use this [[Reaction]].

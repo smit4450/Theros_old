@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/item/shield/
 ---
 # Animated Shield
-*Armor ([[Compendium/items/Shield]]), very rare (requires attunement)*  
+*Armor ([[Compendium/items/Shield]]), [[Shield (item)]]ent)*  
 ![](Compendium/items/img/animated-shield.webp#right)
 
 - **Armor Class**: 2

@@ -51,13 +51,13 @@ tags:
 - **Saving Throw Proficiencies**: Charisma, Wisdom
 - **Skill Proficiencies**: *Choose 2:* [History](Skills.md#History), [Insight](Skills.md#Insight), [Medicine](Skills.md#Medicine), [Persuasion](Skills.md#Persuasion), or [Religion](Skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Compendium/items/Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Shield (item)]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[Chain Shirt]], [[Compendium/items/Shield]], [[Mace]], [[Holy Symbol]], [[Priest's Pack]], 7 GP; or (B) 110 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Chain Shirt]], [[Shield (item)]], [[Mace]], [[Holy Symbol]], [[Priest's Pack]], 7 GP; or (B) 110 GP
 
 ## Multiclassing Cleric
 
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Compendium/items/Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Shield (item)]]
 
 ## Cleric
 

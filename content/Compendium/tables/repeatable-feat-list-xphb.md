@@ -82,7 +82,7 @@ tags:
 |  [[Telekinetic]] | "General" |
 |  [[Telepathic]] | "General" |
 |  [[Thrown Weapon Fighting]] | "Fighting Style" |
-|  [[Compendium/feats/Tough]] | "Origin" |
+|  [[Tough (feat)]] | "Origin" |
 |  [[Two-Weapon Fighting]] | "Fighting Style" |
 |  [[Unarmed Fighting]] | "Fighting Style" |
 |  [[War Caster]] | "General" |

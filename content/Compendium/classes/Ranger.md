@@ -51,7 +51,7 @@ tags:
 - **Saving Throw Proficiencies**: Dexterity, Strength
 - **Skill Proficiencies**: *Choose 3:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Skills.md#Athletics), [Insight](Skills.md#Insight), [Investigation](Skills.md#Investigation), [Nature](Skills.md#Nature), [Perception](Skills.md#Perception), [Stealth](Skills.md#Stealth), or [Survival](Skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Compendium/items/Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), and [[Shield (item)]]
 
 **Starting Equipment:** *Choose A or B:* (A) [[Studded Leather Armor]], [[Scimitar]], [[Shortsword]], [[Longbow]], [[Arrows (20)]], [[Quiver]], [[Druidic Focus]] ([[Sprig of Mistletoe]]), [[Explorer's Pack]], and 7 GP; or (B) 150 GP
 
@@ -59,7 +59,7 @@ tags:
 
 - **Skill Proficiencies**: *Choose 1:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Athletics](Skills.md#Athletics), [Insight](Skills.md#Insight), [Investigation](Skills.md#Investigation), [Nature](Skills.md#Nature), [Perception](Skills.md#Perception), [Stealth](Skills.md#Stealth), or [Survival](Skills.md#Survival)
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Compendium/items/Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Shield (item)]]
 
 ## Ranger
 

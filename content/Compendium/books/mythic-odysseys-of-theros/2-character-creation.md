@@ -84,7 +84,7 @@ These supernatural gifts are intended for starting characters, but some might be
 > - The sun's light brings what is hidden to clear view in my eyes. ( [[Observant]])  
 > - I ate a magical fruit that blessed me with extraordinary resilience. ( [[Resilient]])  
 > - I studied with a supernatural tutor. ( [[Skilled]])  
-> - I was bathed in the waters of a mystic river that left my skin resistant to harm—and glittering with starlight. ( [[Compendium/feats/Tough]])  
+> - I was bathed in the waters of a mystic river that left my skin resistant to harm—and glittering with starlight. ( [[Tough (feat)]])  
 ^heroic-feats
 
 > [!note] Myths of Theros
@@ -152,7 +152,7 @@ Your character doesn't need to be a follower of any of the gods, but if you're n
 
 In addition to the gods, the supernatural gifts presented earlier in this chapter might influence your background. Consider what story emerges from your combination of supernatural gift, background, and other choices.
 
-Beyond these options, the [[Compendium/backgrounds/Athlete]] background presented here provides a new way to seek glory through discipline and physical prowess.
+Beyond these options, the [[Athlete (background)]] background presented here provides a new way to seek glory through discipline and physical prowess.
 
 > [!readaloud] 
 > 

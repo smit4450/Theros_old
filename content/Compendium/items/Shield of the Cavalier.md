@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/item/shield/
 ---
 # Shield of the Cavalier
-*Armor ([[Compendium/items/Shield]]), very rare (requires attunement)*  
+*Armor ([[Shield (item)]]), very rare (requires attunement)*  
 ![](Compendium/items/img/shield-of-the-cavalier.webp#right)
 
 - **Armor Class**: 2

@@ -52,13 +52,13 @@ tags:
 - **Skill Proficiencies**: *Choose 2:* [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Arcana](Skills.md#Arcana), [Insight](Skills.md#Insight), [Medicine](Skills.md#Medicine), [Nature](Skills.md#Nature), [Perception](Skills.md#Perception), [Religion](Skills.md#Religion), or [Survival](Skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons
 - **Tool Proficiencies**: [[Herbalism Kit]]
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor) and [[Compendium/items/Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor) and [[Shield (item)]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[Leather Armor]], [[Compendium/items/Shield]], [[Sickle]], [[Druidic Focus]], [[Explorer's Pack]], [[Herbalism Kit]], 9 GP; or (B) 50 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Leather Armor]], [[Shield (item)]], [[Sickle]], [[Druidic Focus]], [[Explorer's Pack]], [[Herbalism Kit]], 9 GP; or (B) 50 GP
 
 ## Multiclassing Druid
 
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [[Compendium/items/Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [[Shield (item)]]
 
 ## Druid
 

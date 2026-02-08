@@ -11,6 +11,6 @@ tags:
 
 **Prerequisite**: Fighting Style Feature
 
-When you hit with your [[Unarmed Strike]] and deal damage, you can deal Bludgeoning damage equal to `1d6` plus your Strength modifier instead of the normal damage of an [[Unarmed Strike]]. If you aren't holding any weapons or a [[Compendium/items/Shield]] when you make the attack roll, the `d6` becomes a `d8`.
+When you hit with your [[Unarmed Strike]] and deal damage, you can deal Bludgeoning damage equal to `1d6` plus your Strength modifier instead of the normal damage of an [[Unarmed Strike]]. If you aren't holding any weapons or a [[Shield (item)]] when you make the attack roll, the `d6` becomes a `d8`.
 
 At the start of each of your turns, you can deal `1d4` Bludgeoning damage to one creature [Grappled](Conditions.md#Grappled) by you.

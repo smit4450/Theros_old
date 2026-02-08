@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/item/shield/
 ---
 # Arrow-Catching Shield
-*Armor ([[Compendium/items/Shield]]), rare (requires attunement)*  
+*Armor ([[Shield (item)]]), rare (requires attunement)*  
 
 
 - **Armor Class**: 2

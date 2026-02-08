@@ -20,7 +20,7 @@ The cube starts with 10 charges, and it regains `1d6` expended charges daily at 
 | Spell | Charge Cost |
 |-------|-------------|
 | [[Mage Armor]] | 1 |
-| [[Compendium/items/Shield]] | 1 |
+| [[Shield (item)]] | 1 |
 | [[Leomund's Tiny Hut]] | 3 |
 | [[Mordenkainen's Private Sanctum]] | 4 |
 | [[Otiluke's Resilient Sphere]] | 4 |

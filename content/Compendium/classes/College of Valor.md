@@ -64,7 +64,7 @@ Immediately after the creature hits a target with an attack roll, the creature c
 
 ### Martial Training (Level 3)
 
-You gain proficiency with Martial weapons and training with Medium armor and [[Compendium/items/Shield]].
+You gain proficiency with Martial weapons and training with Medium armor and [[Shield (item)]].
 
 In addition, you can use a Simple or Martial weapon as a [[Spellcasting Focus]] to cast spells from your Bard spell list.
 

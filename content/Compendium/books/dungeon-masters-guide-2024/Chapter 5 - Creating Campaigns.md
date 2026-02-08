@@ -869,7 +869,7 @@ The inn's proprietor is Miklos Dare, a human [[Warrior Veteran]] (Chaotic Good) 
 
 ###### Character Backgrounds
 
-An adventurer with the [[Compendium/backgrounds/Soldier]] background might have a tie to Miklos, perhaps having fought alongside him at the Battle of Emridy Meadows. A character with the [[Wayfarer]] background might know Miklos as a generous man who gives away food and sometimes even lodging to people in need.
+An adventurer with the [[Soldier (background)]] background might have a tie to Miklos, perhaps having fought alongside him at the Battle of Emridy Meadows. A character with the [[Wayfarer]] background might know Miklos as a generous man who gives away food and sometimes even lodging to people in need.
 
 ###### Reasons to Visit
 
@@ -894,7 +894,7 @@ The city's constable—who serves as second-in-command to the captain-general, m
 
 ###### Character Backgrounds
 
-Adventurers with the [[Criminal]] or [[Compendium/backgrounds/Guard]] background might have a connection to the Grand Citadel involving a past run-in with the law or past service on the watch.
+Adventurers with the [[Criminal]] or [[Guard (background)]] background might have a connection to the Grand Citadel involving a past run-in with the law or past service on the watch.
 
 ###### Reasons to Visit
 
@@ -944,7 +944,7 @@ The High Tower, located in the Garden Quarter, is a favorite haunt for some of t
 
 ###### Character Backgrounds
 
-Adventurers with the [[Merchant]] or [[Compendium/backgrounds/Noble]] background might have a connection to the High Tower Inn, which caters to people of means.
+Adventurers with the [[Merchant]] or [[Noble (background)]] background might have a connection to the High Tower Inn, which caters to people of means.
 
 ###### Reasons to Visit
 

@@ -513,7 +513,7 @@ The spells are presented in alphabetical order.
 - [[Sequester]]  
 - [[Shapechange]]  
 - [[Shatter]]  
-- [[Compendium/items/Shield]]  
+- [[Shield (item)]]  
 - [[Shield of Faith]]  
 - [[Shillelagh]]  
 - [[Shining Smite]]  

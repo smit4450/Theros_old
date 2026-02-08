@@ -75,7 +75,7 @@ Your practice of martial arts gives you mastery of combat styles that use your [
 - Simple Melee Weapons  
 - Martial Melee Weapons that have the Light property  
 
-You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a [[Compendium/items/Shield]].
+You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a [[Shield (item)]].
 
 ### Bonus Unarmed Strike (Level 1)
 
@@ -91,7 +91,7 @@ You can use your Dexterity modifier instead of your Strength modifier for the at
 
 ### Unarmored Defense (Level 1)
 
-While you aren't wearing armor or wielding a [[Compendium/items/Shield]], your base [[Armor Class]] equals 10 plus your Dexterity and Wisdom modifiers.
+While you aren't wearing armor or wielding a [[Shield (item)]], your base [[Armor Class]] equals 10 plus your Dexterity and Wisdom modifiers.
 
 ### Monk's Focus (Level 2)
 
@@ -117,7 +117,7 @@ You can take the [Dash](Actions.md#Dash) action as a [[Bonus Action]]. Alternati
 
 ### Unarmored Movement (Level 2)
 
-Your speed increases by 10 feet while you aren't wearing armor or wielding a [[Compendium/items/Shield]]. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
+Your speed increases by 10 feet while you aren't wearing armor or wielding a [[Shield (item)]]. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
 
 ### Uncanny Metabolism (Level 2)
 
@@ -171,7 +171,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Acrobatic Movement (Level 9)
 
-While you aren't wearing armor or wielding a [[Compendium/items/Shield]], you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
+While you aren't wearing armor or wielding a [[Shield (item)]], you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
 
 ### Heightened Focus (Level 10)
 

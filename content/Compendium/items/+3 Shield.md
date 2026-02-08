@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/shield/
 ---
 # +3 Shield
-*Armor ([[Compendium/items/Shield]]), very rare*  
+*Armor ([[Shield (item)]]), very rare*  
 
 
 - **Armor Class**: 2

@@ -57,7 +57,7 @@ These feats are in the Origin category.
 -  [[Savage Attacker]]  
 -  [[Skilled]]  
 -  [[Tavern Brawler]]  
--  [[Compendium/feats/Tough]]  
+-  [[Tough (feat)]]  
 
 ## General Feats
 

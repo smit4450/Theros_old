@@ -10,7 +10,7 @@ tags:
 ![](Compendium/backgrounds/img/farmer.webp#right)
 
 - **Ability Scores.** Strength, Constitution, Wisdom  
-- **Feat.**  [[Compendium/feats/Tough]]  
+- **Feat.**  [[Tough (feat)]]  
 - **Skill Proficiencies.** [Animal Handling](Compendium/rules/skills.md#Animal Handling), [Nature](Skills.md#Nature)  
 - **Tool Proficiency.** [[Carpenter's Tools]]  
 - **Equipment.** Choose A or B: (A) [[Sickle]], [[Carpenter's Tools]], [[Healer's Kit]], [[Iron Pot]], [[Shovel]], 30 GP; or (B) 50 GP  

@@ -86,15 +86,15 @@ Sixteen backgrounds are presented in this section in alphabetical order:
 - [[Criminal]]  
 - [[Entertainer]]  
 - [[Farmer]]  
-- [[Compendium/backgrounds/Guard]]  
+- [[Guard (background)]]  
 - [[Guide]]  
 - [[Hermit]]  
 - [[Merchant]]  
-- [[Compendium/backgrounds/Noble]]  
+- [[Noble (background)]]  
 - [[Sage]]  
 - [[Sailor]]  
 - [[Scribe]]  
-- [[Compendium/backgrounds/Soldier]]  
+- [[Soldier (background)]]  
 - [[Wayfarer]]  
 
 ## Species Descriptions

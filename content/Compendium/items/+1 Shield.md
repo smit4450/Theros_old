@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/shield/
 ---
 # +1 Shield
-*Armor ([[Compendium/items/Shield]]), uncommon*  
+*Armor ([[Shield (item)]]), uncommon*  
 
 
 - **Armor Class**: 2

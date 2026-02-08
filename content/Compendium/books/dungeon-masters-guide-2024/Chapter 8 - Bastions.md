@@ -180,7 +180,7 @@ Special facilities are presented in alphabetical order. The Special Facilities t
 > ![[Barrack]]
 
 > [!embed-facility]- Demiplane
-> ![[Compendium/bastions/demiplane]]
+> ![[Demiplane (bastion)]]
 
 > [!embed-facility]- Gaming Hall
 > ![[Gaming Hall]]
@@ -219,7 +219,7 @@ Special facilities are presented in alphabetical order. The Special Facilities t
 > ![[Sacristy]]
 
 > [!embed-facility]- Sanctuary
-> ![[Compendium/bastions/sanctuary]]
+> ![[Sanctuary (bastion)]]
 
 > [!embed-facility]- Sanctum
 > ![[Sanctum]]
@@ -231,13 +231,13 @@ Special facilities are presented in alphabetical order. The Special Facilities t
 > ![[Smithy]]
 
 > [!embed-facility]- Stable
-> ![[Compendium/bastions/Stable]]
+> ![[Stable (bastion)]]
 
 > [!embed-facility]- Storehouse
 > ![[Storehouse]]
 
 > [!embed-facility]- Teleportation Circle
-> ![[Compendium/bastions/Teleportation Circle]]
+> ![[Teleportation Circle (bastion)]]
 
 > [!embed-facility]- Theater
 > ![[Theater]]

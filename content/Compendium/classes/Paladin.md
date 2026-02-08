@@ -51,14 +51,14 @@ tags:
 - **Saving Throw Proficiencies**: Charisma, Wisdom
 - **Skill Proficiencies**: *Choose 2:* [Athletics](Skills.md#Athletics), [Insight](Skills.md#Insight), [Intimidation](Skills.md#Intimidation), [Medicine](Skills.md#Medicine), [Persuasion](Skills.md#Persuasion), or [Religion](Skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy Armor), and [[Compendium/items/Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [Heavy armor](Compendium/rules/item-types.md#Heavy Armor), and [[Shield (item)]]
 
-**Starting Equipment:** *Choose A or B:* (A) [[Chain Mail]], [[Compendium/items/Shield]], [[Longsword]], 6 [[Javelin]], [[Holy Symbol]], [[Priest's Pack]], and 9 GP; or (B) 150 GP
+**Starting Equipment:** *Choose A or B:* (A) [[Chain Mail]], [[Shield (item)]], [[Longsword]], 6 [[Javelin]], [[Holy Symbol]], [[Priest's Pack]], and 9 GP; or (B) 150 GP
 
 ## Multiclassing Paladin
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Compendium/items/Shield]]
+- **Armor Training**: [Light armor](Compendium/rules/item-types.md#Light Armor), [Medium armor](Compendium/rules/item-types.md#Medium Armor), [[Shield (item)]]
 
 ## Paladin
 

@@ -30,7 +30,7 @@ Creatures in your Grove count as Bastion Defenders. Deduct any you lose from you
 | [[Blink Dog]]                     | Medium |
 | [[Centaur Trooper]]               | Large  |
 | [[Dryad]]                         | Medium |
-| [[Compendium/races/Satyr\|Satyr]] | Medium |
+| [[Satyr]] | Medium |
 | [[Treant]]                        | Large  |
 | [[Unicorn]]                       | Large  |
 ^grove-creatures
