@@ -25,7 +25,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Thunderwave"]
 ---
 # Thunderwave
 *1st-level, Evocation*  

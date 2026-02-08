@@ -24,7 +24,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Acid Splash"]
 ---
 # Acid Splash
 *cantrip, Evocation*  

@@ -24,7 +24,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Nondetection"]
 ---
 # Nondetection
 *3rd-level, Abjuration*  

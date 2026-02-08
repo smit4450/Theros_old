@@ -24,7 +24,6 @@ classes:
 - Sorcerer (Aberrant Sorcery)
 - Warlock
 - Wizard
-aliases: ["Mind Sliver"]
 ---
 # Mind Sliver
 *cantrip, Enchantment*  

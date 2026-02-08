@@ -12,7 +12,6 @@ classes:
 - Bard
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Prismatic Wall"]
 ---
 # Prismatic Wall
 *9th-level, Abjuration*  

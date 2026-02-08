@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/armor/light
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Leather Armor"
 ---
 # Leather Armor
 *Light armor*  

@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Bandit Crime Lord"]
 ---
 # Bandit Crime Lord
 *Source: Monster Manual (2024) p. 28*  

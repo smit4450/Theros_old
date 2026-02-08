@@ -9,20 +9,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Enspelled Armor (Level 5)"
-- "Enspelled (Level 5) Breastplate"
-- "Enspelled (Level 5) Chain Mail"
-- "Enspelled (Level 5) Chain Shirt"
-- "Enspelled (Level 5) Half Plate Armor"
-- "Enspelled (Level 5) Hide Armor"
-- "Enspelled (Level 5) Leather Armor"
-- "Enspelled (Level 5) Padded Armor"
-- "Enspelled (Level 5) Plate Armor"
-- "Enspelled (Level 5) Ring Mail"
-- "Enspelled (Level 5) Scale Mail"
-- "Enspelled (Level 5) Splint Armor"
-- "Enspelled (Level 5) Studded Leather Armor"
 ---
 # Enspelled Armor (Level 5)
 *Very rare (requires attunement)*  

@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid/cleric
 statblock: inline
-aliases: ["Archpriest"]
 ---
 # Archpriest
 *Source: Monster Manual (2024) p. 248*  

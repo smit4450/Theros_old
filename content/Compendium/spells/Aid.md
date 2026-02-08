@@ -26,7 +26,6 @@ classes:
 - Ranger
 - Sorcerer (Clockwork Sorcery)
 - Warlock (Celestial Patron)
-aliases: ["Aid"]
 ---
 # Aid
 *2nd-level, Abjuration*  

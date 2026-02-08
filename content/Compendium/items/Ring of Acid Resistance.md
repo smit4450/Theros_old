@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/ring
-aliases: 
-- "Ring of Acid Resistance"
 ---
 # Ring of Acid Resistance
 *Ring, rare*  

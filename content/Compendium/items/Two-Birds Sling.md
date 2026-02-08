@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Two-Birds Sling"
 ---
 # Two-Birds Sling
 *Weapon ([[Sling]]), rare*  

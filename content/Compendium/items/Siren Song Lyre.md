@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/gear/instrument
 - ttrpg-cli/item/rarity/rare
-aliases: 
-- "Siren Song Lyre"
 ---
 # Siren Song Lyre
 *Wondrous item, instrument, rare (requires attunement)*  

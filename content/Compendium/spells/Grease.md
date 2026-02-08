@@ -19,7 +19,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Grease"]
 ---
 # Grease
 *1st-level, Conjuration*  

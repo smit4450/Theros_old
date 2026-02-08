@@ -10,7 +10,6 @@ tags:
 classes:
 - Sorcerer (Aberrant Sorcery)
 - Warlock
-aliases: ["Arms of Hadar"]
 ---
 # Arms of Hadar
 *1st-level, Conjuration*  

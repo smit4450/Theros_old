@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/wand
-aliases: 
-- "Wand of Binding"
 ---
 # Wand of Binding
 *Wand, rare (requires attunement)*  

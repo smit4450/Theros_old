@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/deity/theros
 - ttrpg-cli/domain/forge
 - ttrpg-cli/domain/knowledge
-aliases: 
-- Purphoros
 ---
 # Purphoros
 *Source: Mythic Odysseys of Theros p. 76* 

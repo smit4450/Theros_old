@@ -4,8 +4,6 @@ cssclasses: json5e-item
 tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/item/rarity/rare
-aliases: 
-- "Flying Chariot"
 ---
 # Flying Chariot
 *Wondrous item, rare*  

@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/deity/theros
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/war
-aliases: 
-- Klothys
 ---
 # Klothys
 *Source: Mythic Odysseys of Theros p. 58* 

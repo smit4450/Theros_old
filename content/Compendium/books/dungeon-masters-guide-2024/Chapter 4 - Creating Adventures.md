@@ -168,7 +168,7 @@ Take the time to flesh out an NPC who serves as a patron. Once in a while, it ca
 
 The Patron Hooks table offers some suggestions for ways a patron can lead characters to an adventure situation. The ""Campaign Start"" section in "chapter 5" offers some more suggestions for patrons.
 
-![[adventure-patrons-patron-hooks-xdmg]]
+![[Adventure Patrons; Patron Hooks]]
 
 ![When rival factions inhabi...](Compendium/books/dungeon-masters-guide-2024/img/052-03-004-rival-factions.webp#center "When rival factions inhabit a ruined dungeon, sometimes the best course is to stay out of the way!")
 

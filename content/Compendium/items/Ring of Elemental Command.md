@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/ring
-aliases: 
-- "Ring of Elemental Command"
 ---
 # Ring of Elemental Command
 *Ring, legendary (requires attunement)*  

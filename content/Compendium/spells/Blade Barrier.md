@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Cleric
-aliases: ["Blade Barrier"]
 ---
 # Blade Barrier
 *6th-level, Evocation*  

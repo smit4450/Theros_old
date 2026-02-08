@@ -9,20 +9,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Enspelled Armor (Level 7)"
-- "Enspelled (Level 7) Breastplate"
-- "Enspelled (Level 7) Chain Mail"
-- "Enspelled (Level 7) Chain Shirt"
-- "Enspelled (Level 7) Half Plate Armor"
-- "Enspelled (Level 7) Hide Armor"
-- "Enspelled (Level 7) Leather Armor"
-- "Enspelled (Level 7) Padded Armor"
-- "Enspelled (Level 7) Plate Armor"
-- "Enspelled (Level 7) Ring Mail"
-- "Enspelled (Level 7) Scale Mail"
-- "Enspelled (Level 7) Splint Armor"
-- "Enspelled (Level 7) Studded Leather Armor"
 ---
 # Enspelled Armor (Level 7)
 *Legendary (requires attunement)*  

@@ -4,8 +4,6 @@ cssclasses: json5e-item
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/varies
-aliases: 
-- "Figurine of Wondrous Power"
 ---
 # Figurine of Wondrous Power
 *Wondrous item*  

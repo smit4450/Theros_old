@@ -15,4 +15,4 @@ A new page appears in your Book of Shadows when you conjure it. With your permis
 
 When any creature whose name is on the page is reduced to 0 [[Hit Points]] but not killed outright, the creature magically drops to 1 [[Hit Points]] instead. Once this magic is triggered, no creature can benefit from it until you finish a [[Long Rest]].
 
-As a [Magic](Actions.md#Magic) action, you can erase a name on the page by touching it.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can erase a name on the page by touching it.

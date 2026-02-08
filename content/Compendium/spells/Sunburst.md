@@ -18,7 +18,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Sunburst"]
 ---
 # Sunburst
 *8th-level, Evocation*  

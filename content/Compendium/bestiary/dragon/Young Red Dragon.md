@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/dragon/chromatic
 statblock: inline
-aliases: ["Young Red Dragon"]
 ---
 # Young Red Dragon
 *Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

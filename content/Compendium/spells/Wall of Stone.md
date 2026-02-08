@@ -18,7 +18,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Wall of Stone"]
 ---
 # Wall of Stone
 *5th-level, Evocation*  

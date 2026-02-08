@@ -138,7 +138,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [Attack](Actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
 
 ### Fast Movement (Level 5)
 

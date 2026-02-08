@@ -15,7 +15,6 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
-aliases: ["Goodberry"]
 ---
 # Goodberry
 *1st-level, Conjuration*  

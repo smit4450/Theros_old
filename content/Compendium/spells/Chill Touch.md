@@ -24,7 +24,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Chill Touch"]
 ---
 # Chill Touch
 *cantrip, Necromancy*  

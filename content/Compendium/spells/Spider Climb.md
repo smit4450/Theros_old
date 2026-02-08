@@ -20,7 +20,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Spider Climb"]
 ---
 # Spider Climb
 *2nd-level, Transmutation*  

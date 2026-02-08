@@ -14,7 +14,6 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Cleric (Life Domain)
-aliases: ["Mass Healing Word"]
 ---
 # Mass Healing Word
 *3rd-level, Abjuration*  

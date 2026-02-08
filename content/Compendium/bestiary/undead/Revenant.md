@@ -10,7 +10,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Revenant"]
 ---
 # Revenant
 *Source: Monster Manual (2024) p. 259*  

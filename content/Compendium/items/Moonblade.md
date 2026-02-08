@@ -8,13 +8,6 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Moonblade"
-- "Moonblade Greatsword"
-- "Moonblade Longsword"
-- "Moonblade Rapier"
-- "Moonblade Scimitar"
-- "Moonblade Shortsword"
 ---
 # Moonblade
 *Legendary (requires attunement by a creature of the weapon's choice)*  
@@ -29,7 +22,7 @@ A Moonblade has one rune on it for each bearer it has willingly served (typicall
 
 ## Minor Property
 
-In addition to its aforementioned properties, each Moonblade has a minor property determined by rolling on the [Magic](Actions.md#Magic) Item's Minor Property table.
+In addition to its aforementioned properties, each Moonblade has a minor property determined by rolling on the [Magic](Compendium/rules/actions.md#Magic) Item's Minor Property table.
 
 ## Sentience
 
@@ -51,7 +44,7 @@ A Moonblade has a personality similar to that of its creator. Once a Moonblade h
 | 81-85 | The *Moonblade* scores a [[Critical Hit]] on a roll of 19 or 20 on the `d20`. |
 | 86-95 | You can take a [[Bonus Action]] to cause the *Moonblade* to flash brightly. Each other creature that is within 30 feet of you and not behind [[cover-xphb]] must succeed on a DC 15 Constitution saving throw or have the [Blinded](Conditions.md#Blinded) condition for 1 minute. A creature repeats the save at the end of each of its turns, ending the effect on itself on a success. You can't use this property again until you finish a [[Short Rest]] or [[Long Rest]]. |
 | 96-99 | The Moonblade has the properties of a [[Ring of Spell Storing]]. |
-| 100 | You can take a [Magic](Actions.md#Magic) action to conjure a spectral entity that resembles a shadowy elf if you don't already have one serving you. The entity appears in an unoccupied space within 120 feet of you. It uses the [[Shadow]] stat block with these changes: it is a Fey, has a Neutral alignment, and doesn't create new shadows. You control this entity, deciding how it acts and moves. It remains until it drops to 0 [[Hit Points]] or you dismiss it as a [Magic](Actions.md#Magic) action. |
+| 100 | You can take a [Magic](Compendium/rules/actions.md#Magic) action to conjure a spectral entity that resembles a shadowy elf if you don't already have one serving you. The entity appears in an unoccupied space within 120 feet of you. It uses the [[Shadow]] stat block with these changes: it is a Fey, has a Neutral alignment, and doesn't create new shadows. You control this entity, deciding how it acts and moves. It remains until it drops to 0 [[Hit Points]] or you dismiss it as a [Magic](Compendium/rules/actions.md#Magic) action. |
 ^moonblade-properties
 
 **Variants**:

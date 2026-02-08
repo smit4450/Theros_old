@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/monster/size/gargantuan
 - ttrpg-cli/monster/type/dragon
 statblock: inline
-aliases: ["Dragon Turtle"]
 ---
 # Dragon Turtle
 *Source: Monster Manual (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

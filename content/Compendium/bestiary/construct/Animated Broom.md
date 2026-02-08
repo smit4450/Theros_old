@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Animated Broom"]
 ---
 # Animated Broom
 *Source: Monster Manual (2024) p. 16*  

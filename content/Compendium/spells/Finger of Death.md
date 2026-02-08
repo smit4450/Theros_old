@@ -14,7 +14,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Finger of Death"]
 ---
 # Finger of Death
 *7th-level, Necromancy*  

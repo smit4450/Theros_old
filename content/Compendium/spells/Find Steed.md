@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/spell/school/conjuration
 classes:
 - Paladin
-aliases: ["Find Steed"]
 ---
 # Find Steed
 *2nd-level, Conjuration*  

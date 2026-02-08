@@ -26,7 +26,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Locate Object"]
 ---
 # Locate Object
 *2nd-level, Divination*  

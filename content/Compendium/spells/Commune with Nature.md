@@ -17,7 +17,6 @@ classes:
 - Druid
 - Paladin (Oath of the Ancients)
 - Ranger
-aliases: ["Commune with Nature"]
 ---
 # Commune with Nature
 *5th-level, Divination (ritual)*  

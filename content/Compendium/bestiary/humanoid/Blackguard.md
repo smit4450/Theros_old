@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Blackguard"]
 ---
 # Blackguard
 *Source: Volo's Guide to Monsters p. 211, Mythic Odysseys of Theros*  

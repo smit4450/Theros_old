@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Mordenkainen's Magnificent Mansion"]
 ---
 # Mordenkainen's Magnificent Mansion
 *7th-level, Conjuration*  

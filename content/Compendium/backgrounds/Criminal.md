@@ -4,7 +4,6 @@ cssclasses: json5e-background
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Criminal"]
 ---
 # Criminal
 *Source: Player's Handbook (2024) p. 180. Available in the Free Rules (2024)*  

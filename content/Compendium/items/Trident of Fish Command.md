@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
-- "Trident of Fish Command"
 ---
 # Trident of Fish Command
 *Weapon ([[Trident]]), uncommon (requires attunement)*  

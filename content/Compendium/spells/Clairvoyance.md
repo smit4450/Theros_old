@@ -25,7 +25,6 @@ classes:
 - Warlock (Great Old One Patron)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Clairvoyance"]
 ---
 # Clairvoyance
 *3rd-level, Divination*  

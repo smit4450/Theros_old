@@ -14,7 +14,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Imprisonment"]
 ---
 # Imprisonment
 *9th-level, Abjuration*  

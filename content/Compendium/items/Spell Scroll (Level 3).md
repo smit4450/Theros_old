@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/scroll
-aliases: 
-- "Spell Scroll (Level 3)"
 ---
 # Spell Scroll (Level 3)
 *Scroll, uncommon*  

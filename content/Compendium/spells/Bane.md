@@ -18,7 +18,6 @@ classes:
 - Cleric
 - Paladin (Oath of Vengeance)
 - Warlock
-aliases: ["Bane"]
 ---
 # Bane
 *1st-level, Enchantment*  

@@ -18,7 +18,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Death Armor"]
 ---
 # Death Armor
 *2nd-level, Necromancy*  

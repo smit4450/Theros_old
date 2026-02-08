@@ -13,7 +13,6 @@ classes:
 - Bard
 - Bard (College of Lore)
 - Cleric
-aliases: ["Sanctuary"]
 ---
 # Sanctuary
 *1st-level, Abjuration*  

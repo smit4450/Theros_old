@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/plant
 statblock: inline
-aliases: ["Awakened Tree"]
 ---
 # Awakened Tree
 *Source: Monster Manual (2024) p. 23, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

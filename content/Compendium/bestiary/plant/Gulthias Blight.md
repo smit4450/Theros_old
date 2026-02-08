@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/gargantuan
 - ttrpg-cli/monster/type/plant
 statblock: inline
-aliases: ["Gulthias Blight"]
 ---
 # Gulthias Blight
 *Source: Monster Manual (2024) p. 45*  

@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/plant
 statblock: inline
-aliases: ["Treant"]
 ---
 # Treant
 *Source: Monster Manual (2024) p. 308, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

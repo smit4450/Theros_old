@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Cleric
-aliases: ["Harm"]
 ---
 # Harm
 *6th-level, Necromancy*  

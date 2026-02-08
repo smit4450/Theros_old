@@ -98,7 +98,7 @@ Whenever you finish a [[Long Rest]], you can change the kinds of weapons you cho
 
 ### Cunning Action (Level 2)
 
-Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a [[Bonus Action]]: [Dash](Actions.md#Dash), [Disengage](Actions.md#Disengage), or [Hide](Actions.md#Hide).
+Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a [[Bonus Action]]: [Dash](Compendium/rules/actions.md#Dash), [Disengage](Compendium/rules/actions.md#Disengage), or [Hide](Compendium/rules/actions.md#Hide).
 
 ### Rogue Subclass (Level 3)
 

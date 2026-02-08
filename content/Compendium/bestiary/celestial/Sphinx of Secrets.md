@@ -10,7 +10,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/celestial
 statblock: inline
-aliases: ["Sphinx of Secrets"]
 ---
 # Sphinx of Secrets
 *Source: Monster Manual (2024) p. 292*  

@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/dragon/chromatic
 statblock: inline
-aliases: ["Red Dragon Wyrmling"]
 ---
 # Red Dragon Wyrmling
 *Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

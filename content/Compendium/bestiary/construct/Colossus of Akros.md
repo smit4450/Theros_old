@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/gargantuan
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Colossus of Akros"]
 ---
 # Colossus of Akros
 *Source: Mythic Odysseys of Theros p. 218*  

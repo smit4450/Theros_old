@@ -17,7 +17,6 @@ classes:
 - Cleric (Trickery Domain)
 - Druid
 - Ranger
-aliases: ["Pass without Trace"]
 ---
 # Pass without Trace
 *2nd-level, Abjuration*  

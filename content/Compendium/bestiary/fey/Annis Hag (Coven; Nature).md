@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Annis Hag (Coven; Nature)"]
 ---
 # Annis Hag (Coven; Nature)
 *Source: Volo's Guide to Monsters p. 159, Mythic Odysseys of Theros*  

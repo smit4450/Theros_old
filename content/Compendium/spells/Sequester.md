@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Sequester"]
 ---
 # Sequester
 *7th-level, Transmutation*  

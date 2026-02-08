@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Otherworldly Steed (Fey)"]
 ---
 # Otherworldly Steed (Fey)
 *Source: Player's Handbook (2024) p. 273*  

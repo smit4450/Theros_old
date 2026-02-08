@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
-- "Sun Blade"
 ---
 # Sun Blade
 *Weapon ([longsword](Longsword.md)*  
@@ -30,6 +28,6 @@ You gain a +2 bonus to attack rolls and damage rolls made with this weapon, whic
 
 ## Sunlight
 
-The sword's luminous blade emits [[Bright Light]] in a 15-foot radius and [[Dim Light]] for an additional 15 feet. The light is sunlight. While the blade persists, you can take a [Magic](Actions.md#Magic) action to expand or reduce its radius of [[Bright Light]] and [[Dim Light]] by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.
+The sword's luminous blade emits [[Bright Light]] in a 15-foot radius and [[Dim Light]] for an additional 15 feet. The light is sunlight. While the blade persists, you can take a [Magic](Compendium/rules/actions.md#Magic) action to expand or reduce its radius of [[Bright Light]] and [[Dim Light]] by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.
 
 *Source: Dungeon Master's Guide (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

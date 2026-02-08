@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/varies
 - ttrpg-cli/item/wondrous/rod
-aliases: 
-- "Rod of the Pact Keeper"
 ---
 # Rod of the Pact Keeper
 *Rod (requires attunement by a warlock)*  

@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Awaken"]
 ---
 # Awaken
 *5th-level, Transmutation*  

@@ -28,7 +28,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Ice Storm"]
 ---
 # Ice Storm
 *4th-level, Evocation*  

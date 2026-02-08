@@ -15,7 +15,6 @@ classes:
 - Bard (College of Lore)
 - Bard (College of the Moon)
 - Druid
-aliases: ["Thorn Whip"]
 ---
 # Thorn Whip
 *cantrip, Transmutation*  

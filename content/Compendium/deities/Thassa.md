@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/deity/theros
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/tempest
-aliases: 
-- Thassa
 ---
 # Thassa
 *Source: Mythic Odysseys of Theros p. 79* 

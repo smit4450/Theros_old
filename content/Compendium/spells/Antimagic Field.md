@@ -14,7 +14,6 @@ classes:
 - Cleric
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Antimagic Field"]
 ---
 # Antimagic Field
 *8th-level, Abjuration*  
@@ -25,7 +24,7 @@ aliases: ["Antimagic Field"]
 - **Components:** V, S, M (iron filings)
 - **Duration:** Concentration, up to 1 hour
 
-An aura of antimagic surrounds you in 10-foot [[Emanation (Area of Effect)]]. No one can cast spells, take [Magic](Actions.md#Magic) actions, or create other magical effects inside the aura, and those things can't target or otherwise affect anything inside it. Magical properties of magic items don't work inside the aura or on anything inside it.
+An aura of antimagic surrounds you in 10-foot [[Emanation (Area of Effect)]]. No one can cast spells, take [Magic](Compendium/rules/actions.md#Magic) actions, or create other magical effects inside the aura, and those things can't target or otherwise affect anything inside it. Magical properties of magic items don't work inside the aura or on anything inside it.
 
 Areas of effect created by spells or other magic can't extend into the aura, and no one can teleport into or out of it or use planar travel there. Portals close temporarily while in the aura.
 

@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
-aliases: 
-- "Robe of Eyes"
 ---
 # Robe of Eyes
 *Wondrous item, rare (requires attunement)*  

@@ -9,20 +9,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Armor of Radiant Resistance"
-- "Breastplate of Radiant Resistance"
-- "Chain Mail of Radiant Resistance"
-- "Chain Shirt of Radiant Resistance"
-- "Half Plate Armor of Radiant Resistance"
-- "Hide Armor of Radiant Resistance"
-- "Leather Armor of Radiant Resistance"
-- "Padded Armor of Radiant Resistance"
-- "Plate Armor of Radiant Resistance"
-- "Ring Mail of Radiant Resistance"
-- "Scale Mail of Radiant Resistance"
-- "Splint Armor of Radiant Resistance"
-- "Studded Leather Armor of Radiant Resistance"
 ---
 # Armor of Radiant Resistance
 *Rare (requires attunement)*  

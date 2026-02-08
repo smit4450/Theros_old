@@ -29,7 +29,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Elementalism"]
 ---
 # Elementalism
 *cantrip, Transmutation*  

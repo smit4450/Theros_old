@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Garb of Light and Shadow"
 ---
 # Garb of Light and Shadow
 *Adventuring gear*  

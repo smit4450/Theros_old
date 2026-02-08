@@ -18,7 +18,6 @@ classes:
 - Druid (Circle of the Land, Tropical Land)
 - Sorcerer
 - Warlock (Fiend Patron)
-aliases: ["Insect Plague"]
 ---
 # Insect Plague
 *5th-level, Conjuration*  

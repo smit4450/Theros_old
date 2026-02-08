@@ -204,13 +204,13 @@ _Source: Player's Handbook (2024) p. 213. Available in the <span title='Systems 
 
 - **Duration**: 1 bonus
 
-When you take the [Attack](Actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a [[Bonus Action]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[Shortsword]] in one hand and a [[dagger-xphb]] in the other using the [Attack](Actions.md#Attack) action and a [[Bonus Action]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[Bonus Action]] unless that modifier is negative.
+When you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a [[Bonus Action]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[Shortsword]] in one hand and a [[dagger-xphb]] in the other using the [Attack](Compendium/rules/actions.md#Attack) action and a [[Bonus Action]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[Bonus Action]] unless that modifier is negative.
 
-See also: [Attack](Actions.md#Attack)
+See also: [Attack](Compendium/rules/actions.md#Attack)
 
 ## Utilize
 _Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
-You normally interact with an object while doing something else, such as when you draw a sword as part of the [Attack](Actions.md#Attack) action. When an object requires an action for its use, you take the Utilize action.[Dagger](Dagger.md)
+You normally interact with an object while doing something else, such as when you draw a sword as part of the [Attack](Compendium/rules/actions.md#Attack) action. When an object requires an action for its use, you take the Utilize action.[Dagger](Dagger.md)

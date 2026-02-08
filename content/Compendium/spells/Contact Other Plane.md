@@ -17,7 +17,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
-aliases: ["Contact Other Plane"]
 ---
 # Contact Other Plane
 *5th-level, Divination (ritual)*  

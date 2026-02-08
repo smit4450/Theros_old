@@ -24,7 +24,6 @@ classes:
 - Paladin (Oath of Glory)
 - Ranger
 - Sorcerer (Clockwork Sorcery)
-aliases: ["Freedom of Movement"]
 ---
 # Freedom of Movement
 *4th-level, Abjuration*  

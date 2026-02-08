@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Potion of Force Resistance"
 ---
 # Potion of Force Resistance
 *Potion, uncommon*  

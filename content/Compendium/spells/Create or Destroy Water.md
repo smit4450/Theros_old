@@ -15,7 +15,6 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Druid
-aliases: ["Create or Destroy Water"]
 ---
 # Create or Destroy Water
 *1st-level, Transmutation*  

@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Light Hammer"
 ---
 # Light Hammer
 *Weapon*  

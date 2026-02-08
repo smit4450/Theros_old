@@ -16,7 +16,6 @@ classes:
 - Cleric (Light Domain)
 - Paladin (Oath of Devotion)
 - Sorcerer (Spellfire Sorcery)
-aliases: ["Flame Strike"]
 ---
 # Flame Strike
 *5th-level, Evocation*  

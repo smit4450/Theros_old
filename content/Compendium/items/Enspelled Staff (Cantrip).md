@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Enspelled Staff (Cantrip)"
 ---
 # Enspelled Staff (Cantrip)
 *Staff, weapon, uncommon (requires attunement by a Spellcaster)*  

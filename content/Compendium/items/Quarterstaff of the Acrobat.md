@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Quarterstaff of the Acrobat"
 ---
 # Quarterstaff of the Acrobat
 *Staff, weapon ([[Quarterstaff]]), very rare (requires attunement)*  

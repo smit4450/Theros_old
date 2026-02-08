@@ -24,7 +24,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Magic Circle"]
 ---
 # Magic Circle
 *3rd-level, Abjuration*  

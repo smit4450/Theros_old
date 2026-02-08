@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Nyx-Fleece Ram"]
 ---
 # Nyx-Fleece Ram
 *Source: Mythic Odysseys of Theros p. 233*  

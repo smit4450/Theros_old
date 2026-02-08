@@ -14,7 +14,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Delayed Blast Fireball"]
 ---
 # Delayed Blast Fireball
 *7th-level, Evocation*  

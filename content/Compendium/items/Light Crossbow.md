@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Light Crossbow"
 ---
 # Light Crossbow
 *Weapon*  

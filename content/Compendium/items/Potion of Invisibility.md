@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Potion of Invisibility"
 ---
 # Potion of Invisibility
 *Potion, rare*  

@@ -14,7 +14,6 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
-aliases: ["Mordenkainen's Faithful Hound"]
 ---
 # Mordenkainen's Faithful Hound
 *4th-level, Conjuration*  
@@ -31,7 +30,7 @@ No one but you can see the hound, and it is intangible and invulnerable. When a 
 
 At the start of each of your turns, the hound attempts to bite one enemy within 5 feet of it. That enemy must succeed on a Dexterity saving throw or take `4d8` Force damage.
 
-On your later turns, you can take a [Magic](Actions.md#Magic) action to move the hound up to 30 feet.
+On your later turns, you can take a [Magic](Compendium/rules/actions.md#Magic) action to move the hound up to 30 feet.
 
 **Classes**: [[Bard Spells]]; [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 

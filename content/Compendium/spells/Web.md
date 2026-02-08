@@ -20,7 +20,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Web"]
 ---
 # Web
 *2nd-level, Conjuration*  

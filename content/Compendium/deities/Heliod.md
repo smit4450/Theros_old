@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/deity/theros
 - ttrpg-cli/domain/light
-aliases: 
-- Heliod
 ---
 # Heliod
 *Source: Mythic Odysseys of Theros p. 46* 

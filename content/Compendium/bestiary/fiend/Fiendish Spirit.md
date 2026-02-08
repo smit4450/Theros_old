@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Fiendish Spirit"]
 ---
 # Fiendish Spirit
 *Source: Player's Handbook (2024) p. 327*  

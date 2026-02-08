@@ -22,7 +22,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Laeral's Silver Lance"]
 ---
 # Laeral's Silver Lance
 *3rd-level, Evocation*  

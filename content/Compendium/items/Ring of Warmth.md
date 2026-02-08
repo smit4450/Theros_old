@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/ring
-aliases: 
-- "Ring of Warmth"
 ---
 # Ring of Warmth
 *Ring, uncommon (requires attunement)*  

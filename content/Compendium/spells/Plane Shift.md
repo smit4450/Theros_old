@@ -18,7 +18,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Plane Shift"]
 ---
 # Plane Shift
 *7th-level, Conjuration*  

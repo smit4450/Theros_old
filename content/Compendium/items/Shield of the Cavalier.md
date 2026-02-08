@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/shield/
-aliases: 
-- "Shield of the Cavalier"
 ---
 # Shield of the Cavalier
 *Armor ([[Compendium/items/Shield]]), very rare (requires attunement)*  
@@ -22,7 +20,7 @@ The Shield has the following additional properties that you can use while holdin
 
 ## Forceful Bash
 
-When you take the [Attack](Actions.md#Attack), you can make one of the attack rolls using the Shield against a target within 5 feet of yourself. Apply your [[Proficiency]] and Strength modifier to the attack roll. On a hit, the Shield deals Force damage to the target equal to `2d6 + 2` plus your Strength modifier, and if the target is a creature, you can push it up to 10 feet directly away from yourself. If the creature is your size or smaller, you can also knock it down, giving it the [Prone](Conditions.md#Prone) condition.
+When you take the [Attack](Compendium/rules/actions.md#Attack), you can make one of the attack rolls using the Shield against a target within 5 feet of yourself. Apply your [[Proficiency]] and Strength modifier to the attack roll. On a hit, the Shield deals Force damage to the target equal to `2d6 + 2` plus your Strength modifier, and if the target is a creature, you can push it up to 10 feet directly away from yourself. If the creature is your size or smaller, you can also knock it down, giving it the [Prone](Conditions.md#Prone) condition.
 
 ## Protective Field
 

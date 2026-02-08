@@ -11,7 +11,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Centaur Warden"]
 ---
 # Centaur Warden
 *Source: Monster Manual (2024) p. 67, FRHoF*  

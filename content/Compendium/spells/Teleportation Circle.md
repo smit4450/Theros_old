@@ -14,7 +14,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Teleportation Circle"]
 ---
 # Teleportation Circle
 *5th-level, Conjuration*  

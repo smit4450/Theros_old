@@ -14,7 +14,6 @@ classes:
 - Sorcerer (Clockwork Sorcery)
 - Wizard
 - Wizard (Evoker)
-aliases: ["Wall of Force"]
 ---
 # Wall of Force
 *5th-level, Evocation*  

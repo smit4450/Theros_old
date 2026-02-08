@@ -15,7 +15,6 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
-aliases: ["Entangle"]
 ---
 # Entangle
 *1st-level, Conjuration*  

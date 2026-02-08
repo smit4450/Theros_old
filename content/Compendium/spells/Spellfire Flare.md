@@ -21,7 +21,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Spellfire Flare"]
 ---
 # Spellfire Flare
 *1st-level, Evocation*  

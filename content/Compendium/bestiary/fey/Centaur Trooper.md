@@ -11,7 +11,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Centaur Trooper"]
 ---
 # Centaur Trooper
 *Source: Monster Manual (2024) p. 67, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

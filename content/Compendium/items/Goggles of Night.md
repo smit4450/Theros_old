@@ -4,8 +4,6 @@ cssclasses: json5e-item
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Goggles of Night"
 ---
 # Goggles of Night
 *Wondrous item, uncommon*  

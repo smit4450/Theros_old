@@ -16,7 +16,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
-aliases: ["Foresight"]
 ---
 # Foresight
 *9th-level, Divination*  

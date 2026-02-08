@@ -14,7 +14,6 @@ classes:
 - Druid
 - Sorcerer
 - Wizard
-aliases: ["Incendiary Cloud"]
 ---
 # Incendiary Cloud
 *8th-level, Conjuration*  

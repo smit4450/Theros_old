@@ -26,7 +26,6 @@ classes:
 - Warlock (Fiend Patron)
 - Wizard
 - Wizard (Evoker)
-aliases: ["Scorching Ray"]
 ---
 # Scorching Ray
 *2nd-level, Evocation*  

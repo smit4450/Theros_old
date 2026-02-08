@@ -20,7 +20,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Enlarge/Reduce"]
 ---
 # Enlarge/Reduce
 *2nd-level, Transmutation*  

@@ -16,7 +16,6 @@ classes:
 - Druid
 - Paladin
 - Ranger
-aliases: ["Elemental Weapon"]
 ---
 # Elemental Weapon
 *3rd-level, Transmutation*  

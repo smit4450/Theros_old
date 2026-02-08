@@ -22,7 +22,6 @@ classes:
 - Paladin
 - Rogue (Arcane Trickster)
 - Wizard
-aliases: ["Gentle Repose"]
 ---
 # Gentle Repose
 *2nd-level, Necromancy (ritual)*  

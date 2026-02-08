@@ -16,7 +16,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Elminster's Effulgent Spheres"]
 ---
 # Elminster's Effulgent Spheres
 *6th-level, Evocation*  

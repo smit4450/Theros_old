@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/shield/
-aliases: 
-- "Arrow-Catching Shield"
 ---
 # Arrow-Catching Shield
 *Armor ([[Compendium/items/Shield]]), rare (requires attunement)*  

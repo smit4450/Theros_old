@@ -14,7 +14,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
-aliases: ["Jallarzi's Storm of Radiance"]
 ---
 # Jallarzi's Storm of Radiance
 *5th-level, Evocation*  

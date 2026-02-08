@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Burnished Hart"]
 ---
 # Burnished Hart
 *Source: Mythic Odysseys of Theros p. 211*  

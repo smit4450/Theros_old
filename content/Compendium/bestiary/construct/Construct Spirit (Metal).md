@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Construct Spirit (Metal)"]
 ---
 # Construct Spirit (Metal)
 *Source: Player's Handbook (2024) p. 324*  

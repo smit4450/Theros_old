@@ -22,7 +22,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Sleet Storm"]
 ---
 # Sleet Storm
 *3rd-level, Conjuration*  

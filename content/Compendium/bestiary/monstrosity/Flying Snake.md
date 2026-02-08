@@ -10,7 +10,6 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Flying Snake"]
 ---
 # Flying Snake
 *Source: Monster Manual (2024) p. 353, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

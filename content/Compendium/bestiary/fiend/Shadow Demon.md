@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend/demon
 statblock: inline
-aliases: ["Shadow Demon"]
 ---
 # Shadow Demon
 *Source: Monster Manual (2024) p. 273, FRHoF*  

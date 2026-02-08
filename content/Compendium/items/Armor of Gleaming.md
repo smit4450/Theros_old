@@ -8,20 +8,6 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Armor of Gleaming"
-- "Breastplate of Gleaming"
-- "Chain Mail of Gleaming"
-- "Chain Shirt of Gleaming"
-- "Half Plate Armor of Gleaming"
-- "Hide Armor of Gleaming"
-- "Leather Armor of Gleaming"
-- "Padded Armor of Gleaming"
-- "Plate Armor of Gleaming"
-- "Ring Mail of Gleaming"
-- "Scale Mail of Gleaming"
-- "Splint Armor of Gleaming"
-- "Studded Leather Armor of Gleaming"
 ---
 # Armor of Gleaming
 *Common*  

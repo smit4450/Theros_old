@@ -16,7 +16,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Etherealness"]
 ---
 # Etherealness
 *7th-level, Conjuration*  

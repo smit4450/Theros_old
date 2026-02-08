@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Giant Squid"]
 ---
 # Giant Squid
 *Source: Monster Manual (2024) p. 360*  

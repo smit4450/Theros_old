@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/giant
 statblock: inline
-aliases: ["Hundred-Handed One"]
 ---
 # Hundred-Handed One
 *Source: Mythic Odysseys of Theros p. 225*  

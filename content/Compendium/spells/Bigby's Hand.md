@@ -14,7 +14,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Bigby's Hand"]
 ---
 # Bigby's Hand
 *5th-level, Evocation*  

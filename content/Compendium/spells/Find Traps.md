@@ -16,7 +16,6 @@ classes:
 - Cleric
 - Druid
 - Ranger
-aliases: ["Find Traps"]
 ---
 # Find Traps
 *2nd-level, Divination*  

@@ -14,7 +14,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Chain Lightning"]
 ---
 # Chain Lightning
 *6th-level, Evocation*  

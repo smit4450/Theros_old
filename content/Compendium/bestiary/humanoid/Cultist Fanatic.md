@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Cultist Fanatic"]
 ---
 # Cultist Fanatic
 *Source: Monster Manual (2024) p. 85, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

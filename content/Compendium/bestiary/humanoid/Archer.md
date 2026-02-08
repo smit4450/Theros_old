@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Archer"]
 ---
 # Archer
 *Source: Volo's Guide to Monsters p. 210, Mythic Odysseys of Theros*  

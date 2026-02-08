@@ -69,7 +69,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ### Blessing of the Trickster (Level 3)
 
-As a [Magic](Actions.md#Magic) action, you can choose yourself or a willing creature within 30 feet of yourself to have [[Advantage]] on Dexterity ([Stealth](Skills.md#Stealth)) checks. This blessing lasts until you finish a [[Long Rest]] or you use this feature again.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can choose yourself or a willing creature within 30 feet of yourself to have [[Advantage]] on Dexterity ([Stealth](Skills.md#Stealth)) checks. This blessing lasts until you finish a [[Long Rest]] or you use this feature again.
 
 ### Invoke Duplicity (Level 3)
 

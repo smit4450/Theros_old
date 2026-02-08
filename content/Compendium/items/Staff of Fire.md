@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Staff of Fire"
 ---
 # Staff of Fire
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

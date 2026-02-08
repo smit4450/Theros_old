@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Leucrotta"]
 ---
 # Leucrotta
 *Source: Volo's Guide to Monsters p. 169, Mythic Odysseys of Theros*  

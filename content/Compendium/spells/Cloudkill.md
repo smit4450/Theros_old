@@ -12,7 +12,6 @@ classes:
 - Bard
 - Sorcerer
 - Wizard
-aliases: ["Cloudkill"]
 ---
 # Cloudkill
 *5th-level, Conjuration*  

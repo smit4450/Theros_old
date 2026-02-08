@@ -14,7 +14,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Dream"]
 ---
 # Dream
 *5th-level, Illusion*  

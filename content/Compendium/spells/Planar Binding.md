@@ -18,7 +18,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Planar Binding"]
 ---
 # Planar Binding
 *5th-level, Abjuration*  

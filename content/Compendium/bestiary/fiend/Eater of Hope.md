@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Eater of Hope"]
 ---
 # Eater of Hope
 *Source: Mythic Odysseys of Theros p. 220*  

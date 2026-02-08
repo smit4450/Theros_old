@@ -20,7 +20,6 @@ classes:
 - Cleric
 - Druid
 - Druid (Circle of the Stars)
-aliases: ["Guidance"]
 ---
 # Guidance
 *cantrip, Divination*  

@@ -12,7 +12,6 @@ classes:
 - Bard
 - Wizard
 - Wizard (Diviner)
-aliases: ["Telepathy"]
 ---
 # Telepathy
 *8th-level, Divination*  

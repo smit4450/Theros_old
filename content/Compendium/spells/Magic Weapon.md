@@ -26,7 +26,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Magic Weapon"]
 ---
 # Magic Weapon
 *2nd-level, Transmutation*  

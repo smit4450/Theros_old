@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Transport via Plants"]
 ---
 # Transport via Plants
 *6th-level, Conjuration*  

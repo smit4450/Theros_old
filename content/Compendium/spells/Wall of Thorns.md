@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Wall of Thorns"]
 ---
 # Wall of Thorns
 *6th-level, Conjuration*  

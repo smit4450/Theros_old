@@ -14,7 +14,6 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Cleric (War Domain)
-aliases: ["Spiritual Weapon"]
 ---
 # Spiritual Weapon
 *2nd-level, Evocation*  

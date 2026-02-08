@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Hydra"]
 ---
 # Hydra
 *Source: Monster Manual (2024) p. 175. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

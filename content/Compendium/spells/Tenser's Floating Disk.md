@@ -20,7 +20,6 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
-aliases: ["Tenser's Floating Disk"]
 ---
 # Tenser's Floating Disk
 *1st-level, Conjuration (ritual)*  

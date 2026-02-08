@@ -12,7 +12,6 @@ classes:
 - Bard
 - Wizard
 - Wizard (Evoker)
-aliases: ["Wall of Ice"]
 ---
 # Wall of Ice
 *6th-level, Evocation*  

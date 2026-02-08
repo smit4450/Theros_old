@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/artisans-tools
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Carpenter's Tools"
 ---
 # Carpenter's Tools
 *Artisan's tools*  

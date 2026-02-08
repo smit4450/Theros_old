@@ -32,7 +32,6 @@ classes:
 - Warlock
 - Warlock (Archfey Patron)
 - Wizard
-aliases: ["Misty Step"]
 ---
 # Misty Step
 *2nd-level, Conjuration*  

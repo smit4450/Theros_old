@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/spell/school/evocation
 classes:
 - Paladin
-aliases: ["Destructive Wave"]
 ---
 # Destructive Wave
 *5th-level, Evocation*  

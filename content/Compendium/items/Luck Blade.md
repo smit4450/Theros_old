@@ -9,15 +9,6 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Luck Blade"
-- "Luck Glaive"
-- "Luck Greatsword"
-- "Luck Longsword"
-- "Luck Rapier"
-- "Luck Scimitar"
-- "Luck Shortsword"
-- "Luck Sickle"
 ---
 # Luck Blade
 *Legendary (requires attunement)*  

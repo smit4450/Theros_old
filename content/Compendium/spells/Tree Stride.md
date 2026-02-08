@@ -16,7 +16,6 @@ classes:
 - Druid (Circle of the Land, Temperate Land)
 - Paladin (Oath of the Ancients)
 - Ranger
-aliases: ["Tree Stride"]
 ---
 # Tree Stride
 *5th-level, Conjuration*  

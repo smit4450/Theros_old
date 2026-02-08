@@ -11,7 +11,7 @@ tags:
 %%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide (2024) p. 96*  
 
-A Cannon uses gunpowder or arcane power to propel heavy iron balls at destructive speeds. A Cannon is usually attached to a wooden frame with wheels. Loading a Cannon requires the [Utilize](Actions.md#Utilize) action, and aiming it requires another [Utilize](Actions.md#Utilize) action. Then a crew member can take the Cannonball action.
+A Cannon uses gunpowder or arcane power to propel heavy iron balls at destructive speeds. A Cannon is usually attached to a wooden frame with wheels. Loading a Cannon requires the [Utilize](Compendium/rules/actions.md#Utilize) action, and aiming it requires another [Utilize](Compendium/rules/actions.md#Utilize) action. Then a crew member can take the Cannonball action.
 
 ```ad-statblock
 title: Cannon

@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Scarecrow"]
 ---
 # Scarecrow
 *Source: Monster Manual (2024) p. 269*  

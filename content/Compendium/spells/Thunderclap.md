@@ -31,7 +31,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
-aliases: ["Thunderclap"]
 ---
 # Thunderclap
 *cantrip, Evocation*  

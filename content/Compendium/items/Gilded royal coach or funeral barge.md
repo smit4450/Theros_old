@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Gilded royal coach or funeral barge"
 ---
 # Gilded royal coach or funeral barge
 *Treasure (art object)*  

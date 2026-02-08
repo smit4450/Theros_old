@@ -10,7 +10,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/celestial
 statblock: inline
-aliases: ["Sphinx of Lore"]
 ---
 # Sphinx of Lore
 *Source: Monster Manual (2024) p. 293, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

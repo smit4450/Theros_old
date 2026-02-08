@@ -16,7 +16,6 @@ classes:
 - Bard (College of Lore)
 - Bard (College of the Moon)
 - Druid
-aliases: ["Druidcraft"]
 ---
 # Druidcraft
 *cantrip, Transmutation*  

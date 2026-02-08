@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/gargantuan
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Polukranos"]
 ---
 # Polukranos
 *Source: Mythic Odysseys of Theros p. 231*  

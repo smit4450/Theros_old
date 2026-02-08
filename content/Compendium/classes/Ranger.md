@@ -135,7 +135,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [Attack](Actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
 
 ### Roving (Level 6)
 
@@ -159,7 +159,7 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 #### Temporary Hit Points
 
-As a [Magic](Actions.md#Magic) action, you can give yourself a number of [[Temporary Hit Points]] equal to `1d8` plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can give yourself a number of [[Temporary Hit Points]] equal to `1d8` plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
 #### Decrease Exhaustion
 

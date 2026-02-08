@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Beast of the Sea"]
 ---
 # Beast of the Sea
 *Source: Player's Handbook (2024) p. 124*  

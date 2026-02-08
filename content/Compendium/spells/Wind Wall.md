@@ -14,7 +14,6 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
-aliases: ["Wind Wall"]
 ---
 # Wind Wall
 *3rd-level, Evocation*  

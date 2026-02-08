@@ -22,7 +22,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Mage Armor"]
 ---
 # Mage Armor
 *1st-level, Abjuration*  

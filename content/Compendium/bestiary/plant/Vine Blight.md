@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/plant
 statblock: inline
-aliases: ["Vine Blight"]
 ---
 # Vine Blight
 *Source: Monster Manual (2024) p. 44*  

@@ -18,7 +18,6 @@ classes:
 - Druid
 - Paladin
 - Sorcerer (Spellfire Sorcery)
-aliases: ["Aura of Vitality"]
 ---
 # Aura of Vitality
 *3rd-level, Abjuration*  

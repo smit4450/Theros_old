@@ -23,7 +23,6 @@ classes:
 - Paladin (Oath of Glory)
 - Sorcerer (Spellfire Sorcery)
 - Warlock (Celestial Patron)
-aliases: ["Guiding Bolt"]
 ---
 # Guiding Bolt
 *1st-level, Evocation*  

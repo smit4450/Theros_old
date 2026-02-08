@@ -4,8 +4,6 @@ cssclasses: json5e-item
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
-aliases: 
-- "Ear Horn of Hearing"
 ---
 # Ear Horn of Hearing
 *Wondrous item, common*  

@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/ammunition
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Arrows (20)"
 ---
 # Arrows (20)
 *Ammunition*  

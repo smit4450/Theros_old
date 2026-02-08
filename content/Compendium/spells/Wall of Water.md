@@ -6,7 +6,6 @@ tags:
 - ttrpg-cli/spell/level/3rd-level
 - ttrpg-cli/spell/race/triton
 - ttrpg-cli/spell/school/evocation
-aliases: ["Wall of Water"]
 ---
 # Wall of Water
 *3rd-level, Evocation*  

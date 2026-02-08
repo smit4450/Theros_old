@@ -14,7 +14,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Meteor Swarm"]
 ---
 # Meteor Swarm
 *9th-level, Evocation*  

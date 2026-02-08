@@ -4,51 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "49468a190bd31304",
-        "type": "split",
+        "id": "ffb4c69c5c01ba07",
+        "type": "tabs",
         "children": [
           {
-            "id": "45905333d976557f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3a8976e2b4d2e34d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Compendium/lists/Wizard Spells.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Wizard Spells"
-                },
-                "group": "e6ca6b004d3f49a4"
-              }
-            ]
-          },
-          {
-            "id": "eabc1ff219b4c1c8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "45fcd5f27ef7eb1c",
-                "type": "leaf",
-                "state": {
-                  "type": "file-properties",
-                  "state": {
-                    "file": "Compendium/lists/Wizard Spells.md"
-                  },
-                  "icon": "lucide-info",
-                  "title": "File properties for Wizard Spells"
-                },
-                "group": "e6ca6b004d3f49a4"
-              }
-            ]
+            "id": "ac480fb233ddbd08",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,33 +196,33 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3a8976e2b4d2e34d",
+  "active": "ac480fb233ddbd08",
   "lastOpenFiles": [
-    "Compendium/spells/Alter Self.md",
-    "Compendium/lists/Wizard Spells.md",
-    "Compendium/tables/armaments-very-rare-xdmg.md",
-    "broken links output.md",
-    "Compendium/lists/Abjuration Spells.md",
-    "Compendium/lists/Spells for Triton.md",
-    "Compendium/lists/Spells for College of Lore.md",
-    "Compendium/lists/Evocation Spells.md",
-    "Compendium/lists/Maneuver, Battle Master.md",
-    "Compendium/lists/Druid Spells.md",
-    "Compendium/spells/Animal Friendship.md",
-    "Compendium/spells/Zone of Truth.md",
-    "Compendium/spells/Yolande's Regal Presence.md",
-    "Compendium/spells/Wrathful Smite.md",
-    "Compendium/spells/Word of Recall.md",
-    "Compendium/spells/Word of Radiance.md",
-    "Compendium/spells/Witch Bolt.md",
-    "Compendium/spells/Wish.md",
-    "Compendium/spells/Wind Wall.md",
-    "Compendium/spells/Wind Walk.md",
-    "Compendium/spells/Weird.md",
-    "Compendium/spells/Web.md",
-    "Compendium/spells/Water Walk.md",
-    "Compendium/spells/Water Breathing.md",
-    "Compendium/spells/Warding Bond.md",
-    "Compendium/spells/Wardaway.md"
+    "index.md",
+    "Compendium/rules/actions.md",
+    "Compendium/tables/Actions (table).md",
+    "Compendium/items/Bead of Nourishment.md",
+    "Compendium/tables/Arcana - Common.md",
+    "Compendium/tables/Amphitheater Villains.md",
+    "Compendium/tables/Amphitheater Adventures.md",
+    "Compendium/tables/All Is Well.md",
+    "Compendium/tables/Ammunition; 2.md",
+    "Compendium/tables/amethyst-dragon-quests-frhof.md",
+    "Compendium/tables/Alignment and Personality; Personality Traits by Alignment.md",
+    "Compendium/tables/Agora Villains.md",
+    "Compendium/tables/Agora Adventures.md",
+    "Compendium/tables/Adventuring Gear.md",
+    "Compendium/tables/Adventuring Gear.md",
+    "Compendium/tables/Adventure Patrons; Patron Hooks.md",
+    "Compendium/tables/Adjust Hit Points and Hit Point Dice; Fixed Hit Points by Class.md",
+    "Compendium/tables/Adjudicating Areas of Effect; Targets in Area of Effect.md",
+    "Compendium/tables/Adding Basic Facilities.md",
+    "Compendium/tables/Actions in Combat; Describing Actions.md",
+    "Compendium/tables/Ability Scores.md",
+    "Compendium/tables/Ability Score Point Costs.md",
+    "Compendium/tables/Ability Modifiers.md",
+    "Compendium/tables/Ability Modifier; Saving Throw Examples.md",
+    "Compendium/tables/Ability Modifier; Attack Roll Abilities.md",
+    "Compendium/tables/Ability Modifier; Ability Check Examples.md"
   ]
 }

@@ -13,7 +13,6 @@ classes:
 - Bard
 - Cleric
 - Paladin (Oath of Devotion)
-aliases: ["Commune"]
 ---
 # Commune
 *5th-level, Divination (ritual)*  

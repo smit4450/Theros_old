@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Antilife Shell"]
 ---
 # Antilife Shell
 *5th-level, Abjuration*  

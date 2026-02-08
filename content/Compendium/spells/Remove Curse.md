@@ -26,7 +26,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Remove Curse"]
 ---
 # Remove Curse
 *3rd-level, Abjuration*  

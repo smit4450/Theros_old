@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/deity/theros
 - ttrpg-cli/domain/nature
-aliases: 
-- Nylea
 ---
 # Nylea
 *Source: Mythic Odysseys of Theros p. 67* 

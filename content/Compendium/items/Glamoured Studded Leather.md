@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/armor/light
 - ttrpg-cli/item/rarity/rare
-aliases: 
-- "Glamoured Studded Leather"
 ---
 # Glamoured Studded Leather
 *Light armor ([[Studded Leather Armor]]), rare*  

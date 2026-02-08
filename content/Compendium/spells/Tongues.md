@@ -26,7 +26,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
-aliases: ["Tongues"]
 ---
 # Tongues
 *3rd-level, Divination*  

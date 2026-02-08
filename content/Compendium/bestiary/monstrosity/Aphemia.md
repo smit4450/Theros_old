@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Aphemia"]
 ---
 # Aphemia
 *Source: Mythic Odysseys of Theros p. 226*  

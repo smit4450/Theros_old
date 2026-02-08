@@ -14,7 +14,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Circle of Death"]
 ---
 # Circle of Death
 *6th-level, Necromancy*  

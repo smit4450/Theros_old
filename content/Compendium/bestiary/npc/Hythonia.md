@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Hythonia"]
 ---
 # Hythonia
 *Source: Mythic Odysseys of Theros p. 252*  

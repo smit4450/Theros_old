@@ -24,7 +24,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Dimension Door"]
 ---
 # Dimension Door
 *4th-level, Conjuration*  

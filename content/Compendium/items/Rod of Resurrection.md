@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/rod
-aliases: 
-- "Rod of Resurrection"
 ---
 # Rod of Resurrection
 *Rod, legendary (requires attunement by a cleric, druid, or paladin)*  

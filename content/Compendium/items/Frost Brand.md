@@ -8,14 +8,6 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Frost Brand"
-- "Frost Brand Glaive"
-- "Frost Brand Greatsword"
-- "Frost Brand Longsword"
-- "Frost Brand Rapier"
-- "Frost Brand Scimitar"
-- "Frost Brand Shortsword"
 ---
 # Frost Brand
 *Very rare (requires attunement)*  

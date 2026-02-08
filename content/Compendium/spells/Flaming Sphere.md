@@ -20,7 +20,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Flaming Sphere"]
 ---
 # Flaming Sphere
 *2nd-level, Conjuration*  

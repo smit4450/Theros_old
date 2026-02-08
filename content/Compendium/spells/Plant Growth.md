@@ -18,7 +18,6 @@ classes:
 - Paladin (Oath of the Ancients)
 - Ranger
 - Warlock (Archfey Patron)
-aliases: ["Plant Growth"]
 ---
 # Plant Growth
 *3rd-level, Transmutation*  

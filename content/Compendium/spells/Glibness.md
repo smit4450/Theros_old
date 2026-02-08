@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Warlock
-aliases: ["Glibness"]
 ---
 # Glibness
 *8th-level, Enchantment*  

@@ -10,7 +10,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Wolf"]
 ---
 # Wolf
 *Source: Monster Manual (2024) p. 373, Player's Handbook (2024) p. 359, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

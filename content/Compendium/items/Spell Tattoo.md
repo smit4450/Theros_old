@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Thayan Spell Tattoo"
 ---
 # Spell Tattoo
 *Wondrous item, uncommon (requires attunement)*  

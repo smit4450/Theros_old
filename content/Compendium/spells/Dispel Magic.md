@@ -38,7 +38,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Dispel Magic"]
 ---
 # Dispel Magic
 *3rd-level, Abjuration*  

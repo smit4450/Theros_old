@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Necklace string of small pink pearls"
 ---
 # Necklace string of small pink pearls
 *Treasure (art object)*  

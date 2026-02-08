@@ -26,7 +26,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Fear"]
 ---
 # Fear
 *3rd-level, Illusion*  
@@ -39,7 +38,7 @@ aliases: ["Fear"]
 
 Each creature in a 30-foot [[Cone (Area of Effect)]] must succeed on a Wisdom saving throw or drop whatever it is holding and have the [Frightened](Conditions.md#Frightened) condition for the duration.
 
-A [Frightened](Conditions.md#Frightened) creature takes the [Dash](Actions.md#Dash) action and moves away from you by the safest route on each of its turns unless there is nowhere to move. If the creature ends its turn in a space where it doesn't have line of sight to you, the creature makes a Wisdom saving throw. On a successful save, the spell ends on that creature.
+A [Frightened](Conditions.md#Frightened) creature takes the [Dash](Compendium/rules/actions.md#Dash) action and moves away from you by the safest route on each of its turns unless there is nowhere to move. If the creature ends its turn in a space where it doesn't have line of sight to you, the creature makes a Wisdom saving throw. On a successful save, the spell ends on that creature.
 
 **Classes**: [Bard (College of Lore)](Spells%20for%20College%20of%20Lore.md "subclass=XPHB;class=XPHB"); [[Bard Spells]]; [Fighter (Eldritch Knight)](Spells%20for%20Eldritch%20Knight.md "subclass=XPHB;class=XPHB"); [Ranger (Gloom Stalker)](Spells%20for%20Gloom%20Stalker.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Spells%20for%20Arcane%20Trickster.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](Spells%20for%20Draconic%20Sorcery.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [[Warlock Spells]]; [Wizard (Illusionist)](Spells%20for%20Illusionist.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 

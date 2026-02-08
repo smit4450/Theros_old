@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/spell/school/enchantment
 classes:
 - Bard
-aliases: ["Vicious Mockery"]
 ---
 # Vicious Mockery
 *cantrip, Enchantment*  

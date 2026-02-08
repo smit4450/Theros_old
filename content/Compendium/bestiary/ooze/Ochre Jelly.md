@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/ooze
 statblock: inline
-aliases: ["Ochre Jelly"]
 ---
 # Ochre Jelly
 *Source: Monster Manual (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

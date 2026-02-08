@@ -16,7 +16,6 @@ classes:
 - Paladin
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Circle of Power"]
 ---
 # Circle of Power
 *5th-level, Abjuration*  

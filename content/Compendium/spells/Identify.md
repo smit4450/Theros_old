@@ -25,7 +25,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Identify"]
 ---
 # Identify
 *1st-level, Divination (ritual)*  

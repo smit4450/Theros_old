@@ -8,12 +8,6 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Vorpal Sword"
-- "Vorpal Glaive"
-- "Vorpal Greatsword"
-- "Vorpal Longsword"
-- "Vorpal Scimitar"
 ---
 # Vorpal Sword
 *Legendary (requires attunement)*  

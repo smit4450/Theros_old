@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Entertainer's Pack"
 ---
 # Entertainer's Pack
 *Adventuring gear*  

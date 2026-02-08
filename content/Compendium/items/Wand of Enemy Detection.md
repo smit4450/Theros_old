@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/wand
-aliases: 
-- "Wand of Enemy Detection"
 ---
 # Wand of Enemy Detection
 *Wand, rare (requires attunement)*  
@@ -15,7 +13,7 @@ aliases:
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can take a [Magic](Actions.md#Magic) action to expend 1 charge. For 1 minute, you know the direction of the nearest creature [[Hostile (Attitude)]] to you within 60 feet, but not its distance from you. The wand can sense the presence of [[Hostile (Attitude)]] creatures that are [Invisible](Conditions.md#Invisible), ethereal, disguised, or hidden, as well as those in plain sight. The effect ends if you stop holding the wand.
+This wand has 7 charges. While holding it, you can take a [Magic](Compendium/rules/actions.md#Magic) action to expend 1 charge. For 1 minute, you know the direction of the nearest creature [[Hostile (Attitude)]] to you within 60 feet, but not its distance from you. The wand can sense the presence of [[Hostile (Attitude)]] creatures that are [Invisible](Conditions.md#Invisible), ethereal, disguised, or hidden, as well as those in plain sight. The effect ends if you stop holding the wand.
 
 ## Regaining Charges
 

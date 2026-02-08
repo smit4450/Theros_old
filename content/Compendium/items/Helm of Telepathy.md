@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Helm of Telepathy"
 ---
 # Helm of Telepathy
 *Wondrous item, uncommon (requires attunement)*  

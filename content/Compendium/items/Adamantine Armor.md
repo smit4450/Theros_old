@@ -7,16 +7,6 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Adamantine Armor"
-- "Adamantine Breastplate"
-- "Adamantine Chain Mail"
-- "Adamantine Chain Shirt"
-- "Adamantine Half Plate Armor"
-- "Adamantine Plate Armor"
-- "Adamantine Ring Mail"
-- "Adamantine Scale Mail"
-- "Adamantine Splint Armor"
 ---
 # Adamantine Armor
 *Uncommon*  

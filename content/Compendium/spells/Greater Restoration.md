@@ -24,7 +24,6 @@ classes:
 - Sorcerer (Clockwork Sorcery)
 - Sorcerer (Spellfire Sorcery)
 - Warlock (Celestial Patron)
-aliases: ["Greater Restoration"]
 ---
 # Greater Restoration
 *5th-level, Abjuration*  

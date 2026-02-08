@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
-- "Dwarven Thrower"
 ---
 # Forge Thrower
 *Weapon ([[Warhammer]]), very rare (requires attunement by a dwarf)*  

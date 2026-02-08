@@ -12,7 +12,6 @@ classes:
 - Bard
 - Warlock
 - Wizard
-aliases: ["True Polymorph"]
 ---
 # True Polymorph
 *9th-level, Transmutation*  

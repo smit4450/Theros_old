@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Staff of the Python"
 ---
 # Staff of the Python
 *Staff, weapon, uncommon (requires attunement)*  
@@ -20,7 +18,7 @@ aliases:
 - **Properties**: [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-As a [Magic](Actions.md#Magic) action, you can throw this staff so that it lands in an unoccupied space within 10 feet of you, causing the staff to become a [[Giant Constrictor Snake|Giant Constrictor Snake]]e is under your control and shares your [[Initiative]] count, taking its turn immediately after yours.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can throw this staff so that it lands in an unoccupied space within 10 feet of you, causing the staff to become a [[Giant Constrictor Snake|Giant Constrictor Snake]]e is under your control and shares your [[Initiative]] count, taking its turn immediately after yours.
 
 On your turn, you can mentally command the snake (no action required) if it is within 60 feet of you and you don't have the [Incapacitated](Conditions.md#Incapacitated) condition. You decide what action the snake takes and where it moves during its turn, or you can issue it a general command, such as to attack your enemies or guard a location. Absent commands from you, the snake defends itself.
 

@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Armor of Resistance"
 ---
 # Armor of Resistance
 *Rare (requires attunement)*  

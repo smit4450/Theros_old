@@ -15,7 +15,6 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Paladin
-aliases: ["Create Food and Water"]
 ---
 # Create Food and Water
 *3rd-level, Conjuration*  

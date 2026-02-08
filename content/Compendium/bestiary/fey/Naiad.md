@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Naiad"]
 ---
 # Naiad
 *Source: Mythic Odysseys of Theros p. 236*  

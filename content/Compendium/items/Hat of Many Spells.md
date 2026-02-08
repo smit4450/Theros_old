@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Hat of Many Spells"
 ---
 # Hat of Many Spells
 *Wondrous item, very rare (requires attunement by a wizard)*  

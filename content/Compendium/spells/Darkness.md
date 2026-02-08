@@ -25,7 +25,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
-aliases: ["Darkness"]
 ---
 # Darkness
 *2nd-level, Evocation*  

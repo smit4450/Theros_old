@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Noble Prodigy"]
 ---
 # Noble Prodigy
 *Source: Monster Manual (2024) p. 227*  

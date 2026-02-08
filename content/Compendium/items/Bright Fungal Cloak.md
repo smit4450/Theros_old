@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Bright Fungal Cloak"
 ---
 # Bright Fungal Cloak
 *Adventuring gear*  

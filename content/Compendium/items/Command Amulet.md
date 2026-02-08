@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xmm
 - ttrpg-cli/item/rarity/unknown/magic
 - ttrpg-cli/item/wondrous/other
-aliases: 
-- "Command Amulet"
 ---
 # Command Amulet
 

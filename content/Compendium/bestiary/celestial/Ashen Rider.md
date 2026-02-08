@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/celestial
 statblock: inline
-aliases: ["Ashen Rider"]
 ---
 # Ashen Rider
 *Source: Mythic Odysseys of Theros p. 213*  

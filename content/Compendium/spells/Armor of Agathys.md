@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/spell/school/abjuration
 classes:
 - Warlock
-aliases: ["Armor of Agathys"]
 ---
 # Armor of Agathys
 *1st-level, Abjuration*  

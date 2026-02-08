@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/ring
-aliases: 
-- "Ring of Three Wishes"
 ---
 # Ring of Three Wishes
 *Ring, legendary*  

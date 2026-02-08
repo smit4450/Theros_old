@@ -24,7 +24,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
-aliases: ["Mind Spike"]
 ---
 # Mind Spike
 *2nd-level, Divination*  

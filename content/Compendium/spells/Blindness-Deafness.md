@@ -20,7 +20,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Blindness/Deafness"]
 ---
 # Blindness/Deafness
 *2nd-level, Transmutation*  

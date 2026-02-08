@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/ooze
 statblock: inline
-aliases: ["Slithering Tracker"]
 ---
 # Slithering Tracker
 *Source: Volo's Guide to Monsters p. 191, Mythic Odysseys of Theros*  

@@ -14,7 +14,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Power Word Stun"]
 ---
 # Power Word Stun
 *8th-level, Enchantment*  

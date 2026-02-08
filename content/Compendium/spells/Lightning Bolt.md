@@ -24,7 +24,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Lightning Bolt"]
 ---
 # Lightning Bolt
 *3rd-level, Evocation*  

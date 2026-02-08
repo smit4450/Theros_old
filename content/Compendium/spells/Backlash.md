@@ -20,7 +20,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Backlash"]
 ---
 # Backlash
 *4th-level, Abjuration*  

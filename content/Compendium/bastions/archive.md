@@ -24,7 +24,7 @@ When you issue the "Research" order to this facility, you commission the facilit
 
 Your Archive contains one copy of a rare and valuable reference book, which gives you a benefit while you and the book are in your Bastion. You can choose one of the following options (your DM might make more options available):
 
-- **Bigby's Handy Arcana Codex.** You have Advantage on any Intelligence ([Arcana](Skills.md#Arcana)) check you make when you take the [Study](Actions.md#Study) action to recall lore about spells, magic items, eldritch symbols, magical traditions, and planes of existence.  
+- **Bigby's Handy Arcana Codex.** You have Advantage on any Intelligence ([Arcana](Skills.md#Arcana)) check you make when you take the [Study](Compendium/rules/actions.md#Study) action to recall lore about spells, magic items, eldritch symbols, magical traditions, and planes of existence.  
 - **The Chronepsis Chronicles.** You have Advantage on any Intelligence ([History](Skills.md#History)) check you make when you take the Study action to recall lore about historical events, legendary people, ancient kingdoms, past disputes, wars, and lost civilizations.  
 - **Investigations of the Inquisitive.** You have Advantage on any Intelligence ([Investigation](Skills.md#Investigation)) check you make when you take the Study action to make deductions based on clues or evidence or to recall lore about traps, ciphers, riddles, and gadgetry.  
 - **Material Musings on the Nature of the World.** You have Advantage on any Intelligence ([Nature](Skills.md#Nature)) check you make when you take the Study action to recall lore about terrain, plants, animals, and the weather.  

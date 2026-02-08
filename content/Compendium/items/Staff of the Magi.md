@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Staff of the Magi"
 ---
 # Staff of the Magi
 *Staff, weapon, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
@@ -59,6 +57,6 @@ The staff regains `4d6 + 2` expended charges daily at dawn. If you expend the la
 
 ## Retributive Strike
 
-You can take a [Magic](Actions.md#Magic) action to break the staff over your knee or against a solid surface. The staff is destroyed and releases its magic in an explosion that fills a 30-foot [[Emanation (Area of Effect)]] originating from itself. You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take Force damage equal to 16 times the number of charges in the staff. Each other creature in the area makes a DC 17 Dexterity saving throw. On a failed save, a creature takes Force damage equal to 6 times the number of charges in the staff. On a successful save, a creature takes half as much damage.
+You can take a [Magic](Compendium/rules/actions.md#Magic) action to break the staff over your knee or against a solid surface. The staff is destroyed and releases its magic in an explosion that fills a 30-foot [[Emanation (Area of Effect)]] originating from itself. You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take Force damage equal to 16 times the number of charges in the staff. Each other creature in the area makes a DC 17 Dexterity saving throw. On a failed save, a creature takes Force damage equal to 6 times the number of charges in the staff. On a successful save, a creature takes half as much damage.
 
 *Source: Dungeon Master's Guide (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

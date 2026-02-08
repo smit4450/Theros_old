@@ -13,7 +13,6 @@ classes:
 - Bard
 - Paladin
 - Paladin (Oath of Glory)
-aliases: ["Heroism"]
 ---
 # Heroism
 *1st-level, Enchantment*  

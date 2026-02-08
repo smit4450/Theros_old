@@ -15,7 +15,6 @@ classes:
 - Sorcerer (Aberrant Sorcery)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Rary's Telepathic Bond"]
 ---
 # Rary's Telepathic Bond
 *5th-level, Divination (ritual)*  

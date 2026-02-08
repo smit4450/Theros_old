@@ -7,10 +7,6 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Elven Chain"
-- "Elven Chain Mail"
-- "Elven Chain Shirt"
 ---
 # Enchanted Chain
 *Rare*  

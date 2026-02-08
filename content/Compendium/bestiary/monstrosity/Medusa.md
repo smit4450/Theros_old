@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Medusa"]
 ---
 # Medusa
 *Source: Mythic Odysseys of Theros p. 206*  

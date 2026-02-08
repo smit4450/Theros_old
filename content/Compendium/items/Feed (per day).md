@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/tack-and-harness
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Feed (per day)"
 ---
 # Feed (per day)
 *Tack and harness*  

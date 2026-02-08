@@ -30,7 +30,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Hold Person"]
 ---
 # Hold Person
 *2nd-level, Enchantment*  

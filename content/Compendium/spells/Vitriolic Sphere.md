@@ -18,7 +18,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Vitriolic Sphere"]
 ---
 # Vitriolic Sphere
 *4th-level, Evocation*  

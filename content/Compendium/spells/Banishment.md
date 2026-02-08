@@ -28,7 +28,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Banishment"]
 ---
 # Banishment
 *4th-level, Abjuration*  

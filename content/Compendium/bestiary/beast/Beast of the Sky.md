@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Beast of the Sky"]
 ---
 # Beast of the Sky
 *Source: Player's Handbook (2024) p. 124*  

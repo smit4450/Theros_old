@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Gauntlets of Ogre Power"
 ---
 # Gauntlets of Ogre Power
 *Wondrous item, uncommon (requires attunement)*  

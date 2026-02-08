@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Medallion of Thoughts"
 ---
 # Medallion of Thoughts
 *Wondrous item, uncommon (requires attunement)*  

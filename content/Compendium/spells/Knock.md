@@ -18,7 +18,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Knock"]
 ---
 # Knock
 *2nd-level, Transmutation*  

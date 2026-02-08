@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Bejeweled ivory drinking horn with gold filigree"
 ---
 # Bejeweled ivory drinking horn with gold filigree
 *Treasure (art object)*  

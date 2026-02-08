@@ -18,7 +18,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Arcane Lock"]
 ---
 # Arcane Lock
 *2nd-level, Abjuration*  

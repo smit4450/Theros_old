@@ -16,7 +16,6 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Paladin
-aliases: ["Detect Evil and Good"]
 ---
 # Detect Evil and Good
 *1st-level, Divination*  

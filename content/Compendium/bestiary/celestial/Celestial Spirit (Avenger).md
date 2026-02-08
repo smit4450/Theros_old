@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/celestial
 statblock: inline
-aliases: ["Celestial Spirit (Avenger)"]
 ---
 # Celestial Spirit (Avenger)
 *Source: Player's Handbook (2024) p. 323*  

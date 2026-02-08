@@ -20,7 +20,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Cacophonic Shield"]
 ---
 # Cacophonic Shield
 *3rd-level, Evocation*  

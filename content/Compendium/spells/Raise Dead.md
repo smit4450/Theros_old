@@ -12,7 +12,6 @@ classes:
 - Bard
 - Cleric
 - Paladin
-aliases: ["Raise Dead"]
 ---
 # Raise Dead
 *5th-level, Necromancy*  

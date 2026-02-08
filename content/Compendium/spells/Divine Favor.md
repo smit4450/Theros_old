@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/spell/school/transmutation
 classes:
 - Paladin
-aliases: ["Divine Favor"]
 ---
 # Divine Favor
 *1st-level, Transmutation*  

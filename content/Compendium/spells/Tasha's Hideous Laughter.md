@@ -22,7 +22,6 @@ classes:
 - Warlock
 - Warlock (Great Old One Patron)
 - Wizard
-aliases: ["Tasha's Hideous Laughter"]
 ---
 # Tasha's Hideous Laughter
 *1st-level, Enchantment*  

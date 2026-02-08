@@ -23,7 +23,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Augury"]
 ---
 # Augury
 *2nd-level, Divination (ritual)*  

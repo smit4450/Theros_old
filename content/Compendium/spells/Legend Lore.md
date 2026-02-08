@@ -20,7 +20,6 @@ classes:
 - Sorcerer (Draconic Sorcery)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Legend Lore"]
 ---
 # Legend Lore
 *5th-level, Divination*  

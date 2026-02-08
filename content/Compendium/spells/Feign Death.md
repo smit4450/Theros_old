@@ -21,7 +21,6 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
-aliases: ["Feign Death"]
 ---
 # Feign Death
 *3rd-level, Necromancy (ritual)*  

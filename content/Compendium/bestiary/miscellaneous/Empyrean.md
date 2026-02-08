@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type//titan
 statblock: inline
-aliases: ["Empyrean"]
 ---
 # Empyrean
 *Source: Monster Manual (2024) p. 113*  

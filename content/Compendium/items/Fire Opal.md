@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-gemstone
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Fire Opal"
 ---
 # Fire Opal
 *Treasure (gemstone)*  

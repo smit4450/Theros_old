@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Soldier"]
 ---
 # Soldier
 *Source: Guildmasters' Guide to Ravnica p. 226, Mythic Odysseys of Theros*  

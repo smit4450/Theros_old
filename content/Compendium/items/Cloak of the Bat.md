@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
-aliases: 
-- "Cloak of the Bat"
 ---
 # Cloak of the Bat
 *Wondrous item, rare (requires attunement)*  

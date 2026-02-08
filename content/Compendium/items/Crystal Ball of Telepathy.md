@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
-aliases: 
-- "Crystal Ball of Telepathy"
 ---
 # Crystal Ball of Telepathy
 *Wondrous item, legendary (requires attunement)*  

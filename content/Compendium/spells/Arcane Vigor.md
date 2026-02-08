@@ -20,7 +20,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Arcane Vigor"]
 ---
 # Arcane Vigor
 *2nd-level, Abjuration*  

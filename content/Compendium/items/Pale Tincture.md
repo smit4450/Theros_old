@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Pale Tincture"
 ---
 # Pale Tincture
 *Adventuring gear, poison (ingested)*  

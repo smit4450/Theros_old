@@ -8,7 +8,7 @@ tags:
 # Breaking Objects
 *Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the [Attack](Actions.md#Attack) or [Utilize](Actions.md#Utilize) action.
+Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the [Attack](Compendium/rules/actions.md#Attack) or [Utilize](Compendium/rules/actions.md#Utilize) action.
 
 ## Armor Class
 

@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/food-and-drink
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Cheese (wedge)"
 ---
 # Cheese (wedge)
 *Food and drink*  

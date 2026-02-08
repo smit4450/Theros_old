@@ -20,7 +20,7 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 
 ## Nick
 
-When you make the extra attack of the [Light](Item%20Properties.md#Light) property, you can make it as part of the [Attack](Actions.md#Attack) action instead of as a Bonus Action. You can make this extra attack only once per turn.
+When you make the extra attack of the [Light](Item%20Properties.md#Light) property, you can make it as part of the [Attack](Compendium/rules/actions.md#Attack) action instead of as a Bonus Action. You can make this extra attack only once per turn.
 
 ## Push
 

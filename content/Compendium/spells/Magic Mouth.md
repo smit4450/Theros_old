@@ -19,7 +19,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Magic Mouth"]
 ---
 # Magic Mouth
 *2nd-level, Illusion (ritual)*  

@@ -15,7 +15,6 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
-aliases: ["Animal Messenger"]
 ---
 # Animal Messenger
 *2nd-level, Enchantment (ritual)*  

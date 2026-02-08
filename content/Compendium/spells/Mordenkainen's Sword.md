@@ -12,7 +12,6 @@ classes:
 - Bard
 - Wizard
 - Wizard (Evoker)
-aliases: ["Mordenkainen's Sword"]
 ---
 # Mordenkainen's Sword
 *7th-level, Evocation*  

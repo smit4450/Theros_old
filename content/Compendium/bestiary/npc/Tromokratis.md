@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/gargantuan
 - ttrpg-cli/monster/type/monstrosity/titan
 statblock: inline
-aliases: ["Tromokratis"]
 ---
 # Tromokratis
 *Source: Mythic Odysseys of Theros p. 254*  

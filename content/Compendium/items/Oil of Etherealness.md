@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Oil of Etherealness"
 ---
 # Oil of Etherealness
 *Potion, rare*  

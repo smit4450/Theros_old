@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Enspelled Staff (Level 1)"
 ---
 # Enspelled Staff (Level 1)
 *Staff, weapon, uncommon (requires attunement by a Spellcaster)*  

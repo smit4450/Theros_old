@@ -14,7 +14,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Prismatic Spray"]
 ---
 # Prismatic Spray
 *7th-level, Evocation*  

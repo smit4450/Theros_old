@@ -26,7 +26,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Invisibility"]
 ---
 # Invisibility
 *2nd-level, Illusion*  

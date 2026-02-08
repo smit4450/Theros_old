@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/spell/school/conjuration
 classes:
 - Ranger
-aliases: ["Conjure Barrage"]
 ---
 # Conjure Barrage
 *3rd-level, Conjuration*  

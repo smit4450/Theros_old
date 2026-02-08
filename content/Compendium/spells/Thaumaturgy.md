@@ -14,7 +14,6 @@ tags:
 classes:
 - Bard (College of Lore)
 - Cleric
-aliases: ["Thaumaturgy"]
 ---
 # Thaumaturgy
 *cantrip, Transmutation*  

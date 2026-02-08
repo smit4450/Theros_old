@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Satyr Reveler"]
 ---
 # Satyr Reveler
 *Source: Mythic Odysseys of Theros p. 242*  

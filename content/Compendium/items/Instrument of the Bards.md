@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/varies
-aliases: 
-- "Instrument of the Bards"
 ---
 # Instrument of the Bards
 *Wondrous item (requires attunement by a bard)*  

@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Akroan Hoplite"]
 ---
 # Akroan Hoplite
 *Source: Mythic Odysseys of Theros p. 228*  

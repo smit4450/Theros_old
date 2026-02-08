@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Death Cultist"]
 ---
 # Death Cultist
 *Source: Monster Manual (2024) p. 86*  

@@ -19,7 +19,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Feather Fall"]
 ---
 # Feather Fall
 *1st-level, Transmutation*  

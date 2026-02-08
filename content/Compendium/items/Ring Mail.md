@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/armor/heavy
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Ring Mail"
 ---
 # Ring Mail
 *Heavy armor*  

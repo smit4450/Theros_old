@@ -22,7 +22,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["False Life"]
 ---
 # False Life
 *1st-level, Necromancy*  

@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/ring
-aliases: 
-- "Adventurer's Ring"
 ---
 # Adventurer's Ring
 *Ring, common*  

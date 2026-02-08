@@ -24,7 +24,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Hypnotic Pattern"]
 ---
 # Hypnotic Pattern
 *3rd-level, Illusion*  

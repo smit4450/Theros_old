@@ -16,7 +16,6 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
-aliases: ["Conjure Constructs"]
 ---
 # Conjure Constructs
 *3rd-level, Conjuration*  
@@ -27,7 +26,7 @@ aliases: ["Conjure Constructs"]
 - **Components:** V, S, M (a brass cog)
 - **Duration:** Concentration, up to 10 minutes
 
-You conjure a group of intangible, orderly spirits that appear as a Medium group of modrons or other Constructs in an unoccupied space you can see within range. The spirits last for the duration. When you cast this spell and as a [Magic](Actions.md#Magic) action on subsequent turns, you can command the spirits to target one creature or object you can see within 5 feet of the spirits and create one of the following effects:
+You conjure a group of intangible, orderly spirits that appear as a Medium group of modrons or other Constructs in an unoccupied space you can see within range. The spirits last for the duration. When you cast this spell and as a [Magic](Compendium/rules/actions.md#Magic) action on subsequent turns, you can command the spirits to target one creature or object you can see within 5 feet of the spirits and create one of the following effects:
 
 - **Clockwork Force.** The target makes a Dexterity saving throw, taking `3d6` Force damage on a failed save or half as much damage on a successful one.  
 - **Orderly Ward.** The target gains [[Temporary Hit Points]] equal to `1d6` plus your spellcasting ability modifier.  

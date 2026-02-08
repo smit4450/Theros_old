@@ -14,7 +14,6 @@ classes:
 - Cleric
 - Cleric (Life Domain)
 - Paladin
-aliases: ["Aura of Life"]
 ---
 # Aura of Life
 *4th-level, Abjuration*  

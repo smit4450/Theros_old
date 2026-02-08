@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Staff of Adornment"
 ---
 # Staff of Adornment
 *Staff, weapon, common*  

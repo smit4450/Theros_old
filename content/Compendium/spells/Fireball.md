@@ -26,7 +26,6 @@ classes:
 - Warlock (Fiend Patron)
 - Wizard
 - Wizard (Evoker)
-aliases: ["Fireball"]
 ---
 # Fireball
 *3rd-level, Evocation*  

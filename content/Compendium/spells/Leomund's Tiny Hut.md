@@ -19,7 +19,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Evoker)
-aliases: ["Leomund's Tiny Hut"]
 ---
 # Leomund's Tiny Hut
 *3rd-level, Evocation (ritual)*  

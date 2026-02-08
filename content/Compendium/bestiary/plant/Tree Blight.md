@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/plant
 statblock: inline
-aliases: ["Tree Blight"]
 ---
 # Tree Blight
 *Source: Monster Manual (2024) p. 44*  

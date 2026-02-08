@@ -12,7 +12,6 @@ classes:
 - Bard
 - Sorcerer
 - Wizard
-aliases: ["Time Stop"]
 ---
 # Time Stop
 *9th-level, Transmutation*  

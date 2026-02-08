@@ -12,7 +12,6 @@ classes:
 - Bard
 - Sorcerer
 - Wizard
-aliases: ["Disintegrate"]
 ---
 # Disintegrate
 *6th-level, Transmutation*  

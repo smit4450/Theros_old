@@ -9,20 +9,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Armor of Necrotic Resistance"
-- "Breastplate of Necrotic Resistance"
-- "Chain Mail of Necrotic Resistance"
-- "Chain Shirt of Necrotic Resistance"
-- "Half Plate Armor of Necrotic Resistance"
-- "Hide Armor of Necrotic Resistance"
-- "Leather Armor of Necrotic Resistance"
-- "Padded Armor of Necrotic Resistance"
-- "Plate Armor of Necrotic Resistance"
-- "Ring Mail of Necrotic Resistance"
-- "Scale Mail of Necrotic Resistance"
-- "Splint Armor of Necrotic Resistance"
-- "Studded Leather Armor of Necrotic Resistance"
 ---
 # Armor of Necrotic Resistance
 *Rare (requires attunement)*  

@@ -31,7 +31,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Protection from Evil and Good"]
 ---
 # Protection from Evil and Good
 *1st-level, Abjuration*  

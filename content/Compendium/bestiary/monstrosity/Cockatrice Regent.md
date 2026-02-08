@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Cockatrice Regent"]
 ---
 # Cockatrice Regent
 *Source: Monster Manual (2024) p. 75*  

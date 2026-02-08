@@ -24,7 +24,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Shocking Grasp"]
 ---
 # Shocking Grasp
 *cantrip, Evocation*  

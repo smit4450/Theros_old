@@ -22,7 +22,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Evoker)
-aliases: ["Continual Flame"]
 ---
 # Continual Flame
 *2nd-level, Evocation*  

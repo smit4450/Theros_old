@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Amulet of Proof against Detection and Location"
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous item, uncommon (requires attunement)*  

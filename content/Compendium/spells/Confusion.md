@@ -24,7 +24,6 @@ classes:
 - Sorcerer
 - Warlock (Great Old One Patron)
 - Wizard
-aliases: ["Confusion"]
 ---
 # Confusion
 *4th-level, Enchantment*  
@@ -41,7 +40,7 @@ Each creature in a 10-foot-radius [[Sphere (Area of Effect)]] centered on a poin
 |------------|-----------------------|
 | 1 | The target doesn't take an action, and it uses all its movement to move. Roll `1d4` for the direction: **1**, north; **2**, east; **3**, south; or **4**, west. |
 | 2-6 | The target doesn't move or take actions. |
-| 7-8 | The target doesn't move, and it takes the [Attack](Actions.md#Attack) action to make one melee attack against a random creature within reach. If none are within reach, the target takes no action. |
+| 7-8 | The target doesn't move, and it takes the [Attack](Compendium/rules/actions.md#Attack) action to make one melee attack against a random creature within reach. If none are within reach, the target takes no action. |
 | 9-10 | The target chooses its behavior. |
 ^1-behavior-for-the-turn
 

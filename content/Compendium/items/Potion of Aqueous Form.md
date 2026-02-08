@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Potion of Aqueous Form"
 ---
 # Potion of Aqueous Form
 *Potion, rare*  

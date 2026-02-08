@@ -87,7 +87,7 @@ A character can add new basic facilities or enlarge existing ones by spending mo
 
 A character can add a basic facility to their Bastion by spending money and time. The cost of adding a basic facility and the time required depend on the facility's space, as shown on the table below.
 
-![[adding-basic-facilities-xdmg]]
+![[Adding Basic Facilities]]
 
 ### Enlarging Basic Facilities
 
@@ -270,7 +270,7 @@ The events from the Bastion Events table are detailed here in alphabetical order
 
 Nothing significant happens. Roll on the following table, fleshing out the details as you see fit.
 
-![[all-is-well-xdmg]]
+![[All Is Well]]
 
 > [!note] Bastion Tracker
 > 

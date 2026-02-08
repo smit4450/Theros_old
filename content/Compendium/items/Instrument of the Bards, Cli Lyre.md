@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
-aliases: 
-- "Instrument of the Bards, Cli Lyre"
 ---
 # Instrument of the Bards, Cli Lyre
 *Wondrous item, rare (requires attunement by a bard)*  

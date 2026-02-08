@@ -14,7 +14,6 @@ classes:
 - Cleric (War Domain)
 - Ranger
 - Wizard
-aliases: ["Steel Wind Strike"]
 ---
 # Steel Wind Strike
 *5th-level, Conjuration*  

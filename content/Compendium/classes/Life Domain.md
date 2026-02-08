@@ -73,7 +73,7 @@ When a spell you cast with a spell slot restores [[Hit Points]] to a creature, t
 
 ### Preserve Life (Level 3)
 
-As a [Magic](Actions.md#Magic) action, you present your [[Holy Symbol]] and expend a use of your Channel Divinity to evoke healing energy that can restore a number of [[Hit Points]] equal to five times your Cleric level. Choose [Bloodied](Conditions.md#Bloodied) creatures within 30 feet of yourself (which can include you), and divide those [[Hit Points]] among them. This feature can restore a creature to no more than half its [[Hit Points]] maximum.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you present your [[Holy Symbol]] and expend a use of your Channel Divinity to evoke healing energy that can restore a number of [[Hit Points]] equal to five times your Cleric level. Choose [Bloodied](Conditions.md#Bloodied) creatures within 30 feet of yourself (which can include you), and divide those [[Hit Points]] among them. This feature can restore a creature to no more than half its [[Hit Points]] maximum.
 
 ### Blessed Healer (Level 6)
 

@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/item/gear/mount
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Sled Dog"
 ---
 # Sled Dog
 *Mount*  

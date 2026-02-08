@@ -8,12 +8,6 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Sword of Sharpness"
-- "Glaive of Sharpness"
-- "Greatsword of Sharpness"
-- "Longsword of Sharpness"
-- "Scimitar of Sharpness"
 ---
 # Sword of Sharpness
 *Very rare (requires attunement)*  

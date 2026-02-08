@@ -11,7 +11,6 @@ tags:
 classes:
 - Warlock
 - Warlock (Great Old One Patron)
-aliases: ["Hex"]
 ---
 # Hex
 *1st-level, Enchantment*  

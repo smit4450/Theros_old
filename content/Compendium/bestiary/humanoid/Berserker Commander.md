@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Berserker Commander"]
 ---
 # Berserker Commander
 *Source: Monster Manual (2024) p. 37*  

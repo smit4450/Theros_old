@@ -14,7 +14,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Weird"]
 ---
 # Weird
 *9th-level, Illusion*  

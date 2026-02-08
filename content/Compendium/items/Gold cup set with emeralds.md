@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Gold cup set with emeralds"
 ---
 # Gold cup set with emeralds
 *Treasure (art object)*  

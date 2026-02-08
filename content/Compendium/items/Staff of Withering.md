@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Staff of Withering"
 ---
 # Staff of Withering
 *Staff, weapon, rare (requires attunement by a cleric, druid, or warlock)*  

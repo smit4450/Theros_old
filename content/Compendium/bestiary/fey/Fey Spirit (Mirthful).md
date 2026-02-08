@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Fey Spirit (Mirthful)"]
 ---
 # Fey Spirit (Mirthful)
 *Source: Player's Handbook (2024) p. 326*  

@@ -9,10 +9,6 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Oathbow"
-- "Oath Longbow"
-- "Oath Shortbow"
 ---
 # Oathbow
 *Very rare (requires attunement)*  

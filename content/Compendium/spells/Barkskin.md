@@ -14,7 +14,6 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
-aliases: ["Barkskin"]
 ---
 # Barkskin
 *2nd-level, Transmutation*  

@@ -8,20 +8,6 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Smoldering Armor"
-- "Smoldering Breastplate"
-- "Smoldering Chain Mail"
-- "Smoldering Chain Shirt"
-- "Smoldering Half Plate Armor"
-- "Smoldering Hide Armor"
-- "Smoldering Leather Armor"
-- "Smoldering Padded Armor"
-- "Smoldering Plate Armor"
-- "Smoldering Ring Mail"
-- "Smoldering Scale Mail"
-- "Smoldering Splint Armor"
-- "Smoldering Studded Leather Armor"
 ---
 # Smoldering Armor
 *Common*  

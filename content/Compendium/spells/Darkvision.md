@@ -22,7 +22,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Darkvision"]
 ---
 # Darkvision
 *2nd-level, Transmutation*  

@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Jade game board with gold playing pieces"
 ---
 # Jade game board with gold playing pieces
 *Treasure (art object)*  

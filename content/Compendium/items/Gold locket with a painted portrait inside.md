@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Gold locket with a painted portrait inside"
 ---
 # Gold locket with a painted portrait inside
 *Treasure (art object)*  

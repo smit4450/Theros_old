@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Siren"]
 ---
 # Siren
 *Source: Tales from the Yawning Portal p. 243, Mythic Odysseys of Theros*  

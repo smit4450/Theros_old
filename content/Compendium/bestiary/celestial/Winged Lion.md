@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/celestial
 statblock: inline
-aliases: ["Winged Lion"]
 ---
 # Winged Lion
 *Source: Mythic Odysseys of Theros p. 214*  

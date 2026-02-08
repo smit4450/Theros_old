@@ -20,7 +20,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Glyph of Warding"]
 ---
 # Glyph of Warding
 *3rd-level, Abjuration*  

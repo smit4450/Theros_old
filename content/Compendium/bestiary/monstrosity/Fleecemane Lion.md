@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Fleecemane Lion"]
 ---
 # Fleecemane Lion
 *Source: Mythic Odysseys of Theros p. 223*  

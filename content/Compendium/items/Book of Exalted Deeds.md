@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/artifact
-aliases: 
-- "Book of Exalted Deeds"
 ---
 # Book of Exalted Deeds
 *Wondrous item, artifact (requires attunement)*  

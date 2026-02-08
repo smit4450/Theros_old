@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Performer Legend"]
 ---
 # Performer Legend
 *Source: Monster Manual (2024) p. 237*  

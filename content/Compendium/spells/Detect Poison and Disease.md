@@ -23,7 +23,6 @@ classes:
 - Druid
 - Paladin
 - Ranger
-aliases: ["Detect Poison and Disease"]
 ---
 # Detect Poison and Disease
 *1st-level, Divination (ritual)*  

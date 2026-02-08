@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Molten Bronze Skin"
 ---
 # Molten Bronze Skin
 *Rare (requires attunement)*  

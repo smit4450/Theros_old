@@ -16,7 +16,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Gate"]
 ---
 # Gate
 *9th-level, Conjuration*  

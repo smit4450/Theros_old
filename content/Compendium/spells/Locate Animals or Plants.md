@@ -15,7 +15,6 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
-aliases: ["Locate Animals or Plants"]
 ---
 # Locate Animals or Plants
 *2nd-level, Divination (ritual)*  

@@ -15,7 +15,6 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Druid
-aliases: ["Healing Word"]
 ---
 # Healing Word
 *1st-level, Abjuration*  

@@ -16,7 +16,6 @@ classes:
 - Cleric
 - Paladin
 - Paladin (Oath of Devotion)
-aliases: ["Zone of Truth"]
 ---
 # Zone of Truth
 *2nd-level, Enchantment*  

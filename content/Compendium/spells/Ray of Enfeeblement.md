@@ -18,7 +18,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Warlock
 - Wizard
-aliases: ["Ray of Enfeeblement"]
 ---
 # Ray of Enfeeblement
 *2nd-level, Necromancy*  

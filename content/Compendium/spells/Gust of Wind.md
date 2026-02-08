@@ -27,7 +27,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Gust of Wind"]
 ---
 # Gust of Wind
 *2nd-level, Evocation*  

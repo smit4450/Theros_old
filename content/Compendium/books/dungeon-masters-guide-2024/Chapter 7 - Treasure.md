@@ -46,17 +46,17 @@ Gemstones are small, lightweight, and easily secured compared to their same valu
 
 If a treasure hoard includes gemstones, you can use the following tables to randomly determine the kind of gemstones found, based on their value. You can roll once and assume all the gems are the same or roll multiple times to create mixed collections.
 
-![[10-gp-gemstones-xdmg]]
+![[10 GP Gemstones]]
 
-![[50-gp-gemstones-xdmg]]
+![[50 GP Gemstones]]
 
-![[100-gp-gemstones-xdmg]]
+![[100 GP Gemstones]]
 
-![[500-gp-gemstones-xdmg]]
+![[500 GP Gemstones]]
 
-![[1000-gp-gemstones-xdmg]]
+![[1,000 GP Gemstones]]
 
-![[5000-gp-gemstones-xdmg]]
+![[5,000 GP Gemstones]]
 
 ## Art Objects
 
@@ -64,15 +64,15 @@ Idols cast of solid gold, necklaces studded with precious stones, paintings of a
 
 If a treasure hoard includes art objects, you can use the following tables to randomly determine what art objects are found, based on their value. Roll on a table as many times as there are art objects in the treasure hoard. There can be more than one of a given art object.
 
-![[25-gp-art-objects-xdmg]]
+![[25 GP Art Objects]]
 
-![[250-gp-art-objects-xdmg]]
+![[250 GP Art Objects]]
 
-![[750-gp-art-objects-xdmg]]
+![[750 GP Art Objects]]
 
-![[2500-gp-art-objects-xdmg]]
+![[2,500 GP Art Objects]]
 
-![[7500-gp-art-objects-xdmg]]
+![[7,500 GP Art Objects]]
 
 ## Magic Items
 
@@ -766,7 +766,7 @@ Use the tables in this section to randomly determine magic items the characters 
 
 ### Arcana Tables
 
-![[arcana-common-xdmg]]
+![[Arcana - Common]]
 
 ![[arcana-uncommon-xdmg]]
 

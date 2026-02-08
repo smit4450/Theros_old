@@ -15,7 +15,6 @@ classes:
 - Bard (College of Lore)
 - Bard (College of the Moon)
 - Druid
-aliases: ["Shillelagh"]
 ---
 # Shillelagh
 *cantrip, Transmutation*  

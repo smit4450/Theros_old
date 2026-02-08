@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Typhon"]
 ---
 # Typhon
 *Source: Mythic Odysseys of Theros p. 246*  

@@ -8,14 +8,6 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Sword of Life Stealing"
-- "Glaive of Life Stealing"
-- "Greatsword of Life Stealing"
-- "Longsword of Life Stealing"
-- "Rapier of Life Stealing"
-- "Scimitar of Life Stealing"
-- "Shortsword of Life Stealing"
 ---
 # Sword of Life Stealing
 *Rare (requires attunement)*  

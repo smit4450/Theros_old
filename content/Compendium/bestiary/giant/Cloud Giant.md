@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/giant
 statblock: inline
-aliases: ["Cloud Giant"]
 ---
 # Cloud Giant
 *Source: Monster Manual (2024) p. 74. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

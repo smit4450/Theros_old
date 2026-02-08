@@ -9,14 +9,6 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Sylvan Talon"
-- "Sylvan Talon Dagger"
-- "Sylvan Talon Rapier"
-- "Sylvan Talon Scimitar"
-- "Sylvan Talon Shortsword"
-- "Sylvan Talon Sickle"
-- "Sylvan Talon Spear"
 ---
 # Sylvan Talon
 *Common (requires attunement)*  
@@ -27,7 +19,7 @@ While this weapon is on your person, you understand the non-written communicatio
 
 ## Secret Message
 
-As a [Magic](Actions.md#Magic) action, you can use the weapon to cast [[Message]]. Once this property is used, it can't be used again until the next dawn.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can use the weapon to cast [[Message]]. Once this property is used, it can't be used again until the next dawn.
 
 **Variants**:
 -  [[#Sylvan Talon Dagger]]

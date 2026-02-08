@@ -24,7 +24,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Dancing Lights"]
 ---
 # Dancing Lights
 *cantrip, Illusion*  

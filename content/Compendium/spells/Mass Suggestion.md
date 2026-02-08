@@ -14,7 +14,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Mass Suggestion"]
 ---
 # Mass Suggestion
 *6th-level, Enchantment*  

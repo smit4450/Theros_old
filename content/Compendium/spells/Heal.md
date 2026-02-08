@@ -12,7 +12,6 @@ classes:
 - Bard
 - Cleric
 - Druid
-aliases: ["Heal"]
 ---
 # Heal
 *6th-level, Abjuration*  

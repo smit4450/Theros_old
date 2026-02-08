@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Cleric
-aliases: ["Planar Ally"]
 ---
 # Planar Ally
 *6th-level, Conjuration*  

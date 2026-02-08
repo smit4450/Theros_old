@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Reincarnate"]
 ---
 # Reincarnate
 *5th-level, Necromancy*  

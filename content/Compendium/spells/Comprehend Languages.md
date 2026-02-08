@@ -32,7 +32,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
-aliases: ["Comprehend Languages"]
 ---
 # Comprehend Languages
 *1st-level, Divination (ritual)*  

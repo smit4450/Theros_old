@@ -256,7 +256,7 @@ A stat block usually provides both a number and a die expression for each instan
 
 #### Multiattack
 
-Some creatures can make more than one attack when they take the [Attack](Actions.md#Attack) action. Such creatures have the Multiattack entry in the "Actions" section of their stat block. This entry details the attacks a creature can make, as well as any additional abilities it can use, as part of the [Attack](Actions.md#Attack) action.
+Some creatures can make more than one attack when they take the [Attack](Compendium/rules/actions.md#Attack) action. Such creatures have the Multiattack entry in the "Actions" section of their stat block. This entry details the attacks a creature can make, as well as any additional abilities it can use, as part of the [Attack](Compendium/rules/actions.md#Attack) action.
 
 #### Spellcasting
 
@@ -270,7 +270,7 @@ The Spellcasting trait notes whether the monster's spellcasting ignores the need
 
 ##### Casting Times of 1+ Minutes
 
-If a spell has a casting time of 1 minute or more yet is listed in a spellcasting action, the monster doesn't cast the spell in just one action unless the action's description states otherwise; the monster must take the [Magic](Actions.md#Magic) action on each of its turns and maintain [Concentration](Conditions.md#Concentration) to cast the spell, as described in the "Player's Handbook".
+If a spell has a casting time of 1 minute or more yet is listed in a spellcasting action, the monster doesn't cast the spell in just one action unless the action's description states otherwise; the monster must take the [Magic](Compendium/rules/actions.md#Magic) action on each of its turns and maintain [Concentration](Conditions.md#Concentration) to cast the spell, as described in the "Player's Handbook".
 
 ### Bonus Action
 

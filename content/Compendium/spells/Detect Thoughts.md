@@ -28,7 +28,6 @@ classes:
 - Warlock (Great Old One Patron)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Detect Thoughts"]
 ---
 # Detect Thoughts
 *2nd-level, Divination*  
@@ -39,7 +38,7 @@ aliases: ["Detect Thoughts"]
 - **Components:** V, S, M (1 Copper Piece)
 - **Duration:** Concentration, up to 1 minute
 
-You activate one of the effects below. Until the spell ends, you can activate either effect as a [Magic](Actions.md#Magic) action on your later turns.
+You activate one of the effects below. Until the spell ends, you can activate either effect as a [Magic](Compendium/rules/actions.md#Magic) action on your later turns.
 
 ## Sense Thoughts
 
@@ -51,7 +50,7 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 
 Target one creature you can see within 30 feet of yourself or one creature within 30 feet of yourself that you detected with the Sense Thoughts option. You learn what is most on the target's mind right now. If the target doesn't know any languages and isn't telepathic, you learn nothing.
 
-As a [Magic](Actions.md#Magic) action on your next turn, you can try to probe deeper into the target's mind. If you probe deeper, the target makes a Wisdom saving throw. On a failed save, you discern the target's reasoning, emotions, and something that looms large in its mind (such as a worry, love, or hate). On a successful save, the spell ends. Either way, the target knows that you are probing into its mind, and until you shift your attention away from the target's mind, the target can take an action on its turn to make an Intelligence ([Arcana](Skills.md#Arcana)) check against your spell save DC, ending the spell on a success.
+As a [Magic](Compendium/rules/actions.md#Magic) action on your next turn, you can try to probe deeper into the target's mind. If you probe deeper, the target makes a Wisdom saving throw. On a failed save, you discern the target's reasoning, emotions, and something that looms large in its mind (such as a worry, love, or hate). On a successful save, the spell ends. Either way, the target knows that you are probing into its mind, and until you shift your attention away from the target's mind, the target can take an action on its turn to make an Intelligence ([Arcana](Skills.md#Arcana)) check against your spell save DC, ending the spell on a success.
 
 ## Summary
 

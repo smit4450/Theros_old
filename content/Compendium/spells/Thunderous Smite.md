@@ -10,7 +10,6 @@ tags:
 classes:
 - Paladin
 - Paladin (Oath of the Noble Genies)
-aliases: ["Thunderous Smite"]
 ---
 # Thunderous Smite
 *1st-level, Evocation*  

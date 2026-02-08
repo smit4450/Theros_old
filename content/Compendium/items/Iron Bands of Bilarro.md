@@ -4,8 +4,6 @@ cssclasses: json5e-item
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
-aliases: 
-- "Iron Bands of Bilarro"
 ---
 # Iron Bands of Bilarro
 *Wondrous item, rare*  
@@ -13,7 +11,7 @@ aliases:
 
 - **Weight**: 1.0 lbs.
 
-This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You can take a [Magic](Actions.md#Magic) action to throw the sphere at a Huge or smaller creature you can see within 60 feet of yourself. As the sphere moves through the air, it opens into a tangle of metal bands.
+This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You can take a [Magic](Compendium/rules/actions.md#Magic) action to throw the sphere at a Huge or smaller creature you can see within 60 feet of yourself. As the sphere moves through the air, it opens into a tangle of metal bands.
 
 Make a ranged attack roll with an attack bonus equal to your Dexterity modifier plus your [[Proficiency]]. On a hit, the target has the [Restrained](Conditions.md#Restrained) condition until you take a [[Bonus Action]] to issue a command that releases it. Doing so or missing with the attack causes the bands to contract and become a sphere once more.
 

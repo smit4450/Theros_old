@@ -22,7 +22,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Color Spray"]
 ---
 # Color Spray
 *1st-level, Illusion*  

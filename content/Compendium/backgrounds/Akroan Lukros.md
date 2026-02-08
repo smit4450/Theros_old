@@ -4,7 +4,6 @@ cssclasses: json5e-background
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/frhof
-aliases: ["Flaming Fist Mercenary"]
 ---
 # Akroan Lukros
 *Source: FRHoF p. 30*  

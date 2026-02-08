@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/wand
-aliases: 
-- "Wand of Polymorph"
 ---
 # Wand of Polymorph
 *Wand, very rare (requires attunement by a spellcaster)*  

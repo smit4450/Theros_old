@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/deity/theros
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/grave
-aliases: 
-- Athreos
 ---
 # Athreos
 *Source: Mythic Odysseys of Theros p. 37* 

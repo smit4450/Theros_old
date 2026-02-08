@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Passwall"]
 ---
 # Passwall
 *5th-level, Transmutation*  

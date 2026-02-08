@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
-aliases: 
-- "Robe of the Archmagi"
 ---
 # Robe of the Archmagi
 *Wondrous item, legendary (requires attunement by a sorcerer, warlock, or wizard)*  

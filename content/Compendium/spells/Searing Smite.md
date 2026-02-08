@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/spell/school/evocation
 classes:
 - Paladin
-aliases: ["Searing Smite"]
 ---
 # Searing Smite
 *1st-level, Evocation*  

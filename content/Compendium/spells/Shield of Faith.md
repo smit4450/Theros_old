@@ -20,7 +20,6 @@ classes:
 - Cleric (War Domain)
 - Paladin
 - Paladin (Oath of Devotion)
-aliases: ["Shield of Faith"]
 ---
 # Shield of Faith
 *1st-level, Abjuration*  

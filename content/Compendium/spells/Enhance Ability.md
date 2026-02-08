@@ -26,7 +26,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Enhance Ability"]
 ---
 # Enhance Ability
 *2nd-level, Transmutation*  

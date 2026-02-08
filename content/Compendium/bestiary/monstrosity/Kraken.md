@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/gargantuan
 - ttrpg-cli/monster/type/monstrosity/titan
 statblock: inline
-aliases: ["Kraken"]
 ---
 # Kraken
 *Source: Monster Manual (2024) p. 187, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

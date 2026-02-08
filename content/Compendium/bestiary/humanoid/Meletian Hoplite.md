@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Meletian Hoplite"]
 ---
 # Meletian Hoplite
 *Source: Mythic Odysseys of Theros p. 229*  

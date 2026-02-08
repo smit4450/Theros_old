@@ -8,14 +8,6 @@ tags:
 - ttrpg-cli/item/gear/ammunition-firearm
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Ammunition of Slaying"
-- "Arrow of Slaying"
-- "Bolt of Slaying"
-- "Energy Cell of Slaying"
-- "Firearm Bullet of Slaying"
-- "Needle of Slaying"
-- "Sling Bullet of Slaying"
 ---
 # Ammunition of Slaying
 *Ammunition, very rare*  

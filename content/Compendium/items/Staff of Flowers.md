@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Staff of Flowers"
 ---
 # Staff of Flowers
 *Staff, weapon, common*  
@@ -19,7 +17,7 @@ aliases:
 - **Properties**: [Versatile](Item%20Properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-This wooden staff has 10 charges. While holding it, you can take a [Magic](Actions.md#Magic) action to expend 1 charge from the staff and cause a flower to sprout from a patch of earth or soil within 5 feet of yourself, or from the staff itself. Unless you choose a specific kind of flower, the staff creates a mild-scented daisy. The flower is harmless and nonmagical, and it grows or withers as a normal flower would.
+This wooden staff has 10 charges. While holding it, you can take a [Magic](Compendium/rules/actions.md#Magic) action to expend 1 charge from the staff and cause a flower to sprout from a patch of earth or soil within 5 feet of yourself, or from the staff itself. Unless you choose a specific kind of flower, the staff creates a mild-scented daisy. The flower is harmless and nonmagical, and it grows or withers as a normal flower would.
 
 ## Regaining Charges
 

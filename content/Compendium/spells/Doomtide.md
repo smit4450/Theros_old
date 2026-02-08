@@ -12,7 +12,6 @@ classes:
 - Bard
 - Cleric
 - Warlock
-aliases: ["Doomtide"]
 ---
 # Doomtide
 *4th-level, Conjuration*  

@@ -12,7 +12,6 @@ classes:
 - Bard
 - Druid
 - Ranger
-aliases: ["Grasping Vine"]
 ---
 # Grasping Vine
 *4th-level, Conjuration*  

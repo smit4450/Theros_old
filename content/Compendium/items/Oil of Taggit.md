@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Oil of Taggit"
 ---
 # Oil of Taggit
 *Adventuring gear, poison (contact)*  

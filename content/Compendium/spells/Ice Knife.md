@@ -23,7 +23,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Ice Knife"]
 ---
 # Ice Knife
 *1st-level, Conjuration*  

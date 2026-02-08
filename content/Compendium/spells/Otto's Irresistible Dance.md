@@ -11,7 +11,6 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Otto's Irresistible Dance"]
 ---
 # Otto's Irresistible Dance
 *6th-level, Enchantment*  

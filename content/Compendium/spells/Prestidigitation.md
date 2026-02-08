@@ -24,7 +24,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Prestidigitation"]
 ---
 # Prestidigitation
 *cantrip, Transmutation*  

@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/monster/size/gargantuan
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Phoenix"]
 ---
 # Phoenix
 *Source: Mordenkainen's Tome of Foes p. 199, Mythic Odysseys of Theros*  

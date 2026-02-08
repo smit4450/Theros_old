@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/deity/theros
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/trickery
-aliases: 
-- Erebos
 ---
 # Erebos
 *Source: Mythic Odysseys of Theros p. 43* 

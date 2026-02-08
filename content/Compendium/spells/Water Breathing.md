@@ -26,7 +26,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Water Breathing"]
 ---
 # Water Breathing
 *3rd-level, Transmutation (ritual)*  

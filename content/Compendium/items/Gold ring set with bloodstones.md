@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Gold ring set with bloodstones"
 ---
 # Gold ring set with bloodstones
 *Treasure (art object)*  

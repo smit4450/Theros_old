@@ -16,7 +16,6 @@ classes:
 - Druid
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Symbol"]
 ---
 # Symbol
 *7th-level, Abjuration*  

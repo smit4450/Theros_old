@@ -26,7 +26,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
-aliases: ["True Strike"]
 ---
 # True Strike
 *cantrip, Divination*  

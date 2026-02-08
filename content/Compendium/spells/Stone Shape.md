@@ -18,7 +18,6 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
-aliases: ["Stone Shape"]
 ---
 # Stone Shape
 *4th-level, Transmutation*  

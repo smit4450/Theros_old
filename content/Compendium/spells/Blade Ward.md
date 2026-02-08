@@ -28,7 +28,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Blade Ward"]
 ---
 # Blade Ward
 *cantrip, Abjuration*  

@@ -12,7 +12,6 @@ classes:
 - Bard
 - Druid
 - Wizard
-aliases: ["Antipathy/Sympathy"]
 ---
 # Antipathy/Sympathy
 *8th-level, Enchantment*  

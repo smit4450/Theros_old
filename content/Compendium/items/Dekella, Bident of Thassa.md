@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/artifact
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
-- "Dekella, Bident of Thassa"
 ---
 # Dekella, Bident of Thassa
 *Weapon ([[Trident]]), artifact (requires attunement)*  

@@ -16,7 +16,6 @@ classes:
 - Cleric
 - Sorcerer (Aberrant Sorcery)
 - Warlock (Archfey Patron)
-aliases: ["Calm Emotions"]
 ---
 # Calm Emotions
 *2nd-level, Enchantment*  

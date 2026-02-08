@@ -23,7 +23,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Ray of Sickness"]
 ---
 # Ray of Sickness
 *1st-level, Necromancy*  

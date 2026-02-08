@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/ring
-aliases: 
-- "Ring of Thunder Resistance"
 ---
 # Ring of Thunder Resistance
 *Ring, rare*  

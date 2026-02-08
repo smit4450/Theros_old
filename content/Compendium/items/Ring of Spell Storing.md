@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/ring
-aliases: 
-- "Ring of Spell Storing"
 ---
 # Ring of Spell Storing
 *Ring, rare (requires attunement)*  

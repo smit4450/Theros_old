@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/item/gear/ammunition
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Sling Bullets of Althemone"
 ---
 # Sling Bullets of Althemone
 *Ammunition, very rare*  

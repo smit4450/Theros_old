@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/dragon
 statblock: inline
-aliases: ["Draconic Spirit"]
 ---
 # Draconic Spirit
 *Source: Player's Handbook (2024) p. 325*  

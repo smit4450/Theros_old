@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
-aliases: 
-- "Amulet of Health"
 ---
 # Amulet of Health
 *Wondrous item, rare (requires attunement)*  

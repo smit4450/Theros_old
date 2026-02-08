@@ -14,7 +14,6 @@ classes:
 - Cleric
 - Cleric (Life Domain)
 - Paladin
-aliases: ["Death Ward"]
 ---
 # Death Ward
 *4th-level, Abjuration*  

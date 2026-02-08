@@ -4,7 +4,6 @@ cssclasses: json5e-background
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Soldier"]
 ---
 # Soldier
 *Source: Player's Handbook (2024) p. 185. Available in the Free Rules (2024)*  

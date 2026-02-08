@@ -8,14 +8,6 @@ tags:
 - ttrpg-cli/item/gear/ammunition-firearm
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "+1 Ammunition"
-- "+1 Arrow"
-- "+1 Bolt"
-- "+1 Energy Cell"
-- "+1 Firearm Bullet"
-- "+1 Needle"
-- "+1 Sling Bullet"
 ---
 # +1 Ammunition
 *Ammunition, uncommon*  

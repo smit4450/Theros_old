@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/ooze
 statblock: inline
-aliases: ["Gelatinous Cube"]
 ---
 # Gelatinous Cube
 *Source: Monster Manual (2024) p. 129. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

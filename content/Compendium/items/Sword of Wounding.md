@@ -8,14 +8,6 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Sword of Wounding"
-- "Glaive of Wounding"
-- "Greatsword of Wounding"
-- "Longsword of Wounding"
-- "Rapier of Wounding"
-- "Scimitar of Wounding"
-- "Shortsword of Wounding"
 ---
 # Sword of Wounding
 *Rare (requires attunement)*  

@@ -24,7 +24,6 @@ classes:
 - Sorcerer (Draconic Sorcery)
 - Warlock
 - Wizard
-aliases: ["Fly"]
 ---
 # Fly
 *3rd-level, Transmutation*  

@@ -14,7 +14,6 @@ classes:
 - Cleric
 - Wizard
 - Wizard (Evoker)
-aliases: ["Holy Star of Mystra"]
 ---
 # Holy Star of Mystra
 *8th-level, Evocation*  

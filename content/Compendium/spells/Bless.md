@@ -18,7 +18,6 @@ classes:
 - Cleric
 - Cleric (Life Domain)
 - Paladin
-aliases: ["Bless"]
 ---
 # Bless
 *1st-level, Enchantment*  

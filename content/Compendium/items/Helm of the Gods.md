@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
-aliases: 
-- "Helm of the Gods"
 ---
 # Helm of the Gods
 *Wondrous item, rare (requires attunement)*  

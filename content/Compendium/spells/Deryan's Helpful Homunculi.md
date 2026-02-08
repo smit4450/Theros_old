@@ -19,7 +19,6 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
-aliases: ["Deryan's Helpful Homunculi"]
 ---
 # Deryan's Helpful Homunculi
 *2nd-level, Conjuration (ritual)*  

@@ -12,7 +12,6 @@ classes:
 - Bard
 - Cleric
 - Paladin
-aliases: ["Dispel Evil and Good"]
 ---
 # Dispel Evil and Good
 *5th-level, Abjuration*  
@@ -27,11 +26,11 @@ For the duration, Celestials, Elementals, Fey, Fiends, and Undead have [[Disadva
 
 ## Break Enchantment
 
-As a [Magic](Actions.md#Magic) action, you touch a creature that is possessed by or has the [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened) condition from one or more creatures of the types above. The target is no longer possessed, [Charmed](Conditions.md#Charmed), or [Frightened](Conditions.md#Frightened) by such creatures.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you touch a creature that is possessed by or has the [Charmed](Conditions.md#Charmed) or [Frightened](Conditions.md#Frightened) condition from one or more creatures of the types above. The target is no longer possessed, [Charmed](Conditions.md#Charmed), or [Frightened](Conditions.md#Frightened) by such creatures.
 
 ## Dismissal
 
-As a [Magic](Actions.md#Magic) action, you target one creature you can see within 5 feet of you that has one of the creature types above. The target must succeed on a Charisma saving throw or be sent back to its home plane if it isn't there already. If they aren't on their home plane, Undead are sent to the Underworld, and Fey are sent to their place of origin.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you target one creature you can see within 5 feet of you that has one of the creature types above. The target must succeed on a Charisma saving throw or be sent back to its home plane if it isn't there already. If they aren't on their home plane, Undead are sent to the Underworld, and Fey are sent to their place of origin.
 
 ## Summary
 

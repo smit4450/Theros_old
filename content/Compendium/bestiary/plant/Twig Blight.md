@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/plant
 statblock: inline
-aliases: ["Twig Blight"]
 ---
 # Twig Blight
 *Source: Monster Manual (2024) p. 43, FRHoF*  

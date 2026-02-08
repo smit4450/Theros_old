@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Homunculus"]
 ---
 # Homunculus
 *Source: Monster Manual (2024) p. 172. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

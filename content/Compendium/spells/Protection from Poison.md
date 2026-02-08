@@ -18,7 +18,6 @@ classes:
 - Druid
 - Paladin
 - Ranger
-aliases: ["Protection from Poison"]
 ---
 # Protection from Poison
 *2nd-level, Abjuration*  

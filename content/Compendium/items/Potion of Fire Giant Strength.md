@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Potion of Fire Giant Strength"
 ---
 # Potion of Fire Giant Strength
 *Potion, rare*  

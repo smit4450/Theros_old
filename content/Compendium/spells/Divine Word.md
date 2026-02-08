@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Cleric
-aliases: ["Divine Word"]
 ---
 # Divine Word
 *7th-level, Evocation*  

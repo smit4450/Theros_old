@@ -22,7 +22,6 @@ classes:
 - Ranger
 - Rogue (Arcane Trickster)
 - Wizard
-aliases: ["Longstrider"]
 ---
 # Longstrider
 *1st-level, Transmutation*  

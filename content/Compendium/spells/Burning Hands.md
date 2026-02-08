@@ -27,7 +27,6 @@ classes:
 - Warlock (Fiend Patron)
 - Wizard
 - Wizard (Evoker)
-aliases: ["Burning Hands"]
 ---
 # Burning Hands
 *1st-level, Evocation*  

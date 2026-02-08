@@ -14,7 +14,6 @@ classes:
 - Druid
 - Sorcerer
 - Wizard
-aliases: ["Reverse Gravity"]
 ---
 # Reverse Gravity
 *7th-level, Transmutation*  

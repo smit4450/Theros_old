@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/shield/
-aliases: 
-- "Animated Shield"
 ---
 # Animated Shield
 *Armor ([[Compendium/items/Shield]]), very rare (requires attunement)*  

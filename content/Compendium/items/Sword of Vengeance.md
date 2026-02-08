@@ -8,14 +8,6 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Sword of Vengeance"
-- "Glaive of Vengeance"
-- "Greatsword of Vengeance"
-- "Longsword of Vengeance"
-- "Rapier of Vengeance"
-- "Scimitar of Vengeance"
-- "Shortsword of Vengeance"
 ---
 # Sword of Vengeance
 *Cursed item, uncommon (requires attunement)*  

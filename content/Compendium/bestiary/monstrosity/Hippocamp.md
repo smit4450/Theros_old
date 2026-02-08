@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Hippocamp"]
 ---
 # Hippocamp
 *Source: Mythic Odysseys of Theros p. 227*  

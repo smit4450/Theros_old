@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Bestial Spirit (Land)"]
 ---
 # Bestial Spirit (Land)
 *Source: Player's Handbook (2024) p. 323*  

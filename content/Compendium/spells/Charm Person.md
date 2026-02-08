@@ -30,7 +30,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Charm Person"]
 ---
 # Charm Person
 *1st-level, Enchantment*  

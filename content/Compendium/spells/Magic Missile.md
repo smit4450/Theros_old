@@ -21,7 +21,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Magic Missile"]
 ---
 # Magic Missile
 *1st-level, Evocation*  

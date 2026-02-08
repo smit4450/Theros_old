@@ -4,7 +4,6 @@ cssclasses: json5e-race
 tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/race/satyr
-aliases: ["Satyr"]
 ---
 # Satyr
 *Source: Mythic Odysseys of Theros p. 24*  

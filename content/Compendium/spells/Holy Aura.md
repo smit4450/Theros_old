@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Cleric
-aliases: ["Holy Aura"]
 ---
 # Holy Aura
 *8th-level, Abjuration*  

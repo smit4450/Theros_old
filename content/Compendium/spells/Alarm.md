@@ -26,7 +26,6 @@ classes:
 - Sorcerer (Clockwork Sorcery)
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Alarm"]
 ---
 # Alarm
 *1st-level, Abjuration (ritual)*  

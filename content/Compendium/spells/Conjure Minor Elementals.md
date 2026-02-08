@@ -18,7 +18,6 @@ classes:
 - Paladin (Oath of the Noble Genies)
 - Rogue (Arcane Trickster)
 - Wizard
-aliases: ["Conjure Minor Elementals"]
 ---
 # Conjure Minor Elementals
 *4th-level, Conjuration*  

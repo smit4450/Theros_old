@@ -18,7 +18,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Spellfire Storm"]
 ---
 # Spellfire Storm
 *4th-level, Evocation*  

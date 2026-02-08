@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Amphisbaena"]
 ---
 # Amphisbaena
 *Source: Ghosts of Saltmarsh p. 230, Mythic Odysseys of Theros*  

@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/scroll
-aliases: 
-- "Spell Scroll (Cantrip)"
 ---
 # Spell Scroll (Cantrip)
 *Scroll, common*  

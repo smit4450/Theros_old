@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/tool
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Disguise Kit"
 ---
 # Disguise Kit
 *Tool*  

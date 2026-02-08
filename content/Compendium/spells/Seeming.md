@@ -18,7 +18,6 @@ classes:
 - Warlock (Archfey Patron)
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Seeming"]
 ---
 # Seeming
 *5th-level, Illusion*  
@@ -35,7 +34,7 @@ You can give the same appearance or different ones to the targets. The spell can
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat.
 
-A creature that takes the [Study](Actions.md#Study) action to examine a target can make an Intelligence ([Investigation](Skills.md#Investigation)) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
+A creature that takes the [Study](Compendium/rules/actions.md#Study) action to examine a target can make an Intelligence ([Investigation](Skills.md#Investigation)) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
 **Classes**: [[Bard Spells]]; [Ranger (Gloom Stalker)](Spells%20for%20Gloom%20Stalker.md "subclass=XPHB;class=XPHB"); [[Sorcerer Spells]]; [Warlock (Archfey Patron)](Spells%20for%20Archfey%20Patron.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](Spells%20for%20Illusionist.md "subclass=XPHB;class=XPHB"); [[Wizard Spells]]
 

@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/shield/
-aliases: 
-- "+3 Shield"
 ---
 # +3 Shield
 *Armor ([[Compendium/items/Shield]]), very rare*  

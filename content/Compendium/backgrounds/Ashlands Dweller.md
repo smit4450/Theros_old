@@ -4,7 +4,6 @@ cssclasses: json5e-background
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/frhof
-aliases: ["Dead Magic Dweller"]
 ---
 # Ashlands Dweller
 *Source: FRHoF p. 28*  

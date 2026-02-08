@@ -12,7 +12,6 @@ classes:
 - Bard
 - Druid
 - Wizard
-aliases: ["Shapechange"]
 ---
 # Shapechange
 *9th-level, Transmutation*  
@@ -23,7 +22,7 @@ aliases: ["Shapechange"]
 - **Components:** V, S, M (a jade circlet worth 1,500+ GP)
 - **Duration:** Concentration, up to 1 hour
 
-You shape-shift into another creature for the duration or until you take a [Magic](Actions.md#Magic) action to shape-shift into a different eligible form. The new form must be of a creature that has a [[Challenge Rating]] no higher than your level or [[Challenge Rating]]. You must have seen the sort of creature before, and it can't be a Construct or an Undead.
+You shape-shift into another creature for the duration or until you take a [Magic](Compendium/rules/actions.md#Magic) action to shape-shift into a different eligible form. The new form must be of a creature that has a [[Challenge Rating]] no higher than your level or [[Challenge Rating]]. You must have seen the sort of creature before, and it can't be a Construct or an Undead.
 
 When you cast the spell, you gain a number of [[Temporary Hit Points]] equal to the [[Hit Points]] of the first form into which you shape-shift. These [[Temporary Hit Points]] vanish if any remain when the spell ends.
 

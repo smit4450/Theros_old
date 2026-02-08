@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/celestial
 statblock: inline
-aliases: ["Winged Bull"]
 ---
 # Winged Bull
 *Source: Mythic Odysseys of Theros p. 214*  

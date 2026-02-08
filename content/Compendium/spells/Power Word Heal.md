@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Cleric
-aliases: ["Power Word Heal"]
 ---
 # Power Word Heal
 *9th-level, Enchantment*  

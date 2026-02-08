@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Bone Naga"]
 ---
 # Bone Naga
 *Source: Monster Manual (2024) p. 53*  

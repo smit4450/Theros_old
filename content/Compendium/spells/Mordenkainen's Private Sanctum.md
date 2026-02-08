@@ -17,7 +17,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Mordenkainen's Private Sanctum"]
 ---
 # Mordenkainen's Private Sanctum
 *4th-level, Abjuration*  

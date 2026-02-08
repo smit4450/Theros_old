@@ -8,10 +8,6 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Hammer of Thunderbolts"
-- "Maul of Thunderbolts"
-- "Warhammer of Thunderbolts"
 ---
 # Hammer of Thunderbolts
 *Legendary (requires attunement)*  

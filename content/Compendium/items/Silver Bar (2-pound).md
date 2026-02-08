@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/trade-bar
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Silver Bar (2-pound)"
 ---
 # Silver Bar (2-pound)
 *Trade bar*  

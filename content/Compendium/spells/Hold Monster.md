@@ -20,7 +20,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Hold Monster"]
 ---
 # Hold Monster
 *5th-level, Enchantment*  

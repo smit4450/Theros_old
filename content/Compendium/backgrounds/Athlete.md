@@ -4,7 +4,6 @@ cssclasses: json5e-background
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/mot
-aliases: ["Athlete"]
 ---
 # Athlete
 *Source: Mythic Odysseys of Theros p. 31*  

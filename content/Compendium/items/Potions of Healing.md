@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/varies
 - ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Potions of Healing"
 ---
 # Potions of Healing
 *Potion*  

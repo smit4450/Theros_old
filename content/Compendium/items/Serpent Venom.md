@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Serpent Venom"
 ---
 # Serpent Venom
 *Adventuring gear, poison (injury)*  

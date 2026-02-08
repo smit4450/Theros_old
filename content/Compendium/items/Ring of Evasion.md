@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/ring
-aliases: 
-- "Ring of Evasion"
 ---
 # Ring of Evasion
 *Ring, rare (requires attunement)*  

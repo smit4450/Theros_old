@@ -11,7 +11,6 @@ tags:
 classes:
 - Cleric (War Domain)
 - Paladin
-aliases: ["Crusader's Mantle"]
 ---
 # Crusader's Mantle
 *3rd-level, Evocation*  

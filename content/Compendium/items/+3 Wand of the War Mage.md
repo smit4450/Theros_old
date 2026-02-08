@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/wand
-aliases: 
-- "+3 Wand of the War Mage"
 ---
 # +3 Wand of the War Mage
 *Wand, very rare (requires attunement by a spellcaster)*  

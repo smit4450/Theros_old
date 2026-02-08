@@ -12,7 +12,6 @@ classes:
 - Bard
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Guards and Wards"]
 ---
 # Guards and Wards
 *6th-level, Abjuration*  

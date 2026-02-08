@@ -21,7 +21,6 @@ classes:
 - Sorcerer
 - Warlock (Archfey Patron)
 - Wizard
-aliases: ["Blink"]
 ---
 # Blink
 *3rd-level, Transmutation*  

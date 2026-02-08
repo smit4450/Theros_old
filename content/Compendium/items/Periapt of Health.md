@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Periapt of Health"
 ---
 # Periapt of Health
 *Wondrous item, uncommon (requires attunement)*  
@@ -14,7 +12,7 @@ aliases:
 
 - **Weight**: 1.0 lbs.
 
-While wearing this pendant, you can take a [Magic](Actions.md#Magic) action to regain `2d4 + 2` [[Hit Points]]. Once used, this property can't be used again until the next dawn.
+While wearing this pendant, you can take a [Magic](Compendium/rules/actions.md#Magic) action to regain `2d4 + 2` [[Hit Points]]. Once used, this property can't be used again until the next dawn.
 
 In addition, you have [[Advantage]] on saving throws to avoid or end the [Poisoned](Conditions.md#Poisoned) condition while you wear this pendant.
 

@@ -20,7 +20,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Polymorph"]
 ---
 # Polymorph
 *4th-level, Transmutation*  

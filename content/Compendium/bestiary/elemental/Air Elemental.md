@@ -11,7 +11,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Air Elemental"]
 ---
 # Air Elemental
 *Source: Monster Manual (2024) p. 13, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

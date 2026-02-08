@@ -21,7 +21,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Divination"]
 ---
 # Divination
 *4th-level, Divination (ritual)*  

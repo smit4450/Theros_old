@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Enspelled Staff (Level 8)"
 ---
 # Enspelled Staff (Level 8)
 *Staff, weapon, legendary (requires attunement by a Spellcaster)*  

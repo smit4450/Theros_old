@@ -8,14 +8,6 @@ tags:
 - ttrpg-cli/item/gear/ammunition-firearm
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Walloping Ammunition"
-- "Walloping Arrow"
-- "Walloping Bolt"
-- "Walloping Energy Cell"
-- "Walloping Firearm Bullet"
-- "Walloping Needle"
-- "Walloping Sling Bullet"
 ---
 # Walloping Ammunition
 *Ammunition, common*  

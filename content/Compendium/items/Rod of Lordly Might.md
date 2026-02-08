@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/rod
-aliases: 
-- "Rod of Lordly Might"
 ---
 # Rod of Lordly Might
 *Rod, legendary (requires attunement)*  
@@ -38,6 +36,6 @@ When you hit a creature with a melee attack using the rod, you can force the tar
 
 ## Terrify
 
-While holding the rod, you can take a [Magic](Actions.md#Magic) action to force each creature you can see within 30 feet of yourself to make a DC 17 Wisdom saving throw. On a failed save, a target has the [Frightened](Conditions.md#Frightened) condition for 1 minute. A [Frightened](Conditions.md#Frightened) target repeats the save at the end of each of its turns, ending the effect on itself on a success. Once used, this property can't be used again until the next dawn.
+While holding the rod, you can take a [Magic](Compendium/rules/actions.md#Magic) action to force each creature you can see within 30 feet of yourself to make a DC 17 Wisdom saving throw. On a failed save, a target has the [Frightened](Conditions.md#Frightened) condition for 1 minute. A [Frightened](Conditions.md#Frightened) target repeats the save at the end of each of its turns, ending the effect on itself on a success. Once used, this property can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

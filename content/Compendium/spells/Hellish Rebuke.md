@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/spell/school/evocation
 classes:
 - Warlock
-aliases: ["Hellish Rebuke"]
 ---
 # Hellish Rebuke
 *1st-level, Evocation*  

@@ -402,7 +402,7 @@ In addition to activities involving art, commerce, politics, and religion, peopl
 
 An agora is the perfect location for adventures where roleplaying takes center stage. The characters could use the crowd as cover for a clandestine meeting or as an audience to rally to action. A simple shopping trip in an agora can turn into an adventure when a thief steals from the characters or they overhear a sinister conversation. The Agora Adventures table offers ideas for adventures that could occur in such a place.
 
-![[agora-adventures-mot]]
+![[Agora Adventures]]
 
 #### Agora Map
 
@@ -420,7 +420,7 @@ At the agora's center stands a grand fountain with a larger-than-life sculpture 
 
 An agora villain could be almost any humanoid, from a corrupt politician to a common criminal thug. Some of these folks use monsters to do their dirty work. Examples of such villains appear on the Agora Villains table.
 
-![[agora-villains-mot]]
+![[Agora Villains]]
 
 ## Erebos
 
@@ -918,7 +918,7 @@ Abandoned temples can be found across Theros. Some of these places were once hou
 
 Every abandoned temple is distinctive, combining aspects of its patron god with the result or effect of what caused it to be abandoned. You can use the Abandoned Temple Condition table to determine an abandoned temple's present state.
 
-![[abandoned-temple-condition-mot]]
+![[Abandoned Temple Condition]]
 
 ![](Compendium/books/mythic-odysseys-of-theros/img/101-04-18.webp#center)
 
@@ -928,7 +928,7 @@ An abandoned temple might contain records, special items, and humanoid remains, 
 
 The Abandoned Temple Adventures table offers ideas for adventures that could occur in such a place.
 
-![[abandoned-temple-adventures-mot]]
+![[Abandoned Temple Adventures]]
 
 #### Abandoned Temple Map
 
@@ -944,7 +944,7 @@ The halls are streaked with burn marks. Many of the rooms in this place are rubb
 
 Monsters who plot alone and criminals on the run or who engage in taboo behavior are often found in abandoned temples. Examples of such villains appear on the Abandoned Temple Villains table.
 
-![[abandoned-temple-villains-mot]]
+![[Abandoned Temple Villains]]
 
 ## Kruphix
 
@@ -1356,7 +1356,7 @@ Adventures in an amphitheater often revolve around deception. Great performances
 
 Theaters make great settings for social adventures. In a place where the rich and poor relax together, the characters can impress, blackmail, bribe, or steal from people of all walks of life. The Amphitheater Adventures table presents ideas for adventures in such a place.
 
-![[amphitheater-adventures-mot]]
+![[Amphitheater Adventures]]
 
 #### Amphitheater Map
 
@@ -1370,7 +1370,7 @@ The amphitheater shown in map 4.13 is set in a natural depression that provides 
 
 Liars, sneaks, and charmers often make their living as performers. Examples of such villains appear on the Amphitheater Villains table.
 
-![[amphitheater-villains-mot]]
+![[Amphitheater Villains]]
 
 ## Purphoros
 

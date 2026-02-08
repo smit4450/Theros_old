@@ -20,7 +20,6 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
-aliases: ["Speak with Dead"]
 ---
 # Speak with Dead
 *3rd-level, Necromancy*  

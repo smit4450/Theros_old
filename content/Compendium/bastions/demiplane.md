@@ -24,6 +24,6 @@ When you issue the "Empower" order to this facility, magical runes appear on the
 
 ## Fabrication
 
-While in the Demiplane, you can take a [Magic](Actions.md#Magic) action to create a nonmagical object of your choice from nothing, causing it to appear in an unoccupied space in the Demiplane. The object can be no bigger than 5 feet in any dimension; can't have a value over 5 GP; and must be made of wood, stone, clay, porcelain, glass, paper, nonprecious crystal, or nonprecious metal. You must finish a Long Rest before you can take this action again.
+While in the Demiplane, you can take a [Magic](Compendium/rules/actions.md#Magic) action to create a nonmagical object of your choice from nothing, causing it to appear in an unoccupied space in the Demiplane. The object can be no bigger than 5 feet in any dimension; can't have a value over 5 GP; and must be made of wood, stone, clay, porcelain, glass, paper, nonprecious crystal, or nonprecious metal. You must finish a Long Rest before you can take this action again.
 
 *Source: Dungeon Master's Guide (2024) p. 340*

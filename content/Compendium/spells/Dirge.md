@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Cleric
-aliases: ["Dirge"]
 ---
 # Dirge
 *6th-level, Enchantment*  

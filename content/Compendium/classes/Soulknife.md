@@ -76,13 +76,13 @@ If you fail an ability check using a skill or tool with which you have proficien
 
 ### Psychic Whispers (Level 3)
 
-You can establish telepathic communication between yourself and others. As a [Magic](Actions.md#Magic) action, choose one or more creatures you can see, up to a number of creatures equal to your [[Proficiency]], and then roll one Psionic Energy Die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can end the telepathic connection at any time (no action required).
+You can establish telepathic communication between yourself and others. As a [Magic](Compendium/rules/actions.md#Magic) action, choose one or more creatures you can see, up to a number of creatures equal to your [[Proficiency]], and then roll one Psionic Energy Die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can end the telepathic connection at any time (no action required).
 
 The first time you use this power after each [[Long Rest]], you don't expend the Psionic Energy Die. All other times you use the power, you expend the die.
 
 ### Psychic Blades (Level 3)
 
-You can manifest shimmering blades of psychic energy. Whenever you take the [Attack](Actions.md#Attack) action or make an [Opportunity Attack](Compendium/rules/actions.md#Opportunity Attack), you can manifest a [[Psychic Blade]] in your free hand and make the attack with that blade. The magic blade has the following traits:
+You can manifest shimmering blades of psychic energy. Whenever you take the [Attack](Compendium/rules/actions.md#Attack) action or make an [Opportunity Attack](Compendium/rules/actions.md#Opportunity Attack), you can manifest a [[Psychic Blade]] in your free hand and make the attack with that blade. The magic blade has the following traits:
 
 > [!embed-item]- Psychic Blade
 > ![[Psychic Blade]]
@@ -105,7 +105,7 @@ As a [[Bonus Action]], you manifest a [[Psychic Blade]], expend one Psionic Ener
 
 ### Psychic Veil (Level 13)
 
-You can weave a veil of psychic static to mask yourself. As a [Magic](Actions.md#Magic) action, you gain the [Invisible](Conditions.md#Invisible) condition for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.
+You can weave a veil of psychic static to mask yourself. As a [Magic](Compendium/rules/actions.md#Magic) action, you gain the [Invisible](Conditions.md#Invisible) condition for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.
 
 Once you use this feature, you can't do so again until you finish a [[Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 

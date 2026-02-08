@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
-- "Scimitar of Speed"
 ---
 # Scimitar of Speed
 *Weapon ([[Scimitar]]), very rare (requires attunement)*  

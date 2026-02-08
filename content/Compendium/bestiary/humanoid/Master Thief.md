@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Master Thief"]
 ---
 # Master Thief
 *Source: Volo's Guide to Monsters p. 216, Mythic Odysseys of Theros*  

@@ -19,7 +19,6 @@ classes:
 - Druid
 - Ranger
 - Sorcerer
-aliases: ["Water Walk"]
 ---
 # Water Walk
 *3rd-level, Transmutation (ritual)*  

@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type//titan
 statblock: inline
-aliases: ["Empyrean Iota"]
 ---
 # Empyrean Iota
 *Source: Monster Manual (2024) p. 112*  

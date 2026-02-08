@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Belt of Stone Giant Strength"
 ---
 # Belt of Stone Giant Strength
 *Wondrous item, very rare (requires attunement)*  

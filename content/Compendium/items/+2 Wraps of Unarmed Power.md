@@ -4,8 +4,6 @@ cssclasses: json5e-item
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
-aliases: 
-- "+2 Wraps of Unarmed Power"
 ---
 # +2 Wraps of Unarmed Power
 *Wondrous item, rare*  

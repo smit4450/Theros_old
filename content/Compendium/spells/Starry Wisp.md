@@ -19,7 +19,6 @@ classes:
 - Bard (College of the Moon)
 - Druid
 - Druid (Circle of the Moon)
-aliases: ["Starry Wisp"]
 ---
 # Starry Wisp
 *cantrip, Evocation*  

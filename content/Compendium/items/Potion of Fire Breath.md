@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Potion of Fire Breath"
 ---
 # Potion of Fire Breath
 *Potion, uncommon*  

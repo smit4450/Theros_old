@@ -4,7 +4,6 @@ cssclasses: json5e-background
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Noble"]
 ---
 # Noble
 *Source: Player's Handbook (2024) p. 183*  

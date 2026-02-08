@@ -10,7 +10,6 @@ tags:
 classes:
 - Paladin
 - Paladin (Oath of the Noble Genies)
-aliases: ["Banishing Smite"]
 ---
 # Banishing Smite
 *5th-level, Conjuration*  

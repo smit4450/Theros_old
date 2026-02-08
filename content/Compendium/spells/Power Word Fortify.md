@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Cleric
-aliases: ["Power Word Fortify"]
 ---
 # Power Word Fortify
 *7th-level, Enchantment*  

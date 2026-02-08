@@ -151,7 +151,7 @@ You gain the  [[Ability Score Improvement]] feat or another feat of your choice 
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [Attack](Actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn.
 
 ### Faithful Steed (Level 5)
 
@@ -177,7 +177,7 @@ You gain the  [[Ability Score Improvement]] Feat or another feat of your choice 
 
 ### Abjure Foes (Level 9)
 
-As a [Magic](Actions.md#Magic) action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your [[Holy Symbol]] or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the [Frightened](Conditions.md#Frightened) condition for 1 minute or until it takes any damage. While [Frightened](Conditions.md#Frightened) in this way, a target can do only one of the following on its turns: move, take an action, or take a [[Bonus Action]].
+As a [Magic](Compendium/rules/actions.md#Magic) action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your [[Holy Symbol]] or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the [Frightened](Conditions.md#Frightened) condition for 1 minute or until it takes any damage. While [Frightened](Conditions.md#Frightened) in this way, a target can do only one of the following on its turns: move, take an action, or take a [[Bonus Action]].
 
 ### Aura of Courage (Level 10)
 

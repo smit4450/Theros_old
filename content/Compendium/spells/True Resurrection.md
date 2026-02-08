@@ -12,7 +12,6 @@ classes:
 - Bard
 - Cleric
 - Druid
-aliases: ["True Resurrection"]
 ---
 # True Resurrection
 *9th-level, Necromancy*  

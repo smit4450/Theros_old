@@ -13,7 +13,6 @@ classes:
 - Bard
 - Sorcerer (Aberrant Sorcery)
 - Warlock (Great Old One Patron)
-aliases: ["Dissonant Whispers"]
 ---
 # Dissonant Whispers
 *1st-level, Enchantment*  

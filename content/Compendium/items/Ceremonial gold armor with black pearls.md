@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Ceremonial gold armor with black pearls"
 ---
 # Ceremonial gold armor with black pearls
 *Treasure (art object)*  

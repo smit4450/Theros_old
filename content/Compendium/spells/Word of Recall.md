@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Cleric
-aliases: ["Word of Recall"]
 ---
 # Word of Recall
 *6th-level, Conjuration*  

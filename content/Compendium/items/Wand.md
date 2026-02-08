@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Wand"
 ---
 # Wand
 *Spellcasting focus*  

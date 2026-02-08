@@ -23,7 +23,6 @@ classes:
 - Sorcerer (Draconic Sorcery)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Arcane Eye"]
 ---
 # Arcane Eye
 *4th-level, Divination*  

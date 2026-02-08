@@ -23,7 +23,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Wardaway"]
 ---
 # Wardaway
 *1st-level, Abjuration*  

@@ -12,7 +12,6 @@ classes:
 - Bard
 - Cleric
 - Druid
-aliases: ["Regenerate"]
 ---
 # Regenerate
 *7th-level, Transmutation*  

@@ -22,7 +22,6 @@ classes:
 - Sorcerer
 - Warlock (Fiend Patron)
 - Wizard
-aliases: ["Stinking Cloud"]
 ---
 # Stinking Cloud
 *3rd-level, Conjuration*  

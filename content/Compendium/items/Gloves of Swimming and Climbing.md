@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Gloves of Swimming and Climbing"
 ---
 # Gloves of Swimming and Climbing
 *Wondrous item, uncommon (requires attunement)*  

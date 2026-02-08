@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Mace of Disruption"
 ---
 # Mace of Disruption
 *Weapon ([[Mace]]), rare (requires attunement)*  

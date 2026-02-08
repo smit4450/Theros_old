@@ -12,7 +12,6 @@ classes:
 - Bard
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Simulacrum"]
 ---
 # Simulacrum
 *7th-level, Illusion*  

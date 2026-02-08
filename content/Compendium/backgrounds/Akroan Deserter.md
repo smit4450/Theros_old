@@ -4,7 +4,6 @@ cssclasses: json5e-background
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/frhof
-aliases: ["Chondathan Freebooter"]
 ---
 # Akroan Deserter
 *Source: FRHoF p. 28*  

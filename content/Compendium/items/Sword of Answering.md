@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
-- "Sword of Answering"
 ---
 # Sword of Answering
 *Weapon ([[Longsword|longsword]]ry (requires attunement)*  

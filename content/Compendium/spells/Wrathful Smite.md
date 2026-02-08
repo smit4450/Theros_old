@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/spell/school/necromancy
 classes:
 - Paladin
-aliases: ["Wrathful Smite"]
 ---
 # Wrathful Smite
 *1st-level, Necromancy*  

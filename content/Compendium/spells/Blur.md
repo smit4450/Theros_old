@@ -22,7 +22,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Blur"]
 ---
 # Blur
 *2nd-level, Illusion*  

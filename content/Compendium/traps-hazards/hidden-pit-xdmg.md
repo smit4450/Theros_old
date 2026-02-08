@@ -15,7 +15,7 @@ A creature that falls into the pit takes 3 (`1d6`) Bludgeoning damage from the f
 
 ## Detect and Disarm
 
-As a [Study](Actions.md#Study) action, a creature can examine the section of floor that forms the pit's lid and make a DC 15 Intelligence ([Investigation](Skills.md#Investigation)) check, detecting the pit on a successful check. Once the pit is detected, an Iron Spike or a similar object can be wedged between the pit's lid and the surrounding floor to prevent the lid from opening, thereby making it safe to cross. The cover can also be held shut using [[Arcane Lock]] or similar magic.
+As a [Study](Compendium/rules/actions.md#Study) action, a creature can examine the section of floor that forms the pit's lid and make a DC 15 Intelligence ([Investigation](Skills.md#Investigation)) check, detecting the pit on a successful check. Once the pit is detected, an Iron Spike or a similar object can be wedged between the pit's lid and the surrounding floor to prevent the lid from opening, thereby making it safe to cross. The cover can also be held shut using [[Arcane Lock]] or similar magic.
 
 ## Escape
 

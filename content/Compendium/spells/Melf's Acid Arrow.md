@@ -18,7 +18,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Evoker)
-aliases: ["Melf's Acid Arrow"]
 ---
 # Melf's Acid Arrow
 *2nd-level, Evocation*  

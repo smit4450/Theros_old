@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/artifact
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
-- "Akmon, Hammer of Purphoros"
 ---
 # Akmon, Hammer of Purphoros
 *Weapon ([[Warhammer]]), artifact (requires attunement)*  

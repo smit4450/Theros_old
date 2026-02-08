@@ -29,7 +29,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Fog Cloud"]
 ---
 # Fog Cloud
 *1st-level, Conjuration*  

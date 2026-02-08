@@ -4,8 +4,6 @@ cssclasses: json5e-item
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Decanter of Endless Water"
 ---
 # Decanter of Endless Water
 *Wondrous item, uncommon*  
@@ -15,7 +13,7 @@ aliases:
 
 This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.
 
-You can take a [Magic](Actions.md#Magic) action to remove the stopper and issue one of three command words, whereupon an amount of fresh water or salt water (your choice) pours out of the flask. The water stops pouring out at the start of your next turn. Choose from the following command words:
+You can take a [Magic](Compendium/rules/actions.md#Magic) action to remove the stopper and issue one of three command words, whereupon an amount of fresh water or salt water (your choice) pours out of the flask. The water stops pouring out at the start of your next turn. Choose from the following command words:
 
 - **Splash.** The decanter produces 1 gallon of water.  
 - **Fountain.** The decanter produces 5 gallons of water.  

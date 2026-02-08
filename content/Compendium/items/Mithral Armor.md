@@ -7,16 +7,6 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Mithral Armor"
-- "Mithral Breastplate"
-- "Mithral Chain Mail"
-- "Mithral Chain Shirt"
-- "Mithral Half Plate Armor"
-- "Mithral Plate Armor"
-- "Mithral Ring Mail"
-- "Mithral Scale Mail"
-- "Mithral Splint Armor"
 ---
 # Mithral Armor
 *Uncommon*  

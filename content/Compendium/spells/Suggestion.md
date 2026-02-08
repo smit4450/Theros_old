@@ -22,7 +22,6 @@ classes:
 - Warlock
 - Warlock (Fiend Patron)
 - Wizard
-aliases: ["Suggestion"]
 ---
 # Suggestion
 *2nd-level, Enchantment*  

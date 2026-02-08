@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Half Plate Armor"
 ---
 # Half Plate Armor
 *Medium armor*  

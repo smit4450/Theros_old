@@ -12,7 +12,6 @@ classes:
 - Bard
 - Sorcerer
 - Wizard
-aliases: ["Simbul's Synostodweomer"]
 ---
 # Simbul's Synostodweomer
 *7th-level, Transmutation*  

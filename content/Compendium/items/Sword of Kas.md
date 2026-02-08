@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/artifact
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
-- "Sword of Kas"
 ---
 # Sword of Kas
 *Weapon ([[Longsword|longsword]]t (requires attunement)*  

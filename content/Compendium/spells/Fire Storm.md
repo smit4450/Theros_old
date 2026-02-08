@@ -14,7 +14,6 @@ classes:
 - Cleric
 - Druid
 - Sorcerer
-aliases: ["Fire Storm"]
 ---
 # Fire Storm
 *7th-level, Evocation*  

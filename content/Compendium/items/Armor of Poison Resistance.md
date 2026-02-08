@@ -9,20 +9,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Armor of Poison Resistance"
-- "Breastplate of Poison Resistance"
-- "Chain Mail of Poison Resistance"
-- "Chain Shirt of Poison Resistance"
-- "Half Plate Armor of Poison Resistance"
-- "Hide Armor of Poison Resistance"
-- "Leather Armor of Poison Resistance"
-- "Padded Armor of Poison Resistance"
-- "Plate Armor of Poison Resistance"
-- "Ring Mail of Poison Resistance"
-- "Scale Mail of Poison Resistance"
-- "Splint Armor of Poison Resistance"
-- "Studded Leather Armor of Poison Resistance"
 ---
 # Armor of Poison Resistance
 *Rare (requires attunement)*  

@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Warlock
-aliases: ["Enthrall"]
 ---
 # Enthrall
 *2nd-level, Enchantment*  

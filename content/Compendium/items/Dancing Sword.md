@@ -8,14 +8,6 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Dancing Sword"
-- "Dancing Double-Bladed Scimitar"
-- "Dancing Greatsword"
-- "Dancing Longsword"
-- "Dancing Rapier"
-- "Dancing Scimitar"
-- "Dancing Shortsword"
 ---
 # Dancing Sword
 *Very rare (requires attunement)*  

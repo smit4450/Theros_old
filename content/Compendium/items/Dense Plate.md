@@ -7,10 +7,6 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Dwarven Plate"
-- "Dwarven Half Plate Armor"
-- "Dwarven Plate Armor"
 ---
 # Dense Plate
 *Very rare*  

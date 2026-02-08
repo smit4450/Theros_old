@@ -27,7 +27,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Poison Spray"]
 ---
 # Poison Spray
 *cantrip, Necromancy*  

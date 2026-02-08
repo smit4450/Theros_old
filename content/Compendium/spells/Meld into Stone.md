@@ -17,7 +17,6 @@ classes:
 - Cleric
 - Druid
 - Ranger
-aliases: ["Meld into Stone"]
 ---
 # Meld into Stone
 *3rd-level, Transmutation (ritual)*  

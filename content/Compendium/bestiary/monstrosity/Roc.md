@@ -12,7 +12,6 @@ tags:
 - ttrpg-cli/monster/size/gargantuan
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Roc"]
 ---
 # Roc
 *Source: Monster Manual (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Arch-hag"]
 ---
 # Arch-hag
 *Source: Monster Manual (2024) p. 21*  

@@ -24,7 +24,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Jump"]
 ---
 # Jump
 *1st-level, Transmutation*  

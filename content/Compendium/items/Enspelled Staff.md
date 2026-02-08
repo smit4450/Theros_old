@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/varies
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Enspelled Staff"
 ---
 # Enspelled Staff
 *Staff, weapon (requires attunement by a Spellcaster)*  

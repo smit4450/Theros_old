@@ -27,7 +27,6 @@ classes:
 - Ranger
 - Sorcerer (Spellfire Sorcery)
 - Warlock (Celestial Patron)
-aliases: ["Cure Wounds"]
 ---
 # Cure Wounds
 *1st-level, Abjuration*  

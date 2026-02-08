@@ -24,7 +24,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Friends"]
 ---
 # Friends
 *cantrip, Enchantment*  

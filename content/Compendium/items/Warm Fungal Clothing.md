@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Warm Fungal Clothing"
 ---
 # Warm Fungal Clothing
 *Adventuring gear*  

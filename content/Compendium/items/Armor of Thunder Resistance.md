@@ -9,20 +9,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Armor of Thunder Resistance"
-- "Breastplate of Thunder Resistance"
-- "Chain Mail of Thunder Resistance"
-- "Chain Shirt of Thunder Resistance"
-- "Half Plate Armor of Thunder Resistance"
-- "Hide Armor of Thunder Resistance"
-- "Leather Armor of Thunder Resistance"
-- "Padded Armor of Thunder Resistance"
-- "Plate Armor of Thunder Resistance"
-- "Ring Mail of Thunder Resistance"
-- "Scale Mail of Thunder Resistance"
-- "Splint Armor of Thunder Resistance"
-- "Studded Leather Armor of Thunder Resistance"
 ---
 # Armor of Thunder Resistance
 *Rare (requires attunement)*  

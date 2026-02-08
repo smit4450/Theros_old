@@ -14,7 +14,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Creation"]
 ---
 # Creation
 *5th-level, Illusion*  

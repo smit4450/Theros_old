@@ -12,7 +12,6 @@ classes:
 - Bard
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Mind Blank"]
 ---
 # Mind Blank
 *8th-level, Abjuration*  

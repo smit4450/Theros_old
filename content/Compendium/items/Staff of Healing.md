@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Staff of Healing"
 ---
 # Staff of Healing
 *Staff, weapon, rare (requires attunement by a bard, cleric, or druid)*  

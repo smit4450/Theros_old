@@ -14,7 +14,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Otiluke's Freezing Sphere"]
 ---
 # Otiluke's Freezing Sphere
 *6th-level, Evocation*  

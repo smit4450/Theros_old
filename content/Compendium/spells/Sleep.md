@@ -24,7 +24,6 @@ classes:
 - Sorcerer
 - Warlock (Archfey Patron)
 - Wizard
-aliases: ["Sleep"]
 ---
 # Sleep
 *1st-level, Enchantment*  

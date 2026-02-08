@@ -68,7 +68,7 @@ Welcome to the Mythic Odysseys of Theros campaign hub, using the 2024 edition of
 
 ### Core Mechanics Cheat Sheet
 - [[11-rules-glossary]] — official definitions straight from the 2024 rules.
-- [[Actions]]
+- [[actions]]
 - [[Conditions]]
 - [[Skills]]
 - [[Senses]]

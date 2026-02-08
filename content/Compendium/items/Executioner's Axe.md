@@ -8,12 +8,6 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Executioner's Axe"
-- "Executioner's Battleaxe"
-- "Executioner's Greataxe"
-- "Executioner's Halberd"
-- "Executioner's Handaxe"
 ---
 # Executioner's Axe
 *Very rare*  

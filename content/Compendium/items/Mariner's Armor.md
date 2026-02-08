@@ -8,20 +8,6 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Mariner's Armor"
-- "Mariner's Breastplate"
-- "Mariner's Chain Mail"
-- "Mariner's Chain Shirt"
-- "Mariner's Half Plate Armor"
-- "Mariner's Hide Armor"
-- "Mariner's Leather Armor"
-- "Mariner's Padded Armor"
-- "Mariner's Plate Armor"
-- "Mariner's Ring Mail"
-- "Mariner's Scale Mail"
-- "Mariner's Splint Armor"
-- "Mariner's Studded Leather Armor"
 ---
 # Mariner's Armor
 *Uncommon*  

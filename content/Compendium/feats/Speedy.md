@@ -17,6 +17,6 @@ You gain the following benefits.
 
 **Speed Increase.** Your [[Speed]] increases by 10 feet.
 
-**Dash over Difficult Terrain.** When you take the [Dash](Actions.md#Dash) action on your turn, [[Difficult Terrain]] doesn't cost you extra movement for the rest of that turn.
+**Dash over Difficult Terrain.** When you take the [Dash](Compendium/rules/actions.md#Dash) action on your turn, [[Difficult Terrain]] doesn't cost you extra movement for the rest of that turn.
 
 **Agile Movement.** [Opportunity Attacks](Compendium/rules/actions.md#Opportunity Attack) have [[Disadvantage]] against you.

@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Otherworldly Steed (Fiend)"]
 ---
 # Otherworldly Steed (Fiend)
 *Source: Player's Handbook (2024) p. 273*  

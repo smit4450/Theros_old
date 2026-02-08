@@ -24,7 +24,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
-aliases: ["Scrying"]
 ---
 # Scrying
 *5th-level, Divination*  

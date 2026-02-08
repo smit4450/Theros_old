@@ -16,7 +16,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Flesh to Stone"]
 ---
 # Flesh to Stone
 *6th-level, Transmutation*  

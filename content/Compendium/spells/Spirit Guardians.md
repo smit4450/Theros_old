@@ -14,7 +14,6 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Cleric (War Domain)
-aliases: ["Spirit Guardians"]
 ---
 # Spirit Guardians
 *3rd-level, Conjuration*  

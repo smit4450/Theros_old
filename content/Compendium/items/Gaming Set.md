@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/gaming-set
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Gaming Set"
 ---
 # Gaming Set
 *Gaming set*  

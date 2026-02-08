@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/rod
-aliases: 
-- "Rod of Absorption"
 ---
 # Rod of Absorption
 *Rod, very rare (requires attunement)*  

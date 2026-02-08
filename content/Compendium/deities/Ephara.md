@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/deity/theros
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/light
-aliases: 
-- Ephara
 ---
 # Ephara
 *Source: Mythic Odysseys of Theros p. 40* 

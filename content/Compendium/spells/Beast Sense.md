@@ -18,7 +18,6 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
-aliases: ["Beast Sense"]
 ---
 # Beast Sense
 *2nd-level, Divination (ritual)*  

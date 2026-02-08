@@ -24,7 +24,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Fire Bolt"]
 ---
 # Fire Bolt
 *cantrip, Evocation*  

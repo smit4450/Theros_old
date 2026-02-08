@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/artisans-tools
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Brewer's Supplies"
 ---
 # Brewer's Supplies
 *Artisan's tools*  

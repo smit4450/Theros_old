@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Oil of Sharpness"
 ---
 # Oil of Sharpness
 *Potion, very rare*  

@@ -31,7 +31,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Mending"]
 ---
 # Mending
 *cantrip, Transmutation*  

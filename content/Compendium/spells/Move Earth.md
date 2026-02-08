@@ -14,7 +14,6 @@ classes:
 - Druid
 - Sorcerer
 - Wizard
-aliases: ["Move Earth"]
 ---
 # Move Earth
 *6th-level, Transmutation*  

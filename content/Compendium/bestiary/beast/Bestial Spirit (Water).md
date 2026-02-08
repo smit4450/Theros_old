@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Bestial Spirit (Water)"]
 ---
 # Bestial Spirit (Water)
 *Source: Player's Handbook (2024) p. 323*  

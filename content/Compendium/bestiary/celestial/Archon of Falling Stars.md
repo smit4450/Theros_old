@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/celestial
 statblock: inline
-aliases: ["Archon of Falling Stars"]
 ---
 # Archon of Falling Stars
 *Source: Mythic Odysseys of Theros p. 212*  

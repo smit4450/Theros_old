@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/wand
-aliases: 
-- "Wand of Web"
 ---
 # Wand of Web
 *Wand, uncommon (requires attunement by a spellcaster)*  

@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/varies
-aliases: 
-- "Belt of Giant Strength"
 ---
 # Belt of Giant Strength
 *Wondrous item (requires attunement)*  

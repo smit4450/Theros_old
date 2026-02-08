@@ -14,7 +14,6 @@ classes:
 - Cleric
 - Paladin (Oath of Devotion)
 - Warlock (Celestial Patron)
-aliases: ["Guardian of Faith"]
 ---
 # Guardian of Faith
 *4th-level, Conjuration*  

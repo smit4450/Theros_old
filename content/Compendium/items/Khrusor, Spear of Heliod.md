@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/artifact
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Khrusor, Spear of Heliod"
 ---
 # Khrusor, Spear of Heliod
 *Weapon ([[Spear]]), artifact (requires attunement)*  

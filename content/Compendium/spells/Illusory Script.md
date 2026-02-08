@@ -25,7 +25,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Illusory Script"]
 ---
 # Illusory Script
 *1st-level, Illusion (ritual)*  

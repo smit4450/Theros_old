@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
-aliases: 
-- "Cloak of Displacement"
 ---
 # Cloak of Displacement
 *Wondrous item, rare (requires attunement)*  

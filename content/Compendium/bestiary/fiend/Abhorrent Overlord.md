@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Abhorrent Overlord"]
 ---
 # Abhorrent Overlord
 *Source: Mythic Odysseys of Theros p. 219*  

@@ -22,7 +22,6 @@ classes:
 - Paladin
 - Ranger
 - Warlock (Celestial Patron)
-aliases: ["Revivify"]
 ---
 # Revivify
 *3rd-level, Necromancy*  

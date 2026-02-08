@@ -23,7 +23,6 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
-aliases: ["Find Familiar"]
 ---
 # Find Familiar
 *1st-level, Conjuration (ritual)*  
@@ -48,7 +47,7 @@ The familiar is an ally to you and your allies. It rolls its own [[Initiative]] 
 
 ## Disappearance of the Familiar
 
-When the familiar drops to 0 [[Hit Points]], it disappears. It reappears after you cast this spell again. As a [Magic](Actions.md#Magic) action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a [Magic](Actions.md#Magic) action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 30 feet of you. Whenever the familiar drops to 0 [[Hit Points]] or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
+When the familiar drops to 0 [[Hit Points]], it disappears. It reappears after you cast this spell again. As a [Magic](Compendium/rules/actions.md#Magic) action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a [Magic](Compendium/rules/actions.md#Magic) action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 30 feet of you. Whenever the familiar drops to 0 [[Hit Points]] or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
 
 ## One Familiar Only
 

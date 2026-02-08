@@ -22,7 +22,6 @@ classes:
 - Sorcerer (Draconic Sorcery)
 - Warlock
 - Wizard
-aliases: ["Charm Monster"]
 ---
 # Charm Monster
 *4th-level, Enchantment*  

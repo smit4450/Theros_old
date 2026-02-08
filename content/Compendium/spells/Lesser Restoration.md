@@ -26,7 +26,6 @@ classes:
 - Sorcerer (Clockwork Sorcery)
 - Sorcerer (Spellfire Sorcery)
 - Warlock (Celestial Patron)
-aliases: ["Lesser Restoration"]
 ---
 # Lesser Restoration
 *2nd-level, Abjuration*  

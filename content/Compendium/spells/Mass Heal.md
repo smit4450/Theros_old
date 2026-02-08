@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Cleric
-aliases: ["Mass Heal"]
 ---
 # Mass Heal
 *9th-level, Abjuration*  

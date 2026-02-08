@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
-aliases: 
-- "Instrument of the Bards, Canaith Mandolin"
 ---
 # Instrument of the Bards, Canaith Mandolin
 *Wondrous item, rare (requires attunement by a bard)*  

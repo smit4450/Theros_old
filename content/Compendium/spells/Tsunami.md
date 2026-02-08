@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Tsunami"]
 ---
 # Tsunami
 *8th-level, Conjuration*  

@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Storm of Vengeance"]
 ---
 # Storm of Vengeance
 *9th-level, Conjuration*  

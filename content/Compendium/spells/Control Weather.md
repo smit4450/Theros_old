@@ -14,7 +14,6 @@ classes:
 - Cleric
 - Druid
 - Wizard
-aliases: ["Control Weather"]
 ---
 # Control Weather
 *8th-level, Transmutation*  

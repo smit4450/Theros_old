@@ -8,8 +8,6 @@ tags:
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/life
-aliases: 
-- Pharika
 ---
 # Pharika
 *Source: Mythic Odysseys of Theros p. 70* 

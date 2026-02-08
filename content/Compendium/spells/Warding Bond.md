@@ -14,7 +14,6 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Paladin
-aliases: ["Warding Bond"]
 ---
 # Warding Bond
 *2nd-level, Abjuration*  

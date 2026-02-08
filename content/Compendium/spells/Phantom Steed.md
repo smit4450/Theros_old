@@ -19,7 +19,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Phantom Steed"]
 ---
 # Phantom Steed
 *3rd-level, Illusion (ritual)*  

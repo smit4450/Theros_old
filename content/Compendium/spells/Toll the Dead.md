@@ -23,7 +23,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Warlock
 - Wizard
-aliases: ["Toll the Dead"]
 ---
 # Toll the Dead
 *cantrip, Necromancy*  

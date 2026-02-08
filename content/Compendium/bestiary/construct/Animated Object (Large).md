@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/unknown
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Animated Object (Large)"]
 ---
 # Animated Object (Large)
 *Source: Player's Handbook (2024) p. 240*  

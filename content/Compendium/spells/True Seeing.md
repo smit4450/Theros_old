@@ -18,7 +18,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
-aliases: ["True Seeing"]
 ---
 # True Seeing
 *6th-level, Divination*  

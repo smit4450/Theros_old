@@ -14,7 +14,6 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
-aliases: ["Speak with Plants"]
 ---
 # Speak with Plants
 *3rd-level, Transmutation*  

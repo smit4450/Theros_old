@@ -30,7 +30,6 @@ classes:
 - Warlock (Celestial Patron)
 - Wizard
 - Wizard (Evoker)
-aliases: ["Light"]
 ---
 # Light
 *cantrip, Evocation*  

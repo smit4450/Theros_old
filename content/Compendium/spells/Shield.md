@@ -21,7 +21,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Shield"]
 ---
 # Shield
 *1st-level, Abjuration*  

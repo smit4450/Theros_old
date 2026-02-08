@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/artifact
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Ephixis, Bow of Nylea"
 ---
 # Ephixis, Bow of Nylea
 *Weapon ([[Shortbow]]), artifact (requires attunement)*  

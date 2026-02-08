@@ -14,7 +14,6 @@ classes:
 - Druid
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Mirage Arcane"]
 ---
 # Mirage Arcane
 *7th-level, Illusion*  

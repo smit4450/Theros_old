@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Cleric
-aliases: ["Hallow"]
 ---
 # Hallow
 *5th-level, Abjuration*  

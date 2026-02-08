@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid/triton
 statblock: inline
-aliases: ["Triton Shorestalker"]
 ---
 # Triton Shorestalker
 *Source: Mythic Odysseys of Theros p. 244*  

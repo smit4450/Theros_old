@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/spell/school/transmutation
 classes:
 - Ranger
-aliases: ["Lightning Arrow"]
 ---
 # Lightning Arrow
 *3rd-level, Transmutation*  

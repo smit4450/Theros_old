@@ -13,7 +13,6 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/giant
 statblock: inline
-aliases: ["Cyclops Sentry"]
 ---
 # Cyclops Sentry
 *Source: Monster Manual (2024) p. 88*  

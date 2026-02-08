@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Gold-Forged Sentinel"]
 ---
 # Gold-Forged Sentinel
 *Source: Mythic Odysseys of Theros p. 211*  

@@ -12,7 +12,6 @@ classes:
 - Sorcerer (Aberrant Sorcery)
 - Warlock
 - Warlock (Great Old One Patron)
-aliases: ["Hunger of Hadar"]
 ---
 # Hunger of Hadar
 *3rd-level, Conjuration*  

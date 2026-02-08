@@ -12,7 +12,6 @@ tags:
 classes:
 - Paladin (Oath of Vengeance)
 - Ranger
-aliases: ["Hunter's Mark"]
 ---
 # Hunter's Mark
 *1st-level, Divination*  

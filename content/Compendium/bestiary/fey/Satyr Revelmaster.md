@@ -10,7 +10,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Satyr Revelmaster"]
 ---
 # Satyr Revelmaster
 *Source: Monster Manual (2024) p. 268*  

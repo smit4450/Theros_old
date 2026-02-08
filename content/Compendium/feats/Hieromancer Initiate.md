@@ -13,7 +13,7 @@ tags:
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 
-**Ward.** If a spell attack hits you or you fail a saving throw against a spell, you can take a [[Reaction]] to roll on the Hieromancer Initiate [Magic](Actions.md#Magic) table to create a magical effect. If an effect requires a saving throw, the DC equals 8 plus the modifier of the ability increased by this feat and your [[Proficiency]].
+**Ward.** If a spell attack hits you or you fail a saving throw against a spell, you can take a [[Reaction]] to roll on the Hieromancer Initiate [Magic](Compendium/rules/actions.md#Magic) table to create a magical effect. If an effect requires a saving throw, the DC equals 8 plus the modifier of the ability increased by this feat and your [[Proficiency]].
 
 You can use this benefit a number of times equal to your [[Proficiency]], and you regain all expended uses when you finish a [[Long Rest]].
 

@@ -16,7 +16,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer (Aberrant Sorcery)
 - Wizard
-aliases: ["Evard's Black Tentacles"]
 ---
 # Evard's Black Tentacles
 *4th-level, Conjuration*  

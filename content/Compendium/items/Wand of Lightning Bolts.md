@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/wand
-aliases: 
-- "Wand of Lightning Bolts"
 ---
 # Wand of Lightning Bolts
 *Wand, rare (requires attunement by a spellcaster)*  

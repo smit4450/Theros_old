@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/ring
-aliases: 
-- "Ring of Spell Turning"
 ---
 # Ring of Spell Turning
 *Ring, legendary (requires attunement)*  

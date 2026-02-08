@@ -12,7 +12,6 @@ classes:
 - Bard
 - Druid
 - Warlock
-aliases: ["Conjure Fey"]
 ---
 # Conjure Fey
 *6th-level, Conjuration*  

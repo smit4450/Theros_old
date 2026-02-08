@@ -26,7 +26,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Ray of Frost"]
 ---
 # Ray of Frost
 *cantrip, Evocation*  

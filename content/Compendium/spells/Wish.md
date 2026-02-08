@@ -12,7 +12,6 @@ classes:
 - Bard
 - Sorcerer
 - Wizard
-aliases: ["Wish"]
 ---
 # Wish
 *9th-level, Conjuration*  

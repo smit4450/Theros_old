@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/varies
 - ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Potion of Giant Strength"
 ---
 # Potion of Giant Strength
 *Potion*  

@@ -4,8 +4,6 @@ cssclasses: json5e-item
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Helm of Comprehending Languages"
 ---
 # Helm of Comprehending Languages
 *Wondrous item, uncommon*  

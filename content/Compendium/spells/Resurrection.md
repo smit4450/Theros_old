@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Cleric
-aliases: ["Resurrection"]
 ---
 # Resurrection
 *7th-level, Necromancy*  

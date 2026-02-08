@@ -18,7 +18,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Elminster's Elusion"]
 ---
 # Elminster's Elusion
 *2nd-level, Abjuration*  

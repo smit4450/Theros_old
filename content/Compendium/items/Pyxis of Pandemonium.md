@@ -4,8 +4,6 @@ cssclasses: json5e-item
 tags:
 - ttrpg-cli/compendium/src/5e/mot
 - ttrpg-cli/item/rarity/legendary
-aliases: 
-- "Pyxis of Pandemonium"
 ---
 # Pyxis of Pandemonium
 *Wondrous item, cursed item, legendary*  
@@ -23,7 +21,7 @@ Any creature that gains the benefit of a short rest from the vessel hears cloyin
 
 | dice: d8 | Calamity |
 |----------|----------|
-| 1 | **Androphagia.** Each creature within 60 feet of the vessel must succeed on a DC 17 Wisdom saving throw or go berserk for 1 minute. The berserk creature must begin its turn using the [Attack](Actions.md#Attack) action to make one melee or ranged attack (its choice) against the creature nearest to it. The berserk creature can repeat the save at the end of its turn, ending the effect on itself on a success. |
+| 1 | **Androphagia.** Each creature within 60 feet of the vessel must succeed on a DC 17 Wisdom saving throw or go berserk for 1 minute. The berserk creature must begin its turn using the [Attack](Compendium/rules/actions.md#Attack) action to make one melee or ranged attack (its choice) against the creature nearest to it. The berserk creature can repeat the save at the end of its turn, ending the effect on itself on a success. |
 | 2 | **Bile Blight.** The vessel casts the [[Harm]] spell on each creature within 30 feet of it. |
 | 3 | **Flood.** The vessel casts the [[Tsunami]] spell at a point of the DM's choice within 120 feet of it. |
 | 4 | **Medusa's Gaze.** The vessel casts the [[Flesh to Stone]] spell on each creature within 30 feet of it. |

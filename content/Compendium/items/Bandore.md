@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/frhof
 - ttrpg-cli/item/gear/instrument
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Bandore"
 ---
 # Bandore
 *Instrument*  

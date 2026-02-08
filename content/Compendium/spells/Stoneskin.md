@@ -22,7 +22,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Stoneskin"]
 ---
 # Stoneskin
 *4th-level, Transmutation*  

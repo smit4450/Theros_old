@@ -14,7 +14,6 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Paladin (Oath of Devotion)
-aliases: ["Beacon of Hope"]
 ---
 # Beacon of Hope
 *3rd-level, Abjuration*  

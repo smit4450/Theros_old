@@ -9,20 +9,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Demon Armor"
-- "Demon Breastplate"
-- "Demon Chain Mail"
-- "Demon Chain Shirt"
-- "Demon Half Plate Armor"
-- "Demon Hide Armor"
-- "Demon Leather Armor"
-- "Demon Padded Armor"
-- "Demon Plate Armor"
-- "Demon Ring Mail"
-- "Demon Scale Mail"
-- "Demon Splint Armor"
-- "Demon Studded Leather Armor"
 ---
 # Demon Armor
 *Cursed item, very rare (requires attunement)*  

@@ -22,7 +22,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Warlock
 - Wizard
-aliases: ["Unseen Servant"]
 ---
 # Unseen Servant
 *1st-level, Conjuration (ritual)*  

@@ -16,7 +16,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Synaptic Static"]
 ---
 # Synaptic Static
 *5th-level, Enchantment*  

@@ -12,7 +12,6 @@ classes:
 - Bard
 - Sorcerer
 - Wizard
-aliases: ["Teleport"]
 ---
 # Teleport
 *7th-level, Conjuration*  

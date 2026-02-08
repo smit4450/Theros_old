@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Lute of Thunderous Thumping"
 ---
 # Lute of Thunderous Thumping
 *Weapon [[Club|club]] very rare*  

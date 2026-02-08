@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
-aliases: 
-- "Helm of Teleportation"
 ---
 # Helm of Teleportation
 *Wondrous item, rare (requires attunement)*  

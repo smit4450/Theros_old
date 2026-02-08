@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Undead Spirit"]
 ---
 # Undead Spirit
 *Source: Player's Handbook (2024) p. 328*  

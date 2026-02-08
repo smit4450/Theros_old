@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Elemental Spirit (Earth)"]
 ---
 # Elemental Spirit (Earth)
 *Source: Player's Handbook (2024) p. 325*  

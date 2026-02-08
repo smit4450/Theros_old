@@ -12,7 +12,6 @@ classes:
 - Bard
 - Cleric
 - Druid
-aliases: ["Contagion"]
 ---
 # Contagion
 *5th-level, Necromancy*  

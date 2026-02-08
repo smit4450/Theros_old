@@ -24,7 +24,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Counterspell"]
 ---
 # Counterspell
 *3rd-level, Abjuration*  

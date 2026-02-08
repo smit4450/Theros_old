@@ -10,7 +10,6 @@ tags:
 classes:
 - Paladin (Oath of the Ancients)
 - Ranger
-aliases: ["Ensnaring Strike"]
 ---
 # Ensnaring Strike
 *1st-level, Conjuration*  

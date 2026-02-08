@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Smoke Mephit"]
 ---
 # Smoke Mephit
 *Source: Monster Manual (2024) p. 208*  

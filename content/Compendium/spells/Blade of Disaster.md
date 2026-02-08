@@ -14,7 +14,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Blade of Disaster"]
 ---
 # Blade of Disaster
 *9th-level, Conjuration*  

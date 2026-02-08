@@ -76,7 +76,7 @@ You can draw on your Underworld connection to empower your teleportation. When y
 
 ### Cloak of Shadows (Level 17)
 
-As a [Magic](Actions.md#Magic) action while entirely within [[Dim Light]] or [[Compendium/spells/Darkness]], you can expend 3 Focus Points to shroud yourself with shadows for 1 minute, until you have the [Incapacitated](Conditions.md#Incapacitated) condition, or until you end your turn in [[Bright Light]]. While shrouded by these shadows, you gain the following benefits.
+As a [Magic](Compendium/rules/actions.md#Magic) action while entirely within [[Dim Light]] or [[Compendium/spells/Darkness]], you can expend 3 Focus Points to shroud yourself with shadows for 1 minute, until you have the [Incapacitated](Conditions.md#Incapacitated) condition, or until you end your turn in [[Bright Light]]. While shrouded by these shadows, you gain the following benefits.
 
 #### Invisibility
 

@@ -18,7 +18,6 @@ classes:
 - Paladin
 - Warlock (Fiend Patron)
 - Wizard
-aliases: ["Geas"]
 ---
 # Geas
 *5th-level, Enchantment*  

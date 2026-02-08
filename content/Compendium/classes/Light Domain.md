@@ -69,7 +69,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ### Radiance of the Dawn (Level 3)
 
-As a [Magic](Actions.md#Magic) action, you present your [[Holy Symbol]] and expend a use of your Channel Divinity to emit a flash of light in a 30-foot [[Emanation (Area of Effect)]] originating from yourself. Any magical [[Compendium/spells/Darkness]]—such as that created by the [[Compendium/spells/Darkness]] spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to `2d10` plus your Cleric level on a failed save or half as much damage on a successful one.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you present your [[Holy Symbol]] and expend a use of your Channel Divinity to emit a flash of light in a 30-foot [[Emanation (Area of Effect)]] originating from yourself. Any magical [[Compendium/spells/Darkness]]—such as that created by the [[Compendium/spells/Darkness]] spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to `2d10` plus your Cleric level on a failed save or half as much damage on a successful one.
 
 ### Warding Flare (Level 3)
 
@@ -85,6 +85,6 @@ In addition, whenever you use Warding Flare, you can give the target of the trig
 
 ### Corona of Light (Level 17)
 
-As a [Magic](Actions.md#Magic) action, you cause yourself to emit an aura of sunlight that lasts for 1 minute or until you dismiss it (no action required). You emit [[Bright Light]] in a 60-foot radius and [[Dim Light]] for an additional 30 feet. Your enemies in the [[Bright Light]] have [[Disadvantage]] on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage.
+As a [Magic](Compendium/rules/actions.md#Magic) action, you cause yourself to emit an aura of sunlight that lasts for 1 minute or until you dismiss it (no action required). You emit [[Bright Light]] in a 60-foot radius and [[Dim Light]] for an additional 30 feet. Your enemies in the [[Bright Light]] have [[Disadvantage]] on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].

@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
 statblock: inline
-aliases: ["Nothic"]
 ---
 # Nothic
 *Source: Monster Manual (2024) p. 228. Available in the Free Rules (2024)*  

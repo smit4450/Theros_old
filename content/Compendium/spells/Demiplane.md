@@ -14,7 +14,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Demiplane"]
 ---
 # Demiplane
 *8th-level, Conjuration*  

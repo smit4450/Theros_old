@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/aberration
 statblock: inline
-aliases: ["Woe Strider"]
 ---
 # Woe Strider
 *Source: Mythic Odysseys of Theros p. 247*  

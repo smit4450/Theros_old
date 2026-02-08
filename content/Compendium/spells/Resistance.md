@@ -18,7 +18,6 @@ classes:
 - Bard (College of the Moon)
 - Cleric
 - Druid
-aliases: ["Resistance"]
 ---
 # Resistance
 *cantrip, Abjuration*  

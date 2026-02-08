@@ -12,7 +12,6 @@ classes:
 - Bard
 - Cleric
 - Druid
-aliases: ["Heroes' Feast"]
 ---
 # Heroes' Feast
 *6th-level, Conjuration*  

@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Phylaskia"]
 ---
 # Phylaskia
 *Source: Mythic Odysseys of Theros p. 239*  

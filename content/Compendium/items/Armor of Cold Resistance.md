@@ -9,20 +9,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Armor of Cold Resistance"
-- "Breastplate of Cold Resistance"
-- "Chain Mail of Cold Resistance"
-- "Chain Shirt of Cold Resistance"
-- "Half Plate Armor of Cold Resistance"
-- "Hide Armor of Cold Resistance"
-- "Leather Armor of Cold Resistance"
-- "Padded Armor of Cold Resistance"
-- "Plate Armor of Cold Resistance"
-- "Ring Mail of Cold Resistance"
-- "Scale Mail of Cold Resistance"
-- "Splint Armor of Cold Resistance"
-- "Studded Leather Armor of Cold Resistance"
 ---
 # Armor of Cold Resistance
 *Rare (requires attunement)*  

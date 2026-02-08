@@ -22,7 +22,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Blight"]
 ---
 # Blight
 *4th-level, Necromancy*  

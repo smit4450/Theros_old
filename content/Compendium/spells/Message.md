@@ -27,7 +27,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Message"]
 ---
 # Message
 *cantrip, Transmutation*  

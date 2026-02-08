@@ -25,7 +25,6 @@ classes:
 - Ranger
 - Sorcerer
 - Warlock (Celestial Patron)
-aliases: ["Daylight"]
 ---
 # Daylight
 *3rd-level, Evocation*  

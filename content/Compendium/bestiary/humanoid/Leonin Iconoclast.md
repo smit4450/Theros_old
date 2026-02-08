@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid/leonin
 statblock: inline
-aliases: ["Leonin Iconoclast"]
 ---
 # Leonin Iconoclast
 *Source: Mythic Odysseys of Theros p. 232*  

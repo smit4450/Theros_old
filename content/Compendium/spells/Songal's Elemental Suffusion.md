@@ -14,7 +14,6 @@ classes:
 - Druid
 - Sorcerer
 - Wizard
-aliases: ["Songal's Elemental Suffusion"]
 ---
 # Songal's Elemental Suffusion
 *5th-level, Transmutation*  

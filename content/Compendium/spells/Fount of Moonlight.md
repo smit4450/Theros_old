@@ -12,7 +12,6 @@ classes:
 - Bard
 - Druid
 - Druid (Circle of the Moon)
-aliases: ["Fount of Moonlight"]
 ---
 # Fount of Moonlight
 *4th-level, Evocation*  

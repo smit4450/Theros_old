@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/spell/school/evocation
 classes:
 - Warlock
-aliases: ["Eldritch Blast"]
 ---
 # Eldritch Blast
 *cantrip, Evocation*  

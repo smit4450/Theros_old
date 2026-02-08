@@ -13,7 +13,6 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Hawk"]
 ---
 # Hawk
 *Source: Monster Manual (2024) p. 362, Player's Handbook (2024) p. 352, FRHoF. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

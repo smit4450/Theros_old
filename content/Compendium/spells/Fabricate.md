@@ -14,7 +14,6 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
-aliases: ["Fabricate"]
 ---
 # Fabricate
 *4th-level, Transmutation*  

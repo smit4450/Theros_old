@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/scroll
-aliases: 
-- "Spell Scroll (Level 8)"
 ---
 # Spell Scroll (Level 8)
 *Scroll, very rare*  

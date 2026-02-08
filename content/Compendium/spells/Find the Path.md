@@ -12,7 +12,6 @@ classes:
 - Bard
 - Cleric
 - Druid
-aliases: ["Find the Path"]
 ---
 # Find the Path
 *6th-level, Divination*  

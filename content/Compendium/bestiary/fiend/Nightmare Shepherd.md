@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Nightmare Shepherd"]
 ---
 # Nightmare Shepherd
 *Source: Mythic Odysseys of Theros p. 221*  

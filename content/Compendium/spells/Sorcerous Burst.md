@@ -9,7 +9,6 @@ tags:
 - ttrpg-cli/spell/school/evocation
 classes:
 - Sorcerer
-aliases: ["Sorcerous Burst"]
 ---
 # Sorcerous Burst
 *cantrip, Evocation*  

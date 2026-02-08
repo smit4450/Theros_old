@@ -14,7 +14,6 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Power Word Kill"]
 ---
 # Power Word Kill
 *9th-level, Enchantment*  

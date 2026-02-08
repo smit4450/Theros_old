@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Magic Jar"]
 ---
 # Magic Jar
 *6th-level, Necromancy*  
@@ -29,7 +28,7 @@ Once you possess a creature's body, you control it. Your [[Hit Points]], [[Hit P
 
 Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move and it is [Incapacitated](Conditions.md#Incapacitated).
 
-While possessing a body, you can take a [Magic](Actions.md#Magic) action to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you make a Charisma saving throw against your own spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.
+While possessing a body, you can take a [Magic](Compendium/rules/actions.md#Magic) action to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you make a Charisma saving throw against your own spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.
 
 If the container is destroyed or the spell ends, your soul returns to your body. If your body is more than 100 feet away from you or if your body is dead, you die. If another creature's soul is in the container when it is destroyed, the creature's soul returns to its body if the body is alive and within 100 feet. Otherwise, that creature dies.
 

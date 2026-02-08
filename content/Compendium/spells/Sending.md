@@ -22,7 +22,6 @@ classes:
 - Sorcerer (Aberrant Sorcery)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Sending"]
 ---
 # Sending
 *3rd-level, Divination*  

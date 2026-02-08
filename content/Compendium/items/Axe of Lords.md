@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/artifact
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
-- "Axe of the Dwarvish Lords"
 ---
 # Axe of Lords
 *Weapon ([[battleaxe-xphb]]), artifact (requires attunement)*  
@@ -47,7 +45,7 @@ While attuned to the axe, you gain the following benefits:
 
 ## Conjure Earth Elemental
 
-While holding the axe, you can take a [Magic](Actions.md#Magic) action to summon an [[Earth Elemental]]. It appears in an unoccupied space you choose within 30 feet of yourself, understands your languages, obeys your commands, and takes its turn immediately after you on your [[Initiative]] count. The elemental disappears after 24 hours, when it dies, or when you dismiss it as a [[Bonus Action]]. You can't use this property again until the next dawn.
+While holding the axe, you can take a [Magic](Compendium/rules/actions.md#Magic) action to summon an [[Earth Elemental]]. It appears in an unoccupied space you choose within 30 feet of yourself, understands your languages, obeys your commands, and takes its turn immediately after you on your [[Initiative]] count. The elemental disappears after 24 hours, when it dies, or when you dismiss it as a [[Bonus Action]]. You can't use this property again until the next dawn.
 
 ## Random Properties
 
@@ -59,7 +57,7 @@ The axe has the following random properties:
 
 ## Travel the Depths
 
-You can take a [Magic](Actions.md#Magic) action to touch the axe to a fixed piece of dwarven stonework and cast [[Teleport]] from the axe. If your intended destination is underground, there is no chance of a mishap or arriving somewhere unexpected. You can't use this property again until 3 days have passed.
+You can take a [Magic](Compendium/rules/actions.md#Magic) action to touch the axe to a fixed piece of dwarven stonework and cast [[Teleport]] from the axe. If your intended destination is underground, there is no chance of a mishap or arriving somewhere unexpected. You can't use this property again until 3 days have passed.
 
 ## Destroying the Axe
 

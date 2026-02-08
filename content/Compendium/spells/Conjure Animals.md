@@ -16,7 +16,6 @@ classes:
 - Druid
 - Druid (Circle of the Moon)
 - Ranger
-aliases: ["Conjure Animals"]
 ---
 # Conjure Animals
 *3rd-level, Conjuration*  

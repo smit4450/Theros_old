@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Enspelled Staff (Level 4)"
 ---
 # Enspelled Staff (Level 4)
 *Staff, weapon, very rare (requires attunement by a Spellcaster)*  

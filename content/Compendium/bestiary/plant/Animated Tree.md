@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/plant
 statblock: inline
-aliases: ["Animated Tree"]
 ---
 # Animated Tree
 *Source: Explorer's Guide to Wildemount p. 130, Mythic Odysseys of Theros*  

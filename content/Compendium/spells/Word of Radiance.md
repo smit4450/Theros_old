@@ -13,7 +13,6 @@ tags:
 classes:
 - Bard (College of Lore)
 - Cleric
-aliases: ["Word of Radiance"]
 ---
 # Word of Radiance
 *cantrip, Evocation*  

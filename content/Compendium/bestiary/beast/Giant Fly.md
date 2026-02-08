@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Giant Fly"]
 ---
 # Giant Fly
 *Source: Dungeon Master's Guide (2024) p. 261*  

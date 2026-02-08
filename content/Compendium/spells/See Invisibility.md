@@ -22,7 +22,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Diviner)
-aliases: ["See Invisibility"]
 ---
 # See Invisibility
 *2nd-level, Divination*  

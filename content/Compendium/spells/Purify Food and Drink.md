@@ -20,7 +20,6 @@ classes:
 - Cleric
 - Druid
 - Paladin
-aliases: ["Purify Food and Drink"]
 ---
 # Purify Food and Drink
 *1st-level, Transmutation (ritual)*  

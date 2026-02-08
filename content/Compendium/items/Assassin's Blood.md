@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Assassin's Blood"
 ---
 # Assassin's Blood
 *Adventuring gear, poison (ingested)*  

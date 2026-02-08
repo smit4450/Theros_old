@@ -20,7 +20,6 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Cone of Cold"]
 ---
 # Cone of Cold
 *5th-level, Evocation*  

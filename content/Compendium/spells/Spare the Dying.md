@@ -18,7 +18,6 @@ classes:
 - Bard (College of the Moon)
 - Cleric
 - Druid
-aliases: ["Spare the Dying"]
 ---
 # Spare the Dying
 *cantrip, Necromancy*  

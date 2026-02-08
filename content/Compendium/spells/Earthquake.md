@@ -14,7 +14,6 @@ classes:
 - Cleric
 - Druid
 - Sorcerer
-aliases: ["Earthquake"]
 ---
 # Earthquake
 *8th-level, Transmutation*  

@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
-- "Dagger of Venom"
 ---
 # Dagger of Venom
 *Weapon ([[Dagger]]), rare*  

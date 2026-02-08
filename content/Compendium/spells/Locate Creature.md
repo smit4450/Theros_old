@@ -24,7 +24,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Locate Creature"]
 ---
 # Locate Creature
 *4th-level, Divination*  

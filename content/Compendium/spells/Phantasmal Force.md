@@ -26,7 +26,6 @@ classes:
 - Warlock (Great Old One Patron)
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Phantasmal Force"]
 ---
 # Phantasmal Force
 *2nd-level, Illusion*  
@@ -39,7 +38,7 @@ aliases: ["Phantasmal Force"]
 
 You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot [[Cube (Area of Effect)]] and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli.
 
-The target can take a [Study](Actions.md#Study) action to examine the phantasm with an Intelligence ([Investigation](Skills.md#Investigation)) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
+The target can take a [Study](Compendium/rules/actions.md#Study) action to examine the phantasm with an Intelligence ([Investigation](Skills.md#Investigation)) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
 
 While affected by the spell, the target treats the phantasm as if it were real and rationalizes any illogical outcomes from interacting with it. For example, if the target steps through a phantasmal bridge and survives the fall, it believes the bridge exists and something else caused it to fall.
 

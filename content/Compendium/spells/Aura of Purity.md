@@ -12,7 +12,6 @@ classes:
 - Bard
 - Cleric
 - Paladin
-aliases: ["Aura of Purity"]
 ---
 # Aura of Purity
 *4th-level, Abjuration*  

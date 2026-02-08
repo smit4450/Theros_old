@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Purple Worm Poison"
 ---
 # Purple Worm Poison
 *Adventuring gear, poison (injury)*  

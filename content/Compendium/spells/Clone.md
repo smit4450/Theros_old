@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Clone"]
 ---
 # Clone
 *8th-level, Necromancy*  

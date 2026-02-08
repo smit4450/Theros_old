@@ -22,7 +22,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Haste"]
 ---
 # Haste
 *3rd-level, Transmutation*  
@@ -33,7 +32,7 @@ aliases: ["Haste"]
 - **Components:** V, S, M (a shaving of licorice root)
 - **Duration:** Concentration, up to 1 minute
 
-Choose a willing creature that you can see within range. Until the spell ends, the target's [[Speed]] is doubled, it gains a +2 bonus to [[Armor Class]], it has [[Advantage]] on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the [Attack](Actions.md#Attack) (one attack only), [Dash](Actions.md#Dash), [Disengage](Actions.md#Disengage), [Hide](Actions.md#Hide), or [Utilize](Actions.md#Utilize) action.
+Choose a willing creature that you can see within range. Until the spell ends, the target's [[Speed]] is doubled, it gains a +2 bonus to [[Armor Class]], it has [[Advantage]] on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the [Attack](Compendium/rules/actions.md#Attack) (one attack only), [Dash](Compendium/rules/actions.md#Dash), [Disengage](Compendium/rules/actions.md#Disengage), [Hide](Compendium/rules/actions.md#Hide), or [Utilize](Compendium/rules/actions.md#Utilize) action.
 
 When the spell ends, the target is [Incapacitated](Conditions.md#Incapacitated) and has a [[Speed]] of 0 until the end of its next turn, as a wave of lethargy washes over it.
 

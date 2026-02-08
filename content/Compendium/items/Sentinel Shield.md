@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/shield/
-aliases: 
-- "Sentinel Shield"
 ---
 # Sentinel Shield
 *Armor ([[Compendium/items/Shield]]), uncommon*  

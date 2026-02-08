@@ -162,7 +162,7 @@ Roll four d6s and record the total of the highest three dice. Do this five more 
 
 You have 27 points to spend on your ability scores. The cost of each score is shown on the Ability Score Point Costs table. For example, a score of 14 costs 7 of your 27 points.
 
-![[ability-score-point-costs-xphb]]
+![[Ability Score Point Costs]]
 
 #### Assign Ability Scores
 
@@ -282,7 +282,7 @@ Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or b
 
 Alignment can shape a character's personality, goals, and core beliefs. Looking at the two elements of an alignment, you can use the lists below to inspire details of your character's personality.
 
-![[alignment-and-personality-personality-traits-by-alignment-xphb]]
+![[Alignment and Personality; Personality Traits by Alignment]]
 
 ### Step 5: Fill In Details
 
@@ -388,7 +388,7 @@ When you gain a level, follow these steps:
 - **Choose a Class.** Most characters advance in the same class. However, you might decide to gain a level in another class using the rules in the ""Multiclassing"" section later in this chapter.  
 - **Adjust Hit Points and Hit Point Dice.** Each time you gain a level, you gain an additional Hit Die. Roll that die, add your Constitution modifier to the roll, and add the total (minimum of 1) to your Hit Point maximum. Instead of rolling, you can use the fixed value shown in the Fixed Hit Points by Class table.  
 
-    ![[adjust-hit-points-and-hit-point-dice-fixed-hit-points-by-class-xphb]]  
+    ![[Adjust Hit Points and Hit Point Dice; Fixed Hit Points by Class]]  
 - **Record New Class Features.** Look at your class features table in "chapter 3" and note the features you gain at your new level in that class. Make any choices offered by a new feature.  
 - **Adjust Proficiency Bonus.** A character's Proficiency Bonus increases at certain levels, as shown in the "Character Advancement table" and your class features table in "chapter 3"When your Proficiency Bonus increases, increase all the numbers on your character sheet that include your Proficiency Bonus.  
 - **Adjust Ability Modifiers.** If you choose a feat that increases one or more of your ability scores, your ability modifier also changes if the new score is an even number. When that happens, adjust all the numbers on your character sheet that use that ability modifier. When your Constitution modifier increases by 1, your Hit Point maximum increases by 1 for each level you have attained. For example, if a character reaches level 8 and increases their Constitution score from 17 to 18, the Constitution modifier increases to +4. The character's Hit Point maximum then increases by 8, in addition to the Hit Points gained for reaching level 8.  

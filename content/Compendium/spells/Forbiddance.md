@@ -11,7 +11,6 @@ tags:
 classes:
 - Bard
 - Cleric
-aliases: ["Forbiddance"]
 ---
 # Forbiddance
 *6th-level, Abjuration (ritual)*  

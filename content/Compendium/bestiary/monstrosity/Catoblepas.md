@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Catoblepas"]
 ---
 # Catoblepas
 *Source: Volo's Guide to Monsters p. 129, Mythic Odysseys of Theros*  

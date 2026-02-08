@@ -12,7 +12,6 @@ classes:
 - Bard
 - Paladin (Oath of Glory)
 - Wizard
-aliases: ["Yolande's Regal Presence"]
 ---
 # Yolande's Regal Presence
 *5th-level, Enchantment*  

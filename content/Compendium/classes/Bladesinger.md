@@ -80,7 +80,7 @@ You also gain proficiency in one of the following skills of your choice: [Acroba
 
 ### Extra Attack (Level 6)
 
-You can attack twice, instead of once, whenever you take the [Attack](Actions.md#Attack) action on your turn. Moreover, you can cast one of your Wizard cantrips that has a casting time of an action in place of one of those attacks.
+You can attack twice, instead of once, whenever you take the [Attack](Compendium/rules/actions.md#Attack) action on your turn. Moreover, you can cast one of your Wizard cantrips that has a casting time of an action in place of one of those attacks.
 
 ### Song of Defense (Level 10)
 

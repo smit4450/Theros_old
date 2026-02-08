@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/vehicle/ship-water
-aliases: 
-- "Galley"
 ---
 # Galley
 *Ship, vehicle (water)*  

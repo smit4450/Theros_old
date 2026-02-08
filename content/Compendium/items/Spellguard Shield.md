@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/shield/
-aliases: 
-- "Spellguard Shield"
 ---
 # Spellguard Shield
 *Armor ([[Compendium/items/Shield]]), very rare (requires attunement)*  

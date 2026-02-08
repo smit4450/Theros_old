@@ -24,7 +24,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
-aliases: ["Shatter"]
 ---
 # Shatter
 *2nd-level, Evocation*  

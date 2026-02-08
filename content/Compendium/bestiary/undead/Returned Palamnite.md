@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Returned Palamnite"]
 ---
 # Returned Palamnite
 *Source: Mythic Odysseys of Theros p. 241*  

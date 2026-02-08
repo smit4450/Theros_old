@@ -12,7 +12,6 @@ classes:
 - Bard
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Contingency"]
 ---
 # Contingency
 *6th-level, Abjuration*  

@@ -25,7 +25,6 @@ classes:
 - Paladin
 - Sorcerer (Draconic Sorcery)
 - Warlock (Fiend Patron)
-aliases: ["Command"]
 ---
 # Command
 *1st-level, Enchantment*  

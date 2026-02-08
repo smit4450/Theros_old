@@ -6,8 +6,6 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/shield/
-aliases: 
-- "Shield of Missile Attraction"
 ---
 # Shield of Missile Attraction
 *Armor ([[Compendium/items/Shield]]), cursed item, rare (requires attunement)*  

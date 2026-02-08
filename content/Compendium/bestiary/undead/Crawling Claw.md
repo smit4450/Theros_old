@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Crawling Claw"]
 ---
 # Crawling Claw
 *Source: Monster Manual (2024) p. 83*  

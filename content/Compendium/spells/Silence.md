@@ -15,7 +15,6 @@ classes:
 - Bard (College of Lore)
 - Cleric
 - Ranger
-aliases: ["Silence"]
 ---
 # Silence
 *2nd-level, Illusion (ritual)*  

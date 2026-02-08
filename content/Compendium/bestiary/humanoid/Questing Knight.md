@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Questing Knight"]
 ---
 # Questing Knight
 *Source: Monster Manual (2024) p. 184*  

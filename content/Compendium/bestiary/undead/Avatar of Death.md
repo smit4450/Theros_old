@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Avatar of Death"]
 ---
 # Avatar of Death
 *Source: Dungeon Master's Guide (2024) p. 252*  

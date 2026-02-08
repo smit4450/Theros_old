@@ -25,7 +25,6 @@ classes:
 - Sorcerer (Draconic Sorcery)
 - Wizard
 - Wizard (Evoker)
-aliases: ["Chromatic Orb"]
 ---
 # Chromatic Orb
 *1st-level, Evocation*  

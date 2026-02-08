@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/artifact
-aliases: 
-- "Book of Vile Darkness"
 ---
 # Book of Vile Darkness
 *Wondrous item, artifact (requires attunement)*  
@@ -64,7 +62,7 @@ At the DM's discretion, the book might reveal secrets no mortal should know, suc
 
 ## Vile Speech
 
-While the book is on your person, you can take a [Magic](Actions.md#Magic) action to recite words from its pages in a foul, dead language. Each time you do so, you take `1d12` Psychic damage, and each creature within 15 feet of you takes `3d6` Psychic damage unless the creature is a Fiend or an Undead.
+While the book is on your person, you can take a [Magic](Compendium/rules/actions.md#Magic) action to recite words from its pages in a foul, dead language. Each time you do so, you take `1d12` Psychic damage, and each creature within 15 feet of you takes `3d6` Psychic damage unless the creature is a Fiend or an Undead.
 
 ## Destroying the Book
 

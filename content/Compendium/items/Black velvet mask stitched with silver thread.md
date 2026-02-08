@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Black velvet mask stitched with silver thread"
 ---
 # Black velvet mask stitched with silver thread
 *Treasure (art object)*  

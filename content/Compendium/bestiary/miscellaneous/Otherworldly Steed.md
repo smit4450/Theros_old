@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/
 statblock: inline
-aliases: ["Otherworldly Steed"]
 ---
 # Otherworldly Steed
 *Source: Player's Handbook (2024) p. 273*  

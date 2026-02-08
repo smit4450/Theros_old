@@ -23,7 +23,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
-aliases: ["Witch Bolt"]
 ---
 # Witch Bolt
 *1st-level, Evocation*  

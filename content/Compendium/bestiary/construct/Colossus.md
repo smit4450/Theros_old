@@ -8,7 +8,6 @@ tags:
 - ttrpg-cli/monster/size/gargantuan
 - ttrpg-cli/monster/type/construct/titan
 statblock: inline
-aliases: ["Colossus"]
 ---
 # Colossus
 *Source: Monster Manual (2024) p. 76*  

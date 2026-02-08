@@ -10,7 +10,6 @@ tags:
 classes:
 - Bard
 - Paladin (Oath of Glory)
-aliases: ["Compulsion"]
 ---
 # Compulsion
 *4th-level, Enchantment*  

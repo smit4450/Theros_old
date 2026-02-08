@@ -7,8 +7,6 @@ tags:
 - ttrpg-cli/deity/theros
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/nature
-aliases: 
-- Karametra
 ---
 # Karametra
 *Source: Mythic Odysseys of Theros p. 52* 

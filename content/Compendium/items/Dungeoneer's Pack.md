@@ -5,8 +5,6 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
-- "Dungeoneer's Pack"
 ---
 # Dungeoneer's Pack
 *Adventuring gear*  

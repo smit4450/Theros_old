@@ -14,7 +14,6 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
-aliases: ["Forcecage"]
 ---
 # Forcecage
 *7th-level, Evocation*  

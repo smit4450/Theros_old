@@ -7,7 +7,6 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Anvilwrought Raptor"]
 ---
 # Anvilwrought Raptor
 *Source: Mythic Odysseys of Theros p. 209*  

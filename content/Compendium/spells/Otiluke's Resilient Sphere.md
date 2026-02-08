@@ -16,7 +16,6 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Otiluke's Resilient Sphere"]
 ---
 # Otiluke's Resilient Sphere
 *4th-level, Abjuration*  
